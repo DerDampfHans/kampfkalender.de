@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gemmaf-2021-09-25",
+    "promotion": "GEMMAF",
+    "sports": [
+      "MMA"
+    ],
+    "links": [
+      "https://gemmaf.de/events/deutsche-meisterschaften-2021/"
+    ],
+    "mainCard": {
+      "title": "GEMMAF: Deutsche Meisterschaften 2021",
+      "time": "2021-09-25T10:00:00Z",
+      "until": "2021-09-25T18:00:00Z",
+      "tags": [
+        "#GEMMAFDM2021"
+      ],
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=FqJju3A-d5g",
+          "free": true
+        }
+      }
+    }
+  },
+  {
+    "id": "gemmaf-2021-07-17",
+    "promotion": "GEMMAF",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "GEMMAF: Mitteldeutsche Meisterschaften 2021",
+      "time": "2021-07-17T09:30:00Z",
+      "until": "2021-07-17T17:00:00Z",
+      "tags": [
+        "#MDM2021"
+      ],
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=h08MhjWPuv8",
+          "free": true
+        }
+      }
+    }
+  }
+]
