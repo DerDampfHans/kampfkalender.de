@@ -17,6 +17,9 @@
     "time": "2021-03-05T02:00:00Z",
     "until": "2021-03-05T05:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/77315-bare-knuckle-kingdom-2"
     ],
@@ -39,8 +42,8 @@
     }
   },
   {
-    "id": "boxen-vera-vs-pendarvis",
-    "title": "Boxen: Vera vs. Pendarvis",
+    "id": "vera-vs-pendarvis",
+    "title": "Vera vs. Pendarvis",
     "time": "2021-03-05T03:00:00Z",
     "until": "2021-03-05T06:00:00Z",
     "promotion": "RJJ_BOXING",
@@ -303,6 +306,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -540,8 +545,8 @@
     }
   },
   {
-    "id": "boxen-rungvisai-vs-sithmorseng",
-    "title": "Boxen: Rungvisai vs. Sithmorseng",
+    "id": "rungvisai-vs-sithmorseng",
+    "title": "Rungvisai vs. Sithmorseng",
     "time": "2021-03-13T02:30:00Z",
     "until": "2021-03-13T05:30:00Z",
     "promotion": "WP_BOXING",
@@ -636,8 +641,8 @@
     }
   },
   {
-    "id": "boxen-estrada-vs-chocolatito-2",
-    "title": "Boxen: Estrada vs. Chocolatito 2",
+    "id": "estrada-vs-chocolatito-2",
+    "title": "Estrada vs. Chocolatito 2",
     "time": "2021-03-14T01:00:00Z",
     "until": "2021-03-14T04:00:00Z",
     "promotion": "MB_BOXING",
@@ -696,6 +701,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -956,6 +963,9 @@
     "time": "2021-03-20T01:00:00Z",
     "until": "2021-03-20T04:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://xyzsports.tv/watch/252",
       "https://www.tapology.com/fightcenter/events/77091-bkfc-16-garcia-vs-elmore"
@@ -1139,33 +1149,6 @@
     }
   },
   {
-    "id": "boxen-okolie-vs-glowacki",
-    "title": "Boxen: Okolie vs. Glowacki",
-    "time": "2021-03-20T19:00:00Z",
-    "until": "2021-03-20T22:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/76091-okolie-vs-glowacki",
-      "http://www.boxrec.com/en/event/825662"
-    ],
-    "card": [
-      "Main Event: Lawrence Okolie vs. Krzysztof Glowacki",
-      "Main Card: Joe Cordina vs. Faroukh Kourbanov",
-      "Main Card: Anthony Fowler vs. Jorge Fortea",
-      "Main Card: Chris Billam-Smith vs. Vasil Ducár",
-      "Main Card: Bradley Rea vs. Lee Cutler",
-      "Main Card: Ellie Scotney vs. Mailys Gangloff",
-      "Main Card: Ramla Ali vs. Bec Connolly"
-    ],
-    "broadcasters": {
-      "DAZN": {
-      }
-    }
-  },
-  {
     "id": "ksw-59-fight-code",
     "title": "KSW 59: Fight Code",
     "time": "2021-03-20T19:00:00Z",
@@ -1192,6 +1175,33 @@
     ],
     "broadcasters": {
       "KSW_TV": {
+      }
+    }
+  },
+  {
+    "id": "okolie-vs-glowacki",
+    "title": "Okolie vs. Glowacki",
+    "time": "2021-03-20T19:00:00Z",
+    "until": "2021-03-20T22:00:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/76091-okolie-vs-glowacki",
+      "http://www.boxrec.com/en/event/825662"
+    ],
+    "card": [
+      "Main Event: Lawrence Okolie vs. Krzysztof Glowacki",
+      "Main Card: Joe Cordina vs. Faroukh Kourbanov",
+      "Main Card: Anthony Fowler vs. Jorge Fortea",
+      "Main Card: Chris Billam-Smith vs. Vasil Ducár",
+      "Main Card: Bradley Rea vs. Lee Cutler",
+      "Main Card: Ellie Scotney vs. Mailys Gangloff",
+      "Main Card: Ramla Ali vs. Bec Connolly"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },
@@ -1260,8 +1270,8 @@
     }
   },
   {
-    "id": "boxen-ortiz-jr-vs-hooker",
-    "title": "Boxen: Ortiz Jr. vs. Hooker",
+    "id": "ortiz-jr-vs-hooker",
+    "title": "Ortiz Jr. vs. Hooker",
     "time": "2021-03-21T01:00:00Z",
     "until": "2021-03-21T04:00:00Z",
     "promotion": "GBP_BOXING",
@@ -1318,6 +1328,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1401,8 +1413,8 @@
     }
   },
   {
-    "id": "boxen-serrano-vs-bermudez",
-    "title": "Boxen: Serrano vs. Bermudez",
+    "id": "serrano-vs-bermudez",
+    "title": "Serrano vs. Bermudez",
     "time": "2021-03-26T01:00:00Z",
     "until": "2021-03-26T04:00:00Z",
     "promotion": "DBE_BOXING",
@@ -1504,8 +1516,8 @@
     }
   },
   {
-    "id": "boxen-povetkin-vs-whyte-2",
-    "title": "Boxen: Povetkin vs. Whyte 2",
+    "id": "povetkin-vs-whyte-2",
+    "title": "Povetkin vs. Whyte 2",
     "time": "2021-03-27T18:00:00Z",
     "until": "2021-03-27T21:00:00Z",
     "promotion": "MB_BOXING",
@@ -1536,7 +1548,10 @@
     "title": "BKB Lockdown 2",
     "time": "2021-03-27T21:00:00Z",
     "until": "2021-03-28T00:00:00Z",
-    "promotion": "_OTHER",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://fighting.de/?dt_portfolio=bkb-bareknuckle-boxing"
     ],
@@ -1660,6 +1675,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },

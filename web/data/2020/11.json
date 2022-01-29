@@ -1,7 +1,7 @@
 [
   {
-    "id": "boxen-davis-vs-santa-cruz",
-    "title": "Boxen: Davis vs. Santa Cruz",
+    "id": "davis-vs-santa-cruz",
+    "title": "Davis vs. Santa Cruz",
     "time": "2020-11-01T01:00:00Z",
     "until": "2020-11-01T04:00:00Z",
     "promotion": "MP_BOXING",
@@ -238,8 +238,8 @@
     }
   },
   {
-    "id": "boxen-haney-vs-gamboa",
-    "title": "Boxen: Haney vs. Gamboa",
+    "id": "haney-vs-gamboa",
+    "title": "Haney vs. Gamboa",
     "time": "2020-11-08T01:00:00Z",
     "until": "2020-11-08T04:00:00Z",
     "promotion": "MB_BOXING",
@@ -296,6 +296,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -433,32 +435,6 @@
     }
   },
   {
-    "id": "boxen-taylor-vs-gutierrez",
-    "title": "Boxen: Taylor vs. Gutierrez",
-    "time": "2020-11-14T19:00:00Z",
-    "until": "2020-11-14T22:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/72828-taylor-vs-gutierrez",
-      "http://www.boxrec.com/en/event/818305"
-    ],
-    "card": [
-      "Main Event: Katie Taylor vs. Miriam Gutierrez",
-      "Co-Main Event: Terri Harper vs. Katharina Thanderz",
-      "Main Card: Jack Cullen vs. John Docherty",
-      "Main Card: Rachel Ball vs. Jorgelina Guanini",
-      "Prelim: Thomas Whittaker Hart vs. Jermaine Springer",
-      "Prelim: Kash Farooq vs. Angel Aviles"
-    ],
-    "broadcasters": {
-      "DAZN": {
-      }
-    }
-  },
-  {
     "id": "ksw-56-polska-vs-chorwacja",
     "title": "KSW 56: Polska vs. Chorwacja",
     "time": "2020-11-14T19:00:00Z",
@@ -484,6 +460,32 @@
     ],
     "broadcasters": {
       "KSW_TV": {
+      }
+    }
+  },
+  {
+    "id": "taylor-vs-gutierrez",
+    "title": "Taylor vs. Gutierrez",
+    "time": "2020-11-14T19:00:00Z",
+    "until": "2020-11-14T22:00:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/72828-taylor-vs-gutierrez",
+      "http://www.boxrec.com/en/event/818305"
+    ],
+    "card": [
+      "Main Event: Katie Taylor vs. Miriam Gutierrez",
+      "Co-Main Event: Terri Harper vs. Katharina Thanderz",
+      "Main Card: Jack Cullen vs. John Docherty",
+      "Main Card: Rachel Ball vs. Jorgelina Guanini",
+      "Prelim: Thomas Whittaker Hart vs. Jermaine Springer",
+      "Prelim: Kash Farooq vs. Angel Aviles"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },
@@ -552,6 +554,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -778,8 +782,8 @@
     }
   },
   {
-    "id": "boxen-barajas-vs-lopez",
-    "title": "Boxen: Barajas vs. Lopez",
+    "id": "barajas-vs-lopez",
+    "title": "Barajas vs. Lopez",
     "time": "2020-11-20T03:00:00Z",
     "until": "2020-11-20T06:00:00Z",
     "promotion": "RJJ_BOXING",
@@ -980,8 +984,8 @@
     }
   },
   {
-    "id": "boxen-benn-vs-formella",
-    "title": "Boxen: Benn vs. Formella",
+    "id": "benn-vs-formella",
+    "title": "Benn vs. Formella",
     "time": "2020-11-21T19:00:00Z",
     "until": "2020-11-21T22:00:00Z",
     "promotion": "MB_BOXING",
@@ -1112,6 +1116,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1187,8 +1193,8 @@
     }
   },
   {
-    "id": "boxen-jacobs-vs-rosado",
-    "title": "Boxen: Jacobs vs. Rosado",
+    "id": "jacobs-vs-rosado",
+    "title": "Jacobs vs. Rosado",
     "time": "2020-11-28T01:00:00Z",
     "until": "2020-11-28T04:00:00Z",
     "promotion": "MB_BOXING",
@@ -1247,8 +1253,8 @@
     }
   },
   {
-    "id": "boxen-tyson-vs-jones-jr",
-    "title": "Boxen: Tyson vs. Jones Jr",
+    "id": "tyson-vs-jones-jr",
+    "title": "Tyson vs. Jones Jr",
     "time": "2020-11-29T02:00:00Z",
     "until": "2020-11-29T05:00:00Z",
     "promotion": "LOL_BOXING",
@@ -1305,6 +1311,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },

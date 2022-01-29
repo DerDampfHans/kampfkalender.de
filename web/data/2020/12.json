@@ -29,8 +29,8 @@
     }
   },
   {
-    "id": "boxen-saunders-vs-murray",
-    "title": "Boxen: Saunders vs. Murray",
+    "id": "saunders-vs-murray",
+    "title": "Saunders vs. Murray",
     "time": "2020-12-04T19:00:00Z",
     "until": "2020-12-04T22:00:00Z",
     "promotion": "MB_BOXING",
@@ -146,6 +146,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -163,8 +165,8 @@
     }
   },
   {
-    "id": "boxen-martinez-vs-gonzalez",
-    "title": "Boxen: Martinez vs. Gonzalez",
+    "id": "martinez-vs-gonzalez",
+    "title": "Martinez vs. Gonzalez",
     "time": "2020-12-10T03:00:00Z",
     "until": "2020-12-10T06:00:00Z",
     "promotion": "RJJ_BOXING",
@@ -308,8 +310,8 @@
     }
   },
   {
-    "id": "boxen-dominguez-vs-lara",
-    "title": "Boxen: Dominguez vs. Lara",
+    "id": "dominguez-vs-lara",
+    "title": "Dominguez vs. Lara",
     "time": "2020-12-11T03:00:00Z",
     "until": "2020-12-11T06:00:00Z",
     "promotion": "RJJ_BOXING",
@@ -516,33 +518,6 @@
     }
   },
   {
-    "id": "boxen-joshua-vs-pulev",
-    "title": "Boxen: Joshua vs. Pulev",
-    "time": "2020-12-12T18:00:00Z",
-    "until": "2020-12-12T21:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/72232-joshua-vs-pulev",
-      "http://www.boxrec.com/en/event/814873"
-    ],
-    "card": [
-      "Main Event: Anthony Joshua vs. Kubrat Pulev",
-      "Co-Main Event: Lawrence Okolie vs. Nikodem Jezewski",
-      "Main Card: Hughie Fury vs. Mariusz Wach",
-      "Main Card: Martin Bakole vs. Sergey Kuzmin",
-      "Main Card: Kieron Conway vs. Macaulay McGowan",
-      "Main Card: Jamie Stewart vs. Florian Marku",
-      "Prelim: Qais Ashfaq vs. Ashley Lane"
-    ],
-    "broadcasters": {
-      "DAZN": {
-      }
-    }
-  },
-  {
     "id": "cage-warriors-119-prelims",
     "title": "Cage Warriors 119: Prelims",
     "time": "2020-12-12T18:00:00Z",
@@ -567,6 +542,33 @@
     ],
     "broadcasters": {
       "UFC_FIGHT_PASS": {
+      }
+    }
+  },
+  {
+    "id": "joshua-vs-pulev",
+    "title": "Joshua vs. Pulev",
+    "time": "2020-12-12T18:00:00Z",
+    "until": "2020-12-12T21:00:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/72232-joshua-vs-pulev",
+      "http://www.boxrec.com/en/event/814873"
+    ],
+    "card": [
+      "Main Event: Anthony Joshua vs. Kubrat Pulev",
+      "Co-Main Event: Lawrence Okolie vs. Nikodem Jezewski",
+      "Main Card: Hughie Fury vs. Mariusz Wach",
+      "Main Card: Martin Bakole vs. Sergey Kuzmin",
+      "Main Card: Kieron Conway vs. Macaulay McGowan",
+      "Main Card: Jamie Stewart vs. Florian Marku",
+      "Prelim: Qais Ashfaq vs. Ashley Lane"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },
@@ -767,6 +769,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -784,8 +788,8 @@
     }
   },
   {
-    "id": "boxen-patera-vs-boschiero",
-    "title": "Boxen: Patera vs. Boschiero",
+    "id": "patera-vs-boschiero",
+    "title": "Patera vs. Boschiero",
     "time": "2020-12-17T18:30:00Z",
     "until": "2020-12-17T21:30:00Z",
     "promotion": "MB_BOXING",
@@ -885,8 +889,8 @@
     }
   },
   {
-    "id": "boxen-ggg-vs-szeremeta",
-    "title": "Boxen: GGG vs. Szeremeta",
+    "id": "ggg-vs-szeremeta",
+    "title": "GGG vs. Szeremeta",
     "time": "2020-12-18T22:00:00Z",
     "until": "2020-12-19T01:00:00Z",
     "promotion": "MB_BOXING",
@@ -938,8 +942,8 @@
     }
   },
   {
-    "id": "boxen-lerena-vs-ferguson",
-    "title": "Boxen: Lerena vs. Ferguson",
+    "id": "lerena-vs-ferguson",
+    "title": "Lerena vs. Ferguson",
     "time": "2020-12-19T17:15:00Z",
     "until": "2020-12-19T20:15:00Z",
     "promotion": "GG_BOXING",
@@ -1124,12 +1128,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-canelo-vs-smith",
-    "title": "Boxen: Canelo vs. Smith",
+    "id": "canelo-vs-smith",
+    "title": "Canelo vs. Smith",
     "time": "2020-12-20T01:00:00Z",
     "until": "2020-12-20T04:00:00Z",
     "promotion": "MB_BOXING",

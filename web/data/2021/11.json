@@ -27,8 +27,8 @@
     }
   },
   {
-    "id": "boxen-deutsche-meisterschaft-2021-u22-tag-1-",
-    "title": "Boxen: Deutsche Meisterschaft 2021 U22 (Tag 1)",
+    "id": "deutsche-meisterschaft-2021-u22-tag-1-",
+    "title": "Deutsche Meisterschaft 2021 U22 (Tag 1)",
     "time": "2021-11-03T12:00:00Z",
     "until": "2021-11-03T20:00:00Z",
     "promotion": "_OTHER",
@@ -42,8 +42,8 @@
     }
   },
   {
-    "id": "boxen-deutsche-meisterschaft-2021-u22-tag-2-",
-    "title": "Boxen: Deutsche Meisterschaft 2021 U22 (Tag 2)",
+    "id": "deutsche-meisterschaft-2021-u22-tag-2-",
+    "title": "Deutsche Meisterschaft 2021 U22 (Tag 2)",
     "time": "2021-11-04T10:00:00Z",
     "until": "2021-11-04T20:00:00Z",
     "promotion": "_OTHER",
@@ -94,8 +94,8 @@
     }
   },
   {
-    "id": "boxen-deutsche-meisterschaft-2021-u18-halbfinale-",
-    "title": "Boxen: Deutsche Meisterschaft 2021 U18 (Halbfinale)",
+    "id": "deutsche-meisterschaft-2021-u18-halbfinale-",
+    "title": "Deutsche Meisterschaft 2021 U18 (Halbfinale)",
     "time": "2021-11-05T14:00:00Z",
     "until": "2021-11-05T17:00:00Z",
     "promotion": "_OTHER",
@@ -146,8 +146,8 @@
     }
   },
   {
-    "id": "boxen-signani-vs-diaz",
-    "title": "Boxen: Signani vs. Diaz",
+    "id": "signani-vs-diaz",
+    "title": "Signani vs. Diaz",
     "time": "2021-11-05T18:00:00Z",
     "until": "2021-11-05T21:00:00Z",
     "promotion": "MB_BOXING",
@@ -272,8 +272,8 @@
     }
   },
   {
-    "id": "boxen-deutsche-meisterschaft-2021-u18-finale-",
-    "title": "Boxen: Deutsche Meisterschaft 2021 U18 (Finale)",
+    "id": "deutsche-meisterschaft-2021-u18-finale-",
+    "title": "Deutsche Meisterschaft 2021 U18 (Finale)",
     "time": "2021-11-06T12:00:00Z",
     "until": "2021-11-06T15:00:00Z",
     "promotion": "_OTHER",
@@ -432,6 +432,9 @@
     "time": "2021-11-06T23:00:00Z",
     "until": "2021-11-07T00:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/83099-bkfc-fight-night-new-york"
     ],
@@ -458,6 +461,9 @@
     "time": "2021-11-07T00:00:00Z",
     "until": "2021-11-07T03:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/83099-bkfc-fight-night-new-york"
     ],
@@ -517,8 +523,8 @@
     }
   },
   {
-    "id": "boxen-canelo-vs-plant",
-    "title": "Boxen: Canelo vs. Plant",
+    "id": "canelo-vs-plant",
+    "title": "Canelo vs. Plant",
     "time": "2021-11-07T01:00:00Z",
     "until": "2021-11-07T04:00:00Z",
     "promotion": "CP_BOXING",
@@ -582,6 +588,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -729,6 +737,9 @@
     "time": "2021-11-13T01:00:00Z",
     "until": "2021-11-13T02:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/81941-bkfc-22"
     ],
@@ -758,6 +769,9 @@
     "time": "2021-11-13T02:00:00Z",
     "until": "2021-11-13T05:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/81941-bkfc-22"
     ],
@@ -922,7 +936,8 @@
     "links": [
       "https://www.fightevents.de/event/vendetta-23/",
       "https://www.fight24.tv/fightpasses/fight24-vendetta-23-389",
-      "https://www.tapology.com/fightcenter/events/84048-vendetta-23"
+      "https://www.tapology.com/fightcenter/events/84048-vendetta-23",
+      "http://www.sherdog.com/events/iron-fist-gym-vienna-vendetta-23-91486"
     ],
     "card": [
       "Main Card: Patrick Spirk vs. Darko Knežević",
@@ -1006,8 +1021,8 @@
     }
   },
   {
-    "id": "boxen-kid-vs-kiko",
-    "title": "Boxen: Kid vs. Kiko",
+    "id": "kid-vs-kiko",
+    "title": "Kid vs. Kiko",
     "time": "2021-11-13T19:00:00Z",
     "until": "2021-11-13T22:00:00Z",
     "promotion": "MB_BOXING",
@@ -1035,8 +1050,8 @@
     }
   },
   {
-    "id": "boxen-legacy-fight-night",
-    "title": "Boxen: Legacy Fight Night",
+    "id": "legacy-fight-night",
+    "title": "Legacy Fight Night",
     "time": "2021-11-13T19:00:00Z",
     "until": "2021-11-13T22:00:00Z",
     "promotion": "LSM_BOXING",
@@ -1094,12 +1109,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-munguia-vs-rosado",
-    "title": "Boxen: Munguia vs. Rosado",
+    "id": "munguia-vs-rosado",
+    "title": "Munguia vs. Rosado",
     "time": "2021-11-14T02:00:00Z",
     "until": "2021-11-14T05:00:00Z",
     "promotion": "GBP_BOXING",
@@ -1212,8 +1229,8 @@
     }
   },
   {
-    "id": "boxen-andrade-vs-quigley",
-    "title": "Boxen: Andrade vs. Quigley",
+    "id": "andrade-vs-quigley",
+    "title": "Andrade vs. Quigley",
     "time": "2021-11-20T01:00:00Z",
     "until": "2021-11-20T04:00:00Z",
     "promotion": "MB_BOXING",
@@ -1442,8 +1459,8 @@
     }
   },
   {
-    "id": "boxen-cukur-vs-hache",
-    "title": "Boxen: Cukur vs. Hache",
+    "id": "cukur-vs-hache",
+    "title": "Cukur vs. Hache",
     "time": "2021-11-20T17:00:00Z",
     "until": "2021-11-20T21:00:00Z",
     "promotion": "EC_BOXING",
@@ -1474,8 +1491,8 @@
     }
   },
   {
-    "id": "boxen-fight-night-heilbronn",
-    "title": "Boxen: Fight Night Heilbronn",
+    "id": "fight-night-heilbronn",
+    "title": "Fight Night Heilbronn",
     "time": "2021-11-20T17:00:00Z",
     "until": "2021-11-20T21:00:00Z",
     "promotion": "TSSM_BOXING",
@@ -1508,7 +1525,10 @@
     "title": "BKB 23: Lerwell vs. Holmes",
     "time": "2021-11-20T19:00:00Z",
     "until": "2021-11-20T22:00:00Z",
-    "promotion": "_OTHER",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.fight24.tv/fightpasses/fight24-bkb-23-399",
       "https://www.fightevents.de/event/bkb-23-lerwell-vs-holmes/",
@@ -1521,8 +1541,8 @@
     }
   },
   {
-    "id": "boxen-boxing-after-dark",
-    "title": "Boxen: Boxing After Dark",
+    "id": "boxing-after-dark",
+    "title": "Boxing After Dark",
     "time": "2021-11-20T19:00:00Z",
     "until": "2021-11-20T21:30:00Z",
     "promotion": "_OTHER",
@@ -1605,12 +1625,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-crawford-vs-porter",
-    "title": "Boxen: Crawford vs. Porter",
+    "id": "crawford-vs-porter",
+    "title": "Crawford vs. Porter",
     "time": "2021-11-21T03:00:00Z",
     "until": "2021-11-21T06:00:00Z",
     "promotion": "TR_BOXING",
@@ -1716,8 +1738,8 @@
     }
   },
   {
-    "id": "boxen-cruz-vs-esquivel",
-    "title": "Boxen: Cruz vs. Esquivel",
+    "id": "cruz-vs-esquivel",
+    "title": "Cruz vs. Esquivel",
     "time": "2021-11-27T01:00:00Z",
     "until": "2021-11-27T04:00:00Z",
     "promotion": "CP_BOXING",
@@ -1883,8 +1905,8 @@
     }
   },
   {
-    "id": "boxen-lopez-vs-kambosos-jr-",
-    "title": "Boxen: Lopez vs. Kambosos Jr.",
+    "id": "lopez-vs-kambosos-jr-",
+    "title": "Lopez vs. Kambosos Jr.",
     "time": "2021-11-28T01:00:00Z",
     "until": "2021-11-28T04:00:00Z",
     "promotion": "MB_BOXING",

@@ -32,6 +32,9 @@
     "time": "2021-02-06T01:00:00Z",
     "until": "2021-02-06T02:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://xyzsports.tv/watch/157",
       "https://www.tapology.com/fightcenter/events/75452-bkfc-knuckle-mania"
@@ -62,6 +65,9 @@
     "time": "2021-02-06T02:00:00Z",
     "until": "2021-02-06T05:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://xyzsports.tv/watch/157",
       "https://www.tapology.com/fightcenter/events/75452-bkfc-knuckle-mania"
@@ -197,12 +203,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-trout-vs-garcia",
-    "title": "Boxen: Trout vs. Garcia",
+    "id": "trout-vs-garcia",
+    "title": "Trout vs. Garcia",
     "time": "2021-02-07T03:00:00Z",
     "until": "2021-02-07T06:00:00Z",
     "promotion": "PP_BOXING",
@@ -334,8 +342,8 @@
     }
   },
   {
-    "id": "boxen-warrington-vs-lara",
-    "title": "Boxen: Warrington vs. Lara",
+    "id": "warrington-vs-lara",
+    "title": "Warrington vs. Lara",
     "time": "2021-02-13T19:00:00Z",
     "until": "2021-02-13T22:00:00Z",
     "promotion": "MB_BOXING",
@@ -395,8 +403,8 @@
     }
   },
   {
-    "id": "boxen-diaz-vs-rakhimov",
-    "title": "Boxen: Diaz vs. Rakhimov",
+    "id": "diaz-vs-rakhimov",
+    "title": "Diaz vs. Rakhimov",
     "time": "2021-02-14T01:00:00Z",
     "until": "2021-02-14T04:00:00Z",
     "promotion": "GBP_BOXING",
@@ -489,6 +497,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -592,8 +602,8 @@
     }
   },
   {
-    "id": "boxen-avanesyan-vs-kelly",
-    "title": "Boxen: Avanesyan vs. Kelly",
+    "id": "avanesyan-vs-kelly",
+    "title": "Avanesyan vs. Kelly",
     "time": "2021-02-20T19:00:00Z",
     "until": "2021-02-20T22:00:00Z",
     "promotion": "MB_BOXING",
@@ -687,12 +697,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-berchelt-vs-valdez",
-    "title": "Boxen: Berchelt vs. Valdez",
+    "id": "berchelt-vs-valdez",
+    "title": "Berchelt vs. Valdez",
     "time": "2021-02-21T03:00:00Z",
     "until": "2021-02-21T06:00:00Z",
     "promotion": "TR_BOXING",
@@ -760,8 +772,8 @@
     }
   },
   {
-    "id": "boxen-scardina-vs-nunez",
-    "title": "Boxen: Scardina vs. Nunez",
+    "id": "scardina-vs-nunez",
+    "title": "Scardina vs. Nunez",
     "time": "2021-02-26T18:30:00Z",
     "until": "2021-02-26T21:30:00Z",
     "promotion": "MB_BOXING",
@@ -834,8 +846,8 @@
     }
   },
   {
-    "id": "boxen-fa-vs-parker",
-    "title": "Boxen: Fa vs. Parker",
+    "id": "fa-vs-parker",
+    "title": "Fa vs. Parker",
     "time": "2021-02-27T06:30:00Z",
     "until": "2021-02-27T09:30:00Z",
     "promotion": "MB_BOXING",
@@ -929,8 +941,8 @@
     }
   },
   {
-    "id": "boxen-canelo-vs-yildrim",
-    "title": "Boxen: Canelo vs. Yildrim",
+    "id": "canelo-vs-yildrim",
+    "title": "Canelo vs. Yildrim",
     "time": "2021-02-28T00:00:00Z",
     "until": "2021-02-28T03:00:00Z",
     "promotion": "CP_BOXING",
@@ -987,6 +999,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },

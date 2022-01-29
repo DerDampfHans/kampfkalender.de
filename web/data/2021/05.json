@@ -91,8 +91,8 @@
     }
   },
   {
-    "id": "boxen-marriaga-vs-garcia",
-    "title": "Boxen: Marriaga vs. Garcia",
+    "id": "marriaga-vs-garcia",
+    "title": "Marriaga vs. Garcia",
     "time": "2021-05-01T02:00:00Z",
     "until": "2021-05-01T05:00:00Z",
     "promotion": "PD_BOXING",
@@ -118,8 +118,8 @@
     }
   },
   {
-    "id": "boxen-chisora-vs-parker",
-    "title": "Boxen: Chisora vs. Parker",
+    "id": "chisora-vs-parker",
+    "title": "Chisora vs. Parker",
     "time": "2021-05-01T17:00:00Z",
     "until": "2021-05-01T20:00:00Z",
     "promotion": "MB_BOXING",
@@ -182,8 +182,8 @@
     }
   },
   {
-    "id": "boxen-ruiz-vs-arreola",
-    "title": "Boxen: Ruiz vs. Arreola",
+    "id": "ruiz-vs-arreola",
+    "title": "Ruiz vs. Arreola",
     "time": "2021-05-02T01:00:00Z",
     "until": "2021-05-02T04:00:00Z",
     "promotion": "TGB_BOXING",
@@ -245,6 +245,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -458,8 +460,8 @@
     }
   },
   {
-    "id": "boxen-canelo-vs-saunders",
-    "title": "Boxen: Canelo vs. Saunders",
+    "id": "canelo-vs-saunders",
+    "title": "Canelo vs. Saunders",
     "time": "2021-05-09T00:00:00Z",
     "until": "2021-05-09T03:00:00Z",
     "promotion": "CP_BOXING",
@@ -517,6 +519,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -564,8 +568,8 @@
     }
   },
   {
-    "id": "boxen-hardy-vs-camara",
-    "title": "Boxen: Hardy vs. Camara",
+    "id": "hardy-vs-camara",
+    "title": "Hardy vs. Camara",
     "time": "2021-05-15T00:30:00Z",
     "until": "2021-05-15T03:30:00Z",
     "promotion": "DBE_BOXING",
@@ -675,8 +679,8 @@
     }
   },
   {
-    "id": "boxen-buatsi-vs-dos-santos",
-    "title": "Boxen: Buatsi vs. Dos Santos",
+    "id": "buatsi-vs-dos-santos",
+    "title": "Buatsi vs. Dos Santos",
     "time": "2021-05-15T17:00:00Z",
     "until": "2021-05-15T20:00:00Z",
     "promotion": "MB_BOXING",
@@ -821,6 +825,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1111,8 +1117,8 @@
     }
   },
   {
-    "id": "boxen-max-geier-boxnacht",
-    "title": "Boxen: Max Geier Boxnacht",
+    "id": "max-geier-boxnacht",
+    "title": "Max Geier Boxnacht",
     "time": "2021-05-22T15:00:00Z",
     "until": "2021-05-22T18:00:00Z",
     "promotion": "_OTHER",
@@ -1295,12 +1301,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-ramirez-vs-taylor",
-    "title": "Boxen: Ramirez vs. Taylor",
+    "id": "ramirez-vs-taylor",
+    "title": "Ramirez vs. Taylor",
     "time": "2021-05-23T00:30:00Z",
     "until": "2021-05-23T04:00:00Z",
     "promotion": "TR_BOXING",
@@ -1463,8 +1471,8 @@
     }
   },
   {
-    "id": "boxen-mwakinyo-vs-mayala",
-    "title": "Boxen: Mwakinyo vs. Mayala",
+    "id": "mwakinyo-vs-mayala",
+    "title": "Mwakinyo vs. Mayala",
     "time": "2021-05-28T17:00:00Z",
     "until": "2021-05-28T20:00:00Z",
     "promotion": "GBS_BOXING",
@@ -1553,8 +1561,8 @@
     }
   },
   {
-    "id": "boxen-canizales-vs-bermudez",
-    "title": "Boxen: Canizales vs. Bermudez",
+    "id": "canizales-vs-bermudez",
+    "title": "Canizales vs. Bermudez",
     "time": "2021-05-29T02:00:00Z",
     "until": "2021-05-29T05:00:00Z",
     "promotion": "PD_BOXING",
@@ -1597,34 +1605,6 @@
     }
   },
   {
-    "id": "boxen-haney-vs-linares",
-    "title": "Boxen: Haney vs. Linares",
-    "time": "2021-05-30T00:00:00Z",
-    "until": "2021-05-30T03:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/77808-haney-vs-linares",
-      "http://www.boxrec.com/en/event/831191"
-    ],
-    "card": [
-      "Main Event: Devin Haney vs. Jorge Linares",
-      "Co-Main Event: Chantelle Cameron vs. Melissa Hernandez",
-      "Main Card: Azinga Fuzile vs. Martin Joseph Ward",
-      "Main Card: Jason Quigley vs. Shane Mosley Jr.",
-      "Main Card: Khalil Coe vs. Nathaniel Tadd",
-      "Prelim: Ramla Ali vs. Mikayla Nebel",
-      "Prelim: Amari Jones vs. Jonathan Burrs II",
-      "Prelim: Reshat Mati vs. Ryan Pino"
-    ],
-    "broadcasters": {
-      "DAZN": {
-      }
-    }
-  },
-  {
     "id": "cage-fury-97-reed-vs-rose",
     "title": "Cage Fury 97: Reed vs. Rose",
     "time": "2021-05-30T00:00:00Z",
@@ -1653,6 +1633,34 @@
     ],
     "broadcasters": {
       "UFC_FIGHT_PASS": {
+      }
+    }
+  },
+  {
+    "id": "haney-vs-linares",
+    "title": "Haney vs. Linares",
+    "time": "2021-05-30T00:00:00Z",
+    "until": "2021-05-30T03:00:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/77808-haney-vs-linares",
+      "http://www.boxrec.com/en/event/831191"
+    ],
+    "card": [
+      "Main Event: Devin Haney vs. Jorge Linares",
+      "Co-Main Event: Chantelle Cameron vs. Melissa Hernandez",
+      "Main Card: Azinga Fuzile vs. Martin Joseph Ward",
+      "Main Card: Jason Quigley vs. Shane Mosley Jr.",
+      "Main Card: Khalil Coe vs. Nathaniel Tadd",
+      "Prelim: Ramla Ali vs. Mikayla Nebel",
+      "Prelim: Amari Jones vs. Jonathan Burrs II",
+      "Prelim: Reshat Mati vs. Ryan Pino"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },

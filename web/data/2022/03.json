@@ -27,23 +27,6 @@
     }
   },
   {
-    "id": "pfl-challenger-series-3",
-    "title": "PFL Challenger Series 3",
-    "time": "2022-03-04T23:00:00Z",
-    "until": "2022-03-05T02:00:00Z",
-    "promotion": "PFL",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85964-pfl-challenger-series-3"
-    ],
-    "broadcasters": {
-      "BILD_PLUS": {
-      }
-    }
-  },
-  {
     "id": "ces-66",
     "title": "CES 66",
     "time": "2022-03-05T00:00:00Z",
@@ -65,6 +48,23 @@
     ],
     "broadcasters": {
       "UFC_FIGHT_PASS": {
+      }
+    }
+  },
+  {
+    "id": "pfl-challenger-series-3",
+    "title": "PFL Challenger Series 3",
+    "time": "2022-03-05T02:00:00Z",
+    "until": "2022-03-05T05:00:00Z",
+    "promotion": "PFL",
+    "sports": [
+      "MMA"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/85964-pfl-challenger-series-3"
+    ],
+    "broadcasters": {
+      "BILD_PLUS": {
       }
     }
   },
@@ -91,24 +91,6 @@
     }
   },
   {
-    "id": "ramirez-vs-pedraza",
-    "title": "Ramirez vs. Pedraza",
-    "time": "2022-03-05T03:00:00Z",
-    "until": "2022-03-05T06:00:00Z",
-    "promotion": "TR_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/83981-ramirez-vs-pedraza",
-      "http://www.boxrec.com/en/event/844793"
-    ],
-    "card": [
-      "Main Event: Jose Ramirez (26-1-0) vs. Jose Pedraza (29-3-0)",
-      "Co-Main Event: Joet Gonzalez (24-2-0) vs. Jeo Santisima (21-3-0)"
-    ]
-  },
-  {
     "id": "venator-fc-10",
     "title": "Venator FC 10",
     "time": "2022-03-05T17:00:00Z",
@@ -119,6 +101,10 @@
     ],
     "links": [
       "https://www.tapology.com/fightcenter/events/85924-venator-fc-10"
+    ],
+    "card": [
+      "Main Event: Manolo Zecchini (9-2-0) vs. Davide Di Deo (8-3-0)",
+      "Main Card: Alessio Ibba (6-6-0) vs. Leigh Mitchell (5-3-0)"
     ],
     "broadcasters": {
       "UFC_FIGHT_PASS": {
@@ -159,28 +145,8 @@
     }
   },
   {
-    "id": "estrada-vs-chocolatito-3",
-    "title": "Estrada vs. Chocolatito 3",
-    "time": "2022-03-06T03:00:00Z",
-    "until": "2022-03-06T06:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85403-estrada-vs-chocolatito-3",
-      "http://www.boxrec.com/en/event/845225"
-    ],
-    "card": [
-      "Main Event: Roman Gonzalez (50-3-0) vs. Julio Cesar Martinez (18-1-0)",
-      "Co-Main Event: Mauricio Lara (22-2-1) vs. Emilio Sanchez (19-1-0)",
-      "Main Card: Angel Fierro (19-1-1) vs. Juan Carlos Burgos (34-6-2)",
-      "Main Card: Diego Pacheco (13-0-0) vs. Genc Pllana (9-3-1)"
-    ]
-  },
-  {
-    "id": "invicta-fc-46",
-    "title": "Invicta FC 46",
+    "id": "invicta-fc-46-rodriguez-vs-souza",
+    "title": "Invicta FC 46: Rodríguez vs. Souza",
     "time": "2022-03-10T01:00:00Z",
     "until": "2022-03-10T04:00:00Z",
     "promotion": "INVICTA",
@@ -233,7 +199,8 @@
       "https://www.tapology.com/fightcenter/events/85909-brave-cf-57"
     ],
     "card": [
-      "Main Card: Hamza Kooheji (11-2-0) vs. Brad Katona (10-2-0)"
+      "Main Card: Hamza Kooheji (11-2-0) vs. Brad Katona (10-2-0)",
+      "Main Card: Mohammad Fakhreddine (14-4-0) vs. Mohamed Said Maalem (11-3-0)"
     ],
     "broadcasters": {
       "FIGHTING_DE": {
@@ -243,10 +210,30 @@
     }
   },
   {
+    "id": "bellator-276",
+    "title": "Bellator 276",
+    "time": "2022-03-12T00:00:00Z",
+    "until": "2022-03-12T03:00:00Z",
+    "promotion": "BELLATOR",
+    "sports": [
+      "MMA"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/86354-bellator-276"
+    ],
+    "card": [
+      "Main Card: Ádám Borics (17-1-0) vs. Mads Burnell (16-3-0)"
+    ],
+    "broadcasters": {
+      "YOUTUBE": {
+      }
+    }
+  },
+  {
     "id": "pfl-challenger-series-4",
     "title": "PFL Challenger Series 4",
-    "time": "2022-03-11T23:00:00Z",
-    "until": "2022-03-12T02:00:00Z",
+    "time": "2022-03-12T02:00:00Z",
+    "until": "2022-03-12T05:00:00Z",
     "promotion": "PFL",
     "sports": [
       "MMA"
@@ -274,28 +261,8 @@
     }
   },
   {
-    "id": "wood-vs-conlan",
-    "title": "Wood vs. Conlan",
-    "time": "2022-03-12T20:00:00Z",
-    "until": "2022-03-12T23:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85344-wood-vs-conlan",
-      "http://www.boxrec.com/en/event/846071"
-    ],
-    "card": [
-      "Main Event: Leigh Wood (25-2-0) vs. Michael Conlan (16-0-0)",
-      "Main Card: Terri Harper (11-1-1) vs. Heather Hardy (22-2-0)",
-      "Main Card: Gary Cully (13-0-0) vs. Miguel Vazquez (44-10-0)",
-      "Main Card: Erica Anabella Farias (26-5-0) vs. Sandy Ryan (3-0-0)"
-    ]
-  },
-  {
-    "id": "ufc-fight-night-santos-vs-ankalaev",
-    "title": "UFC Fight Night: Santos vs. Ankalaev",
+    "id": "ufc-las-vegas-50-santos-vs-ankalaev",
+    "title": "UFC Las Vegas 50: Santos vs. Ankalaev",
     "time": "2022-03-12T23:00:00Z",
     "until": "2022-03-13T02:00:00Z",
     "promotion": "UFC",
@@ -314,11 +281,11 @@
       "Prelim: Guido Cannetti (8-6-0) vs. Kris Moutinho (9-5-0)",
       "Prelim: Trevin Jones (13-7-0) vs. Javid Basharat (11-0-0)",
       "Prelim: Cody Brundage (6-2-0) vs. Dalcha Lungiambula (11-3-0)",
-      "Prelim: Damon Jackson (19-4-1) vs. Joshua Culibao (9-1-1)",
       "Prelim: Sabina Mazo (9-3-0) vs. Mandy Böhm (7-1-0)",
       "Prelim: Tafon Nchukwi (6-1-0) vs. Azamat Murzakanov (10-0-0)",
       "Prelim: JJ Aldrich (10-4-0) vs. Ariane Lipski (14-7-0)",
-      "Prelim: Khalil Rountree (9-5-0) vs. Karl Roberson (9-4-0)"
+      "Prelim: Khalil Rountree (9-5-0) vs. Karl Roberson (9-4-0)",
+      "Prelim: Damon Jackson (19-4-1) vs. Kamuela Kirk (11-4-0)"
     ],
     "broadcasters": {
       "DAZN": {
@@ -346,24 +313,6 @@
       "FITE_TV": {
       }
     }
-  },
-  {
-    "id": "hollywood-fight-nights-st-patrick-s-day-bash",
-    "title": "Hollywood Fight Nights: St. Patrick's Day Bash",
-    "time": "2022-03-18T02:00:00Z",
-    "until": "2022-03-18T05:00:00Z",
-    "promotion": "THREE_SIXTY_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85833-hollywood-fight-nights-st-patrick-s-day-bash",
-      "http://www.boxrec.com/en/event/844764"
-    ],
-    "card": [
-      "Main Card: Marco Deckmann (7-1-0) vs. Jasper McCargo (4-2-2)",
-      "Main Card: Chelsey Anderson (4-0-0) vs. Elvina White (5-1-0)"
-    ]
   },
   {
     "id": "cage-warriors-134-vucenic-vs-hughes-2",
@@ -395,8 +344,8 @@
   {
     "id": "pfl-challenger-series-5",
     "title": "PFL Challenger Series 5",
-    "time": "2022-03-18T22:00:00Z",
-    "until": "2022-03-19T01:00:00Z",
+    "time": "2022-03-19T01:00:00Z",
+    "until": "2022-03-19T04:00:00Z",
     "promotion": "PFL",
     "sports": [
       "MMA"
@@ -457,8 +406,8 @@
     }
   },
   {
-    "id": "ufc-fight-night-volkov-vs-aspinall",
-    "title": "UFC Fight Night: Volkov vs. Aspinall",
+    "id": "ufc-london",
+    "title": "UFC London",
     "time": "2022-03-19T22:00:00Z",
     "until": "2022-03-20T01:00:00Z",
     "promotion": "UFC",
@@ -475,6 +424,7 @@
       "Main Card: Paddy Pimblett (17-3-0) vs. Rodrigo Vargas (12-4-0)",
       "Main Card: Arnold Allen (17-1-0) vs. Dan Hooker (21-11-0)",
       "Main Card: Gunnar Nelson (17-5-1) vs. Claudio Silva (14-3-0)",
+      "Main Card: Nikita Krylov (27-8-0) vs. Paul Craig (15-4-1)",
       "Prelim: Molly McCann (11-4-0) vs. Luana Carolina (8-2-0)",
       "Prelim: Muhammad Mokaev (5-0-0) vs. Cody Durden (12-3-1)",
       "Prelim: Elise Reed (4-1-0) vs. Cory McKenna (6-1-0)",
@@ -490,60 +440,10 @@
     }
   },
   {
-    "id": "berlanga-vs-rolls",
-    "title": "Berlanga vs. Rolls",
-    "time": "2022-03-20T01:00:00Z",
-    "until": "2022-03-20T04:00:00Z",
-    "promotion": "TR_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85877-berlanga-vs-rolls"
-    ],
-    "card": [
-      "Main Event: Edgar Berlanga (18-0-0) vs. Steve Rolls (21-1-0)",
-      "Main Card: Esteban Sanchez (18-1-0) vs. Keyshawn Davis (4-0-0)",
-      "Main Card: Xander Zayas (12-0-0) vs. Quincy LaVallais (12-2-1)"
-    ]
-  },
-  {
-    "id": "charlo-vs-castano-2",
-    "title": "Charlo vs. Castano 2",
-    "time": "2022-03-20T02:00:00Z",
-    "until": "2022-03-20T05:00:00Z",
-    "promotion": "TGB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/84674-charlo-vs-castano-2"
-    ],
-    "card": [
-      "Main Event: Jermell Charlo (34-1-1) vs. Brian Castano (17-0-2)"
-    ]
-  },
-  {
-    "id": "ortiz-jr-vs-mckinson",
-    "title": "Ortiz Jr. vs. McKinson",
-    "time": "2022-03-20T02:00:00Z",
-    "until": "2022-03-20T05:00:00Z",
-    "promotion": "GBP_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85405-ortiz-jr-vs-mckinson"
-    ],
-    "card": [
-      "Main Event: Vergil Ortiz Jr. (18-0-0) vs. Mikey McKinson (21-0-0)"
-    ]
-  },
-  {
     "id": "pfl-challenger-series-6",
     "title": "PFL Challenger Series 6",
-    "time": "2022-03-25T22:00:00Z",
-    "until": "2022-03-26T01:00:00Z",
+    "time": "2022-03-26T01:00:00Z",
+    "until": "2022-03-26T04:00:00Z",
     "promotion": "PFL",
     "sports": [
       "MMA"
@@ -563,7 +463,8 @@
     "until": "2022-03-26T15:30:00Z",
     "promotion": "ONE",
     "sports": [
-      "MMA"
+      "MMA",
+      "KICKBOXING"
     ],
     "links": [
       "https://www.tapology.com/fightcenter/events/85971-one-championship"
@@ -572,8 +473,13 @@
       "Main Event: Stamp Fairtex (8-1-0) vs. Angela Lee (10-2-0)",
       "Co-Main Event: Adriano Moraes (19-3-0) vs. Yuya Wakamatsu (15-4-0)",
       "Main Card: Demetrious Johnson (Kirkland, WA) vs. Rodtang Jitmuangnon (Bangkok, TH)",
-      "Main Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)"
-    ]
+      "Main Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)",
+      "Main Card: Nieky Holzken vs. Islam Murtazaev"
+    ],
+    "broadcasters": {
+      "YOUTUBE": {
+      }
+    }
   },
   {
     "id": "oktagon-prime-5",
@@ -610,25 +516,8 @@
     }
   },
   {
-    "id": "martinez-vs-warrington-2",
-    "title": "Martinez vs. Warrington 2",
-    "time": "2022-03-26T19:00:00Z",
-    "until": "2022-03-26T22:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85828-martinez-vs-warrington",
-      "http://www.boxrec.com/en/event/846072"
-    ],
-    "card": [
-      "Main Event: Kiko Martinez (43-10-2) vs. Josh Warrington (30-1-1)"
-    ]
-  },
-  {
-    "id": "ufc-fight-night-b-achowicz-vs-rakic",
-    "title": "UFC Fight Night: Błachowicz vs. Rakić",
+    "id": "ufc-columbus",
+    "title": "UFC Columbus",
     "time": "2022-03-26T22:00:00Z",
     "until": "2022-03-27T01:00:00Z",
     "promotion": "UFC",
@@ -639,7 +528,6 @@
       "https://www.tapology.com/fightcenter/events/84285-ufc-fight-night"
     ],
     "card": [
-      "Main Event: Jan Błachowicz (28-9-0) vs. Aleksandar Rakić (14-2-0)",
       "Co-Main Event: Michelle Waterson (18-9-0) vs. Amanda Ribas (11-2-0)",
       "Main Card: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)",
       "Main Card: Askar Askarov (14-0-1) vs. Kai Kara-France (23-9-0)",
@@ -647,10 +535,12 @@
       "Main Card: Joanne Wood (15-7-0) vs. Alexa Grasso (13-3-0)",
       "Main Card: Neil Magny (25-8-0) vs. Max Griffin (18-8-0)",
       "Prelim: Tucker Lutz (12-2-0) vs. Seung Woo Choi (10-4-0)",
-      "Prelim: Montel Jackson (11-2-0) vs. Danaa Batgerel (11-2-0)",
+      "Prelim: Montel Jackson (11-2-0) vs. Danaa Batgerel (12-2-0)",
       "Prelim: David Dvořák (20-3-0) vs. Matheus Nicolau (17-2-1)",
       "Prelim: Aliaskhab Khizriev (13-0-0) vs. Abusupiyan Magomedov (24-4-1)",
-      "Prelim: Nate Landwehr (15-4-0) vs. Lerone Murphy (11-0-1)"
+      "Prelim: Nate Landwehr (15-4-0) vs. Lerone Murphy (11-0-1)",
+      "Prelim: Marc Diakiese (14-5-0) vs. Viacheslav Borshchev (6-1-0)",
+      "Prelim: Luis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)"
     ],
     "broadcasters": {
       "DAZN": {

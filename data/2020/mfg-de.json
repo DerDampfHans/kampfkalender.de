@@ -1,5 +1,111 @@
 [
   {
+    "id": "mfc-2020-03-27",
+    "live": false,
+    "promotion": "MFG_DE",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#MFC27",
+      "#ReLive",
+      "#StayAtHome",
+      "#WatchTogether",
+      "#ranFighting"
+    ],
+    "mainCard": {
+      "title": "Mix Fight Championship 27: Watch Together / Re-Live",
+      "time": "2020-03-27T17:00:00Z",
+      "until": "2020-03-27T20:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=LcSoqBBMkEw"
+        }
+      }
+    }
+  },
+  {
+    "id": "ranfighting-c2317030ccea013844107054d2ab776f",
+    "promotion": "MFG_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#MFG28",
+      "#MFC1",
+      "#SilberMitgliedschaft"
+    ],
+    "links": [
+      "https://ranfighting.de/mma/mix-fight-cup_2"
+    ],
+    "mainCard": {
+      "title": "Mix Fight Club 1",
+      "time": "2020-09-05T18:00:00Z",
+      "broadcasters": {
+        "RAN_FIGHTING": {
+          "url": "https://www.youtube.com/watch?v=ro7gwaRbteo"
+        }
+      }
+    },
+    "tapology": {
+      "id": 72517,
+      "time": "2020-09-05T20:00:00Z",
+      "title": "Mix Fight Gala 28: Fight Club 1",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/72517-mix-fight-gala-28-fight-club-1",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Arthur Demonceaux vs. Arbi Emiev",
+        "Main Card: Arthur Demonceaux vs. Fabrizio Rubino",
+        "Main Card: Fabrizio Rubino vs. Christopher Jung"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/mix-fight-mix-fight-cup-1-88416"
+      ]
+    }
+  },
+  {
+    "id": "tapology-72518",
+    "promotion": "MFG_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#MFG29",
+      "#MFC2",
+      "#SilberMitgliedschaft"
+    ],
+    "links": [
+      "https://ranfighting.de/mma/mix-fight-club-2_2"
+    ],
+    "mainCard": {
+      "title": "Mix Fight Club 2",
+      "time": "2020-10-03T16:30:00Z",
+      "broadcasters": {
+        "RAN_FIGHTING": {
+          "url": "https://www.youtube.com/watch?v=UZLwZkvkWzk"
+        }
+      }
+    },
+    "tapology": {
+      "id": 72518,
+      "time": "2020-10-03T04:00:00Z",
+      "title": "Mix Fight Gala 29: Fight Club 2",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/72518-mix-fight-gala-29-fight-club-2",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Thomas Paul vs. Fabrizio Rubino",
+        "Main Card: Thomas Paul vs. Aleko Sagliani"
+      ]
+    }
+  },
+  {
     "id": "tapology-72519",
     "promotion": "MFG_DE",
     "sports": [
@@ -60,112 +166,6 @@
       "links": [
         "http://www.sherdog.com/events/tfs-mix-fight-gala-30-fight-club-3-87709"
       ]
-    }
-  },
-  {
-    "id": "tapology-72518",
-    "promotion": "MFG_DE",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://ranfighting.de/mma/mix-fight-club-2_2"
-    ],
-    "mainCard": {
-      "title": "Mix Fight Club 2",
-      "time": "2020-10-03T16:30:00Z",
-      "tags": [
-        "#MFG29",
-        "#MFC2",
-        "#SilberMitgliedschaft"
-      ],
-      "broadcasters": {
-        "RAN_FIGHTING": {
-          "url": "https://www.youtube.com/watch?v=UZLwZkvkWzk"
-        }
-      }
-    },
-    "tapology": {
-      "id": 72518,
-      "time": "2020-10-03T04:00:00Z",
-      "title": "Mix Fight Gala 29: Fight Club 2",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/72518-mix-fight-gala-29-fight-club-2",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Card: Thomas Paul vs. Fabrizio Rubino",
-        "Main Card: Thomas Paul vs. Aleko Sagliani"
-      ]
-    }
-  },
-  {
-    "id": "ranfighting-c2317030ccea013844107054d2ab776f",
-    "promotion": "MFG_DE",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://ranfighting.de/mma/mix-fight-cup_2"
-    ],
-    "mainCard": {
-      "title": "Mix Fight Club 1",
-      "time": "2020-09-05T18:00:00Z",
-      "tags": [
-        "#MFG28",
-        "#MFC1",
-        "#SilberMitgliedschaft"
-      ],
-      "broadcasters": {
-        "RAN_FIGHTING": {
-          "url": "https://www.youtube.com/watch?v=ro7gwaRbteo"
-        }
-      }
-    },
-    "tapology": {
-      "id": 72517,
-      "time": "2020-09-05T20:00:00Z",
-      "title": "Mix Fight Gala 28: Fight Club 1",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/72517-mix-fight-gala-28-fight-club-1",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Card: Arthur Demonceaux vs. Arbi Emiev",
-        "Main Card: Arthur Demonceaux vs. Fabrizio Rubino",
-        "Main Card: Fabrizio Rubino vs. Christopher Jung"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/mix-fight-mix-fight-cup-1-88416"
-      ]
-    }
-  },
-  {
-    "id": "mfc-2020-03-27",
-    "live": false,
-    "promotion": "MFG_DE",
-    "sports": [
-      "MMA",
-      "KICKBOXING"
-    ],
-    "mainCard": {
-      "title": "Mix Fight Championship 27: Watch Together / Re-Live",
-      "time": "2020-03-27T17:00:00Z",
-      "until": "2020-03-27T20:00:00Z",
-      "tags": [
-        "#MFC27",
-        "#ReLive",
-        "#StayAtHome",
-        "#WatchTogether",
-        "#ranFighting"
-      ],
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=LcSoqBBMkEw"
-        }
-      }
     }
   }
 ]

@@ -1,111 +1,22 @@
 [
   {
-    "id": "tapology-84244",
-    "promotion": "POLARIS",
-    "sports": [
-      "GRAPPLING"
-    ],
-    "mainCard": {
-      "title": "Polaris 18",
-      "time": "2021-11-27T19:00:00Z",
-      "tags": [
-        "#Polaris18"
-      ],
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "prelims": {
-      "title": "Polaris 18: Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "tapology": {
-      "id": 84244,
-      "time": "2021-11-27T14:00:00Z",
-      "title": "Polaris 18",
-      "info": "Completed Grappling Event",
-      "url": "https://www.tapology.com/fightcenter/events/84244-polaris-18",
-      "sports": [
-        "GRAPPLING"
-      ],
-      "card": [
-        "Main Card: Ashley Williams vs. Paulo Miyao",
-        "Main Card: Jed Hue vs. AJ Agazarm",
-        "Main Card: Igor Tanabe vs. Tommy Langaker",
-        "Main Card: Stevie Ray vs. Craig Ewers",
-        "Main Card: Leon Larman vs. Bryn Jenkins",
-        "Main Card: Lloyd Cooper vs. Tom Barry",
-        "Main Card: Josh Williams vs. Adam Adshead",
-        "Prelim: Aled Rees vs. Ash Amos",
-        "Prelim: Tom Cellamare vs. Oli Cole",
-        "Prelim: Owen Livesey vs. Max Bickerton",
-        "Prelim: Ashley Bendle vs. Kate Bacik",
-        "Main Card: Jamie Dicks vs. Finn Carey",
-        "Prelim: William Southern vs. Rhys Davis"
-      ]
-    }
-  },
-  {
-    "id": "tapology-82743",
-    "promotion": "POLARIS",
-    "sports": [
-      "GRAPPLING"
-    ],
-    "mainCard": {
-      "title": "Polaris 17",
-      "time": "2021-10-09T17:30:00Z",
-      "tags": [
-        "#Polaris17"
-      ],
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "tapology": {
-      "id": 82743,
-      "time": "2021-10-09T13:00:00Z",
-      "title": "Polaris 17",
-      "info": "Completed Grappling Event",
-      "url": "https://www.tapology.com/fightcenter/events/82743-polaris-17",
-      "sports": [
-        "GRAPPLING"
-      ],
-      "card": [
-        "Main Event: Craig Jones vs. Davi Ramos",
-        "Main Card: Kendall Reusing vs. Venla Luukkonen",
-        "Main Card: Jed Hue vs. Kody Steele",
-        "Main Card: Mateusz Szczecinski vs. Ellis Younger",
-        "Main Card: Tarik Hopstock vs. Fred Grenall",
-        "Main Card: Kamil Wilk vs. Robert Degle",
-        "Main Card: Jack Sear vs. Ollie Bates",
-        "Main Card: Dominic Dillon vs. Scott Pooley",
-        "Prelim: Shane Curtis vs. Ben Hills",
-        "Prelim: Yousuf Nabi vs. Dan Pacan",
-        "Main Card: Max Corteggiano vs. Nathan Kay",
-        "Prelim: Abbie O'Toole vs. Maia Holmes"
-      ]
-    }
-  },
-  {
     "id": "fightpass-187565",
     "promotion": "POLARIS",
     "sports": [
       "GRAPPLING"
     ],
+    "tags": [
+      "#PolarisSquads3"
+    ],
     "mainCard": {
       "title": "Polaris Squads 3",
       "time": "2021-08-07T17:00:00Z",
-      "tags": [
-        "#PolarisSquads3"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 187565
       }
     },
     "tapology": {
@@ -150,6 +61,104 @@
         "Main Card: Jed Hue vs. Roberto Jimenez",
         "Main Card: Kieran Davern vs. Adam Benayoun",
         "Main Card: Daniel Strauss vs. Jon Blank"
+      ]
+    }
+  },
+  {
+    "id": "tapology-82743",
+    "promotion": "POLARIS",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#Polaris17"
+    ],
+    "mainCard": {
+      "title": "Polaris 17",
+      "time": "2021-10-09T17:30:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 205281
+      }
+    },
+    "tapology": {
+      "id": 82743,
+      "time": "2021-10-09T13:00:00Z",
+      "title": "Polaris 17",
+      "info": "Completed Grappling Event",
+      "url": "https://www.tapology.com/fightcenter/events/82743-polaris-17",
+      "sports": [
+        "GRAPPLING"
+      ],
+      "card": [
+        "Main Event: Craig Jones vs. Davi Ramos",
+        "Main Card: Kendall Reusing vs. Venla Luukkonen",
+        "Main Card: Jed Hue vs. Kody Steele",
+        "Main Card: Mateusz Szczecinski vs. Ellis Younger",
+        "Main Card: Tarik Hopstock vs. Fred Grenall",
+        "Main Card: Kamil Wilk vs. Robert Degle",
+        "Main Card: Jack Sear vs. Ollie Bates",
+        "Main Card: Dominic Dillon vs. Scott Pooley",
+        "Prelim: Shane Curtis vs. Ben Hills",
+        "Prelim: Yousuf Nabi vs. Dan Pacan",
+        "Main Card: Max Corteggiano vs. Nathan Kay",
+        "Prelim: Abbie O'Toole vs. Maia Holmes"
+      ]
+    }
+  },
+  {
+    "id": "tapology-84244",
+    "promotion": "POLARIS",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#Polaris18"
+    ],
+    "mainCard": {
+      "title": "Polaris 18",
+      "time": "2021-11-27T19:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 209155
+      }
+    },
+    "prelims": {
+      "title": "Polaris 18: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 84244,
+      "time": "2021-11-27T14:00:00Z",
+      "title": "Polaris 18",
+      "info": "Completed Grappling Event",
+      "url": "https://www.tapology.com/fightcenter/events/84244-polaris-18",
+      "sports": [
+        "GRAPPLING"
+      ],
+      "card": [
+        "Main Card: Ashley Williams vs. Paulo Miyao",
+        "Main Card: Jed Hue vs. AJ Agazarm",
+        "Main Card: Igor Tanabe vs. Tommy Langaker",
+        "Main Card: Stevie Ray vs. Craig Ewers",
+        "Main Card: Leon Larman vs. Bryn Jenkins",
+        "Main Card: Lloyd Cooper vs. Tom Barry",
+        "Main Card: Josh Williams vs. Adam Adshead",
+        "Prelim: Aled Rees vs. Ash Amos",
+        "Prelim: Tom Cellamare vs. Oli Cole",
+        "Prelim: Owen Livesey vs. Max Bickerton",
+        "Prelim: Ashley Bendle vs. Kate Bacik",
+        "Main Card: Jamie Dicks vs. Finn Carey",
+        "Prelim: William Southern vs. Rhys Davis"
       ]
     }
   }

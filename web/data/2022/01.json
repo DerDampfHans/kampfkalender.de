@@ -211,12 +211,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-smith-jr-vs-geffrard",
-    "title": "Boxen: Smith Jr. vs. Geffrard",
+    "id": "smith-jr-vs-geffrard",
+    "title": "Smith Jr. vs. Geffrard",
     "time": "2022-01-16T02:00:00Z",
     "until": "2022-01-16T05:00:00Z",
     "promotion": "TR_BOXING",
@@ -317,9 +319,27 @@
     "title": "BKB 24: Lerwell vs. Holmes",
     "time": "2022-01-22T20:00:00Z",
     "until": "2022-01-22T23:00:00Z",
-    "promotion": "_OTHER",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
-      "https://www.fite.tv/watch/bkb-24/2pan9/"
+      "https://www.fite.tv/watch/bkb-24/2pan9/",
+      "https://www.tapology.com/fightcenter/events/86200-bkb-24"
+    ],
+    "card": [
+      "Main Card: Scott McHugh (Leeds, England) vs. Carlos Guerra (Cape Coral, FL)",
+      "Main Card: Mark Tiffen vs. Beau Besley",
+      "Main Card: Jonny Lawson vs. Aaron McCallum",
+      "Main Card: Steven Evans vs. Jay Kerr",
+      "Main Card: Ryan Barrett vs. Simon Szynkiewicz",
+      "Main Card: Callan Harley vs. Mark Handley",
+      "Main Card: Paul Hilz vs. Quartus Stitt (Boca Raton, FL)",
+      "Main Card: Matt Hodgson vs. Lawrence Tracey",
+      "Main Card: Stumpy Taylor vs. Martin Reffell",
+      "Main Card: Nathan Leeson vs. Reece Murray",
+      "Main Card: Ellis Shepherd vs. Jack McClean",
+      "Main Card: Dan Podmore vs. Dorian Darch (Aberdare, Wales)"
     ],
     "broadcasters": {
       "FIGHTING_DE": {
@@ -432,6 +452,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -443,6 +465,7 @@
     "promotion": "SCHLAGWORT",
     "broadcasters": {
       "YOUTUBE": {
+        "url": "https://www.youtube.com/watch?v=vES2-wm_3LA"
       }
     }
   },
@@ -452,6 +475,9 @@
     "time": "2022-01-24T09:00:00Z",
     "until": "2022-01-24T16:00:00Z",
     "promotion": "IMMAF",
+    "sports": [
+      "MMA"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/75098-immaf-world-senior-and-junior-championships"
     ],
@@ -466,42 +492,11 @@
     "time": "2022-01-25T09:00:00Z",
     "until": "2022-01-25T16:00:00Z",
     "promotion": "IMMAF",
+    "sports": [
+      "MMA"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/75098-immaf-world-senior-and-junior-championships"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-junior-world-championships-day-2",
-    "title": "IMMAF: 2021 Junior World Championships Day 2",
-    "time": "2022-01-25T17:00:00Z",
-    "until": "2022-01-25T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86214-immaf-2021-world-junior-championships-day-2"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-senior-world-championships-day-2",
-    "title": "IMMAF: 2021 Senior World Championships Day 2",
-    "time": "2022-01-25T17:00:00Z",
-    "until": "2022-01-25T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86213-immaf-2021-world-senior-championships-day-2"
     ],
     "broadcasters": {
       "IMMAF_TV": {
@@ -514,42 +509,11 @@
     "time": "2022-01-26T09:00:00Z",
     "until": "2022-01-26T16:00:00Z",
     "promotion": "IMMAF",
+    "sports": [
+      "MMA"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/75098-immaf-world-senior-and-junior-championships"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-junior-world-championships-day-3",
-    "title": "IMMAF: 2021 Junior World Championships Day 3",
-    "time": "2022-01-26T17:00:00Z",
-    "until": "2022-01-26T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86216-immaf-2021-world-junior-championships-day-3"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-senior-world-championships-day-3",
-    "title": "IMMAF: 2021 Senior World Championships Day 3",
-    "time": "2022-01-26T17:00:00Z",
-    "until": "2022-01-26T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86215-immaf-2021-world-senior-championships-day-3"
     ],
     "broadcasters": {
       "IMMAF_TV": {
@@ -562,42 +526,11 @@
     "time": "2022-01-27T09:00:00Z",
     "until": "2022-01-27T16:00:00Z",
     "promotion": "IMMAF",
+    "sports": [
+      "MMA"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/75098-immaf-world-senior-and-junior-championships"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-senior-world-championships-day-4",
-    "title": "IMMAF: 2021 Senior World Championships Day 4",
-    "time": "2022-01-27T17:00:00Z",
-    "until": "2022-01-27T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86217-immaf-2021-world-senior-championships-day-4"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-world-junior-championships-day-4",
-    "title": "IMMAF: 2021 World Junior Championships Day 4",
-    "time": "2022-01-27T17:00:00Z",
-    "until": "2022-01-27T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86218-immaf-2021-world-junior-championships-day-4"
     ],
     "broadcasters": {
       "IMMAF_TV": {
@@ -610,6 +543,9 @@
     "time": "2022-01-28T09:00:00Z",
     "until": "2022-01-28T16:00:00Z",
     "promotion": "IMMAF",
+    "sports": [
+      "MMA"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/75098-immaf-world-senior-and-junior-championships"
     ],
@@ -621,8 +557,8 @@
   {
     "id": "one-championship-only-the-brave",
     "title": "ONE Championship: Only the Brave",
-    "time": "2022-01-28T10:30:00Z",
-    "until": "2022-01-28T13:30:00Z",
+    "time": "2022-01-28T11:00:00Z",
+    "until": "2022-01-28T14:00:00Z",
     "promotion": "ONE",
     "sports": [
       "MMA",
@@ -646,50 +582,15 @@
     ],
     "broadcasters": {
       "YOUTUBE": {
-        "url": "https://www.youtube.com/watch?v=UMjHeO98FW0",
-        "free": true
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-junior-world-championships-finals",
-    "title": "IMMAF: 2021 Junior World Championships Finals",
-    "time": "2022-01-28T17:00:00Z",
-    "until": "2022-01-28T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86220-immaf-2021-world-junior-championships-finals"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "immaf-2021-senior-world-championships-day-5",
-    "title": "IMMAF: 2021 Senior World Championships Day 5",
-    "time": "2022-01-28T17:00:00Z",
-    "until": "2022-01-28T20:00:00Z",
-    "promotion": "IMMAF",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86219-immaf-2021-world-senior-championships-day-5"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
+        "url": "https://www.youtube.com/channel/UCiormkBf3jm6mfb7k0yPbKA"
       }
     }
   },
   {
     "id": "aka-19",
     "title": "AKA 19",
-    "time": "2022-01-29T02:00:00Z",
-    "until": "2022-01-29T05:00:00Z",
+    "time": "2022-01-29T01:00:00Z",
+    "until": "2022-01-29T04:00:00Z",
     "promotion": "AKA",
     "sports": [
       "MMA"
@@ -707,105 +608,16 @@
     }
   },
   {
-    "id": "flores-vs-rodriguez",
-    "title": "Flores vs. Rodriguez",
-    "time": "2022-01-29T04:00:00Z",
-    "until": "2022-01-29T07:00:00Z",
-    "promotion": "PD_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86225-flores-vs-rodriguez"
-    ],
-    "card": [
-      "Main Event: Wilfredo Flores (9-0-1) vs. Marcos Rodriguez (10-4-0)",
-      "Main Card: Edwin Cano (0-0-0) vs. Ricardo Velazco (6-3-0)",
-      "Main Card: Jorge Monreal (11-0-1) vs. Edgar Espinosa (5-1-0)"
-    ]
-  },
-  {
-    "id": "open-fighting-championship-16",
-    "title": "Open Fighting Championship 16",
-    "time": "2022-01-29T06:00:00Z",
-    "until": "2022-01-29T09:00:00Z",
-    "promotion": "OFC_RU",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85418-open-fighting-championship-16",
-      "http://www.sherdog.com/events/ofc-16-open-fighting-championship-16-91725"
-    ],
-    "card": [
-      "Main Event: Alexander Soldatkin (11-3-0) vs. Jackson Gonçalves (10-3-0)",
-      "Main Card: Mikhail Kolobegov (12-4-0) vs. Marcos Brigagão (14-3-0)",
-      "Main Card: Aydarbek Ashimaliev (6-0-0) vs. K. Cherednichenko (11-10-0)",
-      "Main Card: Alexey Shaposhnikov (9-3-0) vs. Asylbek Rustambek Uulu (4-0-0)",
-      "Main Card: Oleg Kubanov (7-5-0) vs. Akbar Baktybek Uulu (2-1-0)",
-      "Main Card: Neilson Gomes (21-3-0) vs. Danil Vaganov (9-4-1)",
-      "Main Card: Fariddun Gadoev (0-0-0) vs. Armen Torosyan (0-0-0)",
-      "Main Card: Zalimkhan Yusupov (15-8-0) vs. Jahongir Saidjamolov (15-5-0)",
-      "Main Card: Tariel Abbasov (3-0-0) vs. Wdison Costa (13-7-0)",
-      "Main Card: Nikita Podkovalnikov (3-5-0) vs. Nurtilek Jalynbekov (4-0-0)",
-      "Main Card: Ilya Sukonnikov (3-0-0) vs. Gegam Manavazyan (1-1-0)",
-      "Main Card: Jahongir Jaloliddinov (1-2-0) vs. Manuchekhr Davlatov (1-0-0)"
-    ],
-    "broadcasters": {
-      "FIGHTING_DE": {
-      },
-      "FIGHT24_TV": {
-      }
-    }
-  },
-  {
     "id": "immaf-world-senior-and-junior-championships-1",
     "title": "IMMAF: World Senior and Junior Championships",
     "time": "2022-01-29T09:00:00Z",
     "until": "2022-01-29T16:00:00Z",
     "promotion": "IMMAF",
-    "links": [
-      "https://www.tapology.com/fightcenter/events/75098-immaf-world-senior-and-junior-championships"
-    ],
-    "broadcasters": {
-      "IMMAF_TV": {
-      }
-    }
-  },
-  {
-    "id": "rcc-boxing-night",
-    "title": "RCC Boxing Night",
-    "time": "2022-01-29T16:00:00Z",
-    "until": "2022-01-29T19:00:00Z",
-    "promotion": "RCC",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/85954-rcc-boxing-night",
-      "http://www.boxrec.com/en/event/846716"
-    ],
-    "card": [
-      "Main Event: Fedor Papazov (23-4-0) vs. A. Uulu (16-1-0)",
-      "Main Card: Vladislav Freze (4-3-1) vs. Demid Arnikov (0-0-0)",
-      "Main Card: Sayan Kertik-Ool (0-0-1) vs. Ramazon Alimatov (3-3-1)",
-      "Main Card: Ivan Chirkov (6-0-0) vs. Usmonali Abdulloev (1-1-1)",
-      "Main Card: Bahodur Yakubov (1-0-0) vs. Suren Khachatryan (0-0-0)",
-      "Main Card: Dmitry Tuktarov (0-0-0) vs. Ruslan Selimyan (0-0-0)",
-      "Main Card: Maxim Smirnov (8-11-3) vs. Nikita Zon (0-0-0)"
-    ]
-  },
-  {
-    "id": "immaf-2021-senior-world-championships-finals",
-    "title": "IMMAF: 2021 Senior World Championships Finals",
-    "time": "2022-01-29T17:00:00Z",
-    "until": "2022-01-29T20:00:00Z",
-    "promotion": "IMMAF",
     "sports": [
       "MMA"
     ],
     "links": [
-      "https://www.tapology.com/fightcenter/events/86221-immaf-2021-senior-world-championships-finals"
+      "https://www.tapology.com/fightcenter/events/75098-immaf-world-senior-and-junior-championships"
     ],
     "broadcasters": {
       "IMMAF_TV": {
@@ -822,6 +634,7 @@
       "MMA"
     ],
     "links": [
+      "https://www.german-mma.de/live-events/220129-fight-night-12",
       "https://www.tapology.com/fightcenter/events/85494-gmc-fight-night",
       "http://www.sherdog.com/events/gmc-fight-night-german-mma-championship-91729"
     ],
@@ -857,7 +670,6 @@
       "Prelim: Dalton Rosta (5-0-0) vs. Duane Johnson (6-2-0)",
       "Prelim: Nikita Mikhailov (8-1-0) vs. Blaine Shutt (8-5-0)",
       "Prelim: Lucas Brennan (5-0-0) vs. Ben Lugo (5-4-0)",
-      "Prelim: Weber Almeida (5-1-0) vs. Fabricio Franco (8-4-0)",
       "Prelim: Ben Parrish (5-1-0) vs. Sullivan Cauley (2-0-0)"
     ]
   },
@@ -914,6 +726,8 @@
       "Main Card: James Lyons (2-1-0) vs. Damion Nelson (2-0-0)",
       "Main Card: Caleb Hall (2-2-0) vs. Manny Morales (0-0-0)",
       "Main Card: Efren Escareno (3-1-0) vs. Jeffrey Glossner (3-2-0)",
+      "Main Card: Manoel Sousa (7-0-0) vs. Trevor Ollison (5-3-0)",
+      "Main Card: Cameron Scalio (0-0-0) vs. Blair Wilt (0-0-0)",
       "Main Card: Nick Gebhard (1-2-0) vs. Dylan LaPalomento (3-0-0)",
       "Main Card: Akuma Maters (4-4-0) vs. Ian Allston (3-2-1)",
       "Main Card: Dymere Rappa (2-1-0) vs. Dwayne Pepper (2-0-0)",
@@ -923,30 +737,6 @@
       "UFC_FIGHT_PASS": {
       }
     }
-  },
-  {
-    "id": "the-big-belt-championship-the-final-irving",
-    "title": "The Big Belt Championship: The Final Irving",
-    "time": "2022-01-30T01:00:00Z",
-    "until": "2022-01-30T04:00:00Z",
-    "promotion": "BS_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/86283-the-big-belt-championship-the-final-irving",
-      "http://www.boxrec.com/en/event/844054"
-    ],
-    "card": [
-      "Main Event: Marco Vazquez (7-1-0) vs. Kasimu Yakubu (1-1-0)",
-      "Main Card: Benjamin Gurment (5-0-1) vs. Yainiel Alvarez (0-0-0)",
-      "Main Card: Brandon DeSpain (0-0-0) vs. M. Gomez (2-0-1)",
-      "Main Card: Omar Urieta (0-0-0) vs. J. Valle (2-0-1)",
-      "Main Card: Angel Gomez (0-3-1) vs. Elgyn Chandler (0-0-0)",
-      "Main Card: Jake Ysasi (0-0-0) vs. Sergio Agustin (0-0-0)",
-      "Main Card: Kentavias Slay (0-0-0) vs. Miguel Angel Rebullosa (4-13-0)",
-      "Main Card: Romello Thomas (0-0-0) vs. Ronald Nowden (0-4-0)"
-    ]
   },
   {
     "id": "bkfc-jackson",
@@ -994,11 +784,10 @@
     ],
     "card": [
       "Main Event: Robson Conceição (16-1-0) vs. Xavier Martinez (17-0-0)",
-      "Co-Main Event: Luis Melendez (17-1-0) vs. Rene Tellez Giron (16-1-0)",
+      "Co-Main Event: Giovanni Cabrera (18-0-0) vs. Rene Tellez Giron (16-1-0)",
+      "Main Card: Xavier Madrid (0-0-0) vs. Delante Johnson (0-0-0)",
       "Main Card: Stephan Shaw (15-0-0) vs. Joey Dawejko (21-9-4)",
-      "Main Card: Giovanni Cabrera (18-0-0) vs. Rafael Reyes (20-13-0)",
       "Prelim: Herman Rendon (0-0-0) vs. Dante Benjamin Jr. (0-0-0)",
-      "Prelim: Xavier Madrid (0-0-0) vs. Delante Johnson (0-0-0)",
       "Prelim: Nico Ali Walsh (0-0-0) vs. Jeremiah Yeager (1-1-1)",
       "Prelim: Bruce Carrington (0-0-0) vs. Steven Brown (0-0-0)",
       "Prelim: Kallia Kourouni (11-2-0) vs. Carla Torres (6-6-0)",
@@ -1008,6 +797,17 @@
     "broadcasters": {
       "FITE_TV": {
         "url": "https://www.fite.tv/watch/top-rank-martinez-vs-conceicao/2paqp/"
+      }
+    }
+  },
+  {
+    "id": "schlagwort-podcast-149",
+    "title": "Schlagwort Podcast 149",
+    "time": "2022-01-30T17:00:00Z",
+    "until": "2022-01-30T19:00:00Z",
+    "promotion": "SCHLAGWORT",
+    "broadcasters": {
+      "YOUTUBE": {
       }
     }
   }

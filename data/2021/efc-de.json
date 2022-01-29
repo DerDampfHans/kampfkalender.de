@@ -1,26 +1,22 @@
 [
   {
-    "id": "efc-2021-05-29",
+    "id": "efc-2021-03-27",
     "promotion": "EFC_DE",
     "sports": [
       "MMA"
     ],
-    "links": [
-      "https://www.fight24.tv/fightpasses/fight24-efc-arena-5-263",
-      "https://www.fightevents.de/event/efc-arena-5/"
+    "tags": [
+      "#Boxen",
+      "#Kickboxen",
+      "#K1",
+      "#EFCArena"
     ],
     "mainCard": {
-      "title": "EFC Arena 5",
-      "time": "2021-05-29T13:30:00Z",
-      "tags": [
-        "#Kickboxen",
-        "#K1",
-        "#EFCArena",
-        "#EFCArena5"
-      ],
+      "title": "EFC Arena 3",
+      "time": "2021-03-27T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
-          "url": "https://www.youtube.com/watch?v=lviNFs5CK7Q"
+          "url": "https://www.youtube.com/watch?v=SuAlRiQSj2M"
         }
       }
     }
@@ -31,15 +27,15 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#Boxen",
+      "#Kickboxen",
+      "#K1",
+      "#EFCArena"
+    ],
     "mainCard": {
       "title": "EFC Arena 4",
       "time": "2021-04-10T16:00:00Z",
-      "tags": [
-        "#Boxen",
-        "#Kickboxen",
-        "#K1",
-        "#EFCArena"
-      ],
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=Fqmq0sR7_A4"
@@ -48,23 +44,27 @@
     }
   },
   {
-    "id": "efc-2021-03-27",
+    "id": "efc-2021-05-29",
     "promotion": "EFC_DE",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#Kickboxen",
+      "#K1",
+      "#EFCArena",
+      "#EFCArena5"
+    ],
+    "links": [
+      "https://www.fight24.tv/fightpasses/fight24-efc-arena-5-263",
+      "https://www.fightevents.de/event/efc-arena-5/"
+    ],
     "mainCard": {
-      "title": "EFC Arena 3",
-      "time": "2021-03-27T17:00:00Z",
-      "tags": [
-        "#Boxen",
-        "#Kickboxen",
-        "#K1",
-        "#EFCArena"
-      ],
+      "title": "EFC Arena 5",
+      "time": "2021-05-29T13:30:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
-          "url": "https://www.youtube.com/watch?v=SuAlRiQSj2M"
+          "url": "https://www.youtube.com/watch?v=lviNFs5CK7Q"
         }
       }
     }

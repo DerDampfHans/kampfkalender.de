@@ -35,33 +35,6 @@
     }
   },
   {
-    "id": "boxen-millan-vs-guzman",
-    "title": "Boxen: Millan vs. Guzman",
-    "time": "2021-06-05T01:00:00Z",
-    "until": "2021-06-05T04:00:00Z",
-    "promotion": "BCP_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/79556-millan-vs-guzman",
-      "http://www.boxrec.com/en/event/834900"
-    ],
-    "card": [
-      "Main Event: Eva Guzman vs. Isabel Millan",
-      "Main Card: Rafael Amarillas Ortiz vs. J. Medina",
-      "Main Card: G. Dominguez vs. Adalberto Borquez",
-      "Main Card: Jesus Lopez Perez vs. Luis Juan Hernandez",
-      "Main Card: Miguel Israel Bernal vs. Raul Carrasco",
-      "Main Card: Oscar Palma Molina vs. Edson Torres"
-    ],
-    "broadcasters": {
-      "FITE_TV": {
-        "url": "https://www.fite.tv/watch/bc-promotions-millan-vs-guzman/2p9h0/"
-      }
-    }
-  },
-  {
     "id": "lfa-109-mckinney-vs-irizarry",
     "title": "LFA 109: McKinney vs. Irizarry",
     "time": "2021-06-05T01:00:00Z",
@@ -88,6 +61,33 @@
     ],
     "broadcasters": {
       "UFC_FIGHT_PASS": {
+      }
+    }
+  },
+  {
+    "id": "millan-vs-guzman",
+    "title": "Millan vs. Guzman",
+    "time": "2021-06-05T01:00:00Z",
+    "until": "2021-06-05T04:00:00Z",
+    "promotion": "BCP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/79556-millan-vs-guzman",
+      "http://www.boxrec.com/en/event/834900"
+    ],
+    "card": [
+      "Main Event: Eva Guzman vs. Isabel Millan",
+      "Main Card: Rafael Amarillas Ortiz vs. J. Medina",
+      "Main Card: G. Dominguez vs. Adalberto Borquez",
+      "Main Card: Jesus Lopez Perez vs. Luis Juan Hernandez",
+      "Main Card: Miguel Israel Bernal vs. Raul Carrasco",
+      "Main Card: Oscar Palma Molina vs. Edson Torres"
+    ],
+    "broadcasters": {
+      "FITE_TV": {
+        "url": "https://www.fite.tv/watch/bc-promotions-millan-vs-guzman/2p9h0/"
       }
     }
   },
@@ -277,8 +277,8 @@
     }
   },
   {
-    "id": "boxen-kabayel-vs-johnson",
-    "title": "Boxen: Kabayel vs. Johnson",
+    "id": "kabayel-vs-johnson",
+    "title": "Kabayel vs. Johnson",
     "time": "2021-06-05T20:35:00Z",
     "until": "2021-06-05T22:35:00Z",
     "promotion": "SES_BOXING",
@@ -338,6 +338,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -402,8 +404,8 @@
     }
   },
   {
-    "id": "boxen-mayweather-vs-paul",
-    "title": "Boxen: Mayweather vs. Paul",
+    "id": "mayweather-vs-paul",
+    "title": "Mayweather vs. Paul",
     "time": "2021-06-07T00:00:00Z",
     "until": "2021-06-07T03:00:00Z",
     "promotion": "MP_BOXING",
@@ -465,8 +467,8 @@
     }
   },
   {
-    "id": "boxen-gallegos-vs-newman",
-    "title": "Boxen: Gallegos vs. Newman",
+    "id": "gallegos-vs-newman",
+    "title": "Gallegos vs. Newman",
     "time": "2021-06-11T02:00:00Z",
     "until": "2021-06-11T05:00:00Z",
     "promotion": "RJJ_BOXING",
@@ -607,6 +609,37 @@
     }
   },
   {
+    "id": "barrera-vs-soto-karass",
+    "title": "Barrera vs. Soto Karass",
+    "time": "2021-06-12T01:00:00Z",
+    "until": "2021-06-12T05:00:00Z",
+    "promotion": "BS_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://fight24.tv/fightpasses/fight24-return-of-the-legends-283",
+      "https://www.fightevents.de/event/return-of-the-legends/",
+      "https://www.fight24.tv/fightpasses/fight24-ofc-5-282",
+      "https://www.tapology.com/fightcenter/events/79564-return-of-the-legends-barrera-vs-soto-karass",
+      "http://www.boxrec.com/en/event/833036"
+    ],
+    "card": [
+      "Main Event: Marco Antonio Barrera vs. Jesus Soto Karass",
+      "Co-Main Event: Angel Rodriguez vs. Bergman Aguilar",
+      "Main Card: Cris Reyes vs. Braulio Avila",
+      "Main Card: Oleg Zubenko vs. Diego Padilla",
+      "Main Card: Tyrrell Washington vs. Ginno Montoya",
+      "Main Card: Oliver Galicia vs. Michael Land",
+      "Main Card: Adrian Leyva vs. Pablo Melgar"
+    ],
+    "broadcasters": {
+      "FIGHTING_DE": {
+        "url": "https://www.youtube.com/watch?v=v1yonTltyC4"
+      }
+    }
+  },
+  {
     "id": "bellator-260-lima-vs-amosov",
     "title": "Bellator 260: Lima vs. Amosov",
     "time": "2021-06-12T01:00:00Z",
@@ -636,37 +669,6 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=WECjEf4TdFs"
-      }
-    }
-  },
-  {
-    "id": "boxen-barrera-vs-soto-karass",
-    "title": "Boxen: Barrera vs. Soto Karass",
-    "time": "2021-06-12T01:00:00Z",
-    "until": "2021-06-12T05:00:00Z",
-    "promotion": "BS_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://fight24.tv/fightpasses/fight24-return-of-the-legends-283",
-      "https://www.fightevents.de/event/return-of-the-legends/",
-      "https://www.fight24.tv/fightpasses/fight24-ofc-5-282",
-      "https://www.tapology.com/fightcenter/events/79564-return-of-the-legends-barrera-vs-soto-karass",
-      "http://www.boxrec.com/en/event/833036"
-    ],
-    "card": [
-      "Main Event: Marco Antonio Barrera vs. Jesus Soto Karass",
-      "Co-Main Event: Angel Rodriguez vs. Bergman Aguilar",
-      "Main Card: Cris Reyes vs. Braulio Avila",
-      "Main Card: Oleg Zubenko vs. Diego Padilla",
-      "Main Card: Tyrrell Washington vs. Ginno Montoya",
-      "Main Card: Oliver Galicia vs. Michael Land",
-      "Main Card: Adrian Leyva vs. Pablo Melgar"
-    ],
-    "broadcasters": {
-      "FIGHTING_DE": {
-        "url": "https://www.youtube.com/watch?v=v1yonTltyC4"
       }
     }
   },
@@ -753,8 +755,8 @@
     }
   },
   {
-    "id": "boxen-ritson-vs-ponce",
-    "title": "Boxen: Ritson vs. Ponce",
+    "id": "ritson-vs-ponce",
+    "title": "Ritson vs. Ponce",
     "time": "2021-06-12T18:00:00Z",
     "until": "2021-06-12T21:00:00Z",
     "promotion": "MB_BOXING",
@@ -889,8 +891,8 @@
     }
   },
   {
-    "id": "boxen-stevenson-vs-nakathila",
-    "title": "Boxen: Stevenson vs. Nakathila",
+    "id": "stevenson-vs-nakathila",
+    "title": "Stevenson vs. Nakathila",
     "time": "2021-06-13T02:00:00Z",
     "until": "2021-06-13T05:00:00Z",
     "promotion": "TR_BOXING",
@@ -956,6 +958,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1041,8 +1045,8 @@
     }
   },
   {
-    "id": "boxen-round-zero-fight-night-5",
-    "title": "Boxen: Round Zero Fight Night 5",
+    "id": "round-zero-fight-night-5",
+    "title": "Round Zero Fight Night 5",
     "time": "2021-06-18T23:00:00Z",
     "until": "2021-06-19T02:00:00Z",
     "promotion": "RZFN_BOXING",
@@ -1149,8 +1153,8 @@
     }
   },
   {
-    "id": "boxen-leo-s-boxnacht-10",
-    "title": "Boxen: Leo's Boxnacht 10",
+    "id": "leo-s-boxnacht-10",
+    "title": "Leo's Boxnacht 10",
     "time": "2021-06-19T15:00:00Z",
     "until": "2021-06-19T20:00:00Z",
     "promotion": "_OTHER",
@@ -1164,8 +1168,8 @@
     }
   },
   {
-    "id": "boxen-the-thriller-at-the-stadium",
-    "title": "Boxen: The Thriller at the Stadium",
+    "id": "the-thriller-at-the-stadium",
+    "title": "The Thriller at the Stadium",
     "time": "2021-06-19T17:00:00Z",
     "until": "2021-06-19T20:00:00Z",
     "promotion": "CES_BOXING",
@@ -1220,8 +1224,8 @@
     }
   },
   {
-    "id": "boxen-munguia-vs-szeremeta",
-    "title": "Boxen: Munguia vs. Szeremeta",
+    "id": "munguia-vs-szeremeta",
+    "title": "Munguia vs. Szeremeta",
     "time": "2021-06-19T19:30:00Z",
     "until": "2021-06-19T22:30:00Z",
     "promotion": "GBP_BOXING",
@@ -1319,12 +1323,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-chavez-jr-vs-silva",
-    "title": "Boxen: Chavez Jr. vs. Silva",
+    "id": "chavez-jr-vs-silva",
+    "title": "Chavez Jr. vs. Silva",
     "time": "2021-06-20T01:00:00Z",
     "until": "2021-06-20T04:00:00Z",
     "promotion": "TBP_BOXING",
@@ -1862,12 +1868,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-martinez-vs-cordova",
-    "title": "Boxen: Martinez vs. Cordova",
+    "id": "martinez-vs-cordova",
+    "title": "Martinez vs. Cordova",
     "time": "2021-06-26T23:00:00Z",
     "until": "2021-06-27T02:00:00Z",
     "promotion": "CP_BOXING",

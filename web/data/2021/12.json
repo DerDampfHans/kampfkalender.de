@@ -28,8 +28,8 @@
     }
   },
   {
-    "id": "boxen-lejarraga-vs-flatley",
-    "title": "Boxen: Lejarraga vs. Flatley",
+    "id": "lejarraga-vs-flatley",
+    "title": "Lejarraga vs. Flatley",
     "time": "2021-12-03T17:00:00Z",
     "until": "2021-12-03T20:00:00Z",
     "promotion": "MB_BOXING",
@@ -385,8 +385,8 @@
     }
   },
   {
-    "id": "boxen-haney-vs-diaz-jr-",
-    "title": "Boxen: Haney vs. Diaz Jr.",
+    "id": "haney-vs-diaz-jr-",
+    "title": "Haney vs. Diaz Jr.",
     "time": "2021-12-05T01:00:00Z",
     "until": "2021-12-05T04:00:00Z",
     "promotion": "MB_BOXING",
@@ -414,8 +414,8 @@
     }
   },
   {
-    "id": "boxen-benn-vs-algieri",
-    "title": "Boxen: Benn vs. Algieri",
+    "id": "benn-vs-algieri",
+    "title": "Benn vs. Algieri",
     "time": "2021-12-05T03:00:00Z",
     "until": "2021-12-05T06:00:00Z",
     "promotion": "MB_BOXING",
@@ -478,6 +478,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -499,6 +501,9 @@
     "time": "2021-12-10T02:00:00Z",
     "until": "2021-12-10T05:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/84287-bkfc-fight-night-tampa"
     ],
@@ -747,8 +752,8 @@
     }
   },
   {
-    "id": "boxen-kourbanov-vs-henrichi",
-    "title": "Boxen: Kourbanov vs. Henrichi",
+    "id": "kourbanov-vs-henrichi",
+    "title": "Kourbanov vs. Henrichi",
     "time": "2021-12-11T12:00:00Z",
     "until": "2021-12-11T15:00:00Z",
     "promotion": "BBF_BOXING",
@@ -923,8 +928,8 @@
     }
   },
   {
-    "id": "boxen-donaire-vs-gaballo",
-    "title": "Boxen: Donaire vs. Gaballo",
+    "id": "donaire-vs-gaballo",
+    "title": "Donaire vs. Gaballo",
     "time": "2021-12-12T03:00:00Z",
     "until": "2021-12-12T06:00:00Z",
     "promotion": "TGB_BOXING",
@@ -988,6 +993,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1104,8 +1111,8 @@
     }
   },
   {
-    "id": "boxen-madrimov-vs-soro",
-    "title": "Boxen: Madrimov vs. Soro",
+    "id": "madrimov-vs-soro",
+    "title": "Madrimov vs. Soro",
     "time": "2021-12-17T15:00:00Z",
     "until": "2021-12-17T18:00:00Z",
     "promotion": "MB_BOXING",
@@ -1228,6 +1235,9 @@
     "time": "2021-12-18T11:00:00Z",
     "until": "2021-12-18T14:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/85047-bkfc-thailand-1"
     ],
@@ -1361,35 +1371,6 @@
     }
   },
   {
-    "id": "boxen-parker-vs-chisora-2",
-    "title": "Boxen: Parker vs. Chisora 2",
-    "time": "2021-12-18T18:00:00Z",
-    "until": "2021-12-18T21:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/82602-parker-vs-chisora-2",
-      "http://www.boxrec.com/en/event/839453"
-    ],
-    "card": [
-      "Main Event: Joseph Parker vs. Dereck Chisora",
-      "Main Card: Lerrone Richards vs. Carlos Gongora",
-      "Main Card: Zelfa Barrett vs. Bruno Tarimo",
-      "Main Card: David Nyika vs. Anthony Carpin",
-      "Main Card: Kevin Lele Sadjo vs. Jack Cullen",
-      "Main Card: Alen Babic vs. David Spilmont",
-      "Prelim: Sandy Ryan vs. Maria Capriolo",
-      "Prelim: Jordan Thompson vs. Piotr Budziszewski",
-      "Prelim: Rhiannon Dixon vs. Vaida Masiokaite"
-    ],
-    "broadcasters": {
-      "DAZN": {
-      }
-    }
-  },
-  {
     "id": "ksw-65-khalidov-vs-soldic",
     "title": "KSW 65: Khalidov vs. Soldić",
     "time": "2021-12-18T18:00:00Z",
@@ -1448,6 +1429,35 @@
     "broadcasters": {
       "FIGHTING_DE": {
         "url": "https://www.youtube.com/watch?v=_tZQAokIB78"
+      }
+    }
+  },
+  {
+    "id": "parker-vs-chisora-2",
+    "title": "Parker vs. Chisora 2",
+    "time": "2021-12-18T18:00:00Z",
+    "until": "2021-12-18T21:00:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/82602-parker-vs-chisora-2",
+      "http://www.boxrec.com/en/event/839453"
+    ],
+    "card": [
+      "Main Event: Joseph Parker vs. Dereck Chisora",
+      "Main Card: Lerrone Richards vs. Carlos Gongora",
+      "Main Card: Zelfa Barrett vs. Bruno Tarimo",
+      "Main Card: David Nyika vs. Anthony Carpin",
+      "Main Card: Kevin Lele Sadjo vs. Jack Cullen",
+      "Main Card: Alen Babic vs. David Spilmont",
+      "Prelim: Sandy Ryan vs. Maria Capriolo",
+      "Prelim: Jordan Thompson vs. Piotr Budziszewski",
+      "Prelim: Rhiannon Dixon vs. Vaida Masiokaite"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },
@@ -1570,8 +1580,8 @@
     }
   },
   {
-    "id": "boxen-eifert-vs-schmidt",
-    "title": "Boxen: Eifert vs. Schmidt",
+    "id": "eifert-vs-schmidt",
+    "title": "Eifert vs. Schmidt",
     "time": "2021-12-18T21:45:00Z",
     "until": "2021-12-18T23:45:00Z",
     "promotion": "SES_BOXING",
@@ -1646,12 +1656,14 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "boxen-paul-vs-woodley-prelims-",
-    "title": "Boxen: Paul vs. Woodley (Prelims)",
+    "id": "paul-vs-woodley-prelims-",
+    "title": "Paul vs. Woodley (Prelims)",
     "time": "2021-12-19T01:00:00Z",
     "until": "2021-12-19T02:00:00Z",
     "promotion": "MVP_BOXING",
@@ -1679,8 +1691,8 @@
     }
   },
   {
-    "id": "boxen-paul-vs-woodley-1",
-    "title": "Boxen: Paul vs. Woodley",
+    "id": "paul-vs-woodley-1",
+    "title": "Paul vs. Woodley",
     "time": "2021-12-19T02:00:00Z",
     "until": "2021-12-19T05:00:00Z",
     "promotion": "MVP_BOXING",
@@ -1707,8 +1719,8 @@
     }
   },
   {
-    "id": "boxen-ramirez-vs-gonzalez",
-    "title": "Boxen: Ramirez vs. Gonzalez",
+    "id": "ramirez-vs-gonzalez",
+    "title": "Ramirez vs. Gonzalez",
     "time": "2021-12-19T02:00:00Z",
     "until": "2021-12-19T05:00:00Z",
     "promotion": "GBP_BOXING",

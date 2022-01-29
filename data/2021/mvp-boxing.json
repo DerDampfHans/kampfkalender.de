@@ -1,12 +1,53 @@
 [
   {
+    "id": "tapology-79572",
+    "promotion": "MVP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#PPV",
+      "#PaulWoodley"
+    ],
+    "mainCard": {
+      "title": "Paul vs. Woodley",
+      "time": "2021-08-30T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/paul-vs-woodley/2p9vn/"
+        }
+      }
+    },
+    "tapology": {
+      "id": 79572,
+      "time": "2021-08-30T00:00:00Z",
+      "title": "Paul vs. Woodley",
+      "info": "Completed Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/79572-paul-vs-woodley",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Jake Paul vs. Tyron Woodley",
+        "Co-Main Event: Amanda Serrano vs. Yamileth Mercado",
+        "Main Card: Montana Love vs. Ivan Baranchyk",
+        "Main Card: Daniel Dubois vs. Joe Cusumano",
+        "Main Card: Tommy Fury vs. Anthony Taylor",
+        "Prelim: Charles Conwell vs. Juan Carlos Rubio"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/834910"
+      ]
+    }
+  },
+  {
     "id": "tapology-83889",
     "promotion": "MVP_BOXING",
     "sports": [
       "BOXING"
     ],
     "mainCard": {
-      "title": "Boxen: Paul vs. Woodley",
+      "title": "Paul vs. Woodley",
       "time": "2021-12-19T02:00:00Z",
       "tags": [
         "#PPV",
@@ -20,7 +61,7 @@
       }
     },
     "prelims": {
-      "title": "Boxen: Paul vs. Woodley (Prelims)",
+      "title": "Paul vs. Woodley (Prelims)",
       "time": "2021-12-19T01:00:00Z",
       "tags": [
         "#PaulWoodley",
@@ -53,47 +94,6 @@
       ],
       "links": [
         "http://www.boxrec.com/en/event/842088"
-      ]
-    }
-  },
-  {
-    "id": "tapology-79572",
-    "promotion": "MVP_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "mainCard": {
-      "title": "Boxen: Paul vs. Woodley",
-      "time": "2021-08-30T00:00:00Z",
-      "tags": [
-        "#PPV",
-        "#PaulWoodley"
-      ],
-      "broadcasters": {
-        "FITE_TV": {
-          "url": "https://www.fite.tv/watch/paul-vs-woodley/2p9vn/"
-        }
-      }
-    },
-    "tapology": {
-      "id": 79572,
-      "time": "2021-08-30T00:00:00Z",
-      "title": "Paul vs. Woodley",
-      "info": "Completed Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/79572-paul-vs-woodley",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Jake Paul vs. Tyron Woodley",
-        "Co-Main Event: Amanda Serrano vs. Yamileth Mercado",
-        "Main Card: Montana Love vs. Ivan Baranchyk",
-        "Main Card: Daniel Dubois vs. Joe Cusumano",
-        "Main Card: Tommy Fury vs. Anthony Taylor",
-        "Prelim: Charles Conwell vs. Juan Carlos Rubio"
-      ],
-      "links": [
-        "http://www.boxrec.com/en/event/834910"
       ]
     }
   }

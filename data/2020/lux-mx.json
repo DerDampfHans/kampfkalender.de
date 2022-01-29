@@ -1,21 +1,49 @@
 [
   {
-    "id": "fightpass-160721",
+    "id": "fightpass-147421",
     "promotion": "LUX_MX",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#LUX009"
+    ],
     "mainCard": {
-      "title": "LUX 011: Reyes vs Arreola",
-      "time": "2020-11-21T03:00:00Z",
-      "tags": [
-        "#LUX11",
-        "#LUX011"
-      ],
+      "title": "Lux Fight League 9",
+      "time": "2020-07-18T02:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 147421
       }
+    },
+    "tapology": {
+      "id": 71013,
+      "time": "2020-07-17T23:30:00Z",
+      "title": "Lux Fight League 9",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/71013-lux-fight-league-009",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Marco Beltran vs. David Mendoza",
+        "Co-Main Event: Genaro Valdéz vs. Edgar Diaz Guzman",
+        "Main Card: Saray Orozco vs. Yajaira Romo",
+        "Main Card: Luis Guerrero vs. Luis Rey Gallegos",
+        "Main Card: Ruben Lozano vs. Diego Rivera",
+        "Prelim: Kike Gonzalez vs. Alfredo Moreno",
+        "Prelim: Iván Valenzuela vs. Ricardo Chavez",
+        "Prelim: José Luis Medrano vs. David Briones",
+        "Prelim: César Vásquez vs. Adrian Chavez",
+        "Prelim: Andrés Ferrera vs. Ricardo Garza"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/lux-fight-league-lux-009-87106",
+        "http://www.mixedmartialarts.com/events/lux-fight-league-9:c292b840-e811-49ec-933f-4a8b8a36292e"
+      ]
     }
   },
   {
@@ -24,16 +52,19 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#LUX10",
+      "#LUX010"
+    ],
     "mainCard": {
       "title": "Lux Fight League 10",
       "time": "2020-09-19T02:00:00Z",
-      "tags": [
-        "#LUX10",
-        "#LUX010"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 150784
       }
     },
     "tapology": {
@@ -67,47 +98,25 @@
     }
   },
   {
-    "id": "fightpass-147421",
+    "id": "fightpass-160721",
     "promotion": "LUX_MX",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#LUX11",
+      "#LUX011"
+    ],
     "mainCard": {
-      "title": "Lux Fight League 9",
-      "time": "2020-07-18T02:00:00Z",
-      "tags": [
-        "#LUX009"
-      ],
+      "title": "LUX 011: Reyes vs Arreola",
+      "time": "2020-11-21T03:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 160721
       }
-    },
-    "tapology": {
-      "id": 71013,
-      "time": "2020-07-17T23:30:00Z",
-      "title": "Lux Fight League 9",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/71013-lux-fight-league-009",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Marco Beltran vs. David Mendoza",
-        "Co-Main Event: Genaro Valdéz vs. Edgar Diaz Guzman",
-        "Main Card: Saray Orozco vs. Yajaira Romo",
-        "Main Card: Luis Guerrero vs. Luis Rey Gallegos",
-        "Main Card: Ruben Lozano vs. Diego Rivera",
-        "Prelim: Kike Gonzalez vs. Alfredo Moreno",
-        "Prelim: Iván Valenzuela vs. Ricardo Chavez",
-        "Prelim: José Luis Medrano vs. David Briones",
-        "Prelim: César Vásquez vs. Adrian Chavez",
-        "Prelim: Andrés Ferrera vs. Ricardo Garza"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/lux-fight-league-lux-009-87106",
-        "http://www.mixedmartialarts.com/events/lux-fight-league-9:c292b840-e811-49ec-933f-4a8b8a36292e"
-      ]
     }
   }
 ]

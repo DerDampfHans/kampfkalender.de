@@ -159,6 +159,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -363,6 +365,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -723,6 +727,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -817,8 +823,8 @@
     }
   },
   {
-    "id": "boxen-roy-jones-jr-boxing",
-    "title": "Boxen: Roy Jones Jr. Boxing",
+    "id": "roy-jones-jr-boxing",
+    "title": "Roy Jones Jr. Boxing",
     "time": "2020-09-24T23:00:00Z",
     "until": "2020-09-25T02:00:00Z",
     "promotion": "RJJ_BOXING",
@@ -861,6 +867,9 @@
     "time": "2020-09-25T12:00:00Z",
     "until": "2020-09-25T15:00:00Z",
     "promotion": "WLC_MM",
+    "sports": [
+      "LETHWEI"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/70124-wlc-13"
     ],
@@ -1095,8 +1104,8 @@
     }
   },
   {
-    "id": "boxen-thorslund-vs-radovanovic",
-    "title": "Boxen: Thorslund vs. Radovanovic",
+    "id": "thorslund-vs-radovanovic",
+    "title": "Thorslund vs. Radovanovic",
     "time": "2020-09-26T18:00:00Z",
     "until": "2020-09-26T21:00:00Z",
     "promotion": "SAUERLAND_BOXING",
@@ -1296,6 +1305,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },

@@ -1,26 +1,49 @@
 [
   {
-    "id": "gcp-2021-12-19",
+    "id": "tapology-79210",
     "promotion": "GCP_DE",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#GCP2"
+    ],
     "links": [
-      "https://www.fight24.tv/fightpasses/fight24-gcp-4-413",
-      "https://www.fightevents.de/event/german-cage-pioneer-4/"
+      "https://www.fight24.tv/fightpasses/fight24-gcp-2-276",
+      "https://www.fightevents.de/event/german-cage-pioneer-2/"
     ],
     "mainCard": {
-      "title": "German Cage Pioneer 4",
-      "time": "2021-12-19T16:00:00Z",
-      "until": "2021-12-19T20:00:00Z",
-      "tags": [
-        "#GCP4"
-      ],
+      "title": "German Cage Pioneer 2",
+      "time": "2021-06-05T15:30:00Z",
+      "until": "2021-06-05T19:30:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
-          "freeAfter": 24
         }
       }
+    },
+    "tapology": {
+      "id": 79210,
+      "time": "2021-06-05T18:00:00Z",
+      "title": "GCP 2",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/79210-gcp-2",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Musa Jangubaev vs. Laith Najjar",
+        "Main Card: Adrian Zeitner vs. Kevin Hangs",
+        "Main Card: Timo Kuchelmeister vs. Tamini Sherzai",
+        "Main Card: Tarhan Ibragimov vs. Benjamin Elmaataoui",
+        "Main Card: S. Sulimani vs. Rasul Daler",
+        "Main Card: Said Saidi vs. Paolo D'Antoni",
+        "Main Card: Zafar Mohsen vs. Walid Ahmad",
+        "Main Card: Adlan Musaev vs. Amir Khan Atai",
+        "Main Card: Magaye Seye vs. Dennis Steinfeld"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/gcp-2-german-cage-pioneer-2-87888"
+      ]
     }
   },
   {
@@ -28,6 +51,9 @@
     "promotion": "GCP_DE",
     "sports": [
       "MMA"
+    ],
+    "tags": [
+      "#GCP3"
     ],
     "links": [
       "https://www.fight24.tv/fightpasses/fight24-gcp-3-324",
@@ -37,9 +63,6 @@
       "title": "German Cage Pioneer 3",
       "time": "2021-07-31T16:00:00Z",
       "until": "2021-07-31T20:00:00Z",
-      "tags": [
-        "#GCP3"
-      ],
       "broadcasters": {
         "FIGHT24_TV": {
           "freeAfter": 24
@@ -71,50 +94,27 @@
     }
   },
   {
-    "id": "tapology-79210",
+    "id": "gcp-2021-12-19",
     "promotion": "GCP_DE",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#GCP4"
+    ],
     "links": [
-      "https://www.fight24.tv/fightpasses/fight24-gcp-2-276",
-      "https://www.fightevents.de/event/german-cage-pioneer-2/"
+      "https://www.fight24.tv/fightpasses/fight24-gcp-4-413",
+      "https://www.fightevents.de/event/german-cage-pioneer-4/"
     ],
     "mainCard": {
-      "title": "German Cage Pioneer 2",
-      "time": "2021-06-05T15:30:00Z",
-      "until": "2021-06-05T19:30:00Z",
-      "tags": [
-        "#GCP2"
-      ],
+      "title": "German Cage Pioneer 4",
+      "time": "2021-12-19T16:00:00Z",
+      "until": "2021-12-19T20:00:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
+          "freeAfter": 24
         }
       }
-    },
-    "tapology": {
-      "id": 79210,
-      "time": "2021-06-05T18:00:00Z",
-      "title": "GCP 2",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/79210-gcp-2",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Musa Jangubaev vs. Laith Najjar",
-        "Main Card: Adrian Zeitner vs. Kevin Hangs",
-        "Main Card: Timo Kuchelmeister vs. Tamini Sherzai",
-        "Main Card: Tarhan Ibragimov vs. Benjamin Elmaataoui",
-        "Main Card: S. Sulimani vs. Rasul Daler",
-        "Main Card: Said Saidi vs. Paolo D'Antoni",
-        "Main Card: Zafar Mohsen vs. Walid Ahmad",
-        "Main Card: Adlan Musaev vs. Amir Khan Atai",
-        "Main Card: Magaye Seye vs. Dennis Steinfeld"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/gcp-2-german-cage-pioneer-2-87888"
-      ]
     }
   }
 ]

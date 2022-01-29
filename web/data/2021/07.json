@@ -154,8 +154,8 @@
     }
   },
   {
-    "id": "boxen-pascal-wolters-fight-night",
-    "title": "Boxen: Pascal Wolters Fight Night",
+    "id": "pascal-wolters-fight-night",
+    "title": "Pascal Wolters Fight Night",
     "time": "2021-07-03T16:00:00Z",
     "until": "2021-07-03T20:00:00Z",
     "promotion": "_OTHER",
@@ -330,8 +330,26 @@
     }
   },
   {
-    "id": "boxen-zurdo-vs-barrera",
-    "title": "Boxen: Zurdo vs. Barrera",
+    "id": "ikon-fighting-federation-8",
+    "title": "iKON Fighting Federation 8",
+    "time": "2021-07-10T01:00:00Z",
+    "until": "2021-07-10T04:00:00Z",
+    "promotion": "IKON",
+    "sports": [
+      "MMA"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/80416-ikon-fighting-federation-8",
+      "http://www.mixedmartialarts.com/events/ikon-fighting-federation-8-cancelled:5c1799b5-8f19-45a7-8aa6-b63cafd54d4a"
+    ],
+    "broadcasters": {
+      "UFC_FIGHT_PASS": {
+      }
+    }
+  },
+  {
+    "id": "zurdo-vs-barrera",
+    "title": "Zurdo vs. Barrera",
     "time": "2021-07-10T01:00:00Z",
     "until": "2021-07-10T04:00:00Z",
     "promotion": "GBP_BOXING",
@@ -358,21 +376,6 @@
     ],
     "broadcasters": {
       "DAZN": {
-      }
-    }
-  },
-  {
-    "id": "ikon-fighting-federation-8",
-    "title": "iKON Fighting Federation 8",
-    "time": "2021-07-10T01:00:00Z",
-    "until": "2021-07-10T04:00:00Z",
-    "promotion": "IKON",
-    "links": [
-      "https://www.tapology.com/fightcenter/events/80416-ikon-fighting-federation-8",
-      "http://www.mixedmartialarts.com/events/ikon-fighting-federation-8-cancelled:5c1799b5-8f19-45a7-8aa6-b63cafd54d4a"
-    ],
-    "broadcasters": {
-      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -406,8 +409,8 @@
     }
   },
   {
-    "id": "boxen-gym-yilmaz-boxing",
-    "title": "Boxen: Gym Yilmaz Boxing",
+    "id": "gym-yilmaz-boxing",
+    "title": "Gym Yilmaz Boxing",
     "time": "2021-07-10T14:00:00Z",
     "until": "2021-07-10T19:00:00Z",
     "promotion": "_OTHER",
@@ -560,6 +563,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -899,8 +904,8 @@
     }
   },
   {
-    "id": "boxen-dzemski-vs-eifert",
-    "title": "Boxen: Dzemski vs. Eifert",
+    "id": "dzemski-vs-eifert",
+    "title": "Dzemski vs. Eifert",
     "time": "2021-07-17T20:35:00Z",
     "until": "2021-07-17T22:35:00Z",
     "promotion": "SES_BOXING",
@@ -994,6 +999,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1071,8 +1078,8 @@
     }
   },
   {
-    "id": "boxen-round-zero-fight-night-6",
-    "title": "Boxen: Round Zero Fight Night 6",
+    "id": "round-zero-fight-night-6",
+    "title": "Round Zero Fight Night 6",
     "time": "2021-07-22T21:30:00Z",
     "until": "2021-07-23T00:30:00Z",
     "promotion": "_OTHER",
@@ -1232,8 +1239,8 @@
     }
   },
   {
-    "id": "boxen-arslan-vs-acosta",
-    "title": "Boxen: Arslan vs. Acosta",
+    "id": "arslan-vs-acosta",
+    "title": "Arslan vs. Acosta",
     "time": "2021-07-24T16:00:00Z",
     "until": "2021-07-24T19:00:00Z",
     "promotion": "BDB_BOXING",
@@ -1387,6 +1394,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1569,8 +1578,8 @@
     }
   },
   {
-    "id": "boxen-cpi-fight-night",
-    "title": "Boxen: CPI Fight Night",
+    "id": "cpi-fight-night",
+    "title": "CPI Fight Night",
     "time": "2021-07-30T17:00:00Z",
     "until": "2021-07-30T20:00:00Z",
     "promotion": "BDB_BOXING",
@@ -1690,8 +1699,8 @@
     }
   },
   {
-    "id": "boxen-benn-vs-granados",
-    "title": "Boxen: Benn vs. Granados",
+    "id": "benn-vs-granados",
+    "title": "Benn vs. Granados",
     "time": "2021-07-31T18:00:00Z",
     "until": "2021-07-31T21:00:00Z",
     "promotion": "MB_BOXING",

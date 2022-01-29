@@ -5,16 +5,18 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#EuroMMA"
+    ],
     "mainCard": {
       "title": "MMA Grand Prix Paris",
       "time": "2020-10-08T18:00:00Z",
-      "tags": [
-        "#MMA",
-        "#EuroMMA"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 157924
       }
     },
     "tapology": {

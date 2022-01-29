@@ -1,33 +1,14 @@
 [
   {
-    "id": "mma-live-2021-10-02",
-    "promotion": "MMAL_DE",
-    "sports": [
-      "MMA"
-    ],
-    "links": [
-      "https://www.fight24.tv/fightpasses/fight24-mma-live-9-359",
-      "https://www.fightevents.de/event/mma-live-9/"
-    ],
-    "mainCard": {
-      "title": "MMA Live 9: Bouhata vs. Abdulloev",
-      "time": "2021-10-02T16:00:00Z",
-      "until": "2021-10-02T21:00:00Z",
-      "tags": [
-        "#MMALive9"
-      ],
-      "broadcasters": {
-        "FIGHTING_DE": {
-          "url": "https://www.youtube.com/watch?v=eKcrMxHfVkQ"
-        }
-      }
-    }
-  },
-  {
     "id": "tapology-79585",
     "promotion": "MMAL_DE",
     "sports": [
       "MMA"
+    ],
+    "tags": [
+      "#MMALive8",
+      "#RoadToONE",
+      "@ONEChampionship"
     ],
     "links": [
       "https://www.fight24.tv/fightpasses/fight24-mma-live-8-303",
@@ -36,11 +17,6 @@
     "mainCard": {
       "title": "MMA Live 8",
       "time": "2021-07-17T16:00:00Z",
-      "tags": [
-        "#MMALive8",
-        "#RoadToONE",
-        "@ONEChampionship"
-      ],
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=shBJWizzffY"
@@ -69,6 +45,33 @@
       "links": [
         "http://www.sherdog.com/events/mma-live-8-mma-live-championship-8-87745"
       ]
+    }
+  },
+  {
+    "id": "mma-live-2021-10-02",
+    "promotion": "MMAL_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#MMALive9"
+    ],
+    "links": [
+      "https://www.fight24.tv/fightpasses/fight24-mma-live-9-359",
+      "https://www.fightevents.de/event/mma-live-9/"
+    ],
+    "mainCard": {
+      "title": "MMA Live 9: Bouhata vs. Abdulloev",
+      "time": "2021-10-02T16:00:00Z",
+      "until": "2021-10-02T21:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=eKcrMxHfVkQ"
+        }
+      }
+    },
+    "tapology": {
+      "id": 79585
     }
   }
 ]

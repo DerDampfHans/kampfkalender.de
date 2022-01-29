@@ -1,43 +1,92 @@
 [
   {
-    "id": "tapology-82992",
+    "id": "tapology-77861",
     "promotion": "CES",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#CES62"
+    ],
     "mainCard": {
-      "title": "CES 65: De Castro vs. Williams",
-      "time": "2021-11-07T21:00:00Z",
-      "tags": [
-        "#CES65"
-      ],
+      "title": "CES 62: Whitney vs. Silva",
+      "time": "2021-05-01T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 176504
       }
     },
     "tapology": {
-      "id": 82992,
-      "time": "2021-11-07T21:00:00Z",
-      "title": "CES 65: De Castro vs. Williams",
+      "id": 77861,
+      "time": "2021-05-01T00:00:00Z",
+      "title": "CES 62: Paiva vs. Smith",
       "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/82992-ces-65",
+      "url": "https://www.tapology.com/fightcenter/events/77861-ces-62",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Postlim: Rakim Thorpe vs. Aaron Hughes",
-        "Postlim: Tyrime Da Silva vs. Josh Hardy",
-        "Main Event: Yorgan De Castro vs. Danyelle Williams",
-        "Co-Main Event: Andre Harrison vs. Mauro Chaulet",
-        "Main Card: Ashiek Ajim vs. Carlos Espinosa",
-        "Main Card: John Douma vs. Tristan Lindi",
-        "Main Card: Hugh McKenna vs. Pat McCrohan",
-        "Main Card: Nathan Ghareeb vs. Tommy Pagliarulo",
-        "Main Card: Tim Flores vs. Matt Almy"
+        "Main Event: Josh Smith vs. Dinis Paiva",
+        "Co-Main Event: Gary Balletto Jr. vs. Dahlen Wilson",
+        "Main Card: Adriano Capitulino vs. Hugh McKenna",
+        "Main Card: Da'Mon Blackshear vs. Joe Penafiel",
+        "Main Card: Carlos Espinosa vs. Leonardo Carvalho",
+        "Main Card: Yuri Panferov vs. Gregory Smith",
+        "Prelim: Anthony Delorenzo vs. Christian Tyler-Foster"
       ],
       "links": [
-        "http://www.mixedmartialarts.com/events/ces-65:6acbb79d-aa25-4e24-8f76-94f4b3d2ea64"
+        "http://www.sherdog.com/events/ces-mma-62-orlando-88949",
+        "http://www.mixedmartialarts.com/events/ces-62:e8df86e6-3bac-47b7-80d4-19d116f1e303"
+      ]
+    }
+  },
+  {
+    "id": "tapology-80482",
+    "promotion": "CES",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#CES63"
+    ],
+    "mainCard": {
+      "title": "CES 63",
+      "time": "2021-08-06T23:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 193794
+      }
+    },
+    "tapology": {
+      "id": 80482,
+      "time": "2021-08-06T22:00:00Z",
+      "title": "CES 63: Howard vs. Alvarez",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/80482-ces-63-back-2-back",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: John Howard vs. Ozzie Alvarez",
+        "Co-Main Event: Carlos Candelario vs. Miguel Restrepo",
+        "Main Card: Chris Disonell vs. Will Smith",
+        "Main Card: Kody Allen Murray vs. Miguel Cuevas",
+        "Main Card: Eddy George vs. Tony Jackson",
+        "Main Card: Tommy Pagliarulo vs. Josh Hardy",
+        "Main Card: Ashiek Ajim vs. Richard Barnard",
+        "Prelim: Nathan Ghareeb vs. DaJuan Robinson",
+        "Prelim: Nick Fiore vs. Jay Ellis",
+        "Prelim: Thad Jean vs. Sage Philippe"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ces-mma-63-de-castro-vs-cleveland-89964",
+        "http://www.mixedmartialarts.com/events/ces-63:0e5a57f6-b584-4b38-b703-a31c2fa0d928"
       ]
     }
   },
@@ -47,15 +96,18 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#CES64"
+    ],
     "mainCard": {
       "title": "CES 64: Bessette vs. Dela Cruz",
       "time": "2021-09-18T00:00:00Z",
-      "tags": [
-        "#CES64"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 198940
       }
     },
     "tapology": {
@@ -87,87 +139,47 @@
     }
   },
   {
-    "id": "tapology-80482",
+    "id": "tapology-82992",
     "promotion": "CES",
     "sports": [
       "MMA"
     ],
-    "mainCard": {
-      "title": "CES 63",
-      "time": "2021-08-06T23:00:00Z",
-      "tags": [
-        "#CES63"
-      ],
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "tapology": {
-      "id": 80482,
-      "time": "2021-08-06T22:00:00Z",
-      "title": "CES 63: Howard vs. Alvarez",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/80482-ces-63-back-2-back",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: John Howard vs. Ozzie Alvarez",
-        "Co-Main Event: Carlos Candelario vs. Miguel Restrepo",
-        "Main Card: Chris Disonell vs. Will Smith",
-        "Main Card: Kody Allen Murray vs. Miguel Cuevas",
-        "Main Card: Eddy George vs. Tony Jackson",
-        "Main Card: Tommy Pagliarulo vs. Josh Hardy",
-        "Main Card: Ashiek Ajim vs. Richard Barnard",
-        "Prelim: Nathan Ghareeb vs. DaJuan Robinson",
-        "Prelim: Nick Fiore vs. Jay Ellis",
-        "Prelim: Thad Jean vs. Sage Philippe"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/ces-mma-63-de-castro-vs-cleveland-89964",
-        "http://www.mixedmartialarts.com/events/ces-63:0e5a57f6-b584-4b38-b703-a31c2fa0d928"
-      ]
-    }
-  },
-  {
-    "id": "tapology-77861",
-    "promotion": "CES",
-    "sports": [
-      "MMA"
+    "tags": [
+      "#CES65"
     ],
     "mainCard": {
-      "title": "CES 62: Whitney vs. Silva",
-      "time": "2021-05-01T00:00:00Z",
-      "tags": [
-        "#CES62"
-      ],
+      "title": "CES 65: De Castro vs. Williams",
+      "time": "2021-11-07T21:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 207093
       }
     },
     "tapology": {
-      "id": 77861,
-      "time": "2021-05-01T00:00:00Z",
-      "title": "CES 62: Paiva vs. Smith",
+      "id": 82992,
+      "time": "2021-11-07T21:00:00Z",
+      "title": "CES 65: De Castro vs. Williams",
       "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/77861-ces-62",
+      "url": "https://www.tapology.com/fightcenter/events/82992-ces-65",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Josh Smith vs. Dinis Paiva",
-        "Co-Main Event: Gary Balletto Jr. vs. Dahlen Wilson",
-        "Main Card: Adriano Capitulino vs. Hugh McKenna",
-        "Main Card: Da'Mon Blackshear vs. Joe Penafiel",
-        "Main Card: Carlos Espinosa vs. Leonardo Carvalho",
-        "Main Card: Yuri Panferov vs. Gregory Smith",
-        "Prelim: Anthony Delorenzo vs. Christian Tyler-Foster"
+        "Postlim: Rakim Thorpe vs. Aaron Hughes",
+        "Postlim: Tyrime Da Silva vs. Josh Hardy",
+        "Main Event: Yorgan De Castro vs. Danyelle Williams",
+        "Co-Main Event: Andre Harrison vs. Mauro Chaulet",
+        "Main Card: Ashiek Ajim vs. Carlos Espinosa",
+        "Main Card: John Douma vs. Tristan Lindi",
+        "Main Card: Hugh McKenna vs. Pat McCrohan",
+        "Main Card: Nathan Ghareeb vs. Tommy Pagliarulo",
+        "Main Card: Tim Flores vs. Matt Almy"
       ],
       "links": [
-        "http://www.sherdog.com/events/ces-mma-62-orlando-88949",
-        "http://www.mixedmartialarts.com/events/ces-62:e8df86e6-3bac-47b7-80d4-19d116f1e303"
+        "http://www.mixedmartialarts.com/events/ces-65:6acbb79d-aa25-4e24-8f76-94f4b3d2ea64"
       ]
     }
   }

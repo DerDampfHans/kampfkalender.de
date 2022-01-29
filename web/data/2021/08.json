@@ -67,6 +67,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -251,8 +253,8 @@
     }
   },
   {
-    "id": "boxen-wilson-vs-hunter",
-    "title": "Boxen: Wilson vs. Hunter",
+    "id": "wilson-vs-hunter",
+    "title": "Wilson vs. Hunter",
     "time": "2021-08-03T22:00:00Z",
     "until": "2021-08-04T01:00:00Z",
     "promotion": "TFC_BOXING",
@@ -404,8 +406,8 @@
     }
   },
   {
-    "id": "boxen-hoschler-vs-perdomo",
-    "title": "Boxen: Höschler vs. Perdomo",
+    "id": "hoschler-vs-perdomo",
+    "title": "Höschler vs. Perdomo",
     "time": "2021-08-07T16:00:00Z",
     "until": "2021-08-07T19:00:00Z",
     "promotion": "BDB_BOXING",
@@ -480,8 +482,8 @@
     }
   },
   {
-    "id": "boxen-galahad-vs-dickens",
-    "title": "Boxen: Galahad vs. Dickens",
+    "id": "galahad-vs-dickens",
+    "title": "Galahad vs. Dickens",
     "time": "2021-08-07T18:00:00Z",
     "until": "2021-08-07T21:00:00Z",
     "promotion": "MB_BOXING",
@@ -544,8 +546,8 @@
     }
   },
   {
-    "id": "boxen-ball-jr-vs-edmonds",
-    "title": "Boxen: Ball Jr. vs. Edmonds",
+    "id": "ball-jr-vs-edmonds",
+    "title": "Ball Jr. vs. Edmonds",
     "time": "2021-08-08T00:00:00Z",
     "until": "2021-08-08T03:00:00Z",
     "promotion": "CES_BOXING",
@@ -643,6 +645,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -937,7 +941,10 @@
     "title": "BKB 21",
     "time": "2021-08-14T17:30:00Z",
     "until": "2021-08-14T20:30:00Z",
-    "promotion": "_OTHER",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.fight24.tv/fightpasses/fight24-bkb-21-292",
       "https://www.fightevents.de/event/bkb-21/",
@@ -950,8 +957,8 @@
     }
   },
   {
-    "id": "boxen-buatsi-vs-bolotniks",
-    "title": "Boxen: Buatsi vs. Bolotniks",
+    "id": "buatsi-vs-bolotniks",
+    "title": "Buatsi vs. Bolotniks",
     "time": "2021-08-14T18:00:00Z",
     "until": "2021-08-14T21:00:00Z",
     "promotion": "MB_BOXING",
@@ -977,8 +984,8 @@
     }
   },
   {
-    "id": "boxen-foster-vs-minda",
-    "title": "Boxen: Foster vs. Minda",
+    "id": "foster-vs-minda",
+    "title": "Foster vs. Minda",
     "time": "2021-08-14T21:00:00Z",
     "until": "2021-08-15T00:00:00Z",
     "promotion": "MURPHYS_BOXING",
@@ -997,32 +1004,6 @@
     ],
     "broadcasters": {
       "UFC_FIGHT_PASS": {
-      }
-    }
-  },
-  {
-    "id": "boxen-ortiz-jr-vs-kavaliauskas",
-    "title": "Boxen: Ortiz Jr. vs. Kavaliauskas",
-    "time": "2021-08-15T00:00:00Z",
-    "until": "2021-08-15T03:00:00Z",
-    "promotion": "GBP_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/80049-ortiz-vs-kavaliauskas",
-      "http://www.boxrec.com/en/event/835837"
-    ],
-    "card": [
-      "Main Event: Vergil Ortiz Jr. vs. Egidijus Kavaliauskas",
-      "Co-Main Event: Roger Gutierrez vs. Rene Alvarado",
-      "Main Card: Felix Alvarado vs. Israel Vazquez",
-      "Prelim: Alex Martin vs. Josec Ruiz",
-      "Prelim: Alex Rincon vs. Sonny Duversonne",
-      "Prelim: George Rincon vs. Nikolai Buzolin"
-    ],
-    "broadcasters": {
-      "DAZN": {
       }
     }
   },
@@ -1056,6 +1037,32 @@
     ],
     "broadcasters": {
       "UFC_FIGHT_PASS": {
+      }
+    }
+  },
+  {
+    "id": "ortiz-jr-vs-kavaliauskas",
+    "title": "Ortiz Jr. vs. Kavaliauskas",
+    "time": "2021-08-15T00:00:00Z",
+    "until": "2021-08-15T03:00:00Z",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/80049-ortiz-vs-kavaliauskas",
+      "http://www.boxrec.com/en/event/835837"
+    ],
+    "card": [
+      "Main Event: Vergil Ortiz Jr. vs. Egidijus Kavaliauskas",
+      "Co-Main Event: Roger Gutierrez vs. Rene Alvarado",
+      "Main Card: Felix Alvarado vs. Israel Vazquez",
+      "Prelim: Alex Martin vs. Josec Ruiz",
+      "Prelim: Alex Rincon vs. Sonny Duversonne",
+      "Prelim: George Rincon vs. Nikolai Buzolin"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },
@@ -1193,8 +1200,8 @@
     }
   },
   {
-    "id": "boxen-deutsche-meisterschaft-u19-halbfinale",
-    "title": "Boxen: Deutsche Meisterschaft U19 Halbfinale",
+    "id": "deutsche-meisterschaft-u19-halbfinale",
+    "title": "Deutsche Meisterschaft U19 Halbfinale",
     "time": "2021-08-20T11:00:00Z",
     "until": "2021-08-20T14:00:00Z",
     "promotion": "_OTHER",
@@ -1273,8 +1280,8 @@
     }
   },
   {
-    "id": "boxen-reis-vs-prazak",
-    "title": "Boxen: Reis vs. Prazak",
+    "id": "reis-vs-prazak",
+    "title": "Reis vs. Prazak",
     "time": "2021-08-21T03:00:00Z",
     "until": "2021-08-21T06:00:00Z",
     "promotion": "DBE_BOXING",
@@ -1354,8 +1361,8 @@
     }
   },
   {
-    "id": "boxen-deutsche-meisterschaft-u19-finale",
-    "title": "Boxen: Deutsche Meisterschaft U19 Finale",
+    "id": "deutsche-meisterschaft-u19-finale",
+    "title": "Deutsche Meisterschaft U19 Finale",
     "time": "2021-08-21T16:00:00Z",
     "until": "2021-08-21T19:00:00Z",
     "promotion": "_OTHER",
@@ -1405,8 +1412,8 @@
     }
   },
   {
-    "id": "boxen-pacquiao-vs-ugas",
-    "title": "Boxen: Pacquiao vs. Ugas",
+    "id": "pacquiao-vs-ugas",
+    "title": "Pacquiao vs. Ugas",
     "time": "2021-08-22T01:00:00Z",
     "until": "2021-08-22T04:00:00Z",
     "promotion": "TGB_BOXING",
@@ -1473,6 +1480,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1482,6 +1491,9 @@
     "time": "2021-08-22T16:00:00Z",
     "until": "2021-08-22T19:00:00Z",
     "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
     "links": [
       "https://www.german-mma.de/live-events/amiri-vs-vvsvolkan",
       "https://www.tapology.com/fightcenter/events/79100-gmc-fight-night",
@@ -1544,8 +1556,8 @@
     }
   },
   {
-    "id": "boxen-garcia-vs-frausto",
-    "title": "Boxen: Garcia vs. Frausto",
+    "id": "garcia-vs-frausto",
+    "title": "Garcia vs. Frausto",
     "time": "2021-08-27T02:00:00Z",
     "until": "2021-08-27T05:00:00Z",
     "promotion": "RJJ_BOXING",
@@ -1823,8 +1835,8 @@
     }
   },
   {
-    "id": "boxen-totalkombat",
-    "title": "Boxen: Totalkombat",
+    "id": "totalkombat",
+    "title": "Totalkombat",
     "time": "2021-08-28T16:00:00Z",
     "until": "2021-08-28T19:00:00Z",
     "promotion": "_OTHER",
@@ -1939,6 +1951,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1997,8 +2011,8 @@
     }
   },
   {
-    "id": "boxen-paul-vs-woodley",
-    "title": "Boxen: Paul vs. Woodley",
+    "id": "paul-vs-woodley",
+    "title": "Paul vs. Woodley",
     "time": "2021-08-30T00:00:00Z",
     "until": "2021-08-30T03:00:00Z",
     "promotion": "MVP_BOXING",

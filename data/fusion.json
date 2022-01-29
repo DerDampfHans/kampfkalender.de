@@ -5,11 +5,15 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#PPV"
+    ],
     "mainCard": {
+      "hidden": true,
       "title": "Fusion Fight League: Black Hills Brawl",
       "time": "2022-02-27T00:00:00Z",
       "broadcasters": {
-        "UFC_FIGHT_PASS": {
+        "FITE_TV": {
         }
       }
     },
@@ -23,7 +27,8 @@
         "MMA"
       ],
       "card": [
-        "Main Event: Bryant Acheson (2-0-0) vs. Nick Tomlinson (0-0-0)"
+        "Main Event: Bryant Acheson (2-0-0) vs. Nick Tomlinson (0-0-0)",
+        "Main Card: J. Winkles-Camparetto (6-3-0) vs. Josiah Simpson (0-0-0)"
       ],
       "links": [
         "http://www.mixedmartialarts.com/events/fusion-fight-league:d04e210b-d436-4d05-9aef-4a29847f751a"

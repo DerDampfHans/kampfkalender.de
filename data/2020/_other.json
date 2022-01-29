@@ -1,36 +1,187 @@
 [
   {
-    "id": "fightpass-157740",
+    "id": "steko-2020-02-16",
     "promotion": "_OTHER",
+    "tags": [
+      "#Stekos",
+      "#StekosFightNight",
+      "#Kickboxing",
+      "@steko_s"
+    ],
+    "links": [
+      "https://tv.sport1.de/sport1/"
+    ],
     "mainCard": {
-      "title": "Boxen: Torres vs. Zepeda",
-      "time": "2020-10-22T23:00:00Z",
-      "tags": [
-        "#RoyJonesJr",
-        "#RJJ",
-        "@RoyJonesJrFA"
-      ],
+      "title": "Steko's Fight Night",
+      "time": "2020-02-16T19:45:00Z",
+      "until": "2020-02-16T22:00:00Z",
       "broadcasters": {
-        "UFC_FIGHT_PASS": {
+        "SPORT1": {
         }
       }
     }
   },
   {
-    "id": "fightpass-156958",
+    "id": "steko-2021-03-13",
     "promotion": "_OTHER",
-    "sports": [
-      "KICKBOXING"
+    "tags": [
+      "#MembersOnly",
+      "#Stekos",
+      "#StekosFightNight",
+      "#Kickboxing",
+      "@steko_s"
+    ],
+    "links": [
+      "https://stekos.de/fightnight/"
     ],
     "mainCard": {
-      "title": "XFN 368",
-      "time": "2020-10-10T01:00:00Z",
-      "tags": [
-        "#XFN368",
-        "#Tournament"
-      ],
+      "title": "Steko's Fight Night",
+      "time": "2020-03-13T19:00:00Z",
       "broadcasters": {
-        "UFC_FIGHT_PASS": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/channel/UCdynDzSMqmirzRsN6fjPPPg",
+          "free": false
+        }
+      }
+    }
+  },
+  {
+    "id": "boxing-2020-03-23",
+    "live": false,
+    "promotion": "_OTHER",
+    "tags": [
+      "#ReLive",
+      "#StayAtHome",
+      "#WatchTogether",
+      "#ranFighting"
+    ],
+    "mainCard": {
+      "title": "Heavyweight Classics (Watch Together)",
+      "time": "2020-03-23T17:00:00Z",
+      "until": "2020-03-23T21:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=uJwkMTcU3XA"
+        }
+      }
+    }
+  },
+  {
+    "id": "boxing-2020-03-25",
+    "live": false,
+    "promotion": "_OTHER",
+    "tags": [
+      "#ReLive",
+      "#StayAtHome",
+      "#WatchTogether",
+      "#ranFighting"
+    ],
+    "mainCard": {
+      "title": "German Classics (Watch Together)",
+      "time": "2020-03-25T17:00:00Z",
+      "until": "2020-03-25T21:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=1vgGCLQjR2M"
+        }
+      }
+    }
+  },
+  {
+    "id": "boxing-2020-03-29",
+    "live": false,
+    "promotion": "_OTHER",
+    "tags": [
+      "#ReLive",
+      "#StayAtHome",
+      "#WatchTogether"
+    ],
+    "mainCard": {
+      "title": "De La Hoya vs Gatti (Re-Live)",
+      "time": "2020-03-29T00:00:00Z",
+      "until": "2020-03-29T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1rd8gfxbl9clp15y1d1vdb0zn5"
+      }
+    }
+  },
+  {
+    "id": "boxing-2020-03-31",
+    "live": false,
+    "promotion": "_OTHER",
+    "tags": [
+      "@ArthurAbraham",
+      "#ReLive",
+      "#StayAtHome",
+      "#WatchTogether",
+      "#ranFighting"
+    ],
+    "mainCard": {
+      "title": "Best of Arthur Abraham (Watch Together)",
+      "time": "2020-03-31T16:00:00Z",
+      "until": "2020-03-31T19:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=Eddga9yMCYo"
+        }
+      }
+    }
+  },
+  {
+    "id": "boxing-2020-04-01",
+    "live": false,
+    "promotion": "_OTHER",
+    "tags": [
+      "#ReLive",
+      "#StayAtHome",
+      "#WatchTogether",
+      "#ranFighting"
+    ],
+    "mainCard": {
+      "title": "Best of Heavyweights (Watch Together)",
+      "time": "2020-04-01T16:00:00Z",
+      "until": "2020-04-01T20:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=-cDT8miqpm4"
+        }
+      }
+    }
+  },
+  {
+    "id": "steko-2020-04-03",
+    "live": false,
+    "promotion": "_OTHER",
+    "tags": [
+      "#ReLive",
+      "#StayAtHome",
+      "#WatchTogether",
+      "#ranFighting"
+    ],
+    "mainCard": {
+      "title": "Best of Michael Smolik (Watch Together)",
+      "time": "2020-04-03T16:00:00Z",
+      "until": "2020-04-03T20:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=yZFym99jA2c"
+        }
+      }
+    }
+  },
+  {
+    "id": "ranfighting-8f97f450a4bc01388a2b448a5b29e908",
+    "promotion": "_OTHER",
+    "mainCard": {
+      "title": "Drive-In Boxing Night Düsseldorf",
+      "time": "2020-07-11T18:00:00Z",
+      "broadcasters": {
+        "RAN_FIGHTING": {
+          "url": "https://ranfighting.de/drive-in-boxing-night-duesseldorf_3"
         }
       }
     }
@@ -41,203 +192,62 @@
     "sports": [
       "KICKBOXING"
     ],
+    "tags": [
+      "#XFN367",
+      "#XFN",
+      "#Tournament"
+    ],
     "mainCard": {
       "title": "XFN 367",
       "time": "2020-08-08T01:00:00Z",
-      "tags": [
-        "#XFN367",
-        "#XFN",
-        "#Kickboxen",
-        "#Kickboxing",
-        "#Tournament"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 143205
       }
     }
   },
   {
-    "id": "ranfighting-8f97f450a4bc01388a2b448a5b29e908",
+    "id": "fightpass-156958",
     "promotion": "_OTHER",
-    "mainCard": {
-      "title": "Boxen: Drive-In Boxing Night Düsseldorf",
-      "time": "2020-07-11T18:00:00Z",
-      "broadcasters": {
-        "RAN_FIGHTING": {
-          "url": "https://ranfighting.de/drive-in-boxing-night-duesseldorf_3"
-        }
-      }
-    }
-  },
-  {
-    "id": "steko-2020-04-03",
-    "live": false,
-    "promotion": "_OTHER",
-    "mainCard": {
-      "title": "Best of Michael Smolik (Watch Together)",
-      "time": "2020-04-03T16:00:00Z",
-      "until": "2020-04-03T20:00:00Z",
-      "tags": [
-        "#ReLive",
-        "#StayAtHome",
-        "#WatchTogether",
-        "#ranFighting"
-      ],
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=yZFym99jA2c"
-        }
-      }
-    }
-  },
-  {
-    "id": "boxing-2020-04-01",
-    "live": false,
-    "promotion": "_OTHER",
-    "mainCard": {
-      "title": "Boxen: Best of Heavyweights (Watch Together)",
-      "time": "2020-04-01T16:00:00Z",
-      "until": "2020-04-01T20:00:00Z",
-      "tags": [
-        "#ReLive",
-        "#StayAtHome",
-        "#WatchTogether",
-        "#ranFighting"
-      ],
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=-cDT8miqpm4"
-        }
-      }
-    }
-  },
-  {
-    "id": "boxing-2020-03-31",
-    "live": false,
-    "promotion": "_OTHER",
-    "mainCard": {
-      "title": "Boxen: Best of Arthur Abraham (Watch Together)",
-      "time": "2020-03-31T16:00:00Z",
-      "until": "2020-03-31T19:00:00Z",
-      "tags": [
-        "@ArthurAbraham",
-        "#ReLive",
-        "#StayAtHome",
-        "#WatchTogether",
-        "#ranFighting"
-      ],
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=Eddga9yMCYo"
-        }
-      }
-    }
-  },
-  {
-    "id": "boxing-2020-03-29",
-    "live": false,
-    "promotion": "_OTHER",
-    "mainCard": {
-      "title": "Boxen: De La Hoya vs Gatti (Re-Live)",
-      "time": "2020-03-29T00:00:00Z",
-      "until": "2020-03-29T01:00:00Z",
-      "tags": [
-        "#ReLive",
-        "#StayAtHome",
-        "#WatchTogether"
-      ],
-      "broadcasters": {
-        "DAZN": {
-        }
-      }
-    }
-  },
-  {
-    "id": "boxing-2020-03-25",
-    "live": false,
-    "promotion": "_OTHER",
-    "mainCard": {
-      "title": "Boxen: German Classics (Watch Together)",
-      "time": "2020-03-25T17:00:00Z",
-      "until": "2020-03-25T21:00:00Z",
-      "tags": [
-        "#ReLive",
-        "#StayAtHome",
-        "#WatchTogether",
-        "#ranFighting"
-      ],
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=1vgGCLQjR2M"
-        }
-      }
-    }
-  },
-  {
-    "id": "boxing-2020-03-23",
-    "live": false,
-    "promotion": "_OTHER",
-    "mainCard": {
-      "title": "Boxen: Heavyweight Classics (Watch Together)",
-      "time": "2020-03-23T17:00:00Z",
-      "until": "2020-03-23T21:00:00Z",
-      "tags": [
-        "#ReLive",
-        "#StayAtHome",
-        "#WatchTogether",
-        "#ranFighting"
-      ],
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=uJwkMTcU3XA"
-        }
-      }
-    }
-  },
-  {
-    "id": "steko-2021-03-13",
-    "promotion": "_OTHER",
-    "links": [
-      "https://stekos.de/fightnight/"
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#XFN368",
+      "#Tournament"
     ],
     "mainCard": {
-      "title": "Steko's Fight Night",
-      "time": "2020-03-13T19:00:00Z",
-      "tags": [
-        "#MembersOnly",
-        "#Stekos",
-        "#StekosFightNight",
-        "#Kickboxing",
-        "@steko_s"
-      ],
+      "title": "XFN 368",
+      "time": "2020-10-10T01:00:00Z",
       "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/channel/UCdynDzSMqmirzRsN6fjPPPg",
-          "free": false
+        "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 156958
       }
     }
   },
   {
-    "id": "steko-2020-02-16",
+    "id": "fightpass-157740",
     "promotion": "_OTHER",
-    "links": [
-      "https://tv.sport1.de/sport1/"
+    "tags": [
+      "#RoyJonesJr",
+      "#RJJ",
+      "@RoyJonesJrFA"
     ],
     "mainCard": {
-      "title": "Steko's Fight Night",
-      "time": "2020-02-16T19:45:00Z",
-      "until": "2020-02-16T22:00:00Z",
-      "tags": [
-        "#Stekos",
-        "#StekosFightNight",
-        "#Kickboxing",
-        "@steko_s"
-      ],
+      "title": "Torres vs. Zepeda",
+      "time": "2020-10-22T23:00:00Z",
       "broadcasters": {
-        "SPORT1": {
+        "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 157740
       }
     }
   }

@@ -1,5 +1,76 @@
 [
   {
+    "id": "tapology-82805",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Las Vegas 46: Kattar vs. Chikadze",
+      "time": "2022-01-16T00:00:00Z",
+      "tags": [
+        "🎙@SebastianHackl",
+        "#UFCVegas46"
+      ],
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 210260
+      },
+      "dazn": {
+        "id": "1o762d9wrenht17bo5su5qdvng"
+      }
+    },
+    "prelims": {
+      "title": "UFC Las Vegas 46: Prelims",
+      "time": "2022-01-15T22:00:00Z",
+      "tags": [
+        "#UFCVegas46"
+      ],
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 210259
+      }
+    },
+    "tapology": {
+      "id": 82805,
+      "time": "2022-01-15T22:00:00Z",
+      "title": "UFC Fight Night: Kattar vs. Chikadze",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/82805-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Calvin Kattar vs. Giga Chikadze",
+        "Co-Main Event: Jake Collier vs. Chase Sherman",
+        "Main Card: Brandon Royval vs. Rogério Bontorin",
+        "Main Card: Katlyn Chookagian vs. Jennifer Maia",
+        "Main Card: Viacheslav Borshchev vs. Dakota Bush",
+        "Main Card: Bill Algeo vs. Joanderson Brito",
+        "Prelim: Jamie Pickett vs. Joseph Holmes",
+        "Prelim: Court McGee vs. Ramiz Brahimaj",
+        "Prelim: Brian Kelleher vs. Kevin Croom",
+        "Prelim: TJ Brown vs. Charles Rosa"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-on-espn-32-kattar-vs-chikadze-90552",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Kattar_vs._Chikadze",
+        "http://www.mixedmartialarts.com/events/ufc-fight-night:fc69284a-45bf-47ab-8ab6-3ceaf64f5e20",
+        "https://www.ufc.com/event/ufc-fight-night-january-15-2022",
+        "http://www.ufcstats.com/event-details/f5585e675af7afd4",
+        "https://www.bestfightodds.com/events/ufc-fight-night-201-2320"
+      ]
+    }
+  },
+  {
     "id": "tapology-82993",
     "promotion": "UFC",
     "sports": [
@@ -15,7 +86,15 @@
       ],
       "broadcasters": {
         "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 210342
+      },
+      "dazn": {
+        "id": "1sqawz36a3qep1ezatre8t6kkt"
       }
     },
     "prelims": {
@@ -75,69 +154,6 @@
         "https://www.ufc.com/event/ufc-270",
         "http://www.ufcstats.com/event-details/335ad945324c3a2e",
         "https://www.bestfightodds.com/events/ufc-270-2322"
-      ]
-    }
-  },
-  {
-    "id": "tapology-82805",
-    "promotion": "UFC",
-    "sports": [
-      "MMA"
-    ],
-    "mainCard": {
-      "title": "UFC Las Vegas 46: Kattar vs. Chikadze",
-      "time": "2022-01-16T00:00:00Z",
-      "tags": [
-        "🎙@SebastianHackl",
-        "#UFCVegas46"
-      ],
-      "broadcasters": {
-        "DAZN": {
-        }
-      }
-    },
-    "prelims": {
-      "title": "UFC Las Vegas 46: Prelims",
-      "time": "2022-01-15T22:00:00Z",
-      "tags": [
-        "#UFCVegas46"
-      ],
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      },
-      "fightPass": {
-        "id": 210259
-      }
-    },
-    "tapology": {
-      "id": 82805,
-      "time": "2022-01-15T22:00:00Z",
-      "title": "UFC Fight Night: Kattar vs. Chikadze",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/82805-ufc-fight-night",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Calvin Kattar vs. Giga Chikadze",
-        "Co-Main Event: Jake Collier vs. Chase Sherman",
-        "Main Card: Brandon Royval vs. Rogério Bontorin",
-        "Main Card: Katlyn Chookagian vs. Jennifer Maia",
-        "Main Card: Viacheslav Borshchev vs. Dakota Bush",
-        "Main Card: Bill Algeo vs. Joanderson Brito",
-        "Prelim: Jamie Pickett vs. Joseph Holmes",
-        "Prelim: Court McGee vs. Ramiz Brahimaj",
-        "Prelim: Brian Kelleher vs. Kevin Croom",
-        "Prelim: TJ Brown vs. Charles Rosa"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/ufc-on-espn-32-kattar-vs-chikadze-90552",
-        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Kattar_vs._Chikadze",
-        "http://www.mixedmartialarts.com/events/ufc-fight-night:fc69284a-45bf-47ab-8ab6-3ceaf64f5e20",
-        "https://www.ufc.com/event/ufc-fight-night-january-15-2022",
-        "http://www.ufcstats.com/event-details/f5585e675af7afd4",
-        "https://www.bestfightodds.com/events/ufc-fight-night-201-2320"
       ]
     }
   }

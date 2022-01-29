@@ -1,19 +1,68 @@
 [
   {
+    "id": "fightpass-210257",
+    "promotion": "LFA",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#LFA121"
+    ],
+    "mainCard": {
+      "title": "LFA 121: Brown vs. Jones",
+      "time": "2022-01-15T02:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 210257
+      }
+    },
+    "tapology": {
+      "id": 85523,
+      "time": "2022-01-15T02:00:00Z",
+      "title": "LFA 121: Brown vs. Jones",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/85523-lfa-121-mckenzie-vs-jones",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Chris Brown vs. Steve Jones",
+        "Co-Main Event: Elijah Johns vs. Brandon Phillips",
+        "Main Card: Michael Cyr vs. Alden Coria",
+        "Main Card: Isaiah Gutierrez vs. Keeton Gorton",
+        "Main Card: Anvar Boynazarov vs. John Pham",
+        "Main Card: Jakori Savage vs. Siteu Senghor",
+        "Prelim: Zumarr Archer vs. Akeem Lewis",
+        "Prelim: Caleb Jensen vs. Harrison Layne"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/lfa-121-mckenzie-vs-jones-91567",
+        "http://www.mixedmartialarts.com/events/lfa-121:cee76d2c-0d49-4773-8a54-d966b29dcfc7",
+        "https://www.bestfightodds.com/events/lfa-121-2416"
+      ]
+    }
+  },
+  {
     "id": "tapology-85581",
     "promotion": "LFA",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#LFA122"
+    ],
     "mainCard": {
       "title": "LFA 122: Johnson vs. Mota",
       "time": "2022-01-22T02:00:00Z",
-      "tags": [
-        "#LFA122"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 211209
       }
     },
     "tapology": {
@@ -40,49 +89,6 @@
         "http://www.sherdog.com/events/lfa-122-johnson-vs-mota-91568",
         "http://www.mixedmartialarts.com/events/lfa-122:02765590-7c72-41e8-adec-310ef2441380",
         "https://www.bestfightodds.com/events/lfa-122-2419"
-      ]
-    }
-  },
-  {
-    "id": "fightpass-210257",
-    "promotion": "LFA",
-    "sports": [
-      "MMA"
-    ],
-    "mainCard": {
-      "title": "LFA 121: Brown vs. Jones",
-      "time": "2022-01-15T02:00:00Z",
-      "tags": [
-        "#LFA121"
-      ],
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "tapology": {
-      "id": 85523,
-      "time": "2022-01-15T02:00:00Z",
-      "title": "LFA 121: Brown vs. Jones",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/85523-lfa-121-mckenzie-vs-jones",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Chris Brown vs. Steve Jones",
-        "Co-Main Event: Elijah Johns vs. Brandon Phillips",
-        "Main Card: Michael Cyr vs. Alden Coria",
-        "Main Card: Isaiah Gutierrez vs. Keeton Gorton",
-        "Main Card: Anvar Boynazarov vs. John Pham",
-        "Main Card: Jakori Savage vs. Siteu Senghor",
-        "Prelim: Zumarr Archer vs. Akeem Lewis",
-        "Prelim: Caleb Jensen vs. Harrison Layne"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/lfa-121-mckenzie-vs-jones-91567",
-        "http://www.mixedmartialarts.com/events/lfa-121:cee76d2c-0d49-4773-8a54-d966b29dcfc7",
-        "https://www.bestfightodds.com/events/lfa-121-2416"
       ]
     }
   }

@@ -1,37 +1,17 @@
 [
   {
-    "id": "respect-2021-12-18",
-    "promotion": "RESPECT",
-    "sports": [
-      "MMA"
-    ],
-    "mainCard": {
-      "title": "Respect FC 22",
-      "time": "2021-12-18T19:00:00Z",
-      "tags": [
-        "#Respect22",
-        "#RespectFC22"
-      ],
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/channel/UC5p9hgNJAGrAMuYvl5hdCmw"
-        }
-      }
-    }
-  },
-  {
     "id": "tapology-82608",
     "promotion": "RESPECT",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#Respect21",
+      "#RespectFC21"
+    ],
     "mainCard": {
       "title": "Respect FC 21",
       "time": "2021-10-23T18:00:00Z",
-      "tags": [
-        "#Respect21",
-        "#RespectFC21"
-      ],
       "broadcasters": {
         "YOUTUBE": {
           "url": "https://www.youtube.com/watch?v=5IzFlqCNs94"
@@ -59,6 +39,26 @@
       "links": [
         "http://www.sherdog.com/events/rfc-respect-fighting-championship-21-90570"
       ]
+    }
+  },
+  {
+    "id": "respect-2021-12-18",
+    "promotion": "RESPECT",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Respect22",
+      "#RespectFC22"
+    ],
+    "mainCard": {
+      "title": "Respect FC 22",
+      "time": "2021-12-18T19:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/channel/UC5p9hgNJAGrAMuYvl5hdCmw"
+        }
+      }
     }
   }
 ]

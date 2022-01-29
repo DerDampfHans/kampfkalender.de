@@ -1,47 +1,22 @@
 [
   {
-    "id": "tapology-70124",
-    "promotion": "WLC_MM",
-    "mainCard": {
-      "title": "WLC 13: Lethwei Showcase",
-      "time": "2020-09-25T12:00:00Z",
-      "tags": [
-        "#WLC13"
-      ],
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "tapology": {
-      "id": 70124,
-      "time": "2020-09-25T14:00:00Z",
-      "title": "WLC 13: Lethwei Showcase",
-      "info": "Completed Event",
-      "url": "https://www.tapology.com/fightcenter/events/70124-wlc-13",
-      "card": [
-        "Main Card: Antonio Faria vs. J. Francisco Vinuelas",
-        "Main Card: Nicolas Mendès vs. Saensuek",
-        "Main Card: Leehaney Henrique vs. Vladimir Shulyak",
-        "Main Card: Yoel Paique vs. Saw Hla Min",
-        "Main Card: Pha Kyaw Hae vs. Bandasak",
-        "Main Card: Miriam Sabot vs. Petchnaree",
-        "Main Card: Elamghari Ayoub vs. Jay Chay"
-      ]
-    }
-  },
-  {
     "id": "tapology-70123",
     "promotion": "WLC_MM",
+    "sports": [
+      "LETHWEI"
+    ],
+    "tags": [
+      "#WLC12"
+    ],
     "mainCard": {
       "title": "WLC 12: Hideout Battle",
       "time": "2020-08-28T12:00:00Z",
-      "tags": [
-        "#WLC12"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 150782
       }
     },
     "tapology": {
@@ -58,6 +33,43 @@
         "Main Card: Sherzod Kabutov vs. Nakha",
         "Main Card: Omar Mahir vs. Tophik Abdullaev",
         "Main Card: Myagmasuren Borkhuu vs. Nur Mohammad"
+      ]
+    }
+  },
+  {
+    "id": "tapology-70124",
+    "promotion": "WLC_MM",
+    "sports": [
+      "LETHWEI"
+    ],
+    "tags": [
+      "#WLC13"
+    ],
+    "mainCard": {
+      "title": "WLC 13: Lethwei Showcase",
+      "time": "2020-09-25T12:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 153722
+      }
+    },
+    "tapology": {
+      "id": 70124,
+      "time": "2020-09-25T14:00:00Z",
+      "title": "WLC 13: Lethwei Showcase",
+      "info": "Completed Event",
+      "url": "https://www.tapology.com/fightcenter/events/70124-wlc-13",
+      "card": [
+        "Main Card: Antonio Faria vs. J. Francisco Vinuelas",
+        "Main Card: Nicolas Mendès vs. Saensuek",
+        "Main Card: Leehaney Henrique vs. Vladimir Shulyak",
+        "Main Card: Yoel Paique vs. Saw Hla Min",
+        "Main Card: Pha Kyaw Hae vs. Bandasak",
+        "Main Card: Miriam Sabot vs. Petchnaree",
+        "Main Card: Elamghari Ayoub vs. Jay Chay"
       ]
     }
   }

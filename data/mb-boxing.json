@@ -5,6 +5,10 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#RungvisaiCuadras",
+      "#RungvisaiCuadras2"
+    ],
     "mainCard": {
       "title": "Rungvisai vs. Cuadras 2",
       "time": "2022-02-06T01:00:00Z",
@@ -50,6 +54,9 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#JacobsRyder"
+    ],
     "mainCard": {
       "title": "Jacobs vs. Ryder",
       "time": "2022-02-12T19:00:00Z",
@@ -92,6 +99,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Okolie vs. Cieslak",
       "time": "2022-02-27T21:00:00Z"
     },
@@ -106,7 +114,10 @@
       ],
       "card": [
         "Main Event: Lawrence Okolie (17-0-0) vs. Michał Cieślak (21-1-0)",
-        "Main Card: Karim Guerfi (30-5-0) vs. Jordan Gill (26-1-1)"
+        "Main Card: Karim Guerfi (30-5-0) vs. Jordan Gill (26-1-1)",
+        "Main Card: Anthony Fowler (15-2-0) vs. Lukasz Maciec (27-3-1)",
+        "Main Card: Demsey McKean (20-0-0) vs. A. Bracamonte (11-6-0)",
+        "Main Card: Campbell Hatton (5-0-0) vs. Joe Ducker (9-8-2)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/846070"
@@ -120,7 +131,8 @@
       "BOXING"
     ],
     "mainCard": {
-      "title": "Estrada vs. Chocolatito 3",
+      "hidden": true,
+      "title": "Chocolatito vs. Martinez",
       "time": "2022-03-06T03:00:00Z"
     },
     "tapology": {
@@ -150,6 +162,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Wood vs. Conlan",
       "time": "2022-03-12T20:00:00Z"
     },
@@ -180,6 +193,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Martinez vs. Warrington 2",
       "time": "2022-03-26T19:00:00Z"
     },
@@ -207,6 +221,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Taylor vs. Serrano",
       "time": "2022-05-01T01:00:00Z"
     },
@@ -214,13 +229,16 @@
       "id": 86023,
       "time": "2022-05-01T01:00:00Z",
       "title": "Taylor vs. Serrano",
-      "info": "Rumored Upcoming Boxing Event",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/86023-taylor-vs-serrano",
       "sports": [
         "BOXING"
       ],
       "card": [
         "Main Event: Katie Taylor (20-0-0) vs. Amanda Serrano (42-1-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/847320"
       ]
     }
   }

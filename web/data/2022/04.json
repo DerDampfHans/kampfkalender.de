@@ -43,7 +43,7 @@
       "MMA"
     ],
     "links": [
-      "https://www.fightevents.de/event/nfc-8/"
+      "https://www.fightevents.de/event/nfc-8-errens-vs-oezyildirim-2/"
     ],
     "broadcasters": {
       "FIGHTING_DE": {
@@ -90,7 +90,8 @@
       "Prelim: Kelvin Gastelum (17-8-0) vs. Nassourdine Imavov (11-3-0)",
       "Prelim: Julio Arce (17-5-0) vs. Daniel Santos (10-1-0)",
       "Prelim: Ian Garry (8-0-0) vs. Darian Weeks (5-1-0)",
-      "Prelim: Vinc Pichel (14-2-0) vs. Mark O. Madsen (11-0-0)"
+      "Prelim: Vinc Pichel (14-2-0) vs. Mark O. Madsen (11-0-0)",
+      "Prelim: Piera Rodriguez (7-0-0) vs. Kay Hansen (7-5-0)"
     ],
     "broadcasters": {
       "DAZN": {
@@ -100,8 +101,29 @@
     }
   },
   {
-    "id": "ufc-fight-night",
-    "title": "UFC Fight Night",
+    "id": "bkb-25",
+    "title": "BKB 25",
+    "time": "2022-04-10T18:00:00Z",
+    "until": "2022-04-10T21:00:00Z",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/86201-bkb-25"
+    ],
+    "broadcasters": {
+      "FIGHTING_DE": {
+      },
+      "FIGHT24_TV": {
+      },
+      "FITE_TV": {
+      }
+    }
+  },
+  {
+    "id": "ufc-las-vegas-51",
+    "title": "UFC Las Vegas 51",
     "time": "2022-04-16T22:00:00Z",
     "until": "2022-04-17T01:00:00Z",
     "promotion": "UFC",
@@ -115,20 +137,19 @@
       "Main Event: Vicente Luque (21-7-1) vs. Belal Muhammad (20-3-0)",
       "Main Card: Miguel Baeza (10-2-0) vs. Dhiego Lima (15-9-0)",
       "Main Card: Chris Barnett (22-7-0) vs. Martin Buday (9-1-0)",
+      "Main Card: Uriah Hall (17-10-0) vs. André Muniz (22-4-0)",
       "Prelim: Drakkar Klose (11-2-1) vs. Brandon Jenkins (15-8-0)",
       "Prelim: Rafa García (13-2-0) vs. Jesse Ronson (21-10-0)",
       "Prelim: Caio Borralho (10-1-0) vs. Gadzhi Omargadzhiev (13-0-0)",
       "Prelim: Lina Länsberg (10-5-0) vs. Pannie Kianzad (15-6-0)"
     ],
     "broadcasters": {
-      "DAZN": {
-      },
       "UFC_FIGHT_PASS": {
       }
     }
   },
   {
-    "id": "ufc-fight-night-1",
+    "id": "ufc-fight-night",
     "title": "UFC Fight Night",
     "time": "2022-04-23T22:00:00Z",
     "until": "2022-04-24T01:00:00Z",
@@ -140,7 +161,9 @@
       "https://www.tapology.com/fightcenter/events/86013-ufc-fight-night"
     ],
     "card": [
-      "Main Card: Amanda Lemos (11-1-1) vs. Jéssica Andrade (22-9-0)",
+      "Main Event: Amanda Lemos (11-1-1) vs. Jéssica Andrade (22-9-0)",
+      "Main Card: Tanner Boser (20-8-1) vs. Rodrigo Nascimento (8-1-0)",
+      "Main Card: Mudaerji Su (14-4-0) vs. Manel Kape (17-6-0)",
       "Prelim: Louis Cosce (7-1-0) vs. Preston Parsons (9-3-0)",
       "Prelim: Qileng Aori (19-11-0) vs. Cameron Else (10-5-0)",
       "Prelim: Clay Guida (37-21-0) vs. Claudio Puelles (11-2-0)",
@@ -186,6 +209,7 @@
     ],
     "card": [
       "Main Card: Antonina Shevchenko (9-4-0) vs. Cortney Casey (10-9-0)",
+      "Main Card: Donald Cerrone (36-16-0) vs. Joe Lauzon (28-15-0)",
       "Prelim: Gina Mazany (7-5-0) vs. Shanna Young (7-4-0)",
       "Prelim: Daniel da Silva (11-2-0) vs. Francisco Figueiredo (12-4-1)",
       "Prelim: Mike Breeden (10-4-0) vs. Natan Levy (6-1-0)"

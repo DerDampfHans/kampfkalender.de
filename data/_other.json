@@ -5,12 +5,12 @@
     "sports": [
       "KICKBOXING"
     ],
+    "tags": [
+      "#XFN378"
+    ],
     "mainCard": {
       "title": "XFN 378 Kickboxing",
       "time": "2022-02-05T02:00:00Z",
-      "tags": [
-        "#XFN378"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -25,12 +25,12 @@
   {
     "id": "pettis-showtime-2022-02-12",
     "promotion": "_OTHER",
+    "tags": [
+      "#MMA"
+    ],
     "mainCard": {
       "title": "Anthony Pettis FC 1",
       "time": "2022-02-12T02:00:00Z",
-      "tags": [
-        "#MMA"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -40,6 +40,15 @@
         "time": "2022-02-12T02:00:00Z",
         "title": "Anthony Pettis FC 1"
       }
+    }
+  },
+  {
+    "id": "tapology-85522",
+    "promotion": "_OTHER",
+    "mainCard": {
+      "hidden": true,
+      "title": "Ancajas vs. Martinez",
+      "time": "2022-02-20T02:00:00Z"
     }
   },
   {
@@ -61,6 +70,10 @@
   {
     "id": "one-man-series-2022-03-26",
     "promotion": "_OTHER",
+    "tags": [
+      "#K1",
+      "#Kickboxen"
+    ],
     "links": [
       "https://www.fightevents.de/event/one-man-series-next-level/"
     ],
@@ -68,10 +81,6 @@
       "title": "One Man Series – Next Level",
       "time": "2022-03-26T17:00:00Z",
       "until": "2022-03-26T21:30:00Z",
-      "tags": [
-        "#K1",
-        "#Kickboxen"
-      ],
       "broadcasters": {
         "FIGHT24_TV": {
         }

@@ -1,44 +1,86 @@
 [
   {
-    "id": "tapology-82435",
+    "id": "tapology-76584",
     "promotion": "TFC_BOXING",
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#PaulAskren",
+      "#Triller"
+    ],
     "mainCard": {
-      "title": "Boxen: Cano vs. Zorrilla",
-      "time": "2021-09-14T22:00:00Z",
-      "tags": [
-        "#PPV",
-        "#CanoZorrilla",
-        "#TrillerFightClub",
-        "@triller"
-      ],
+      "title": "Paul vs. Askren",
+      "time": "2021-04-18T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
-          "url": "https://www.fite.tv/watch/trillerverz-fat-joe-vs-ja-rule/2pa01/"
+          "url": "https://www.fite.tv/watch/jake-paul-vs-ben-askren-de/2p91c/"
         }
       }
     },
     "tapology": {
-      "id": 82435,
-      "time": "2021-09-15T01:00:00Z",
-      "title": "Triller Verz II: Cano vs. Zorrilla",
+      "id": 76584,
+      "time": "2021-04-18T03:00:00Z",
+      "title": "Paul vs. Askren",
       "info": "Completed Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/82435-triller-verz-cano-vs-zorrilla",
+      "url": "https://www.tapology.com/fightcenter/events/76584-paul-vs-askren",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Danielito Zorrilla vs. Pablo Cesar Cano",
-        "Co-Main Event: Nahir Albright vs. Michael Dutchover",
-        "Main Card: Miguel Madueno vs. Sonny Fredrickson",
-        "Main Card: Yunieski Gonzalez vs. Tommy Karpency",
-        "Main Card: Bryce Henry vs. Juan De Angel"
+        "Main Event: Jake Paul vs. Ben Askren",
+        "Co-Main Event: Regis Prograis vs. Ivan Redkach",
+        "Main Card: Steve Cunningham vs. Frank Mir",
+        "Main Card: Joe Fournier vs. R. Felipe Robledo Londono",
+        "Prelim: Junior Younan vs. Jeyson Minda",
+        "Prelim: Quinton Randall vs. William Jackson"
       ],
       "links": [
-        "http://en.wikipedia.org/wiki/Evander_Holyfield_vs._Vitor_Belfort",
-        "http://www.boxrec.com/en/event/838537"
+        "http://www.boxrec.com/en/event/826436"
+      ]
+    }
+  },
+  {
+    "id": "tapology-80647",
+    "promotion": "TFC_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#HunterWilson"
+    ],
+    "mainCard": {
+      "title": "Wilson vs. Hunter",
+      "time": "2021-08-03T22:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/the-trillerverz-1/2p9r2/",
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 80647,
+      "time": "2021-08-03T23:30:00Z",
+      "title": "Triller Verz: Wilson vs. Hunter",
+      "info": "Completed Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/80647-triller-verz-wilson-vs-hunter",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Michael Hunter vs. Mike Wilson",
+        "Co-Main Event: Chris Algieri vs. Mikkel LesPierre",
+        "Main Card: Ivan Golub vs. Eric Walker",
+        "Main Card: Joe Ward vs. Tory Williams",
+        "Main Card: Aaron Aponte vs. G. Gonzalez",
+        "Main Card: Matthew Tinker vs. Michael Rycraft",
+        "Main Card: Robert Sabbagh vs. C. Billingsly III",
+        "Main Card: Guido Emmanuel Schramm vs. Nikoloz Sekhniashvili",
+        "Main Card: Christina Cruz vs. Indeya Smith"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/836114"
       ]
     }
   },
@@ -49,7 +91,7 @@
       "BOXING"
     ],
     "mainCard": {
-      "title": "Boxen: Holyfield vs. Belfort",
+      "title": "Holyfield vs. Belfort",
       "time": "2021-09-11T23:00:00Z",
       "tags": [
         "#PPV",
@@ -65,7 +107,7 @@
       }
     },
     "prelims": {
-      "title": "Boxen: Holyfield vs. Belfort (Prelims)",
+      "title": "Holyfield vs. Belfort (Prelims)",
       "time": "2021-09-11T22:00:00Z",
       "tags": [
         "#HolyfieldBelfort",
@@ -102,87 +144,45 @@
     }
   },
   {
-    "id": "tapology-80647",
+    "id": "tapology-82435",
     "promotion": "TFC_BOXING",
     "sports": [
       "BOXING"
     ],
-    "mainCard": {
-      "title": "Boxen: Wilson vs. Hunter",
-      "time": "2021-08-03T22:00:00Z",
-      "tags": [
-        "#HunterWilson"
-      ],
-      "broadcasters": {
-        "FITE_TV": {
-          "url": "https://www.fite.tv/watch/the-trillerverz-1/2p9r2/",
-          "free": true
-        }
-      }
-    },
-    "tapology": {
-      "id": 80647,
-      "time": "2021-08-03T23:30:00Z",
-      "title": "Triller Verz: Wilson vs. Hunter",
-      "info": "Completed Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/80647-triller-verz-wilson-vs-hunter",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Michael Hunter vs. Mike Wilson",
-        "Co-Main Event: Chris Algieri vs. Mikkel LesPierre",
-        "Main Card: Ivan Golub vs. Eric Walker",
-        "Main Card: Joe Ward vs. Tory Williams",
-        "Main Card: Aaron Aponte vs. G. Gonzalez",
-        "Main Card: Matthew Tinker vs. Michael Rycraft",
-        "Main Card: Robert Sabbagh vs. C. Billingsly III",
-        "Main Card: Guido Emmanuel Schramm vs. Nikoloz Sekhniashvili",
-        "Main Card: Christina Cruz vs. Indeya Smith"
-      ],
-      "links": [
-        "http://www.boxrec.com/en/event/836114"
-      ]
-    }
-  },
-  {
-    "id": "tapology-76584",
-    "promotion": "TFC_BOXING",
-    "sports": [
-      "BOXING"
+    "tags": [
+      "#PPV",
+      "#CanoZorrilla",
+      "#TrillerFightClub",
+      "@triller"
     ],
     "mainCard": {
-      "title": "Boxen: Paul vs. Askren",
-      "time": "2021-04-18T01:00:00Z",
-      "tags": [
-        "#PaulAskren",
-        "#Triller"
-      ],
+      "title": "Cano vs. Zorrilla",
+      "time": "2021-09-14T22:00:00Z",
       "broadcasters": {
         "FITE_TV": {
-          "url": "https://www.fite.tv/watch/jake-paul-vs-ben-askren-de/2p91c/"
+          "url": "https://www.fite.tv/watch/trillerverz-fat-joe-vs-ja-rule/2pa01/"
         }
       }
     },
     "tapology": {
-      "id": 76584,
-      "time": "2021-04-18T03:00:00Z",
-      "title": "Paul vs. Askren",
+      "id": 82435,
+      "time": "2021-09-15T01:00:00Z",
+      "title": "Triller Verz II: Cano vs. Zorrilla",
       "info": "Completed Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/76584-paul-vs-askren",
+      "url": "https://www.tapology.com/fightcenter/events/82435-triller-verz-cano-vs-zorrilla",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Jake Paul vs. Ben Askren",
-        "Co-Main Event: Regis Prograis vs. Ivan Redkach",
-        "Main Card: Steve Cunningham vs. Frank Mir",
-        "Main Card: Joe Fournier vs. R. Felipe Robledo Londono",
-        "Prelim: Junior Younan vs. Jeyson Minda",
-        "Prelim: Quinton Randall vs. William Jackson"
+        "Main Event: Danielito Zorrilla vs. Pablo Cesar Cano",
+        "Co-Main Event: Nahir Albright vs. Michael Dutchover",
+        "Main Card: Miguel Madueno vs. Sonny Fredrickson",
+        "Main Card: Yunieski Gonzalez vs. Tommy Karpency",
+        "Main Card: Bryce Henry vs. Juan De Angel"
       ],
       "links": [
-        "http://www.boxrec.com/en/event/826436"
+        "http://en.wikipedia.org/wiki/Evander_Holyfield_vs._Vitor_Belfort",
+        "http://www.boxrec.com/en/event/838537"
       ]
     }
   }

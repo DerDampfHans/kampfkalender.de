@@ -1,76 +1,53 @@
 [
   {
-    "id": "tapology-82144",
+    "id": "tapology-74401",
     "promotion": "GLORY",
     "sports": [
       "KICKBOXING"
     ],
+    "tags": [
+      "#GLORY77",
+      "#PPV"
+    ],
     "links": [
-      "https://app.gloryfightfightfight.com/purchase?from=/live/200439/collision-3-verhoeven-vs-ben-saddik--ppv",
-      "https://www.glorykickboxing.com/events/collision-3:6f88e818-8690-483b-b399-a8ffbcdc14f0",
-      "https://www.fightevents.de/event/glory-collision-3/"
+      "https://fighting.de/"
     ],
     "mainCard": {
-      "title": "Glory Collision 3: Verhoeven vs. Ben Saddik",
-      "time": "2021-10-23T18:00:00Z",
-      "tags": [
-        "#PPV",
-        "#COLLISION3",
-        "#Glory79"
-      ],
+      "title": "Glory 77",
+      "time": "2021-01-30T19:00:00Z",
       "broadcasters": {
-        "GLORY_TV": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Glory 77: Prelims",
+      "time": "2021-01-30T18:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=hmFT5nBXKUY"
         }
       }
     },
     "tapology": {
-      "id": 82144,
-      "time": "2021-10-23T16:00:00Z",
-      "title": "Glory 79: Collision 3",
-      "titleAlt": "Verhoeven vs Overeem",
+      "id": 75071,
+      "time": "2021-01-30T18:00:00Z",
+      "title": "Glory 77",
       "info": "Completed Kickboxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/82144-glory-79-collision-3",
+      "url": "https://www.tapology.com/fightcenter/events/75071-glory-77",
       "sports": [
         "KICKBOXING"
       ],
       "card": [
-        "Main Event: Rico Verhoeven vs. Jamal Ben Saddik",
-        "Co-Main Event: Gökhan Saki vs. James McSweeney",
-        "Main Card: Mohamed Mezouari vs. Samuel Dbili",
-        "Main Card: Sergej Maslobojev vs. Donegi Abena",
-        "Main Card: Antonio Plazibat vs. Benjamin Adegbuyi",
-        "Main Card: Michael Duut vs. John King",
-        "Main Card: Alim Nabiev vs. Troy Jones",
-        "Main Card: Aleksei Ulianov vs. Serhiy Adamchuk",
-        "Main Card: Serkan Ozcaglayan vs. Matt Baker",
-        "Main Card: Stoyan Koprivlenski vs. Bruno Gazani"
+        "Main Event: Rico Verhoeven vs. Tarik Khbabez",
+        "Co-Main Event: Alex Pereira vs. Artem Vakhitov",
+        "Main Card: Cédric Doumbé vs. Murthel Groenhart",
+        "Main Card: Tarik Khbabez vs. Levi Rigters",
+        "Main Card: Rico Verhoeven vs. Hesdy Gerges",
+        "Main Card: Tiffany Van Soest vs. Aline Pereira",
+        "Main Card: Luis Tavares vs. Donegi Abena",
+        "Prelim: Martin Pacas vs. Muhammed Balli"
       ]
-    }
-  },
-  {
-    "id": "glory-2021-10-23",
-    "promotion": "GLORY",
-    "sports": [
-      "KICKBOXING"
-    ],
-    "links": [
-      "https://www.glorykickboxing.com/events/collision-3:6f88e818-8690-483b-b399-a8ffbcdc14f0",
-      "https://www.fightevents.de/event/glory-collision-3/"
-    ],
-    "mainCard": {
-      "title": "Glory 79: Nabiev vs. Jones",
-      "time": "2021-10-23T15:00:00Z",
-      "until": "2021-10-23T18:00:00Z",
-      "tags": [
-        "#kostenlos",
-        "#Glory79"
-      ],
-      "broadcasters": {
-        "FIGHTING_DE": {
-          "url": "https://www.youtube.com/watch?v=X-OW2Gpk5TU",
-          "free": true
-        }
-      }
     }
   },
   {
@@ -79,6 +56,10 @@
     "sports": [
       "KICKBOXING"
     ],
+    "tags": [
+      "#PPV",
+      "#GLORY78"
+    ],
     "links": [
       "https://fighting.de/project/glory-78-04-september/",
       "https://bit.ly/Glory78_PPV"
@@ -86,10 +67,6 @@
     "mainCard": {
       "title": "Glory 78: Hari vs. Wrzosek",
       "time": "2021-09-04T18:00:00Z",
-      "tags": [
-        "#PPV",
-        "#GLORY78"
-      ],
       "broadcasters": {
         "FIGHTING_DE": {
         }
@@ -130,53 +107,76 @@
     }
   },
   {
-    "id": "tapology-74401",
+    "id": "glory-2021-10-23",
     "promotion": "GLORY",
     "sports": [
       "KICKBOXING"
     ],
+    "tags": [
+      "#kostenlos",
+      "#Glory79"
+    ],
     "links": [
-      "https://fighting.de/"
+      "https://www.glorykickboxing.com/events/collision-3:6f88e818-8690-483b-b399-a8ffbcdc14f0",
+      "https://www.fightevents.de/event/glory-collision-3/"
     ],
     "mainCard": {
-      "title": "Glory 77",
-      "time": "2021-01-30T19:00:00Z",
-      "tags": [
-        "#GLORY77",
-        "#PPV"
-      ],
+      "title": "Glory 79: Nabiev vs. Jones",
+      "time": "2021-10-23T15:00:00Z",
+      "until": "2021-10-23T18:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=X-OW2Gpk5TU",
+          "free": true
         }
       }
-    },
-    "prelims": {
-      "title": "Glory 77: Prelims",
-      "time": "2021-01-30T18:00:00Z",
+    }
+  },
+  {
+    "id": "tapology-82144",
+    "promotion": "GLORY",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#PPV",
+      "#COLLISION3",
+      "#Glory79"
+    ],
+    "links": [
+      "https://app.gloryfightfightfight.com/purchase?from=/live/200439/collision-3-verhoeven-vs-ben-saddik--ppv",
+      "https://www.glorykickboxing.com/events/collision-3:6f88e818-8690-483b-b399-a8ffbcdc14f0",
+      "https://www.fightevents.de/event/glory-collision-3/"
+    ],
+    "mainCard": {
+      "title": "Glory Collision 3: Verhoeven vs. Ben Saddik",
+      "time": "2021-10-23T18:00:00Z",
       "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=hmFT5nBXKUY"
+        "GLORY_TV": {
         }
       }
     },
     "tapology": {
-      "id": 75071,
-      "time": "2021-01-30T18:00:00Z",
-      "title": "Glory 77",
+      "id": 82144,
+      "time": "2021-10-23T16:00:00Z",
+      "title": "Glory 79: Collision 3",
+      "titleAlt": "Verhoeven vs Overeem",
       "info": "Completed Kickboxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/75071-glory-77",
+      "url": "https://www.tapology.com/fightcenter/events/82144-glory-79-collision-3",
       "sports": [
         "KICKBOXING"
       ],
       "card": [
-        "Main Event: Rico Verhoeven vs. Tarik Khbabez",
-        "Co-Main Event: Alex Pereira vs. Artem Vakhitov",
-        "Main Card: Cédric Doumbé vs. Murthel Groenhart",
-        "Main Card: Tarik Khbabez vs. Levi Rigters",
-        "Main Card: Rico Verhoeven vs. Hesdy Gerges",
-        "Main Card: Tiffany Van Soest vs. Aline Pereira",
-        "Main Card: Luis Tavares vs. Donegi Abena",
-        "Prelim: Martin Pacas vs. Muhammed Balli"
+        "Main Event: Rico Verhoeven vs. Jamal Ben Saddik",
+        "Co-Main Event: Gökhan Saki vs. James McSweeney",
+        "Main Card: Mohamed Mezouari vs. Samuel Dbili",
+        "Main Card: Sergej Maslobojev vs. Donegi Abena",
+        "Main Card: Antonio Plazibat vs. Benjamin Adegbuyi",
+        "Main Card: Michael Duut vs. John King",
+        "Main Card: Alim Nabiev vs. Troy Jones",
+        "Main Card: Aleksei Ulianov vs. Serhiy Adamchuk",
+        "Main Card: Serkan Ozcaglayan vs. Matt Baker",
+        "Main Card: Stoyan Koprivlenski vs. Bruno Gazani"
       ]
     }
   }

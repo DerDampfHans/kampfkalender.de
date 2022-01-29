@@ -2,16 +2,21 @@
   {
     "id": "fightpass-151932",
     "promotion": "WUG_WRESTLING",
+    "sports": [
+      "WRESTLING"
+    ],
+    "tags": [
+      "#WUG1"
+    ],
     "mainCard": {
       "title": "Wrestling Underground 1",
       "time": "2020-08-31T01:00:00Z",
-      "tags": [
-        "#WUG1",
-        "#Wrestling"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 151932
       }
     },
     "tapology": {

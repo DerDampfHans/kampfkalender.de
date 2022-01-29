@@ -5,13 +5,16 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#OFC16"
+    ],
     "mainCard": {
+      "hidden": true,
       "title": "Open Fighting Championship 16",
-      "time": "2022-01-29T06:00:00Z",
+      "time": "2022-01-29T15:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
-        },
-        "FIGHT24_TV": {
+          "url": "https://www.youtube.com/watch?v=fdpeUAqkdxw"
         }
       }
     },
@@ -49,15 +52,13 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#OFC17"
+    ],
     "mainCard": {
+      "hidden": true,
       "title": "Open Fighting Championship 17",
-      "time": "2022-02-05T16:00:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        },
-        "FIGHT24_TV": {
-        }
-      }
+      "time": "2022-02-05T16:00:00Z"
     },
     "tapology": {
       "id": 85250,

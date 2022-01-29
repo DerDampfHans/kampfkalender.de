@@ -1,19 +1,22 @@
 [
   {
-    "id": "fightpass-208773",
+    "id": "fightpass-188585",
     "promotion": "ALASKA",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#AFC159"
+    ],
     "mainCard": {
-      "title": "Alaska FC 161",
-      "time": "2021-11-10T17:00:00Z",
-      "tags": [
-        "#AFC161"
-      ],
+      "title": "Alaska FC 159",
+      "time": "2021-06-24T03:30:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 188585
       }
     }
   },
@@ -23,33 +26,39 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#AFC160"
+    ],
     "mainCard": {
       "title": "Alaska FC 160",
       "time": "2021-08-19T04:00:00Z",
-      "tags": [
-        "#AFC160"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 193805
       }
     }
   },
   {
-    "id": "fightpass-188585",
+    "id": "fightpass-208773",
     "promotion": "ALASKA",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#AFC161"
+    ],
     "mainCard": {
-      "title": "Alaska FC 159",
-      "time": "2021-06-24T03:30:00Z",
-      "tags": [
-        "#AFC159"
-      ],
+      "title": "Alaska FC 161",
+      "time": "2021-11-10T17:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 208773
       }
     }
   }

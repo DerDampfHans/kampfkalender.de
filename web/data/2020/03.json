@@ -1,7 +1,7 @@
 [
   {
-    "id": "boxen-garcia-vs-vargas",
-    "title": "Boxen: Garcia vs. Vargas",
+    "id": "garcia-vs-vargas",
+    "title": "Garcia vs. Vargas",
     "time": "2020-03-01T01:00:00Z",
     "until": "2020-03-01T04:00:00Z",
     "promotion": "MB_BOXING",
@@ -63,6 +63,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -75,6 +77,8 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=rzUCRGMboKQ"
+      },
+      "RAN_FIGHTING": {
       }
     }
   },
@@ -222,38 +226,8 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=0Y15Ie2Nvg8"
-      }
-    }
-  },
-  {
-    "id": "boxen-quigg-vs-carroll",
-    "title": "Boxen: Quigg vs. Carroll",
-    "time": "2020-03-07T19:00:00Z",
-    "until": "2020-03-07T22:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/65854-johnson-vs-mikhalkin",
-      "http://www.boxrec.com/en/event/800594"
-    ],
-    "card": [
-      "Main Event: Jono Carroll vs. Scott Quigg",
-      "Main Card: Zach Parker vs. Rohan Murdock",
-      "Main Card: Hughie Fury vs. Pavel Sour",
-      "Main Card: Jack Cullen vs. Tomas Andres Reynoso",
-      "Main Card: Reshat Mati vs. Abdallah Luanja",
-      "Main Card: Dalton Smith vs. Benson Nyilawila",
-      "Main Card: Aqib Fiaz vs. Dean Jones",
-      "Main Card: Ibrahim Nadim vs. Stefan Nicolae",
-      "Main Card: Bradley Rea vs. Pavol Garaj",
-      "Main Card: Blane Hyland vs. Joel Sanchez",
-      "Main Card: Anthony Fowler vs. Theophilus Tetteh",
-      "Main Card: Robbie Davies Jr. vs. Damian Leonardo Yapur"
-    ],
-    "broadcasters": {
-      "DAZN": {
+      },
+      "RAN_FIGHTING": {
       }
     }
   },
@@ -290,6 +264,38 @@
     "broadcasters": {
       "RAN_FIGHTING": {
         "url": "https://www.youtube.com/watch?v=p1TbRYMl9hc"
+      }
+    }
+  },
+  {
+    "id": "quigg-vs-carroll",
+    "title": "Quigg vs. Carroll",
+    "time": "2020-03-07T19:00:00Z",
+    "until": "2020-03-07T22:00:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/65854-johnson-vs-mikhalkin",
+      "http://www.boxrec.com/en/event/800594"
+    ],
+    "card": [
+      "Main Event: Jono Carroll vs. Scott Quigg",
+      "Main Card: Zach Parker vs. Rohan Murdock",
+      "Main Card: Hughie Fury vs. Pavel Sour",
+      "Main Card: Jack Cullen vs. Tomas Andres Reynoso",
+      "Main Card: Reshat Mati vs. Abdallah Luanja",
+      "Main Card: Dalton Smith vs. Benson Nyilawila",
+      "Main Card: Aqib Fiaz vs. Dean Jones",
+      "Main Card: Ibrahim Nadim vs. Stefan Nicolae",
+      "Main Card: Bradley Rea vs. Pavol Garaj",
+      "Main Card: Blane Hyland vs. Joel Sanchez",
+      "Main Card: Anthony Fowler vs. Theophilus Tetteh",
+      "Main Card: Robbie Davies Jr. vs. Damian Leonardo Yapur"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },
@@ -455,6 +461,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -467,6 +475,8 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=ha0pWka89PY"
+      },
+      "RAN_FIGHTING": {
       }
     }
   },
@@ -636,6 +646,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -683,6 +695,8 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=S4b0lrEl9Zc"
+      },
+      "RAN_FIGHTING": {
       }
     }
   },
@@ -911,6 +925,8 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=YhDEzJJzJdQ"
+      },
+      "RAN_FIGHTING": {
       }
     }
   },
@@ -945,8 +961,8 @@
     }
   },
   {
-    "id": "boxen-heavyweight-classics-watch-together-",
-    "title": "Boxen: Heavyweight Classics (Watch Together)",
+    "id": "heavyweight-classics-watch-together-",
+    "title": "Heavyweight Classics (Watch Together)",
     "time": "2020-03-23T17:00:00Z",
     "until": "2020-03-23T21:00:00Z",
     "live": false,
@@ -996,8 +1012,8 @@
     }
   },
   {
-    "id": "boxen-german-classics-watch-together-",
-    "title": "Boxen: German Classics (Watch Together)",
+    "id": "german-classics-watch-together-",
+    "title": "German Classics (Watch Together)",
     "time": "2020-03-25T17:00:00Z",
     "until": "2020-03-25T21:00:00Z",
     "live": false,
@@ -1222,8 +1238,8 @@
     }
   },
   {
-    "id": "boxen-de-la-hoya-vs-gatti-re-live-",
-    "title": "Boxen: De La Hoya vs Gatti (Re-Live)",
+    "id": "de-la-hoya-vs-gatti-re-live-",
+    "title": "De La Hoya vs Gatti (Re-Live)",
     "time": "2020-03-29T00:00:00Z",
     "until": "2020-03-29T01:00:00Z",
     "live": false,
@@ -1242,6 +1258,8 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=6phCInbs1nU"
+      },
+      "RAN_FIGHTING": {
       }
     }
   },
@@ -1332,8 +1350,8 @@
     }
   },
   {
-    "id": "boxen-best-of-arthur-abraham-watch-together-",
-    "title": "Boxen: Best of Arthur Abraham (Watch Together)",
+    "id": "best-of-arthur-abraham-watch-together-",
+    "title": "Best of Arthur Abraham (Watch Together)",
     "time": "2020-03-31T16:00:00Z",
     "until": "2020-03-31T19:00:00Z",
     "live": false,

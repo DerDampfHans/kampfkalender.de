@@ -1,95 +1,50 @@
 [
   {
-    "id": "tapology-74679",
+    "id": "tapology-71076",
     "promotion": "FAC",
     "sports": [
       "MMA"
     ],
-    "mainCard": {
-      "title": "FAC 6",
-      "time": "2020-12-13T01:00:00Z",
-      "tags": [
-        "#FAC6"
-      ],
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "tapology": {
-      "id": 74679,
-      "time": "2020-12-13T01:00:00Z",
-      "title": "FAC 6",
-      "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/74679-fac-6",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Deron Carlis vs. Adam Rider",
-        "Co-Main Event: Alan Olivas vs. Joey Estrada",
-        "Main Card: John Beckett vs. Cesar Morales",
-        "Main Card: Julie Russell vs. Morgan Walgren",
-        "Main Card: Isaac Dulgarian vs. Ralph Hernandez III",
-        "Main Card: Billy Wilson vs. Devante Frencher",
-        "Main Card: Sean Atkinson vs. Blake Sims",
-        "Main Card: Muhammad Zwolak vs. Kaleb Young",
-        "Main Card: Alejandro Gomez vs. Vince Anderson",
-        "Main Card: Kevin Thomas vs. Mike Cole",
-        "Main Card: Colton Kooser vs. Devin Blessing",
-        "Main Card: Lucas Da Costa vs. Rex Stidham",
-        "Main Card: Tristram Christensen vs. Kent Masters",
-        "Main Card: Tyree Robins vs. Blake Pennock"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/fac-6-fighting-alliance-championship-88205",
-        "http://www.mixedmartialarts.com/events/fac-6:05f023e6-c1df-4ac1-bacf-f1db85ff1a13"
-      ]
-    }
-  },
-  {
-    "id": "fac-2020-12-12",
-    "promotion": "FAC",
-    "sports": [
-      "MMA"
+    "tags": [
+      "#FAC3"
     ],
     "mainCard": {
-      "title": "FAC 5",
-      "time": "2020-12-12T03:00:00Z",
-      "tags": [
-        "#FAC5"
-      ],
+      "title": "FAC 3",
+      "time": "2020-08-15T02:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 148773
       }
     },
     "tapology": {
-      "id": 74678,
-      "time": "2020-12-12T01:00:00Z",
-      "title": "FAC 5",
+      "id": 71076,
+      "time": "2020-08-14T22:00:00Z",
+      "title": "FAC 3",
       "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/74678-fac-5",
+      "url": "https://www.tapology.com/fightcenter/events/71076-fac-3",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Jason High vs. Jake Lindsey",
-        "Main Card: Mike Breeden vs. Ken Beverly",
-        "Main Card: Bryan McDowell vs. Devon Webber",
-        "Main Card: Caleb Crump vs. John O'Brien",
-        "Main Card: EJ Brooks vs. Derek Holly",
-        "Main Card: Derrick Weaver vs. Antonio Martinez",
-        "Main Card: Gauge Young vs. Shea Conley",
-        "Main Card: Nicholas Meck vs. James Regina",
-        "Main Card: Dan Moriarty vs. Cameron Cash",
-        "Main Card: Amanda Byers vs. Rachael Lippert",
-        "Main Card: Ty Schrader vs. Curtis Bissell",
-        "Main Card: Hunter Vaughn vs. Dominic Gilliam"
+        "Main Event: Kevin Croom vs. Anderson Hutchinson",
+        "Co-Main Event: Trey Ogden vs. Cody Carrillo",
+        "Main Card: David Onama vs. Sam Agushi",
+        "Main Card: Mikey England vs. Travis Ford",
+        "Main Card: Anthony Goldfield vs. Joseph Galaviz",
+        "Main Card: John O'Brien vs. Daniel Jefferson",
+        "Main Card: Steven Graham vs. Joey Estrada",
+        "Main Card: Ashton Kirby vs. Gauge Young",
+        "Main Card: Isaac Dulgarian vs. Hector Combest",
+        "Main Card: Muhammad Zwolak vs. Corey Innis",
+        "Main Card: Nicholas Meck vs. Mike Murray",
+        "Main Card: Cameron Cash vs. Jorge Luna"
       ],
       "links": [
-        "http://www.sherdog.com/events/fac-5-fighting-alliance-championship-88204",
-        "http://www.mixedmartialarts.com/events/fac-5:9436dbe4-aba0-4fea-bdf6-7779f1aa46fe"
+        "http://www.sherdog.com/events/fac-3-fighting-alliance-championship-86045",
+        "http://www.mixedmartialarts.com/events/fac-3:b4dc4ed2-14f1-49dd-9270-4fdbff1bc6a5"
       ]
     }
   },
@@ -99,15 +54,18 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#FAC4"
+    ],
     "mainCard": {
       "title": "FAC 4",
       "time": "2020-10-10T02:00:00Z",
-      "tags": [
-        "#FAC4"
-      ],
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 156960
       }
     },
     "tapology": {
@@ -141,48 +99,99 @@
     }
   },
   {
-    "id": "tapology-71076",
+    "id": "fac-2020-12-12",
     "promotion": "FAC",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#FAC5"
+    ],
     "mainCard": {
-      "title": "FAC 3",
-      "time": "2020-08-15T02:00:00Z",
-      "tags": [
-        "#FAC3"
+      "title": "FAC 5",
+      "time": "2020-12-12T03:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 163213
+      }
+    },
+    "tapology": {
+      "id": 74678,
+      "time": "2020-12-12T01:00:00Z",
+      "title": "FAC 5",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/74678-fac-5",
+      "sports": [
+        "MMA"
       ],
+      "card": [
+        "Main Event: Jason High vs. Jake Lindsey",
+        "Main Card: Mike Breeden vs. Ken Beverly",
+        "Main Card: Bryan McDowell vs. Devon Webber",
+        "Main Card: Caleb Crump vs. John O'Brien",
+        "Main Card: EJ Brooks vs. Derek Holly",
+        "Main Card: Derrick Weaver vs. Antonio Martinez",
+        "Main Card: Gauge Young vs. Shea Conley",
+        "Main Card: Nicholas Meck vs. James Regina",
+        "Main Card: Dan Moriarty vs. Cameron Cash",
+        "Main Card: Amanda Byers vs. Rachael Lippert",
+        "Main Card: Ty Schrader vs. Curtis Bissell",
+        "Main Card: Hunter Vaughn vs. Dominic Gilliam"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/fac-5-fighting-alliance-championship-88204",
+        "http://www.mixedmartialarts.com/events/fac-5:9436dbe4-aba0-4fea-bdf6-7779f1aa46fe"
+      ]
+    }
+  },
+  {
+    "id": "tapology-74679",
+    "promotion": "FAC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#FAC6"
+    ],
+    "mainCard": {
+      "title": "FAC 6",
+      "time": "2020-12-13T01:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       }
     },
     "tapology": {
-      "id": 71076,
-      "time": "2020-08-14T22:00:00Z",
-      "title": "FAC 3",
+      "id": 74679,
+      "time": "2020-12-13T01:00:00Z",
+      "title": "FAC 6",
       "info": "Completed MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/71076-fac-3",
+      "url": "https://www.tapology.com/fightcenter/events/74679-fac-6",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Kevin Croom vs. Anderson Hutchinson",
-        "Co-Main Event: Trey Ogden vs. Cody Carrillo",
-        "Main Card: David Onama vs. Sam Agushi",
-        "Main Card: Mikey England vs. Travis Ford",
-        "Main Card: Anthony Goldfield vs. Joseph Galaviz",
-        "Main Card: John O'Brien vs. Daniel Jefferson",
-        "Main Card: Steven Graham vs. Joey Estrada",
-        "Main Card: Ashton Kirby vs. Gauge Young",
-        "Main Card: Isaac Dulgarian vs. Hector Combest",
-        "Main Card: Muhammad Zwolak vs. Corey Innis",
-        "Main Card: Nicholas Meck vs. Mike Murray",
-        "Main Card: Cameron Cash vs. Jorge Luna"
+        "Main Event: Deron Carlis vs. Adam Rider",
+        "Co-Main Event: Alan Olivas vs. Joey Estrada",
+        "Main Card: John Beckett vs. Cesar Morales",
+        "Main Card: Julie Russell vs. Morgan Walgren",
+        "Main Card: Isaac Dulgarian vs. Ralph Hernandez III",
+        "Main Card: Billy Wilson vs. Devante Frencher",
+        "Main Card: Sean Atkinson vs. Blake Sims",
+        "Main Card: Muhammad Zwolak vs. Kaleb Young",
+        "Main Card: Alejandro Gomez vs. Vince Anderson",
+        "Main Card: Kevin Thomas vs. Mike Cole",
+        "Main Card: Colton Kooser vs. Devin Blessing",
+        "Main Card: Lucas Da Costa vs. Rex Stidham",
+        "Main Card: Tristram Christensen vs. Kent Masters",
+        "Main Card: Tyree Robins vs. Blake Pennock"
       ],
       "links": [
-        "http://www.sherdog.com/events/fac-3-fighting-alliance-championship-86045",
-        "http://www.mixedmartialarts.com/events/fac-3:b4dc4ed2-14f1-49dd-9270-4fdbff1bc6a5"
+        "http://www.sherdog.com/events/fac-6-fighting-alliance-championship-88205",
+        "http://www.mixedmartialarts.com/events/fac-6:05f023e6-c1df-4ac1-bacf-f1db85ff1a13"
       ]
     }
   }

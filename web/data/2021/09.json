@@ -284,8 +284,8 @@
     }
   },
   {
-    "id": "boxen-kaif-fight-night",
-    "title": "Boxen: Kaif Fight Night",
+    "id": "kaif-fight-night",
+    "title": "Kaif Fight Night",
     "time": "2021-09-04T17:00:00Z",
     "until": "2021-09-04T20:30:00Z",
     "promotion": "_OTHER",
@@ -307,35 +307,6 @@
     "broadcasters": {
       "YOUTUBE": {
         "url": "https://www.youtube.com/watch?v=rLlDwG5hKds"
-      }
-    }
-  },
-  {
-    "id": "boxen-lara-vs-warrington-2",
-    "title": "Boxen: Lara vs. Warrington 2",
-    "time": "2021-09-04T18:00:00Z",
-    "until": "2021-09-04T21:00:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/79824-lara-vs-warrington",
-      "http://www.boxrec.com/en/event/836382"
-    ],
-    "card": [
-      "Main Event: Mauricio Lara vs. Josh Warrington",
-      "Co-Main Event: Katie Taylor vs. Jennifer Han",
-      "Main Card: Maxi Hughes vs. Jovanni Straffon",
-      "Main Card: Conor Benn vs. Adrian Granados",
-      "Main Card: Ebanie Bridges vs. Mailys Gangloff",
-      "Prelim: Hopey Price vs. Zahid Hussain",
-      "Prelim: Mali Wright vs. Antony Woolery",
-      "Prelim: Brandon Stansfield vs. MJ Hall",
-      "Prelim: Jack Bateson vs. Felix Garcia"
-    ],
-    "broadcasters": {
-      "DAZN": {
       }
     }
   },
@@ -399,6 +370,35 @@
     ],
     "broadcasters": {
       "KSW_TV": {
+      }
+    }
+  },
+  {
+    "id": "lara-vs-warrington-2",
+    "title": "Lara vs. Warrington 2",
+    "time": "2021-09-04T18:00:00Z",
+    "until": "2021-09-04T21:00:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/79824-lara-vs-warrington",
+      "http://www.boxrec.com/en/event/836382"
+    ],
+    "card": [
+      "Main Event: Mauricio Lara vs. Josh Warrington",
+      "Co-Main Event: Katie Taylor vs. Jennifer Han",
+      "Main Card: Maxi Hughes vs. Jovanni Straffon",
+      "Main Card: Conor Benn vs. Adrian Granados",
+      "Main Card: Ebanie Bridges vs. Mailys Gangloff",
+      "Prelim: Hopey Price vs. Zahid Hussain",
+      "Prelim: Mali Wright vs. Antony Woolery",
+      "Prelim: Brandon Stansfield vs. MJ Hall",
+      "Prelim: Jack Bateson vs. Felix Garcia"
+    ],
+    "broadcasters": {
+      "DAZN": {
       }
     }
   },
@@ -467,6 +467,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -636,8 +638,8 @@
     }
   },
   {
-    "id": "boxen-hrgovic-vs-radonjic",
-    "title": "Boxen: Hrgovic vs. Radonjic",
+    "id": "hrgovic-vs-radonjic",
+    "title": "Hrgovic vs. Radonjic",
     "time": "2021-09-10T17:55:00Z",
     "until": "2021-09-10T20:55:00Z",
     "promotion": "MB_BOXING",
@@ -670,6 +672,9 @@
     "time": "2021-09-11T00:00:00Z",
     "until": "2021-09-11T01:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/81377-bkfc-21"
     ],
@@ -699,6 +704,9 @@
     "time": "2021-09-11T01:00:00Z",
     "until": "2021-09-11T04:00:00Z",
     "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.tapology.com/fightcenter/events/81377-bkfc-21"
     ],
@@ -722,8 +730,8 @@
     }
   },
   {
-    "id": "boxen-valdez-vs-conceicao",
-    "title": "Boxen: Valdez vs. Conceicao",
+    "id": "valdez-vs-conceicao",
+    "title": "Valdez vs. Conceicao",
     "time": "2021-09-11T01:00:00Z",
     "until": "2021-09-11T04:00:00Z",
     "promotion": "TR_BOXING",
@@ -861,7 +869,10 @@
     "title": "BKB 22: Franco vs. Sweeny 2",
     "time": "2021-09-11T16:00:00Z",
     "until": "2021-09-11T19:00:00Z",
-    "promotion": "_OTHER",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
     "links": [
       "https://www.fight24.tv/fightpasses/fight24-bkb-22-341",
       "https://www.fightevents.de/event/bkb-22-franco-vs-sweeny-2/",
@@ -874,8 +885,8 @@
     }
   },
   {
-    "id": "boxen-lejarraga-vs-charrat",
-    "title": "Boxen: Lejarraga vs. Charrat",
+    "id": "lejarraga-vs-charrat",
+    "title": "Lejarraga vs. Charrat",
     "time": "2021-09-11T17:30:00Z",
     "until": "2021-09-11T20:30:00Z",
     "promotion": "MB_BOXING",
@@ -901,8 +912,8 @@
     }
   },
   {
-    "id": "boxen-holyfield-vs-belfort-prelims-",
-    "title": "Boxen: Holyfield vs. Belfort (Prelims)",
+    "id": "holyfield-vs-belfort-prelims-",
+    "title": "Holyfield vs. Belfort (Prelims)",
     "time": "2021-09-11T22:00:00Z",
     "until": "2021-09-11T23:00:00Z",
     "promotion": "TFC_BOXING",
@@ -930,8 +941,8 @@
     }
   },
   {
-    "id": "boxen-holyfield-vs-belfort",
-    "title": "Boxen: Holyfield vs. Belfort",
+    "id": "holyfield-vs-belfort",
+    "title": "Holyfield vs. Belfort",
     "time": "2021-09-11T23:00:00Z",
     "until": "2021-09-12T02:00:00Z",
     "promotion": "TFC_BOXING",
@@ -1039,8 +1050,8 @@
     }
   },
   {
-    "id": "boxen-cano-vs-zorrilla",
-    "title": "Boxen: Cano vs. Zorrilla",
+    "id": "cano-vs-zorrilla",
+    "title": "Cano vs. Zorrilla",
     "time": "2021-09-14T22:00:00Z",
     "until": "2021-09-15T01:00:00Z",
     "promotion": "TFC_BOXING",
@@ -1126,8 +1137,8 @@
     }
   },
   {
-    "id": "boxen-bohachuck-vs-igbokwe",
-    "title": "Boxen: Bohachuck vs. Igbokwe",
+    "id": "bohachuck-vs-igbokwe",
+    "title": "Bohachuck vs. Igbokwe",
     "time": "2021-09-17T02:00:00Z",
     "until": "2021-09-17T05:00:00Z",
     "promotion": "THREE_SIXTY_BOXING",
@@ -1522,6 +1533,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
@@ -1657,8 +1670,8 @@
     }
   },
   {
-    "id": "boxen-williams-vs-vendetti",
-    "title": "Boxen: Williams vs. Vendetti",
+    "id": "williams-vs-vendetti",
+    "title": "Williams vs. Vendetti",
     "time": "2021-09-24T23:00:00Z",
     "until": "2021-09-25T02:00:00Z",
     "promotion": "CES_BOXING",
@@ -1798,8 +1811,8 @@
     }
   },
   {
-    "id": "boxen-leo-s-boxnacht",
-    "title": "Boxen: Leo's Boxnacht",
+    "id": "leo-s-boxnacht",
+    "title": "Leo's Boxnacht",
     "time": "2021-09-25T13:00:00Z",
     "until": "2021-09-25T18:00:00Z",
     "promotion": "_OTHER",
@@ -1863,34 +1876,6 @@
     }
   },
   {
-    "id": "boxen-joshua-vs-usyk-vorkampfe-",
-    "title": "Boxen: Joshua vs. Usyk (Vorkämpfe)",
-    "time": "2021-09-25T17:00:00Z",
-    "until": "2021-09-25T20:15:00Z",
-    "promotion": "MB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "links": [
-      "https://www.tapology.com/fightcenter/events/80162-joshua-vs-usyk",
-      "http://en.wikipedia.org/wiki/Anthony_Joshua_vs._Oleksandr_Usyk",
-      "http://www.boxrec.com/en/event/835927"
-    ],
-    "card": [
-      "Main Event: Oleksandr Usyk vs. Anthony Joshua",
-      "Co-Main Event: Lawrence Okolie vs. Dilan Prasovic",
-      "Main Card: Campbell Hatton vs. Sonni Martinez",
-      "Main Card: Callum Smith vs. Lenin Castillo",
-      "Main Card: Florian Marku vs. Maxim Prodan",
-      "Prelim: Chris Ousley vs. Khasan Baysangurov",
-      "Prelim: Daniel Lapin vs. Pawel Martyniuk"
-    ],
-    "broadcasters": {
-      "DAZN": {
-      }
-    }
-  },
-  {
     "id": "brave-cf-54",
     "title": "BRAVE CF 54",
     "time": "2021-09-25T17:00:00Z",
@@ -1922,8 +1907,36 @@
     }
   },
   {
-    "id": "boxen-joshua-vs-usyk",
-    "title": "Boxen: Joshua vs. Usyk",
+    "id": "joshua-vs-usyk-vorkampfe-",
+    "title": "Joshua vs. Usyk (Vorkämpfe)",
+    "time": "2021-09-25T17:00:00Z",
+    "until": "2021-09-25T20:15:00Z",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/80162-joshua-vs-usyk",
+      "http://en.wikipedia.org/wiki/Anthony_Joshua_vs._Oleksandr_Usyk",
+      "http://www.boxrec.com/en/event/835927"
+    ],
+    "card": [
+      "Main Event: Oleksandr Usyk vs. Anthony Joshua",
+      "Co-Main Event: Lawrence Okolie vs. Dilan Prasovic",
+      "Main Card: Campbell Hatton vs. Sonni Martinez",
+      "Main Card: Callum Smith vs. Lenin Castillo",
+      "Main Card: Florian Marku vs. Maxim Prodan",
+      "Prelim: Chris Ousley vs. Khasan Baysangurov",
+      "Prelim: Daniel Lapin vs. Pawel Martyniuk"
+    ],
+    "broadcasters": {
+      "DAZN": {
+      }
+    }
+  },
+  {
+    "id": "joshua-vs-usyk",
+    "title": "Joshua vs. Usyk",
     "time": "2021-09-25T20:15:00Z",
     "until": "2021-09-25T22:00:00Z",
     "promotion": "MB_BOXING",
@@ -2060,6 +2073,8 @@
     ],
     "broadcasters": {
       "DAZN": {
+      },
+      "UFC_FIGHT_PASS": {
       }
     }
   },
