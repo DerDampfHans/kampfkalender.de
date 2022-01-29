@@ -640,14 +640,13 @@
     ],
     "broadcasters": {
       "GMC_TV": {
-        "url": "https://www.german-mma.de/live-events/220129-fight-night-12"
       }
     }
   },
   {
-    "id": "bellator-273-bader-vs-moldavsky",
-    "title": "Bellator 273: Bader vs. Moldavsky",
-    "time": "2022-01-30T00:00:00Z",
+    "id": "bellator-273-prelims",
+    "title": "Bellator 273: Prelims",
+    "time": "2022-01-30T00:30:00Z",
     "until": "2022-01-30T03:00:00Z",
     "promotion": "BELLATOR",
     "sports": [
@@ -671,7 +670,12 @@
       "Prelim: Nikita Mikhailov (8-1-0) vs. Blaine Shutt (8-5-0)",
       "Prelim: Lucas Brennan (5-0-0) vs. Ben Lugo (5-4-0)",
       "Prelim: Ben Parrish (5-1-0) vs. Sullivan Cauley (2-0-0)"
-    ]
+    ],
+    "broadcasters": {
+      "YOUTUBE": {
+        "url": "https://www.youtube.com/watch?v=932FeTKcWLw"
+      }
+    }
   },
   {
     "id": "bkfc-jackson-prelims",
@@ -797,6 +801,40 @@
     "broadcasters": {
       "FITE_TV": {
         "url": "https://www.fite.tv/watch/top-rank-martinez-vs-conceicao/2paqp/"
+      }
+    }
+  },
+  {
+    "id": "bellator-273-bader-vs-moldavsky",
+    "title": "Bellator 273: Bader vs. Moldavsky",
+    "time": "2022-01-30T03:00:00Z",
+    "until": "2022-01-30T06:00:00Z",
+    "promotion": "BELLATOR",
+    "sports": [
+      "MMA"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/85140-bellator-273-bader-vs-moldavsky",
+      "http://www.sherdog.com/events/bellator-273-bader-vs-moldavsky-91488",
+      "http://www.mixedmartialarts.com/events/bellator-273:b6b3d895-e9f1-47f8-baeb-be0dac68d4b0",
+      "https://www.bellator.com/event/288",
+      "https://www.bestfightodds.com/events/bellator-273-2415"
+    ],
+    "card": [
+      "Main Event: Ryan Bader (28-7-0) vs. Valentin Moldavsky (11-1-0)",
+      "Co-Main Event: Benson Henderson (28-11-0) vs. Islam Mamedov (20-1-1)",
+      "Main Card: Henry Corrales (19-6-0) vs. Aiden Lee (10-5-0)",
+      "Main Card: Sabah Homasi (15-10-0) vs. Jaleel Willis (15-3-0)",
+      "Prelim: Darrion Caldwell (14-5-0) vs. Enrique Barzola (16-5-2)",
+      "Prelim: Saad Awad (24-13-0) vs. Chris Gonzalez (6-1-0)",
+      "Prelim: Dalton Rosta (5-0-0) vs. Duane Johnson (6-2-0)",
+      "Prelim: Nikita Mikhailov (8-1-0) vs. Blaine Shutt (8-5-0)",
+      "Prelim: Lucas Brennan (5-0-0) vs. Ben Lugo (5-4-0)",
+      "Prelim: Ben Parrish (5-1-0) vs. Sullivan Cauley (2-0-0)"
+    ],
+    "broadcasters": {
+      "YOUTUBE": {
+        "url": "https://www.youtube.com/watch?v=TdpQiGvsLPY"
       }
     }
   },
