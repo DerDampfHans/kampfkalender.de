@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//Kampfkalender//NONSGML v1.0//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+DTSTAMP:20220131T074450Z
+BEGIN:VEVENT
+DTSTAMP:20220131T074450Z
+UID:2022-01-gmc-k1-mma-boxen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC K1 / MMA / Boxen
+DTSTART:20220122T160000Z
+DTEND:20220122T190000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.german-mma.de/live-events/22
+ 0122-olympix-k1-boxen-no-100
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220131T074450Z
+UID:2022-01-gmc-fight-night-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Fight Night 12
+DTSTART:20220129T180000Z
+DTEND:20220129T210000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.german-mma.de/live-events/22
+ 0129-fight-night-12\nhttps://www.tapology.com/fightcenter/events/85494-g
+ mc-fight-night\nhttp://www.sherdog.com/events/gmc-fight-night-german-mma
+ -championship-91729
+END:VEVENT
+END:VCALENDAR
