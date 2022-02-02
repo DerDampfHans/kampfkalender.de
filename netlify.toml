@@ -10,3 +10,139 @@ status = 200
 from = "/subscribe"
 to = "/index.html"
 status = 200
+
+[[redirects]]
+from = "/ical/ALL.ics"
+to = "/ical/all.ics"
+
+[[redirects]]
+from = "/ical/bcf.ics"
+to = "/ical/promotion/brave.ics"
+
+[[redirects]]
+from = "/ical/boxing.ics"
+to = "/ical/sport/boxing.ics"
+
+[[redirects]]
+from = "/ical/chosen.ics"
+to = "/ical/promotion/_other.ics"
+
+[[redirects]]
+from = "/ical/efc-germany.ics"
+to = "/ical/promotion/efc-de.ics"
+
+[[redirects]]
+from = "/ical/efm.ics"
+to = "/ical/promotion/efm-pl.ics"
+
+[[redirects]]
+from = "/ical/emc.ics"
+to = "/ical/promotion/emc-de.ics"
+
+[[redirects]]
+from = "/ical/ffc.ics"
+to = "/ical/promotion/fury.ics"
+
+[[redirects]]
+from = "/ical/ffl.ics"
+to = "/ical/promotion/fusion.ics"
+
+[[redirects]]
+from = "/ical/gcp.ics"
+to = "/ical/promotion/gcp-de.ics"
+
+[[redirects]]
+from = "/ical/gmc.ics"
+to = "/ical/promotion/gmc-de.ics"
+
+[[redirects]]
+from = "/ical/hackman.ics"
+to = "/ical/promotion/cr-podcast.ics"
+
+[[redirects]]
+from = "/ical/kok.ics"
+to = "/ical/promotion/kok-lt.ics"
+
+[[redirects]]
+from = "/ical/lfl.ics"
+to = "/ical/promotion/lfl-nl.ics"
+
+[[redirects]]
+from = "/ical/lfp.ics"
+to = "/ical/promotion/lion.ics"
+
+[[redirects]]
+from = "/ical/lux.ics"
+to = "/ical/promotion/lux-mx.ics"
+
+[[redirects]]
+from = "/ical/mfc.ics"
+to = "/ical/promotion/mfg-de.ics"
+
+[[redirects]]
+from = "/ical/mmagp.ics"
+to = "/ical/promotion/mmagp-fr.ics"
+
+[[redirects]]
+from = "/ical/mmal.ics"
+to = "/ical/promotion/mmal-de.ics"
+
+[[redirects]]
+from = "/ical/mtgp.ics"
+to = "/ical/promotion/mtgp-uk.ics"
+
+[[redirects]]
+from = "/ical/nfc.ics"
+to = "/ical/promotion/nfc-de.ics"
+
+[[redirects]]
+from = "/ical/nfc-germany.ics"
+to = "/ical/promotion/nfc-de.ics"
+
+[[redirects]]
+from = "/ical/ofc.ics"
+to = "/ical/promotion/ofc-ru.ics"
+
+[[redirects]]
+from = "/ical/shp.ics"
+to = "/ical/promotion/shp-grappling.ics"
+
+[[redirects]]
+from = "/ical/slmma.ics"
+to = "/ical/promotion/slmma-de.ics"
+
+[[redirects]]
+from = "/ical/steko.ics"
+to = "/ical/promotion/_other.ics"
+
+[[redirects]]
+from = "/ical/sug.ics"
+to = "/ical/promotion/sug-grappling.ics"
+
+[[redirects]]
+from = "/ical/tgc.ics"
+to = "/ical/promotion/tgc-it.ics"
+
+[[redirects]]
+from = "/ical/uwcm.ics"
+to = "/ical/promotion/uwc-mx.ics"
+
+[[redirects]]
+from = "/ical/wlc.ics"
+to = "/ical/promotion/wlc-mm.ics"
+
+[[redirects]]
+from = "/ical/wlmma.ics"
+to = "/ical/promotion/wlmma-de.ics"
+
+[[redirects]]
+from = "/ical/wug.ics"
+to = "/ical/promotion/wug-wrestling.ics"
+
+[[redirects]]
+from = "/ical/xfn.ics"
+to = "/ical/promotion/_other.ics"
+
+[[redirects]]
+from = "/ical/*"
+to = "/ical/promotion/:splat"
