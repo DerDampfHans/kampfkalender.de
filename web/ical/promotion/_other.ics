@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T043426Z
-X-KAMPFKALENDER-HASH:fcededb940ddaeba638c1c26ff6d4f6b4c132341
+DTSTAMP:20220202T221622Z
+X-KAMPFKALENDER-HASH:e0f34bdaaf8863ba7a0aeb914521e8cb8058343d
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221622Z
 UID:2022-01-jorge-masival-ikon-fc-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Jorge Masival iKON FC 1
@@ -17,7 +17,7 @@ CATEGORIES:Other,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221622Z
 UID:2022-02-xfn-378-kickboxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 378 Kickboxing
@@ -27,7 +27,19 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221622Z
+UID:2022-02-styrian-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Styrian Fight Night
+DTSTART:20220205T170000Z
+DTEND:20220205T210000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-st
+ yrian-fight-night-417\n\n---\n\nhttps://www.fightevents.de/event/styrian
+ -fight-night-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220202T221622Z
 UID:2022-02-anthony-pettis-fc-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Anthony Pettis FC 1
@@ -37,7 +49,7 @@ CATEGORIES:Other,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221622Z
 UID:2022-03-hype-fc-rumble-in-the-cage-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hype FC Rumble in The Cage 2022
@@ -48,7 +60,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/hyp
  e-fc-rumble-in-the-cage-2022/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221622Z
 UID:2022-03-one-man-series-next-level@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series – Next Level

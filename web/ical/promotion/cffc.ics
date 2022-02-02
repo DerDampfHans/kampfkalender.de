@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T075452Z
-X-KAMPFKALENDER-HASH:610e9ec9c3b1bd431539ed2b65313e679dcb439b
+DTSTAMP:20220202T221622Z
+X-KAMPFKALENDER-HASH:3940e0475bd442f45a90ca83ddfdd4ad97c9f2d6
 BEGIN:VEVENT
-DTSTAMP:20220202T075452Z
+DTSTAMP:20220202T221622Z
 UID:2022-01-cffc-105-jeffrey-vs-harris@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 105: Jeffrey vs. Harris
@@ -28,5 +28,18 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  lan LaPalomento (3-0-0)\nMain Card: Akuma Maters (4-4-0) vs. Ian Allston
   (3-2-1)\nMain Card: Dymere Rappa (2-1-0) vs. Dwayne Pepper (2-0-0)\nMai
  n Card: Xhelal Lleshi (3-0-0) vs. Bryce Layme (2-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220202T221622Z
+UID:2022-03-cffc-106-smith-vs-artis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 106: Smith vs. Artis
+DTSTART:20220317T230000Z
+DTEND:20220318T020000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/86570-cffc-106-smith-vs-artis\n\n---\n\nMain Event: Blake Sm
+ ith (6-2-0) vs. Paris Artis (5-0-0)\nCo-Main Event: Hugh Pulley (8-4-0) 
+ vs. Eric Alequin (6-0-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T043426Z
-X-KAMPFKALENDER-HASH:33f65d4aa2c375857a1182c49ac135bce43e44ff
+DTSTAMP:20220202T221622Z
+X-KAMPFKALENDER-HASH:5320c227e67f66399552b3ccd2e23d9e3bfa2974
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221623Z
 UID:2022-01-one-championship-only-the-brave@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Only the Brave
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UMjHeO98FW0\n\n-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221623Z
 UID:2022-02-xfn-378-kickboxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 378 Kickboxing
@@ -39,7 +39,19 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221623Z
+UID:2022-02-styrian-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Styrian Fight Night
+DTSTART:20220205T170000Z
+DTEND:20220205T210000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-st
+ yrian-fight-night-417\n\n---\n\nhttps://www.fightevents.de/event/styrian
+ -fight-night-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220202T221623Z
 UID:2022-02-one-championship@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship
@@ -50,7 +62,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85969-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221623Z
 UID:2022-03-one-championship@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship
@@ -61,7 +73,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221623Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
@@ -76,7 +88,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  et
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220202T221623Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
