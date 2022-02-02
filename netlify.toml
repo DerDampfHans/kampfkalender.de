@@ -1,0 +1,12 @@
+[build]
+base = "web/"
+
+[[redirects]]
+from = "/broadcaster"
+to = "/index.html"
+status = 200
+
+[[redirects]]
+from = "/subscribe"
+to = "/index.html"
+status = 200
