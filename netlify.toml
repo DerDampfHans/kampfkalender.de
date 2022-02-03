@@ -8,6 +8,30 @@ X-Frame-Options = "DENY"
 X-XSS-Protection = "1; mode=block"
 
 [[headers]]
+for = "/"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.html"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.ico"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
+[[headers]]
 for = "*.js"
 [headers.values]
 cache-control = '''
@@ -24,14 +48,6 @@ cache-control = '''
   public'''
 
 [[headers]]
-for = "*.html"
-[headers.values]
-cache-control = '''
-  max-age=31536000,
-  must-revalidate,
-  public'''
-
-[[headers]]
 for = "*.png"
 [headers.values]
 cache-control = '''
@@ -41,6 +57,22 @@ cache-control = '''
 
 [[headers]]
 for = "*.svg"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.xml"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.webmanifest"
 [headers.values]
 cache-control = '''
   max-age=31536000,
