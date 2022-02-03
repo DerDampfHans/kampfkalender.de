@@ -1,6 +1,52 @@
 [build]
 base = "web/"
 
+[[headers]]
+for = "/*"
+[headers.values]
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
+
+[[headers]]
+for = "*.js"
+[headers.values]
+cache-control = '''
+  max-age=7200,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.json"
+[headers.values]
+cache-control = '''
+  max-age=7200,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.html"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.png"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
+[[headers]]
+for = "*.svg"
+[headers.values]
+cache-control = '''
+  max-age=31536000,
+  must-revalidate,
+  public'''
+
 [[redirects]]
 from = "/broadcaster"
 to = "/index.html"
