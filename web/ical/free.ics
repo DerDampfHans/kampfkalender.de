@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T043426Z
-X-KAMPFKALENDER-HASH:4a476e19560c28e5cae6c5a383b53cf382449fcd
+DTSTAMP:20220203T232849Z
+X-KAMPFKALENDER-HASH:e8e92cdd00db5d19a9b8be90b4d80fd2284f9089
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220203T232849Z
 UID:2022-01-one-championship-only-the-brave@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Only the Brave
@@ -29,7 +29,21 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UMjHeO98FW0\n\n-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220203T232849Z
+UID:2022-01-ksw-61-to-fight-or-not-to-fight-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 61: To Fight or Not To Fight (Re-Live)
+DTSTART:20220129T173000Z
+DTEND:20220129T203000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wHdCChzyVYw\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/78844-ksw-61-pudzian-v
+ s-juras\nhttp://www.sherdog.com/events/ksw-61-to-fight-or-not-to-fight-8
+ 9204\nhttps://www.bestfightodds.com/events/ksw-61-pudzianowski-vs-jurkow
+ ski-2170
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220203T232849Z
 UID:2022-01-bkfc-jackson-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson: Prelims
@@ -51,7 +65,21 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-jacks
  ell (Holly Springs\, MS)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220203T232849Z
+UID:2022-02-ksw-44-the-game-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 44: The Game (Re-Live)
+DTSTART:20220204T173000Z
+DTEND:20220204T203000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WAtbzfbPW-M\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/50327-ksw-43\nhttp://w
+ ww.sherdog.com/events/ksw-44-the-game-67083\nhttp://www.mixedmartialarts
+ .com/events/ksw-44:b7e05e03-dce5-4df6-8a13-cd1d7eed3e33\nhttps://www.bes
+ tfightodds.com/events/ksw-44-pudzianowski-vs-bedorf-1496
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220203T232849Z
 UID:2022-02-thurman-vs-barrios-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios (Prelims)
@@ -67,10 +95,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios-
   vs. Vladimir Hernandez (13-4-0)\nMain Card: Abel Ramos (27-4-2) vs. Luc
  as SantaMaria (12-2-1)\nPrelim: Kent Cruz (16-0-1) vs. Enriko Gogokhia (
  13-0-0)\nPrelim: Fernando Vargas Jr (4-0-0) vs. Kody Kobowski (0-0-0)\nP
- relim: Ryan Karl (19-3-0) vs. Omar Juarez (12-1-0)
+ relim: Ryan Karl (19-3-0) vs. Omar Juarez (12-1-0)\nPrelim: Jesus Silvey
+ ra (10-6-2) vs. Keith Hunter (13-1-0)\nPrelim: Jabril Noble (0-0-0) vs. 
+ Amado Vargas (3-0-0)\nPrelim: Ramon Marquez (4-0-0) vs. John Rincon (4-0
+ -0)\nPrelim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220203T232849Z
 UID:2022-02-one-championship-bad-blood@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Bad Blood
@@ -92,7 +123,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Tial Thang (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220203T232849Z
 UID:2022-02-one-championship@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship
@@ -103,7 +134,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85969-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220203T232849Z
 UID:2022-03-one-championship@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship
@@ -114,7 +145,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220203T232849Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X

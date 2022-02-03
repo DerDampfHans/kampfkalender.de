@@ -4,10 +4,38 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T221622Z
-X-KAMPFKALENDER-HASH:57c1fdbca1a5b9de76290aa8906eda22df2f2ed3
+DTSTAMP:20220203T232849Z
+X-KAMPFKALENDER-HASH:97834dfa36f8c921abe50e6c6a098fc214bba853
 BEGIN:VEVENT
-DTSTAMP:20220202T221622Z
+DTSTAMP:20220203T232849Z
+UID:2022-01-ksw-61-to-fight-or-not-to-fight-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 61: To Fight or Not To Fight (Re-Live)
+DTSTART:20220129T173000Z
+DTEND:20220129T203000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wHdCChzyVYw\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/78844-ksw-61-pudzian-v
+ s-juras\nhttp://www.sherdog.com/events/ksw-61-to-fight-or-not-to-fight-8
+ 9204\nhttps://www.bestfightodds.com/events/ksw-61-pudzianowski-vs-jurkow
+ ski-2170
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220203T232849Z
+UID:2022-02-ksw-44-the-game-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 44: The Game (Re-Live)
+DTSTART:20220204T173000Z
+DTEND:20220204T203000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WAtbzfbPW-M\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/50327-ksw-43\nhttp://w
+ ww.sherdog.com/events/ksw-44-the-game-67083\nhttp://www.mixedmartialarts
+ .com/events/ksw-44:b7e05e03-dce5-4df6-8a13-cd1d7eed3e33\nhttps://www.bes
+ tfightodds.com/events/ksw-44-pudzianowski-vs-bedorf-1496
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220203T232849Z
 UID:2022-02-ksw-67-de-fries-vs-stosic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 67: De Fries vs. Stošić
@@ -18,6 +46,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/86030-ksw-67\n\n---\n\nMain Event: Phil De Fries (20-6-0) vs. Dar
  ko Stošić (16-4-0)\nMain Card: Andrzej Grzebyk (18-4-0) vs. Adrian Barto
  siński (11-0-0)\nMain Card: Krzysztof Klaczek (12-7-0) vs. Dawid Śmiełow
- ski (8-0-0)\nMain Card: Ivan Erslan (11-1-0) vs. Hasan Mezhiev (12-0-0)
+ ski (8-0-0)\nMain Card: Ivan Erslan (11-1-0) vs. Hasan Mezhiev (12-0-0)\
+ nMain Card: Shamil Banukayev (7-1-0) vs. Zuriko Jojua (7-1-0)
 END:VEVENT
 END:VCALENDAR
