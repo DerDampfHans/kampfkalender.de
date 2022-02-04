@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T043426Z
-X-KAMPFKALENDER-HASH:9f028e4a617224b4b8baff483cf91d0b8ac3ee91
+DTSTAMP:20220204T211401Z
+X-KAMPFKALENDER-HASH:491cbb2531ce2d546ed544e26775002f5b3fa4c5
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220204T211401Z
 UID:2022-01-one-championship-only-the-brave@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Only the Brave
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UMjHeO98FW0\n\n-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220204T211401Z
 UID:2022-02-one-championship-bad-blood@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Bad Blood
@@ -51,21 +51,33 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Tial Thang (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
-UID:2022-02-one-championship@kampfkalender.de
+DTSTAMP:20220204T211401Z
+UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Championship
+SUMMARY:ONE Championship: Full Circle
 DTSTART:20220225T133000Z
 DTEND:20220225T163000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/85969-one-championship
+ ents/85969-one-championship\n\n---\n\nMain Event: Reinier de Ridder (14-
+ 0-0) vs. Kiamrian Abbasov (23-4-0)\nCo-Main Event: Roman Kryklya (Minsk\
+ , BY) vs. Murat Aygun (Enschede\, NL)\nMain Card: P. Petchyindee vs. Jam
+ al Yusupov\nMain Card: Aung La N Sang (27-12-0) vs. Vitaly Bigdash (11-2
+ -0)\nMain Card: Enriko Kehl (Erfurt\, TH) vs. Tayfun Özcan (Utrecht\, Ut
+ recht)\nMain Card: Fabricio de Andrade (6-2-0) vs. Jeremy Pacatiw (11-4-
+ 0)\nPrelim: Leandro Ataides (11-5-0) vs. David Branch (22-7-0)\nPrelim: 
+ Guto Inocente (Brasilia\, DF) vs. Bruno Susano\nPrelim: Zebaztian Kadest
+ am (12-7-0) vs. Valmir da Silva (8-1-0)\nPrelim: Chris Shaw vs. Vladimir
+  Kuzmin (Yekaterinburg\, RU)\nPrelim: Diandra Martin vs. Smilla Sundell 
+ (Pattaya\, จ.ชลบุรี)\nPrelim: Yuri Simoes (0-1-0) vs. Daniyal Zainalov (
+ 7-0-0)\nPrelim: Jiduo Yibu vs. Daniel Puertas (Mijas\, Andalusia)\nPreli
+ m: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
-UID:2022-03-one-championship@kampfkalender.de
+DTSTAMP:20220204T211401Z
+UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Championship
+SUMMARY:ONE Championship: Lights Out
 DTSTART:20220311T133000Z
 DTEND:20220311T163000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
@@ -73,7 +85,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220204T211401Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220203T232849Z
-X-KAMPFKALENDER-HASH:e8e92cdd00db5d19a9b8be90b4d80fd2284f9089
+DTSTAMP:20220204T211401Z
+X-KAMPFKALENDER-HASH:a91874ee760996bffb981a2deeaf45c20cbf960e
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220204T211401Z
 UID:2022-01-one-championship-only-the-brave@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Only the Brave
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UMjHeO98FW0\n\n-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220204T211401Z
 UID:2022-01-ksw-61-to-fight-or-not-to-fight-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 61: To Fight or Not To Fight (Re-Live)
@@ -43,7 +43,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wHdCChzyVYw\n\n-
  ski-2170
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220204T211401Z
 UID:2022-01-bkfc-jackson-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson: Prelims
@@ -65,7 +65,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-jacks
  ell (Holly Springs\, MS)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220204T211401Z
 UID:2022-02-ksw-44-the-game-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 44: The Game (Re-Live)
@@ -79,7 +79,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WAtbzfbPW-M\n\n-
  tfightodds.com/events/ksw-44-pudzianowski-vs-bedorf-1496
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220204T211401Z
 UID:2022-02-thurman-vs-barrios-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios (Prelims)
@@ -101,7 +101,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios-
  -0)\nPrelim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220204T211401Z
 UID:2022-02-one-championship-bad-blood@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Bad Blood
@@ -123,21 +123,33 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Tial Thang (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
-UID:2022-02-one-championship@kampfkalender.de
+DTSTAMP:20220204T211401Z
+UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Championship
+SUMMARY:ONE Championship: Full Circle
 DTSTART:20220225T133000Z
 DTEND:20220225T163000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/85969-one-championship
+ ents/85969-one-championship\n\n---\n\nMain Event: Reinier de Ridder (14-
+ 0-0) vs. Kiamrian Abbasov (23-4-0)\nCo-Main Event: Roman Kryklya (Minsk\
+ , BY) vs. Murat Aygun (Enschede\, NL)\nMain Card: P. Petchyindee vs. Jam
+ al Yusupov\nMain Card: Aung La N Sang (27-12-0) vs. Vitaly Bigdash (11-2
+ -0)\nMain Card: Enriko Kehl (Erfurt\, TH) vs. Tayfun Özcan (Utrecht\, Ut
+ recht)\nMain Card: Fabricio de Andrade (6-2-0) vs. Jeremy Pacatiw (11-4-
+ 0)\nPrelim: Leandro Ataides (11-5-0) vs. David Branch (22-7-0)\nPrelim: 
+ Guto Inocente (Brasilia\, DF) vs. Bruno Susano\nPrelim: Zebaztian Kadest
+ am (12-7-0) vs. Valmir da Silva (8-1-0)\nPrelim: Chris Shaw vs. Vladimir
+  Kuzmin (Yekaterinburg\, RU)\nPrelim: Diandra Martin vs. Smilla Sundell 
+ (Pattaya\, จ.ชลบุรี)\nPrelim: Yuri Simoes (0-1-0) vs. Daniyal Zainalov (
+ 7-0-0)\nPrelim: Jiduo Yibu vs. Daniel Puertas (Mijas\, Andalusia)\nPreli
+ m: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
-UID:2022-03-one-championship@kampfkalender.de
+DTSTAMP:20220204T211401Z
+UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Championship
+SUMMARY:ONE Championship: Lights Out
 DTSTART:20220311T133000Z
 DTEND:20220311T163000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
@@ -145,7 +157,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220204T211401Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
