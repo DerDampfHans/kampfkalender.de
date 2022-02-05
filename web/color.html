@@ -2,6 +2,7 @@
 <html lang="de">
 <head>
     <title>Farbschema-Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <noscript>Bitte Javascript aktivieren.</noscript>
@@ -10,23 +11,26 @@
 <div id="light"></div>
 <hr>
 <div id="dark"></div>
+<hr>
+<div id="dark2"></div>
 <script>
     const mode = document.querySelector('#mode');
     const light = document.querySelector('#light');
     const dark = document.querySelector('#dark');
+    const dark2 = document.querySelector('#dark2');
 
     if (!window.matchMedia) {
         mode.innerHTML = 'Ermittlung des Farbschemas wird <strong>nicht</strong> unterstützt';
     } else {
         mode.innerHTML = 'Ermittlung des Farbschemas wird unterstützt';
 
-        const lightQuery = window.matchMedia('(prefers-color-scheme: light)');
-        if (lightQuery.matches) {
+        const lightSchemeQuery = window.matchMedia('(prefers-color-scheme: light)');
+        if (lightSchemeQuery.matches) {
             light.innerHTML = 'Light-Mode beim Seitenstart: <strong>aktiv</strong>';
         } else {
             light.innerHTML = 'Light-Mode beim Seitenstart: <strong>inaktiv</strong>';
         }
-        lightQuery.addEventListener("change", function (e) {
+        lightSchemeQuery.addEventListener("change", function (e) {
             if (e.matches) {
                 light.innerHTML += '<br>Light-Mode geändert auf: <strong>aktiv</strong>';
             } else {
@@ -34,17 +38,31 @@
             }
         });
 
-        const darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
-        if (darkQuery.matches) {
+        const darkSchemeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+        if (darkSchemeQuery.matches) {
             dark.innerHTML = 'Dark-Mode beim Seitenstart: <strong>aktiv</strong>';
         } else {
             dark.innerHTML = 'Dark-Mode beim Seitenstart: <strong>inaktiv</strong>';
         }
-        darkQuery.addEventListener("change", function (e) {
+        darkSchemeQuery.addEventListener("change", function (e) {
             if (e.matches) {
                 dark.innerHTML += '<br>Dark-Mode geändert auf: <strong>aktiv</strong>';
             } else {
                 dark.innerHTML += '<br>Dark-Mode geändert auf: <strong>inaktiv</strong>';
+            }
+        });
+
+        const darkInterfaceQuery = window.matchMedia('(prefers-dark-interface)');
+        if (darkInterfaceQuery.matches) {
+            dark2.innerHTML = 'Dark-Interface beim Seitenstart: <strong>aktiv</strong>';
+        } else {
+            dark2.innerHTML = 'Dark-Interface beim Seitenstart: <strong>inaktiv</strong>';
+        }
+        darkInterfaceQuery.addEventListener("change", function (e) {
+            if (e.matches) {
+                dark2.innerHTML += '<br>Dark-Interface geändert auf: <strong>aktiv</strong>';
+            } else {
+                dark2.innerHTML += '<br>Dark-Interface geändert auf: <strong>inaktiv</strong>';
             }
         });
     }
