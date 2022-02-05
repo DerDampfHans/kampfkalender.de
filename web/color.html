@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Farbschema-Test</title>
+</head>
+<body>
+<noscript>Bitte Javascript aktivieren.</noscript>
+<div id="mode">noch nicht ermittelt</div>
+<hr>
+<div id="light"></div>
+<hr>
+<div id="dark"></div>
+<script>
+    const mode = document.querySelector('#mode');
+    const light = document.querySelector('#light');
+    const dark = document.querySelector('#dark');
+
+    if (!window.matchMedia) {
+        mode.innerHTML = 'Ermittlung des Farbschemas wird <strong>nicht</strong> unterstützt';
+    } else {
+        mode.innerHTML = 'Ermittlung des Farbschemas wird unterstützt';
+
+        const lightQuery = window.matchMedia('(prefers-color-scheme: light)');
+        if (lightQuery.matches) {
+            light.innerHTML = 'Light-Mode beim Seitenstart: <strong>aktiv</strong>';
+        } else {
+            light.innerHTML = 'Light-Mode beim Seitenstart: <strong>inaktiv</strong>';
+        }
+        lightQuery.addEventListener("change", function (e) {
+            if (e.matches) {
+                light.innerHTML += '<br>Light-Mode geändert auf: <strong>aktiv</strong>';
+            } else {
+                light.innerHTML += '<br>Light-Mode geändert auf: <strong>inaktiv</strong>';
+            }
+        });
+
+        const darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+        if (darkQuery.matches) {
+            dark.innerHTML = 'Dark-Mode beim Seitenstart: <strong>aktiv</strong>';
+        } else {
+            dark.innerHTML = 'Dark-Mode beim Seitenstart: <strong>inaktiv</strong>';
+        }
+        darkQuery.addEventListener("change", function (e) {
+            if (e.matches) {
+                dark.innerHTML += '<br>Dark-Mode geändert auf: <strong>aktiv</strong>';
+            } else {
+                dark.innerHTML += '<br>Dark-Mode geändert auf: <strong>inaktiv</strong>';
+            }
+        });
+    }
+</script>
+</body>
+</html>
