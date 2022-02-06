@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220203T232849Z
-X-KAMPFKALENDER-HASH:56e63f418c25268c276ecdce4ec7d12cf47ecaed
+DTSTAMP:20220206T112914Z
+X-KAMPFKALENDER-HASH:29638b9dcfb8e324174a4156fc9001571d6ee3df
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220206T112914Z
 UID:2022-02-cuadras-vs-rodriguez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cuadras vs. Rodriguez
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ard: Adam Stewart (12-1-1) vs. Alvin Davie (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232849Z
+DTSTAMP:20220206T112914Z
 UID:2022-02-jacobs-vs-ryder@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Jacobs vs. Ryder
@@ -39,5 +39,21 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  a Guanini (9-3-2) vs. Ellie Scotney (3-0-0)\nMain Card: Johnny Fisher (4
  -0-0) vs. Gabriel Enguema (10-11-0)\nMain Card: Cyrus Pattinson (0-0-0) 
  vs. Evgeny Vazem (9-20-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220206T112914Z
+UID:2022-02-okolie-vs-cieslak@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Okolie vs. Cieslak
+DTSTART:20220227T190000Z
+DTEND:20220227T220000Z
+CATEGORIES:MB,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/85834-okolie-vs-c
+ ieslak\nhttp://www.boxrec.com/en/event/846070\n\n---\n\nMain Event: Lawr
+ ence Okolie (17-0-0) vs. Michał Cieślak (21-1-0)\nMain Card: Karim Guerf
+ i (30-5-0) vs. Jordan Gill (26-1-1)\nMain Card: Anthony Fowler (15-2-0) 
+ vs. Lukasz Maciec (27-3-1)\nMain Card: Demsey McKean (20-0-0) vs. A. Bra
+ camonte (11-6-0)\nMain Card: Campbell Hatton (5-0-0) vs. Joe Ducker (9-8
+ -2)\nMain Card: John Hedges (4-0-0) vs. Aleksander Nagolski (0-0-0)
 END:VEVENT
 END:VCALENDAR

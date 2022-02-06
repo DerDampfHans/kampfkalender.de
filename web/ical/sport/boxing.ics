@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220203T232849Z
-X-KAMPFKALENDER-HASH:04ac9ddba5535a09728385cb8799fbe918f280c9
+DTSTAMP:20220206T112914Z
+X-KAMPFKALENDER-HASH:dce9f7fcccfcf30515b80e8b1660291a93efc7c2
 BEGIN:VEVENT
-DTSTAMP:20220203T232850Z
+DTSTAMP:20220206T112915Z
 UID:2022-01-conceicao-vs-martinez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conceicao vs. Martinez
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-martinez-vs-c
  emiah Milton (3-0-0) vs. Dell Long (7-9-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232850Z
+DTSTAMP:20220206T112915Z
 UID:2022-02-cuadras-vs-rodriguez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cuadras vs. Rodriguez
@@ -46,7 +46,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ard: Adam Stewart (12-1-1) vs. Alvin Davie (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232850Z
+DTSTAMP:20220206T112915Z
 UID:2022-02-thurman-vs-barrios-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios (Prelims)
@@ -68,7 +68,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios-
  -0)\nPrelim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232850Z
+DTSTAMP:20220206T112915Z
 UID:2022-02-thurman-vs-barrios@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios
@@ -90,7 +90,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios/
  lim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232850Z
+DTSTAMP:20220206T112915Z
 UID:2022-02-jacobs-vs-ryder@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Jacobs vs. Ryder
@@ -106,7 +106,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  vs. Evgeny Vazem (9-20-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232850Z
+DTSTAMP:20220206T112915Z
 UID:2022-02-torres-vs-flores@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Torres vs. Flores
@@ -116,21 +116,25 @@ CATEGORIES:RJJ,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/86154-torres-vs-flores\nhttp://www.boxrec.com/en/event/84683
  1\n\n---\n\nMain Card: Luis Torres (14-0-0) vs. Rodolfo Flores (0-0-0)\n
- Main Card: Alberto Ruiz (11-2-0) vs. Isai Hernandez (11-2-1)\nMain Card:
+ Main Card: Alberto Ruiz (11-3-0) vs. Isai Hernandez (11-2-1)\nMain Card:
   Armando Almanza (0-0-0) vs. Fradimil Macayo (0-0-0)\nMain Card: Jorge L
  ugo (6-0-0) vs. Rene de Leon (6-3-0)\nMain Card: Ivan Alvarez (29-13-1) 
  vs. Quinton Randall (8-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T232850Z
-UID:2022-03-triller-fight-club-kovalev-vs-meng@kampfkalender.de
+DTSTAMP:20220206T112915Z
+UID:2022-02-okolie-vs-cieslak@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Triller Fight Club: Kovalev vs. Meng
-DTSTART:20220313T020000Z
-DTEND:20220313T050000Z
-CATEGORIES:TFC,Boxen,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/86173-triller-fight-club-kovalev-vs-meng\n\n---\n\nMain Event: Serg
- ey Kovalev (34-4-1) vs. Fanlong Meng (17-0-0)
+SUMMARY:Okolie vs. Cieslak
+DTSTART:20220227T190000Z
+DTEND:20220227T220000Z
+CATEGORIES:MB,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/85834-okolie-vs-c
+ ieslak\nhttp://www.boxrec.com/en/event/846070\n\n---\n\nMain Event: Lawr
+ ence Okolie (17-0-0) vs. Michał Cieślak (21-1-0)\nMain Card: Karim Guerf
+ i (30-5-0) vs. Jordan Gill (26-1-1)\nMain Card: Anthony Fowler (15-2-0) 
+ vs. Lukasz Maciec (27-3-1)\nMain Card: Demsey McKean (20-0-0) vs. A. Bra
+ camonte (11-6-0)\nMain Card: Campbell Hatton (5-0-0) vs. Joe Ducker (9-8
+ -2)\nMain Card: John Hedges (4-0-0) vs. Aleksander Nagolski (0-0-0)
 END:VEVENT
 END:VCALENDAR
