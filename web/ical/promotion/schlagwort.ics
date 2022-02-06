@@ -4,35 +4,35 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T043426Z
-X-KAMPFKALENDER-HASH:86ba6f79b14ce93f9ca40faf135f48066830e712
+DTSTAMP:20220206T181415Z
+X-KAMPFKALENDER-HASH:7faac654d784a467ecf8aa5b9a2eed754ab0dbbb
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
-UID:2022-01-schlagwort-podcast-148-jubilaumsausgabe@kampfkalender.de
+DTSTAMP:20220206T181415Z
+UID:2022-01-schlagwort-special-niklas-stolze@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast 148: Jubiläumsausgabe
-DTSTART:20220123T170000Z
-DTEND:20220123T190000Z
-CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=vES2-wm_3LA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
-UID:2022-01-schlagwort-podcast-149-niklas-stolze@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast 149: Niklas Stolze
+SUMMARY:Schlagwort Special: Niklas Stolze
 DTSTART:20220130T170000Z
 DTEND:20220130T190000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3aTb2-tsNdw
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
-UID:2022-02-schlagwort-podcast-150@kampfkalender.de
+DTSTAMP:20220206T181415Z
+UID:2022-02-schlagwort-special-mo-trabelsi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast 150
+SUMMARY:Schlagwort Special: Mo Trabelsi
 DTSTART:20220206T170000Z
 DTEND:20220206T190000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=KHLEZHnJy2I
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220206T181415Z
+UID:2022-02-schlagwort-podcast-149@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast 149
+DTSTART:20220213T170000Z
+DTEND:20220213T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
