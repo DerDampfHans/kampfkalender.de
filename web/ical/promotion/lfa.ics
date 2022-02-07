@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220207T114217Z
-X-KAMPFKALENDER-HASH:ecdcc947daf62cfbabaf3a06f40dbb698aa466fb
+DTSTAMP:20220207T211721Z
+X-KAMPFKALENDER-HASH:37a635db33025aaa02768a375638226cbfea5866
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T211722Z
 UID:2022-02-lfa-123-argueta-vs-santos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 123: Argueta vs. Santos
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  a (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T211722Z
 UID:2022-02-lfa-124-formiga-vs-bunes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 124: Formiga vs. Bunes
@@ -49,5 +49,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (0-0-0) vs. Guilherme Crossi (0-0-0)\nPrelim: Ben Goodwin (0-1-0) vs. O
  vidio Bojorquez (1-1-0)\nPrelim: Alex Martinez (2-0-0) vs. Chris Sandova
  l (2-1-0)\nPrelim: Luke La Vanway (0-0-0) vs. Jacob Highley (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220207T211722Z
+UID:2022-02-lfa-125@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 125
+DTSTART:20220226T020000Z
+DTEND:20220226T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

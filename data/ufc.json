@@ -116,8 +116,8 @@
       },
       "dazn": {
         "id": "1iyfyk32iolw81ayyu02n4pwfi",
-        "time": "2022-02-20T00:00:00Z",
-        "title": "UFC Fight Night: Dos Anjos vs Fiziev (Hauptkämpfe)",
+        "time": "2022-02-19T21:00:00Z",
+        "title": "UFC Fight Night: Dos Anjos vs Fiziev (Vor- & Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC"
       }
@@ -181,9 +181,9 @@
         }
       },
       "fightPass": {
-        "id": 212956,
+        "id": 213061,
         "time": "2022-02-27T00:00:00Z",
-        "title": "(ESPAÑOL) UFC Fight Night: Darisuh vs Mkhachev"
+        "title": "UFC Fight Night: Dariush vs Makhachev"
       },
       "dazn": {
         "id": "11fymwfl5yrty17vh87mifwc00",
@@ -243,26 +243,45 @@
     ],
     "mainCard": {
       "title": "UFC 272: Covington vs. Masvidal",
-      "time": "2022-03-05T23:00:00Z",
+      "time": "2022-03-06T03:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "dazn": {
+        "id": "v0htfa2o5kt31nx2ur87m94we",
+        "time": "2022-03-06T03:00:00Z",
+        "title": "UFC 272: Covington vs Masvidal (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
       "title": "UFC 272: Prelims",
+      "time": "2022-03-06T01:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213045,
+        "time": "2022-03-06T01:00:00Z",
+        "title": "UFC 272: Prelims"
       }
     },
     "earlyPrelims": {
       "title": "UFC 272: Early Prelims",
+      "time": "2022-03-05T23:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213046,
+        "time": "2022-03-05T23:00:00Z",
+        "title": "UFC 272: Fight Pass Prelims"
       }
     },
     "tapology": {
@@ -649,7 +668,8 @@
         "Prelim: Gina Mazany (7-5-0) vs. Shanna Young (7-4-0)",
         "Prelim: Daniel da Silva (11-2-0) vs. Francisco Figueiredo (12-4-1)",
         "Prelim: Mike Breeden (10-4-0) vs. Natan Levy (6-1-0)",
-        "Prelim: Yohan Lainesse (8-0-0) vs. Gabe Green (10-3-0)"
+        "Prelim: Yohan Lainesse (8-0-0) vs. Gabe Green (10-3-0)",
+        "Prelim: Jessica Penne (14-5-0) vs. Luana Pinheiro (10-1-0)"
       ]
     }
   },

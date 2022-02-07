@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T043426Z
-X-KAMPFKALENDER-HASH:41b24731bbe486bb2d28c69b6fde08867125f9c8
+DTSTAMP:20220207T211721Z
+X-KAMPFKALENDER-HASH:29a83488b211976079be64aca687b1c3850e1a41
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220207T211722Z
 UID:2022-01-bkfc-jackson-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-jacks
  ell (Holly Springs\, MS)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T043426Z
+DTSTAMP:20220207T211722Z
 UID:2022-01-bkfc-jackson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson
@@ -49,5 +49,25 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-jacks
   IL) vs. Eric Thompson (Slidell\, LA)\nPrelim: Crystal Pittman vs. Audra
   Cummings\nPrelim: Wade Johnson (Bradford\, AR) vs. Nathan Mitchell (Hol
  ly Springs\, MS)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220207T211722Z
+UID:2022-02-bkfc-knuckle-mania-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Knuckle Mania 2
+DTSTART:20220220T010000Z
+DTEND:20220220T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-2/2p
+ at0/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85035-bkfc-kn
+ uckle-mania-2\nhttp://www.mixedmartialarts.com/events/bkfc:5c62b85f-a944
+ -438d-8ff4-06a42e547c9d\n\n---\n\nMain Event: Luis Palomino (Miami\, FL)
+  vs. Martin Brown (Tampa\, FL)\nCo-Main Event: Chad Mendes (Sacramento\,
+  CA) vs. Joshuah Alvarez\nMain Card: Mike Perry (Orlando\, FL) vs. Julia
+ n Lane (Mansfield\, OH)\nMain Card: Britain Hart (Bedford\, VA) vs. Chri
+ stine Ferea (Las Vegas\, NV)\nMain Card: Francesco Ricchi (Fort Lauderda
+ le\, FL) vs. Jake Bostwick\nMain Card: Brian Foster (Granite City\, IL) 
+ vs. Robbie Peralta (Escondido\, CA)\nMain Card: John Michael Escoboza vs
+ . Zion Tomlinson\, Sr. (Roanoke\, VA)
 END:VEVENT
 END:VCALENDAR

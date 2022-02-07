@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220206T112914Z
-X-KAMPFKALENDER-HASH:8f7b309138452ea80e47b6353d9aef3125ca96a7
+DTSTAMP:20220207T211721Z
+X-KAMPFKALENDER-HASH:108b059a7897e9b47a4d47627fad7b5e99b5b968
 BEGIN:VEVENT
-DTSTAMP:20220206T112915Z
+DTSTAMP:20220207T211722Z
 UID:2022-01-bkfc-jackson-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-jacks
  ell (Holly Springs\, MS)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220206T112915Z
+DTSTAMP:20220207T211722Z
 UID:2022-01-bkfc-jackson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson
@@ -51,7 +51,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-jacks
  ly Springs\, MS)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220206T112915Z
+DTSTAMP:20220207T211722Z
+UID:2022-02-bkfc-knuckle-mania-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Knuckle Mania 2
+DTSTART:20220220T010000Z
+DTEND:20220220T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-2/2p
+ at0/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85035-bkfc-kn
+ uckle-mania-2\nhttp://www.mixedmartialarts.com/events/bkfc:5c62b85f-a944
+ -438d-8ff4-06a42e547c9d\n\n---\n\nMain Event: Luis Palomino (Miami\, FL)
+  vs. Martin Brown (Tampa\, FL)\nCo-Main Event: Chad Mendes (Sacramento\,
+  CA) vs. Joshuah Alvarez\nMain Card: Mike Perry (Orlando\, FL) vs. Julia
+ n Lane (Mansfield\, OH)\nMain Card: Britain Hart (Bedford\, VA) vs. Chri
+ stine Ferea (Las Vegas\, NV)\nMain Card: Francesco Ricchi (Fort Lauderda
+ le\, FL) vs. Jake Bostwick\nMain Card: Brian Foster (Granite City\, IL) 
+ vs. Robbie Peralta (Escondido\, CA)\nMain Card: John Michael Escoboza vs
+ . Zion Tomlinson\, Sr. (Roanoke\, VA)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220207T211722Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
