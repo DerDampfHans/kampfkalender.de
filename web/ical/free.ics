@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220207T114217Z
-X-KAMPFKALENDER-HASH:6c8eb3c5554354292464f93367e0af40895632b5
+DTSTAMP:20220207T215332Z
+X-KAMPFKALENDER-HASH:4a5be83fdf52e3ddc9b89e6f9564d53ecca963b8
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
 UID:2022-01-one-championship-only-the-brave@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Only the Brave
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UMjHeO98FW0\n\n-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
 UID:2022-01-ksw-61-to-fight-or-not-to-fight-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 61: To Fight or Not To Fight (Re-Live)
@@ -43,7 +43,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wHdCChzyVYw\n\n-
  ski-2170
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
 UID:2022-01-bkfc-jackson-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson: Prelims
@@ -65,7 +65,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-jacks
  ell (Holly Springs\, MS)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
 UID:2022-02-ksw-44-the-game-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 44: The Game (Re-Live)
@@ -79,7 +79,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WAtbzfbPW-M\n\n-
  tfightodds.com/events/ksw-44-pudzianowski-vs-bedorf-1496
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
 UID:2022-02-thurman-vs-barrios-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios (Prelims)
@@ -101,7 +101,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios-
  -0)\nPrelim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
 UID:2022-02-one-championship-bad-blood@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Bad Blood
@@ -123,7 +123,21 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  0) vs. Tial Thang (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
+UID:2022-02-eagle-fc-45-busurmankul-vs-magomedov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eagle FC 45: Busurmankul vs. Magomedov
+DTSTART:20220218T150000Z
+DTEND:20220218T180000Z
+CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
+DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/86140-efc-45-busurmankul-vs-akimzhan\n\n---\n\nMain Event: B. Abdib
+ ait uulu (14-3-1) vs. Rasul Magomedov (9-3-0)\nMain Card: G. Shakhrurama
+ zanov (10-1-0) vs. Roman Avdalyan (15-11-0)\nMain Card: Dinislam Kamavov
+  (12-1-2) vs. Ramin Sultanov (6-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220207T215332Z
 UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle
@@ -146,7 +160,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  m: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
@@ -157,7 +171,19 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T114217Z
+DTSTAMP:20220207T215332Z
+UID:2022-03-eagle-fc-46-lee-vs-sanchez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eagle FC 46: Lee vs. Sanchez
+DTSTART:20220311T230000Z
+DTEND:20220312T020000Z
+CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
+DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/86621-eagle-fc-46-lee-vs-sanchez\n\n---\n\nMain Event: Kevin Lee (1
+ 8-7-0) vs. Diego Sanchez (30-13-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220207T215332Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
