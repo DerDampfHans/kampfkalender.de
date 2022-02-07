@@ -46,10 +46,16 @@
             "src": "/android-chrome-512x512.png?v=GvbNM9g0eL",
             "sizes": "512x512",
             "type": "image/png"
+        },
+        {
+            "src": "/maskable_icon.png?v=GvbNM9g0eL",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://kampfkalender.de/",
-    "display": "standalone"
+    "start_url": "https://kampfkalender.netlify.app/",
+    "display": "fullscreen"
 }
