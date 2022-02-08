@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220206T112914Z
-X-KAMPFKALENDER-HASH:0921d9402ddd4e0f12af0608d726f0be024667c0
+DTSTAMP:20220208T132357Z
+X-KAMPFKALENDER-HASH:56726120b817f8b55e2e60181279c0dcc5c7dfd8
 BEGIN:VEVENT
-DTSTAMP:20220206T112914Z
+DTSTAMP:20220208T132358Z
 UID:2022-02-xfn-378-kickboxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 378 Kickboxing
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220206T112914Z
+DTSTAMP:20220208T132358Z
 UID:2022-02-styrian-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Styrian Fight Night
@@ -29,28 +29,17 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-st
  -fight-night-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220206T112914Z
+DTSTAMP:20220208T132358Z
 UID:2022-02-anthony-pettis-fc-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Anthony Pettis FC 1
 DTSTART:20220212T020000Z
 DTEND:20220212T050000Z
-CATEGORIES:Other,UFC Fight Pass,live
+CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220206T112914Z
-UID:2022-03-hype-fc-rumble-in-the-cage-2022@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Hype FC Rumble in The Cage 2022
-DTSTART:20220312T170000Z
-DTEND:20220312T210000Z
-CATEGORIES:Other,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/hyp
- e-fc-rumble-in-the-cage-2022/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220206T112914Z
+DTSTAMP:20220208T132358Z
 UID:2022-03-one-man-series-next-level@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series – Next Level
