@@ -409,7 +409,6 @@
         "Prelim: Molly McCann (11-4-0) vs. Luana Carolina (8-2-0)",
         "Prelim: Muhammad Mokaev (5-0-0) vs. Cody Durden (12-3-1)",
         "Prelim: Elise Reed (4-1-0) vs. Cory McKenna (6-1-0)",
-        "Prelim: Jake Hadley (8-0-0) vs. Allan Nascimento (18-6-0)",
         "Prelim: Shamil Abdurakhimov (20-6-0) vs. Sergei Pavlovich (14-1-0)",
         "Prelim: Nathaniel Wood (17-5-0) vs. Liudvik Sholinian (9-2-1)",
         "Prelim: Jai Herbert (11-3-0) vs. Mike Davis (9-2-0)"
@@ -646,13 +645,6 @@
         }
       }
     },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
     "tapology": {
       "id": 86142,
       "time": "2022-04-30T22:00:00Z",
@@ -788,13 +780,6 @@
         }
       }
     },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
     "tapology": {
       "id": 86509,
       "time": "2022-05-21T22:00:00Z",
@@ -808,6 +793,43 @@
         "Main Event: Holly Holm (14-5-0) vs. Ketlen Vieira (12-2-0)",
         "Main Card: Alexander Gustafsson (18-7-0) vs. Ben Rothwell (39-14-0)",
         "Prelim: Chase Hooper (10-2-1) vs. Felipe Colares (10-3-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-86746",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2022-06-04T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 86746,
+      "time": "2022-06-04T22:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/86746-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Prelim: Poliana Botelho (8-4-0) vs. Karine Silva (14-4-0)"
       ]
     }
   }
