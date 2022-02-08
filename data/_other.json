@@ -5,9 +5,6 @@
     "sports": [
       "MMA"
     ],
-    "tags": [
-      "#MMA"
-    ],
     "mainCard": {
       "title": "Anthony Pettis FC 1",
       "time": "2022-02-12T02:00:00Z",
@@ -35,11 +32,11 @@
     "id": "one-man-series-2022-03-26",
     "promotion": "_OTHER",
     "sports": [
+      "MMA",
       "KICKBOXING"
     ],
     "tags": [
-      "#K1",
-      "#Kickboxen"
+      "#Hamburg"
     ],
     "links": [
       "https://www.fightevents.de/event/one-man-series-next-level/"
@@ -52,6 +49,32 @@
         "FIGHT24_TV": {
         }
       }
+    },
+    "fightEvents": {
+      "id": "one-man-series-next-level",
+      "time": "2022-03-26T17:00:00Z",
+      "until": "2022-03-26T21:30:00Z",
+      "title": "One Man Series – Next Level",
+      "url": "https://www.fightevents.de/event/one-man-series-next-level/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Clement Noel",
+        "Hamburg",
+        "Jan Grossmann",
+        "K1",
+        "Milan Brandau",
+        "MMA",
+        "Next Level",
+        "ONE MAN Series",
+        "Tahir Della"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "MMA",
+        "National"
+      ]
     }
   }
 ]
