@@ -4,20 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220206T181850Z
-X-KAMPFKALENDER-HASH:e79189d190e914f921bb14ff4d3ec73fbb0cb09d
+DTSTAMP:20220208T153656Z
+X-KAMPFKALENDER-HASH:198685c6d092fec888c6394353dde335708053a6
 BEGIN:VEVENT
-DTSTAMP:20220206T181850Z
-UID:2022-01-schlagwort-special-niklas-stolze@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Special: Niklas Stolze
-DTSTART:20220130T170000Z
-DTEND:20220130T190000Z
-CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3aTb2-tsNdw
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220206T181850Z
+DTSTAMP:20220208T153656Z
 UID:2022-02-schlagwort-special-mo-trabelsi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Special: Mo Trabelsi
@@ -27,7 +17,18 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=KHLEZHnJy2I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220206T181850Z
+DTSTAMP:20220208T153656Z
+UID:2022-02-review-zur-ufc-fight-night-200-hermansson-vs-strickland@kampf
+ kalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Review zur UFC Fight Night 200: Hermansson vs. Strickland
+DTSTART:20220208T110000Z
+DTEND:20220208T120000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Gfm7H5aH5gA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T153656Z
 UID:2022-02-schlagwort-podcast-149@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 149
