@@ -10,7 +10,11 @@
     ],
     "mainCard": {
       "title": "Bellator 274: Gracie vs. Storley",
-      "time": "2022-02-19T23:00:00Z"
+      "time": "2022-02-19T23:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
     },
     "prelims": {
       "title": "Bellator 274: Prelims",
@@ -57,7 +61,11 @@
     ],
     "mainCard": {
       "title": "Bellator 275: Mousasi vs. Vanderford",
-      "time": "2022-02-25T19:00:00Z"
+      "time": "2022-02-25T19:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
     },
     "prelims": {
       "title": "Bellator 275: Prelims",
@@ -142,7 +150,18 @@
     "mainCard": {
       "hidden": true,
       "title": "Bellator Paris: Bader vs. Kongo 2",
-      "time": "2022-05-06T15:30:00Z"
+      "time": "2022-05-06T15:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Bellator Paris: Prelims",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
     },
     "tapology": {
       "id": 86506,
