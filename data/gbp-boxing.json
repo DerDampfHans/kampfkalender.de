@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#MunguiaBallard"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Munguia vs. Ballard",
-      "time": "2022-02-20T02:00:00Z"
+      "time": "2022-02-20T02:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1a8puhpwl4h9y1akr0ybm3zfxb",
+        "time": "2022-02-20T02:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Munguia vs Ballard"
+      }
     },
     "tapology": {
       "id": 85404,
