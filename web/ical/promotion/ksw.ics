@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220208T225014Z
-X-KAMPFKALENDER-HASH:e04910e08888bffae847a4da049eddabafc698c5
+DTSTAMP:20220210T092712Z
+X-KAMPFKALENDER-HASH:e08c7c423aa89fe2da02326cc2842276cb0d536a
 BEGIN:VEVENT
-DTSTAMP:20220208T225015Z
+DTSTAMP:20220210T092713Z
 UID:2022-02-ksw-44-the-game-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 44: The Game (Re-Live)
@@ -21,7 +21,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WAtbzfbPW-M\n\n-
  tfightodds.com/events/ksw-44-pudzianowski-vs-bedorf-1496
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220208T225015Z
+DTSTAMP:20220210T092713Z
 UID:2022-02-ksw-67-de-fries-vs-stosic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 67: De Fries vs. Stošić
@@ -38,5 +38,16 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  (15-6-2) vs. Dawid Śmiełowski (8-0-0)\nPrelim: Oskar Szczepaniak (2-0-0)
   vs. Yann Liasse (5-1-0)\nPrelim: Igor Michaliszyn (8-2-0) vs. Lionel Pa
  dilla (8-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220210T092713Z
+UID:2022-03-ksw-68@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 68
+DTSTART:20220319T160000Z
+DTEND:20220319T190000Z
+CATEGORIES:KSW,MMA,kswtv.com,Bild+,live
+DESCRIPTION:via kswtv.com\nvia Bild+\n\n---\n\nhttps://www.tapology.com/f
+ ightcenter/events/86778-ksw-68
 END:VEVENT
 END:VCALENDAR
