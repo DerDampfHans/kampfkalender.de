@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220211T080218Z
-X-KAMPFKALENDER-HASH:1372e8eaa5c75cc64800668e2d48f3247b133965
+DTSTAMP:20220211T091228Z
+X-KAMPFKALENDER-HASH:b2a1b0b2103e250f735e74e6a268c8fd17923562
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-02-ksw-44-the-game-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 44: The Game (Re-Live)
@@ -21,7 +21,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WAtbzfbPW-M\n\n-
  tfightodds.com/events/ksw-44-pudzianowski-vs-bedorf-1496
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-02-thurman-vs-barrios-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios (Prelims)
@@ -43,7 +43,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios-
  -0)\nPrelim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-02-one-championship-bad-blood@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Bad Blood
@@ -64,7 +64,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=6lhj9Ybkuds\n\n-
  . Tial Thang (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-02-ksw-34-new-order-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 34: New Order (Re-Live)
@@ -76,7 +76,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ksRdqZbdh1o\n\n-
  ww.sherdog.com/events/KSW-34-New-Order-49721
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-02-eagle-fc-45-busurmankul-vs-magomedov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 45: Busurmankul vs. Magomedov
@@ -95,7 +95,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kach (11-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle
@@ -116,7 +116,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  elim: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
@@ -127,7 +127,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-03-eagle-fc-46-lee-vs-sanchez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 46: Lee vs. Sanchez
@@ -139,7 +139,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  8-7-0) vs. Diego Sanchez (30-13-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220211T091229Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -153,5 +153,25 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  on\nMain Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)\nMain C
  ard: Nieky Holzken vs. Islam Murtazaev\nMain Card: Chingiz Allazov vs. S
  . Sitsongpeenong\nMain Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220211T091229Z
+UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GEMMAF Qualifiers 1
+DTSTART:20220625T100000Z
+DTEND:20220625T180000Z
+CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220211T091229Z
+UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GEMMAF Deutsche Meisterschaften
+DTSTART:20220924T100000Z
+DTEND:20220924T180000Z
+CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de
 END:VEVENT
 END:VCALENDAR

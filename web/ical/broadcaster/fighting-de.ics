@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220210T092712Z
-X-KAMPFKALENDER-HASH:ac63906afe23cc9b9d24f299c7e1786355fe1ede
+DTSTAMP:20220211T091228Z
+X-KAMPFKALENDER-HASH:d99f113d7ed097cf7d926640c91291b228ce1e22
 BEGIN:VEVENT
-DTSTAMP:20220210T092713Z
+DTSTAMP:20220211T091229Z
 UID:2022-03-brave-cf-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 57
@@ -25,7 +25,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  v (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T092713Z
+DTSTAMP:20220211T091229Z
 UID:2022-04-nfc-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8
@@ -36,7 +36,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/nf
  c-8-errens-vs-oezyildirim-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T092713Z
+DTSTAMP:20220211T091229Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -47,7 +47,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T092713Z
+DTSTAMP:20220211T091229Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -57,5 +57,25 @@ CATEGORIES:INNFERNO,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/77051-innferno-fc-5\nhttp://www.sherdog.com/events/innferno-5-i
  nnferno-fighting-championship-5-90414
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220211T091229Z
+UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GEMMAF Qualifiers 1
+DTSTART:20220625T100000Z
+DTEND:20220625T180000Z
+CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220211T091229Z
+UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GEMMAF Deutsche Meisterschaften
+DTSTART:20220924T100000Z
+DTEND:20220924T180000Z
+CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de
 END:VEVENT
 END:VCALENDAR

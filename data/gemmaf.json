@@ -1,2 +1,42 @@
 [
+  {
+    "id": "gemmaf-2022-06-25",
+    "promotion": "GEMMAF",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#GemmafQualifiers"
+    ],
+    "mainCard": {
+      "title": "GEMMAF Qualifiers 1",
+      "time": "2022-06-25T10:00:00Z",
+      "until": "2022-06-25T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    }
+  },
+  {
+    "id": "gemmaf-2022-09-24",
+    "promotion": "GEMMAF",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#GemmafDm2022"
+    ],
+    "mainCard": {
+      "title": "GEMMAF Deutsche Meisterschaften",
+      "time": "2022-09-24T10:00:00Z",
+      "until": "2022-09-24T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    }
+  }
 ]
