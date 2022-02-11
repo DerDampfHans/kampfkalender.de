@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220211T104804Z
-X-KAMPFKALENDER-HASH:c6d6dad5f01956fa674c4b468eb4c4c00d995a20
+DTSTAMP:20220211T154005Z
+X-KAMPFKALENDER-HASH:af06e8aa2f391ca684951b9317a655465b2fe88e
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-vegas-47-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 47: Prelims
@@ -34,7 +34,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  lim: Malcolm Gordon (13-5-0) vs. Denys Bondar (16-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-vegas-47-hermansson-vs-strickland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 47: Hermansson vs. Strickland
@@ -61,7 +61,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -3-0)\nPrelim: Malcolm Gordon (13-5-0) vs. Denys Bondar (16-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-271-live-weigh-in-show@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271: Live Weigh-In Show
@@ -71,7 +71,17 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cAv3rlZKB4s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
+UID:2022-02-ufc-271-ceremonial-weigh-in@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 271: Ceremonial Weigh-In
+DTSTART:20220211T220000Z
+DTEND:20220211T230000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AH_7ao4xw8Y
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-271-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271: Early Prelims
@@ -99,7 +109,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  a (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-271-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271: Prelims
@@ -127,7 +137,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  a (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-271-adesanya-vs-whittaker-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271: Adesanya vs. Whittaker 2
@@ -155,7 +165,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ke Mathetha (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-vegas-48-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 48: Prelims
@@ -176,7 +186,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  )\nPrelim: Gabriel Benítez (22-9-0) vs. David Onama (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-vegas-48-dos-anjos-vs-fiziev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 48: Dos Anjos vs. Fiziev
@@ -197,7 +207,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ger (6-2-0)\nPrelim: Gabriel Benítez (22-9-0) vs. David Onama (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-vegas-49-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 49: Prelims
@@ -219,7 +229,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  neda (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-02-ufc-vegas-49-dariush-vs-makhachev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 49: Dariush vs. Makhachev
@@ -241,7 +251,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  nzalez Araneda (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-03-ufc-272-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 272: Early Prelims
@@ -263,7 +273,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Umar Nurmagomedov (13-0-0) vs. Brian Kelleher (24-12-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-03-ufc-272-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 272: Prelims
@@ -285,7 +295,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Umar Nurmagomedov (13-0-0) vs. Brian Kelleher (24-12-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-03-ufc-272-covington-vs-masvidal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 272: Covington vs. Masvidal
@@ -307,7 +317,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Umar Nurmagomedov (13-0-0) vs. Brian Kelleher (24-12-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-03-ufc-vegas-50-santos-vs-ankalaev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 50: Santos vs. Ankalaev
@@ -330,7 +340,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Fletcher (9-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-03-ufc-vegas-50-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 50: Prelims
@@ -353,7 +363,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (9-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-03-ufc-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London
@@ -375,7 +385,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Jai Herbert (11-3-0) vs. Mike Davis (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-03-ufc-columbus-blaydes-vs-daukaus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Columbus: Blaydes vs. Daukaus
@@ -399,7 +409,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Saldaña (15-7-0) vs. Bruno Souza (10-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-04-ufc-273-volkanovski-vs-korean-zombie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Volkanovski vs. Korean Zombie
@@ -422,7 +432,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (12-3-0) vs. Marcin Tybura (22-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-04-ufc-vegas-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51
@@ -442,7 +452,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ramie (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Lemos vs. Andrade
@@ -461,7 +471,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (18-13-0)\nPrelim: Dwight Grant (11-4-0) vs. Sergey Khandozhko (27-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -479,7 +489,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   vs. Rafael Alves (20-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-05-ufc-274-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Teixeira vs. Procházka
@@ -495,7 +505,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  1)\nPrelim: Kleydson Rodrigues (7-1-0) vs. C.J. Vergara (9-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-05-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -510,7 +520,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Virna Jandiroba (17-3-0) vs. Angela Hill (13-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-05-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -525,7 +535,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ci (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T104804Z
+DTSTAMP:20220211T154006Z
 UID:2022-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
