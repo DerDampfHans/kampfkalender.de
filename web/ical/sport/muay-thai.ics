@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220210T175325Z
-X-KAMPFKALENDER-HASH:6bacd40ab03aaae9617526b67057ce70607d18f0
+DTSTAMP:20220211T080218Z
+X-KAMPFKALENDER-HASH:9ad6065054e06361e0817196c9f0c89156a9ad61
 BEGIN:VEVENT
-DTSTAMP:20220210T175325Z
+DTSTAMP:20220211T080219Z
 UID:2022-02-one-championship-bad-blood@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Bad Blood
@@ -17,19 +17,18 @@ CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=6lhj9Ybkuds\n\n-
  --\n\nhttps://www.tapology.com/fightcenter/events/85968-one-championship
  \nhttp://www.sherdog.com/events/one-championship-bad-blood-91595\n\n---\
- n\nMain Event: Anatoly Malykhin (10-0-0) vs. Kirill Grishenko (5-0-0)\nM
- ain Card: Jonathan Haggerty vs. M. Petchyindee\nMain Card: Yosuke Saruta
-  (21-10-3) vs. Gustavo Balart (9-4-0)\nMain Card: Rui Chen (10-3-0) vs. 
- Mark Abelardo (20-8-0)\nMain Card: D. Sor Amnuaysirichoke (12-6-0) vs. D
- anial Williams (3-1-0)\nPrelim: Yodkaikaew Fairtex (7-3-1) vs. Sung Hoon
-  Woo (8-2-0)\nPrelim: Mei Yamaguchi (21-13-1) vs. Jihin Radzuan (6-2-0)\
- nPrelim: Dustin Joynson (6-1-0) vs. Hugo Cunha (6-0-0)\nPrelim: Heqin Li
- n (14-3-1) vs. Bi Nguyen (6-7-0)\nPrelim: Thomas Narmo (4-1-0) vs. Odie 
- Delaney (2-0-0)\nPrelim: Sunoto Peringkat (12-7-0) vs. Tial Thang (3-1-0
- )
+ n\nMain Event: Anatoly Malykhin (10-0-0) vs. Kirill Grishenko (5-0-0)\nC
+ o-Main Event: Jonathan Haggerty vs. M. Petchyindee\nMain Card: Rui Chen 
+ (10-3-0) vs. Mark Abelardo (20-8-0)\nMain Card: Mei Yamaguchi (21-13-1) 
+ vs. Jihin Radzuan (6-2-0)\nMain Card: Yodkaikaew Fairtex (7-3-1) vs. Sun
+ g Hoon Woo (8-2-0)\nMain Card: D. Sor Amnuaysirichoke (12-6-0) vs. Dania
+ l Williams (3-1-0)\nPrelim: Dustin Joynson (6-1-0) vs. Hugo Cunha (6-0-0
+ )\nPrelim: Heqin Lin (14-3-1) vs. Bi Nguyen (6-7-0)\nPrelim: Thomas Narm
+ o (4-1-0) vs. Odie Delaney (2-0-0)\nPrelim: Sunoto Peringkat (12-7-0) vs
+ . Tial Thang (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T175325Z
+DTSTAMP:20220211T080219Z
 UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle
@@ -50,7 +49,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  elim: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T175325Z
+DTSTAMP:20220211T080219Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
@@ -59,5 +58,21 @@ DTEND:20220311T163000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220211T080219Z
+UID:2022-03-one-championship-one-x@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Championship: One X
+DTSTART:20220326T123000Z
+DTEND:20220326T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/85971-one-championship\n\n---\n\nMain Event: Stamp Fairtex (8-1-0) 
+ vs. Angela Lee (10-2-0)\nCo-Main Event: Adriano Moraes (19-3-0) vs. Yuya
+  Wakamatsu (15-4-0)\nMain Card: Demetrious Johnson vs. Rodtang Jitmuangn
+ on\nMain Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)\nMain C
+ ard: Nieky Holzken vs. Islam Murtazaev\nMain Card: Chingiz Allazov vs. S
+ . Sitsongpeenong\nMain Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov
 END:VEVENT
 END:VCALENDAR
