@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220209T061522Z
-X-KAMPFKALENDER-HASH:545bf59365ce35147a2408498b906d646985fc11
+DTSTAMP:20220212T084529Z
+X-KAMPFKALENDER-HASH:7d728ad3b1039264c92af6d4d6454d45ccf4a5ab
 BEGIN:VEVENT
-DTSTAMP:20220209T061522Z
+DTSTAMP:20220212T084530Z
 UID:2022-02-thurman-vs-barrios-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios (Prelims)
@@ -29,7 +29,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios-
  -0)\nPrelim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220209T061522Z
+DTSTAMP:20220212T084530Z
 UID:2022-02-thurman-vs-barrios@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Thurman vs. Barrios
@@ -51,10 +51,28 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-thurman-vs-barios/
  lim: Malverde Gonzalez (3-0-0) vs. Anthony Cuba (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220209T061522Z
-UID:2022-02-bkfc-knuckle-mania-2@kampfkalender.de
+DTSTAMP:20220212T084530Z
+UID:2022-02-bkfc-knucklemania-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC: Knuckle Mania 2
+SUMMARY:BKFC KnuckleMania 2: Prelims
+DTSTART:20220219T233000Z
+DTEND:20220220T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-2-pr
+ elims/2patu/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85035
+ -bkfc-knuckle-mania-2\nhttp://www.mixedmartialarts.com/events/bkfc:5c62b
+ 85f-a944-438d-8ff4-06a42e547c9d\n\n---\n\nMain Event: Luis Palomino vs. 
+ Martin Brown\nCo-Main Event: Chad Mendes vs. Joshuah Alvarez\nMain Card:
+  Mike Perry vs. Julian Lane\nMain Card: Britain Hart vs. Christine Ferea
+ \nMain Card: Francesco Ricchi vs. Jake Bostwick\nMain Card: Brian Foster
+  vs. Robbie Peralta\nMain Card: John Michael Escoboza vs. Zion Tomlinson
+ \, Sr.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220212T084530Z
+UID:2022-02-bkfc-knucklemania-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC KnuckleMania 2
 DTSTART:20220220T010000Z
 DTEND:20220220T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
@@ -68,7 +86,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-2/2p
  bie Peralta\nMain Card: John Michael Escoboza vs. Zion Tomlinson\, Sr.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220209T061522Z
+DTSTAMP:20220212T084530Z
 UID:2022-02-fusion-fight-league-black-hills-brawl@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Black Hills Brawl
@@ -83,7 +101,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-black-hills-brawls
  . Winkles-Camparetto (6-3-0) vs. Josiah Simpson (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220209T061522Z
+DTSTAMP:20220212T084530Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25

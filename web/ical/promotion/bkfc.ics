@@ -4,13 +4,31 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220209T061522Z
-X-KAMPFKALENDER-HASH:c8c7f3045890e59a2011e980d33c65410c07e433
+DTSTAMP:20220212T084529Z
+X-KAMPFKALENDER-HASH:284acb85960aa1c95fedc79e2546583d171b8ee3
 BEGIN:VEVENT
-DTSTAMP:20220209T061522Z
-UID:2022-02-bkfc-knuckle-mania-2@kampfkalender.de
+DTSTAMP:20220212T084529Z
+UID:2022-02-bkfc-knucklemania-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC: Knuckle Mania 2
+SUMMARY:BKFC KnuckleMania 2: Prelims
+DTSTART:20220219T233000Z
+DTEND:20220220T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-2-pr
+ elims/2patu/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85035
+ -bkfc-knuckle-mania-2\nhttp://www.mixedmartialarts.com/events/bkfc:5c62b
+ 85f-a944-438d-8ff4-06a42e547c9d\n\n---\n\nMain Event: Luis Palomino vs. 
+ Martin Brown\nCo-Main Event: Chad Mendes vs. Joshuah Alvarez\nMain Card:
+  Mike Perry vs. Julian Lane\nMain Card: Britain Hart vs. Christine Ferea
+ \nMain Card: Francesco Ricchi vs. Jake Bostwick\nMain Card: Brian Foster
+  vs. Robbie Peralta\nMain Card: John Michael Escoboza vs. Zion Tomlinson
+ \, Sr.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220212T084529Z
+UID:2022-02-bkfc-knucklemania-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC KnuckleMania 2
 DTSTART:20220220T010000Z
 DTEND:20220220T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live

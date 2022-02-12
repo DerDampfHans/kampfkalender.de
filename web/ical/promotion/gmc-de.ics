@@ -4,6 +4,39 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220208T153656Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220212T084529Z
+X-KAMPFKALENDER-HASH:84a996493441ec016cfc7243aed9ee495c1ea024
+BEGIN:VEVENT
+DTSTAMP:20220212T084529Z
+UID:2022-02-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20220212T110000Z
+DTEND:20220212T140000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220212-olym
+ pix-grappling-no-101
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220212T084529Z
+UID:2022-02-olympix-k1-boxen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen
+DTSTART:20220219T160000Z
+DTEND:20220219T190000Z
+CATEGORIES:GMC,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220219-olym
+ pix-k1-boxen-no-102
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220212T084529Z
+UID:2022-02-olympix-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX MMA
+DTSTART:20220219T160000Z
+DTEND:20220219T190000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220219-olym
+ pix-mma-no-102
+END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220212T075014Z
-X-KAMPFKALENDER-HASH:a7468d305347c2fa71f19fd4291fcd265c8887c7
+DTSTAMP:20220212T084529Z
+X-KAMPFKALENDER-HASH:50837b4c19d4dc3bee9fa03cbfbe0f7030937ce9
 BEGIN:VEVENT
-DTSTAMP:20220212T075014Z
+DTSTAMP:20220212T084529Z
 UID:2022-02-styrian-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Styrian Fight Night
@@ -19,7 +19,18 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-st
  -fight-night-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T075014Z
+DTSTAMP:20220212T084529Z
+UID:2022-02-olympix-k1-boxen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen
+DTSTART:20220219T160000Z
+DTEND:20220219T190000Z
+CATEGORIES:GMC,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220219-olym
+ pix-k1-boxen-no-102
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220212T084529Z
 UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle
@@ -40,7 +51,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  elim: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T075014Z
+DTSTAMP:20220212T084529Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
@@ -51,7 +62,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85970-one-championship
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T075014Z
+DTSTAMP:20220212T084529Z
 UID:2022-03-hype-fc-rumble-in-the-cage-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hype FC: Rumble in The Cage 2022
@@ -62,7 +73,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/hyp
  e-fc-rumble-in-the-cage-2022/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T075014Z
+DTSTAMP:20220212T084529Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
@@ -75,7 +86,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  tov vs. Luis Tavares\nMain Card: Nordin Ben Moh vs. Guerric Billet
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T075014Z
+DTSTAMP:20220212T084529Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -91,7 +102,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  . Sitsongpeenong\nMain Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T075014Z
+DTSTAMP:20220212T084529Z
 UID:2022-03-one-man-series-next-level@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series – Next Level
