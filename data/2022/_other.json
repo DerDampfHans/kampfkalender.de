@@ -76,5 +76,50 @@
         "Livestream"
       ]
     }
+  },
+  {
+    "id": "pettis-showtime-2022-02-12",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Anthony Pettis FC 1",
+      "time": "2022-02-12T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 211400,
+        "time": "2022-02-12T01:00:00Z",
+        "title": "Anthony Pettis FC 1"
+      }
+    }
+  },
+  {
+    "id": "boxing-leos-boxnacht-2022-02-12",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#München",
+      "@LCukur"
+    ],
+    "links": [
+      "http://leosboxgym.de/"
+    ],
+    "mainCard": {
+      "title": "Leo's Boxnacht",
+      "time": "2022-02-12T15:00:00Z",
+      "until": "2022-02-12T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-leos-boxnacht-418",
+          "freeAfter": 48
+        }
+      }
+    }
   }
 ]
