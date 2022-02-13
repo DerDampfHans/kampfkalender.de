@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220213T142340Z
-X-KAMPFKALENDER-HASH:e63c8e20cbaecc35fd20e0cc131d53e3b084c57c
+DTSTAMP:20220213T221152Z
+X-KAMPFKALENDER-HASH:ff158c5f5106b2354938a38ce9b43691f98fea48
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-02-pfl-challenger-series-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 1
@@ -15,14 +15,17 @@ DTSTART:20220219T020000Z
 DTEND:20220219T050000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/85962-pfl-challenger-series-1\n\n---\n\nMain Event: Josh Silvei
- ra (7-0-0) vs. Mohamed Juma (8-2-0)\nCo-Main Event: Alexander Poppeck (1
- 2-3-0) vs. Taylor Johnson (7-3-0)\nMain Card: João Paulo Fagundes (7-0-0
- ) vs. Bruce Souto (14-3-0)\nMain Card: Simeon Powell (4-0-0) vs. Karl Wi
- lliams (3-1-0)
+ r/events/85962-pfl-challenger-series-1\nhttp://www.sherdog.com/events/pr
+ ofessional-fighters-league-pfl-challenger-series-1-91855\nhttp://www.mix
+ edmartialarts.com/events/pfl-challenger-series-1:e2f912d7-e2ec-4afb-a66d
+ -c49529805902\nhttps://pflmma.com/challenger-event/2022-challenger-serie
+ s-week-1\n\n---\n\nMain Event: Josh Silveira (7-0-0) vs. Mohamed Juma (8
+ -2-0)\nCo-Main Event: Alexander Poppeck (12-3-0) vs. Taylor Johnson (7-3
+ -0)\nMain Card: João Paulo Fagundes (7-0-0) vs. Bruce Souto (14-3-0)\nMa
+ in Card: Simeon Powell (4-0-0) vs. Karl Williams (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-02-pfl-challenger-series-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2
@@ -37,7 +40,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-03-pfl-challenger-series-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 3
@@ -52,7 +55,24 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
   Olivia Parker (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
+UID:2022-03-cage-mma-53@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CAGE MMA 53
+DTSTART:20220305T160000Z
+DTEND:20220305T190000Z
+CATEGORIES:CAGE,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/86716-cage-mma-53\nhttp://www.sherdog.com/event
+ s/cage-53-cage-mma-finland-53-91728\nhttps://www.mmafinland.fi/uutiset/c
+ age-53-rytohonka-vs-amorim.html?fbclid=IwAR2GNl7CpE8Si1dj84uWrtJc9x2Mnnq
+ cr7cxzRDZirRsXPFF5zYP1SHbOKQ\n\n---\n\nMain Card: Markus Rytohonka (7-4-
+ 1) vs. Renato Amorim (8-2-0)\nMain Card: Tuomas Gronvall (7-4-1) vs. Luc
+ as Pereira (4-4-0)\nMain Card: Sten Saaremae (5-2-0) vs. Robert Nystrom 
+ (6-6-0)\nMain Card: Karri Itkonen (0-2-0) vs. Karvann Ahmadi (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220213T221153Z
 UID:2022-03-brave-cf-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 57
@@ -70,7 +90,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  v (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-03-pfl-challenger-series-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 4
@@ -85,7 +105,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  her (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-03-pfl-challenger-series-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 5
@@ -100,7 +120,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
   (7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-03-pfl-challenger-series-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 6
@@ -115,7 +135,27 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
+UID:2022-03-enfusion-talents-88@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Talents 88
+DTSTART:20220326T170000Z
+DTEND:20220326T190000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220213T221153Z
+UID:2022-03-enfusion-105@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 105
+DTSTART:20220326T190000Z
+DTEND:20220326T220000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220213T221153Z
 UID:2022-04-nfc-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8
@@ -126,7 +166,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/nf
  c-8-errens-vs-oezyildirim-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -137,7 +177,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -149,7 +189,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  nnferno-fighting-championship-5-90414
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -159,7 +199,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220213T142340Z
+DTSTAMP:20220213T221153Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
