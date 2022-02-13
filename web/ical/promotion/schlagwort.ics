@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220208T153656Z
-X-KAMPFKALENDER-HASH:9d0053e071ed2399085c873c0aee77a38ad5a0e9
+DTSTAMP:20220213T142340Z
+X-KAMPFKALENDER-HASH:63d37afd5d75a1faa026b8cc23ff53fe0e9356a8
 BEGIN:VEVENT
-DTSTAMP:20220208T153656Z
+DTSTAMP:20220213T142340Z
 UID:2022-02-schlagwort-special-mo-trabelsi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Special: Mo Trabelsi
@@ -17,13 +17,13 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=KHLEZHnJy2I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220208T153656Z
-UID:2022-02-schlagwort-podcast-149@kampfkalender.de
+DTSTAMP:20220213T142340Z
+UID:2022-02-schlagwort-special-pfl-2022-alle-infos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast 149
+SUMMARY:Schlagwort Special: PFL 2022 - Alle Infos
 DTSTART:20220213T170000Z
 DTEND:20220213T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=d3kqs28bKZ8
 END:VEVENT
 END:VCALENDAR
