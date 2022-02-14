@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220210T094004Z
-X-KAMPFKALENDER-HASH:7e18cee8ae34cbace0fff215ccf33d27d60426fa
+DTSTAMP:20220214T071434Z
+X-KAMPFKALENDER-HASH:f8d2e599658c4eb99f2ceb648853af7b39193a33
 BEGIN:VEVENT
-DTSTAMP:20220210T094004Z
+DTSTAMP:20220214T071434Z
 UID:2022-02-review-zur-ufc-fight-night-200-hermansson-vs-strickland@kampf
  kalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Gfm7H5aH5gA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T094004Z
+DTSTAMP:20220214T071434Z
 UID:2022-02-israel-adesanya-gegen-robert-whittaker-2-unser-preview-zum-ma
  in-event-von-ufc-271@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=TSvN0jaQmeg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T094004Z
+DTSTAMP:20220214T071434Z
 UID:2022-02-lewis-tuivasa-cannonier-brunson-u-v-m-unser-preview-zu-ufc-27
  1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -40,5 +40,17 @@ DTSTART:20220210T110000Z
 DTEND:20220210T120000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=VtqOM4UNykE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220214T071434Z
+UID:2022-02-der-ufc-271-main-event-unsere-reaktion-auf-adesanya-vs-whitta
+ ker-ii@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Der UFC 271 Main Event – unsere Reaktion auf Adesanya vs. Whittak
+ er II
+DTSTART:20220214T083000Z
+DTEND:20220214T093000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=E9jBPqLTrHc
 END:VEVENT
 END:VCALENDAR
