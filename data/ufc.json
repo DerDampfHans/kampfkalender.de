@@ -59,22 +59,17 @@
       },
       "dazn": {
         "id": "1iyfyk32iolw81ayyu02n4pwfi",
-        "time": "2022-02-19T21:00:00Z",
-        "title": "UFC Fight Night: Walker vs Hill (Vor- & Hauptkämpfe)",
+        "time": "2022-02-20T00:00:00Z",
+        "title": "UFC Fight Night: Walker vs Hill (Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
-        "description": "Kommentator: Andreas Kraniotakes"
+        "description": "Nach dem faszinierenden UFC 271 am vergangenen Wochenende steht an diesem Samstag ein Fight-Night-Event an. Das Main Event ist ein Fünf-Runden-Kampf im Halbschwergewicht zwischen Johnny Walker und Jamahal Hill. // Kommentator: Andreas Kraniotakes"
       }
     },
     "prelims": {
       "title": "UFC Vegas 48: Prelims",
       "time": "2022-02-19T21:00:00Z",
-      "tags": [
-        "#GerMMAny"
-      ],
       "broadcasters": {
-        "DAZN": {
-        },
         "UFC_FIGHT_PASS": {
         }
       },
@@ -82,14 +77,6 @@
         "id": 212557,
         "time": "2022-02-19T21:00:00Z",
         "title": "UFC Fight Night: Walker vs Hill Prelims"
-      },
-      "dazn": {
-        "id": "1iyfyk32iolw81ayyu02n4pwfi",
-        "time": "2022-02-19T21:00:00Z",
-        "title": "UFC Fight Night: Walker vs Hill (Vor- & Hauptkämpfe)",
-        "sport": "MMA",
-        "competition": "UFC",
-        "description": "Kommentator: Andreas Kraniotakes"
       }
     },
     "tapology": {
@@ -104,16 +91,16 @@
       "card": [
         "Main Event: Johnny Walker (18-6-0) vs. Jamahal Hill (9-1-0)",
         "Co-Main Event: Kyle Daukaus (10-2-0) vs. Jamie Pickett (13-6-0)",
+        "Main Card: Parker Porter (12-6-0) vs. Alan Baudot (8-2-0)",
         "Main Card: Jim Miller (33-16-0) vs. Nikolas Motta (12-3-0)",
         "Main Card: Joaquin Buckley (13-4-0) vs. Abdul Razak Alhassan (11-4-0)",
-        "Main Card: Parker Porter (12-6-0) vs. Alan Baudot (8-2-0)",
-        "Prelim: Jesse Strader (5-2-0) vs. Chad Anheliger (11-5-0)",
-        "Prelim: Chas Skelly (18-3-0) vs. Mark Striegl (18-3-0)",
-        "Prelim: Mario Bautista (8-2-0) vs. Khalid Taha (13-4-0)",
-        "Prelim: Diana Belbiţă (14-6-0) vs. Gloria de Paula (5-4-0)",
-        "Prelim: Jessica-Rose Clark (11-6-0) vs. Stephanie Egger (6-2-0)",
         "Prelim: Gabriel Benítez (22-9-0) vs. David Onama (8-1-0)",
-        "Prelim: Jonathan Pearce (11-4-0) vs. Christian Rodriguez (7-0-0)"
+        "Prelim: Jessica-Rose Clark (11-6-0) vs. Stephanie Egger (6-2-0)",
+        "Prelim: Chas Skelly (18-3-0) vs. Mark Striegl (18-3-0)",
+        "Prelim: Diana Belbiţă (14-6-0) vs. Gloria de Paula (5-4-0)",
+        "Prelim: Jesse Strader (5-2-0) vs. Chad Anheliger (11-5-0)",
+        "Prelim: Jonathan Pearce (11-4-0) vs. Christian Rodriguez (7-0-0)",
+        "Prelim: Mario Bautista (8-2-0) vs. Jay Perrin (10-4-0)"
       ],
       "links": [
         "http://www.sherdog.com/events/ufc-fight-night-201-walker-vs-hill-90843",
@@ -288,20 +275,17 @@
     ],
     "mainCard": {
       "title": "UFC Vegas 50: Santos vs. Ankalaev",
-      "time": "2022-03-12T23:00:00Z",
+      "time": "2022-03-13T00:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "prelims": {
-      "title": "UFC Vegas 50: Prelims",
-      "time": "2022-03-13T00:00:00Z",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 213405,
+        "time": "2022-03-13T00:00:00Z",
+        "title": "UFC Fight Night: Santos vs Ankalaev"
       },
       "dazn": {
         "id": "122oka1ah9b141d02jsm8aqrxy",
@@ -309,6 +293,19 @@
         "title": "UFC Fight Night: Santos vs Ankalaev (Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC"
+      }
+    },
+    "prelims": {
+      "title": "UFC Vegas 50: Prelims",
+      "time": "2022-03-12T21:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213404,
+        "time": "2022-03-12T21:00:00Z",
+        "title": "UFC Fight Night: Santos vs Ankalaev Prelims"
       }
     },
     "tapology": {
@@ -437,12 +434,12 @@
         "Main Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi (15-8-0)",
         "Prelim: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)",
         "Prelim: Tucker Lutz (12-2-0) vs. Seung Woo Choi (10-4-0)",
-        "Prelim: Montel Jackson (11-2-0) vs. Danaa Batgerel (12-2-0)",
         "Prelim: David Dvořák (20-3-0) vs. Matheus Nicolau (17-2-1)",
         "Prelim: Aliaskhab Khizriev (13-0-0) vs. Abusupiyan Magomedov (24-4-1)",
         "Prelim: Neil Magny (25-8-0) vs. Max Griffin (18-8-0)",
         "Prelim: Marc Diakiese (14-5-0) vs. Viacheslav Borshchev (6-1-0)",
-        "Prelim: Luis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)"
+        "Prelim: Luis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)",
+        "Prelim: Danaa Batgerel (12-2-0) vs. Chris Gutierrez (17-3-2)"
       ]
     }
   },

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220214T151318Z
-X-KAMPFKALENDER-HASH:c7bcedb7dcc51687a8e78e81ad871371966d5aaf
+DTSTAMP:20220215T110239Z
+X-KAMPFKALENDER-HASH:5a14215d592890cb00c25dc2bc3963deb1c76b1f
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-02-jacobs-vs-ryder@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Jacobs vs. Ryder
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  lim: Shiloh Defreitas (0-0-0) vs. Alexey Tukhtarov (4-24-6)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-02-ufc-271-adesanya-vs-whittaker-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271: Adesanya vs. Whittaker 2
@@ -52,33 +52,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (11-2-0) vs. Maxim Grishin (31-9-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
-UID:2022-02-ufc-vegas-48-prelims@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Vegas 48: Prelims
-DTSTART:20220219T210000Z
-DTEND:20220220T000000Z
-CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
-DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/83406-ufc-fight-night\nhttp://www.sherdog.com/even
- ts/ufc-fight-night-201-walker-vs-hill-90843\nhttp://en.wikipedia.org/wik
- i/UFC_Fight_Night:_Walker_vs._Hill\nhttp://www.mixedmartialarts.com/even
- ts/ufc-fight-night:ce911ae2-2918-4c20-b871-be0ffc4e147c\nhttps://www.ufc
- .com/event/ufc-fight-night-february-19-2022\nhttps://www.bestfightodds.c
- om/events/ufc-2413\n\n---\n\nMain Event: Johnny Walker (18-6-0) vs. Jama
- hal Hill (9-1-0)\nCo-Main Event: Kyle Daukaus (10-2-0) vs. Jamie Pickett
-  (13-6-0)\nMain Card: Jim Miller (33-16-0) vs. Nikolas Motta (12-3-0)\nM
- ain Card: Joaquin Buckley (13-4-0) vs. Abdul Razak Alhassan (11-4-0)\nMa
- in Card: Parker Porter (12-6-0) vs. Alan Baudot (8-2-0)\nPrelim: Jesse S
- trader (5-2-0) vs. Chad Anheliger (11-5-0)\nPrelim: Chas Skelly (18-3-0)
-  vs. Mark Striegl (18-3-0)\nPrelim: Mario Bautista (8-2-0) vs. Khalid Ta
- ha (13-4-0)\nPrelim: Diana Belbiţă (14-6-0) vs. Gloria de Paula (5-4-0)\
- nPrelim: Jessica-Rose Clark (11-6-0) vs. Stephanie Egger (6-2-0)\nPrelim
- : Gabriel Benítez (22-9-0) vs. David Onama (8-1-0)\nPrelim: Jonathan Pea
- rce (11-4-0) vs. Christian Rodriguez (7-0-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-02-ufc-vegas-48-walker-vs-hill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 48: Walker vs. Hill
@@ -93,18 +67,18 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  .com/event/ufc-fight-night-february-19-2022\nhttps://www.bestfightodds.c
  om/events/ufc-2413\n\n---\n\nMain Event: Johnny Walker (18-6-0) vs. Jama
  hal Hill (9-1-0)\nCo-Main Event: Kyle Daukaus (10-2-0) vs. Jamie Pickett
-  (13-6-0)\nMain Card: Jim Miller (33-16-0) vs. Nikolas Motta (12-3-0)\nM
- ain Card: Joaquin Buckley (13-4-0) vs. Abdul Razak Alhassan (11-4-0)\nMa
- in Card: Parker Porter (12-6-0) vs. Alan Baudot (8-2-0)\nPrelim: Jesse S
- trader (5-2-0) vs. Chad Anheliger (11-5-0)\nPrelim: Chas Skelly (18-3-0)
-  vs. Mark Striegl (18-3-0)\nPrelim: Mario Bautista (8-2-0) vs. Khalid Ta
- ha (13-4-0)\nPrelim: Diana Belbiţă (14-6-0) vs. Gloria de Paula (5-4-0)\
- nPrelim: Jessica-Rose Clark (11-6-0) vs. Stephanie Egger (6-2-0)\nPrelim
- : Gabriel Benítez (22-9-0) vs. David Onama (8-1-0)\nPrelim: Jonathan Pea
- rce (11-4-0) vs. Christian Rodriguez (7-0-0)
+  (13-6-0)\nMain Card: Parker Porter (12-6-0) vs. Alan Baudot (8-2-0)\nMa
+ in Card: Jim Miller (33-16-0) vs. Nikolas Motta (12-3-0)\nMain Card: Joa
+ quin Buckley (13-4-0) vs. Abdul Razak Alhassan (11-4-0)\nPrelim: Gabriel
+  Benítez (22-9-0) vs. David Onama (8-1-0)\nPrelim: Jessica-Rose Clark (1
+ 1-6-0) vs. Stephanie Egger (6-2-0)\nPrelim: Chas Skelly (18-3-0) vs. Mar
+ k Striegl (18-3-0)\nPrelim: Diana Belbiţă (14-6-0) vs. Gloria de Paula (
+ 5-4-0)\nPrelim: Jesse Strader (5-2-0) vs. Chad Anheliger (11-5-0)\nPreli
+ m: Jonathan Pearce (11-4-0) vs. Christian Rodriguez (7-0-0)\nPrelim: Mar
+ io Bautista (8-2-0) vs. Jay Perrin (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-02-munguia-vs-ballard@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Munguia vs. Ballard
@@ -125,7 +99,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  hez (0-0-0)\nMain Card: Rogelio Romero (0-0-0) vs. Argi Cortes (19-2-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-02-ufc-vegas-49-dariush-vs-makhachev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 49: Dariush vs. Makhachev
@@ -147,7 +121,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  nzalez Araneda (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-02-okolie-vs-cieslak@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Okolie vs. Cieslak
@@ -164,7 +138,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  golski (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-03-chocolatito-vs-martinez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chocolatito vs. Martinez
@@ -181,7 +155,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0) vs. Julio Madera (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-03-ufc-272-covington-vs-masvidal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 272: Covington vs. Masvidal
@@ -204,7 +178,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  lim: Umar Nurmagomedov (13-0-0) vs. Brian Kelleher (24-12-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-03-wood-vs-conlan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Conlan
@@ -220,12 +194,12 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Kid Galahad (28-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-03-ufc-vegas-50-santos-vs-ankalaev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 50: Santos vs. Ankalaev
-DTSTART:20220312T230000Z
-DTEND:20220313T020000Z
+DTSTART:20220313T000000Z
+DTEND:20220313T030000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/84364-ufc-fight-night\n\n---\n\nMain Event: Thiago
@@ -243,7 +217,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Fletcher (9-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-03-ufc-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London
@@ -265,7 +239,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Jai Herbert (11-3-0) vs. Mike Davis (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-03-ufc-columbus-blaydes-vs-daukaus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Columbus: Blaydes vs. Daukaus
@@ -281,15 +255,15 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  3-3-0)\nMain Card: Nate Landwehr (15-4-0) vs. Lerone Murphy (11-0-1)\nMa
  in Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi (15-8-0)\nPrelim: Sar
  a McMann (12-6-0) vs. Karol Rosa (15-3-0)\nPrelim: Tucker Lutz (12-2-0) 
- vs. Seung Woo Choi (10-4-0)\nPrelim: Montel Jackson (11-2-0) vs. Danaa B
- atgerel (12-2-0)\nPrelim: David Dvořák (20-3-0) vs. Matheus Nicolau (17-
- 2-1)\nPrelim: Aliaskhab Khizriev (13-0-0) vs. Abusupiyan Magomedov (24-4
- -1)\nPrelim: Neil Magny (25-8-0) vs. Max Griffin (18-8-0)\nPrelim: Marc 
- Diakiese (14-5-0) vs. Viacheslav Borshchev (6-1-0)\nPrelim: Luis Saldaña
-  (15-7-0) vs. Bruno Souza (10-2-0)
+ vs. Seung Woo Choi (10-4-0)\nPrelim: David Dvořák (20-3-0) vs. Matheus N
+ icolau (17-2-1)\nPrelim: Aliaskhab Khizriev (13-0-0) vs. Abusupiyan Mago
+ medov (24-4-1)\nPrelim: Neil Magny (25-8-0) vs. Max Griffin (18-8-0)\nPr
+ elim: Marc Diakiese (14-5-0) vs. Viacheslav Borshchev (6-1-0)\nPrelim: L
+ uis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)\nPrelim: Danaa Batgerel (1
+ 2-2-0) vs. Chris Gutierrez (17-3-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-04-ufc-273-volkanovski-vs-korean-zombie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Volkanovski vs. Korean Zombie
@@ -312,7 +286,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (12-3-0) vs. Marcin Tybura (22-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-04-ufc-vegas-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51
@@ -332,7 +306,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ramie (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Lemos vs. Andrade
@@ -351,7 +325,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (18-13-0)\nPrelim: Dwight Grant (11-4-0) vs. Sergey Khandozhko (27-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -369,7 +343,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   vs. Rafael Alves (20-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-05-ufc-274-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Teixeira vs. Procházka
@@ -385,7 +359,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  1)\nPrelim: Kleydson Rodrigues (7-1-0) vs. C.J. Vergara (9-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-05-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -400,7 +374,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Virna Jandiroba (17-3-0) vs. Angela Hill (13-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-05-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -415,7 +389,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ci (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T151318Z
+DTSTAMP:20220215T110240Z
 UID:2022-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
