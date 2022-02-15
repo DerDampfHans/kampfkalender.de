@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220211T223005Z
-X-KAMPFKALENDER-HASH:60a95db7c9046ea7e99966f40fc19a1711b63954
+DTSTAMP:20220215T233431Z
+X-KAMPFKALENDER-HASH:661732c57ce3de56dc33d38a8333fc0405a55d0e
 BEGIN:VEVENT
-DTSTAMP:20220211T223005Z
+DTSTAMP:20220215T233432Z
 UID:2022-02-ksw-34-new-order-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 34: New Order (Re-Live)
@@ -19,7 +19,20 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ksRdqZbdh1o\n\n-
  ww.sherdog.com/events/KSW-34-New-Order-49721
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T223005Z
+DTSTAMP:20220215T233432Z
+UID:2022-02-ksw-62-ko-ecki-vs-szostak-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 62: Kołecki vs. Szostak (Re-Live)
+DTSTART:20220218T180000Z
+DTEND:20220218T210000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=TYvXiaRq64w\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/79667-ksw-62\nhttp://w
+ ww.sherdog.com/events/ksw-62-kolecki-vs-szostak-89578\nhttps://www.bestf
+ ightodds.com/events/ksw-62-2225
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220215T233432Z
 UID:2022-02-ksw-67-de-fries-vs-stosic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 67: De Fries vs. Stošić
@@ -38,7 +51,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  dilla (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T223005Z
+DTSTAMP:20220215T233432Z
 UID:2022-03-ksw-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 68
