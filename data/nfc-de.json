@@ -1,5 +1,28 @@
 [
   {
+    "id": "nfc-2022-04-01",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Düsseldorf",
+      "#NFCContenders",
+      "#NFC8",
+      "#Amateure"
+    ],
+    "mainCard": {
+      "title": "NFC Contenders",
+      "time": "2022-04-01T16:00:00Z",
+      "until": "2022-04-01T21:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    }
+  },
+  {
     "id": "nfc-2022-04-02",
     "promotion": "NFC_DE",
     "sports": [
