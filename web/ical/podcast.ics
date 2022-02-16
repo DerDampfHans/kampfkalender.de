@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220215T110239Z
-X-KAMPFKALENDER-HASH:02d97287addf9d11ed0aacd06b9495ede5c6862b
+DTSTAMP:20220216T002422Z
+X-KAMPFKALENDER-HASH:2324573c03ea63ce71c61f144a1964e41ed39792
 BEGIN:VEVENT
-DTSTAMP:20220215T110240Z
+DTSTAMP:20220216T002422Z
 UID:2022-02-israel-adesanya-gegen-robert-whittaker-2-unser-preview-zum-ma
  in-event-von-ufc-271@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=TSvN0jaQmeg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220215T110240Z
+DTSTAMP:20220216T002422Z
 UID:2022-02-lewis-tuivasa-cannonier-brunson-u-v-m-unser-preview-zu-ufc-27
  1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -31,7 +31,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=VtqOM4UNykE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220215T110240Z
+DTSTAMP:20220216T002422Z
 UID:2022-02-schlagwort-special-pfl-2022-alle-infos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Special: PFL 2022 - Alle Infos
@@ -41,7 +41,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=d3kqs28bKZ8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220215T110240Z
+DTSTAMP:20220216T002422Z
 UID:2022-02-der-ufc-271-main-event-unsere-reaktion-auf-adesanya-vs-whitta
  ker-ii@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -53,7 +53,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=E9jBPqLTrHc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220215T110240Z
+DTSTAMP:20220216T002422Z
 UID:2022-02-wer-ist-der-nachste-gegner-von-adesanya-ufc-271-analyse-tuiva
  sa-lewis-cannonier-brunson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -63,5 +63,15 @@ DTSTART:20220215T083000Z
 DTEND:20220215T093000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DQjuZvCHWyY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220216T002422Z
+UID:2022-02-alles-was-man-zu-ufc-271-noch-wissen-muss@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Alles was man zu UFC 271 noch wissen muss
+DTSTART:20220216T083000Z
+DTEND:20220216T093000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=fgF_sdF69Eo
 END:VEVENT
 END:VCALENDAR
