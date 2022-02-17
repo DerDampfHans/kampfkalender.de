@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220211T080218Z
-X-KAMPFKALENDER-HASH:9ad6065054e06361e0817196c9f0c89156a9ad61
+DTSTAMP:20220217T230757Z
+X-KAMPFKALENDER-HASH:f391a4f3998fa92c6897a2e3cf1c73f902d4d01b
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220217T230758Z
 UID:2022-02-one-championship-bad-blood@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Bad Blood
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=6lhj9Ybkuds\n\n-
  . Tial Thang (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220217T230758Z
 UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle
@@ -49,18 +49,20 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  elim: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220217T230758Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
 DTSTART:20220311T133000Z
 DTEND:20220311T163000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/85970-one-championship
+ ents/85970-one-championship\n\n---\n\nMain Event: Thanh Le (12-2-0) vs. 
+ Garry Tonon (6-0-0)\nCo-Main Event: Bibiano Fernandes (24-4-0) vs. John 
+ Lineker (34-9-0)\nMain Card: Prajanchai PK Saenchai vs. Joseph Lasiri
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T080219Z
+DTSTAMP:20220217T230758Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -73,6 +75,9 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Wakamatsu (15-4-0)\nMain Card: Demetrious Johnson vs. Rodtang Jitmuangn
  on\nMain Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)\nMain C
  ard: Nieky Holzken vs. Islam Murtazaev\nMain Card: Chingiz Allazov vs. S
- . Sitsongpeenong\nMain Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov
+ . Sitsongpeenong\nMain Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov\
+ nMain Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)\nMain Card: 
+ Jeremy Miado (10-4-0) vs. Lito Adiwang (13-4-0)\nMain Card: Capitan Petc
+ hyindee vs. Hiroki Akimoto
 END:VEVENT
 END:VCALENDAR

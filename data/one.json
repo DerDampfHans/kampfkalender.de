@@ -53,7 +53,6 @@
     "promotion": "ONE",
     "sports": [
       "MMA",
-      "KICKBOXING",
       "MUAY_THAI"
     ],
     "tags": [
@@ -72,8 +71,17 @@
       "id": 85970,
       "time": "2022-03-11T13:30:00Z",
       "title": "ONE Championship: Lights Out",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/85970-one-championship"
+      "info": "Confirmed Upcoming MMA & Muay Thai Event",
+      "url": "https://www.tapology.com/fightcenter/events/85970-one-championship",
+      "sports": [
+        "MMA",
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Event: Thanh Le (12-2-0) vs. Garry Tonon (6-0-0)",
+        "Co-Main Event: Bibiano Fernandes (24-4-0) vs. John Lineker (34-9-0)",
+        "Main Card: Prajanchai PK Saenchai vs. Joseph Lasiri"
+      ]
     }
   },
   {
@@ -111,7 +119,10 @@
         "Main Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)",
         "Main Card: Nieky Holzken vs. Islam Murtazaev",
         "Main Card: Chingiz Allazov vs. S. Sitsongpeenong",
-        "Main Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov"
+        "Main Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov",
+        "Main Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)",
+        "Main Card: Jeremy Miado (10-4-0) vs. Lito Adiwang (13-4-0)",
+        "Main Card: Capitan Petchyindee vs. Hiroki Akimoto"
       ]
     }
   }
