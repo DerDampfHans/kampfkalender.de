@@ -4,20 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220217T230757Z
-X-KAMPFKALENDER-HASH:2de6b8540a4a301c138d6ad2b68f61d22e850320
+DTSTAMP:20220217T232423Z
+X-KAMPFKALENDER-HASH:dd6cd6c6509cc8d5a49a3a84c74772e6c5260db7
 BEGIN:VEVENT
-DTSTAMP:20220217T230757Z
+DTSTAMP:20220217T232423Z
 UID:2022-02-schlagwort-special-pfl-2022-alle-infos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Special: PFL 2022 - Alle Infos
 DTSTART:20220213T170000Z
-DTEND:20220213T190000Z
+DTEND:20220213T180000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=d3kqs28bKZ8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T230757Z
+DTSTAMP:20220217T232423Z
 UID:2022-02-der-ufc-271-main-event-unsere-reaktion-auf-adesanya-vs-whitta
  ker-ii@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=E9jBPqLTrHc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T230757Z
+DTSTAMP:20220217T232423Z
 UID:2022-02-wer-ist-der-nachste-gegner-von-adesanya-ufc-271-analyse-tuiva
  sa-lewis-cannonier-brunson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -41,7 +41,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DQjuZvCHWyY
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T230757Z
+DTSTAMP:20220217T232423Z
 UID:2022-02-alles-was-man-zu-ufc-271-noch-wissen-muss@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Alles was man zu UFC 271 noch wissen muss
@@ -49,5 +49,15 @@ DTSTART:20220216T083000Z
 DTEND:20220216T093000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=fgF_sdF69Eo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220217T232423Z
+UID:2022-02-schlagwort-podcast-149@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast 149
+DTSTART:20220220T170000Z
+DTEND:20220220T190000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR
