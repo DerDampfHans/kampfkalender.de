@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220210T092712Z
-X-KAMPFKALENDER-HASH:48526281a43aaa55b9274a4709e8168d4e6010c0
+DTSTAMP:20220217T093412Z
+X-KAMPFKALENDER-HASH:52052e936579b3161781f3dd939dae73963591d6
 BEGIN:VEVENT
-DTSTAMP:20220210T092713Z
+DTSTAMP:20220217T093413Z
 UID:2022-02-ksw-67-de-fries-vs-stosic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 67: De Fries vs. Stošić
@@ -26,7 +26,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  dilla (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T092713Z
+DTSTAMP:20220217T093413Z
 UID:2022-03-ksw-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 68
@@ -34,6 +34,7 @@ DTSTART:20220319T160000Z
 DTEND:20220319T190000Z
 CATEGORIES:KSW,MMA,kswtv.com,Bild+,live
 DESCRIPTION:via kswtv.com\nvia Bild+\n\n---\n\nhttps://www.tapology.com/f
- ightcenter/events/86778-ksw-68
+ ightcenter/events/86778-ksw-68\n\n---\n\nMain Event: Salahdine Parnasse 
+ (16-1-1) vs. Daniel Rutkowski (13-2-0)
 END:VEVENT
 END:VCALENDAR

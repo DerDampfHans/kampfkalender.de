@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220215T233431Z
-X-KAMPFKALENDER-HASH:f73156cdb18acb77f4e8f1c7f2ed313682c039c1
+DTSTAMP:20220217T093412Z
+X-KAMPFKALENDER-HASH:a940625cea70d00e8fbd3a64deddec69ed0d27a2
 BEGIN:VEVENT
-DTSTAMP:20220215T233432Z
+DTSTAMP:20220217T093412Z
 UID:2022-02-lfa-124-formiga-vs-bunes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 124: Formiga vs. Bunes
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220215T233432Z
+DTSTAMP:20220217T093412Z
 UID:2022-02-lfa-125-amorim-vs-young@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 125: Amorim vs. Young
@@ -46,5 +46,23 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  easdale (0-0-0) vs. Mike Howard (0-2-0)\nPrelim: Anthony Pilot (0-1-0) v
  s. Alex Moher (2-1-0)\nPrelim: Austin Ross (1-0-0) vs. Brett Ozinga (1-0
  -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220217T093412Z
+UID:2022-03-lfa-126-bilharinho-vs-barbosa@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 126: Bilharinho vs. Barbosa
+DTSTART:20220312T020000Z
+DTEND:20220312T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87004-lfa-126-bilharinho-vs-barbosa\n\n---\n\nMain Event: Jo
+ nas Bilharinho (9-1-1) vs. Rafael Barbosa (14-4-0)\nCo-Main Event: Gabri
+ el Bonfim (11-0-0) vs. Quemuel Ottoni (11-3-0)\nMain Card: Ismael Bonfim
+  (16-3-0) vs. Andrey Augusto (12-2-1)\nMain Card: André Vieira (5-0-0) v
+ s. Eduardo Neves (4-0-0)\nMain Card: Rodolfo Bellato (7-1-0) vs. Thiago 
+ Vieira (11-4-0)\nMain Card: Inaildo Santos (8-0-0) vs. Mateus Brauns (7-
+ 1-0)\nPrelim: Gabriel Alves Braga (6-0-0) vs. José Delano (9-2-0)\nPreli
+ m: Lucas Fernando (6-1-0) vs. Rodrigo Lima (7-2-0)
 END:VEVENT
 END:VCALENDAR

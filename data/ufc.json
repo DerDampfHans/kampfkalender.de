@@ -88,7 +88,7 @@
       "#UFCVegas49"
     ],
     "mainCard": {
-      "title": "UFC Vegas 49: Dariush vs. Makhachev",
+      "title": "UFC Vegas 49: Makhachev vs. Green",
       "time": "2022-02-27T00:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -125,14 +125,14 @@
     "tapology": {
       "id": 83426,
       "time": "2022-02-26T23:00:00Z",
-      "title": "UFC Fight Night: Dariush vs. Makhachev",
+      "title": "UFC Fight Night",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/83426-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Beneil Dariush (21-4-1) vs. Islam Makhachev (21-1-0)",
+        "Main Event: Islam Makhachev (21-1-0) vs. Bobby Green (29-12-1)",
         "Co-Main Event: Misha Cirkunov (15-7-0) vs. Wellington Turman (17-5-0)",
         "Main Card: Ignacio Bahamondes (12-4-0) vs. Zhu Rong (18-4-0)",
         "Main Card: Arman Tsarukyan (17-2-0) vs. Joel Alvarez (19-2-0)",
@@ -312,13 +312,20 @@
       "#UFCLondon"
     ],
     "mainCard": {
-      "title": "UFC London",
-      "time": "2022-03-19T22:00:00Z",
+      "title": "UFC London: Volkov vs. Aspinall",
+      "time": "2022-03-19T20:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "dazn": {
+        "id": "1f5ix3xiqc1ir1ldrj5t2gw6ef",
+        "time": "2022-03-19T20:00:00Z",
+        "title": "UFC Fight Night: Volkov vs Aspinall (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
@@ -604,7 +611,8 @@
         "Prelim: Mike Breeden (10-4-0) vs. Natan Levy (6-1-0)",
         "Prelim: Yohan Lainesse (8-0-0) vs. Gabe Green (10-3-0)",
         "Prelim: Jessica Penne (14-5-0) vs. Luana Pinheiro (10-1-0)",
-        "Prelim: Jared Gordon (18-4-0) vs. Rafael Alves (20-10-0)"
+        "Prelim: Jared Gordon (18-4-0) vs. Rafael Alves (20-10-0)",
+        "Prelim: Tatsuro Taira (10-0-0) vs. Carlos Candelario (8-1-0)"
       ]
     }
   },
