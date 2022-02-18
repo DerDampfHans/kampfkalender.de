@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220212T230304Z
-X-KAMPFKALENDER-HASH:aed7dc6888cb6641832e1c258ec5d93e17e3fa46
+DTSTAMP:20220218T003800Z
+X-KAMPFKALENDER-HASH:71b4b7c936c56384e5ae50a1ad3b148b65e5661c
 BEGIN:VEVENT
-DTSTAMP:20220212T230304Z
+DTSTAMP:20220218T003800Z
 UID:2022-02-anthony-pettis-fc-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Anthony Pettis FC 1
@@ -17,7 +17,7 @@ CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T230304Z
+DTSTAMP:20220218T003800Z
 UID:2022-02-leo-s-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Leo's Boxnacht
@@ -28,7 +28,17 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-le
  os-boxnacht-418\n\n---\n\nhttp://leosboxgym.de/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T230304Z
+DTSTAMP:20220218T003800Z
+UID:2022-02-senshi-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 11
+DTSTART:20220226T180000Z
+DTEND:20220226T210000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-11/2paum/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T003800Z
 UID:2022-03-one-man-series-next-level@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series – Next Level
