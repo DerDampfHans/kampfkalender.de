@@ -1,24 +1,5 @@
 [
   {
-    "id": "tapology-85669",
-    "promotion": "UAEW",
-    "sports": [
-      "MMA"
-    ],
-    "mainCard": {
-      "hidden": true,
-      "title": "UAE Warriors 25: Africa (cancelled)",
-      "time": "2022-02-18T17:00:00Z"
-    },
-    "tapology": {
-      "id": 85669,
-      "time": "2022-02-18T17:00:00Z",
-      "title": "UAE Warriors 25: Africa (cancelled)",
-      "info": "Cancelled Event",
-      "url": "https://www.tapology.com/fightcenter/events/85669-uae-warriors-25-africa"
-    }
-  },
-  {
     "id": "tapology-85670",
     "promotion": "UAEW",
     "sports": [
@@ -47,17 +28,41 @@
       "#UAEW25"
     ],
     "mainCard": {
-      "title": "UAE Warriors 25",
-      "time": "2022-02-25T15:00:00Z",
+      "title": "UAE Warriors 25: Africa",
+      "time": "2022-02-25T14:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 213026,
-        "time": "2022-02-25T15:00:00Z",
+        "time": "2022-02-25T14:00:00Z",
         "title": "UAE Warriors 25"
       }
+    },
+    "tapology": {
+      "id": 87058,
+      "time": "2022-02-25T15:00:00Z",
+      "title": "UAE Warriors 25: Africa",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/87058-uae-warriors-25-africa",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Wisem Hammami (6-0-0) vs. S. Soto Esperanca (5-0-0)",
+        "Co-Main Event: Juares Dea (7-4-0) vs. Sindile Manengela (8-6-0)",
+        "Main Card: Cidiri Cisse (0-0-0) vs. Cedric Lushima (1-0-0)",
+        "Main Card: Alphonse Viny Bessala (1-0-0) vs. Demba Seck (1-0-0)",
+        "Main Card: Wilson Varela (4-2-0) vs. Steve Endom Bikim (2-0-0)",
+        "Main Card: Demezode Agba (0-0-0) vs. Christopher Bajo (2-1-0)",
+        "Main Card: Mohamed Ali (11-15-0) vs. Jonathan Bosuku (7-7-1)",
+        "Main Card: Iony Razafiarison (6-3-0) vs. Alice Ngom (1-0-0)",
+        "Main Card: Sofiane Boukichou (7-4-0) vs. Pelu Adetola (7-9-0)",
+        "Main Card: Yousri Belgaroui (2-0-0) vs. Ahmed Sami (6-1-0)",
+        "Main Card: Eslam Abdul Baset (11-2-0) vs. Ndidi Alonu (10-2-1)",
+        "Main Card: Samir Faiddine (12-8-0) vs. Hicham Rachid (9-6-0)"
+      ]
     }
   },
   {
@@ -70,7 +75,7 @@
       "#UAEW26"
     ],
     "mainCard": {
-      "title": "UAE Warriors 26",
+      "title": "UAE Warriors 26: Arabia 6",
       "time": "2022-02-26T14:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
@@ -81,6 +86,28 @@
         "time": "2022-02-26T14:00:00Z",
         "title": "UAE Warriors 26"
       }
+    },
+    "tapology": {
+      "id": 87059,
+      "time": "2022-02-26T15:00:00Z",
+      "title": "UAE Warriors 26: Arabia 6",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/87059-uae-warriors-26-arabia-6",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Izzeddine Al Derbani (11-2-0) vs. Youssef Ghrairi (9-2-0)",
+        "Co-Main Event: Ali Taleb (5-0-0) vs. Mahmoud Mando (5-1-0)",
+        "Main Card: Ra’ed Mohammad Al Jazi (0-0-0) vs. I. Hassan (0-0-0)",
+        "Main Card: Asaël Adjoudj (2-1-0) vs. Saleem Al-Bakri (1-1-0)",
+        "Main Card: Mohammad Basem (1-1-0) vs. Mounir Khalifa (3-0-0)",
+        "Main Card: Mohammad Alaqraa (2-0-0) vs. Ahmed Saeb (4-5-0)",
+        "Main Card: Hadi Omar Al Hussaini (3-0-0) vs. Mohamed Salem Awad (0-0-0)",
+        "Main Card: Issa Salem (3-2-0) vs. Wasem Anwar (0-0-0)",
+        "Main Card: Omar Hussein (8-3-0) vs. Georges Eid (7-4-0)",
+        "Main Card: Mo Elawil (3-0-0) vs. Chakir Haj Haddou (8-0-0)"
+      ]
     }
   }
 ]

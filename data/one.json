@@ -1,5 +1,34 @@
 [
   {
+    "id": "one-2022-02-24",
+    "promo": true,
+    "promotion": "ONE",
+    "tags": [
+      "#ONEFullCircle"
+    ],
+    "mainCard": {
+      "title": "ONE Championship: Full Circle (Weigh-In)",
+      "time": "2022-02-24T11:00:00Z",
+      "until": "2022-02-24T12:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=_kTftR5C2oQ",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "_kTftR5C2oQ",
+        "time": "2022-02-24T11:00:00Z",
+        "title": "🔴 [Live In HD] ONE: FULL CIRCLE Ceremonial Weigh-In & Faceoffs",
+        "url": "https://www.youtube.com/watch?v=_kTftR5C2oQ",
+        "live": true,
+        "tags": [
+          "#ONEFullCircle"
+        ]
+      }
+    }
+  },
+  {
     "id": "tapology-85969",
     "promotion": "ONE",
     "sports": [
@@ -12,11 +41,22 @@
     ],
     "mainCard": {
       "title": "ONE Championship: Full Circle",
-      "time": "2022-02-25T13:30:00Z",
+      "time": "2022-02-25T10:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=wAmf87SapvI",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "wAmf87SapvI",
+        "time": "2022-02-25T10:00:00Z",
+        "title": "🔴 [Live In HD] ONE: FULL CIRCLE",
+        "url": "https://www.youtube.com/watch?v=wAmf87SapvI",
+        "live": true,
+        "tags": [
+          "#ONEFullCircle"
+        ]
       }
     },
     "tapology": {

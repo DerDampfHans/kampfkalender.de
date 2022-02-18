@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220218T112255Z
-X-KAMPFKALENDER-HASH:1731a0a1f6e9798cf97ae786eb62f8a965d24324
+DTSTAMP:20220218T203256Z
+X-KAMPFKALENDER-HASH:afdb63a68b49fb7691622b8c9e621ede6209eb5b
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203258Z
 UID:2022-02-eagle-fc-45-magomedov-vs-gitinovasov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 45: Magomedov vs. Gitinovasov
@@ -30,7 +30,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  d Gazichaev (6-1-0) vs. Sergey Alekseevich (8-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203258Z
 UID:2022-03-eagle-fc-46-lee-vs-sanchez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 46: Lee vs. Sanchez
@@ -43,5 +43,18 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ) vs. Anthony Hamilton (18-10-0)\nMain Card: Ray Borg (15-5-0) vs. Ricky
   Bandejas (15-6-0)\nMain Card: Raimond Magomedaliev (9-1-0) vs. Impa Kas
  anganay (9-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T203258Z
+UID:2022-04-eagle-fc-47-odilov-vs-shlemenko@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eagle FC 47: Odilov vs. Shlemenko
+DTSTART:20220401T160000Z
+DTEND:20220401T190000Z
+CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
+DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87060-eagle-fc-47-odilov-vs-shlemenko\n\n---\n\nMain Event: Faridun
+  Odilov (14-2-2) vs. Alexander Shlemenko (62-13-0)\nCo-Main Event: Renat
+  Khavalov (5-0-0) vs. Ramazan Amaev (7-0-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,32 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220218T112255Z
-X-KAMPFKALENDER-HASH:461c132c547db8a600d040ea3409ae27c538fc73
+DTSTAMP:20220218T203814Z
+X-KAMPFKALENDER-HASH:4cc72092b317b18a68c40b90ed47b0485bd75438
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
-UID:2022-02-ufc-271-live-weigh-in-show@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC 271: Live Weigh-In Show
-DTSTART:20220211T145000Z
-DTEND:20220211T155000Z
-CATEGORIES:UFC,YouTube,PR,live,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cAv3rlZKB4s
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
-UID:2022-02-ksw-34-new-order-re-live@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 34: New Order (Re-Live)
-DTSTART:20220211T170000Z
-DTEND:20220211T200000Z
-CATEGORIES:KSW,MMA,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ksRdqZbdh1o\n\n-
- --\n\nhttps://www.tapology.com/fightcenter/events/37003-ksw-34\nhttp://w
- ww.sherdog.com/events/KSW-34-New-Order-49721
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-ufc-271-ceremonial-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271: Ceremonial Weigh-In
@@ -39,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AH_7ao4xw8Y
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-ufc-271-free-fight-marathon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271 Free Fight Marathon
@@ -49,7 +27,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=RnGJJ9_Z9ho
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-ufc-271-watch-along-w-alexander-volkanovski-dan-hooker-tsm-vi
  ss-and-jens-pulver@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -61,7 +39,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZY-rYDCVg04
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-ufc-271-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 271: Post-Fight Press Conference
@@ -71,7 +49,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=u97AHs0z2Jg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-ufc-271-reactions-takeaways-from-adesanya-vs-whittaker-2-ufc-
  round-up-w-felder-chiesa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -83,7 +61,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=raPFiPVqAG0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-eagle-fc-45-magomedov-vs-gitinovasov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 45: Magomedov vs. Gitinovasov
@@ -106,7 +84,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  d Gazichaev (6-1-0) vs. Sergey Alekseevich (8-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-ksw-62-ko-ecki-vs-szostak-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 62: Kołecki vs. Szostak (Re-Live)
@@ -119,7 +97,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=TYvXiaRq64w\n\n-
  ightodds.com/events/ksw-62-2225
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-bkfc-knucklemania-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC KnuckleMania 2: Prelims
@@ -141,28 +119,61 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-2-pr
  rd Pegg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
+UID:2022-02-glory-80-press-conference-badr-hari-arkadiusz-wrzosek@kampfka
+ lender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 80 Press Conference (Badr Hari & Arkadiusz Wrzosek)
+DTSTART:20220222T110000Z
+DTEND:20220222T120000Z
+CATEGORIES:Glory,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=FPprOvhwoKY
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T203814Z
+UID:2022-02-glory-80-press-conference-jamal-ben-saddik-levi-rigters@kampf
+ kalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 80 Press Conference (Jamal Ben Saddik & Levi Rigters)
+DTSTART:20220222T130000Z
+DTEND:20220222T140000Z
+CATEGORIES:Glory,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=xUOAHgufTQ0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T203814Z
+UID:2022-02-one-championship-full-circle-weigh-in@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Championship: Full Circle (Weigh-In)
+DTSTART:20220224T110000Z
+DTEND:20220224T120000Z
+CATEGORIES:ONE,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=_kTftR5C2oQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T203814Z
 UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle
-DTSTART:20220225T133000Z
-DTEND:20220225T163000Z
+DTSTART:20220225T100000Z
+DTEND:20220225T130000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/85969-one-championship\n\n---\n\nMain Event: Reinier de Ridder (14-
- 0-0) vs. Kiamrian Abbasov (23-4-0)\nCo-Main Event: Roman Kryklya vs. Mur
- at Aygun\nMain Card: P. Petchyindee vs. Jamal Yusupov\nMain Card: Aung L
- a N Sang (27-12-0) vs. Vitaly Bigdash (11-2-0)\nMain Card: Enriko Kehl v
- s. Tayfun Özcan\nMain Card: Fabricio de Andrade (6-2-0) vs. Jeremy Pacat
- iw (11-4-0)\nPrelim: Leandro Ataides (11-5-0) vs. David Branch (22-7-0)\
- nPrelim: Guto Inocente vs. Bruno Susano\nPrelim: Zebaztian Kadestam (12-
- 7-0) vs. Valmir da Silva (8-1-0)\nPrelim: Chris Shaw vs. Vladimir Kuzmin
- \nPrelim: Diandra Martin vs. Smilla Sundell\nPrelim: Yuri Simoes (0-1-0)
-  vs. Daniyal Zainalov (7-0-0)\nPrelim: Jiduo Yibu vs. Daniel Puertas\nPr
- elim: Rahul Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wAmf87SapvI\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/85969-one-championship
+ \n\n---\n\nMain Event: Reinier de Ridder (14-0-0) vs. Kiamrian Abbasov (
+ 23-4-0)\nCo-Main Event: Roman Kryklya vs. Murat Aygun\nMain Card: P. Pet
+ chyindee vs. Jamal Yusupov\nMain Card: Aung La N Sang (27-12-0) vs. Vita
+ ly Bigdash (11-2-0)\nMain Card: Enriko Kehl vs. Tayfun Özcan\nMain Card:
+  Fabricio de Andrade (6-2-0) vs. Jeremy Pacatiw (11-4-0)\nPrelim: Leandr
+ o Ataides (11-5-0) vs. David Branch (22-7-0)\nPrelim: Guto Inocente vs. 
+ Bruno Susano\nPrelim: Zebaztian Kadestam (12-7-0) vs. Valmir da Silva (8
+ -1-0)\nPrelim: Chris Shaw vs. Vladimir Kuzmin\nPrelim: Diandra Martin vs
+ . Smilla Sundell\nPrelim: Yuri Simoes (0-1-0) vs. Daniyal Zainalov (7-0-
+ 0)\nPrelim: Jiduo Yibu vs. Daniel Puertas\nPrelim: Rahul Raju (8-6-0) vs
+ . Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-02-senshi-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 11
@@ -172,7 +183,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-11/2paum/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
@@ -185,7 +196,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Lineker (34-9-0)\nMain Card: Prajanchai PK Saenchai vs. Joseph Lasiri
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-03-eagle-fc-46-lee-vs-sanchez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 46: Lee vs. Sanchez
@@ -200,7 +211,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  anganay (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -219,7 +230,20 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  hyindee vs. Hiroki Akimoto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
+UID:2022-04-eagle-fc-47-odilov-vs-shlemenko@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eagle FC 47: Odilov vs. Shlemenko
+DTSTART:20220401T160000Z
+DTEND:20220401T190000Z
+CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
+DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87060-eagle-fc-47-odilov-vs-shlemenko\n\n---\n\nMain Event: Faridun
+  Odilov (14-2-2) vs. Alexander Shlemenko (62-13-0)\nCo-Main Event: Renat
+  Khavalov (5-0-0) vs. Ramazan Amaev (7-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T203814Z
 UID:2022-04-nfc-contenders@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders
@@ -229,7 +253,7 @@ CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -239,7 +263,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T112255Z
+DTSTAMP:20220218T203814Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
