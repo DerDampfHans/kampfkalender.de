@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#KossobutskiyDuhaupas"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Champions Night",
-      "time": "2022-02-19T20:00:00Z"
+      "title": "Kossobutskiy vs. Duhaupas",
+      "time": "2022-02-19T19:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/universum-boxing-zhan-kossobutskiy-v/2pauo/"
+        }
+      },
+      "fite": {
+        "id": "2pauo",
+        "time": "2022-02-19T19:00:00Z",
+        "title": "Universum Boxing: Zhan Kossobutskiy vs Johann Duhaupas",
+        "url": "https://www.fite.tv/watch/universum-boxing-zhan-kossobutskiy-v/2pauo/",
+        "price": "$12.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 86472,
