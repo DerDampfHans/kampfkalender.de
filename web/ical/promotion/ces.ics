@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220215T110239Z
-X-KAMPFKALENDER-HASH:1793560a85533130a4c7f098e171fdf7ddf9684e
+DTSTAMP:20220218T112255Z
+X-KAMPFKALENDER-HASH:69a7ab87caac698fbf3dbdc9126e37c783e8373e
 BEGIN:VEVENT
-DTSTAMP:20220215T110240Z
+DTSTAMP:20220218T112255Z
 UID:2022-03-ces-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CES 66
@@ -20,6 +20,20 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  . Billy Goff (5-2-0)\nMain Card: Joey Gomez (6-2-0) vs. Vladimir Kazbeko
  v (6-4-0)\nMain Card: Tyrime Da Silva (1-0-0) vs. Eduardo Rodrigues (1-1
  -0)\nMain Card: Dion Rubio (1-0-0) vs. Bobby Casale (0-0-0)\nMain Card: 
- Connor Matthews (4-0-0) vs. Christopher Piriz (6-7-0)
+ Connor Matthews (4-0-0) vs. Christopher Piriz (6-7-0)\nMain Card: DaJuan
+  Robinson (0-5-0) vs. Travis Demko (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T112255Z
+UID:2022-04-ces-67@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CES 67
+DTSTART:20220402T000000Z
+DTEND:20220402T030000Z
+CATEGORIES:CES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/86561-ces-67\nhttp://www.mixedmartialarts.com/events/ces-67:
+ d331b446-53a9-40d7-bfde-28a67cc26118\n\n---\n\nMain Event: Eric Spicely 
+ (12-8-0) vs. Justin Sumter (8-4-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220217T093412Z
-X-KAMPFKALENDER-HASH:8e8a004703d956ae067efa0314e67aa0236297ff
+DTSTAMP:20220218T112255Z
+X-KAMPFKALENDER-HASH:e7fb20d018ce23c654e264c7299ef6187deaaa6a
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
+DTSTAMP:20220218T112255Z
+UID:2022-03-we-love-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA
+DTSTART:20220305T170000Z
+DTEND:20220305T200000Z
+CATEGORIES:WLMMA,MMA,Bild+,live
+DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-55-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220218T112255Z
 UID:2022-03-ksw-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 68
@@ -19,40 +30,40 @@ DESCRIPTION:via kswtv.com\nvia Bild+\n\n---\n\nhttps://www.tapology.com/f
  (16-1-1) vs. Daniel Rutkowski (13-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-04-we-love-mma-55@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-04-we-love-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 55
+SUMMARY:We Love MMA
 DTSTART:20220409T170000Z
 DTEND:20220409T200000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-60/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-04-we-love-mma-56@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-04-we-love-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 56
+SUMMARY:We Love MMA
 DTSTART:20220430T170000Z
 DTEND:20220430T200000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-59/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-05-we-love-mma-57@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-05-we-love-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 57
+SUMMARY:We Love MMA
 DTSTART:20220521T170000Z
 DTEND:20220521T200000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-09-we-love-mma-59@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-09-we-love-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 59
+SUMMARY:We Love MMA
 DTSTART:20220917T170000Z
 DTEND:20220917T200000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
@@ -60,40 +71,40 @@ DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61-2
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-10-we-love-mma-60@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-10-we-love-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 60
+SUMMARY:We Love MMA
 DTSTART:20221008T170000Z
 DTEND:20221008T200000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-10-we-love-mma-61@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-10-we-love-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 61
+SUMMARY:We Love MMA
 DTSTART:20221029T170000Z
 DTEND:20221029T200000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-11-we-love-mma-62@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-11-we-love-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 62
+SUMMARY:We Love MMA
 DTSTART:20221105T180000Z
 DTEND:20221105T210000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T093413Z
-UID:2022-11-we-love-mma-63@kampfkalender.de
+DTSTAMP:20220218T112255Z
+UID:2022-11-we-love-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 63
+SUMMARY:We Love MMA
 DTSTART:20221119T180000Z
 DTEND:20221119T210000Z
 CATEGORIES:WLMMA,MMA,Bild+,live
