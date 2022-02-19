@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220217T231000Z
-X-KAMPFKALENDER-HASH:3983e3b626efb7ba7b4d21d8fd2c58ba1fb22afb
+DTSTAMP:20220219T174807Z
+X-KAMPFKALENDER-HASH:5669207a974069df5b8828da3336200372e3b66c
 BEGIN:VEVENT
-DTSTAMP:20220217T231000Z
+DTSTAMP:20220219T174808Z
 UID:2022-02-pfl-challenger-series-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 1
@@ -28,7 +28,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=b_WinnkfbDU\
  s. Karl Williams (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T231000Z
+DTSTAMP:20220219T174808Z
 UID:2022-02-pfl-challenger-series-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2
@@ -43,7 +43,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  homas Oswald (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T231000Z
+DTSTAMP:20220219T174808Z
 UID:2022-03-pfl-challenger-series-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 3
@@ -58,7 +58,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  ague (0-0-0) vs. Olivia Parker (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T231000Z
+DTSTAMP:20220219T174808Z
 UID:2022-03-pfl-challenger-series-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 4
@@ -73,7 +73,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  vs. Brahyan Zurcher (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T231000Z
+DTSTAMP:20220219T174808Z
 UID:2022-03-pfl-challenger-series-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 5
@@ -88,7 +88,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  s. Dennis Hughes (7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T231000Z
+DTSTAMP:20220219T174808Z
 UID:2022-03-pfl-challenger-series-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 6
@@ -101,5 +101,115 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  mo Lemos (7-0-0) vs. Brett Martin (10-1-0)\nMain Card: Adam Keresh (4-0-
  0) vs. Chad Johnson (6-3-0)\nMain Card: Daiqwon Buckley (1-0-0) vs. Jon 
  Cunningham (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-04-pfl-regular-season-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Regular Season 1
+DTSTART:20220421T010000Z
+DTEND:20220421T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-04-pfl-regular-season-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Regular Season 2
+DTSTART:20220429T010000Z
+DTEND:20220429T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-05-pfl-regular-season-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Regular Season 3
+DTSTART:20220506T010000Z
+DTEND:20220506T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-06-pfl-regular-season-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Regular Season 4
+DTSTART:20220618T010000Z
+DTEND:20220618T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-06-pfl-regular-season-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Regular Season 5
+DTSTART:20220625T010000Z
+DTEND:20220625T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-07-pfl-regular-season-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Regular Season 6
+DTSTART:20220702T010000Z
+DTEND:20220702T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-08-pfl-playoffs-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Playoffs 1
+DTSTART:20220806T010000Z
+DTEND:20220806T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-08-pfl-playoffs-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Playoffs 2
+DTSTART:20220814T010000Z
+DTEND:20220814T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-08-pfl-playoffs-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Playoffs 3
+DTSTART:20220821T010000Z
+DTEND:20220821T040000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-11-pfl-finals-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Finals 1
+DTSTART:20221126T020000Z
+DTEND:20221126T050000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220219T174808Z
+UID:2022-11-pfl-finals-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Finals 2
+DTSTART:20221127T020000Z
+DTEND:20221127T050000Z
+CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 END:VCALENDAR

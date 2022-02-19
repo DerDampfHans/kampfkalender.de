@@ -33,6 +33,10 @@
       "title": "BKFC KnuckleMania 2: Prelims",
       "time": "2022-02-19T23:30:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=TcDZEcXGyMo",
+          "free": true
+        },
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-knucklemania-2-prelims/2patu/",
           "free": true
@@ -49,6 +53,13 @@
           "BOXING",
           "MMA"
         ]
+      },
+      "youTube": {
+        "id": "TcDZEcXGyMo",
+        "time": "2022-02-19T23:30:12Z",
+        "title": "KnuckleMania II Live Prelims!",
+        "url": "https://www.youtube.com/watch?v=TcDZEcXGyMo",
+        "live": true
       }
     },
     "tapology": {
@@ -74,6 +85,47 @@
       "links": [
         "http://www.mixedmartialarts.com/events/bkfc:5c62b85f-a944-438d-8ff4-06a42e547c9d",
         "https://www.bestfightodds.com/events/knucklemania-2-2439"
+      ]
+    }
+  },
+  {
+    "id": "tapology-87072",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFCNewYork2"
+    ],
+    "mainCard": {
+      "title": "BKFC Fight Night: New York 2",
+      "time": "2022-03-13T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 87072,
+      "time": "2022-03-13T01:00:00Z",
+      "title": "BKFC Fight Night: New York 2",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/87072-bkfc-fight-night-new-york-2",
+      "card": [
+        "Main Event: Jarod Grant vs. Johnny Bedford",
+        "Co-Main Event: Jim Alers vs. Connor Tierney",
+        "Main Card: Eddie Hoch vs. Dustin Pague",
+        "Main Card: Matt Phillips vs. Manuel Moreira",
+        "Main Card: Gabe Saccheti vs. Jack Grady",
+        "Main Card: Zachary Calmus vs. Kyle McElroy",
+        "Main Card: Charisa Sigala vs. Angela Danzig",
+        "Main Card: Devin Gibson vs. Kody Allen Murray",
+        "Main Card: Christian Torres vs. Stanislav Grosu",
+        "Main Card: Art Driscoll vs. Damon Bell",
+        "Main Card: Lardy Navarro vs. Anthony Prater"
+      ],
+      "links": [
+        "http://www.mixedmartialarts.com/events/bkfc-fight-night:ec2073df-ce47-4dab-97dd-518752659a7a"
       ]
     }
   }
