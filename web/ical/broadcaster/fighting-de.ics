@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220219T180000Z
-X-KAMPFKALENDER-HASH:096e56848969b266d54d2ec2ad039714c797a52b
+DTSTAMP:20220220T192933Z
+X-KAMPFKALENDER-HASH:3b28f675257ba50d6074bc8315a3c95b84d2ec16
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-02-pfl-challenger-series-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 1
@@ -28,37 +28,55 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=b_WinnkfbDU\
  s. Karl Williams (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-02-pfl-challenger-series-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2
 DTSTART:20220226T020000Z
 DTEND:20220226T050000Z
 CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/85963-pfl-challenger-series-2\n\n---\n\nMain Ev
- ent: J. Al-Silawi (16-3-0) vs. Michael Lilly (7-6-0)\nCo-Main Event: Dil
- ano Taylor (7-1-0) vs. Mark Martin (7-1-0)\nMain Card: Carlos Leal (14-3
- -0) vs. Socrates Pierre (12-6-0)\nMain Card: Lucas Barbosa (2-1-0) vs. T
- homas Oswald (3-0-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=skpzEaROw5Q\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85
+ 963-pfl-challenger-series-2\n\n---\n\nMain Event: J. Al-Silawi (16-3-0) 
+ vs. Michael Lilly (7-6-0)\nCo-Main Event: Dilano Taylor (7-1-0) vs. Mark
+  Martin (7-1-0)\nMain Card: Carlos Leal (14-3-0) vs. Socrates Pierre (12
+ -6-0)\nMain Card: Lucas Barbosa (2-1-0) vs. Thomas Oswald (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
+UID:2022-02-oktagon-31-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 31: Prelims
+DTSTART:20220226T170000Z
+DTEND:20220226T190000Z
+CATEGORIES:Oktagon,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=kv-PKGmSgWI\
+ n\n---\n\nhttps://www.fightevents.de/event/oktagon-31-pirat-vs-kincl/\nh
+ ttps://www.tapology.com/fightcenter/events/85465-oktagon-31\n\n---\n\nMa
+ in Event: Samuel Krištofič (15-3-0) vs. Patrik Kincl (24-10-0)\nMain Car
+ d: Ronald Paradeiser (13-7-0) vs. Losene Keita (7-0-0)\nMain Card: Andre
+ j Kalašnik (9-2-0) vs. Artur Karavaev (16-6-0)\nMain Card: Priscila de S
+ ouza (12-10-0) vs. Cornelia Holm (4-4-0)\nMain Card: Max Handanagić (7-5
+ -1) vs. Denis Farkaš (3-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220220T192934Z
 UID:2022-03-pfl-challenger-series-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 3
 DTSTART:20220305T020000Z
 DTEND:20220305T050000Z
 CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/85964-pfl-challenger-series-3\n\n---\n\nMain Ev
- ent: Martina Jindrová (3-2-0) vs. Jacqueline Cavalcanti (2-0-0)\nCo-Main
-  Event: Jackie Cataline (0-0-0) vs. Evelyn Martins (2-0-0)\nMain Card: J
- ulia Dorny (2-0-0) vs. Jeslen Mishelle (0-0-0)\nMain Card: Michelle Mont
- ague (0-0-0) vs. Olivia Parker (4-2-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=SSzJDQPtkD0\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85
+ 964-pfl-challenger-series-3\n\n---\n\nMain Event: Martina Jindrová (3-2-
+ 0) vs. Jacqueline Cavalcanti (2-0-0)\nCo-Main Event: Jackie Cataline (0-
+ 0-0) vs. Evelyn Martins (2-0-0)\nMain Card: Julia Dorny (2-0-0) vs. Jesl
+ en Mishelle (0-0-0)\nMain Card: Michelle Montague (0-0-0) vs. Olivia Par
+ ker (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-03-cage-53@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CAGE 53
@@ -75,7 +93,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  (6-6-0)\nMain Card: Karri Itkonen (0-2-0) vs. Karvann Ahmadi (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-03-brave-cf-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 57
@@ -95,52 +113,53 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  n Card: Murtaza Talha Ali (4-0-0) vs. Mikheil Sazhiniani (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-03-pfl-challenger-series-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 4
 DTSTART:20220312T020000Z
 DTEND:20220312T050000Z
 CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/85965-pfl-challenger-series-4\n\n---\n\nMain Ev
- ent: Reinaldo Ekson (17-5-0) vs. Mike Barnett (11-3-0)\nCo-Main Event: E
- dwin Cooper Jr. (5-1-0) vs. Aaron Blackie (8-2-0)\nMain Card: Do Gyeom L
- ee (8-4-0) vs. Josh Blyden (9-2-0)\nMain Card: Scottie Stockman (3-1-0) 
- vs. Brahyan Zurcher (2-0-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=foirucmrmkk\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85
+ 965-pfl-challenger-series-4\n\n---\n\nMain Event: Reinaldo Ekson (17-5-0
+ ) vs. Mike Barnett (11-3-0)\nCo-Main Event: Edwin Cooper Jr. (5-1-0) vs.
+  Aaron Blackie (8-2-0)\nMain Card: Do Gyeom Lee (8-4-0) vs. Josh Blyden 
+ (9-2-0)\nMain Card: Scottie Stockman (3-1-0) vs. Brahyan Zurcher (2-0-0)
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-03-pfl-challenger-series-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 5
 DTSTART:20220319T020000Z
 DTEND:20220319T050000Z
 CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/85966-pfl-challenger-series-5\n\n---\n\nMain Ev
- ent: Bruno Miranda (13-3-0) vs. Carson Frei (9-4-0)\nCo-Main Event: Dami
- r Ferhatbegović (5-2-1) vs. B.J. Bland (16-10-0)\nMain Card: Michael Duf
- ort (8-4-0) vs. Arut Pogosjan (9-3-0)\nMain Card: Yanal Ashmoz (5-0-0) v
- s. Dennis Hughes (7-3-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=uK_5GdsUQlE\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85
+ 966-pfl-challenger-series-5\n\n---\n\nMain Event: Bruno Miranda (13-3-0)
+  vs. Carson Frei (9-4-0)\nCo-Main Event: Damir Ferhatbegović (5-2-1) vs.
+  B.J. Bland (16-10-0)\nMain Card: Michael Dufort (8-4-0) vs. Arut Pogosj
+ an (9-3-0)\nMain Card: Yanal Ashmoz (5-0-0) vs. Dennis Hughes (7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-03-pfl-challenger-series-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 6
 DTSTART:20220326T020000Z
 DTEND:20220326T050000Z
 CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/85967-pfl-challenger-series-6\n\n---\n\nMain Ev
- ent: Bevon Lewis (7-3-0) vs. Marcelo Nunes (7-1-0)\nCo-Main Event: Giaco
- mo Lemos (7-0-0) vs. Brett Martin (10-1-0)\nMain Card: Adam Keresh (4-0-
- 0) vs. Chad Johnson (6-3-0)\nMain Card: Daiqwon Buckley (1-0-0) vs. Jon 
- Cunningham (1-0-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=u0Xcp21HnR0\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85
+ 967-pfl-challenger-series-6\n\n---\n\nMain Event: Bevon Lewis (7-3-0) vs
+ . Marcelo Nunes (7-1-0)\nCo-Main Event: Giacomo Lemos (7-0-0) vs. Brett 
+ Martin (10-1-0)\nMain Card: Adam Keresh (4-0-0) vs. Chad Johnson (6-3-0)
+ \nMain Card: Daiqwon Buckley (1-0-0) vs. Jon Cunningham (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-03-enfusion-talents-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 88
@@ -150,7 +169,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-03-enfusion-105@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 105
@@ -160,7 +179,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-pfl-challenger-series-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 7
@@ -170,7 +189,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-nfc-contenders@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders
@@ -180,7 +199,7 @@ CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-nfc-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8
@@ -191,7 +210,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/nf
  c-8-errens-vs-oezyildirim-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-pfl-challenger-series-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 8
@@ -201,7 +220,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -212,7 +231,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-pfl-regular-season-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 1
@@ -222,7 +241,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-pfl-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 2
@@ -232,7 +251,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -242,7 +261,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-04-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106
@@ -252,7 +271,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-05-pfl-regular-season-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 3
@@ -262,7 +281,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -274,7 +293,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  nnferno-fighting-championship-5-90414
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-06-pfl-regular-season-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 4
@@ -284,7 +303,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-06-pfl-regular-season-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 5
@@ -294,7 +313,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -304,7 +323,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-07-pfl-regular-season-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 6
@@ -314,7 +333,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
@@ -324,7 +343,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -334,7 +353,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -344,7 +363,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -354,7 +373,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -364,7 +383,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220219T180001Z
+DTSTAMP:20220220T192934Z
 UID:2022-11-pfl-finals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 2
