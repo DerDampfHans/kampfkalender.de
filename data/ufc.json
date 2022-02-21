@@ -6,6 +6,7 @@
       "MMA"
     ],
     "tags": [
+      "🎙@MarkBergmann",
       "#UFCVegas49"
     ],
     "mainCard": {
@@ -21,6 +22,14 @@
         "id": 213061,
         "time": "2022-02-27T00:00:00Z",
         "title": "UFC Fight Night: Dariush vs Makhachev"
+      },
+      "dazn": {
+        "id": "11fymwfl5yrty17vh87mifwc00",
+        "time": "2022-02-27T00:00:00Z",
+        "title": "UFC Fight Night: Makhachev vs Green (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Kommentator: Mark Bergmann"
       }
     },
     "prelims": {
@@ -60,6 +69,10 @@
         "Prelim: Victor Altamirano (10-1-0) vs. Carlos Hernandez (7-1-0)"
       ],
       "links": [
+        "http://www.sherdog.com/events/ufc-fight-night-202-makhachev-vs-green-90846",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Makhachev_vs._Green",
+        "http://www.mixedmartialarts.com/events/ufc-fight-night:22605f9c-92d8-418f-ac91-0e865d2365cd",
+        "https://www.ufc.com/event/ufc-fight-night-february-26-2022",
         "https://www.bestfightodds.com/events/ufc-fight-night-203-2343"
       ]
     }
@@ -230,12 +243,17 @@
     ],
     "mainCard": {
       "title": "UFC London: Volkov vs. Aspinall",
-      "time": "2022-03-19T20:00:00Z",
+      "time": "2022-03-19T21:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213893,
+        "time": "2022-03-19T21:00:00Z",
+        "title": "UFC Fight Night: Volkov vs Aspinall"
       },
       "dazn": {
         "id": "1f5ix3xiqc1ir1ldrj5t2gw6ef",
@@ -247,9 +265,15 @@
     },
     "prelims": {
       "title": "UFC London: Prelims",
+      "time": "2022-03-19T18:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213892,
+        "time": "2022-03-19T18:00:00Z",
+        "title": "UFC Fight Night: Volkov vs Aspinall Prelims"
       }
     },
     "tapology": {
@@ -290,19 +314,30 @@
     ],
     "mainCard": {
       "title": "UFC Columbus: Blaydes vs. Daukaus",
-      "time": "2022-03-26T22:00:00Z",
+      "time": "2022-03-26T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213902,
+        "time": "2022-03-26T23:00:00Z",
+        "title": "UFC Fight Night: Blaydes vs Daukaus"
       }
     },
     "prelims": {
       "title": "UFC Columbus: Prelims",
+      "time": "2022-03-26T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213901,
+        "time": "2022-03-26T20:00:00Z",
+        "title": "UFC Fight Night: Blaydes vs Daukaus Prelims"
       }
     },
     "tapology": {
@@ -345,7 +380,7 @@
     ],
     "mainCard": {
       "title": "UFC 273: Volkanovski vs. Korean Zombie",
-      "time": "2022-04-09T22:00:00Z",
+      "time": "2022-04-09T02:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
@@ -355,16 +390,28 @@
     },
     "prelims": {
       "title": "UFC 273: Prelims",
+      "time": "2022-04-10T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213909,
+        "time": "2022-04-10T00:00:00Z",
+        "title": "UFC 273: Prelims"
       }
     },
     "earlyPrelims": {
       "title": "UFC 273: Early Prelims",
+      "time": "2022-04-09T22:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213905,
+        "time": "2022-04-09T22:00:00Z",
+        "title": "UFC 273: Fight Pass Prelims"
       }
     },
     "tapology": {
@@ -404,20 +451,31 @@
       "#UFCVegas51"
     ],
     "mainCard": {
-      "title": "UFC Vegas 51",
-      "time": "2022-04-16T22:00:00Z",
+      "title": "UFC Vegas 51: Luque vs. Muhammad 2",
+      "time": "2022-04-16T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213919,
+        "time": "2022-04-16T23:00:00Z",
+        "title": "UFC Fight Night: Luque vs Muhammad"
       }
     },
     "prelims": {
       "title": "UFC Vegas 51: Prelims",
+      "time": "2022-04-16T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213918,
+        "time": "2022-04-16T20:00:00Z",
+        "title": "UFC Fight Night: Luque vs Muhammad Prelims"
       }
     },
     "tapology": {
@@ -440,7 +498,8 @@
         "Prelim: Lina Länsberg (10-5-0) vs. Pannie Kianzad (15-6-0)",
         "Prelim: Melsik Baghdasaryan (7-1-0) vs. T.J. Laramie (12-4-0)",
         "Prelim: Mayra Bueno Silva (7-2-1) vs. Yanan Wu (12-4-0)",
-        "Prelim: Jordan Leavitt (9-1-0) vs. Victor Martinez (13-4-0)"
+        "Prelim: Jordan Leavitt (9-1-0) vs. Victor Martinez (13-4-0)",
+        "Prelim: Sam Hughes (5-4-0) vs. Istela Nunes (6-2-0)"
       ]
     }
   },
