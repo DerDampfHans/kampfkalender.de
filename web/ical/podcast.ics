@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220221T230304Z
-X-KAMPFKALENDER-HASH:a630c7f77beadc7e22a2a4fc7971055a56a7ba7d
+DTSTAMP:20220222T070608Z
+X-KAMPFKALENDER-HASH:1553ec4057d094cf6363d18caff910a00080dcf5
 BEGIN:VEVENT
-DTSTAMP:20220221T230304Z
+DTSTAMP:20220222T070608Z
 UID:2022-02-wer-ist-der-nachste-gegner-von-adesanya-ufc-271-analyse-tuiva
  sa-lewis-cannonier-brunson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DQjuZvCHWyY
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220221T230304Z
+DTSTAMP:20220222T070608Z
 UID:2022-02-alles-was-man-zu-ufc-271-noch-wissen-muss@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Alles was man zu UFC 271 noch wissen muss
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=fgF_sdF69Eo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220221T230304Z
+DTSTAMP:20220222T070608Z
 UID:2022-02-schlagwort-podcast-151@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 151
@@ -37,5 +37,17 @@ DTSTART:20220220T170000Z
 DTEND:20220220T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=xhvcEK6a9Ys
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T070608Z
+UID:2022-02-jamahal-hill-mit-ko-gegen-johnny-walker-kyle-daukaus-mit-last
+ -minute-submission-leg@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Jamahal Hill mit KO gegen Johnny Walker/ Kyle Daukaus mit Last Mi
+ nute Submission/ Leg
+DTSTART:20220222T083000Z
+DTEND:20220222T093000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=RcYrYNOyMh0
 END:VEVENT
 END:VCALENDAR

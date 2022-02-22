@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220221T230304Z
-X-KAMPFKALENDER-HASH:d00ef4d9e991bb34b70d6e25d9184bf7a8a8e445
+DTSTAMP:20220222T070608Z
+X-KAMPFKALENDER-HASH:7568845c485d8c8004ee6ed21548e1c31fbac103
 BEGIN:VEVENT
-DTSTAMP:20220221T230304Z
+DTSTAMP:20220222T070608Z
 UID:2022-02-wer-ist-der-nachste-gegner-von-adesanya-ufc-271-analyse-tuiva
  sa-lewis-cannonier-brunson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DQjuZvCHWyY
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220221T230304Z
+DTSTAMP:20220222T070608Z
 UID:2022-02-alles-was-man-zu-ufc-271-noch-wissen-muss@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Alles was man zu UFC 271 noch wissen muss
@@ -27,5 +27,17 @@ DTSTART:20220216T083000Z
 DTEND:20220216T093000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=fgF_sdF69Eo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T070608Z
+UID:2022-02-jamahal-hill-mit-ko-gegen-johnny-walker-kyle-daukaus-mit-last
+ -minute-submission-leg@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Jamahal Hill mit KO gegen Johnny Walker/ Kyle Daukaus mit Last Mi
+ nute Submission/ Leg
+DTSTART:20220222T083000Z
+DTEND:20220222T093000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=RcYrYNOyMh0
 END:VEVENT
 END:VCALENDAR
