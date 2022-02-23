@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220222T230304Z
-X-KAMPFKALENDER-HASH:d679e76148de7742b68056a9e05ec9c942120350
+DTSTAMP:20220223T070005Z
+X-KAMPFKALENDER-HASH:2cc0dc616c8ba33bcc8a60d18e86eecdb9c4dabc
 BEGIN:VEVENT
-DTSTAMP:20220222T230304Z
+DTSTAMP:20220223T070005Z
 UID:2022-02-alles-was-man-zu-ufc-271-noch-wissen-muss@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Alles was man zu UFC 271 noch wissen muss
@@ -17,7 +17,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=fgF_sdF69Eo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220222T230304Z
+DTSTAMP:20220223T070005Z
 UID:2022-02-jamahal-hill-mit-ko-gegen-johnny-walker-kyle-daukaus-mit-last
  -minute-submission-leg@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -27,5 +27,17 @@ DTSTART:20220222T083000Z
 DTEND:20220222T093000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=RcYrYNOyMh0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220223T070005Z
+UID:2022-02-buckley-mit-dale-brown-dust-self-defense-guru-in-der-ecke-pre
+ view-islam-makhachev@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Buckley mit Dale Brown (DUST Self-Defense-Guru) in der Ecke/ Prev
+ iew Islam Makhachev
+DTSTART:20220223T170000Z
+DTEND:20220223T180000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-Alb5pXrAAo
 END:VEVENT
 END:VCALENDAR
