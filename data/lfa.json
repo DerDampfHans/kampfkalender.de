@@ -1,51 +1,5 @@
 [
   {
-    "id": "fightpass-213028",
-    "promotion": "LFA",
-    "sports": [
-      "MMA"
-    ],
-    "tags": [
-      "#LFA125"
-    ],
-    "mainCard": {
-      "title": "LFA 125: Amorim vs. Young",
-      "time": "2022-02-26T02:00:00Z",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      },
-      "fightPass": {
-        "id": 213028,
-        "time": "2022-02-26T02:00:00Z",
-        "title": "LFA 125"
-      }
-    },
-    "tapology": {
-      "id": 86768,
-      "time": "2022-02-26T02:00:00Z",
-      "title": "LFA 125: Amorim vs. Young",
-      "info": "Confirmed Upcoming MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/86768-lfa-125-amorim-vs-young",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Jaqueline Amorim (4-0-0) vs. Loveth Young (3-1-1)",
-        "Co-Main Event: Adam Fugitt (7-2-0) vs. Solomon Renfro (8-2-0)",
-        "Main Card: Ashley Nichols (3-3-0) vs. Hilarie Rose (5-3-0)",
-        "Main Card: Michael Stack (6-1-0) vs. Caio Gregorio (7-3-0)",
-        "Main Card: Zach Zane (15-10-0) vs. Guilherme Faria (17-9-0)",
-        "Prelim: Austin Ross (1-0-0) vs. Terry Copling (4-3-0)"
-      ],
-      "links": [
-        "http://www.sherdog.com/events/lfa-125-amorim-vs-young-91682",
-        "http://www.mixedmartialarts.com/events/lfa-125:c81390a1-992a-4a2f-8416-2212b2a5d7e6",
-        "https://www.bestfightodds.com/events/lfa-125-2450"
-      ]
-    }
-  },
-  {
     "id": "tapology-87004",
     "promotion": "LFA",
     "sports": [
@@ -89,6 +43,29 @@
         "Prelim: Vandirson Alves (7-2-0) vs. Wendell Giácomo (9-2-0)",
         "Prelim: Lincon Santos (4-1-0) vs. Marciano Ferreira (6-1-0)"
       ]
+    }
+  },
+  {
+    "id": "lfa-2022-03-26",
+    "promotion": "LFA",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#LFA127"
+    ],
+    "mainCard": {
+      "title": "LFA 127",
+      "time": "2022-03-26T02:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 214102,
+        "time": "2022-03-26T02:00:00Z",
+        "title": "LFA 127"
+      }
     }
   }
 ]

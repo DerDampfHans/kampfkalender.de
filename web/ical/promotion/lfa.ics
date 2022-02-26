@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220225T135739Z
-X-KAMPFKALENDER-HASH:ab79a18640064ab0c8fb5f2df7edba16f94a6a76
+DTSTAMP:20220226T053924Z
+X-KAMPFKALENDER-HASH:f2efadf7125bd626b763207fcb5545391008a80e
 BEGIN:VEVENT
-DTSTAMP:20220225T135741Z
+DTSTAMP:20220226T053925Z
 UID:2022-02-lfa-125-amorim-vs-young@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 125: Amorim vs. Young
@@ -26,7 +26,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (1-0-0) vs. Terry Copling (4-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220225T135741Z
+DTSTAMP:20220226T053925Z
 UID:2022-03-lfa-126-bilharinho-vs-barbosa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 126: Bilharinho vs. Barbosa
@@ -45,5 +45,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ando (6-1-0) vs. Rodrigo Lima (7-2-0)\nPrelim: Vandirson Alves (7-2-0) v
  s. Wendell Giácomo (9-2-0)\nPrelim: Lincon Santos (4-1-0) vs. Marciano F
  erreira (6-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220226T053925Z
+UID:2022-03-lfa-127@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 127
+DTSTART:20220326T020000Z
+DTEND:20220326T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

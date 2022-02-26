@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220220T163817Z
-X-KAMPFKALENDER-HASH:3941b84a204ed851756d1563a5bb1fe5f7c4ebd3
+DTSTAMP:20220226T053924Z
+X-KAMPFKALENDER-HASH:24b2a4c56dc295d15fc9bc2bc8ca6a7e5a320992
 BEGIN:VEVENT
-DTSTAMP:20220220T163817Z
+DTSTAMP:20220226T053925Z
 UID:2022-02-ultimate-warrior-challenge-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ultimate Warrior Challenge 31
@@ -23,5 +23,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Navarrete (2-0-0) vs. Andrea Vazquez Pantoja (0-2-0)\nMain Card: Edgar 
  Guardado (2-1-0) vs. Adrian Oviedo (3-2-0)\nMain Card: Manuel Reyna (0-3
  -0) vs. Luis Escudero (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220226T053925Z
+UID:2022-03-ultimate-warrior-challenge-32@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ultimate Warrior Challenge 32
+DTSTART:20220326T010000Z
+DTEND:20220326T040000Z
+CATEGORIES:UWCM,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR
