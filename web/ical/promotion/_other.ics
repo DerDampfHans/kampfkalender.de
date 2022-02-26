@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220224T155010Z
-X-KAMPFKALENDER-HASH:cf5b792083860dfff228e28659ae31a3a1609de4
+DTSTAMP:20220226T230304Z
+X-KAMPFKALENDER-HASH:9099e4377f69edb3838d12d7b4cd2a4ca057415c
 BEGIN:VEVENT
-DTSTAMP:20220224T155011Z
+DTSTAMP:20220226T230304Z
 UID:2022-02-senshi-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 11
@@ -17,7 +17,17 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-11/2paum/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T155011Z
+DTSTAMP:20220226T230304Z
+UID:2022-02-stekos-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Stekos Fight Night
+DTSTART:20220226T173000Z
+DTEND:20220226T203000Z
+CATEGORIES:Other,Kickboxen,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ewo_DhRyLsk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220226T230304Z
 UID:2022-03-one-man-series-next-level@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series – Next Level
