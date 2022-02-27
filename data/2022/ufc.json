@@ -634,5 +634,113 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-83426",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFCVegas49"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 49: Makhachev vs. Green",
+      "time": "2022-02-27T00:00:00Z",
+      "tags": [
+        "🎙@MarkBergmann"
+      ],
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213061,
+        "time": "2022-02-27T00:00:00Z",
+        "title": "UFC Fight Night: Makhachev vs Green"
+      },
+      "dazn": {
+        "id": "11fymwfl5yrty17vh87mifwc00",
+        "time": "2022-02-27T00:00:00Z",
+        "title": "UFC Fight Night: Makhachev vs Green (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Zehn Kämpfe, zehn Siege – die Bilanz von Islam Makhachev in der UFC ist beeindruckend. Nach der souveränen Submission in Runde Eins gegen Dan Hooker steht ihm jetzt mit Bobby Green der nächste große Name im Octagon gegenüber. Der Sieger dürfte gute Chancen auf einen Titelfight gegen Leichtgewichtschampion Charles Oliveira haben. // Kommentator: Mark Bergmann"
+      }
+    },
+    "prelims": {
+      "title": "UFC Vegas 49: Prelims",
+      "time": "2022-02-26T21:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 212932,
+        "time": "2022-02-26T21:00:00Z",
+        "title": "UFC Fight Night: Makhachev vs Green Prelims"
+      }
+    },
+    "tapology": {
+      "id": 83426,
+      "time": "2022-02-26T21:00:00Z",
+      "title": "UFC Fight Night: Makhachev vs. Green",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/83426-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Islam Makhachev (21-1-0) vs. Bobby Green (29-12-1)",
+        "Co-Main Event: Misha Cirkunov (15-7-0) vs. Wellington Turman (17-5-0)",
+        "Main Card: Priscila Cachoeira (10-4-0) vs. Ji Yeon Kim (9-4-2)",
+        "Main Card: Arman Tsarukyan (17-2-0) vs. Joel Alvarez (19-2-0)",
+        "Main Card: Gregory Rodrigues (11-3-0) vs. Armen Petrosyan (6-1-0)",
+        "Prelim: Ignacio Bahamondes (12-4-0) vs. Zhu Rong (19-4-0)",
+        "Prelim: Josiane Nunes (8-1-0) vs. Ramona Pascual (6-2-0)",
+        "Prelim: Terrance McKinney (11-3-0) vs. Fares Ziam (12-3-0)",
+        "Prelim: Alejandro Perez (22-8-1) vs. Jonathan Martinez (14-4-0)",
+        "Prelim: Ramiz Brahimaj (9-4-0) vs. Micheal Gillmore (6-4-0)",
+        "Prelim: Victor Altamirano (10-1-0) vs. Carlos Hernandez (7-1-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-fight-night-202-makhachev-vs-green-90846",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Makhachev_vs._Green",
+        "http://www.mixedmartialarts.com/events/ufc-fight-night:22605f9c-92d8-418f-ac91-0e865d2365cd",
+        "https://www.ufc.com/event/ufc-fight-night-february-26-2022",
+        "https://www.bestfightodds.com/events/ufc-fight-night-203-2343"
+      ]
+    }
+  },
+  {
+    "id": "ufc-AyBhZ-oC9yo",
+    "promo": true,
+    "promotion": "UFC",
+    "tags": [
+      "#UFC"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 49: Post-Fight Press Conference",
+      "time": "2022-02-27T03:15:00Z",
+      "until": "2022-02-27T04:15:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=AyBhZ-oC9yo",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "AyBhZ-oC9yo",
+        "time": "2022-02-27T03:15:00Z",
+        "title": "UFC Vegas 49: Post-Fight Press Conference",
+        "url": "https://www.youtube.com/watch?v=AyBhZ-oC9yo",
+        "live": true,
+        "tags": [
+          "#UFC"
+        ]
+      }
+    }
   }
 ]
