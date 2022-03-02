@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220225T135739Z
-X-KAMPFKALENDER-HASH:dab3ba94cff6985f3ad27f96674688166cb1e925
+DTSTAMP:20220302T125914Z
+X-KAMPFKALENDER-HASH:65cbbf25195e610bb6f40f5a74d6de07daf83b73
 BEGIN:VEVENT
-DTSTAMP:20220225T135741Z
+DTSTAMP:20220302T125915Z
 UID:2022-03-eddie-bravo-s-medusa-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eddie Bravo's Medusa 2
@@ -17,7 +17,7 @@ CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220225T135741Z
+DTSTAMP:20220302T125915Z
 UID:2022-03-eddie-bravo-invitational-19-the-return@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eddie Bravo Invitational 19: The Return
@@ -25,5 +25,16 @@ DTSTART:20220313T220000Z
 DTEND:20220314T010000Z
 CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T125915Z
+UID:2022-04-ajp-international-pro-gi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AJP: International Pro - Gi
+DTSTART:20220416T190000Z
+DTEND:20220416T220000Z
+CATEGORIES:Other,Grappling,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
+ national-pro-g/2paw9/
 END:VEVENT
 END:VCALENDAR

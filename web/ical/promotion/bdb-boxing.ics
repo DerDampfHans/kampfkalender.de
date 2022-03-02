@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T084837Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220302T125914Z
+X-KAMPFKALENDER-HASH:84fcaaef01d90db4a2c6d50fa5d6e2969eada6dd
+BEGIN:VEVENT
+DTSTAMP:20220302T125914Z
+UID:2022-03-sturm-vs-szili@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Sturm vs. Szili
+DTSTART:20220326T210000Z
+DTEND:20220327T000000Z
+CATEGORIES:BDB,Boxen,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87338-sturm-vs-szili\nhttp://www.boxrec.com/en/event/848846\n\n---\
+ n\nMain Event: Felix Sturm (42-5-3) vs. Istvan Szili (25-2-2)\nMain Card
+ : Petro Ivanov (15-0-2) vs. Timo Rost (10-1-2)\nMain Card: Simon Zachenh
+ uber (15-0-0) vs. Maurice Morio (8-2-0)\nMain Card: Ryno Liebenberg (21-
+ 8-1) vs. Kassim Ouma (29-16-1)
+END:VEVENT
 END:VCALENDAR

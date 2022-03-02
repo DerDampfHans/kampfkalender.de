@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220301T230304Z
-X-KAMPFKALENDER-HASH:9c8936cabc2ef5ae7c4846b642e196228f123f9d
+DTSTAMP:20220302T125914Z
+X-KAMPFKALENDER-HASH:3d488608b766399b06a50a0afd130f2164a2fa4c
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-02-one-championship-full-circle-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle (Weigh-In)
@@ -17,7 +17,7 @@ CATEGORIES:ONE,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=_kTftR5C2oQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-02-one-championship-full-circle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Full Circle
@@ -41,7 +41,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wAmf87SapvI\n\n-
   Raju (8-6-0) vs. Drex Zamboanga (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-02-oktagon-31-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 31: Prelims
@@ -59,7 +59,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=kv-PKGmSgWI\
  s Farkaš (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-02-senshi-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 11
@@ -69,7 +69,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-11/2paum/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-02-ufc-vegas-49-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 49: Post-Fight Press Conference
@@ -79,7 +79,40 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AyBhZ-oC9yo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
+UID:2022-03-interview-jarno-errens-vor-nfc-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Interview: Jarno Errens vor NFC 8
+DTSTART:20220304T163000Z
+DTEND:20220304T173000Z
+CATEGORIES:NFC,fighting.de,PR,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=TlZV5zjs3Qs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T125914Z
+UID:2022-03-knyba-vs-knife@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Knyba vs. Knife
+DTSTART:20220304T180000Z
+DTEND:20220304T210000Z
+CATEGORIES:Other,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rbk-boxing-night-2/2pa
+ v3/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/87327-knyba-vs
+ -knife
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T125914Z
+UID:2022-03-pound-for-pound-the-beatdown@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Pound for Pound: The Beatdown
+DTSTART:20220304T180000Z
+DTEND:20220304T210000Z
+CATEGORIES:Other,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pound-for-pound-the-be
+ atdown/2paxa/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T125914Z
 UID:2022-03-invicta-fc-46-rodriguez-vs-souza@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 46: Rodríguez vs. Souza
@@ -96,7 +129,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4gBeMGoz9m8\n\n-
  . Nadia Vera (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
@@ -109,7 +142,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Lineker (34-9-0)\nMain Card: Prajanchai PK Saenchai vs. Joseph Lasiri
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-03-eagle-fc-46-lee-vs-sanchez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 46: Lee vs. Sanchez
@@ -121,11 +154,38 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  8-7-0) vs. Diego Sanchez (30-13-0)\nCo-Main Event: Rizvan Kuniev (11-2-1
  ) vs. Anthony Hamilton (18-10-0)\nMain Card: Ray Borg (15-5-0) vs. Ricky
   Bandejas (15-6-0)\nMain Card: Raimond Magomedaliev (9-1-0) vs. Impa Kas
- anganay (9-2-0)\nPrelim: Akhmed Aliev (20-7-0) vs. Darrell Horcher (14-5
- -0)\nPrelim: Irwin Rivera (10-6-0) vs. Firdavs Khasanov (8-3-0)
+ anganay (9-2-0)\nMain Card: Ikram Aliskerov (11-1-0) vs. Nah-shon Burrel
+ l (19-11-0)\nMain Card: Caio Uruguai (8-4-0) vs. Sitik Muduev (9-3-0)\nM
+ ain Card: Manny Walo (14-4-1) vs. Ryder Newman (4-1-0)\nPrelim: Akhmed A
+ liev (20-7-0) vs. Darrell Horcher (14-5-0)\nPrelim: Irwin Rivera (10-6-0
+ ) vs. Firdavs Khasanov (8-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
+UID:2022-03-edwards-vs-waseem@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Edwards vs. Waseem
+DTSTART:20220319T161500Z
+DTEND:20220319T195500Z
+CATEGORIES:PB,Boxen,Eurosport 2,DAZN,live,kostenlos
+DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
+ fightcenter/events/86297-edwards-vs-waseem-evolution\n\n---\n\nMain Even
+ t: Sunny Edwards (17-0-0) vs. Muhammad Waseem (12-1-0)\nCo-Main Event: T
+ yrone McKenna (22-2-1) vs. Regis Prograis (26-1-0)\nMain Card: Yoan Boye
+ aux (43-6-0) vs. Shabaz Masoud (9-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T125914Z
+UID:2022-03-boxen-live-abass-baraou@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Boxen Live (Abass Baraou)
+DTSTART:20220319T220000Z
+DTEND:20220320T000000Z
+CATEGORIES:WB,Boxen,SPORT1,live,kostenlos
+DESCRIPTION:via SPORT1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T125914Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -145,7 +205,22 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ain Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
+UID:2022-03-sturm-vs-szili@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Sturm vs. Szili
+DTSTART:20220326T210000Z
+DTEND:20220327T000000Z
+CATEGORIES:BDB,Boxen,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87338-sturm-vs-szili\nhttp://www.boxrec.com/en/event/848846\n\n---\
+ n\nMain Event: Felix Sturm (42-5-3) vs. Istvan Szili (25-2-2)\nMain Card
+ : Petro Ivanov (15-0-2) vs. Timo Rost (10-1-2)\nMain Card: Simon Zachenh
+ uber (15-0-0) vs. Maurice Morio (8-2-0)\nMain Card: Ryno Liebenberg (21-
+ 8-1) vs. Kassim Ouma (29-16-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T125914Z
 UID:2022-04-eagle-fc-47-odilov-vs-shlemenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 47: Odilov vs. Shlemenko
@@ -155,20 +230,22 @@ CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
 DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/87060-eagle-fc-47-odilov-vs-shlemenko\n\n---\n\nMain Event: Faridun
   Odilov (14-2-2) vs. Alexander Shlemenko (62-13-0)\nCo-Main Event: Renat
-  Khavalov (5-0-0) vs. Ramazan Amaev (7-0-0)
+  Khavalov (5-0-0) vs. Ramazan Amaev (7-0-0)\nMain Card: A. Alimagomedov 
+ (11-1-0) vs. Khamzat Sakalov (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
-UID:2022-04-nfc-contenders@kampfkalender.de
+DTSTAMP:20220302T125914Z
+UID:2022-04-ajp-international-pro-gi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC Contenders
-DTSTART:20220401T160000Z
-DTEND:20220401T210000Z
-CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
-DESCRIPTION:via fighting.de
+SUMMARY:AJP: International Pro - Gi
+DTSTART:20220416T190000Z
+DTEND:20220416T220000Z
+CATEGORIES:Other,Grappling,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
+ national-pro-g/2paw9/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -178,7 +255,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T230304Z
+DTSTAMP:20220302T125914Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften

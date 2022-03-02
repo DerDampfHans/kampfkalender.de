@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220202T035239Z
-X-KAMPFKALENDER-HASH:0
+DTSTAMP:20220302T125914Z
+X-KAMPFKALENDER-HASH:838bc9f6bde4e4b907668775873de4ef80239fde
+BEGIN:VEVENT
+DTSTAMP:20220302T125915Z
+UID:2022-03-edwards-vs-waseem@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Edwards vs. Waseem
+DTSTART:20220319T161500Z
+DTEND:20220319T195500Z
+CATEGORIES:PB,Boxen,Eurosport 2,DAZN,live,kostenlos
+DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
+ fightcenter/events/86297-edwards-vs-waseem-evolution\n\n---\n\nMain Even
+ t: Sunny Edwards (17-0-0) vs. Muhammad Waseem (12-1-0)\nCo-Main Event: T
+ yrone McKenna (22-2-1) vs. Regis Prograis (26-1-0)\nMain Card: Yoan Boye
+ aux (43-6-0) vs. Shabaz Masoud (9-0-0)
+END:VEVENT
 END:VCALENDAR
