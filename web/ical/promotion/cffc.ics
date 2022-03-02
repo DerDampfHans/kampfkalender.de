@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:8d9023dce297dc77d74ab9d54f47dbb45dc8db5e
+DTSTAMP:20220302T224429Z
+X-KAMPFKALENDER-HASH:8c90f802a58c6973f9fd4b52152ac65fc359f07f
 BEGIN:VEVENT
-DTSTAMP:20220302T125914Z
+DTSTAMP:20220302T224429Z
 UID:2022-03-cffc-106-smith-vs-artis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 106: Smith vs. Artis
@@ -22,5 +22,18 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)\nMain Card: Jorge Molina (0-0-0) vs. Itso Babulaidze (0-0-0)\nMain Ca
  rd: David Romano (0-1-0) vs. Tyler Keating (0-0-0)\nMain Card: Argenis C
  astro (2-1-0) vs. Riley Palmer (3-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220302T224429Z
+UID:2022-04-cffc-107-bilder-vs-carvalho@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 107: Bilder vs. Carvalho
+DTSTART:20220415T230000Z
+DTEND:20220416T020000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87363-cffc-107-bilder-vs-carvalho\n\n---\n\nMain Event: Blak
+ e Bilder (5-0-1) vs. Regivaldo Carvalho (6-3-0)\nMain Card: Charlie Camp
+ bell (5-1-0) vs. Feraris Golden Jr. (3-2-0)
 END:VEVENT
 END:VCALENDAR
