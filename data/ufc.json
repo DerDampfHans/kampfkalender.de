@@ -1,36 +1,5 @@
 [
   {
-    "id": "ufc-inFLfwmhBy8",
-    "promo": true,
-    "promotion": "UFC",
-    "tags": [
-      "#UFC",
-      "#UFC272"
-    ],
-    "mainCard": {
-      "title": "UFC 272: Pre-Fight Press Conference",
-      "time": "2022-03-04T01:00:00Z",
-      "until": "2022-03-04T02:00:00Z",
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=inFLfwmhBy8",
-          "free": true
-        }
-      },
-      "youTube": {
-        "id": "inFLfwmhBy8",
-        "time": "2022-03-04T01:00:00Z",
-        "title": "UFC 272: Pre-Fight Press Conference",
-        "url": "https://www.youtube.com/watch?v=inFLfwmhBy8",
-        "live": true,
-        "tags": [
-          "#UFC",
-          "#UFC272"
-        ]
-      }
-    }
-  },
-  {
     "id": "ufc-oBdVrJNGnnM",
     "promo": true,
     "promotion": "UFC",
@@ -413,12 +382,17 @@
     ],
     "mainCard": {
       "title": "UFC 273: Volkanovski vs. Korean Zombie",
-      "time": "2022-04-09T02:00:00Z",
+      "time": "2022-04-10T02:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 213911,
+        "time": "2022-04-10T02:00:00Z",
+        "title": "UFC 273: Volkanovski vs The Korean Zombie"
       }
     },
     "prelims": {
@@ -630,6 +604,7 @@
       ],
       "card": [
         "Main Card: Antonina Shevchenko (9-4-0) vs. Cortney Casey (10-9-0)",
+        "Main Card: Gerald Meerschaert (34-14-0) vs. Krzysztof Jotko (23-5-0)",
         "Prelim: Gina Mazany (7-5-0) vs. Shanna Young (7-4-0)",
         "Prelim: Daniel da Silva (11-2-0) vs. Francisco Figueiredo (12-4-1)",
         "Prelim: Mike Breeden (10-4-0) vs. Natan Levy (6-1-0)",

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:4aae86fcc0f643f4f1f0a5a3768a01c72f652ece
+DTSTAMP:20220304T100226Z
+X-KAMPFKALENDER-HASH:978361aee90d38d4cabec336244141f056d0ff6b
 BEGIN:VEVENT
-DTSTAMP:20220302T125914Z
+DTSTAMP:20220304T100227Z
 UID:2022-02-fight-club-rush-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Club Rush 11
@@ -25,5 +25,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Ebrima Faal (0-1-0)\nPrelim: Safiullah Husseini (0-0-0) vs. Jakob V
  alegren (0-1-0)\nPrelim: Djaba Murtazaliev (0-1-0) vs. Oskar Lang (1-1-1
  )\nPrelim: Ali Al-Jasim (1-0-0) vs. Abdulaziz Husein (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220304T100227Z
+UID:2022-05-fight-club-rush-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fight Club Rush 12
+DTSTART:20220507T040000Z
+DTEND:20220507T070000Z
+CATEGORIES:FCR,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87417-fight-club-rush-12
 END:VEVENT
 END:VCALENDAR
