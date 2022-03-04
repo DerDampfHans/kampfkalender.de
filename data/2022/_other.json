@@ -153,5 +153,85 @@
         "live": true
       }
     }
+  },
+  {
+    "id": "friday-night-boxing-2022-03-04",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Uster"
+    ],
+    "mainCard": {
+      "title": "Friday Night Boxing",
+      "time": "2022-03-04T17:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-friday-night-boxing-423",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "p4p-boxing-2022-03-04",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Pound for Pound: The Beatdown",
+      "time": "2022-03-04T18:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/pound-for-pound-the-beatdown/2paxa/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2paxa",
+        "time": "2022-03-04T18:00:00Z",
+        "title": "Pound for Pound: The Beatdown",
+        "url": "https://www.fite.tv/watch/pound-for-pound-the-beatdown/2paxa/",
+        "price": "FREE",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rbk-boxing-2022-03-04",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#KnybaKnife"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/87327-knyba-vs-knife"
+    ],
+    "mainCard": {
+      "title": "Knyba vs. Knife",
+      "time": "2022-03-04T18:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/rbk-boxing-night-2/2pav3/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pav3",
+        "time": "2022-03-04T18:00:00Z",
+        "title": "RBK Boxing Night 2: Damian Knyba vs Knife Didier",
+        "url": "https://www.fite.tv/watch/rbk-boxing-night-2/2pav3/",
+        "price": "FREE",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    }
   }
 ]
