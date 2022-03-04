@@ -1,5 +1,25 @@
 [
   {
+    "id": "friday-night-boxing-2022-03-04",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Uster"
+    ],
+    "mainCard": {
+      "title": "Friday Night Boxing",
+      "time": "2022-03-04T17:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-friday-night-boxing-423",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
     "id": "p4p-boxing-2022-03-04",
     "promotion": "_OTHER",
     "sports": [
@@ -56,6 +76,34 @@
         "sports": [
           "BOXING"
         ]
+      }
+    }
+  },
+  {
+    "id": "boxing-after-dark-2022-03-19",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#München"
+    ],
+    "mainCard": {
+      "title": "Boxing After Dark",
+      "time": "2022-03-19T21:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxing-after-dark-1-424"
+        }
+      }
+    },
+    "prelims": {
+      "title": "Boxing After Dark",
+      "time": "2022-03-19T18:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxing-after-dark-1-424"
+        }
       }
     }
   },

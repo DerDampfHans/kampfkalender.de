@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220304T101951Z
-X-KAMPFKALENDER-HASH:c0f0a43240e193cb6dce62d46ef23a544556f0bb
+DTSTAMP:20220304T125731Z
+X-KAMPFKALENDER-HASH:684e7d1ffcc323382511c771c6d10e7f7f98c110
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
 UID:2022-02-senshi-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 11
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-11/2paum/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
 UID:2022-02-fusion-fight-league-black-hills-brawl@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Black Hills Brawl
@@ -43,7 +43,18 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-black-hills-brawls
  vs. Travis Hunter (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
+UID:2022-03-friday-night-boxing@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Friday Night Boxing
+DTSTART:20220304T170000Z
+DTEND:20220304T200000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fight24.tv/fightpasses/fight24-frida
+ y-night-boxing-423
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220304T125731Z
 UID:2022-03-knyba-vs-knife@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Knyba vs. Knife
@@ -55,7 +66,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rbk-boxing-night-2/2pa
  -knife
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
 UID:2022-03-pound-for-pound-the-beatdown@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pound for Pound: The Beatdown
@@ -66,7 +77,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pound-for-pound-the-be
  atdown/2paxa/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
 UID:2022-03-ramirez-vs-pedraza@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ramirez vs. Pedraza
@@ -86,7 +97,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-ra
  -0-0)\nMain Card: Antonio Mireles (0-0-0) vs. Brandon Hughes (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
 UID:2022-03-bkfc-new-york-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: New York 2
@@ -105,7 +116,29 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ll\nMain Card: Lardy Navarro vs. Anthony Prater
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
+UID:2022-03-boxing-after-dark@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Boxing After Dark
+DTSTART:20220319T180000Z
+DTEND:20220319T210000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fight24.tv/fightpasses/fight24-boxin
+ g-after-dark-1-424
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220304T125731Z
+UID:2022-03-boxing-after-dark-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Boxing After Dark
+DTSTART:20220319T210000Z
+DTEND:20220320T000000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fight24.tv/fightpasses/fight24-boxin
+ g-after-dark-1-424
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220304T125731Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -116,7 +149,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T101952Z
+DTSTAMP:20220304T125731Z
 UID:2022-04-ajp-international-pro-gi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP: International Pro - Gi
