@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220304T230304Z
-X-KAMPFKALENDER-HASH:0eb9ce5838a27378021eedea8a6529ca7c475bed
+DTSTAMP:20220305T020052Z
+X-KAMPFKALENDER-HASH:dda981b464b10761ddbb7b6af0e015b690a294c7
 BEGIN:VEVENT
-DTSTAMP:20220304T230304Z
+DTSTAMP:20220305T020052Z
 UID:2022-02-uae-warriors-26-arabia-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UAE Warriors 26: Arabia 6
@@ -26,5 +26,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0)\nMain Card: Issa Salem (3-2-0) vs. Wasem Anwar (0-0-0)\nMain Card: O
  mar Hussein (8-3-0) vs. Georges Eid (7-4-0)\nMain Card: Mo Elawil (3-0-0
  ) vs. Chakir Haj Haddou (8-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220305T020052Z
+UID:2022-03-uae-warriors-28@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors 28
+DTSTART:20220318T140000Z
+DTEND:20220318T170000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87433-uae-warriors-28\n\n---\n\nMain Card: Tarek Suleiman (1
+ 2-7-0) vs. Will Fleury (9-3-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:65cbbf25195e610bb6f40f5a74d6de07daf83b73
+DTSTAMP:20220305T020052Z
+X-KAMPFKALENDER-HASH:405a7fabeb17b8011de2f5e32c4dd3f26a45125f
 BEGIN:VEVENT
-DTSTAMP:20220302T125915Z
+DTSTAMP:20220305T020052Z
+UID:2022-03-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20220312T110000Z
+DTEND:20220312T140000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220312-olym
+ pix-grappling-no-103
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220305T020052Z
 UID:2022-03-eddie-bravo-s-medusa-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eddie Bravo's Medusa 2
@@ -17,7 +28,7 @@ CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220302T125915Z
+DTSTAMP:20220305T020052Z
 UID:2022-03-eddie-bravo-invitational-19-the-return@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eddie Bravo Invitational 19: The Return
@@ -27,7 +38,7 @@ CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220302T125915Z
+DTSTAMP:20220305T020052Z
 UID:2022-04-ajp-international-pro-gi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP: International Pro - Gi
