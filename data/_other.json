@@ -11,17 +11,21 @@
     "mainCard": {
       "title": "Boxing After Dark",
       "time": "2022-03-19T21:00:00Z",
+      "until": "2022-03-19T23:00:00Z",
       "broadcasters": {
-        "FITE_TV": {
+        "SPORT1_EXTRA": {
+          "url": "https://www.sport1extra.de/en-int/page/fight24-1"
+        },
+        "FIGHT24_TV": {
           "url": "https://www.fight24.tv/fightpasses/fight24-boxing-after-dark-1-424"
         }
       }
     },
     "prelims": {
-      "title": "Boxing After Dark",
+      "title": "Boxing After Dark: Prelims",
       "time": "2022-03-19T18:00:00Z",
       "broadcasters": {
-        "FITE_TV": {
+        "FIGHT24_TV": {
           "url": "https://www.fight24.tv/fightpasses/fight24-boxing-after-dark-1-424"
         }
       }

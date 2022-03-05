@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220305T020052Z
-X-KAMPFKALENDER-HASH:b92905e8d5f827e9dd0184bff59fbaf36dfa5520
+DTSTAMP:20220305T042656Z
+X-KAMPFKALENDER-HASH:2a355c5d27c37a9158a43410f1a72ee7c3b5acc1
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-02-okolie-vs-cieslak@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Okolie vs. Cieslak
@@ -26,18 +26,18 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  von Clarke (0-0-0) vs. Toni Visic (20-29-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
 DTSTART:20220304T170000Z
 DTEND:20220304T200000Z
-CATEGORIES:Other,Boxen,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fight24.tv/fightpasses/fight24-frida
- y-night-boxing-423
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
+ iday-night-boxing-423
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-knyba-vs-knife@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Knyba vs. Knife
@@ -49,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rbk-boxing-night-2/2pa
  -knife
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-pound-for-pound-the-beatdown@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pound for Pound: The Beatdown
@@ -60,7 +60,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pound-for-pound-the-be
  atdown/2paxa/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-ramirez-vs-pedraza@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ramirez vs. Pedraza
@@ -79,7 +79,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-ra
  ohnny Bernal\nPrelim: Antonio Mireles vs. Brandon Hughes
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-chocolatito-vs-martinez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chocolatito vs. Martinez
@@ -99,7 +99,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ibio (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-wood-vs-conlan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Conlan
@@ -116,7 +116,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -37-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -127,7 +127,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220319-olym
  pix-k1-boxen-no-104
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-edwards-vs-waseem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Edwards vs. Waseem
@@ -144,29 +144,29 @@ DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
   Rafael Coria (29-9-2) vs. Hovhannes Bachkov (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
+UID:2022-03-boxing-after-dark-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Boxing After Dark: Prelims
+DTSTART:20220319T180000Z
+DTEND:20220319T210000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ xing-after-dark-1-424
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220305T042656Z
 UID:2022-03-boxing-after-dark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark
-DTSTART:20220319T180000Z
-DTEND:20220319T210000Z
-CATEGORIES:Other,Boxen,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fight24.tv/fightpasses/fight24-boxin
- g-after-dark-1-424
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
-UID:2022-03-boxing-after-dark-1@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Boxing After Dark
 DTSTART:20220319T210000Z
-DTEND:20220320T000000Z
-CATEGORIES:Other,Boxen,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fight24.tv/fightpasses/fight24-boxin
- g-after-dark-1-424
+DTEND:20220319T230000Z
+CATEGORIES:Other,Boxen,SPORT1 Extra,fight24.tv,live
+DESCRIPTION:via SPORT1 Extra\nvia fight24.tv: https://www.fight24.tv/figh
+ tpasses/fight24-boxing-after-dark-1-424
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-boxen-live-abass-baraou@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxen Live (Abass Baraou)
@@ -176,7 +176,7 @@ CATEGORIES:WB,Boxen,SPORT1,live,kostenlos
 DESCRIPTION:via SPORT1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-martinez-vs-warrington-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Warrington 2
@@ -191,7 +191,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Smith (9-0-0) vs. Ray Moylette (12-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T020052Z
+DTSTAMP:20220305T042656Z
 UID:2022-03-sturm-vs-szili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Sturm vs. Szili
