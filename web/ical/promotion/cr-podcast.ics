@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220305T224608Z
-X-KAMPFKALENDER-HASH:797b9f5ef100a6bd15ea08b20ecada94aa4d1f0a
+DTSTAMP:20220307T053412Z
+X-KAMPFKALENDER-HASH:8deae9e5d1d8ea7fec72b819a112dd0228fbb16b
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T053413Z
 UID:2022-02-makhachev-zerstort-green-review-zur-blutigen-ufc-fight-night-
  vegas-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=enEJX7uTeq8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T053413Z
 UID:2022-03-das-hass-duell-masvidal-gegen-covington-ufc-272-preview@kampf
  kalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=fTPW_UFZ5KM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T053413Z
 UID:2022-03-sportpsychologie-im-mma-mit-dr-christian-reinhardt@kampfkalen
  der.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -39,5 +39,16 @@ DTSTART:20220303T160000Z
 DTEND:20220303T173000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AG6cYAxTY7I
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T053413Z
+UID:2022-03-ufc-272-colby-covington-dominiert-jorge-masvidal@kampfkalende
+ r.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 272 - Colby Covington dominiert Jorge Masvidal
+DTSTART:20220307T160000Z
+DTEND:20220307T171500Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Wk3rmws093s
 END:VEVENT
 END:VCALENDAR
