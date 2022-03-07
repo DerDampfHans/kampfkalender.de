@@ -4,10 +4,29 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:84fcaaef01d90db4a2c6d50fa5d6e2969eada6dd
+DTSTAMP:20220307T142607Z
+X-KAMPFKALENDER-HASH:803f996033fe9413ce42d579876c4977bedae598
 BEGIN:VEVENT
-DTSTAMP:20220302T125915Z
+DTSTAMP:20220307T142608Z
+UID:2022-03-agon-boxgala-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AGON BoxGala (Re-Live)
+DTSTART:20220312T210000Z
+DTEND:20220313T000000Z
+CATEGORIES:ASE,Boxen,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87053-agon-boxgala\nhttp://www.boxrec.com/en/event/847701\n\n---\n\
+ nMain Card: Jack Culcay (29-4-0) vs. Khalil El Harraz (14-2-1)\nMain Car
+ d: Jama Saidi (21-2-0) vs. Amaury Massenaux (10-0-1)\nMain Card: Haro Ma
+ tevosyan (14-0-0) vs. Johan Perez (26-9-2)\nMain Card: Vincenzo Gualtier
+ i (18-0-1) vs. Dario Socci (13-6-2)\nMain Card: Granit Shala (10-0-0) vs
+ . Zineddine Benmakhlouf (23-6-1)\nMain Card: A. Vom Berge (0-0-0) vs. Al
+ varo Terrero (5-14-2)\nMain Card: Bjoern Schicke (18-1-1) vs. Gregory Tr
+ enel (14-8-2)\nMain Card: Thomas Piccirillo (9-0-3) vs. Leonard Carillo 
+ (15-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
 UID:2022-03-sturm-vs-szili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Sturm vs. Szili

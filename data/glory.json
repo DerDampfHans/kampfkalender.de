@@ -5,17 +5,25 @@
     "sports": [
       "KICKBOXING"
     ],
+    "tags": [
+      "#Glory80"
+    ],
     "mainCard": {
       "title": "Glory 80",
-      "time": "2022-03-19T04:00:00Z",
+      "time": "2022-03-18T19:00:00Z",
       "broadcasters": {
         "GLORY_TV": {
         }
       }
     },
     "prelims": {
-      "hidden": true,
-      "title": "Glory SuperFight Series"
+      "title": "Glory SuperFight Series",
+      "time": "2022-03-18T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
     },
     "tapology": {
       "id": 86025,
@@ -30,8 +38,9 @@
         "Main Event: Jamal Ben Saddik vs. Levi Rigters",
         "Co-Main Event: Badr Hari vs. Arkadiusz Wrzosek",
         "Main Card: Artem Vakhitov vs. Luis Tavares",
-        "Main Card: Nordin Ben Moh vs. Guerric Billet",
+        "Main Card: Tiffany Van Soest vs. Manazo Kobayashi",
         "Main Card: Ertugrul Bayrak vs. Serkan Ozcaglayan",
+        "Main Card: Nordin Ben Moh vs. Guerric Billet",
         "Main Card: Jos van Belzen vs. Jay Overmeer"
       ]
     }

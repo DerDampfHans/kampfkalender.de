@@ -4,25 +4,41 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220305T224608Z
-X-KAMPFKALENDER-HASH:a328ec9ff547836f36bc2da9388ca5d446cbd74e
+DTSTAMP:20220307T142607Z
+X-KAMPFKALENDER-HASH:f0836154619180ca24ca91b37240f01208437b7e
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
+UID:2022-03-glory-superfight-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory SuperFight Series
+DTSTART:20220318T180000Z
+DTEND:20220318T190000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/86025-glory-80\n\n---\n\nMain Event: Jamal Ben Saddik vs. Levi 
+ Rigters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Arte
+ m Vakhitov vs. Luis Tavares\nMain Card: Tiffany Van Soest vs. Manazo Kob
+ ayashi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nor
+ din Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overme
+ er
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
-DTSTART:20220319T040000Z
-DTEND:20220319T070000Z
+DTSTART:20220318T190000Z
+DTEND:20220318T220000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/86025-glory-80\n\n---\n\nMain Event: Jamal Ben Saddik vs. Levi Rig
  ters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Artem V
- akhitov vs. Luis Tavares\nMain Card: Nordin Ben Moh vs. Guerric Billet\n
- Main Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Jos van Bel
- zen vs. Jay Overmeer
+ akhitov vs. Luis Tavares\nMain Card: Tiffany Van Soest vs. Manazo Kobaya
+ shi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordin
+  Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overmeer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -33,7 +49,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220319-olym
  pix-k1-boxen-no-104
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -53,7 +69,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ain Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-enfusion-talents-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 88
@@ -63,7 +79,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-one-man-series-next-level@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series – Next Level
@@ -74,7 +90,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/one
  -man-series-next-level/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-enfusion-105@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 105
@@ -84,7 +100,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-04-one-championship-reloaded@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Reloaded
@@ -96,7 +112,18 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Arian Sadiković
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
+UID:2022-04-welcome-to-the-east-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Welcome to the East 5
+DTSTART:20220423T143000Z
+DTEND:20220423T213000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
+ come-to-the-east-5/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
 UID:2022-04-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -106,7 +133,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-04-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106

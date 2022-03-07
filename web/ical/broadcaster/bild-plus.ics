@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220305T224608Z
-X-KAMPFKALENDER-HASH:e49349084be7ba74c0309ddab900c9f8794c8aa5
+DTSTAMP:20220307T142607Z
+X-KAMPFKALENDER-HASH:9240efa6a56408619d6e53dc7da29e7d456c20a9
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-we-love-mma-55@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 55
@@ -18,7 +18,26 @@ DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-55-2
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
+UID:2022-03-agon-boxgala@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AGON BoxGala
+DTSTART:20220311T160000Z
+DTEND:20220311T190000Z
+CATEGORIES:ASE,Boxen,Bild+,live
+DESCRIPTION:via Bild+\n\n---\n\nhttps://www.tapology.com/fightcenter/even
+ ts/87053-agon-boxgala\nhttp://www.boxrec.com/en/event/847701\n\n---\n\nM
+ ain Card: Jack Culcay (29-4-0) vs. Khalil El Harraz (14-2-1)\nMain Card:
+  Jama Saidi (21-2-0) vs. Amaury Massenaux (10-0-1)\nMain Card: Haro Mate
+ vosyan (14-0-0) vs. Johan Perez (26-9-2)\nMain Card: Vincenzo Gualtieri 
+ (18-0-1) vs. Dario Socci (13-6-2)\nMain Card: Granit Shala (10-0-0) vs. 
+ Zineddine Benmakhlouf (23-6-1)\nMain Card: A. Vom Berge (0-0-0) vs. Alva
+ ro Terrero (5-14-2)\nMain Card: Bjoern Schicke (18-1-1) vs. Gregory Tren
+ el (14-8-2)\nMain Card: Thomas Piccirillo (9-0-3) vs. Leonard Carillo (1
+ 5-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
 UID:2022-03-ksw-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 68
@@ -35,7 +54,7 @@ DESCRIPTION:via kswtv.com\nvia Bild+\n\n---\n\nhttps://www.tapology.com/f
  relim: Marcin Trzciński (1-1-0) vs. Adam Tomasik (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-04-we-love-mma-56@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 56
@@ -45,7 +64,7 @@ CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-60/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-04-we-love-mma-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 57
@@ -55,7 +74,7 @@ CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-59/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-05-we-love-mma-58@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 58
@@ -65,7 +84,7 @@ CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -76,7 +95,7 @@ DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61-2
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -86,7 +105,7 @@ CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -96,7 +115,7 @@ CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -106,7 +125,7 @@ CATEGORIES:WLMMA,MMA,Bild+,live
 DESCRIPTION:via Bild+\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220307T142608Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63

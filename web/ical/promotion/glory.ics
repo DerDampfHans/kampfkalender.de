@@ -4,21 +4,37 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:70af7d4e88ee4ac9c3844164be34ec9e9ec50324
+DTSTAMP:20220307T142607Z
+X-KAMPFKALENDER-HASH:147705f5408825765132e3396a621ba3ea0c6513
 BEGIN:VEVENT
-DTSTAMP:20220302T125914Z
+DTSTAMP:20220307T142608Z
+UID:2022-03-glory-superfight-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory SuperFight Series
+DTSTART:20220318T180000Z
+DTEND:20220318T190000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/86025-glory-80\n\n---\n\nMain Event: Jamal Ben Saddik vs. Levi 
+ Rigters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Arte
+ m Vakhitov vs. Luis Tavares\nMain Card: Tiffany Van Soest vs. Manazo Kob
+ ayashi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nor
+ din Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overme
+ er
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
-DTSTART:20220319T040000Z
-DTEND:20220319T070000Z
+DTSTART:20220318T190000Z
+DTEND:20220318T220000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/86025-glory-80\n\n---\n\nMain Event: Jamal Ben Saddik vs. Levi Rig
  ters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Artem V
- akhitov vs. Luis Tavares\nMain Card: Nordin Ben Moh vs. Guerric Billet\n
- Main Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Jos van Bel
- zen vs. Jay Overmeer
+ akhitov vs. Luis Tavares\nMain Card: Tiffany Van Soest vs. Manazo Kobaya
+ shi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordin
+  Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overmeer
 END:VEVENT
 END:VCALENDAR

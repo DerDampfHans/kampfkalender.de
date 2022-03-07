@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220306T230304Z
-X-KAMPFKALENDER-HASH:2829a83102ec6ee5e2fd907515fe635cfd0b3880
+DTSTAMP:20220307T142607Z
+X-KAMPFKALENDER-HASH:7b9dbf748f8457e366f32db76ce7ae89c4bbecf3
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -18,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  iday-night-boxing-423
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-knyba-vs-knife@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Knyba vs. Knife
@@ -30,7 +30,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rbk-boxing-night-2/2pa
  -knife
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-pound-for-pound-the-beatdown@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pound for Pound: The Beatdown
@@ -41,7 +41,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pound-for-pound-the-be
  atdown/2paxa/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-ramirez-vs-pedraza@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ramirez vs. Pedraza
@@ -60,7 +60,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-ra
  ohnny Bernal\nPrelim: Antonio Mireles vs. Brandon Hughes
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-chocolatito-vs-martinez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chocolatito vs. Martinez
@@ -80,7 +80,26 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ibio (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
+UID:2022-03-agon-boxgala@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AGON BoxGala
+DTSTART:20220311T160000Z
+DTEND:20220311T190000Z
+CATEGORIES:ASE,Boxen,Bild+,live
+DESCRIPTION:via Bild+\n\n---\n\nhttps://www.tapology.com/fightcenter/even
+ ts/87053-agon-boxgala\nhttp://www.boxrec.com/en/event/847701\n\n---\n\nM
+ ain Card: Jack Culcay (29-4-0) vs. Khalil El Harraz (14-2-1)\nMain Card:
+  Jama Saidi (21-2-0) vs. Amaury Massenaux (10-0-1)\nMain Card: Haro Mate
+ vosyan (14-0-0) vs. Johan Perez (26-9-2)\nMain Card: Vincenzo Gualtieri 
+ (18-0-1) vs. Dario Socci (13-6-2)\nMain Card: Granit Shala (10-0-0) vs. 
+ Zineddine Benmakhlouf (23-6-1)\nMain Card: A. Vom Berge (0-0-0) vs. Alva
+ ro Terrero (5-14-2)\nMain Card: Bjoern Schicke (18-1-1) vs. Gregory Tren
+ el (14-8-2)\nMain Card: Thomas Piccirillo (9-0-3) vs. Leonard Carillo (1
+ 5-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
 UID:2022-03-wood-vs-conlan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Conlan
@@ -98,7 +117,45 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
+UID:2022-03-agon-boxgala-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AGON BoxGala (Re-Live)
+DTSTART:20220312T210000Z
+DTEND:20220313T000000Z
+CATEGORIES:ASE,Boxen,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87053-agon-boxgala\nhttp://www.boxrec.com/en/event/847701\n\n---\n\
+ nMain Card: Jack Culcay (29-4-0) vs. Khalil El Harraz (14-2-1)\nMain Car
+ d: Jama Saidi (21-2-0) vs. Amaury Massenaux (10-0-1)\nMain Card: Haro Ma
+ tevosyan (14-0-0) vs. Johan Perez (26-9-2)\nMain Card: Vincenzo Gualtier
+ i (18-0-1) vs. Dario Socci (13-6-2)\nMain Card: Granit Shala (10-0-0) vs
+ . Zineddine Benmakhlouf (23-6-1)\nMain Card: A. Vom Berge (0-0-0) vs. Al
+ varo Terrero (5-14-2)\nMain Card: Bjoern Schicke (18-1-1) vs. Gregory Tr
+ enel (14-8-2)\nMain Card: Thomas Piccirillo (9-0-3) vs. Leonard Carillo 
+ (15-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
+UID:2022-03-hollywood-fight-nights-st-patrick-s-day-bash@kampfkalender.de
+ 
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hollywood Fight Nights: St. Patrick's Day Bash
+DTSTART:20220318T020000Z
+DTEND:20220318T050000Z
+CATEGORIES:360P,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/85833-hollywood-fight-nights-st-patrick-s-day-bash\nhttp://w
+ ww.boxrec.com/en/event/844764\n\n---\n\nMain Card: Chelsey Anderson (4-0
+ -0) vs. Elvina White (5-1-0)\nMain Card: Cem Kilic (15-1-0) vs. Andrew H
+ ernandez (21-8-2)\nMain Card: Marco Deckmann (7-1-0) vs. Victor Fonseca 
+ (18-10-1)\nMain Card: Adrian Corona (9-0-0) vs. Joe Perez (15-6-2)\nMain
+  Card: Omar Cande Trinidad (0-0-0) vs. Ivan Varela (4-3-0)\nMain Card: E
+ ric Priest (6-0-0) vs. David Lopez (4-2-0)\nMain Card: Callum Walsh (0-0
+ -0) vs. Donnis Reed (3-10-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220307T142608Z
 UID:2022-03-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -109,7 +166,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220319-olym
  pix-k1-boxen-no-104
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-edwards-vs-waseem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Edwards vs. Waseem
@@ -123,10 +180,12 @@ DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
  Prograis (26-1-0)\nMain Card: Yoan Boyeaux (43-6-0) vs. Shabaz Masoud (9
  -0-0)\nMain Card: TJ Doheny (22-3-0) vs. Cesar Juarez (27-10-0)\nMain Ca
  rd: Khalid Ayub (0-0-0) vs. Annem Sivareddy (0-2-0)\nMain Card: Cristian
-  Rafael Coria (29-9-2) vs. Hovhannes Bachkov (2-0-0)
+  Rafael Coria (29-9-2) vs. Hovhannes Bachkov (2-0-0)\nMain Card: Denis B
+ artos (6-2-0) vs. Bader Samreen (4-0-0)\nMain Card: Peter McGrail (0-0-0
+ ) vs. Alexandru Ionita (7-10-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-boxing-after-dark-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark: Prelims
@@ -137,7 +196,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  xing-after-dark-1-424
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-boxing-after-dark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark
@@ -149,7 +208,7 @@ DESCRIPTION:via SPORT1 Extra: https://www.sport1extra.de/en-int/page/figh
  -after-dark-1-424
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-boxen-live-abass-baraou@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxen Live (Abass Baraou)
@@ -159,7 +218,7 @@ CATEGORIES:WB,Boxen,SPORT1,live,kostenlos
 DESCRIPTION:via SPORT1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-martinez-vs-warrington-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Warrington 2
@@ -174,7 +233,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Smith (9-0-0) vs. Ray Moylette (12-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220307T142608Z
 UID:2022-03-sturm-vs-szili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Sturm vs. Szili
