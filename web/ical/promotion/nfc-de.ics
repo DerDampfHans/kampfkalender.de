@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:a3f84d591f5559df3bbe179eae4131707dcf3454
+DTSTAMP:20220308T112517Z
+X-KAMPFKALENDER-HASH:c1b435dbc0e2a2e30b21e0e86f5cadb1ca936e9f
 BEGIN:VEVENT
-DTSTAMP:20220302T125914Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-interview-jarno-errens-vor-nfc-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Interview: Jarno Errens vor NFC 8
@@ -17,7 +17,37 @@ CATEGORIES:NFC,fighting.de,PR,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=TlZV5zjs3Qs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220302T125914Z
+DTSTAMP:20220308T112517Z
+UID:2022-03-interview-mert-ozyildirim-vor-nfc-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Interview: Mert Özyildirim vor NFC 8
+DTSTART:20220308T163000Z
+DTEND:20220308T173000Z
+CATEGORIES:NFC,fighting.de,PR,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=M2MiBDP7gm8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220308T112517Z
+UID:2022-03-interview-wladimir-holodenko-vor-nfc-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Interview: Wladimir Holodenko vor NFC 8
+DTSTART:20220311T163000Z
+DTEND:20220311T173000Z
+CATEGORIES:NFC,fighting.de,PR,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=XtpSLFEvSq0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220308T112517Z
+UID:2022-04-nfc-contenders@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC Contenders
+DTSTART:20220401T160000Z
+DTEND:20220401T210000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220308T112517Z
 UID:2022-04-nfc-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8

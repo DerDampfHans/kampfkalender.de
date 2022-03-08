@@ -73,6 +73,7 @@
         "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Santos_vs._Ankalaev",
         "https://events.mixedmartialarts.com/ufc-fight-night:f171a38e-e7d6-45a3-97b0-203f10571090",
         "https://www.ufc.com/event/ufc-fight-night-march-12-2022",
+        "http://www.ufcstats.com/event-details/1f9344211ca7fd60",
         "https://www.bestfightodds.com/events/ufc-2414"
       ]
     }
@@ -137,6 +138,7 @@
         "Main Card: Shamil Abdurakhimov (20-6-0) vs. Sergei Pavlovich (14-1-0)",
         "Main Card: Paddy Pimblett (17-3-0) vs. Rodrigo Vargas (12-4-0)",
         "Main Card: Nikita Krylov (27-8-0) vs. Paul Craig (15-4-1)",
+        "Main Card: Gunnar Nelson (17-5-1) vs. Takashi Sato (16-4-0)",
         "Prelim: Molly McCann (11-4-0) vs. Luana Carolina (8-2-0)",
         "Prelim: Muhammad Mokaev (5-0-0) vs. Cody Durden (12-3-1)",
         "Prelim: Mike Grundy (12-3-0) vs. Makwan Amirkhani (16-7-0)",
@@ -487,9 +489,15 @@
     },
     "prelims": {
       "title": "UFC 274: Prelims",
+      "time": "2022-05-08T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 214366,
+        "time": "2022-05-08T00:00:00Z",
+        "title": "UFC 274: Prelims"
       }
     },
     "earlyPrelims": {

@@ -4,10 +4,31 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220307T142607Z
-X-KAMPFKALENDER-HASH:f0836154619180ca24ca91b37240f01208437b7e
+DTSTAMP:20220308T112517Z
+X-KAMPFKALENDER-HASH:5c8b35fed45fa421116882283e5d2b8e19f58d63
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
+UID:2022-03-one-championship-lights-out@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Championship: Lights Out
+DTSTART:20220311T110000Z
+DTEND:20220311T140000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=iPEQN8XD9_Q\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/85970-one-championship
+ \nhttp://www.sherdog.com/events/one-championship-lights-out-91597\nhttps
+ ://events.mixedmartialarts.com/one-championship:f5b74d79-83cb-4576-9929-
+ d505b423b4a8\n\n---\n\nMain Event: Thanh Le (12-2-0) vs. Garry Tonon (6-
+ 0-0)\nCo-Main Event: Bibiano Fernandes (24-4-0) vs. John Lineker (34-9-0
+ )\nMain Card: Martin Nguyen (13-5-0) vs. Kiril Gorobets (11-1-0)\nMain C
+ ard: Ismael Londt vs. Iraj Azizpour\nMain Card: Alex Silva (11-6-0) vs. 
+ Adrian Mattheis (9-5-0)\nMain Card: Josh Tonna vs. Peimian Zhang\nPrelim
+ : Eko Roni Saputra (5-1-0) vs. Chan Rothana (7-4-0)\nPrelim: Iman Barlow
+  vs. Daniela López\nPrelim: Liam Nolan vs. Kim Kyung Lock\nPrelim: Heqi
+ n Lin vs. Milagros Lopez
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220308T112517Z
 UID:2022-03-glory-superfight-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory SuperFight Series
@@ -23,7 +44,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  er
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
@@ -38,7 +59,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
   Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overmeer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -49,7 +70,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220319-olym
  pix-k1-boxen-no-104
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -58,18 +79,23 @@ DTEND:20220326T153000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85971-one-championship\n\n---\n\nMain Event: Stamp Fairtex (8-1-0) 
- vs. Angela Lee (10-2-0)\nCo-Main Event: Adriano Moraes (19-3-0) vs. Yuya
-  Wakamatsu (15-4-0)\nMain Card: Demetrious Johnson vs. Rodtang Jitmuangn
- on\nMain Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)\nMain C
- ard: Nieky Holzken vs. Islam Murtazaev\nMain Card: Chingiz Allazov vs. S
- . Sitsongpeenong\nMain Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov\
- nMain Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)\nMain Card: 
- Jeremy Miado (10-4-0) vs. Lito Adiwang (13-4-0)\nMain Card: Capitan Petc
- hyindee vs. Hiroki Akimoto\nMain Card: Eduard Folayang vs. Wayne Parr\nM
- ain Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)
+ vs. Angela Lee (10-2-0)\nCo-Main Event: Demetrious Johnson vs. Rodtang J
+ itmuangnon\nMain Card: Adriano Moraes (19-3-0) vs. Yuya Wakamatsu (15-4-
+ 0)\nMain Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)\nMain
+  Card: Eduard Folayang vs. Wayne Parr\nMain Card: Chingiz Allazov vs. S.
+  Sitsongpeenong\nMain Card: Superbon Banchamek vs. Marat Grigorian\nMain
+  Card: Capitan Petchyindee vs. Hiroki Akimoto\nMain Card: Reinier de Rid
+ der vs. Andre Galvao\nMain Card: Seo Hee Ham (24-8-0) vs. Denice Zamboan
+ ga (8-1-0)\nMain Card: Itsuki Hirata (5-0-0) vs. Jihin Radzuan (7-2-0)\n
+ Main Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov\nMain Card: Nieky 
+ Holzken vs. Islam Murtazaev\nMain Card: Jeremy Miado (10-4-0) vs. Lito A
+ diwang (13-4-0)\nMain Card: Shoko Sato (32-14-2) vs. Yusup Saadulaev (20
+ -6-1)\nMain Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)\nMain 
+ Card: Mei Yamaguchi vs. Danielle Kelly\nMain Card: Ryuto Sawada (14-7-1)
+  vs. Senzo Ikeda (13-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-enfusion-talents-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 88
@@ -79,7 +105,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-one-man-series-next-level@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series – Next Level
@@ -90,7 +116,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/one
  -man-series-next-level/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-enfusion-105@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 105
@@ -100,7 +126,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-04-one-championship-reloaded@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Reloaded
@@ -112,7 +138,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Arian Sadiković
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -123,7 +149,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
  come-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-04-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -133,7 +159,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-04-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106

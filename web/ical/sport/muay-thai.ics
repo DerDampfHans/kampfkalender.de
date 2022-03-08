@@ -4,26 +4,31 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220307T142607Z
-X-KAMPFKALENDER-HASH:b94fc2a07970d1bbbd91cd6a632f898f17043237
+DTSTAMP:20220308T112517Z
+X-KAMPFKALENDER-HASH:cc003c3b9c47a8d00467cf1029c7ef1e98fa99ab
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
-DTSTART:20220311T133000Z
-DTEND:20220311T163000Z
-CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/85970-one-championship\nhttp://www.sherdog.com/events/one-champions
- hip-lights-out-91597\nhttps://events.mixedmartialarts.com/one-championsh
- ip:f5b74d79-83cb-4576-9929-d505b423b4a8\n\n---\n\nMain Event: Thanh Le (
- 12-2-0) vs. Garry Tonon (6-0-0)\nCo-Main Event: Bibiano Fernandes (24-4-
- 0) vs. John Lineker (34-9-0)\nMain Card: Prajanchai PK Saenchai vs. Jose
- ph Lasiri
+DTSTART:20220311T110000Z
+DTEND:20220311T140000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=iPEQN8XD9_Q\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/85970-one-championship
+ \nhttp://www.sherdog.com/events/one-championship-lights-out-91597\nhttps
+ ://events.mixedmartialarts.com/one-championship:f5b74d79-83cb-4576-9929-
+ d505b423b4a8\n\n---\n\nMain Event: Thanh Le (12-2-0) vs. Garry Tonon (6-
+ 0-0)\nCo-Main Event: Bibiano Fernandes (24-4-0) vs. John Lineker (34-9-0
+ )\nMain Card: Martin Nguyen (13-5-0) vs. Kiril Gorobets (11-1-0)\nMain C
+ ard: Ismael Londt vs. Iraj Azizpour\nMain Card: Alex Silva (11-6-0) vs. 
+ Adrian Mattheis (9-5-0)\nMain Card: Josh Tonna vs. Peimian Zhang\nPrelim
+ : Eko Roni Saputra (5-1-0) vs. Chan Rothana (7-4-0)\nPrelim: Iman Barlow
+  vs. Daniela López\nPrelim: Liam Nolan vs. Kim Kyung Lock\nPrelim: Heqi
+ n Lin vs. Milagros Lopez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220308T112517Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -32,14 +37,19 @@ DTEND:20220326T153000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/85971-one-championship\n\n---\n\nMain Event: Stamp Fairtex (8-1-0) 
- vs. Angela Lee (10-2-0)\nCo-Main Event: Adriano Moraes (19-3-0) vs. Yuya
-  Wakamatsu (15-4-0)\nMain Card: Demetrious Johnson vs. Rodtang Jitmuangn
- on\nMain Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)\nMain C
- ard: Nieky Holzken vs. Islam Murtazaev\nMain Card: Chingiz Allazov vs. S
- . Sitsongpeenong\nMain Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov\
- nMain Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)\nMain Card: 
- Jeremy Miado (10-4-0) vs. Lito Adiwang (13-4-0)\nMain Card: Capitan Petc
- hyindee vs. Hiroki Akimoto\nMain Card: Eduard Folayang vs. Wayne Parr\nM
- ain Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)
+ vs. Angela Lee (10-2-0)\nCo-Main Event: Demetrious Johnson vs. Rodtang J
+ itmuangnon\nMain Card: Adriano Moraes (19-3-0) vs. Yuya Wakamatsu (15-4-
+ 0)\nMain Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)\nMain
+  Card: Eduard Folayang vs. Wayne Parr\nMain Card: Chingiz Allazov vs. S.
+  Sitsongpeenong\nMain Card: Superbon Banchamek vs. Marat Grigorian\nMain
+  Card: Capitan Petchyindee vs. Hiroki Akimoto\nMain Card: Reinier de Rid
+ der vs. Andre Galvao\nMain Card: Seo Hee Ham (24-8-0) vs. Denice Zamboan
+ ga (8-1-0)\nMain Card: Itsuki Hirata (5-0-0) vs. Jihin Radzuan (7-2-0)\n
+ Main Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov\nMain Card: Nieky 
+ Holzken vs. Islam Murtazaev\nMain Card: Jeremy Miado (10-4-0) vs. Lito A
+ diwang (13-4-0)\nMain Card: Shoko Sato (32-14-2) vs. Yusup Saadulaev (20
+ -6-1)\nMain Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)\nMain 
+ Card: Mei Yamaguchi vs. Danielle Kelly\nMain Card: Ryuto Sawada (14-7-1)
+  vs. Senzo Ikeda (13-6-1)
 END:VEVENT
 END:VCALENDAR

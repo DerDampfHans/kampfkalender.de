@@ -1,9 +1,40 @@
 [
   {
+    "id": "one-2022-03-10",
+    "promo": true,
+    "promotion": "ONE",
+    "tags": [
+      "#ONELightsOut"
+    ],
+    "mainCard": {
+      "title": "ONE Championship: Lights Out (Weigh-In)",
+      "time": "2022-03-10T05:00:00Z",
+      "until": "2022-03-10T06:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=jNYlmBVMF_E",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "jNYlmBVMF_E",
+        "time": "2022-03-10T05:00:00Z",
+        "title": "🔴 [Live In HD] ONE: LIGHTS OUT Weigh-Ins & Hydration Test",
+        "url": "https://www.youtube.com/watch?v=jNYlmBVMF_E",
+        "live": true,
+        "tags": [
+          "#ONEFullCircle",
+          "#ONEChampionship"
+        ]
+      }
+    }
+  },
+  {
     "id": "tapology-85970",
     "promotion": "ONE",
     "sports": [
       "MMA",
+      "KICKBOXING",
       "MUAY_THAI"
     ],
     "tags": [
@@ -11,27 +42,47 @@
     ],
     "mainCard": {
       "title": "ONE Championship: Lights Out",
-      "time": "2022-03-11T13:30:00Z",
+      "time": "2022-03-11T11:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=iPEQN8XD9_Q",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "iPEQN8XD9_Q",
+        "time": "2022-03-11T11:00:00Z",
+        "title": "🔴 [Live In HD] ONE: LIGHTS OUT",
+        "url": "https://www.youtube.com/watch?v=iPEQN8XD9_Q",
+        "live": true,
+        "tags": [
+          "#ONEFullCircle",
+          "#ONEChampionship"
+        ]
       }
     },
     "tapology": {
       "id": 85970,
       "time": "2022-03-11T13:30:00Z",
       "title": "ONE Championship: Lights Out",
-      "info": "Confirmed Upcoming MMA & Muay Thai Event",
+      "info": "Confirmed Upcoming MMA, Kickboxing, & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/85970-one-championship",
       "sports": [
         "MMA",
+        "KICKBOXING",
         "MUAY_THAI"
       ],
       "card": [
         "Main Event: Thanh Le (12-2-0) vs. Garry Tonon (6-0-0)",
         "Co-Main Event: Bibiano Fernandes (24-4-0) vs. John Lineker (34-9-0)",
-        "Main Card: Prajanchai PK Saenchai vs. Joseph Lasiri"
+        "Main Card: Martin Nguyen (13-5-0) vs. Kiril Gorobets (11-1-0)",
+        "Main Card: Ismael Londt vs. Iraj Azizpour",
+        "Main Card: Alex Silva (11-6-0) vs. Adrian Mattheis (9-5-0)",
+        "Main Card: Josh Tonna vs. Peimian Zhang",
+        "Prelim: Eko Roni Saputra (5-1-0) vs. Chan Rothana (7-4-0)",
+        "Prelim: Iman Barlow vs. Daniela López",
+        "Prelim: Liam Nolan vs. Kim Kyung Lock",
+        "Prelim: Heqin Lin vs. Milagros Lopez"
       ],
       "links": [
         "http://www.sherdog.com/events/one-championship-lights-out-91597",
@@ -63,26 +114,27 @@
       "id": 85971,
       "time": "2022-03-26T12:30:00Z",
       "title": "ONE Championship: One X",
-      "info": "Confirmed Upcoming MMA, Kickboxing, & Muay Thai Event",
+      "info": "Confirmed Upcoming Mixed Combat Sports Event",
       "url": "https://www.tapology.com/fightcenter/events/85971-one-championship",
-      "sports": [
-        "MMA",
-        "KICKBOXING",
-        "MUAY_THAI"
-      ],
       "card": [
         "Main Event: Stamp Fairtex (8-1-0) vs. Angela Lee (10-2-0)",
-        "Co-Main Event: Adriano Moraes (19-3-0) vs. Yuya Wakamatsu (15-4-0)",
-        "Main Card: Demetrious Johnson vs. Rodtang Jitmuangnon",
-        "Main Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)",
-        "Main Card: Nieky Holzken vs. Islam Murtazaev",
-        "Main Card: Chingiz Allazov vs. S. Sitsongpeenong",
-        "Main Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov",
-        "Main Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)",
-        "Main Card: Jeremy Miado (10-4-0) vs. Lito Adiwang (13-4-0)",
-        "Main Card: Capitan Petchyindee vs. Hiroki Akimoto",
+        "Co-Main Event: Demetrious Johnson vs. Rodtang Jitmuangnon",
+        "Main Card: Adriano Moraes (19-3-0) vs. Yuya Wakamatsu (15-4-0)",
+        "Main Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)",
         "Main Card: Eduard Folayang vs. Wayne Parr",
-        "Main Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)"
+        "Main Card: Chingiz Allazov vs. S. Sitsongpeenong",
+        "Main Card: Superbon Banchamek vs. Marat Grigorian",
+        "Main Card: Capitan Petchyindee vs. Hiroki Akimoto",
+        "Main Card: Reinier de Ridder vs. Andre Galvao",
+        "Main Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)",
+        "Main Card: Itsuki Hirata (5-0-0) vs. Jihin Radzuan (7-2-0)",
+        "Main Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov",
+        "Main Card: Nieky Holzken vs. Islam Murtazaev",
+        "Main Card: Jeremy Miado (10-4-0) vs. Lito Adiwang (13-4-0)",
+        "Main Card: Shoko Sato (32-14-2) vs. Yusup Saadulaev (20-6-1)",
+        "Main Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)",
+        "Main Card: Mei Yamaguchi vs. Danielle Kelly",
+        "Main Card: Ryuto Sawada (14-7-1) vs. Senzo Ikeda (13-6-1)"
       ]
     }
   },
