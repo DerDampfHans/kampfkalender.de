@@ -11,6 +11,9 @@
     "mainCard": {
       "title": "UFC Vegas 50: Santos vs. Ankalaev",
       "time": "2022-03-13T00:00:00Z",
+      "tags": [
+        "🎙@SweepTheLeg1983"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -27,7 +30,8 @@
         "time": "2022-03-13T00:00:00Z",
         "title": "UFC Fight Night: Santos vs Ankalaev (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Las Vegas empfängt die MMA-Welt zu einer Fight Night. Hauptkampf zwischen den Light Heavyweights Thiago Santos aus Brasilien und Magomed Ankalaev aus Russland. // Kommentator: Elias Stefanescu"
       }
     },
     "prelims": {
@@ -417,7 +421,8 @@
         "Prelim: Dean Barry (4-1-0) vs. Mike Jackson (0-1-0)",
         "Prelim: Maycee Barber (9-2-0) vs. Montana De La Rosa (12-6-1)",
         "Prelim: Tyson Pedro (7-3-0) vs. Ike Villanueva (18-13-0)",
-        "Prelim: Dwight Grant (11-4-0) vs. Sergey Khandozhko (27-6-1)"
+        "Prelim: Dwight Grant (11-4-0) vs. Sergey Khandozhko (27-6-1)",
+        "Prelim: Damir Hadžović (14-6-0) vs. Steve Garcia (12-4-0)"
       ]
     }
   },
@@ -502,9 +507,15 @@
     },
     "earlyPrelims": {
       "title": "UFC 274: Early Prelims",
+      "time": "2022-05-07T22:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 214365,
+        "time": "2022-05-07T22:00:00Z",
+        "title": "UFC 274: Fight Pass Prelims"
       }
     },
     "tapology": {
@@ -653,7 +664,7 @@
         "Prelim: Poliana Botelho (8-4-0) vs. Karine Silva (14-4-0)",
         "Prelim: Jeff Molina (10-2-0) vs. Zhalgas Zhumagulov (14-6-0)",
         "Prelim: Ode Osbourne (10-4-0) vs. Zarrukh Adashev (4-3-0)",
-        "Prelim: Cynthia Calvillo (9-4-1) vs. Brianna van Buren (9-3-0)"
+        "Prelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)"
       ]
     }
   },
@@ -701,7 +712,8 @@
       ],
       "card": [
         "Main Event: Glover Teixeira (33-7-0) vs. Jiří Procházka (28-3-1)",
-        "Co-Main Event: Valentina Shevchenko (22-3-0) vs. Taila Santos (19-1-0)"
+        "Co-Main Event: Valentina Shevchenko (22-3-0) vs. Taila Santos (19-1-0)",
+        "Prelim: Silvana Gómez Juárez (10-4-0) vs. Na Liang (15-5-0)"
       ]
     }
   }

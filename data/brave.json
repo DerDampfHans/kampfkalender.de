@@ -1,5 +1,30 @@
 [
   {
+    "id": "tapology-87492",
+    "promotion": "BRAVE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "MMA SuperCup: Semi-Finals",
+      "time": "2022-03-10T12:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 87492,
+      "time": "2022-03-10T12:00:00Z",
+      "title": "MMA SuperCup: Semi-Finals",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/87492-mma-supercup-semi-finals"
+    }
+  },
+  {
     "id": "tapology-85909",
     "promotion": "BRAVE",
     "sports": [
@@ -11,6 +36,7 @@
     "mainCard": {
       "title": "BRAVE CF 57",
       "time": "2022-03-11T14:30:00Z",
+      "until": "2022-03-11T18:30:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=wVfg7f-LnAw"
@@ -57,6 +83,59 @@
       "links": [
         "http://www.sherdog.com/events/brave-cf-57-brave-combat-federation-57-91766"
       ]
+    },
+    "fightEvents": {
+      "id": "brave-57",
+      "time": "2022-03-11T14:30:00Z",
+      "until": "2022-03-11T18:30:00Z",
+      "title": "Brave 57",
+      "url": "https://www.fightevents.de/event/brave-57/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Abdisalam Uulu Kubanychbek",
+        "Amin Ayoub",
+        "Brad Katona",
+        "Brave 57",
+        "Brave CF",
+        "Brave Combat Federation",
+        "Hamza Kooheji",
+        "Luis Felipe Dias",
+        "MMA",
+        "Mohamed Said Maalem",
+        "Mohammad Fakhreddine",
+        "Nursulton Ruziboev"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "International",
+        "Livestream",
+        "MMA"
+      ]
+    }
+  },
+  {
+    "id": "tapology-87494",
+    "promotion": "BRAVE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "MMA SuperCup: Final",
+      "time": "2022-03-12T12:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 87494,
+      "time": "2022-03-12T12:00:00Z",
+      "title": "MMA SuperCup: Final",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/87494-mma-supercup-final"
     }
   }
 ]
