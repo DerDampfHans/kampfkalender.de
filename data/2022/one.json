@@ -239,5 +239,35 @@
         "http://www.mixedmartialarts.com/events/one-championship:37143058-69e2-488a-9cd3-a68bd4765d7e"
       ]
     }
+  },
+  {
+    "id": "one-2022-03-10",
+    "promo": true,
+    "promotion": "ONE",
+    "tags": [
+      "#ONELightsOut"
+    ],
+    "mainCard": {
+      "title": "ONE Championship: Lights Out (Weigh-In)",
+      "time": "2022-03-10T05:00:00Z",
+      "until": "2022-03-10T06:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=jNYlmBVMF_E",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "jNYlmBVMF_E",
+        "time": "2022-03-10T05:00:00Z",
+        "title": "🔴 [Live In HD] ONE: LIGHTS OUT Weigh-Ins & Hydration Test",
+        "url": "https://www.youtube.com/watch?v=jNYlmBVMF_E",
+        "live": true,
+        "tags": [
+          "#ONEFullCircle",
+          "#ONEChampionship"
+        ]
+      }
+    }
   }
 ]

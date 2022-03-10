@@ -81,13 +81,41 @@
     }
   },
   {
+    "id": "ajp-grappling-2022-04-16-2",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "AJP Tour Sofia",
+      "time": "2022-04-16T12:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ajp-tour-sofia-int-pro-gi-april/2payw/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2payw",
+        "time": "2022-04-16T12:00:00Z",
+        "title": "AJP Tour Sofia International Pro - Gi, April 16th",
+        "url": "https://www.fite.tv/watch/ajp-tour-sofia-int-pro-gi-april/2payw/",
+        "price": "FREE",
+        "sports": [
+          "GRAPPLING",
+          "MMA"
+        ]
+      }
+    }
+  },
+  {
     "id": "ajp-grappling-2022-04-16",
     "promotion": "_OTHER",
     "sports": [
       "GRAPPLING"
     ],
     "mainCard": {
-      "title": "AJP: International Pro - Gi",
+      "title": "AJP Tour Orlando",
       "time": "2022-04-16T19:00:00Z",
       "broadcasters": {
         "FITE_TV": {
@@ -162,6 +190,27 @@
         "MMA",
         "National"
       ]
+    }
+  },
+  {
+    "id": "road-to-one-2022-05-12",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Utrecht",
+      "#RoadToONE"
+    ],
+    "mainCard": {
+      "title": "Road to ONE",
+      "time": "2022-05-12T15:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-1mma-road-to-one-425",
+          "freeAfter": 48
+        }
+      }
     }
   }
 ]

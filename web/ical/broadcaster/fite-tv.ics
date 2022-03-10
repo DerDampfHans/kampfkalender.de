@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220309T125817Z
-X-KAMPFKALENDER-HASH:506bd989cbd23413d3183fa4ba6d7ab80a911c7c
+DTSTAMP:20220310T191658Z
+X-KAMPFKALENDER-HASH:362a9c8c535bf142b1693231a257c6f3043058f6
 BEGIN:VEVENT
-DTSTAMP:20220309T125818Z
+DTSTAMP:20220310T191659Z
 UID:2022-03-knyba-vs-knife@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Knyba vs. Knife
@@ -19,7 +19,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rbk-boxing-night-2/2pa
  -knife
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T125818Z
+DTSTAMP:20220310T191659Z
 UID:2022-03-pound-for-pound-the-beatdown@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pound for Pound: The Beatdown
@@ -30,7 +30,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pound-for-pound-the-be
  atdown/2paxa/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T125818Z
+DTSTAMP:20220310T191659Z
 UID:2022-03-ramirez-vs-pedraza@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ramirez vs. Pedraza
@@ -49,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-ra
  ohnny Bernal\nPrelim: Antonio Mireles vs. Brandon Hughes
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T125818Z
+DTSTAMP:20220310T191659Z
 UID:2022-03-bkfc-new-york-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: New York 2
@@ -69,7 +69,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-new-y
  Card: Lardy Navarro vs. Anthony Prater
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T125818Z
+DTSTAMP:20220310T191659Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -80,10 +80,21 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T125818Z
-UID:2022-04-ajp-international-pro-gi@kampfkalender.de
+DTSTAMP:20220310T191659Z
+UID:2022-04-ajp-tour-sofia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:AJP: International Pro - Gi
+SUMMARY:AJP Tour Sofia
+DTSTART:20220416T120000Z
+DTEND:20220416T150000Z
+CATEGORIES:Other,Grappling,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
+ -gi-april/2payw/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T191659Z
+UID:2022-04-ajp-tour-orlando@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AJP Tour Orlando
 DTSTART:20220416T190000Z
 DTEND:20220416T220000Z
 CATEGORIES:Other,Grappling,fite.tv,live,kostenlos

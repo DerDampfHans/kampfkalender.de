@@ -4,15 +4,28 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220305T224608Z
-X-KAMPFKALENDER-HASH:6d7cae8ec6675e3390fada61add4267e41f72248
+DTSTAMP:20220310T191658Z
+X-KAMPFKALENDER-HASH:f782a04ee0746f0a84116dab7ed6ecd2973c21d0
 BEGIN:VEVENT
-DTSTAMP:20220305T224609Z
+DTSTAMP:20220310T191659Z
+UID:2022-03-oktagon-prime-5-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON Prime 5: Prelims
+DTSTART:20220326T170000Z
+DTEND:20220326T190000Z
+CATEGORIES:Oktagon,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=nmUzsqlfuc4\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/85466-oktagon-prim
+ e-5\n\n---\n\nMain Card: Rafael Xavier (10-6-0) vs. Miloš Petrášek (12-6
+ -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T191659Z
 UID:2022-03-oktagon-prime-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON Prime 5
-DTSTART:20220326T160000Z
-DTEND:20220326T190000Z
+DTSTART:20220326T190000Z
+DTEND:20220326T220000Z
 CATEGORIES:Oktagon,MMA,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/85466-oktagon-prime-5\n\n---\n\nMain Card: Rafael Xavier (10-6-0

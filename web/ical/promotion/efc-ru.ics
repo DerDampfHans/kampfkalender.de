@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220307T142607Z
-X-KAMPFKALENDER-HASH:bcb5f60586d448bf9aa448b2bb5eedcea17be2fb
+DTSTAMP:20220310T191658Z
+X-KAMPFKALENDER-HASH:236fb6468458a56d14c0d326223f56b9dfb7a45a
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220310T191659Z
 UID:2022-03-eagle-fc-46-lee-vs-sanchez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 46: Lee vs. Sanchez
@@ -31,7 +31,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  elim: Manny Walo (14-4-1) vs. Ryder Newman (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220310T191659Z
 UID:2022-04-eagle-fc-47-odilov-vs-shlemenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 47: Odilov vs. Shlemenko
@@ -43,5 +43,18 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Odilov (14-2-2) vs. Dauren Ermekov (16-5-0)\nCo-Main Event: Renat Khava
  lov (5-0-0) vs. Ramazan Amaev (7-0-0)\nMain Card: A. Alimagomedov (11-1-
  0) vs. Khamzat Sakalov (9-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220310T191659Z
+UID:2022-05-eagle-fc-48-dos-santos-vs-de-castro@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eagle FC 48: Dos Santos vs. De Castro
+DTSTART:20220520T220000Z
+DTEND:20220521T010000Z
+CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
+DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87539-eagle-fc-48-dos-santos-vs-castro\n\n---\n\nMain Event: Yorgan
+  De Castro (8-3-0) vs. Junior dos Santos (21-9-0)\nCo-Main Event: Hector
+  Lombard (34-10-1) vs. Thiago Silva (21-9-0)
 END:VEVENT
 END:VCALENDAR
