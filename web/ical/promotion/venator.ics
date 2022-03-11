@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:340e93b72ad9b83e3baf03ee783402d523b62f6c
+DTSTAMP:20220311T182010Z
+X-KAMPFKALENDER-HASH:ec4534cfdce5fc9e987eb82417845be4c298de3e
 BEGIN:VEVENT
-DTSTAMP:20220302T125915Z
+DTSTAMP:20220311T182011Z
 UID:2022-03-venator-fc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Venator FC 10
@@ -27,5 +27,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (0-1-0) vs. Christian Tosco (0-0-0)\nPrelim: Andrei Oniscenco (0-0-0) v
  s. Samir Sadiku (0-0-0)\nPrelim: Mario Mingaj (1-0-0) vs. Munir Fandi (0
  -0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220311T182011Z
+UID:2022-05-venator-fc-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Venator FC 11
+DTSTART:20220514T150000Z
+DTEND:20220514T180000Z
+CATEGORIES:Venator,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87579-venator-fc-11
 END:VEVENT
 END:VCALENDAR

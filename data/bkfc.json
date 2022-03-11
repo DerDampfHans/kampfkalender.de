@@ -9,7 +9,7 @@
       "#BKFCNewYork2"
     ],
     "mainCard": {
-      "title": "BKFC: New York 2",
+      "title": "BKFC New York 2",
       "time": "2022-03-13T02:00:00Z",
       "broadcasters": {
         "FITE_TV": {
@@ -22,6 +22,28 @@
         "title": "BKFC Fight Night New York II: Jarod Grant vs Anthony Retic",
         "url": "https://www.fite.tv/watch/bkfc-fight-night-new-york-ii/2payl/",
         "price": "$14.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC New York 2: Prelims",
+      "time": "2022-03-13T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-fn-new-york-ii-prelims/2pazt/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pazt",
+        "time": "2022-03-13T01:00:00Z",
+        "title": "BKFC Fight Night New York II: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-fn-new-york-ii-prelims/2pazt/",
+        "price": "FREE",
         "sports": [
           "BARE_KNUCKLE",
           "BOXING",

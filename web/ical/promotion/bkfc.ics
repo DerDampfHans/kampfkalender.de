@@ -4,13 +4,33 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220311T062424Z
-X-KAMPFKALENDER-HASH:50600c004aa6514f0e7b4878014d19ca7eccfb1f
+DTSTAMP:20220311T182010Z
+X-KAMPFKALENDER-HASH:f4d2eae22d62745fe84271fc73bdbdfc8869086f
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182011Z
+UID:2022-03-bkfc-new-york-2-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC New York 2: Prelims
+DTSTART:20220313T010000Z
+DTEND:20220313T020000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-new-york-ii-pr
+ elims/2pazt/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/87072
+ -bkfc-fight-night-new-york-2\nhttps://events.mixedmartialarts.com/bkfc-f
+ ight-night:ec2073df-ce47-4dab-97dd-518752659a7a\n\n---\n\nMain Event: Ja
+ rod Grant vs. Johnny Bedford\nCo-Main Event: Jim Alers vs. Connor Tierne
+ y\nMain Card: Eddie Hoch vs. Dustin Pague\nMain Card: Matt Phillips vs. 
+ Manuel Moreira\nMain Card: Gabe Saccheti vs. Jack Grady\nMain Card: Zach
+ ary Calmus vs. Kyle McElroy\nMain Card: Charisa Sigala vs. Angela Danzig
+ \nMain Card: Devin Gibson vs. Kody Allen Murray\nMain Card: Christian To
+ rres vs. Stanislav Grosu\nMain Card: Art Driscoll vs. Damon Bell\nMain C
+ ard: Lardy Navarro vs. Anthony Prater
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220311T182011Z
 UID:2022-03-bkfc-new-york-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC: New York 2
+SUMMARY:BKFC New York 2
 DTSTART:20220313T020000Z
 DTEND:20220313T050000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live

@@ -4,20 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220311T062424Z
-X-KAMPFKALENDER-HASH:7399e049f4c88d419cd1b723b23411f3c33dd9f6
+DTSTAMP:20220311T182010Z
+X-KAMPFKALENDER-HASH:0af47ad3a8db92c2e75e136dbbaab020eb6f0bc6
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
-UID:2022-03-ufc-272-live-weigh-in-show@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC 272: Live Weigh-In Show
-DTSTART:20220304T165000Z
-DTEND:20220304T175000Z
-CATEGORIES:UFC,YouTube,PR,live,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=oBdVrJNGnnM
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-ufc-272-ceremonial-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 272: Ceremonial Weigh-In
@@ -27,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=A_6Q1ql-IJA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-ufc-272-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 272: Post-Fight Press Conference
@@ -37,7 +27,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ajUvVO_RSFU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-schlagwort-podcast-153@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 153
@@ -47,7 +37,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=8_fpRb-TiAc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-ufc-272-colby-covington-dominiert-jorge-masvidal@kampfkalende
  r.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -58,7 +48,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Wk3rmws093s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-ufc-272-aktuelle-mma-news-und-das-drama-um-cain-velasquez@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -69,7 +59,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GqIZIBLI4xI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-invicta-fc-46-rodriguez-vs-torquato-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 46: Rodríguez vs. Torquato 2
@@ -88,7 +78,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4gBeMGoz9m8\n\n-
  dos (4-4-0) vs. Monique Adriane (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-one-championship-lights-out-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out (Weigh-In)
@@ -98,7 +88,7 @@ CATEGORIES:ONE,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=jNYlmBVMF_E
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-one-championship-lights-out@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Lights Out
@@ -119,7 +109,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=iPEQN8XD9_Q\n\n-
  n Lin vs. Milagros Lopez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-ksw-26-materla-vs-silva-3-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 26: Materla vs. Silva 3 (Re-Live)
@@ -134,7 +124,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Z0xI95ue-7A\n\n-
  1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-bellator-276-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 276: Prelims
@@ -158,7 +148,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=A_ZCzjBpods\n\n-
  gustine (5-2-0) vs. Josh Weston (8-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-bellator-276-borics-vs-burnell@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 276: Borics vs. Burnell
@@ -182,17 +172,17 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=O0IdHgDfqw0\n\n-
  gustine (5-2-0) vs. Josh Weston (8-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-schlagwort-podcast-154@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 154
 DTSTART:20220313T170000Z
 DTEND:20220313T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aW9ZdRL-jpo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-03-one-championship-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: One X
@@ -217,7 +207,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Senzo Ikeda (13-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-04-one-championship-reloaded@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Championship: Reloaded
@@ -229,7 +219,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Arian Sadiković
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-05-bellator-280-bader-vs-kongo-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Bader vs. Kongo 2
@@ -248,7 +238,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   (7-8-0)\nPrelim: Lucie Bertaud (3-3-0) vs. Katarzyna Sadura (5-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220311T182012Z
 UID:2022-05-bellator-281-amosov-vs-mvp@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281: Amosov vs. MVP

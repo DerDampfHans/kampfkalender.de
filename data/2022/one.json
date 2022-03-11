@@ -269,5 +269,66 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-85970",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#ONELightsOut"
+    ],
+    "mainCard": {
+      "title": "ONE Championship: Lights Out",
+      "time": "2022-03-11T11:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=iPEQN8XD9_Q",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "iPEQN8XD9_Q",
+        "time": "2022-03-11T11:00:00Z",
+        "title": "🔴 [Live In HD] ONE: LIGHTS OUT",
+        "url": "https://www.youtube.com/watch?v=iPEQN8XD9_Q",
+        "live": true,
+        "tags": [
+          "#ONEFullCircle",
+          "#ONEChampionship"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 85970,
+      "time": "2022-03-11T11:00:00Z",
+      "title": "ONE Championship: Lights Out",
+      "info": "Confirmed Upcoming MMA, Kickboxing, & Muay Thai Event",
+      "url": "https://www.tapology.com/fightcenter/events/85970-one-championship",
+      "sports": [
+        "MMA",
+        "KICKBOXING",
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Event: Thanh Le (12-2-0) vs. Garry Tonon (6-0-0)",
+        "Co-Main Event: Bibiano Fernandes (24-4-0) vs. John Lineker (34-9-0)",
+        "Main Card: Martin Nguyen (13-5-0) vs. Kiril Gorobets (11-1-0)",
+        "Main Card: Ismael Londt vs. Iraj Azizpour",
+        "Main Card: Alex Silva (11-6-0) vs. Adrian Mattheis (9-5-0)",
+        "Main Card: Josh Tonna vs. Peimian Zhang",
+        "Prelim: Eko Roni Saputra (5-1-0) vs. Chan Rothana (7-4-0)",
+        "Prelim: Iman Barlow vs. Daniela López",
+        "Prelim: Liam Nolan vs. Kim Kyung Lock",
+        "Prelim: Heqin Lin vs. Milagros Lopez"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/one-championship-lights-out-91597",
+        "https://events.mixedmartialarts.com/one-championship:f5b74d79-83cb-4576-9929-d505b423b4a8"
+      ]
+    }
   }
 ]
