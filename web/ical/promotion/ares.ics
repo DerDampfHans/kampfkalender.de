@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220307T142607Z
-X-KAMPFKALENDER-HASH:f7417f1543ffd8684c8568bd859a53c60c9affae
+DTSTAMP:20220311T062424Z
+X-KAMPFKALENDER-HASH:1a11cf27143d9303dc734ba431559dffc2a0299d
 BEGIN:VEVENT
-DTSTAMP:20220307T142608Z
+DTSTAMP:20220311T062425Z
 UID:2022-03-ares-fc-4-kruschewsky-vs-lapilus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ARES FC 4: Kruschewsky vs. Lapilus
@@ -28,5 +28,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  rwin Luna Ortez (7-4-0) vs. David Tonatiuh Crol (8-7-0)\nPrelim: Oscar F
  onseca (2-0-0) vs. Temerlan Azizov (2-0-0)\nPrelim: Shakhbulat Abuev (2-
  0-0) vs. Ammari Diedrick (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220311T062425Z
+UID:2022-04-ares-fc-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ares FC 5
+DTSTART:20220416T160000Z
+DTEND:20220416T190000Z
+CATEGORIES:ARES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87569-ares-fc-5
 END:VEVENT
 END:VCALENDAR

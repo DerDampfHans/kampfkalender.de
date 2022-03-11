@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220310T191658Z
-X-KAMPFKALENDER-HASH:8d3a90b54dd8b4ac465600527cec8d53600413be
+DTSTAMP:20220311T062424Z
+X-KAMPFKALENDER-HASH:af51cefe25604e884aaec01f0024789519d1a275
 BEGIN:VEVENT
-DTSTAMP:20220310T191658Z
+DTSTAMP:20220311T062425Z
 UID:2022-03-schlagwort-podcast-153@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 153
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=8_fpRb-TiAc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T191658Z
+DTSTAMP:20220311T062425Z
 UID:2022-03-ufc-272-colby-covington-dominiert-jorge-masvidal@kampfkalende
  r.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,7 +28,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Wk3rmws093s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T191658Z
+DTSTAMP:20220311T062425Z
 UID:2022-03-ufc-272-aktuelle-mma-news-und-das-drama-um-cain-velasquez@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -37,5 +37,15 @@ DTSTART:20220309T160000Z
 DTEND:20220309T172500Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GqIZIBLI4xI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220311T062425Z
+UID:2022-03-schlagwort-podcast-154@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast 154
+DTSTART:20220313T170000Z
+DTEND:20220313T190000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR
