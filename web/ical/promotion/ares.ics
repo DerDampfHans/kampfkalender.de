@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220311T062424Z
-X-KAMPFKALENDER-HASH:1a11cf27143d9303dc734ba431559dffc2a0299d
+DTSTAMP:20220312T115405Z
+X-KAMPFKALENDER-HASH:107283814fd534b13e9f610532f21ce5baa1cbd2
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220312T115405Z
 UID:2022-03-ares-fc-4-kruschewsky-vs-lapilus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ARES FC 4: Kruschewsky vs. Lapilus
@@ -30,7 +30,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0-0) vs. Ammari Diedrick (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T062425Z
+DTSTAMP:20220312T115405Z
 UID:2022-04-ares-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 5
@@ -39,5 +39,28 @@ DTEND:20220416T190000Z
 CATEGORIES:ARES,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/87569-ares-fc-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220312T115405Z
+UID:2022-05-ares-fc-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ares FC 6
+DTSTART:20220520T160000Z
+DTEND:20220520T190000Z
+CATEGORIES:ARES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87593-ares-fc-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220312T115405Z
+UID:2022-06-ares-fc-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ares FC 7
+DTSTART:20220625T160000Z
+DTEND:20220625T190000Z
+CATEGORIES:ARES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87594-ares-fc-7\n\n---\n\nMain Event: Abdoul Abdouraguimov (
+ 14-1-0) vs. Karl Amoussou (27-9-2)
 END:VEVENT
 END:VCALENDAR
