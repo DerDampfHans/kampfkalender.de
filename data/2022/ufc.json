@@ -961,5 +961,117 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-84364",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFCVegas50"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 50: Santos vs. Ankalaev",
+      "time": "2022-03-13T00:00:00Z",
+      "tags": [
+        "🎙@SweepTheLeg1983"
+      ],
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213405,
+        "time": "2022-03-13T00:00:00Z",
+        "title": "UFC Fight Night: Santos vs Ankalaev"
+      },
+      "dazn": {
+        "id": "122oka1ah9b141d02jsm8aqrxy",
+        "time": "2022-03-13T00:00:00Z",
+        "title": "UFC Fight Night: Santos vs Ankalaev (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Las Vegas empfängt die MMA-Welt zu einer Fight Night. Hauptkampf zwischen den Light Heavyweights Thiago Santos aus Brasilien und Magomed Ankalaev aus Russland. // Kommentator: Elias Stefanescu"
+      }
+    },
+    "prelims": {
+      "title": "UFC Vegas 50: Prelims",
+      "time": "2022-03-12T21:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213404,
+        "time": "2022-03-12T21:00:00Z",
+        "title": "UFC Fight Night: Santos vs Ankalaev Prelims"
+      }
+    },
+    "tapology": {
+      "id": 84364,
+      "time": "2022-03-12T21:00:00Z",
+      "title": "UFC Fight Night: Santos vs. Ankalaev",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/84364-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Thiago Santos (22-9-0) vs. Magomed Ankalaev (16-1-0)",
+        "Co-Main Event: Marlon Moraes (23-9-1) vs. Yadong Song (18-6-1)",
+        "Main Card: Alex Caceres (19-12-0) vs. Sodiq Yusuff (11-2-0)",
+        "Main Card: Khalil Rountree (9-5-0) vs. Karl Roberson (9-4-0)",
+        "Main Card: Drew Dober (23-11-0) vs. Terrance McKinney (12-3-0)",
+        "Main Card: Bruno Silva (22-6-0) vs. Alex Pereira (4-1-0)",
+        "Prelim: Matt Semelsberger (9-3-0) vs. AJ Fletcher (9-0-0)",
+        "Prelim: JJ Aldrich (10-4-0) vs. Gillian Robertson (10-6-0)",
+        "Prelim: Trevin Jones (13-7-0) vs. Javid Basharat (11-0-0)",
+        "Prelim: Damon Jackson (19-4-1) vs. Kamuela Kirk (11-4-0)",
+        "Prelim: Sabina Mazo (9-3-0) vs. Miranda Maverick (9-4-0)",
+        "Prelim: Cody Brundage (6-2-0) vs. Dalcha Lungiambula (11-3-0)",
+        "Prelim: Guido Cannetti (8-6-0) vs. Kris Moutinho (9-5-0)",
+        "Prelim: Tafon Nchukwi (6-1-0) vs. Azamat Murzakanov (10-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-fight-night-203-santos-vs-ankalaev-91131",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Santos_vs._Ankalaev",
+        "https://events.mixedmartialarts.com/ufc-fight-night:f171a38e-e7d6-45a3-97b0-203f10571090",
+        "https://www.ufc.com/event/ufc-fight-night-march-12-2022",
+        "http://www.ufcstats.com/event-details/1f9344211ca7fd60",
+        "https://www.bestfightodds.com/events/ufc-2414"
+      ]
+    }
+  },
+  {
+    "id": "ufc-84KmrpDntOk",
+    "promo": true,
+    "promotion": "UFC",
+    "tags": [
+      "#UFC"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 50: Post-Fight Press Conference",
+      "time": "2022-03-13T03:15:00Z",
+      "until": "2022-03-13T04:15:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=84KmrpDntOk",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "84KmrpDntOk",
+        "time": "2022-03-13T03:15:00Z",
+        "title": "UFC Vegas 50: Post-Fight Press Conference",
+        "url": "https://www.youtube.com/watch?v=84KmrpDntOk",
+        "live": true,
+        "tags": [
+          "#UFC"
+        ]
+      }
+    }
   }
 ]
