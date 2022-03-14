@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220310T191658Z
-X-KAMPFKALENDER-HASH:d25a47276bc5d614e6bb5c429b3e02a193b4e0f9
+DTSTAMP:20220314T073252Z
+X-KAMPFKALENDER-HASH:4128950cc5b3d48e90d11837e525b1c9768f7d9d
 BEGIN:VEVENT
-DTSTAMP:20220310T191658Z
+DTSTAMP:20220314T073252Z
 UID:2022-03-ufc-272-colby-covington-dominiert-jorge-masvidal@kampfkalende
  r.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Wk3rmws093s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T191658Z
+DTSTAMP:20220314T073252Z
 UID:2022-03-ufc-272-aktuelle-mma-news-und-das-drama-um-cain-velasquez@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -27,5 +27,17 @@ DTSTART:20220309T160000Z
 DTEND:20220309T172500Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GqIZIBLI4xI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220314T073252Z
+UID:2022-03-magomed-ankalaev-besiegt-thiago-santos-war-es-das-fur-moraes-
+ review-zur-ufc-figh@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Magomed Ankalaev besiegt Thiago Santos / War es das für Moraes? -
+  Review zur UFC Figh
+DTSTART:20220314T160000Z
+DTEND:20220314T170000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=qfeDoRfZrjY
 END:VEVENT
 END:VCALENDAR

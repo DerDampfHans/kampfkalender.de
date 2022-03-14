@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220313T230304Z
-X-KAMPFKALENDER-HASH:3fd83b7221738ec3f443cd19db199201ec19a5c5
+DTSTAMP:20220314T073252Z
+X-KAMPFKALENDER-HASH:76f72450b1e329d9249a43971b2f4cd5286bf3ba
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220314T073252Z
 UID:2022-03-ufc-272-colby-covington-dominiert-jorge-masvidal@kampfkalende
  r.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Wk3rmws093s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220314T073252Z
 UID:2022-03-ufc-272-aktuelle-mma-news-und-das-drama-um-cain-velasquez@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GqIZIBLI4xI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220314T073252Z
 UID:2022-03-schlagwort-podcast-154@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 154
@@ -37,5 +37,17 @@ DTSTART:20220313T170000Z
 DTEND:20220313T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aW9ZdRL-jpo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220314T073252Z
+UID:2022-03-magomed-ankalaev-besiegt-thiago-santos-war-es-das-fur-moraes-
+ review-zur-ufc-figh@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Magomed Ankalaev besiegt Thiago Santos / War es das für Moraes? -
+  Review zur UFC Figh
+DTSTART:20220314T160000Z
+DTEND:20220314T170000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=qfeDoRfZrjY
 END:VEVENT
 END:VCALENDAR
