@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220313T230304Z
-X-KAMPFKALENDER-HASH:2579deac5c80b76c1bd76ee3179c2b74085b82e3
+DTSTAMP:20220316T091740Z
+X-KAMPFKALENDER-HASH:7f83d968fe908de75703643eb36a1e916042cf97
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-wood-vs-conlan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Conlan
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  relim: Thomas Whittaker Hart (5-0-0) vs. Ben Thomas (2-14-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-ufc-vegas-50-santos-vs-ankalaev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 50: Santos vs. Ankalaev
@@ -54,7 +54,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-edwards-vs-waseem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Edwards vs. Waseem
@@ -72,10 +72,10 @@ DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
  artos (6-2-0) vs. Bader Samreen (4-0-0)\nMain Card: Peter McGrail (0-0-0
  ) vs. Alexandru Ionita (7-10-1)\nMain Card: Fahad Al-Bloushi (8-1-0) vs.
   Mohamed Kashinde (0-0-0)\nMain Card: K. Qodirokhunov (0-0-0) vs. Faizan
-  Anwar (11-0-0)
+  Anwar (11-0-0)\nMain Card: Jamie King (2-0-0) vs. Naveen Verma (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-ufc-london-volkov-vs-aspinall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Volkov vs. Aspinall
@@ -83,21 +83,26 @@ DTSTART:20220319T200000Z
 DTEND:20220319T230000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/83999-ufc-fight-night\n\n---\n\nMain Event: Alexan
- der Volkov (34-9-0) vs. Tom Aspinall (11-2-0)\nCo-Main Event: Arnold All
- en (17-1-0) vs. Dan Hooker (21-11-0)\nMain Card: Shamil Abdurakhimov (20
- -6-0) vs. Sergei Pavlovich (14-1-0)\nMain Card: Paddy Pimblett (17-3-0) 
- vs. Rodrigo Vargas (12-4-0)\nMain Card: Nikita Krylov (27-8-0) vs. Paul 
- Craig (15-4-1)\nMain Card: Gunnar Nelson (17-5-1) vs. Takashi Sato (16-4
- -0)\nPrelim: Molly McCann (11-4-0) vs. Luana Carolina (8-2-0)\nPrelim: M
- uhammad Mokaev (5-0-0) vs. Cody Durden (12-3-1)\nPrelim: Mike Grundy (12
- -3-0) vs. Makwan Amirkhani (16-7-0)\nPrelim: Elise Reed (4-1-0) vs. Cory
-  McKenna (6-1-0)\nPrelim: Jack Shore (15-0-0) vs. Timur Valiev (18-2-0)\
- nPrelim: Jai Herbert (11-3-0) vs. Ilia Topuria (11-0-0)\nPrelim: Nathani
- el Wood (17-5-0) vs. Vince Morales (11-5-0)
+ om/fightcenter/events/83999-ufc-fight-night\nhttp://www.sherdog.com/even
+ ts/ufc-fight-night-204-volkov-vs-aspinall-91036\nhttp://en.wikipedia.org
+ /wiki/UFC_Fight_Night:_Volkov_vs._Aspinall\nhttps://events.mixedmartiala
+ rts.com/ufc-fight-night:b22c7c69-df4e-4969-a1c5-74ce23972aae\nhttps://ww
+ w.ufc.com/event/ufc-fight-night-march-19-2022\nhttps://www.bestfightodds
+ .com/events/ufc-fight-night-205-2376\n\n---\n\nMain Event: Alexander Vol
+ kov (34-9-0) vs. Tom Aspinall (11-2-0)\nCo-Main Event: Arnold Allen (17-
+ 1-0) vs. Dan Hooker (21-11-0)\nMain Card: Paddy Pimblett (17-3-0) vs. Ro
+ drigo Vargas (12-4-0)\nMain Card: Gunnar Nelson (17-5-1) vs. Takashi Sat
+ o (16-4-0)\nMain Card: Molly McCann (11-4-0) vs. Luana Carolina (8-2-0)\
+ nMain Card: Jai Herbert (11-3-0) vs. Ilia Topuria (11-0-0)\nPrelim: Mike
+  Grundy (12-3-0) vs. Makwan Amirkhani (16-7-0)\nPrelim: Shamil Abdurakhi
+ mov (20-6-0) vs. Sergei Pavlovich (14-1-0)\nPrelim: Nikita Krylov (27-8-
+ 0) vs. Paul Craig (15-4-1)\nPrelim: Jack Shore (15-0-0) vs. Timur Valiev
+  (18-2-0)\nPrelim: Elise Reed (4-1-0) vs. Cory McKenna (6-1-0)\nPrelim: 
+ Nathaniel Wood (17-5-0) vs. Vince Morales (11-5-0)\nPrelim: Muhammad Mok
+ aev (5-0-0) vs. Cody Durden (12-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-ortiz-jr-vs-mckinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz Jr. vs. McKinson
@@ -106,17 +111,17 @@ DTEND:20220320T040000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/85405-ortiz-jr-vs-mckinson\nhttp://www.boxrec.com/en/event/846076\n\n-
- --\n\nMain Event: Vergil Ortiz Jr. (18-0-0) vs. Mikey McKinson (21-0-0)\
- nCo-Main Event: Alexis Rocha (18-1-0) vs. Blair Cobbs (15-0-1)\nMain Car
- d: Bektemir Melikuziev (8-1-0) vs. David Zegarra (34-7-0)\nMain Card: Ev
- an Sanchez (10-0-0) vs. A. Munera Restrepo (5-4-3)\nMain Card: Alex Rinc
- on (9-0-0) vs. Luis Midyael Sanchez (9-2-0)\nMain Card: John Ramirez (8-
- 0-0) vs. Roberto Pucheta (10-20-3)\nMain Card: Miguel Goana (0-0-0) vs. 
- Gilberto Aguilar (0-4-0)\nMain Card: Ramla Ali (4-0-0) vs. Shelly Barnet
- t (5-5-2)
+ --\n\nCo-Main Event: Alexis Rocha (18-1-0) vs. Blair Cobbs (15-0-1)\nMai
+ n Card: Bektemir Melikuziev (8-1-0) vs. David Zegarra (34-7-0)\nMain Car
+ d: Evan Sanchez (10-0-0) vs. A. Munera Restrepo (5-4-3)\nMain Card: Alex
+  Rincon (9-0-0) vs. Luis Midyael Sanchez (9-2-0)\nMain Card: John Ramire
+ z (8-0-0) vs. Roberto Pucheta (10-20-3)\nMain Card: Miguel Goana (0-0-0)
+  vs. Gilberto Aguilar (0-4-0)\nMain Card: Ramla Ali (4-0-0) vs. Shelly B
+ arnett (5-5-2)\nMain Card: Azat Hovhannisyan (20-3-0) vs. Daniel Rosas (
+ 22-5-1)\nMain Card: Dalis Kaleiopu (1-0-0) vs. Manuel Lara (2-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-martinez-vs-warrington-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Warrington 2
@@ -131,7 +136,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Smith (9-0-0) vs. Ray Moylette (12-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-ufc-columbus-blaydes-vs-daukaus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Columbus: Blaydes vs. Daukaus
@@ -140,21 +145,21 @@ DTEND:20220327T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/84285-ufc-fight-night\n\n---\n\nMain Event: Curtis
-  Blaydes (15-3-0) vs. Chris Daukaus (12-4-0)\nMain Card: Askar Askarov (
- 14-0-1) vs. Kai Kara-France (23-9-0)\nMain Card: Matt Brown (23-18-0) vs
- . Bryan Barberena (16-8-0)\nMain Card: Joanne Wood (15-7-0) vs. Alexa Gr
- asso (13-3-0)\nMain Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi (15-
- 8-0)\nPrelim: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)\nPrelim: Tuck
- er Lutz (12-2-0) vs. Seung Woo Choi (10-4-0)\nPrelim: David Dvořák (20-3
- -0) vs. Matheus Nicolau (17-2-1)\nPrelim: Neil Magny (25-8-0) vs. Max Gr
- iffin (18-8-0)\nPrelim: Marc Diakiese (14-5-0) vs. Viacheslav Borshchev 
- (6-1-0)\nPrelim: Luis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)\nPrelim:
-  Batgerel Danaa (12-2-0) vs. Chris Gutierrez (17-3-2)\nPrelim: Jennifer 
- Maia (19-8-1) vs. Manon Fiorot (8-1-0)\nPrelim: Aliaskhab Khizriev (13-0
- -0) vs. Denis Tiuliulin (10-5-0)
+  Blaydes (15-3-0) vs. Chris Daukaus (12-4-0)\nCo-Main Event: Joanne Wood
+  (15-7-0) vs. Alexa Grasso (13-3-0)\nMain Card: Askar Askarov (14-0-1) v
+ s. Kai Kara-France (23-9-0)\nMain Card: Matt Brown (23-18-0) vs. Bryan B
+ arberena (16-8-0)\nMain Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi 
+ (15-8-0)\nPrelim: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)\nPrelim: 
+ Tucker Lutz (12-2-0) vs. Seung Woo Choi (10-4-0)\nPrelim: David Dvořák (
+ 20-3-0) vs. Matheus Nicolau (17-2-1)\nPrelim: Neil Magny (25-8-0) vs. Ma
+ x Griffin (18-8-0)\nPrelim: Marc Diakiese (14-5-0) vs. Viacheslav Borshc
+ hev (6-1-0)\nPrelim: Luis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)\nPre
+ lim: Batgerel Danaa (12-2-0) vs. Chris Gutierrez (17-3-2)\nPrelim: Jenni
+ fer Maia (19-8-1) vs. Manon Fiorot (8-1-0)\nPrelim: Aliaskhab Khizriev (
+ 13-0-0) vs. Denis Tiuliulin (10-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-04-ufc-273-volkanovski-vs-korean-zombie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Volkanovski vs. Korean Zombie
@@ -172,13 +177,12 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Mickey Gall (7-4-0) vs. Mike Malott (7-1-1)\nPrelim: Julio Arce (17-5-0
  ) vs. Daniel Santos (10-1-0)\nPrelim: Ian Garry (8-0-0) vs. Darian Weeks
   (5-1-0)\nPrelim: Vinc Pichel (14-2-0) vs. Mark Madsen (11-0-0)\nPrelim:
-  Dricus Du Plessis (16-2-0) vs. Chris Curtis (28-8-0)\nPrelim: Piera Rod
- riguez (7-0-0) vs. Kay Hansen (7-5-0)\nPrelim: Albert Duraev (15-3-0) vs
- . Anthony Hernandez (8-2-0)\nPrelim: Jairzinho Rozenstruik (12-3-0) vs. 
- Marcin Tybura (22-7-0)
+  Piera Rodriguez (7-0-0) vs. Kay Hansen (7-5-0)\nPrelim: Jairzinho Rozen
+ struik (12-3-0) vs. Marcin Tybura (22-7-0)\nPrelim: Dricus Du Plessis (1
+ 6-2-0) vs. Anthony Hernandez (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-04-ufc-vegas-51-luque-vs-muhammad-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51: Luque vs. Muhammad 2
@@ -201,7 +205,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Kevin Croom (21-14-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Lemos vs. Andrade
@@ -222,7 +226,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  : Damir Hadžović (14-6-0) vs. Steve Garcia (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -243,7 +247,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Jake Collier (13-6-0) vs. Justin Tafa (5-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-05-ufc-274-oliveira-vs-gaethje@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Oliveira vs. Gaethje
@@ -252,20 +256,21 @@ DTEND:20220508T050000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/85253-ufc-274\n\n---\n\nMain Event: Charles Olivei
- ra (32-8-0) vs. Justin Gaethje (23-3-0)\nMain Card: Donald Cerrone (36-1
- 6-0) vs. Joe Lauzon (28-15-0)\nMain Card: Ovince St. Preux (25-16-0) vs.
-  Maurício Rua (27-12-1)\nMain Card: Michael Chandler (22-7-0) vs. Tony F
- erguson (25-6-0)\nPrelim: Macy Chiasson (7-2-0) vs. Norma Dumont (7-1-0)
- \nPrelim: Lupita Godinez (7-2-0) vs. Ariane Carnelossi (14-2-0)\nPrelim:
-  Blagoy Ivanov (18-4-0) vs. Marcos Rogério de Lima (19-7-1)\nPrelim: Kle
- ydson Rodrigues (7-1-0) vs. C.J. Vergara (9-3-1)\nPrelim: Journey Newson
-  (9-3-0) vs. Fernie Garcia (10-1-0)\nPrelim: Brandon Royval (13-6-0) vs.
-  Matt Schnell (15-6-0)\nPrelim: Michael Johnson (19-17-0) vs. Alan Patri
- ck (15-3-0)\nPrelim: Francisco Trinaldo (27-8-0) vs. Danny Roberts (18-5
- -0)\nPrelim: Randy Brown (14-4-0) vs. Khaos Williams (13-2-0)
+ ra (32-8-0) vs. Justin Gaethje (23-3-0)\nCo-Main Event: Michael Chandler
+  (22-7-0) vs. Tony Ferguson (25-6-0)\nMain Card: Blagoy Ivanov (18-4-0) 
+ vs. Marcos Rogério de Lima (19-7-1)\nMain Card: Donald Cerrone (36-16-0)
+  vs. Joe Lauzon (28-15-0)\nMain Card: Ovince St. Preux (25-16-0) vs. Mau
+ rício Rua (27-12-1)\nPrelim: Macy Chiasson (7-2-0) vs. Norma Dumont (7-1
+ -0)\nPrelim: Lupita Godinez (7-2-0) vs. Ariane Carnelossi (14-2-0)\nPrel
+ im: Kleydson Rodrigues (7-1-0) vs. C.J. Vergara (9-3-1)\nPrelim: Journey
+  Newson (9-3-0) vs. Fernie Garcia (10-1-0)\nPrelim: Brandon Royval (13-6
+ -0) vs. Matt Schnell (15-6-0)\nPrelim: Michael Johnson (19-17-0) vs. Ala
+ n Patrick (15-3-0)\nPrelim: Francisco Trinaldo (27-8-0) vs. Danny Robert
+ s (18-5-0)\nPrelim: Randy Brown (14-4-0) vs. Khaos Williams (13-2-0)\nPr
+ elim: Tracy Cortez (9-1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-05-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -281,7 +286,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ck Maximov (8-0-0) vs. Andre Petroski (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-05-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -294,10 +299,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  n (18-7-0) vs. Ben Rothwell (39-14-0)\nPrelim: Chase Hooper (10-2-1) vs.
   Felipe Colares (10-3-0)\nPrelim: Polyana Viana (12-4-0) vs. Tabatha Ric
  ci (6-1-0)\nPrelim: Omar Morales (11-2-0) vs. Uros Medic (7-1-0)\nPrelim
- : Joseph Holmes (7-2-0) vs. Alen Amedovski (8-2-0)
+ : Joseph Holmes (7-2-0) vs. Alen Amedovski (8-2-0)\nPrelim: Jailton Alme
+ ida (15-2-0) vs. Maxim Grishin (32-9-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -312,7 +318,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220313T230305Z
+DTSTAMP:20220316T091741Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka
@@ -325,5 +331,16 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ent: Valentina Shevchenko (22-3-0) vs. Taila Santos (19-1-0)\nMain Card:
   Robert Whittaker (23-6-0) vs. Marvin Vettori (18-4-1)\nPrelim: Silvana 
  Gómez Juárez (10-4-0) vs. Na Liang (15-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220316T091741Z
+UID:2022-07-ufc-276@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 276
+DTSTART:20220702T220000Z
+DTEND:20220703T010000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/87604-ufc-276
 END:VEVENT
 END:VCALENDAR

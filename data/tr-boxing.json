@@ -6,9 +6,23 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Berlanga vs. Rolls",
-      "time": "2022-03-20T01:00:00Z"
+      "time": "2022-03-20T02:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/top-rank-berlanga-vs-rolls/2pb0e/"
+        }
+      },
+      "fite": {
+        "id": "2pb0e",
+        "time": "2022-03-20T02:00:00Z",
+        "title": "Top Rank: Edgar Berlanga vs Steve Rolls",
+        "url": "https://www.fite.tv/watch/top-rank-berlanga-vs-rolls/2pb0e/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 85877,
@@ -21,14 +35,13 @@
       ],
       "card": [
         "Main Event: Edgar Berlanga (18-0-0) vs. Steve Rolls (21-1-0)",
-        "Main Card: Esteban Sanchez (18-1-0) vs. Keyshawn Davis (4-0-0)",
         "Main Card: Xander Zayas (12-0-0) vs. Quincy LaVallais (12-2-1)",
         "Main Card: John Bauza (16-0-0) vs. Tony Luis (29-4-0)",
         "Main Card: Jahi Tucker (6-0-0) vs. Tracey McGruder (6-1-0)",
         "Main Card: Henry Lebron (14-0-0) vs. Josec Ruiz (23-5-3)",
         "Main Card: Kelvin Davis (24-11-0) vs. Phillip Carmouche (2-2-0)",
-        "Main Card: Bruce Carrington (0-0-0) vs. Arturo De Islas (2-1-0)",
-        "Main Card: Eliseo Villalobos (0-0-0) vs. Armani Almestica (4-0-0)"
+        "Main Card: Eliseo Villalobos (0-0-0) vs. Armani Almestica (4-0-0)",
+        "Main Card: Bruce Carrington (0-0-0) vs. Yeuri Andujar (5-4-1)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/846538"
@@ -82,7 +95,8 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Mikaela Mayer (16-0-0) vs. Jennifer Han (18-4-1)"
+        "Main Event: Mikaela Mayer (16-0-0) vs. Jennifer Han (18-4-1)",
+        "Co-Main Event: Giovani Santillan (28-0-0) vs. Jeovanis Barraza (23-2-0)"
       ]
     }
   },
@@ -107,7 +121,11 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Oscar Valdez (30-0-0) vs. Shakur Stevenson (17-0-0)"
+        "Main Event: Oscar Valdez (30-0-0) vs. Shakur Stevenson (17-0-0)",
+        "Main Card: Esteban Sanchez (18-1-0) vs. Keyshawn Davis (4-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/849161"
       ]
     }
   }

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220312T022443Z
-X-KAMPFKALENDER-HASH:97ae8d502fbacc94fc85f2841f95e2d5e2261b87
+DTSTAMP:20220316T091740Z
+X-KAMPFKALENDER-HASH:9742802c7eae91581b91a6d3d4ce8472609336fe
 BEGIN:VEVENT
-DTSTAMP:20220312T022443Z
+DTSTAMP:20220316T091740Z
 UID:2022-03-bkfc-new-york-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC New York 2: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-new-york-ii-pr
  in Card: Lardy Navarro vs. Anthony Prater
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T022443Z
+DTSTAMP:20220316T091740Z
 UID:2022-03-bkfc-new-york-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC New York 2
@@ -45,5 +45,24 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-new-y
  anzig\nMain Card: Devin Gibson vs. Kody Allen Murray\nMain Card: Christi
  an Torres vs. Stanislav Grosu\nMain Card: Art Driscoll vs. Damon Bell\nM
  ain Card: Lardy Navarro vs. Anthony Prater
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220316T091740Z
+UID:2022-04-bkfc-23-richman-vs-rickels@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 23: Richman vs. Rickels
+DTSTART:20220409T000000Z
+DTEND:20220409T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87619-bkfc-23-richman-vs-rickels\nhttps://www.bareknuckle.tv/events
+ /bkfc-23-richman-vs-rickles:ed6c3c91-a2c2-4265-acd1-1daa1e331436\n\n---\
+ n\nMain Event: Mike Richman vs. David Rickels\nCo-Main Event: Isaac Dool
+ ittle vs. Jared Warren\nMain Card: Marciano Hernandez vs. Jerald Gregori
+ \nMain Card: Jake Lindsey vs. Derrick Findley\nMain Card: Jessica Link v
+ s. Crystal Pittman\nMain Card: LJ Hermreck vs. Stevo Morris\nMain Card: 
+ Chance Wilson vs. Justyn Martinez\nMain Card: Shawn Moffett vs. Antonio 
+ Soto III\nMain Card: Joshua Richey vs. Tyler Randall\nMain Card: Kenny L
+ icea vs. Noah Cutter\nMain Card: Edmund Santos vs. Nick Villar
 END:VEVENT
 END:VCALENDAR

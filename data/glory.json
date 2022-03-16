@@ -1,5 +1,37 @@
 [
   {
+    "id": "glory-80-weigh-ins",
+    "promo": true,
+    "promotion": "GLORY",
+    "tags": [
+      "#Glory80",
+      "#BenSaddik",
+      "#BadrHari"
+    ],
+    "mainCard": {
+      "title": "Glory 80: Weigh Ins",
+      "time": "2022-03-18T11:00:00Z",
+      "until": "2022-03-18T12:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=bx1EldsGYqo"
+        }
+      },
+      "youTube": {
+        "id": "bx1EldsGYqo",
+        "time": "2022-03-18T11:00:00Z",
+        "title": "GLORY 80 LIVE Official Weigh-In",
+        "url": "https://www.youtube.com/watch?v=bx1EldsGYqo",
+        "live": true,
+        "tags": [
+          "#GLORY80",
+          "#BenSaddik",
+          "#BadrHari"
+        ]
+      }
+    }
+  },
+  {
     "id": "tapology-86025",
     "promotion": "GLORY",
     "sports": [
@@ -11,6 +43,10 @@
     "mainCard": {
       "title": "Glory 80",
       "time": "2022-03-19T19:00:00Z",
+      "tags": [
+        "#BenSaddik",
+        "#BadrHari"
+      ],
       "broadcasters": {
         "GLORY_TV": {
         }
@@ -50,7 +86,7 @@
       "card": [
         "Main Event: Jamal Ben Saddik vs. Levi Rigters",
         "Co-Main Event: Badr Hari vs. Arkadiusz Wrzosek",
-        "Main Card: Artem Vakhitov vs. Luis Tavares",
+        "Main Card: Artem Vakhitov vs. Tarik Khbabez",
         "Main Card: Tiffany Van Soest vs. Manazo Kobayashi",
         "Main Card: Ertugrul Bayrak vs. Serkan Ozcaglayan",
         "Main Card: Nordin Ben Moh vs. Guerric Billet",

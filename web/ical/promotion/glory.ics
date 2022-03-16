@@ -4,10 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220312T022443Z
-X-KAMPFKALENDER-HASH:6d6f6e7f4e85c95ef96fa1580b9bc1e4f9baf2e9
+DTSTAMP:20220316T091740Z
+X-KAMPFKALENDER-HASH:07ff927abeaaccfc0491f177e286dc0a94a3c4f7
 BEGIN:VEVENT
-DTSTAMP:20220312T022443Z
+DTSTAMP:20220316T091741Z
+UID:2022-03-glory-80-weigh-ins@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 80: Weigh Ins
+DTSTART:20220318T110000Z
+DTEND:20220318T120000Z
+CATEGORIES:Glory,YouTube,PR,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=bx1EldsGYqo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220316T091741Z
 UID:2022-03-glory-80-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80: Prelims
@@ -17,13 +27,13 @@ CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hU7Run422Go\
  n\n---\n\nhttps://www.tapology.com/fightcenter/events/86025-glory-80\n\n
  ---\n\nMain Event: Jamal Ben Saddik vs. Levi Rigters\nCo-Main Event: Bad
- r Hari vs. Arkadiusz Wrzosek\nMain Card: Artem Vakhitov vs. Luis Tavares
- \nMain Card: Tiffany Van Soest vs. Manazo Kobayashi\nMain Card: Ertugrul
-  Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordin Ben Moh vs. Guerric Bil
- let\nMain Card: Jos van Belzen vs. Jay Overmeer
+ r Hari vs. Arkadiusz Wrzosek\nMain Card: Artem Vakhitov vs. Tarik Khbabe
+ z\nMain Card: Tiffany Van Soest vs. Manazo Kobayashi\nMain Card: Ertugru
+ l Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordin Ben Moh vs. Guerric Bi
+ llet\nMain Card: Jos van Belzen vs. Jay Overmeer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T022443Z
+DTSTAMP:20220316T091741Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
@@ -33,8 +43,9 @@ CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/86025-glory-80\n\n---\n\nMain Event: Jamal Ben Saddik vs. Levi Rig
  ters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Artem V
- akhitov vs. Luis Tavares\nMain Card: Tiffany Van Soest vs. Manazo Kobaya
- shi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordin
-  Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overmeer
+ akhitov vs. Tarik Khbabez\nMain Card: Tiffany Van Soest vs. Manazo Kobay
+ ashi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordi
+ n Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overmeer
+ 
 END:VEVENT
 END:VCALENDAR

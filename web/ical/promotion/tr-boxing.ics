@@ -4,6 +4,25 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220312T115405Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220316T091740Z
+X-KAMPFKALENDER-HASH:782a8a27cd636eb162ecbf5d6cffea0a693c9d7e
+BEGIN:VEVENT
+DTSTAMP:20220316T091741Z
+UID:2022-03-berlanga-vs-rolls@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Berlanga vs. Rolls
+DTSTART:20220320T020000Z
+DTEND:20220320T050000Z
+CATEGORIES:TR,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-berlanga-vs-r
+ olls/2pb0e/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/85877-
+ berlanga-vs-rolls\nhttp://www.boxrec.com/en/event/846538\n\n---\n\nMain 
+ Event: Edgar Berlanga (18-0-0) vs. Steve Rolls (21-1-0)\nMain Card: Xand
+ er Zayas (12-0-0) vs. Quincy LaVallais (12-2-1)\nMain Card: John Bauza (
+ 16-0-0) vs. Tony Luis (29-4-0)\nMain Card: Jahi Tucker (6-0-0) vs. Trace
+ y McGruder (6-1-0)\nMain Card: Henry Lebron (14-0-0) vs. Josec Ruiz (23-
+ 5-3)\nMain Card: Kelvin Davis (24-11-0) vs. Phillip Carmouche (2-2-0)\nM
+ ain Card: Eliseo Villalobos (0-0-0) vs. Armani Almestica (4-0-0)\nMain C
+ ard: Bruce Carrington (0-0-0) vs. Yeuri Andujar (5-4-1)
+END:VEVENT
 END:VCALENDAR

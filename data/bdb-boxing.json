@@ -1,5 +1,86 @@
 [
   {
+    "id": "tapology-87645",
+    "promotion": "BDB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#München"
+    ],
+    "mainCard": {
+      "title": "Boxing After Dark",
+      "time": "2022-03-19T21:00:00Z",
+      "until": "2022-03-19T23:00:00Z",
+      "broadcasters": {
+        "SPORT1_EXTRA": {
+          "url": "https://www.sport1extra.de/en-int/page/fight24-1"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxing-after-dark-1-424"
+        }
+      }
+    },
+    "prelims": {
+      "title": "Boxing After Dark: Prelims",
+      "time": "2022-03-19T18:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxing-after-dark-1-424"
+        }
+      }
+    },
+    "tapology": {
+      "id": 87645,
+      "time": "2022-03-19T18:00:00Z",
+      "title": "Boxing After Dark",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/87645-boxing-after-dark",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Card: Alexander Rigas (14-2-0) vs. Adam Mate (28-17-0)",
+        "Main Card: Martin Houben (12-1-0) vs. Stephane Tchamba (3-4-1)",
+        "Main Card: Howik Bebraham (17-2-0) vs. David Botos (3-4-0)",
+        "Main Card: Pietro Loriga (8-1-0) vs. Nukri Gamgebeli (11-13-0)",
+        "Main Card: Yusuf Sultanoglu (9-1-0) vs. Jiri Svacina (14-49-0)",
+        "Main Card: Michael Rigas (0-0-0) vs. Martin Kabrhel (2-20-1)",
+        "Main Card: Cueneyt Altintas (12-0-0) vs. Benjamin Skender (5-22-0)",
+        "Main Card: Khaled Alfa Gani (0-0-0) vs. Mazen Girke (15-123-6)",
+        "Main Card: Onur Kocer (0-0-0) vs. Aleksandar Marinkovic (0-6-0)",
+        "Main Card: Adel El Garmoui (6-0-0) vs. Jakub Chval (0-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/846852"
+      ]
+    },
+    "fightEvents": {
+      "id": "boxing-after-dark-2",
+      "time": "2022-03-19T18:00:00Z",
+      "until": "2022-03-19T21:30:00Z",
+      "title": "Boxing after Dark",
+      "url": "https://www.fightevents.de/event/boxing-after-dark-2/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Adel El Garmaoui",
+        "Alexander Rigas",
+        "Boxen",
+        "Boxing after Dark",
+        "Fight24.tv",
+        "Khaled Alfa Gani",
+        "Michael Rigas",
+        "München"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
     "id": "tapology-87338",
     "promotion": "BDB_BOXING",
     "sports": [
