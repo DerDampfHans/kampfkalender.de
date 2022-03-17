@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220316T091740Z
-X-KAMPFKALENDER-HASH:ef12bcf1c03d35c4f804e66d7126d71b62fe0b77
+DTSTAMP:20220317T021859Z
+X-KAMPFKALENDER-HASH:b37c13f4cb9e8e38b9d4a4993641bc7b50d30fdb
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-agon-boxgala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AGON BoxGala
@@ -26,7 +26,7 @@ DESCRIPTION:via Bild+\n\n---\n\nhttps://www.tapology.com/fightcenter/even
  5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-wood-vs-conlan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Conlan
@@ -44,7 +44,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  relim: Thomas Whittaker Hart (5-0-0) vs. Ben Thomas (2-14-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-agon-boxgala-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AGON BoxGala (Re-Live)
@@ -54,7 +54,7 @@ CATEGORIES:ASE,Boxen,Bild TV,kostenlos
 DESCRIPTION:via Bild TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-hollywood-fight-nights-st-patrick-s-day-bash@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -73,7 +73,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  s. Gael Ibarra (5-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -84,12 +84,12 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220319-olym
  pix-k1-boxen-no-104
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-edwards-vs-waseem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Edwards vs. Waseem
-DTSTART:20220319T161500Z
-DTEND:20220319T195500Z
+DTSTART:20220319T164500Z
+DTEND:20220319T192500Z
 CATEGORIES:PB,Boxen,Eurosport 2,DAZN,live,kostenlos
 DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
  fightcenter/events/86297-edwards-vs-waseem-evolution\nhttp://www.boxrec.
@@ -105,7 +105,7 @@ DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
   Anwar (11-0-0)\nMain Card: Jamie King (2-0-0) vs. Naveen Verma (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-boxing-after-dark-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark: Prelims
@@ -127,7 +127,18 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  El Garmoui (6-0-0) vs. Jakub Chval (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
+UID:2022-03-thor-vs-eddie-the-heaviest-boxing-match-in-history@kampfkalen
+ der.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Thor vs. Eddie: The Heaviest Boxing Match In History
+DTSTART:20220319T203000Z
+DTEND:20220319T213000Z
+CATEGORIES:Other,Boxen,segi.tv,live,kostenlos
+DESCRIPTION:via segi.tv: https://www.segi.tv/thorvseddie
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220317T021900Z
 UID:2022-03-boxing-after-dark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark
@@ -150,7 +161,7 @@ DESCRIPTION:via SPORT1 Extra: https://www.sport1extra.de/en-int/page/figh
  armoui (6-0-0) vs. Jakub Chval (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-boxen-live-abass-baraou@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxen Live (Abass Baraou)
@@ -160,26 +171,27 @@ CATEGORIES:WB,Boxen,SPORT1,live,kostenlos
 DESCRIPTION:via SPORT1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
-UID:2022-03-ortiz-jr-vs-mckinson@kampfkalender.de
+DTSTAMP:20220317T021900Z
+UID:2022-03-rocha-vs-cobbs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Ortiz Jr. vs. McKinson
+SUMMARY:Rocha vs. Cobbs
 DTSTART:20220320T010000Z
 DTEND:20220320T040000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/85405-ortiz-jr-vs-mckinson\nhttp://www.boxrec.com/en/event/846076\n\n-
- --\n\nCo-Main Event: Alexis Rocha (18-1-0) vs. Blair Cobbs (15-0-1)\nMai
- n Card: Bektemir Melikuziev (8-1-0) vs. David Zegarra (34-7-0)\nMain Car
- d: Evan Sanchez (10-0-0) vs. A. Munera Restrepo (5-4-3)\nMain Card: Alex
-  Rincon (9-0-0) vs. Luis Midyael Sanchez (9-2-0)\nMain Card: John Ramire
- z (8-0-0) vs. Roberto Pucheta (10-20-3)\nMain Card: Miguel Goana (0-0-0)
-  vs. Gilberto Aguilar (0-4-0)\nMain Card: Ramla Ali (4-0-0) vs. Shelly B
- arnett (5-5-2)\nMain Card: Azat Hovhannisyan (20-3-0) vs. Daniel Rosas (
- 22-5-1)\nMain Card: Dalis Kaleiopu (1-0-0) vs. Manuel Lara (2-7-0)
+ --\n\nMain Event: Alexis Rocha (18-1-0) vs. Blair Cobbs (15-0-1)\nMain C
+ ard: Bektemir Melikuziev (8-1-0) vs. David Zegarra (34-7-0)\nMain Card: 
+ Evan Sanchez (10-0-0) vs. A. Munera Restrepo (5-4-3)\nMain Card: Alex Ri
+ ncon (9-0-0) vs. Luis Midyael Sanchez (9-2-0)\nMain Card: John Ramirez (
+ 8-0-0) vs. Roberto Pucheta (10-20-3)\nMain Card: Miguel Goana (0-0-0) vs
+ . Gilberto Aguilar (0-4-0)\nMain Card: Ramla Ali (4-0-0) vs. Shelly Barn
+ ett (5-5-2)\nMain Card: Azat Hovhannisyan (20-3-0) vs. Daniel Rosas (22-
+ 5-1)\nMain Card: Dalis Kaleiopu (1-0-0) vs. Manuel Lara (2-7-0)\nMain Ca
+ rd: Mikey McKinson (21-0-0) vs. Jesus Antonio Perez (24-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-berlanga-vs-rolls@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Berlanga vs. Rolls
@@ -198,7 +210,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-berlanga-vs-r
  ard: Bruce Carrington (0-0-0) vs. Yeuri Andujar (5-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-martinez-vs-warrington-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Warrington 2
@@ -213,7 +225,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Smith (9-0-0) vs. Ray Moylette (12-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-sturm-vs-szili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Sturm vs. Szili
@@ -228,7 +240,64 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  8-1) vs. Kassim Ouma (29-16-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
+UID:2022-04-martin-vs-felix@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Martin vs. Felix
+DTSTART:20220401T173000Z
+DTEND:20220401T203000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87679-martin-vs-felix\nhttp://www.boxrec.com/en/event/851239\n\n---\n\
+ nMain Event: Sandor Martin (39-2-0) vs. Jose Felix Jr (38-5-1)\nMain Car
+ d: Hrvoje Sep (11-0-0) vs. Ricards Bolotniks (18-6-1)\nMain Card: Alejan
+ dro Moya (15-0-0) vs. Tom Farrell (20-5-0)\nMain Card: Samuel Carmona (6
+ -0-0) vs. Fadhili Majiha (24-14-4)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220317T021900Z
+UID:2022-04-golovkin-vs-murata@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Golovkin vs. Murata
+DTSTART:20220409T100000Z
+DTEND:20220409T130000Z
+CATEGORIES:TP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87260-ggg-vs-murata\nhttp://www.boxrec.com/en/event/850331\n\n---\n\nM
+ ain Event: Gennadiy Golovkin (41-1-1) vs. Ryota Murata (16-2-0)\nMain Ca
+ rd: Junto Nakatani (22-0-0) vs. Ryota Yamauchi (8-1-0)\nMain Card: Shuic
+ hiro Yoshino (14-0-0) vs. Masayuki Ito (27-3-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220317T021900Z
+UID:2022-04-garcia-vs-tagoe@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Garcia vs. Tagoe
+DTSTART:20220410T020000Z
+DTEND:20220410T050000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/86674-garcia-vs-tagoe\nhttp://www.boxrec.com/en/event/848016\n\n---\n\
+ nMain Event: Ryan Garcia (21-0-0) vs. Emmanuel Tagoe (32-1-0)\nMain Card
+ : Marlen Esparza (11-1-0) vs. Naoko Fujioka (19-2-1)\nMain Card: Katsuma
+  Akitsugi (8-0-0) vs. Gregory Morales (12-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220317T021900Z
+UID:2022-04-benn-vs-van-heerden@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Benn vs. Van Heerden
+DTSTART:20220416T180000Z
+DTEND:20220416T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87520-benn-vs-van-heerden\nhttp://www.boxrec.com/en/event/850826\n\n--
+ -\n\nMain Event: Conor Benn (20-0-0) vs. Chris van Heerden (28-2-1)\nCo-
+ Main Event: Chris Billam-Smith (14-1-0) vs. Tommy McCarthy (18-3-0)\nMai
+ n Card: Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220317T021900Z
 UID:2022-05-triller-verz-5-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Triller Verz 5: Kovalev vs. Pulev

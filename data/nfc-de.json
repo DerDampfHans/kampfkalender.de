@@ -12,7 +12,7 @@
     "mainCard": {
       "title": "NFC Contenders",
       "time": "2022-04-01T16:00:00Z",
-      "until": "2022-04-01T21:00:00Z",
+      "until": "2022-04-01T20:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=L325WL2tJw0"
@@ -30,6 +30,27 @@
           "#Kampfsport"
         ]
       }
+    },
+    "fightEvents": {
+      "id": "nfc-contenders",
+      "time": "2022-04-01T16:00:00Z",
+      "until": "2022-04-01T20:00:00Z",
+      "title": "NFC Contenders",
+      "url": "https://www.fightevents.de/event/nfc-contenders/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Düsseldorf",
+        "MMA",
+        "National Fighting Championship",
+        "NFC",
+        "NFC Contenders"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "Livestream",
+        "MMA",
+        "National"
+      ]
     }
   },
   {
@@ -47,8 +68,53 @@
     ],
     "mainCard": {
       "title": "NFC 8",
+      "time": "2022-04-02T21:00:00Z",
+      "until": "2022-04-03T22:30:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"
+        }
+      },
+      "youTube": {
+        "id": "aMxbwdhjgB4",
+        "time": "2022-04-02T16:00:00Z",
+        "title": "LIVE: NFC 8 | Errens vs Özyildirim 2 | Dulatov vs Rirsch | 2. April - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "NFC 8: Main Card",
+      "time": "2022-04-02T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"
+        }
+      },
+      "youTube": {
+        "id": "aMxbwdhjgB4",
+        "time": "2022-04-02T16:00:00Z",
+        "title": "LIVE: NFC 8 | Errens vs Özyildirim 2 | Dulatov vs Rirsch | 2. April - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 8: Prelims",
       "time": "2022-04-02T16:00:00Z",
-      "until": "2022-04-02T21:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"

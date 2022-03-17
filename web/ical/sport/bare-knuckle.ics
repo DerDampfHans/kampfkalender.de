@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220316T091740Z
-X-KAMPFKALENDER-HASH:3157ec9e36bee4669c754b85bb872063a2c25678
+DTSTAMP:20220317T021859Z
+X-KAMPFKALENDER-HASH:98ed02185d7ae949e4d6fd2d30984ff81238ec94
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-bkfc-new-york-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC New York 2: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-new-york-ii-pr
  in Card: Lardy Navarro vs. Anthony Prater
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-03-bkfc-new-york-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC New York 2
@@ -47,7 +47,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-new-y
  ain Card: Lardy Navarro vs. Anthony Prater
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-04-bkfc-23-richman-vs-rickels@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 23: Richman vs. Rickels
@@ -66,14 +66,15 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  icea vs. Noah Cutter\nMain Card: Edmund Santos vs. Nick Villar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220317T021900Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
 DTSTART:20220410T180000Z
 DTEND:20220410T210000Z
 CATEGORIES:BKB,Bare Knuckle,fighting.de,fight24.tv,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
- //www.tapology.com/fightcenter/events/86201-bkb-25
+DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
+ e.tv/watch/bkb-25/2pb16/\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/86201-bkb-25
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#GolovkinMurata"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "GGG vs. Murata",
-      "time": "2022-04-10T01:00:00Z"
+      "title": "Golovkin vs. Murata",
+      "time": "2022-04-09T10:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1iald0kiavudp1sbzm8fnhg8kv",
+        "time": "2022-04-09T10:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Golovkin vs Murata"
+      }
     },
     "tapology": {
       "id": 87260,
