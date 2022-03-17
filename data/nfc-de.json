@@ -16,6 +16,8 @@
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=L325WL2tJw0"
+        },
+        "FIGHT24_TV": {
         }
       },
       "youTube": {
@@ -69,13 +71,15 @@
     "mainCard": {
       "title": "NFC 8",
       "time": "2022-04-02T21:00:00Z",
-      "until": "2022-04-03T22:30:00Z",
+      "until": "2022-04-02T22:30:00Z",
       "broadcasters": {
         "SPORT1": {
           "free": true
         },
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"
+        },
+        "FIGHT24_TV": {
         }
       },
       "youTube": {
@@ -97,6 +101,8 @@
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"
+        },
+        "FIGHT24_TV": {
         }
       },
       "youTube": {
@@ -117,7 +123,10 @@
       "time": "2022-04-02T16:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "free": true,
           "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"
+        },
+        "FIGHT24_TV": {
         }
       },
       "youTube": {
@@ -157,6 +166,190 @@
         "MMA",
         "National"
       ]
+    }
+  },
+  {
+    "id": "nfc-2022-06-18",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Balingen",
+      "#NFC9"
+    ],
+    "mainCard": {
+      "title": "NFC 9",
+      "time": "2022-06-18T21:00:00Z",
+      "until": "2022-06-18T22:30:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 9: Main Card",
+      "time": "2022-06-18T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 9: Prelims",
+      "time": "2022-06-18T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    }
+  },
+  {
+    "id": "nfc-2022-08-06",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Bonn",
+      "#NFC10"
+    ],
+    "mainCard": {
+      "title": "NFC 10",
+      "time": "2022-08-06T21:00:00Z",
+      "until": "2022-08-06T22:30:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 10: Main Card",
+      "time": "2022-08-06T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 10: Prelims",
+      "time": "2022-08-06T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    }
+  },
+  {
+    "id": "nfc-2022-10-08",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#München",
+      "#NFC11"
+    ],
+    "mainCard": {
+      "title": "NFC 11",
+      "time": "2022-10-08T21:00:00Z",
+      "until": "2022-10-08T22:30:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 11: Main Card",
+      "time": "2022-10-08T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 11: Prelims",
+      "time": "2022-10-08T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    }
+  },
+  {
+    "id": "nfc-2022-12-17",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#München",
+      "#NFC12"
+    ],
+    "mainCard": {
+      "title": "NFC 12",
+      "time": "2022-12-17T22:00:00Z",
+      "until": "2022-12-17T23:30:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 12: Main Card",
+      "time": "2022-12-17T19:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 12: Prelims",
+      "time": "2022-12-17T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        },
+        "FIGHT24_TV": {
+        }
+      }
     }
   }
 ]
