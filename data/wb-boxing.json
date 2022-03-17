@@ -6,9 +6,14 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Baraou vs. Chaves",
-      "time": "2022-03-19T18:00:00Z"
+      "time": "2022-03-19T22:00:00Z",
+      "until": "2022-03-20T00:00:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        }
+      }
     },
     "tapology": {
       "id": 87415,
@@ -30,23 +35,6 @@
       "links": [
         "http://www.boxrec.com/en/event/850962"
       ]
-    }
-  },
-  {
-    "id": "wb-boxing-2022-03-19",
-    "promotion": "WB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "mainCard": {
-      "title": "Boxen Live (Abass Baraou)",
-      "time": "2022-03-19T22:00:00Z",
-      "until": "2022-03-20T00:00:00Z",
-      "broadcasters": {
-        "SPORT1": {
-          "free": true
-        }
-      }
     }
   },
   {
