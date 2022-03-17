@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220317T055601Z
-X-KAMPFKALENDER-HASH:701761a2ceb45fc766e0474e121bce2e08e96db8
+DTSTAMP:20220317T083146Z
+X-KAMPFKALENDER-HASH:55a47b4e31105246444d67fde13d826b7f866b74
 BEGIN:VEVENT
-DTSTAMP:20220317T055601Z
+DTSTAMP:20220317T083146Z
 UID:2022-03-schlagwort-podcast-154@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 154
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aW9ZdRL-jpo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T055601Z
+DTSTAMP:20220317T083146Z
 UID:2022-03-thanh-le-schlagt-garry-tonon-ko-lineker-wird-fw-champion-one-
  lights-out-review@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Or7FkmCwaJQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T055601Z
+DTSTAMP:20220317T083146Z
 UID:2022-03-preview-zu-ufc-london-aspinall-vs-volkov-paddy-pimblett-dan-h
  ooker-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -39,5 +39,15 @@ DTSTART:20220317T160000Z
 DTEND:20220317T170000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yp8lwqdC6jQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220317T083146Z
+UID:2022-03-schlagwort-podcast-155@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast 155
+DTSTART:20220320T170000Z
+DTEND:20220320T190000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR
