@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220316T230304Z
-X-KAMPFKALENDER-HASH:47d1dda978cc0334f08cc2a51936511be025160d
+DTSTAMP:20220317T055601Z
+X-KAMPFKALENDER-HASH:33aa9440859baf6b0585c31670f0fa1192255b91
 BEGIN:VEVENT
-DTSTAMP:20220316T230304Z
+DTSTAMP:20220317T055601Z
 UID:2022-03-thanh-le-schlagt-garry-tonon-ko-lineker-wird-fw-champion-one-
  lights-out-review@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -17,5 +17,17 @@ DTSTART:20220315T160000Z
 DTEND:20220315T170000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Or7FkmCwaJQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220317T055601Z
+UID:2022-03-preview-zu-ufc-london-aspinall-vs-volkov-paddy-pimblett-dan-h
+ ooker-u-v-m@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Preview zu UFC London: Aspinall vs. Volkov\, Paddy Pimblett\, Dan
+  Hooker u.v.m.
+DTSTART:20220317T160000Z
+DTEND:20220317T170000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yp8lwqdC6jQ
 END:VEVENT
 END:VCALENDAR
