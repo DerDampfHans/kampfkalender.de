@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220318T122348Z
-X-KAMPFKALENDER-HASH:42ba463584b88d40218d7033be004b0c8844bf96
+DTSTAMP:20220318T192004Z
+X-KAMPFKALENDER-HASH:4557231131314082bc36b715c91e6c8c453183fc
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-vegas-50-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 50: Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  )\nPrelim: Tafon Nchukwi (6-1-0) vs. Azamat Murzakanov (10-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-vegas-50-santos-vs-ankalaev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 50: Santos vs. Ankalaev
@@ -64,7 +64,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-vegas-50-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 50: Post-Fight Press Conference
@@ -74,7 +74,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=84KmrpDntOk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-london-ceremonial-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Ceremonial Weigh-In
@@ -84,7 +84,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=0SKtDNFEb_Y
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-london-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Prelims
@@ -110,7 +110,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  okaev (5-0-0) vs. Cody Durden (12-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-london-volkov-vs-aspinall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Volkov vs. Aspinall
@@ -136,7 +136,17 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Muhammad Mokaev (5-0-0) vs. Cody Durden (12-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
+UID:2022-03-ufc-london-post-fight-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC London: Post-Fight Press Conference
+DTSTART:20220319T231500Z
+DTEND:20220320T001500Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=pR7ex3yI5og
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-columbus-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Columbus: Prelims
@@ -158,7 +168,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ev (13-0-0) vs. Denis Tiuliulin (10-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-03-ufc-columbus-blaydes-vs-daukaus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Columbus: Blaydes vs. Daukaus
@@ -180,7 +190,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  hab Khizriev (13-0-0) vs. Denis Tiuliulin (10-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-273-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Early Prelims
@@ -202,7 +212,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  is (16-2-0) vs. Anthony Hernandez (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-273-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Prelims
@@ -224,7 +234,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  is (16-2-0) vs. Anthony Hernandez (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-273-volkanovski-vs-korean-zombie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Volkanovski vs. Korean Zombie
@@ -246,7 +256,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s Du Plessis (16-2-0) vs. Anthony Hernandez (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-vegas-51-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51: Prelims
@@ -269,7 +279,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-vegas-51-luque-vs-muhammad-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51: Luque vs. Muhammad 2
@@ -292,7 +302,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  J. Laramie (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-fight-night-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Prelims
@@ -313,7 +323,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  džović (14-6-0) vs. Steve Garcia (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Lemos vs. Andrade
@@ -334,7 +344,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  : Damir Hadžović (14-6-0) vs. Steve Garcia (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -355,7 +365,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Jake Collier (13-6-0) vs. Justin Tafa (5-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-05-ufc-274-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Early Prelims
@@ -379,7 +389,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-05-ufc-274-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Prelims
@@ -403,7 +413,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-05-ufc-274-oliveira-vs-gaethje@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Oliveira vs. Gaethje
@@ -427,7 +437,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Cortez (9-1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-05-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -442,7 +452,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Nick Maximov (8-0-0) vs. Andre Petroski (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-05-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -460,7 +470,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   vs. Duško Todorović (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -475,7 +485,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka
@@ -491,7 +501,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0) vs. Jacob Malkoun (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220318T192005Z
 UID:2022-07-ufc-276@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276
