@@ -4,6 +4,22 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220318T122348Z
+X-KAMPFKALENDER-HASH:6785bd571f79aa4f67336e1dd73a756cfb0da8e8
+BEGIN:VEVENT
+DTSTAMP:20220318T122348Z
+UID:2022-03-morales-vs-salido@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Morales vs. Salido
+DTSTART:20220326T223000Z
+DTEND:20220327T013000Z
+CATEGORIES:BS,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/the-last-combat-morale
+ s-vs-salido/2pb1h/\n\n---\n\nhttps://www.tapology.com/fightcenter/events
+ /87701-the-last-combat-morales-vs-salido\nhttp://www.boxrec.com/en/event
+ /849888\n\n---\n\nMain Event: Erik Morales (52-9-0) vs. Orlando Salido (
+ 44-14-4)\nMain Card: Roberto Marroquin (28-5-1) vs. Eddy Valencia (17-6-
+ 6)\nMain Card: James Vick (0-0-0) vs. Alejandro Heredia (0-0-0)\nMain Ca
+ rd: Nosa Divine Nehikhare (3-0-0) vs. Giovanni Loya (4-2-1)
+END:VEVENT
 END:VCALENDAR

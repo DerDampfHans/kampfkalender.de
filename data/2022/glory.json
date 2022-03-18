@@ -64,5 +64,38 @@
         ]
       }
     }
+  },
+  {
+    "id": "glory-80-weigh-ins",
+    "promo": true,
+    "promotion": "GLORY",
+    "tags": [
+      "#Glory80",
+      "#BenSaddik",
+      "#BadrHari"
+    ],
+    "mainCard": {
+      "title": "Glory 80: Weigh Ins",
+      "time": "2022-03-18T11:00:00Z",
+      "until": "2022-03-18T12:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=bx1EldsGYqo",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "bx1EldsGYqo",
+        "time": "2022-03-18T11:00:00Z",
+        "title": "GLORY 80 LIVE Official Weigh-In",
+        "url": "https://www.youtube.com/watch?v=bx1EldsGYqo",
+        "live": true,
+        "tags": [
+          "#GLORY80",
+          "#BenSaddik",
+          "#BadrHari"
+        ]
+      }
+    }
   }
 ]

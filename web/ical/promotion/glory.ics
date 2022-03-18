@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220317T023222Z
-X-KAMPFKALENDER-HASH:25b62fc7173a0d535893b8b08f145336ac1d650e
+DTSTAMP:20220318T122348Z
+X-KAMPFKALENDER-HASH:5e5c6f5af3943215fbeabcce19042064c60d5be5
 BEGIN:VEVENT
-DTSTAMP:20220317T023223Z
+DTSTAMP:20220318T122349Z
 UID:2022-03-glory-80-weigh-ins@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80: Weigh Ins
@@ -17,7 +17,7 @@ CATEGORIES:Glory,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=bx1EldsGYqo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T023223Z
+DTSTAMP:20220318T122349Z
 UID:2022-03-glory-80-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80: Prelims
@@ -27,13 +27,13 @@ CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hU7Run422Go\
  n\n---\n\nhttps://www.tapology.com/fightcenter/events/86025-glory-80\n\n
  ---\n\nMain Event: Jamal Ben Saddik vs. Levi Rigters\nCo-Main Event: Bad
- r Hari vs. Arkadiusz Wrzosek\nMain Card: Artem Vakhitov vs. Tarik Khbabe
- z\nMain Card: Tiffany Van Soest vs. Manazo Kobayashi\nMain Card: Ertugru
- l Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordin Ben Moh vs. Guerric Bi
- llet\nMain Card: Jos van Belzen vs. Jay Overmeer
+ r Hari vs. Arkadiusz Wrzosek\nMain Card: Tiffany Van Soest vs. Manazo Ko
+ bayashi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: No
+ rdin Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overm
+ eer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T023223Z
+DTSTAMP:20220318T122349Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
@@ -42,10 +42,23 @@ DTEND:20220319T220000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/86025-glory-80\n\n---\n\nMain Event: Jamal Ben Saddik vs. Levi Rig
- ters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Artem V
- akhitov vs. Tarik Khbabez\nMain Card: Tiffany Van Soest vs. Manazo Kobay
- ashi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordi
- n Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overmeer
- 
+ ters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Tiffany
+  Van Soest vs. Manazo Kobayashi\nMain Card: Ertugrul Bayrak vs. Serkan O
+ zcaglayan\nMain Card: Nordin Ben Moh vs. Guerric Billet\nMain Card: Jos 
+ van Belzen vs. Jay Overmeer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220318T122349Z
+UID:2022-05-glory-rivals-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Rivals 1
+DTSTART:20220521T040000Z
+DTEND:20220521T070000Z
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/87741-glory-rivals-1\n\n---\n\nMain Card: Harut Grigorian vs. Endy
+  Semeleer\nMain Card: Luis Tavares vs. Tarik Khbabez\nMain Card: Ilias Z
+ ouggary vs. Nabil Haryouli\nMain Card: Sofiane Kaddouri vs. Deniz Demirk
+ apu
 END:VEVENT
 END:VCALENDAR

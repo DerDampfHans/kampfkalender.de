@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220317T021859Z
-X-KAMPFKALENDER-HASH:5ed9ade188b9040c50e25d87075f74b85f6df942
+DTSTAMP:20220318T122348Z
+X-KAMPFKALENDER-HASH:2794cf99939b8e7d59487025befde0859357f6df
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
 UID:2022-03-bkfc-new-york-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC New York 2: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-new-york-ii-pr
  in Card: Lardy Navarro vs. Anthony Prater
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
 UID:2022-03-bkfc-new-york-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC New York 2
@@ -47,7 +47,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-new-y
  ain Card: Lardy Navarro vs. Anthony Prater
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
 UID:2022-03-berlanga-vs-rolls@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Berlanga vs. Rolls
@@ -62,11 +62,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-berlanga-vs-r
  16-0-0) vs. Tony Luis (29-4-0)\nMain Card: Jahi Tucker (6-0-0) vs. Trace
  y McGruder (6-1-0)\nMain Card: Henry Lebron (14-0-0) vs. Josec Ruiz (23-
  5-3)\nMain Card: Kelvin Davis (24-11-0) vs. Phillip Carmouche (2-2-0)\nM
- ain Card: Eliseo Villalobos (0-0-0) vs. Armani Almestica (4-0-0)\nMain C
- ard: Bruce Carrington (0-0-0) vs. Yeuri Andujar (5-4-1)
+ ain Card: Bruce Carrington (0-0-0) vs. Yeuri Andujar (5-4-1)\nMain Card:
+  Armani Almestica (4-0-0) vs. Luis Valentin (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
+UID:2022-03-morales-vs-salido@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Morales vs. Salido
+DTSTART:20220326T223000Z
+DTEND:20220327T013000Z
+CATEGORIES:BS,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/the-last-combat-morale
+ s-vs-salido/2pb1h/\n\n---\n\nhttps://www.tapology.com/fightcenter/events
+ /87701-the-last-combat-morales-vs-salido\nhttp://www.boxrec.com/en/event
+ /849888\n\n---\n\nMain Event: Erik Morales (52-9-0) vs. Orlando Salido (
+ 44-14-4)\nMain Card: Roberto Marroquin (28-5-1) vs. Eddy Valencia (17-6-
+ 6)\nMain Card: James Vick (0-0-0) vs. Alejandro Heredia (0-0-0)\nMain Ca
+ rd: Nosa Divine Nehikhare (3-0-0) vs. Giovanni Loya (4-2-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220318T122349Z
 UID:2022-04-bkfc-23-richman-vs-rickels@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 23: Richman vs. Rickels
@@ -74,18 +90,20 @@ DTSTART:20220409T000000Z
 DTEND:20220409T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/87619-bkfc-23-richman-vs-rickels\nhttps://www.bareknuckle.tv/events
- /bkfc-23-richman-vs-rickles:ed6c3c91-a2c2-4265-acd1-1daa1e331436\n\n---\
- n\nMain Event: Mike Richman vs. David Rickels\nCo-Main Event: Isaac Dool
- ittle vs. Jared Warren\nMain Card: Marciano Hernandez vs. Jerald Gregori
- \nMain Card: Jake Lindsey vs. Derrick Findley\nMain Card: Jessica Link v
- s. Crystal Pittman\nMain Card: LJ Hermreck vs. Stevo Morris\nMain Card: 
- Chance Wilson vs. Justyn Martinez\nMain Card: Shawn Moffett vs. Antonio 
- Soto III\nMain Card: Joshua Richey vs. Tyler Randall\nMain Card: Kenny L
- icea vs. Noah Cutter\nMain Card: Edmund Santos vs. Nick Villar
+ ents/87619-bkfc-23-richman-vs-rickels\nhttps://events.mixedmartialarts.c
+ om/bkfc-23:0d65de4b-dd5b-4861-991b-ceee8cf6aa94\nhttps://www.bareknuckle
+ .tv/events/bkfc-23-richman-vs-rickles:ed6c3c91-a2c2-4265-acd1-1daa1e3314
+ 36\n\n---\n\nMain Event: Mike Richman vs. David Rickels\nCo-Main Event: 
+ Isaac Doolittle vs. Jared Warren\nMain Card: Marciano Hernandez vs. Jera
+ ld Gregori\nMain Card: Jake Lindsey vs. Derrick Findley\nMain Card: Jess
+ ica Link vs. Crystal Pittman\nMain Card: LJ Hermreck vs. Stevo Morris\nM
+ ain Card: Chance Wilson vs. Justyn Martinez\nMain Card: Shawn Moffett vs
+ . Antonio Soto III\nMain Card: Joshua Richey vs. Tyler Randall\nMain Car
+ d: Kenny Licea vs. Noah Cutter\nMain Card: Edmund Santos vs. Nick Villar
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -97,7 +115,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
  events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
 UID:2022-04-ajp-tour-sofia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Sofia
@@ -108,7 +126,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
  -gi-april/2payw/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
 UID:2022-04-ajp-tour-orlando@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Orlando
@@ -119,7 +137,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
  national-pro-g/2paw9/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T021900Z
+DTSTAMP:20220318T122349Z
 UID:2022-05-triller-verz-5-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Triller Verz 5: Kovalev vs. Pulev

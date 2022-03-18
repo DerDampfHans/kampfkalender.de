@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220316T091740Z
-X-KAMPFKALENDER-HASH:87623d41e118ea46c43d447fe2e582846c4ad6d6
+DTSTAMP:20220318T122348Z
+X-KAMPFKALENDER-HASH:21f8a6081f15a352277787004ca2c16bca7f9b76
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220318T122349Z
 UID:2022-03-glory-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 80
@@ -16,10 +16,23 @@ DTEND:20220319T220000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/86025-glory-80\n\n---\n\nMain Event: Jamal Ben Saddik vs. Levi Rig
- ters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Artem V
- akhitov vs. Tarik Khbabez\nMain Card: Tiffany Van Soest vs. Manazo Kobay
- ashi\nMain Card: Ertugrul Bayrak vs. Serkan Ozcaglayan\nMain Card: Nordi
- n Ben Moh vs. Guerric Billet\nMain Card: Jos van Belzen vs. Jay Overmeer
- 
+ ters\nCo-Main Event: Badr Hari vs. Arkadiusz Wrzosek\nMain Card: Tiffany
+  Van Soest vs. Manazo Kobayashi\nMain Card: Ertugrul Bayrak vs. Serkan O
+ zcaglayan\nMain Card: Nordin Ben Moh vs. Guerric Billet\nMain Card: Jos 
+ van Belzen vs. Jay Overmeer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220318T122349Z
+UID:2022-05-glory-rivals-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Rivals 1
+DTSTART:20220521T040000Z
+DTEND:20220521T070000Z
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/87741-glory-rivals-1\n\n---\n\nMain Card: Harut Grigorian vs. Endy
+  Semeleer\nMain Card: Luis Tavares vs. Tarik Khbabez\nMain Card: Ilias Z
+ ouggary vs. Nabil Haryouli\nMain Card: Sofiane Kaddouri vs. Deniz Demirk
+ apu
 END:VEVENT
 END:VCALENDAR
