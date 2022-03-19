@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220317T083146Z
-X-KAMPFKALENDER-HASH:1f08dbe27b8bdd9be6c0a1b7236e6342fdfc0e23
+DTSTAMP:20220319T080221Z
+X-KAMPFKALENDER-HASH:b0e9cb07d1731573302389019ba24ca47eb143ec
 BEGIN:VEVENT
-DTSTAMP:20220317T083146Z
+DTSTAMP:20220319T080222Z
 UID:2022-03-schlagwort-podcast-154@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 154
@@ -17,13 +17,13 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aW9ZdRL-jpo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T083146Z
-UID:2022-03-schlagwort-podcast-155@kampfkalender.de
+DTSTAMP:20220319T080222Z
+UID:2022-03-schlagwort-podcast-155-peter-sobotta@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast 155
+SUMMARY:Schlagwort Podcast 155: Peter Sobotta
 DTSTART:20220320T170000Z
 DTEND:20220320T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3vEOXysCbrE
 END:VEVENT
 END:VCALENDAR
