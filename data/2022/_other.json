@@ -234,5 +234,84 @@
         }
       }
     }
+  },
+  {
+    "id": "night-of-the-fighters-2022-03-19",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Buchen"
+    ],
+    "mainCard": {
+      "title": "Night of the Fighters",
+      "time": "2022-03-19T17:00:00Z",
+      "until": "2022-03-19T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "freeAfter": 24
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "night-of-the-fighters",
+      "time": "2022-03-19T12:00:00Z",
+      "until": "2022-03-19T21:00:00Z",
+      "title": "Night of the Fighters",
+      "url": "https://www.fightevents.de/event/night-of-the-fighters/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Cameron Brunke",
+        "Denis Schneider",
+        "Dimitry Mechanikov",
+        "Fight24.tv",
+        "Hainstadt",
+        "Jason Klein",
+        "Jason Sakraschinsky",
+        "K1",
+        "Kerim Yerligül",
+        "Kickboxen",
+        "Marvin Grimm",
+        "Nick Beschner",
+        "Night of the Fighters",
+        "Raua Omer",
+        "Tarik Elfarra"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "MMA",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "bjornsson-hall-2022-03-19",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#ThorVsEddie",
+      "#ThorEddie",
+      "#BjornssonHall"
+    ],
+    "links": [
+      "https://www.tapology.com/fightcenter/events/87752-thor-vs-eddie-heaviest-boxing-match-in-history"
+    ],
+    "mainCard": {
+      "title": "Thor vs. Eddie: The Heaviest Boxing Match In History",
+      "time": "2022-03-19T20:30:00Z",
+      "until": "2022-03-19T22:30:00Z",
+      "broadcasters": {
+        "SEGI_TV": {
+          "url": "https://www.segi.tv/thorvseddie",
+          "free": true
+        }
+      }
+    }
   }
 ]

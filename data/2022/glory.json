@@ -97,5 +97,67 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-86025",
+    "promotion": "GLORY",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Glory80"
+    ],
+    "mainCard": {
+      "title": "Glory 80",
+      "time": "2022-03-19T19:00:00Z",
+      "tags": [
+        "#BenSaddik",
+        "#BadrHari"
+      ],
+      "broadcasters": {
+        "GLORY_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Glory 80: Prelims",
+      "time": "2022-03-19T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=hU7Run422Go",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "hU7Run422Go",
+        "time": "2022-03-19T18:00:00Z",
+        "title": "LIVE: Glory Superfight Series | Glory 80 Undercard  | 19.3. - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=hU7Run422Go",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 86025,
+      "time": "2022-03-19T19:00:00Z",
+      "title": "Glory 80",
+      "info": "Confirmed Upcoming Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/86025-glory-80",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Event: Jamal Ben Saddik vs. Levi Rigters",
+        "Co-Main Event: Badr Hari vs. Arkadiusz Wrzosek",
+        "Main Card: Tiffany Van Soest vs. Manazo Kobayashi",
+        "Main Card: Ertugrul Bayrak vs. Serkan Ozcaglayan",
+        "Main Card: Nordin Ben Moh vs. Guerric Billet",
+        "Main Card: Jos van Belzen vs. Jay Overmeer"
+      ]
+    }
   }
 ]
