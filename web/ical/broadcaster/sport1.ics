@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220318T122348Z
-X-KAMPFKALENDER-HASH:1bde5f28363b6b1a0a9257ecec6a0c8ed68131e4
+DTSTAMP:20220321T173900Z
+X-KAMPFKALENDER-HASH:ca6dbc1ed04795e10ec3b8a4ed894708cba5454a
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220321T173903Z
 UID:2022-03-baraou-vs-chaves@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Baraou vs. Chaves
@@ -25,20 +25,19 @@ DESCRIPTION:via SPORT1\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  Card: Hamsat Shadalov (0-0-0) vs. Achiko Odikadze (19-18-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
-UID:2022-04-nfc-8@kampfkalender.de
+DTSTAMP:20220321T173903Z
+UID:2022-04-nfc-8-errens-vs-ozyildirim-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 8
-DTSTART:20220402T160000Z
-DTEND:20220402T210000Z
-CATEGORIES:NFC,MMA,SPORT1,SPORT1 Extra,fighting.de,fight24.tv,live,kosten
- los
-DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de: https://www.yo
- utube.com/watch?v=aMxbwdhjgB4\nvia fight24.tv\n\n---\n\nhttps://www.figh
- tevents.de/event/nfc-8-errens-vs-oezyildirim-2/
+SUMMARY:NFC 8: Errens vs. Özyildirim 2
+DTSTART:20220402T210000Z
+DTEND:20220402T223000Z
+CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
+DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
+ aMxbwdhjgB4\nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/n
+ fc-8-errens-vs-oezyildirim-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220321T173903Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -50,7 +49,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220321T173903Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -62,7 +61,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220321T173903Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -74,7 +73,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220321T173903Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

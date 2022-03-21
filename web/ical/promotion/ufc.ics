@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220320T230304Z
-X-KAMPFKALENDER-HASH:e65798e2cfef19febdbb1f80621cadee8c4bdd5d
+DTSTAMP:20220321T173900Z
+X-KAMPFKALENDER-HASH:890d13cf97f3d4c31176fd21872a98aafe23a799
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-03-ufc-london-ceremonial-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Ceremonial Weigh-In
@@ -17,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=0SKtDNFEb_Y
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-03-ufc-london-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Prelims
@@ -44,7 +44,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  . Cody Durden (12-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-03-ufc-london-volkov-vs-aspinall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Volkov vs. Aspinall
@@ -71,7 +71,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (5-0-0) vs. Cody Durden (12-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-03-ufc-london-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Post-Fight Press Conference
@@ -81,7 +81,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=pR7ex3yI5og
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-03-ufc-columbus-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Columbus: Prelims
@@ -89,21 +89,26 @@ DTSTART:20220326T200000Z
 DTEND:20220326T230000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/84285-ufc-fight-night\n\n---\n\nMain Event: Curtis Blaydes (
- 15-3-0) vs. Chris Daukaus (12-4-0)\nCo-Main Event: Joanne Wood (15-7-0) 
- vs. Alexa Grasso (13-3-0)\nMain Card: Askar Askarov (14-0-1) vs. Kai Kar
- a-France (23-9-0)\nMain Card: Matt Brown (23-18-0) vs. Bryan Barberena (
- 16-8-0)\nMain Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi (15-8-0)\n
- Prelim: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)\nPrelim: David Dvoř
- ák (20-3-0) vs. Matheus Nicolau (17-2-1)\nPrelim: Neil Magny (25-8-0) vs
- . Max Griffin (18-8-0)\nPrelim: Marc Diakiese (14-5-0) vs. Viacheslav Bo
- rshchev (6-1-0)\nPrelim: Luis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)\
- nPrelim: Batgerel Danaa (12-2-0) vs. Chris Gutierrez (17-3-2)\nPrelim: J
- ennifer Maia (19-8-1) vs. Manon Fiorot (8-1-0)\nPrelim: Aliaskhab Khizri
- ev (13-0-0) vs. Denis Tiuliulin (10-5-0)
+ nter/events/84285-ufc-fight-night\nhttp://www.sherdog.com/events/ufc-on-
+ espn-33-blaydes-vs-daukaus-91130\nhttp://en.wikipedia.org/wiki/UFC_Fight
+ _Night:_Blaydes_vs._Daukaus\nhttps://events.mixedmartialarts.com/ufc-fig
+ ht-night:21ce6f0f-ab02-4310-801a-763a4c3d81a2\nhttps://www.ufc.com/event
+ /ufc-fight-night-march-26-2022\nhttps://www.bestfightodds.com/events/ufc
+ -fight-night-207-2391\n\n---\n\nMain Event: Curtis Blaydes (15-3-0) vs. 
+ Chris Daukaus (12-4-0)\nCo-Main Event: Joanne Wood (15-7-0) vs. Alexa Gr
+ asso (13-3-0)\nMain Card: Askar Askarov (14-0-1) vs. Kai Kara-France (23
+ -9-0)\nMain Card: Matt Brown (23-18-0) vs. Bryan Barberena (16-8-0)\nMai
+ n Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi (15-8-0)\nPrelim: Jenn
+ ifer Maia (19-8-1) vs. Manon Fiorot (8-1-0)\nPrelim: Neil Magny (25-8-0)
+  vs. Max Griffin (18-8-0)\nPrelim: Marc Diakiese (14-5-0) vs. Viacheslav
+  Borshchev (6-1-0)\nPrelim: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)
+ \nPrelim: Batgerel Danaa (12-2-0) vs. Chris Gutierrez (17-3-2)\nPrelim: 
+ David Dvořák (20-3-0) vs. Matheus Nicolau (17-2-1)\nPrelim: Aliaskhab Kh
+ izriev (13-0-0) vs. Denis Tiuliulin (10-5-0)\nPrelim: Luis Saldaña (15-7
+ -0) vs. Bruno Souza (10-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-03-ufc-columbus-blaydes-vs-daukaus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Columbus: Blaydes vs. Daukaus
@@ -111,21 +116,26 @@ DTSTART:20220326T230000Z
 DTEND:20220327T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/84285-ufc-fight-night\n\n---\n\nMain Event: Curtis
-  Blaydes (15-3-0) vs. Chris Daukaus (12-4-0)\nCo-Main Event: Joanne Wood
-  (15-7-0) vs. Alexa Grasso (13-3-0)\nMain Card: Askar Askarov (14-0-1) v
- s. Kai Kara-France (23-9-0)\nMain Card: Matt Brown (23-18-0) vs. Bryan B
- arberena (16-8-0)\nMain Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi 
- (15-8-0)\nPrelim: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)\nPrelim: 
- David Dvořák (20-3-0) vs. Matheus Nicolau (17-2-1)\nPrelim: Neil Magny (
- 25-8-0) vs. Max Griffin (18-8-0)\nPrelim: Marc Diakiese (14-5-0) vs. Via
- cheslav Borshchev (6-1-0)\nPrelim: Luis Saldaña (15-7-0) vs. Bruno Souza
-  (10-2-0)\nPrelim: Batgerel Danaa (12-2-0) vs. Chris Gutierrez (17-3-2)\
- nPrelim: Jennifer Maia (19-8-1) vs. Manon Fiorot (8-1-0)\nPrelim: Aliask
- hab Khizriev (13-0-0) vs. Denis Tiuliulin (10-5-0)
+ om/fightcenter/events/84285-ufc-fight-night\nhttp://www.sherdog.com/even
+ ts/ufc-on-espn-33-blaydes-vs-daukaus-91130\nhttp://en.wikipedia.org/wiki
+ /UFC_Fight_Night:_Blaydes_vs._Daukaus\nhttps://events.mixedmartialarts.c
+ om/ufc-fight-night:21ce6f0f-ab02-4310-801a-763a4c3d81a2\nhttps://www.ufc
+ .com/event/ufc-fight-night-march-26-2022\nhttps://www.bestfightodds.com/
+ events/ufc-fight-night-207-2391\n\n---\n\nMain Event: Curtis Blaydes (15
+ -3-0) vs. Chris Daukaus (12-4-0)\nCo-Main Event: Joanne Wood (15-7-0) vs
+ . Alexa Grasso (13-3-0)\nMain Card: Askar Askarov (14-0-1) vs. Kai Kara-
+ France (23-9-0)\nMain Card: Matt Brown (23-18-0) vs. Bryan Barberena (16
+ -8-0)\nMain Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi (15-8-0)\nPr
+ elim: Jennifer Maia (19-8-1) vs. Manon Fiorot (8-1-0)\nPrelim: Neil Magn
+ y (25-8-0) vs. Max Griffin (18-8-0)\nPrelim: Marc Diakiese (14-5-0) vs. 
+ Viacheslav Borshchev (6-1-0)\nPrelim: Sara McMann (12-6-0) vs. Karol Ros
+ a (15-3-0)\nPrelim: Batgerel Danaa (12-2-0) vs. Chris Gutierrez (17-3-2)
+ \nPrelim: David Dvořák (20-3-0) vs. Matheus Nicolau (17-2-1)\nPrelim: Al
+ iaskhab Khizriev (13-0-0) vs. Denis Tiuliulin (10-5-0)\nPrelim: Luis Sal
+ daña (15-7-0) vs. Bruno Souza (10-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-273-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Early Prelims
@@ -147,7 +157,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  is (16-2-0) vs. Anthony Hernandez (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-273-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Prelims
@@ -169,7 +179,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  is (16-2-0) vs. Anthony Hernandez (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-273-volkanovski-vs-korean-zombie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Volkanovski vs. Korean Zombie
@@ -191,11 +201,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s Du Plessis (16-2-0) vs. Anthony Hernandez (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-vegas-51-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51: Prelims
-DTSTART:20220416T200000Z
+DTSTART:20220416T213000Z
 DTEND:20220416T230000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
@@ -214,7 +224,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-vegas-51-luque-vs-muhammad-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51: Luque vs. Muhammad 2
@@ -237,7 +247,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  J. Laramie (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-fight-night-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Prelims
@@ -258,7 +268,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  džović (14-6-0) vs. Steve Garcia (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Lemos vs. Andrade
@@ -279,7 +289,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  : Damir Hadžović (14-6-0) vs. Steve Garcia (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -300,7 +310,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Jake Collier (13-6-0) vs. Justin Tafa (5-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-05-ufc-274-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Early Prelims
@@ -324,7 +334,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-05-ufc-274-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Prelims
@@ -348,7 +358,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-05-ufc-274-oliveira-vs-gaethje@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Oliveira vs. Gaethje
@@ -372,7 +382,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Cortez (9-1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-05-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -388,7 +398,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  m: Nick Maximov (8-0-0) vs. Andre Petroski (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-05-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -406,7 +416,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   vs. Duško Todorović (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -421,7 +431,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka
@@ -437,7 +447,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0) vs. Jacob Malkoun (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-07-ufc-276@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276
@@ -449,7 +459,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -8-0) vs. Lauren Murphy (15-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220321T173903Z
 UID:2022-10-ufc-281@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281

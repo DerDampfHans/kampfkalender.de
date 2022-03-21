@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220316T091740Z
-X-KAMPFKALENDER-HASH:052d5df33f9eef24b49b6508c5e4022d866480c8
+DTSTAMP:20220321T173900Z
+X-KAMPFKALENDER-HASH:6b280ba2a61dc9a5ac5990eab3b5a23034fbb19c
 BEGIN:VEVENT
-DTSTAMP:20220316T091741Z
+DTSTAMP:20220321T173901Z
 UID:2022-03-eternal-mma-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 64
@@ -32,5 +32,22 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Main Card: Stefan Lipski (0-0-0) vs. Dan Gall (0-1-0)\nMain Card: Jimmy 
  McKenna (0-0-0) vs. Dominique Simon (2-1-0)\nMain Card: Giovanni Zampagl
  ione (0-0-0) vs. Augusto Bernardi (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220321T173901Z
+UID:2022-04-eternal-mma-65@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 65
+DTSTART:20220423T080000Z
+DTEND:20220423T110000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87772-eternal-mma-65\n\n---\n\nMain Event: Jack Becker (10-2
+ -0) vs. Aidan Aguilera (8-5-0)\nCo-Main Event: Shaun Etchell (7-2-0) vs.
+  Shannon Ross (13-5-0)\nMain Card: Kevin Jousset (5-1-0) vs. David Franc
+ is (9-5-0)\nMain Card: Sean Gauci (6-1-0) vs. Anthony Drilich (2-1-0)\nM
+ ain Card: Roy Armistead (0-1-0) vs. Dom Mar Fan (0-0-0)\nMain Card: Luke
+  Catubig (9-11-1) vs. James O'Brien (3-3-0)\nPrelim: Sam Marles (1-2-0) 
+ vs. Laurence Whitesmith (3-0-0)
 END:VEVENT
 END:VCALENDAR

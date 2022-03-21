@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220312T022443Z
-X-KAMPFKALENDER-HASH:e29649071b2bc6a4ddefcc79bca3618b51826bf3
+DTSTAMP:20220321T173900Z
+X-KAMPFKALENDER-HASH:6fb3e508fa2c9507bbd423590d2c201cd6eabb54
 BEGIN:VEVENT
-DTSTAMP:20220312T022443Z
+DTSTAMP:20220321T173901Z
 UID:2022-04-ces-67@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CES 67
@@ -18,12 +18,24 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/86561-ces-67\nhttps://events.mixedmartialarts.com/ces-67:d33
  1b446-53a9-40d7-bfde-28a67cc26118\n\n---\n\nMain Event: Eric Spicely (12
  -8-0) vs. Justin Sumter (8-4-0)\nMain Card: Pat Casey (8-4-0) vs. Armus 
- Guyton (5-2-0)\nMain Card: Johnny Lopez (12-5-0) vs. Bruno Dias (19-12-0
- )\nMain Card: Tristan Lindi (2-4-0) vs. Mike Kimbel (3-3-0)\nMain Card: 
- Eddy George (4-0-0) vs. Christian Leonard (9-8-0)\nMain Card: Tim Flores
-  (3-1-0) vs. Harris Bonfiglio (3-1-0)\nMain Card: Mus'Aib Baiyina (0-0-0
- ) vs. Yuri Panferov (1-0-0)\nMain Card: David Michael Durao (0-1-0) vs. 
- Daniel Maldonado (0-4-0)\nMain Card: Casey Norton (0-0-0) vs. Pedro Vill
- a (0-0-0)
+ Guyton (5-2-0)\nMain Card: Tristan Lindi (2-4-0) vs. Mike Kimbel (3-3-0)
+ \nMain Card: Eddy George (4-0-0) vs. Christian Leonard (9-8-0)\nMain Car
+ d: Tim Flores (3-1-0) vs. Harris Bonfiglio (3-1-0)\nMain Card: Mus'Aib B
+ aiyina (0-0-0) vs. Yuri Panferov (1-0-0)\nMain Card: David Michael Durao
+  (0-1-0) vs. Daniel Maldonado (0-4-0)\nMain Card: Casey Norton (0-0-0) v
+ s. Pedro Villa (0-0-0)\nMain Card: Johnny Lopez (12-5-0) vs. Azjavkhlan 
+ Baatar (7-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220321T173901Z
+UID:2022-05-ces-68@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CES 68
+DTSTART:20220507T010000Z
+DTEND:20220507T040000Z
+CATEGORIES:CES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87778-ces-68\nhttps://events.mixedmartialarts.com/ces-68:0f8
+ 15253-6e84-4e5c-9f2d-51ce2d4aa6f1
 END:VEVENT
 END:VCALENDAR
