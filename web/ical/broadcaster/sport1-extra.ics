@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220321T173900Z
-X-KAMPFKALENDER-HASH:ff48f96b7834ba0ca86a2a6d8696a186a2768be4
+DTSTAMP:20220321T174057Z
+X-KAMPFKALENDER-HASH:acd8391e16ff2efdbb903b7d7a42bc47d81a0a48
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-03-boxing-after-dark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark
@@ -30,30 +30,43 @@ DESCRIPTION:via SPORT1 Extra: https://www.sport1extra.de/en-int/page/figh
  i (6-0-0) vs. Jakub Chval (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-04-nfc-8-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Prelims
 DTSTART:20220402T160000Z
 DTEND:20220402T180000Z
-CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
+CATEGORIES:NFC,MMA,fighting.de,fight24.tv,SPORT1 Extra,live,kostenlos
+DESCRIPTION:via fighting.de\nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-8-errens-vs-oezyildirim-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-04-nfc-8-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Main Card
 DTSTART:20220402T180000Z
 DTEND:20220402T210000Z
-CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
+CATEGORIES:NFC,MMA,fighting.de,fight24.tv,SPORT1 Extra,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=aMxbwdhjgB4\
- nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/e
+ nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/e
  vent/nfc-8-errens-vs-oezyildirim-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
+UID:2022-04-nfc-8-errens-vs-ozyildirim-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 8: Errens vs. Özyildirim 2
+DTSTART:20220402T210000Z
+DTEND:20220402T223000Z
+CATEGORIES:NFC,MMA,SPORT1,SPORT1 Extra,fighting.de,fight24.tv,live,kosten
+ los
+DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de: https://www.yo
+ utube.com/watch?v=aMxbwdhjgB4\nvia fight24.tv\n\n---\n\nhttps://www.figh
+ tevents.de/event/nfc-8-errens-vs-oezyildirim-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220321T174058Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -63,7 +76,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-06-nfc-9-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Main Card
@@ -73,7 +86,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -85,7 +98,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -95,7 +108,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -105,7 +118,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -117,7 +130,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -127,7 +140,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -137,7 +150,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -149,7 +162,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -159,7 +172,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -169,7 +182,7 @@ CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T173903Z
+DTSTAMP:20220321T174058Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
