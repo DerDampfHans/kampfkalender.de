@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220320T230304Z
-X-KAMPFKALENDER-HASH:a9156b97056d463905845b9e99b0d3c28376448d
+DTSTAMP:20220322T123448Z
+X-KAMPFKALENDER-HASH:9944c44c443d2ae819d15ba26a8f244955c1ac3a
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220322T123448Z
 UID:2022-03-thanh-le-schlagt-garry-tonon-ko-lineker-wird-fw-champion-one-
  lights-out-review@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Or7FkmCwaJQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220322T123448Z
 UID:2022-03-preview-zu-ufc-london-aspinall-vs-volkov-paddy-pimblett-dan-h
  ooker-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -31,7 +31,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yp8lwqdC6jQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T230304Z
+DTSTAMP:20220322T123448Z
 UID:2022-03-schlagwort-podcast-155-peter-sobotta@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 155: Peter Sobotta
@@ -39,5 +39,16 @@ DTSTART:20220320T170000Z
 DTEND:20220320T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3vEOXysCbrE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220322T123448Z
+UID:2022-03-paddy-pimblett-und-molly-mccann-rocken-london@kampfkalender.d
+ e
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paddy Pimblett und Molly McCann rocken London!
+DTSTART:20220322T190000Z
+DTEND:20220322T200000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZ5WiiOSbhg
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220317T055601Z
-X-KAMPFKALENDER-HASH:33aa9440859baf6b0585c31670f0fa1192255b91
+DTSTAMP:20220322T123448Z
+X-KAMPFKALENDER-HASH:a7be3758906d5fa20b896af2284c42a536e967c3
 BEGIN:VEVENT
-DTSTAMP:20220317T055601Z
+DTSTAMP:20220322T123448Z
 UID:2022-03-thanh-le-schlagt-garry-tonon-ko-lineker-wird-fw-champion-one-
  lights-out-review@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Or7FkmCwaJQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220317T055601Z
+DTSTAMP:20220322T123448Z
 UID:2022-03-preview-zu-ufc-london-aspinall-vs-volkov-paddy-pimblett-dan-h
  ooker-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,5 +29,16 @@ DTSTART:20220317T160000Z
 DTEND:20220317T170000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yp8lwqdC6jQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220322T123448Z
+UID:2022-03-paddy-pimblett-und-molly-mccann-rocken-london@kampfkalender.d
+ e
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paddy Pimblett und Molly McCann rocken London!
+DTSTART:20220322T190000Z
+DTEND:20220322T200000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZ5WiiOSbhg
 END:VEVENT
 END:VCALENDAR
