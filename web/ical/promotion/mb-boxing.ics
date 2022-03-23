@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220319T230303Z
-X-KAMPFKALENDER-HASH:51703a90647e17465d6b5f07d2ffb86a176848c1
+DTSTAMP:20220323T001217Z
+X-KAMPFKALENDER-HASH:ab6e28e5a38a7643e88b243a3fc65a7d0a13e784
 BEGIN:VEVENT
-DTSTAMP:20220319T230304Z
+DTSTAMP:20220323T001217Z
 UID:2022-03-martinez-vs-warrington-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Warrington 2
@@ -19,10 +19,11 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  n---\n\nMain Event: Kiko Martinez (43-10-2) vs. Josh Warrington (30-1-1)
  \nMain Card: Maxi Hughes (24-5-2) vs. Ryan Walsh (27-3-2)\nMain Card: Ma
  ria Cecilia Roman (16-5-1) vs. Ebanie Bridges (7-1-0)\nMain Card: Dalton
-  Smith (9-0-0) vs. Ray Moylette (12-1-0)
+  Smith (9-0-0) vs. Ray Moylette (12-1-0)\nMain Card: Skye Nicolson (0-0-
+ 0) vs. Bec Connolly (3-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T230304Z
+DTSTAMP:20220323T001217Z
 UID:2022-04-martin-vs-felix@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martin vs. Felix
@@ -37,7 +38,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0-0) vs. Fadhili Majiha (24-14-4)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T230304Z
+DTSTAMP:20220323T001217Z
 UID:2022-04-benn-vs-van-heerden@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Van Heerden
@@ -49,5 +50,20 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -\n\nMain Event: Conor Benn (20-0-0) vs. Chris van Heerden (28-2-1)\nCo-
  Main Event: Chris Billam-Smith (14-1-0) vs. Tommy McCarthy (18-3-0)\nMai
  n Card: Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220323T001217Z
+UID:2022-04-zucco-vs-nikolic@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zucco vs. Nikolic
+DTSTART:20220422T173000Z
+DTEND:20220422T203000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87681-zucco-vs-nikolic\nhttp://www.boxrec.com/en/event/851241\n\n---\n
+ \nMain Card: Ivan Zucco (15-0-0) vs. Marko Nikolic (28-1-0)\nMain Card: 
+ Mirko Natalizi (11-0-0) vs. Tony Dixon (13-3-0)\nMain Card: Francesco Gr
+ andelli (15-1-2) vs. Kane Baker (17-8-1)\nMain Card: Samuel Nmomah (16-0
+ -0) vs. Felice Moncelli (22-6-1)
 END:VEVENT
 END:VCALENDAR

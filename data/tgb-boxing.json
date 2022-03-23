@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#TszyuGuasha"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Tszyu vs. Guasha",
-      "time": "2022-03-27T02:00:00Z"
+      "time": "2022-03-27T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/pbc-tszyu-vs-gausha/2pb26/"
+        }
+      },
+      "fite": {
+        "id": "2pb26",
+        "time": "2022-03-27T01:00:00Z",
+        "title": "PBC: Tim Tszyu vs Terrell Gausha",
+        "url": "https://www.fite.tv/watch/pbc-tszyu-vs-gausha/2pb26/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 84674,

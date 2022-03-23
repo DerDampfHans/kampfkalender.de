@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220322T104050Z
-X-KAMPFKALENDER-HASH:96f1f2d056a9f5ba885c041e382cb57560f7019c
+DTSTAMP:20220323T001217Z
+X-KAMPFKALENDER-HASH:c7118a472afeff7bc6cf9cb6c979e9cf037e6d44
 BEGIN:VEVENT
-DTSTAMP:20220322T104050Z
+DTSTAMP:20220323T001217Z
 UID:2022-03-lfa-127-diaz-vs-assis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 127: Diaz vs. Assis
@@ -27,7 +27,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220322T104050Z
+DTSTAMP:20220323T001217Z
 UID:2022-04-lfa-128-mckenzie-vs-clay@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 128: McKenzie vs. Clay
@@ -36,10 +36,16 @@ DTEND:20220409T040000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/87671-lfa-128-mckenzie-vs-clay\n\n---\n\nMain Event: Aaron M
- cKenzie (10-2-1) vs. Lucas Clay (8-1-0)
+ cKenzie (10-2-1) vs. Lucas Clay (8-1-0)\nMain Card: Jimmy Lawson (3-1-0)
+  vs. Marino Eatman (5-4-1)\nMain Card: Mitchell McKee (1-0-0) vs. Jalen 
+ Jackson (0-1-0)\nPrelim: Sarek Shields (2-0-0) vs. Thad Jean (2-0-0)\nPr
+ elim: Alandria Brown (1-1-0) vs. Rachel Martinez (0-0-0)\nPrelim: Brett 
+ Bye (1-0-0) vs. Jhellani Olton (2-0-0)\nPrelim: Cheyanne Bowers (5-1-0) 
+ vs. Kaeley Fenhaus (1-0-0)\nPrelim: Zach Sulzer (1-1-0) vs. Jorge Apalat
+ egui (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220322T104050Z
+DTSTAMP:20220323T001217Z
 UID:2022-04-lfa-129-petersen-vs-cortes-acosta@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 129: Petersen vs. Cortes-Acosta
@@ -48,6 +54,33 @@ DTEND:20220416T040000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/87693-lfa-129-petersen-vs-cortes-acosta\n\n---\n\nMain Event
- : Thomas Petersen (5-0-0) vs. Waldo Cortes-Acosta (5-0-0)
+ : Thomas Petersen (5-0-0) vs. Waldo Cortes-Acosta (5-0-0)\nMain Card: Hy
+ der Amil (5-0-0) vs. Devante Sewell (9-6-0)\nMain Card: Tyus White (4-1-
+ 0) vs. Jeff Jepsen (6-3-0)\nMain Card: Tee Cummins (4-1-0) vs. Dylan Bud
+ ka (2-1-0)\nPrelim: Derek Smith (10-8-0) vs. Scott Writz (4-2-0)\nPrelim
+ : Miguel Sanson (2-0-0) vs. Gonzalo Ponce (4-4-0)\nPrelim: Quang Le (3-0
+ -0) vs. Sam Paneitz (2-1-0)\nPrelim: Reshal Malik (3-3-1) vs. Kyles Vang
+  (0-1-0)\nPrelim: Mike O'Gorman (2-2-0) vs. Austin Robinson (0-1-0)\nPre
+ lim: C.J. Hays (4-2-0) vs. Anthony Cain (4-0-0)\nPrelim: Santos Verdinez
+  (5-0-0) vs. Gabriel Wanderley (5-1-0)\nPrelim: Andrew Wilson (0-1-0) vs
+ . Scott Zeller (0-0-0)\nPrelim: Mitchell Wilson (1-0-0) vs. John Fudge (
+ 1-0-0)\nPrelim: Gunner Charbonneau (0-1-0) vs. Eric Newman (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220323T001217Z
+UID:2022-04-lfa-130-ksiazkiewicz-vs-gambulino@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 130: Ksiazkiewicz vs. Gambulino
+DTSTART:20220423T010000Z
+DTEND:20220423T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87858-lfa-130-ksiazkiewicz-vs-gambulino\n\n---\n\nMain Event
+ : Mariusz Ksiazkiewicz (9-1-0) vs. Alessandro Gambulino (12-3-0)\nMain C
+ ard: Marnic Mann (4-0-0) vs. Kelsey Arnesen (1-1-0)\nMain Card: Hilarie 
+ Rose (5-4-0) vs. Tiani Valle (3-3-0)\nMain Card: Gage Saunders (8-4-0) v
+ s. Jalin Fuller (5-1-0)\nMain Card: Billy Elekana (3-0-0) vs. Kohlman Sc
+ ribner (3-1-0)\nMain Card: Manatua Lemaire (3-0-0) vs. Daniel Gadley (4-
+ 1-0)
 END:VEVENT
 END:VCALENDAR
