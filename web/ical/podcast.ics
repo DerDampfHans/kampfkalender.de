@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220322T230304Z
-X-KAMPFKALENDER-HASH:1d801e4c321c43c4e70ecbbdd2c0dd89fe4df41b
+DTSTAMP:20220323T115807Z
+X-KAMPFKALENDER-HASH:9aba1bb3810730c5f82d856ca71a987aea6197b8
 BEGIN:VEVENT
-DTSTAMP:20220322T230304Z
+DTSTAMP:20220323T115807Z
 UID:2022-03-preview-zu-ufc-london-aspinall-vs-volkov-paddy-pimblett-dan-h
  ooker-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yp8lwqdC6jQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220322T230304Z
+DTSTAMP:20220323T115807Z
 UID:2022-03-schlagwort-podcast-155-peter-sobotta@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 155: Peter Sobotta
@@ -29,7 +29,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3vEOXysCbrE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220322T230304Z
+DTSTAMP:20220323T115807Z
 UID:2022-03-paddy-pimblett-und-molly-mccann-rocken-london@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -38,5 +38,16 @@ DTSTART:20220322T190000Z
 DTEND:20220322T200000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZ5WiiOSbhg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220323T115807Z
+UID:2022-03-fur-die-hard-fans-ufc-london-prelims-analyse@kampfkalender.de
+ 
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Für Die-Hard Fans: UFC London Prelims-Analyse!
+DTSTART:20220323T170000Z
+DTEND:20220323T181500Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PPz7H8tHHEQ
 END:VEVENT
 END:VCALENDAR
