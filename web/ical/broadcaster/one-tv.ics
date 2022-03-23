@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220323T004453Z
-X-KAMPFKALENDER-HASH:ee642d844f54f781c7c92c1ac6abe177393a58c1
+DTSTAMP:20220323T123835Z
+X-KAMPFKALENDER-HASH:1fc7b257b0126b8659922ad0398e66d46af53e88
 BEGIN:VEVENT
-DTSTAMP:20220323T004454Z
-UID:2022-03-one-championship-one-x@kampfkalender.de
+DTSTAMP:20220323T123835Z
+UID:2022-03-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Championship: One X
-DTSTART:20220326T050000Z
-DTEND:20220326T080000Z
+SUMMARY:ONE X
+DTSTART:20220326T120000Z
+DTEND:20220326T150000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,ONE TV,live
 DESCRIPTION:via ONE TV: https://watch.onefc.com/onex\n\n---\n\nhttps://ww
  w.tapology.com/fightcenter/events/85971-one-championship\n\n---\n\nMain 
@@ -32,10 +32,10 @@ DESCRIPTION:via ONE TV: https://watch.onefc.com/onex\n\n---\n\nhttps://ww
  n Card: Ryuto Sawada (14-7-1) vs. Senzo Ikeda (13-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T004454Z
-UID:2022-04-one-championship-reloaded@kampfkalender.de
+DTSTAMP:20220323T123835Z
+UID:2022-04-one-reloaded@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Championship: Reloaded
+SUMMARY:ONE Reloaded
 DTSTART:20220408T090000Z
 DTEND:20220408T120000Z
 CATEGORIES:ONE,Kickboxen,ONE TV,live
