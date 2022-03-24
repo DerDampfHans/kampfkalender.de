@@ -5,10 +5,18 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#ArslanThes"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Rising Stars",
-      "time": "2022-03-26T18:00:00Z"
+      "title": "Arslan vs. Thes",
+      "time": "2022-03-26T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-arslan-vs-thes-433",
+          "freeAfter": 24
+        }
+      }
     },
     "tapology": {
       "id": 87819,

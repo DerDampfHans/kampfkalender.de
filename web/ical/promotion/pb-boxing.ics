@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220318T122348Z
-X-KAMPFKALENDER-HASH:07bbc02a83a5e32a308714dc398f69f1da5eb776
+DTSTAMP:20220324T145836Z
+X-KAMPFKALENDER-HASH:b1de89eb2e591ca0c718ea51fea965456b29dfd9
 BEGIN:VEVENT
-DTSTAMP:20220318T122349Z
+DTSTAMP:20220324T145837Z
 UID:2022-03-edwards-vs-waseem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Edwards vs. Waseem
@@ -26,5 +26,21 @@ DESCRIPTION:via Eurosport 2\nvia DAZN\n\n---\n\nhttps://www.tapology.com/
   (8-1-0) vs. Mohamed Kashinde (0-0-0)\nMain Card: K. Qodirokhunov (0-0-0
  ) vs. Faizan Anwar (11-0-0)\nMain Card: Jamie King (2-0-0) vs. Naveen Ve
  rma (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220324T145837Z
+UID:2022-03-ritson-vs-zlaticanin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ritson vs. Zlaticanin
+DTSTART:20220325T210000Z
+DTEND:20220326T000000Z
+CATEGORIES:PB,Boxen,Eurosport,live,kostenlos
+DESCRIPTION:via Eurosport\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/86461-throwdown-ritson-vs-zlaticanin\nhttp://www.boxrec.com/en/ev
+ ent/847387\n\n---\n\nMain Event: Lewis Ritson (22-2-0) vs. Dejan Zlatica
+ nin (24-3-0)\nCo-Main Event: Troy Williamson (17-0-1) vs. Mason Cartwrig
+ ht (17-2-1)\nMain Card: Thomas Patrick Ward (32-0-1) vs. Alexis Kabore (
+ 28-5-0)\nMain Card: Pat McCormack (0-0-0) vs. Danny Mendoza (6-6-0)\nMai
+ n Card: Mark Dickinson (0-0-0) vs. Peter Kramer (11-4-3)
 END:VEVENT
 END:VCALENDAR

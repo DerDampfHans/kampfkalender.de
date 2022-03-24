@@ -5,10 +5,18 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#RitsonZlaticanin"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Throwdown: Ritson vs. Zlaticanin",
-      "time": "2022-03-25T20:00:00Z"
+      "title": "Ritson vs. Zlaticanin",
+      "time": "2022-03-25T21:00:00Z",
+      "until": "2022-03-26T00:00:00Z",
+      "broadcasters": {
+        "EUROSPORT": {
+          "free": true
+        }
+      }
     },
     "tapology": {
       "id": 86461,

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220323T140816Z
-X-KAMPFKALENDER-HASH:a741bb5e3f2dc7ef24223b9b4b43816aa67f5507
+DTSTAMP:20220324T152045Z
+X-KAMPFKALENDER-HASH:83a6b20833ae052020bbc11978e888ca688f9081
 BEGIN:VEVENT
-DTSTAMP:20220323T140817Z
+DTSTAMP:20220324T152045Z
 UID:2022-03-boxing-after-dark-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  rmoui (6-0-0) vs. Jakub Chval (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T140817Z
+DTSTAMP:20220324T152045Z
 UID:2022-03-boxing-after-dark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark
@@ -52,7 +52,25 @@ DESCRIPTION:via SPORT1 Extra: https://www.sport1extra.de/en-int/page/figh
  i (6-0-0) vs. Jakub Chval (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T140817Z
+DTSTAMP:20220324T152045Z
+UID:2022-03-arslan-vs-thes@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Arslan vs. Thes
+DTSTART:20220326T170000Z
+DTEND:20220326T200000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ar
+ slan-vs-thes-433\n\n---\n\nhttps://www.tapology.com/fightcenter/events/8
+ 7819-rising-stars\nhttp://www.boxrec.com/en/event/850729\n\n---\n\nMain 
+ Card: Firat Arslan (50-9-3) vs. Toni Thes (16-9-0)\nMain Card: Edi Delib
+ altaoglu (8-5-0) vs. Gusmyr Perdomo (26-12-0)\nMain Card: Uwel Hernandez
+  (12-1-0) vs. Mefire Jackie (0-0-0)\nMain Card: Huseyin Cinkara (17-0-0)
+  vs. Marek Prochazka (10-3-1)\nMain Card: Raphael Rogers (4-0-0) vs. Sla
+ viša Simeunović (39-49-0)\nMain Card: Ali Hetemi (0-0-0) vs. Nikola Ugar
+ ković (0-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220324T152045Z
 UID:2022-03-sturm-vs-szili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Sturm vs. Szili
