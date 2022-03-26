@@ -1242,5 +1242,87 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-84285",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFCColumbus"
+    ],
+    "mainCard": {
+      "title": "UFC Columbus: Blaydes vs. Daukaus",
+      "time": "2022-03-26T23:00:00Z",
+      "tags": [
+        "🎙@MarkBergmann"
+      ],
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213902,
+        "time": "2022-03-26T23:00:00Z",
+        "title": "UFC Fight Night: Blaydes vs Daukaus"
+      },
+      "dazn": {
+        "id": "144ys4b4ux5qk19z8jmpn0mk2k",
+        "time": "2022-03-26T23:00:00Z",
+        "title": "UFC Fight Night: Blaydes vs Daukaus (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Kommentator: Mark Bergmann"
+      }
+    },
+    "prelims": {
+      "title": "UFC Columbus: Prelims",
+      "time": "2022-03-26T20:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213901,
+        "time": "2022-03-26T20:00:00Z",
+        "title": "UFC Fight Night: Blaydes vs Daukaus Prelims"
+      }
+    },
+    "tapology": {
+      "id": 84285,
+      "time": "2022-03-26T20:00:00Z",
+      "title": "UFC Fight Night: Blaydes vs. Daukaus",
+      "titleAlt": "UFC Fight Night Columbus",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/84285-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Curtis Blaydes (15-3-0) vs. Chris Daukaus (12-4-0)",
+        "Co-Main Event: Joanne Wood (15-7-0) vs. Alexa Grasso (13-3-0)",
+        "Main Card: Matt Brown (23-18-0) vs. Bryan Barberena (16-8-0)",
+        "Main Card: Askar Askarov (14-0-1) vs. Kai Kara-France (23-9-0)",
+        "Main Card: Aleksei Oleinik (59-16-1) vs. Ilir Latifi (15-8-0)",
+        "Main Card: Marc Diakiese (14-5-0) vs. Viacheslav Borshchev (6-1-0)",
+        "Prelim: Neil Magny (25-8-0) vs. Max Griffin (18-8-0)",
+        "Prelim: Sara McMann (12-6-0) vs. Karol Rosa (15-3-0)",
+        "Prelim: Batgerel Danaa (12-2-0) vs. Chris Gutierrez (17-3-2)",
+        "Prelim: Aliaskhab Khizriev (13-0-0) vs. Denis Tiuliulin (10-5-0)",
+        "Prelim: Jennifer Maia (19-8-1) vs. Manon Fiorot (8-1-0)",
+        "Prelim: David Dvořák (20-3-0) vs. Matheus Nicolau (17-2-1)",
+        "Prelim: Luis Saldaña (15-7-0) vs. Bruno Souza (10-2-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-on-espn-33-blaydes-vs-daukaus-91130",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Blaydes_vs._Daukaus",
+        "https://events.mixedmartialarts.com/ufc-fight-night:21ce6f0f-ab02-4310-801a-763a4c3d81a2",
+        "https://www.ufc.com/event/ufc-fight-night-march-26-2022",
+        "https://www.bestfightodds.com/events/ufc-fight-night-207-2391"
+      ]
+    }
   }
 ]

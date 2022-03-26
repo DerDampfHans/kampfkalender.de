@@ -330,5 +330,74 @@
         "https://events.mixedmartialarts.com/one-championship:f5b74d79-83cb-4576-9929-d505b423b4a8"
       ]
     }
+  },
+  {
+    "id": "tapology-85971",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#ONEX"
+    ],
+    "mainCard": {
+      "title": "ONE X",
+      "time": "2022-03-26T12:00:00Z",
+      "broadcasters": {
+        "ONE_TV": {
+          "url": "https://watch.onefc.com/onex"
+        }
+      }
+    },
+    "prelims": {
+      "title": "ONE X: Prelims",
+      "time": "2022-03-26T05:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=Uf3NcBI5dnA",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "Uf3NcBI5dnA",
+        "time": "2022-03-26T05:00:00Z",
+        "title": "🔴 [Live In HD]  ONE X Part I & Part II",
+        "url": "https://www.youtube.com/watch?v=Uf3NcBI5dnA",
+        "live": true,
+        "tags": [
+          "#ONEX",
+          "#ONEChampionship"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 85971,
+      "time": "2022-03-26T05:00:00Z",
+      "title": "ONE Championship: One X",
+      "info": "Confirmed Upcoming Mixed Combat Sports Event",
+      "url": "https://www.tapology.com/fightcenter/events/85971-one-championship",
+      "card": [
+        "Main Event: Stamp Fairtex (8-1-0) vs. Angela Lee (10-2-0)",
+        "Co-Main Event: Demetrious Johnson vs. Rodtang Jitmuangnon",
+        "Main Card: Adriano Moraes (19-3-0) vs. Yuya Wakamatsu (15-4-0)",
+        "Main Card: Shinya Aoki (47-9-0) vs. Yoshihiro Akiyama (15-7-0)",
+        "Main Card: Eduard Folayang vs. Wayne Parr",
+        "Main Card: Chingiz Allazov vs. S. Sitsongpeenong",
+        "Main Card: Superbon Banchamek vs. Marat Grigorian",
+        "Main Card: Capitan Petchyindee vs. Hiroki Akimoto",
+        "Main Card: Reinier de Ridder vs. Andre Galvao",
+        "Main Card: Seo Hee Ham (24-8-0) vs. Denice Zamboanga (8-1-0)",
+        "Main Card: Itsuki Hirata (5-0-0) vs. Jihin Radzuan (7-2-0)",
+        "Main Card: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov",
+        "Main Card: Nieky Holzken vs. Islam Murtazaev",
+        "Main Card: Jeremy Miado (10-4-0) vs. Lito Adiwang (13-4-0)",
+        "Main Card: Shoko Sato (32-14-2) vs. Yusup Saadulaev (20-6-1)",
+        "Main Card: Amir Khan (13-8-0) vs. Ryogo Takahashi (14-5-0)",
+        "Main Card: Mei Yamaguchi vs. Danielle Kelly",
+        "Main Card: Ryuto Sawada (14-7-1) vs. Senzo Ikeda (13-6-1)"
+      ]
+    }
   }
 ]
