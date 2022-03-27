@@ -31,5 +31,27 @@
         }
       }
     }
+  },
+  {
+    "id": "big-game-2022-03-27",
+    "promotion": "BG_DE",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Bochum",
+      "#BigGame4"
+    ],
+    "mainCard": {
+      "title": "Big Game 4: Sunday",
+      "time": "2022-03-27T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-big-game-4-sunday-432",
+          "freeAfter": 24
+        }
+      }
+    }
   }
 ]
