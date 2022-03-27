@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220327T220305Z
-X-KAMPFKALENDER-HASH:8409c4f3c72160d633cf86f461b5aed243962c05
+DTSTAMP:20220327T222703Z
+X-KAMPFKALENDER-HASH:629dac2037ac16409c37da871bff156a8e23bd50
 BEGIN:VEVENT
-DTSTAMP:20220327T220305Z
+DTSTAMP:20220327T222703Z
 UID:2022-03-paddy-pimblett-und-molly-mccann-rocken-london@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZ5WiiOSbhg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T220305Z
+DTSTAMP:20220327T222703Z
 UID:2022-03-fur-die-hard-fans-ufc-london-prelims-analyse@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PPz7H8tHHEQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T220305Z
+DTSTAMP:20220327T222703Z
 UID:2022-03-previews-blaydes-vs-daukaus-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Previews: Blaydes vs. Daukaus | ONE X
@@ -39,7 +39,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=grUCxZTgC2A
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T220305Z
+DTSTAMP:20220327T222703Z
 UID:2022-03-schlagwort-podcast-156@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 156
@@ -47,5 +47,17 @@ DTSTART:20220327T160000Z
 DTEND:20220327T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ySKaAKg4WlM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220327T222703Z
+UID:2022-03-ufc-columbus-review-1-2-curtis-blaydes-schlagt-chris-daukaus-
+ ins-land-der-traume@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Columbus Review 1/2: Curtis Blaydes schlägt Chris Daukaus ins
+  Land der Träume
+DTSTART:20220328T150000Z
+DTEND:20220328T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Rop32pZKsg4
 END:VEVENT
 END:VCALENDAR
