@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220323T140816Z
-X-KAMPFKALENDER-HASH:ed7eaac575875467241023e93b886810c1895750
+DTSTAMP:20220327T154116Z
+X-KAMPFKALENDER-HASH:0d56f127d59f0f7922918ea7ca69a90329a46eec
 BEGIN:VEVENT
-DTSTAMP:20220323T140817Z
+DTSTAMP:20220327T154117Z
 UID:2022-03-sturm-vs-szili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Sturm vs. Szili
@@ -26,5 +26,16 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  7-1)\nMain Card: Ajdin Reiz (7-0-1) vs. Pal Olah (9-41-3)\nMain Card: Il
  ias Kallouch (4-1-0) vs. Pierre Woloszynski (0-5-0)\nMain Card: Meris Id
  rizi (0-0-0) vs. Barnabas Szabo (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220327T154117Z
+UID:2022-04-we-love-mma-56@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 56
+DTSTART:20220409T203500Z
+DTEND:20220409T231500Z
+CATEGORIES:WLMMA,MMA,Bild TV,live
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-60
+ /
 END:VEVENT
 END:VCALENDAR
