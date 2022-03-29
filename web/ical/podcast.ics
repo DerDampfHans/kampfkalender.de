@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220327T222703Z
-X-KAMPFKALENDER-HASH:629dac2037ac16409c37da871bff156a8e23bd50
+DTSTAMP:20220329T113310Z
+X-KAMPFKALENDER-HASH:a201b45dd64bf42d5d6d281b987665452e9f5d6b
 BEGIN:VEVENT
-DTSTAMP:20220327T222703Z
+DTSTAMP:20220329T113310Z
 UID:2022-03-paddy-pimblett-und-molly-mccann-rocken-london@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZ5WiiOSbhg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T222703Z
+DTSTAMP:20220329T113310Z
 UID:2022-03-fur-die-hard-fans-ufc-london-prelims-analyse@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PPz7H8tHHEQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T222703Z
+DTSTAMP:20220329T113310Z
 UID:2022-03-previews-blaydes-vs-daukaus-one-x@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Previews: Blaydes vs. Daukaus | ONE X
@@ -39,7 +39,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=grUCxZTgC2A
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T222703Z
+DTSTAMP:20220329T113310Z
 UID:2022-03-schlagwort-podcast-156@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 156
@@ -49,7 +49,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ySKaAKg4WlM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T222703Z
+DTSTAMP:20220329T113310Z
 UID:2022-03-ufc-columbus-review-1-2-curtis-blaydes-schlagt-chris-daukaus-
  ins-land-der-traume@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -59,5 +59,17 @@ DTSTART:20220328T150000Z
 DTEND:20220328T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Rop32pZKsg4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220329T113310Z
+UID:2022-03-ufc-columbus-review-2-2-knapper-kampf-zwischen-magny-und-grif
+ fin-wie-gut-ist-manon@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Columbus Review 2/2: Knapper Kampf zwischen Magny und Griffin
+ / Wie gut ist Manon
+DTSTART:20220329T150000Z
+DTEND:20220329T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UlfBvjGT6gI
 END:VEVENT
 END:VCALENDAR
