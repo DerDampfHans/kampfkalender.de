@@ -1,5 +1,47 @@
 [
   {
+    "id": "plaza-2022-04-03",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Ingolstadt"
+    ],
+    "mainCard": {
+      "title": "Plaza Fights",
+      "time": "2022-04-02T17:15:00Z",
+      "until": "2022-04-02T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-totalkombat-2022-438",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "totalkombat-2022-04-02",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Windisch"
+    ],
+    "mainCard": {
+      "title": "Totalkombat",
+      "time": "2022-04-03T10:00:00Z",
+      "until": "2022-04-03T15:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-plaza-fights-439",
+          "freeAfter": 24
+        }
+      }
+    }
+  },
+  {
     "id": "ajp-grappling-2022-04-16-2",
     "promotion": "_OTHER",
     "sports": [
