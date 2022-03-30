@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220306T230304Z
-X-KAMPFKALENDER-HASH:1b627379e7fe08afbb66b15254a15b4e071dc945
+DTSTAMP:20220330T134707Z
+X-KAMPFKALENDER-HASH:3b9ef3dbfdc7f9bc53275dbb1a9614ee2d124b95
 BEGIN:VEVENT
-DTSTAMP:20220306T230304Z
+DTSTAMP:20220330T134707Z
 UID:2022-03-fury-fc-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 59
@@ -32,5 +32,31 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Dylan King (1-2-0)\nMain Card: John Herrera (2-1-1) vs. Raymond 
  Cardenas (1-0-0)\nMain Card: Jordan Plutin (1-3-0) vs. Kyle Powell (1-2-
  0)\nMain Card: Dominick Perez (0-1-0) vs. Devon Jackson (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134707Z
+UID:2022-04-fury-fc-60@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 60
+DTSTART:20220424T213000Z
+DTEND:20220425T003000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88016-fury-fc-60\nhttps://events.mixedmartialarts.com/fury-f
+ c-60:8bc071fc-f797-47e4-a21a-0c29d9aeef7d\n\n---\n\nMain Event: Carlos V
+ era (10-3-0) vs. Kale Moniz (5-1-0)\nCo-Main Event: Carlos Lozoya (6-2-0
+ ) vs. Randy Villarreal (11-12-0)\nMain Card: Kenneth Glenn (10-9-0) vs. 
+ Anthony Romero (10-1-0)\nMain Card: Cameron Smotherman (4-2-0) vs. Shane
+  Torres (3-1-0)\nMain Card: Cameron Graves (9-5-0) vs. Luis Luna (15-8-0
+ )\nMain Card: Kody Steele (1-0-0) vs. Johnny Pantoja (1-4-0)\nMain Card:
+  Ricardo Evangelista (1-1-0) vs. Mario Moore (0-0-0)\nMain Card: Jacob S
+ ilva (8-7-0) vs. Cleveland McLean (15-9-0)\nMain Card: Joshua Thawng (3-
+ 1-0) vs. Angelo Trujillo (0-2-0)\nMain Card: Hector Saenz (1-0-0) vs. Ch
+ arles Jones (1-1-0)\nMain Card: Corry Mccoy (0-0-0) vs. Andrew Slater (0
+ -2-0)\nMain Card: Francisco Obando (2-2-0) vs. Joseph Aguilar (1-0-0)\nM
+ ain Card: Oliver Jiminez (0-0-0) vs. Cristian Lopez (0-2-0)\nMain Card: 
+ Gabriel Macário (6-6-0) vs. Santiago Guzman (5-2-0)\nMain Card: Carlos J
+ imenez (1-1-0) vs. Moises Oropeza (0-1-0)\nMain Card: Paul Garza (2-3-0)
+  vs. Bryant Shell (0-1-0)
 END:VEVENT
 END:VCALENDAR

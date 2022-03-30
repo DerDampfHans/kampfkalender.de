@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220325T075518Z
-X-KAMPFKALENDER-HASH:d6dd4b504dcd768c37912f9f5015a189b686d865
+DTSTAMP:20220330T134707Z
+X-KAMPFKALENDER-HASH:50fb0a584315d7db22fa5cbd995e1888091d8074
 BEGIN:VEVENT
-DTSTAMP:20220325T075518Z
+DTSTAMP:20220330T134707Z
 UID:2022-04-bellator-279-cyborg-vs-blencowe-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 279: Cyborg vs. Blencowe 2
@@ -23,10 +23,11 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/87505-bellator-27
  -1) vs. Justin Gonzales (12-1-0)\nPrelim: Lance Gibson Jr. (5-0-0) vs. N
  ainoa Dung (4-2-0)\nPrelim: Goiti Yamauchi (26-5-0) vs. Levan Chokheli (
  10-1-0)\nPrelim: Keoni Diggs (9-1-0) vs. Bobby King (11-4-0)\nPrelim: Ra
- ndi Field (2-1-0) vs. Maraya Miller (1-1-0)
+ ndi Field (2-1-0) vs. Maraya Miller (1-1-0)\nPrelim: Janay Harding (6-5-
+ 0) vs. Dayana Silva (9-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220325T075518Z
+DTSTAMP:20220330T134707Z
 UID:2022-05-bellator-280-bader-vs-kongo-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Bader vs. Kongo 2
@@ -47,7 +48,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  m: Davion Franklin (5-0-0) vs. Daniel James (13-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220325T075518Z
+DTSTAMP:20220330T134707Z
 UID:2022-05-bellator-281-mvp-vs-storley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281: MVP vs. Storley
@@ -68,5 +69,30 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  relim: Lee Chadwick (27-15-1) vs. Maciej Różański (13-3-0)\nPrelim: Andr
  ew Fisher (18-8-1) vs. Attila Korkmaz (12-6-0)\nPrelim: Arunas Andriuske
  vicus (15-5-0) vs. David Trallero (9-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134707Z
+UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 282: Mousasi vs. Eblen
+DTSTART:20220624T220000Z
+DTEND:20220625T010000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/88076-bellator-282-mousasi-vs-eblen\n\n---\n\nMain Event: Gegard Mo
+ usasi (49-7-2) vs. Johnny Eblen (11-0-0)\nPrelim: Alejandra Lara (9-5-0)
+  vs. Ilara Joanne (9-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134707Z
+UID:2022-09-bellator-dublin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator Dublin
+DTSTART:20220923T170000Z
+DTEND:20220923T200000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/87856-bellator-dublin\n\n---\n\nMain Card: Benson Henderson (29-11-
+ 0) vs. Peter Queally (13-6-1)
 END:VEVENT
 END:VCALENDAR

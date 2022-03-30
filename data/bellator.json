@@ -34,13 +34,15 @@
         "Co-Main Event: Vadim Nemkov (15-2-0) vs. Corey Anderson (16-5-0)",
         "Main Card: Aaron Pico (9-3-0) vs. Jeremy Kennedy (17-3-0)",
         "Main Card: Tim Johnson (15-8-0) vs. Linton Vassell (22-8-0)",
+        "Prelim: Gaston Bolaños (5-3-0) vs. Isaiah Batin-Gonzalez (4-2-0)",
         "Prelim: Tyrell Fortune (11-2-0) vs. Rakim Cleveland (22-14-1)",
+        "Prelim: D. Yagshimuradov (18-7-1) vs. Tony Johnson (9-3-0)",
         "Prelim: Kyle Crutchmer (8-1-0) vs. Michael Lombardo (12-2-0)",
-        "Prelim: Gaston Bolaños (5-3-0) vs. Cass Bell (5-2-0)",
         "Prelim: Bobby Seronio III (1-0-0) vs. Calob Ramirez (1-1-0)",
-        "Prelim: Shane Keefe (2-0-0) vs. Tyson Miller (2-0-0)",
+        "Prelim: Tyson Miller (2-0-0) vs. Rhalan Gracie (0-3-0)",
         "Prelim: Edwin De Los Santos (1-0-0) vs. Alberto Mendez (0-0-0)",
         "Prelim: Socrates Hernandez (0-1-0) vs. Rogelio Luna (0-0-0)",
+        "Prelim: Laird Anderson (1-0-0) vs. JT Donaldson (4-5-0)",
         "Prelim: Theo Haig (0-0-0) vs. Alan Benson (1-2-0)"
       ]
     }
@@ -81,9 +83,9 @@
         "Main Card: Jornel Lugo (8-0-0) vs. Danny Sabatello (11-1-0)",
         "Main Card: Christian Edwards (5-1-0) vs. Grant Neal (6-1-0)",
         "Main Card: Manny Muro (12-7-0) vs. Nate Andrews (16-4-0)",
-        "Prelim: Cee Jay Hamilton (15-9-0) vs. Jared Scoggins (10-2-0)",
         "Prelim: Weber Almeida (5-1-0) vs. Fabricio Franco (8-4-0)",
-        "Prelim: Makoa Cooper (1-0-0) vs. Blake Perry (0-0-0)"
+        "Prelim: Makoa Cooper (1-0-0) vs. Blake Perry (0-0-0)",
+        "Prelim: Erik Perez (20-8-0) vs. Cee Jay Hamilton (15-9-0)"
       ]
     }
   },
@@ -126,7 +128,8 @@
         "Prelim: Lance Gibson Jr. (5-0-0) vs. Nainoa Dung (4-2-0)",
         "Prelim: Goiti Yamauchi (26-5-0) vs. Levan Chokheli (10-1-0)",
         "Prelim: Keoni Diggs (9-1-0) vs. Bobby King (11-4-0)",
-        "Prelim: Randi Field (2-1-0) vs. Maraya Miller (1-1-0)"
+        "Prelim: Randi Field (2-1-0) vs. Maraya Miller (1-1-0)",
+        "Prelim: Janay Harding (6-5-0) vs. Dayana Silva (9-7-0)"
       ]
     }
   },
@@ -235,6 +238,45 @@
     }
   },
   {
+    "id": "tapology-88076",
+    "promotion": "BELLATOR",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Bellator282"
+    ],
+    "mainCard": {
+      "title": "Bellator 282: Mousasi vs. Eblen",
+      "time": "2022-06-24T22:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Bellator 282: Prelims",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 88076,
+      "time": "2022-06-24T22:00:00Z",
+      "title": "Bellator 282: Mousasi vs. Eblen",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/88076-bellator-282-mousasi-vs-eblen",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Gegard Mousasi (49-7-2) vs. Johnny Eblen (11-0-0)",
+        "Prelim: Alejandra Lara (9-5-0) vs. Ilara Joanne (9-6-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-87856",
     "promotion": "BELLATOR",
     "sports": [
@@ -244,9 +286,19 @@
       "#BellatorDublin"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Bellator Dublin",
-      "time": "2022-09-23T17:00:00Z"
+      "time": "2022-09-23T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Bellator Dublin: Prelims",
+      "broadcasters": {
+        "YOUTUBE": {
+        }
+      }
     },
     "tapology": {
       "id": 87856,

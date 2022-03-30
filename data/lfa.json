@@ -32,10 +32,11 @@
       ],
       "card": [
         "Main Event: Aaron McKenzie (10-2-1) vs. Lucas Clay (8-1-0)",
-        "Main Card: Jimmy Lawson (3-1-0) vs. Marino Eatman (5-4-1)",
+        "Co-Main Event: Jimmy Lawson (3-1-0) vs. Marino Eatman (5-4-1)",
         "Main Card: Mitchell McKee (1-0-0) vs. Jalen Jackson (0-1-0)",
+        "Main Card: Devon Dixon (4-0-1) vs. Richie Miranda (3-0-0)",
         "Prelim: Sarek Shields (2-0-0) vs. Thad Jean (2-0-0)",
-        "Prelim: Alandria Brown (1-1-0) vs. Rachel Martinez (0-0-0)",
+        "Prelim: Abubakar Adamu (0-0-0) vs. Andrew Triolo (0-0-0)",
         "Prelim: Brett Bye (1-0-0) vs. Jhellani Olton (2-0-0)",
         "Prelim: Cheyanne Bowers (5-1-0) vs. Kaeley Fenhaus (1-0-0)",
         "Prelim: Zach Sulzer (1-1-0) vs. Jorge Apalategui (2-1-0)"
@@ -102,10 +103,15 @@
     ],
     "mainCard": {
       "title": "LFA 130: Ksiazkiewicz vs. Gambulino",
-      "time": "2022-04-23T01:00:00Z",
+      "time": "2022-04-23T02:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 215290,
+        "time": "2022-04-23T02:00:00Z",
+        "title": "LFA 130"
       }
     },
     "tapology": {
@@ -125,6 +131,29 @@
         "Main Card: Billy Elekana (3-0-0) vs. Kohlman Scribner (3-1-0)",
         "Main Card: Manatua Lemaire (3-0-0) vs. Daniel Gadley (4-1-0)"
       ]
+    }
+  },
+  {
+    "id": "fightpass-215291",
+    "promotion": "LFA",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#LFA131"
+    ],
+    "mainCard": {
+      "title": "LFA 131",
+      "time": "2022-05-07T02:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 215291,
+        "time": "2022-05-07T02:00:00Z",
+        "title": "LFA 131"
+      }
     }
   }
 ]

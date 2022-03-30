@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220324T145836Z
-X-KAMPFKALENDER-HASH:64e2a9c8ff609d3afee016f39d6fbd27e79bb72f
+DTSTAMP:20220330T134707Z
+X-KAMPFKALENDER-HASH:ba26c93ad33c70b9965e42e2725ac106d08f8bc2
 BEGIN:VEVENT
-DTSTAMP:20220324T145837Z
+DTSTAMP:20220330T134708Z
 UID:2022-03-polaris-19-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris 19: Prelims
@@ -17,7 +17,7 @@ CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220324T145837Z
+DTSTAMP:20220330T134708Z
 UID:2022-03-polaris-19@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris 19
@@ -27,7 +27,18 @@ CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220324T145837Z
+DTSTAMP:20220330T134708Z
+UID:2022-04-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20220409T100000Z
+DTEND:20220409T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220409-olym
+ pix-grappling-no-105
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134708Z
 UID:2022-04-ajp-tour-sofia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Sofia
@@ -38,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
  -gi-april/2payw/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220324T145837Z
+DTSTAMP:20220330T134708Z
 UID:2022-04-ajp-tour-orlando@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Orlando

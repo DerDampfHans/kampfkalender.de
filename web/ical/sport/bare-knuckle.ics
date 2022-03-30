@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220327T154116Z
-X-KAMPFKALENDER-HASH:9c0114ff12c8995af1db469fee131021ccf43492
+DTSTAMP:20220330T134707Z
+X-KAMPFKALENDER-HASH:f5d099c435a9a29e3250deb10cafd0e933230050
 BEGIN:VEVENT
-DTSTAMP:20220327T154117Z
+DTSTAMP:20220330T134708Z
 UID:2022-04-bkfc-23-richman-vs-rickels@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 23: Richman vs. Rickels
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-23/2pb2n/\n\n---\
  \nMain Card: Edmund Santos vs. Nick Villar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T154117Z
+DTSTAMP:20220330T134708Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -38,5 +38,74 @@ CATEGORIES:BKB,Bare Knuckle,fighting.de,fight24.tv,fite.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
  e.tv/watch/bkb-25/2pb16/\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/86201-bkb-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134708Z
+UID:2022-04-bkfc-fort-lauderdale@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Fort Lauderdale
+DTSTART:20220422T020000Z
+DTEND:20220422T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/88006-bkfc-fight-night-ft-lauderdale\nhttps://www.bareknuckle.tv/ev
+ ents/bkfc-ft-lauderdale:faed578a-ecdd-4a61-a16e-49e35bd38912\n\n---\n\nM
+ ain Event: Joey Beltran vs. Frank Tate\nMain Card: Howard Davis vs. Josh
+  Wright\nMain Card: Tom Shoaff vs. Bruce Lutchmedial\nMain Card: Terry J
+ anoski vs. Jay Jackson\nMain Card: Jeremy Smith vs. Davian Green\nMain C
+ ard: Vinny Turiello vs. Anthony Sanchez\nMain Card: Brian Duran vs. Glen
+ del Futrell
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134708Z
+UID:2022-05-bkfc-24-hunt-vs-riggs@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 24: Hunt vs. Riggs
+DTSTART:20220501T020000Z
+DTEND:20220501T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/88007-bkfc-24\n\n---\n\nMain Event: Lorenzo Hunt vs. Joe Riggs\nMai
+ n Card: Leo Bercier vs. Bryant Acheson
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134708Z
+UID:2022-05-bkfc-25@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 25
+DTSTART:20220507T020000Z
+DTEND:20220507T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/88008-bkfc-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134708Z
+UID:2022-05-bkfc-thailand-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Thailand 2
+DTSTART:20220507T020000Z
+DTEND:20220507T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/88009-bkfc-thailand-2\n\n---\n\nMain Event: Sirimongkhon Lamthuan v
+ s. Mikhail Vetrila\nCo-Main Event: Souris Manfredi vs. Fani Peloumpi\nMa
+ in Card: Tofan Birani vs. Kristof Kirsch\nMain Card: Akbar Karimi vs. St
+ even Banks\nMain Card: Keivan Soleimani vs. Paitoon Jaikon\nMain Card: M
+ aseng vs. Naeem\nMain Card: Thomas Newton vs. Fabiano Hawthorne\nMain Ca
+ rd: Pongpisan Chunyong vs. Sudan Kulubon\nMain Card: Thanathorn Kamran v
+ s. Thodsaphon Wannahat\nMain Card: Sadudee Srimueang vs. Phatiphan Krung
+ klang\nMain Card: U. Thawilsuhannawang vs. Benjamat Phakra
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T134708Z
+UID:2022-05-bkfc-omaha@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Omaha
+DTSTART:20220514T020000Z
+DTEND:20220514T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/88010-bkfc-fight-night-omaha
 END:VEVENT
 END:VCALENDAR

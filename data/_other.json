@@ -56,6 +56,30 @@
     }
   },
   {
+    "id": "fightpass-215296",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#XFN379",
+      "#Tournament"
+    ],
+    "mainCard": {
+      "title": "XFN 379",
+      "time": "2022-04-23T00:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 215296,
+        "time": "2022-04-23T00:00:00Z",
+        "title": "XFN 379 Kickboxing"
+      }
+    }
+  },
+  {
     "id": "welcome-to-the-east-2022-04-23",
     "promotion": "_OTHER",
     "sports": [
@@ -107,6 +131,50 @@
         "K1/Kickboxen",
         "Livestream",
         "MMA",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "super-cup-kickboxing-2022-04-30",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Weiterstadt",
+      "#Tournament"
+    ],
+    "mainCard": {
+      "title": "Super Cup Kickboxing 2",
+      "time": "2022-04-30T16:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "super-cup-kickboxing-2",
+      "time": "2022-04-30T16:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "title": "Super Cup Kickboxing 2",
+      "url": "https://www.fightevents.de/event/super-cup-kickboxing-2/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Fight24.tv",
+        "Jason Wilnis",
+        "K1",
+        "Kickboxen",
+        "Sergej Braun",
+        "Super Cup Kickboxing",
+        "Super Cup Kickboxing 2",
+        "Weiterstaddt"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
         "National"
       ]
     }

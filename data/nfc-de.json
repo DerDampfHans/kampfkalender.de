@@ -7,24 +7,23 @@
     ],
     "tags": [
       "#Düsseldorf",
-      "#NFCContenders"
+      "#NFCContenders",
+      "#NFC8"
     ],
     "mainCard": {
       "title": "NFC Contenders",
       "time": "2022-04-01T16:00:00Z",
-      "until": "2022-04-01T20:00:00Z",
+      "until": "2022-04-01T21:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=L325WL2tJw0",
           "free": true
-        },
-        "FIGHT24_TV": {
         }
       },
       "youTube": {
         "id": "L325WL2tJw0",
         "time": "2022-04-01T16:00:00Z",
-        "title": "FREE: NFC Contenders | 1. April | 18 Uhr - FIGHTING",
+        "title": "FREE: NFC Contenders | NFC 8 Staredowns | 1. April | 18 Uhr - FIGHTING",
         "url": "https://www.youtube.com/watch?v=L325WL2tJw0",
         "live": true,
         "tags": [
@@ -83,17 +82,19 @@
           "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"
         },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-8-437"
         }
       }
     },
     "prelims": {
-      "title": "NFC 8: Main Card",
+      "title": "NFC 8: Undercard",
       "time": "2022-04-02T18:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=aMxbwdhjgB4"
         },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-8-437"
         },
         "SPORT1_EXTRA": {
         }
@@ -116,12 +117,26 @@
       "time": "2022-04-02T16:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=3OtXuodxC-M",
           "free": true
         },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-8-437"
         },
         "SPORT1_EXTRA": {
         }
+      },
+      "youTube": {
+        "id": "3OtXuodxC-M",
+        "time": "2022-04-02T16:00:00Z",
+        "title": "FOR FREE: NFC 8 Prelims | 2. April | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=3OtXuodxC-M",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
       }
     },
     "fightEvents": {

@@ -4,6 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220302T125914Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220330T134707Z
+X-KAMPFKALENDER-HASH:297c2dd5f1dd811740fb7fd45c3bf0c5076dca6f
+BEGIN:VEVENT
+DTSTAMP:20220330T134707Z
+UID:2022-05-fac-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:FAC 13
+DTSTART:20220507T000000Z
+DTEND:20220507T030000Z
+CATEGORIES:FAC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88011-fac-13\n\n---\n\nMain Event: Cody Pfister (16-8-1) vs.
+  Evan Elder (7-0-0)\nCo-Main Event: Steven Graham (10-5-0) vs. Garrett A
+ rmfield (7-2-0)\nMain Card: Flori Neamtu-Moeller (1-1-0) vs. Elizabeth S
+ chroder (1-2-0)\nMain Card: Haven Pennington (0-0-0) vs. Claire Schneckl
+ oth (1-7-0)\nMain Card: Sam Coronado (2-1-0) vs. Caleb Williams (3-3-0)\
+ nMain Card: Julie Russell (8-6-0) vs. Rachael Lippert (5-5-0)\nMain Card
+ : Stefaan Jefferson (5-4-0) vs. Dylan Reel (1-2-0)
+END:VEVENT
 END:VCALENDAR
