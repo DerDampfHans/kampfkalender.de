@@ -4,10 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220331T060044Z
-X-KAMPFKALENDER-HASH:ee1792acc7f11177e55ebd448cf7855fa6917218
+DTSTAMP:20220331T184747Z
+X-KAMPFKALENDER-HASH:068142f423e36a63b61fb1fb42138ca1f2a43b09
 BEGIN:VEVENT
-DTSTAMP:20220331T060045Z
+DTSTAMP:20220331T184748Z
+UID:2022-04-ksw-63-soldic-vs-kincl-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 63: Soldić vs Kincl (Re-Live)
+DTSTART:20220401T163000Z
+DTEND:20220401T193000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=s2BPF4ck91c\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/81179-ksw-63-soldic-vs
+ -kincl\nhttp://www.sherdog.com/events/ksw-63-soldic-vs-kincl-89940\nhttp
+ s://www.bestfightodds.com/events/ksw-63-2276
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220331T184748Z
 UID:2022-04-ksw-69@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 69
@@ -19,10 +32,11 @@ DESCRIPTION:via kswtv.com\nvia Bild+\n\n---\n\nhttps://www.tapology.com/f
  (9-2-0) vs. Zuriko Jojua (8-1-0)\nCo-Main Event: Cezary Kęsik (13-1-0) v
  s. Paweł Pawlak (19-4-1)\nMain Card: Natalia Baczyńska (6-1-0) vs. Sara 
  Luzar Smajić (3-1-0)\nMain Card: Patryk Chrobak (3-1-0) vs. Paweł Polity
- ło (6-3-0)
+ ło (6-3-0)\nMain Card: Robert Ruchała (6-0-0) vs. Michele Baiano (7-0-0)
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T060045Z
+DTSTAMP:20220331T184748Z
 UID:2022-05-ksw-70@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 70
