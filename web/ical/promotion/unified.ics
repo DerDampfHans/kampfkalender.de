@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220330T134707Z
-X-KAMPFKALENDER-HASH:53d0384cc9ba7c3d104bdae4338880c09e9eaf57
+DTSTAMP:20220402T220304Z
+X-KAMPFKALENDER-HASH:bfc39e640c9afa3a2e8e4ec092c043401291dc94
 BEGIN:VEVENT
-DTSTAMP:20220330T134708Z
+DTSTAMP:20220402T220304Z
 UID:2022-05-unified-mma-44@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Unified MMA 44
@@ -20,5 +20,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  or (9-2-0)\nMain Card: Matt Krayco (8-9-1) vs. Zackery Powell (5-1-0)\nM
  ain Card: Chris Lee Byrne (5-1-0) vs. Ali Charkie (2-1-0)\nMain Card: Ch
  ris Chapman (4-3-0) vs. Dylan Schellenberg (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T220304Z
+UID:2022-05-unified-mma-45@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Unified MMA 45
+DTSTART:20220528T020000Z
+DTEND:20220528T050000Z
+CATEGORIES:UMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88134-unified-mma-45\n\n---\n\nMain Card: Chris Larsen (6-2-
+ 0) vs. Rashad Coulter (9-5-0)
 END:VEVENT
 END:VCALENDAR

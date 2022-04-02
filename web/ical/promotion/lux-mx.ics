@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220326T230304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220402T220304Z
+X-KAMPFKALENDER-HASH:7810717124b6f4e694fce1ba403685756119456f
+BEGIN:VEVENT
+DTSTAMP:20220402T220304Z
+UID:2022-05-lux-fight-league-22@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lux Fight League 22
+DTSTART:20220526T230000Z
+DTEND:20220527T020000Z
+CATEGORIES:LUX,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88164-lux-fight-league-22\n\n---\n\nMain Card: Roger Garcia 
+ (6-3-0) vs. S. Cossio Dominguez (23-8-1)\nMain Card: Mauricio Nievas (6-
+ 2-0) vs. David Mendoza (6-2-0)\nMain Card: Luis Rodríguez (12-2-0) vs. C
+ esar Vazquez (5-2-0)\nMain Card: Roy Benavides (4-1-0) vs. Kevin Garcia 
+ (8-3-0)
+END:VEVENT
 END:VCALENDAR

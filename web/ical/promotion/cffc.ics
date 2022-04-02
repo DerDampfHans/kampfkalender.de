@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220330T134707Z
-X-KAMPFKALENDER-HASH:a9dc123f07198c11d4f4b45e96b75c04f059b146
+DTSTAMP:20220402T220304Z
+X-KAMPFKALENDER-HASH:34f59deea4864b204b2739e4f5d20386375d6fe7
 BEGIN:VEVENT
-DTSTAMP:20220330T134707Z
+DTSTAMP:20220402T220304Z
 UID:2022-04-cffc-107-bilder-vs-carvalho@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 107: Bilder vs. Carvalho
@@ -15,10 +15,26 @@ DTSTART:20220416T000000Z
 DTEND:20220416T030000Z
 CATEGORIES:CFFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/87363-cffc-107-bilder-vs-carvalho\n\n---\n\nMain Event: Blak
- e Bilder (5-0-1) vs. Regivaldo Carvalho (6-3-0)\nMain Card: Santo Curato
- lo (6-2-0) vs. Hugo Paiva (5-0-0)\nMain Card: Charalampos Grigoriou (5-3
- -0) vs. Flávio Carvalho (7-4-1)\nMain Card: Greg Velasco (3-0-0) vs. Edw
- in Smart (3-3-0)
+ nter/events/87363-cffc-107-bilder-vs-carvalho\nhttp://www.sherdog.com/ev
+ ents/cffc-107-cage-fury-fighting-championships-107-92054\nhttps://events
+ .mixedmartialarts.com/cffc-107:7f3f4315-10f5-4607-978d-1b7d2b36c3c1\n\n-
+ --\n\nMain Event: Blake Bilder (5-0-1) vs. Regivaldo Carvalho (6-3-0)\nM
+ ain Card: Santo Curatolo (6-2-0) vs. Hugo Paiva (5-0-0)\nMain Card: Char
+ alampos Grigoriou (5-3-0) vs. Flávio Carvalho (7-4-1)\nMain Card: Greg V
+ elasco (3-0-0) vs. Edwin Smart (3-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220402T220304Z
+UID:2022-05-cffc-108-blackshear-vs-smith@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 108: Blackshear vs. Smith
+DTSTART:20220514T230000Z
+DTEND:20220515T020000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88163-cffc-108-blackshear-vs-smith\n\n---\n\nMain Card: Da'M
+ on Blackshear (11-4-0) vs. Josh Smith (11-7-0)\nMain Card: James Clarke 
+ (6-3-0) vs. Luiz Paulo Barbosa (6-2-0)\nMain Card: Luke Fernandez (4-0-0
+ ) vs. Dymere Rappa (2-1-0)
 END:VEVENT
 END:VCALENDAR
