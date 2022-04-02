@@ -92,10 +92,25 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "🎙@ulihebel",
+      "🎙@RHalmichORG",
+      "#TaylorSerrano"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Taylor vs. Serrano",
-      "time": "2022-05-01T01:00:00Z"
+      "time": "2022-04-30T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "fcy9b446kyqx1gc32lwht09c8",
+        "time": "2022-04-30T23:00:00Z",
+        "title": "UFC Fight Night: Font vs Vera (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
+      }
     },
     "tapology": {
       "id": 86023,
