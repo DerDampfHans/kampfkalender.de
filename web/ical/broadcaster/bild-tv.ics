@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220402T220304Z
-X-KAMPFKALENDER-HASH:0e4cd97710cb13a3035e8bdd16708148842f5acf
+DTSTAMP:20220405T050953Z
+X-KAMPFKALENDER-HASH:e5497d497c9fce47750c43238ddb6779b044cf00
 BEGIN:VEVENT
-DTSTAMP:20220402T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-we-love-mma-56@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 56
@@ -16,5 +16,34 @@ DTEND:20220409T231500Z
 CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-60
  /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220405T050953Z
+UID:2022-04-ksw-69-przybysz-vs-jojua@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 69: Przybysz vs. Jojua
+DTSTART:20220423T170000Z
+DTEND:20220423T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,Bild TV,live
+DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
+ /fightcenter/events/87779-ksw-69\n\n---\n\nMain Event: Sebastian Przybys
+ z (9-2-0) vs. Zuriko Jojua (8-1-0)\nCo-Main Event: Cezary Kęsik (13-1-0)
+  vs. Paweł Pawlak (19-4-1)\nMain Card: Natalia Baczyńska (6-1-0) vs. Sar
+ a Luzar Smajić (3-1-0)\nMain Card: Robert Ruchała (6-0-0) vs. Michele Ba
+ iano (7-0-0)\nMain Card: Maciej Kazieczko (7-2-0) vs. Wilson Varela (6-2
+ -0)\nMain Card: Artur Szczepaniak (7-1-0) vs. Jivko Stoimenov (13-4-0)\n
+ Prelim: Patryk Chrobak (3-1-0) vs. Paweł Polityło (6-3-0)\nPrelim: Wojci
+ ech Kazieczko (1-0-0) vs. Lubomir Lesák (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220405T050953Z
+UID:2022-05-ksw-70@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 70
+DTSTART:20220528T170000Z
+DTEND:20220528T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,Bild TV,live
+DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
+ /fightcenter/events/87780-ksw-70
 END:VEVENT
 END:VCALENDAR

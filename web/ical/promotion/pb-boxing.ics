@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220401T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220405T050953Z
+X-KAMPFKALENDER-HASH:5ebfe7f6fd311734941a2a8bb532acf474759325
+BEGIN:VEVENT
+DTSTAMP:20220405T050953Z
+UID:2022-04-casimero-vs-butler@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Casimero vs. Butler
+DTSTART:20220422T180000Z
+DTEND:20220422T210000Z
+CATEGORIES:PB,Boxen,Eurosport 2,live,kostenlos
+DESCRIPTION:via Eurosport 2\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/86460-casimero-vs-butler\nhttp://www.boxrec.com/en/event/848452
+ \n\n---\n\nMain Event: John Riel Casimero (31-4-0) vs. Paul Butler (33-2
+ -0)\nMain Card: Jazza Dickens (30-4-0) vs. Andoni Gago (25-4-4)\nMain Ca
+ rd: Peter McGrail (0-0-0) vs. Uriel Lopez (13-16-1)
+END:VEVENT
 END:VCALENDAR

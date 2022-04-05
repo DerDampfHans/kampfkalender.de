@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220403T220305Z
-X-KAMPFKALENDER-HASH:42481ba88fb74f79634fa881372451001919f143
+DTSTAMP:20220405T050953Z
+X-KAMPFKALENDER-HASH:a9b05f8ec196dc6d7310d408425fc06cb07de844
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-ufc-273-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Early Prelims
@@ -33,7 +33,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  . Daniel Santos (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-ufc-273-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Prelims
@@ -59,7 +59,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  . Daniel Santos (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-ufc-273-volkanovski-vs-korean-zombie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Volkanovski vs. Korean Zombie
@@ -85,7 +85,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  17-5-0) vs. Daniel Santos (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-ufc-vegas-51-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 51: Prelims
@@ -94,32 +94,7 @@ DTEND:20220417T003000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/85814-ufc-fight-night\n\n---\n\nMain Event: Vicente Luque (2
- 1-7-1) vs. Belal Muhammad (20-3-0)\nCo-Main Event: Uriah Hall (17-10-0) 
- vs. André Muniz (22-4-0)\nMain Card: Rafa García (13-2-0) vs. Jesse Rons
- on (21-10-0)\nMain Card: Caio Borralho (10-1-0) vs. Gadzhi Omargadzhiev 
- (13-0-0)\nMain Card: Elizeu Zaleski (23-7-0) vs. Mounir Lazzez (10-2-0)\
- nMain Card: Pat Sabatini (16-3-0) vs. T.J. Laramie (12-4-0)\nPrelim: Dra
- kkar Klose (11-2-1) vs. Brandon Jenkins (15-8-0)\nPrelim: Chris Barnett 
- (22-7-0) vs. Martin Buday (9-1-0)\nPrelim: Lina Länsberg (10-5-0) vs. Pa
- nnie Kianzad (15-6-0)\nPrelim: Mayra Bueno Silva (7-2-1) vs. Yanan Wu (1
- 2-4-0)\nPrelim: Sam Hughes (5-4-0) vs. Istela Nunes (6-2-0)\nPrelim: And
- re Fialho (14-4-0) vs. Miguel Baeza (10-2-0)\nPrelim: Heili Alateng (14-
- 8-2) vs. Kevin Croom (21-14-0)\nPrelim: Trey Ogden (15-4-0) vs. Jordan L
- eavitt (9-1-0)\nPrelim: Devin Clark (12-6-0) vs. William Knight (11-3-0)
- 
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
-UID:2022-04-ufc-vegas-51-luque-vs-muhammad-2@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Vegas 51: Luque vs. Muhammad 2
-DTSTART:20220417T003000Z
-DTEND:20220417T033000Z
-CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
-DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/85814-ufc-fight-night\n\n---\n\nMain Event: Vicent
- e Luque (21-7-1) vs. Belal Muhammad (20-3-0)\nCo-Main Event: Uriah Hall 
- (17-10-0) vs. André Muniz (22-4-0)\nMain Card: Rafa García (13-2-0) vs. 
+ 1-7-1) vs. Belal Muhammad (20-3-0)\nMain Card: Rafa García (13-2-0) vs. 
  Jesse Ronson (21-10-0)\nMain Card: Caio Borralho (10-1-0) vs. Gadzhi Oma
  rgadzhiev (13-0-0)\nMain Card: Elizeu Zaleski (23-7-0) vs. Mounir Lazzez
   (10-2-0)\nMain Card: Pat Sabatini (16-3-0) vs. T.J. Laramie (12-4-0)\nP
@@ -133,7 +108,30 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  t (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
+UID:2022-04-ufc-vegas-51-luque-vs-muhammad-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 51: Luque vs. Muhammad 2
+DTSTART:20220417T003000Z
+DTEND:20220417T033000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/85814-ufc-fight-night\n\n---\n\nMain Event: Vicent
+ e Luque (21-7-1) vs. Belal Muhammad (20-3-0)\nMain Card: Rafa García (13
+ -2-0) vs. Jesse Ronson (21-10-0)\nMain Card: Caio Borralho (10-1-0) vs. 
+ Gadzhi Omargadzhiev (13-0-0)\nMain Card: Elizeu Zaleski (23-7-0) vs. Mou
+ nir Lazzez (10-2-0)\nMain Card: Pat Sabatini (16-3-0) vs. T.J. Laramie (
+ 12-4-0)\nPrelim: Drakkar Klose (11-2-1) vs. Brandon Jenkins (15-8-0)\nPr
+ elim: Chris Barnett (22-7-0) vs. Martin Buday (9-1-0)\nPrelim: Lina Läns
+ berg (10-5-0) vs. Pannie Kianzad (15-6-0)\nPrelim: Mayra Bueno Silva (7-
+ 2-1) vs. Yanan Wu (12-4-0)\nPrelim: Sam Hughes (5-4-0) vs. Istela Nunes 
+ (6-2-0)\nPrelim: Andre Fialho (14-4-0) vs. Miguel Baeza (10-2-0)\nPrelim
+ : Heili Alateng (14-8-2) vs. Kevin Croom (21-14-0)\nPrelim: Trey Ogden (
+ 15-4-0) vs. Jordan Leavitt (9-1-0)\nPrelim: Devin Clark (12-6-0) vs. Wil
+ liam Knight (11-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220405T050953Z
 UID:2022-04-ufc-vegas-52-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 52: Prelims
@@ -155,7 +153,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  vs. Steve Garcia (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-ufc-vegas-52-lemos-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 52: Lemos vs. Andrade
@@ -177,7 +175,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (14-6-0) vs. Steve Garcia (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-ufc-vegas-53-font-vs-vera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 53: Font vs. Vera
@@ -195,10 +193,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -5-0) vs. Luana Pinheiro (10-1-0)\nPrelim: Tatsuro Taira (10-0-0) vs. Ca
  rlos Candelario (8-1-0)\nPrelim: Darren Elkins (26-10-0) vs. Tristan Con
  nelly (14-7-0)\nPrelim: Jake Collier (13-6-0) vs. Justin Tafa (5-3-0)\nP
- relim: Jared Gordon (18-4-0) vs. Grant Dawson (17-1-1)
+ relim: Jared Gordon (18-4-0) vs. Grant Dawson (17-1-1)\nPrelim: Andre Fi
+ li (21-8-0) vs. Joanderson Brito (12-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-05-ufc-vegas-53-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 53: Prelims
@@ -216,10 +215,11 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Luana Pinheiro (10-1-0)\nPrelim: Tatsuro Taira (10-0-0) vs. Carlos Cande
  lario (8-1-0)\nPrelim: Darren Elkins (26-10-0) vs. Tristan Connelly (14-
  7-0)\nPrelim: Jake Collier (13-6-0) vs. Justin Tafa (5-3-0)\nPrelim: Jar
- ed Gordon (18-4-0) vs. Grant Dawson (17-1-1)
+ ed Gordon (18-4-0) vs. Grant Dawson (17-1-1)\nPrelim: Andre Fili (21-8-0
+ ) vs. Joanderson Brito (12-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-05-ufc-274-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Early Prelims
@@ -243,7 +243,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-05-ufc-274-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Prelims
@@ -267,7 +267,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-05-ufc-274-oliveira-vs-gaethje@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Oliveira vs. Gaethje
@@ -291,7 +291,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Cortez (9-1-0) vs. Melissa Gatto (8-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-05-ufc-vegas-54-b-achowicz-vs-rakic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 54: Błachowicz vs. Rakić
@@ -311,7 +311,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-05-ufc-vegas-55-holm-vs-vieira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 55: Holm vs. Vieira
@@ -330,7 +330,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Todorović (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-06-ufc-vegas-56@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 56
@@ -339,14 +339,15 @@ DTEND:20220605T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/86746-ufc-fight-night\n\n---\n\nMain Card: Dan Ige
-  (15-5-0) vs. Movsar Evloev (15-0-0)\nPrelim: Poliana Botelho (8-4-0) vs
- . Karine Silva (14-4-0)\nPrelim: Jeff Molina (10-2-0) vs. Zhalgas Zhumag
- ulov (14-6-0)\nPrelim: Ode Osbourne (10-4-0) vs. Zarrukh Adashev (4-3-0)
- \nPrelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)\nPrelim: 
- Andreas Michailidis (13-5-0) vs. Rinat Fakhretdinov (20-2-0)
+  (15-5-0) vs. Movsar Evloev (15-0-0)\nMain Card: Joaquin Buckley (14-4-0
+ ) vs. Abusupiyan Magomedov (24-4-1)\nPrelim: Poliana Botelho (8-4-0) vs.
+  Karine Silva (14-4-0)\nPrelim: Jeff Molina (10-2-0) vs. Zhalgas Zhumagu
+ lov (14-6-0)\nPrelim: Ode Osbourne (10-4-0) vs. Zarrukh Adashev (4-3-0)\
+ nPrelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)\nPrelim: A
+ ndreas Michailidis (13-5-0) vs. Rinat Fakhretdinov (20-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka
@@ -363,7 +364,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Oliveira (18-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -376,7 +377,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0) vs. Deron Winn (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-06-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -386,10 +387,11 @@ CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/87971-ufc-fight-night\n\n---\n\nMain Card: Tim Ell
  iott (18-12-1) vs. Amir Albazi (14-1-0)\nPrelim: Jinh Yu Frey (11-6-0) v
- s. Vanessa Demopoulos (7-4-0)
+ s. Vanessa Demopoulos (7-4-0)\nPrelim: Josh Parisian (14-5-0) vs. Alan B
+ audot (8-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-07-ufc-276@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276
@@ -402,7 +404,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  asey O'Neill (9-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-07-ufc-277@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277
@@ -414,7 +416,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  rickland (25-3-0) vs. Alex Pereira (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-10-ufc-281@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281

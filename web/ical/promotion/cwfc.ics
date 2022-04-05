@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220402T220304Z
-X-KAMPFKALENDER-HASH:74aede915a577010788be62d5ef4b53b25746cd3
+DTSTAMP:20220405T050953Z
+X-KAMPFKALENDER-HASH:07cb9c04b6ea9c4baa3defbf9060c5f157cd694a
 BEGIN:VEVENT
-DTSTAMP:20220402T220304Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-cage-warriors-135-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 135: Prelims
@@ -31,7 +31,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0) vs. Connor Wilson (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220402T220304Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-cage-warriors-135-skibinski-vs-burlinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 135: Skibiński vs. Burlinson
@@ -55,7 +55,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0) vs. Connor Wilson (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220402T220304Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-cage-warriors-136-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 136: Prelims
@@ -79,7 +79,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)\nPrelim: Piotr Chmielecki (5-1-0) vs. Michael Tchamou (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220402T220304Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-cage-warriors-136-melan-vs-duncan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 136: Mélan vs. Duncan
@@ -103,10 +103,21 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)\nPrelim: Piotr Chmielecki (5-1-0) vs. Michael Tchamou (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220402T220304Z
+DTSTAMP:20220405T050953Z
 UID:2022-06-cage-warriors-137@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 137
+DTSTART:20220610T040000Z
+DTEND:20220610T070000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88214-cage-warriors-137
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220405T050953Z
+UID:2022-06-cage-warriors-138@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 138
 DTSTART:20220625T040000Z
 DTEND:20220625T070000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live

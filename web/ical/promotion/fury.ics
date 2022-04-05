@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220403T220305Z
-X-KAMPFKALENDER-HASH:2d26879f8ac17d010465b1317f7e0abdf41a1ea1
+DTSTAMP:20220405T050953Z
+X-KAMPFKALENDER-HASH:6e1a3ae784fa72adfa8ed953fabd53caa6196e11
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220405T050953Z
 UID:2022-04-fury-fc-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 60
@@ -32,5 +32,38 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  imenez (1-1-0) vs. Moises Oropeza (0-1-0)\nMain Card: Paul Garza (2-3-0)
   vs. Bryant Shell (0-1-0)\nMain Card: Aalon Cruz (9-4-0) vs. Charles Che
  eks III (15-9-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220405T050953Z
+UID:2022-05-fury-fc-61@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 61
+DTSTART:20220508T180000Z
+DTEND:20220508T210000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88196-fury-fc-61
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220405T050953Z
+UID:2022-05-fury-fc-62@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 62
+DTSTART:20220515T180000Z
+DTEND:20220515T210000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88197-fury-fc-62\nhttps://events.mixedmartialarts.com/fury-f
+ c-62:a91d4a74-8971-4f0e-a51f-1c2967f6b2eb\n\n---\n\nMain Card: Roosevelt
+  Roberts (11-3-0) vs. Nick Compton (12-10-0)\nMain Card: Jason Mullen (4
+ -2-0) vs. Edwin Chavez (5-2-0)\nMain Card: Gerald Scott (5-1-0) vs. Deri
+ k Scott (3-1-0)\nMain Card: George Martinez (4-2-0) vs. Tyler Bialecki (
+ 9-9-0)\nMain Card: Oscar Herrera (3-1-0) vs. Mason Iacobellis (2-2-0)\nM
+ ain Card: Isiah Torres (1-2-0) vs. Mario Suazo (2-1-0)\nMain Card: Marqu
+ el Mederos (2-1-0) vs. Joseph Galaviz (3-4-0)\nMain Card: Joseph Garcia 
+ (0-1-0) vs. Chris Sherley-Rios (0-2-0)\nMain Card: Noufel El Kasri (0-1-
+ 0) vs. Kaleo Meheula (1-1-0)\nMain Card: Kyle Broadwater (1-6-0) vs. Zac
+ hariah Thorne (1-2-0)\nMain Card: Kevin Kent (0-0-0) vs. Caleb Hall (2-3
+ -0)\nMain Card: Dey McIntosh (1-0-0) vs. Tiga Lundin (0-0-0)
 END:VEVENT
 END:VCALENDAR
