@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220406T105309Z
-X-KAMPFKALENDER-HASH:b4aa18227107a986287944ad5bb3ba1371ed8078
+DTSTAMP:20220406T105617Z
+X-KAMPFKALENDER-HASH:ae022930a6ac10230f49e6198a3d49bc0da32ca4
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-04-plaza-fights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Plaza Fights
@@ -19,19 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  he-next-generation/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
-UID:2022-04-one-reloaded@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Reloaded
-DTSTART:20220408T090000Z
-DTEND:20220408T120000Z
-CATEGORIES:ONE,Kickboxen,Muay Thai,ONE TV,live
-DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
- nts/87416-one-championship-reloaded\n\n---\n\nMain Event: Regian Eersel 
- vs. Arian Sadiković\nCo-Main Event: Smilla Sundell vs. Jackie Buntan
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-04-titan-fc-75@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Titan FC 75
@@ -47,7 +35,19 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0) vs. Alberto Blas (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
+UID:2022-04-one-reloaded@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Reloaded
+DTSTART:20220422T100000Z
+DTEND:20220422T130000Z
+CATEGORIES:ONE,Kickboxen,Muay Thai,ONE TV,live
+DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/87416-one-championship-reloaded\n\n---\n\nMain Event: Regian Eersel 
+ vs. Arian Sadiković\nCo-Main Event: Smilla Sundell vs. Jackie Buntan
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105617Z
 UID:2022-04-xfn-379@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 379
@@ -57,7 +57,7 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -68,7 +68,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
  come-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2
@@ -79,7 +79,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/sup
  er-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-05-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -89,7 +89,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-05-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106
@@ -99,7 +99,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-05-glory-rivals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 1
@@ -113,7 +113,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  apu
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105310Z
+DTSTAMP:20220406T105617Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
