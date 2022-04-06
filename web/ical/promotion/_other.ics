@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220405T050953Z
-X-KAMPFKALENDER-HASH:da34867e3904a00397f3a8072d666245a5a7204e
+DTSTAMP:20220406T105309Z
+X-KAMPFKALENDER-HASH:ee2755c55b2288314785a8f69b4c2d8ce51e091d
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-totalkombat@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Totalkombat
@@ -18,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  aza-fights-439
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-plaza-fights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Plaza Fights
@@ -30,7 +30,51 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  he-next-generation/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
+UID:2022-04-chosen-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Chosen Fight Night
+DTSTART:20220409T163000Z
+DTEND:20220409T193000Z
+CATEGORIES:Other,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=C8UV_ukwjL4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
+UID:2022-04-muller-vs-wildenhof@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Müller vs. Wildenhof
+DTSTART:20220409T163000Z
+DTEND:20220409T193000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ xen-falkensee-440\n\n---\n\nhttps://www.boxen1.com/am-9-april-deutsche-m
+ eisterschaft-mueller-vs-wildenhof-tom-schwarz-zurueck-im-ring-61443/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
+UID:2022-04-ajp-tour-sofia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AJP Tour Sofia
+DTSTART:20220416T120000Z
+DTEND:20220416T150000Z
+CATEGORIES:Other,Grappling,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
+ -gi-april/2payw/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
+UID:2022-04-ajp-tour-orlando@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AJP Tour Orlando
+DTSTART:20220416T190000Z
+DTEND:20220416T220000Z
+CATEGORIES:Other,Grappling,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
+ national-pro-g/2paw9/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
 UID:2022-04-xfn-379@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 379
@@ -40,7 +84,7 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -51,7 +95,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
  come-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220405T050953Z
-X-KAMPFKALENDER-HASH:cb0336a4dae3b7c5f77e9414c05be50605ab6386
+DTSTAMP:20220406T105309Z
+X-KAMPFKALENDER-HASH:0ef88432953fcbfc2a9a78791e7642f9cdef2ca2
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-martin-vs-felix@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martin vs. Felix
@@ -23,7 +23,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s. Joel Cordova (13-5-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-totalkombat@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Totalkombat
@@ -34,7 +34,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  aza-fights-439
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-golovkin-vs-murata@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Golovkin vs. Murata
@@ -43,14 +43,26 @@ DTEND:20220409T121000Z
 CATEGORIES:TP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/87260-ggg-vs-murata\nhttp://www.boxrec.com/en/event/850331\n\n---\n\nM
- ain Event: Gennadiy Golovkin (41-1-1) vs. Ryota Murata (16-2-0)\nMain Ca
- rd: Junto Nakatani (22-0-0) vs. Ryota Yamauchi (8-1-0)\nMain Card: Shuic
- hiro Yoshino (14-0-0) vs. Masayuki Ito (27-3-1)\nMain Card: Kazuki Anagu
- chi (0-0-0) vs. Ryuji Yamamoto (0-0-0)\nMain Card: Taiga Kato (0-0-0) vs
- . Hiroka Amaki (0-0-0)
+ ain Event: Gennadiy Golovkin (41-1-1) vs. Ryota Murata (16-2-0)\nCo-Main
+  Event: Junto Nakatani (22-0-0) vs. Ryota Yamauchi (8-1-0)\nMain Card: S
+ huichiro Yoshino (14-0-0) vs. Masayuki Ito (27-3-1)\nMain Card: Kazuki A
+ naguchi (0-0-0) vs. Ryuji Yamamoto (0-0-0)\nMain Card: Taiga Kato (0-0-0
+ ) vs. Hiroka Amaki (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
+UID:2022-04-muller-vs-wildenhof@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Müller vs. Wildenhof
+DTSTART:20220409T163000Z
+DTEND:20220409T193000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ xen-falkensee-440\n\n---\n\nhttps://www.boxen1.com/am-9-april-deutsche-m
+ eisterschaft-mueller-vs-wildenhof-tom-schwarz-zurueck-im-ring-61443/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
 UID:2022-04-garcia-vs-tagoe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Tagoe
@@ -64,10 +76,53 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Akitsugi (8-0-0) vs. Gregory Morales (12-0-0)\nMain Card: Gabriel Rosad
  o (26-14-1) vs. Shane Mosley Jr. (17-4-0)\nMain Card: George Rincon (12-
  0-0) vs. Alejandro Rene Frias (12-5-2)\nMain Card: Hector Valdez (14-0-0
- ) vs. Daniel Moncada (0-0-0)
+ ) vs. Daniel Moncada (0-0-0)\nMain Card: Azat Hovhannisyan (20-3-0) vs. 
+ Dagoberto Aguero (15-1-0)\nMain Card: Patrick Teixeira (31-2-0) vs. Paul
+  Valenzuela Jr (27-11-0)\nMain Card: Tristan Kalkreuth (8-1-0) vs. Santa
+ nder Silgado (30-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
+UID:2022-04-lubin-vs-fundora@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lubin vs. Fundora
+DTSTART:20220410T020000Z
+DTEND:20220410T050000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-lubin-vs-fundora/2
+ pb4f/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/86806-lubin-
+ vs-fundora\nhttp://www.boxrec.com/en/event/850663\n\n---\n\nMain Event: 
+ Erickson Lubin (24-1-0) vs. Sebastian Fundora (18-0-1)\nMain Card: Tony 
+ Harrison (28-3-1) vs. Sergio Garcia (33-1-0)\nMain Card: Kevin Salgado Z
+ ambrano (11-0-0) vs. Bryant Perrella (17-3-1)\nMain Card: Eumir Felix Ma
+ rcial (68-17-0) vs. Isaiah Hart (6-2-0)\nMain Card: Aaron Coley (16-3-1)
+  vs. Jamontay Clark (15-2-1)\nMain Card: Willie Jones (8-2-0) vs. Ector 
+ Madera (6-0-0)\nMain Card: Jalil Hackett (3-0-0) vs. Jose Belloso (0-0-0
+ )\nMain Card: Albert Gonzalez (0-0-0) vs. D. Alegre (0-0-0)\nMain Card: 
+ Dorian Khan (1-0-0) vs. Arturo De Islas (2-1-0)\nMain Card: Jose Ramirez
+  (0-0-0) vs. Xavier Bocanegra (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
+UID:2022-04-mayer-vs-han@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Mayer vs. Han
+DTSTART:20220410T020000Z
+DTEND:20220410T050000Z
+CATEGORIES:TR,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-mayer-vs-han/
+ 2pb4g/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/87268-mayer
+ -vs-han\n\n---\n\nMain Event: Mikaela Mayer (16-0-0) vs. Jennifer Han (1
+ 8-4-1)\nCo-Main Event: Giovani Santillan (28-0-0) vs. Jeovanis Barraza (
+ 23-2-0)\nMain Card: Jason Moloney (22-2-0) vs. Francisco Pedroza (16-10-
+ 2)\nMain Card: Andrew Moloney (22-2-0) vs. Gilberto Mendoza (16-10-3)\nM
+ ain Card: Duke Ragan (4-0-0) vs. Diuhl Olguin (15-21-5)\nMain Card: Floy
+ d Diaz (3-0-0) vs. Blake Quintana (0-0-0)\nMain Card: Randee Morales (4-
+ 3-0) vs. Ginny Fuchs (0-0-0)\nMain Card: Luis Alberto Lopez (24-2-0) vs.
+  Raul Chirino (16-12-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
 UID:2022-04-benn-vs-van-heerden@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Van Heerden
@@ -77,11 +132,10 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/87520-benn-vs-van-heerden\nhttp://www.boxrec.com/en/event/850826\n\n--
  -\n\nMain Event: Conor Benn (20-0-0) vs. Chris van Heerden (28-2-1)\nCo-
- Main Event: Chris Billam-Smith (14-1-0) vs. Tommy McCarthy (18-3-0)\nMai
- n Card: Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)
+ Main Event: Chris Billam-Smith (14-1-0) vs. Tommy McCarthy (18-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-zucco-vs-nikolic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zucco vs. Nikolic
@@ -96,7 +150,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0) vs. Felice Moncelli (22-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-casimero-vs-butler@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Casimero vs. Butler
@@ -107,15 +161,16 @@ DESCRIPTION:via Eurosport 2\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/86460-casimero-vs-butler\nhttp://www.boxrec.com/en/event/848452
  \n\n---\n\nMain Event: John Riel Casimero (31-4-0) vs. Paul Butler (33-2
  -0)\nMain Card: Jazza Dickens (30-4-0) vs. Andoni Gago (25-4-4)\nMain Ca
- rd: Peter McGrail (0-0-0) vs. Uriel Lopez (13-16-1)
+ rd: Peter McGrail (0-0-0) vs. Uriel Lopez (13-16-1)\nMain Card: Sam Maxw
+ ell (16-0-0) vs. Alejandro Meneses (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-taylor-vs-serrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano
-DTSTART:20220430T230000Z
-DTEND:20220501T020000Z
+DTSTART:20220430T220000Z
+DTEND:20220501T010000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/86023-taylor-vs-serrano\nhttp://www.boxrec.com/en/event/847320\n\n---\
@@ -123,13 +178,14 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ard: Jessie Vargas (29-3-2) vs. Liam Smith (30-3-1)\nMain Card: Franchon
   Crews-Dezurn (7-1-0) vs. Elin Cederroos (8-0-0)\nMain Card: Reshat Mati
   (11-0-0) vs. Joe Eli Hernandez (12-1-0)\nMain Card: Austin Williams (10
- -0-0) vs. Chordale Booker (17-0-0)
+ -0-0) vs. Chordale Booker (17-0-0)\nMain Card: Khalil Coe (2-0-1) vs. Wi
+ lliam Langston (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
-UID:2022-05-triller-verz-5-kovalev-vs-pulev@kampfkalender.de
+DTSTAMP:20220406T105310Z
+UID:2022-05-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Triller Verz 5: Kovalev vs. Pulev
+SUMMARY:Kovalev vs. Pulev
 DTSTART:20220514T220000Z
 DTEND:20220515T010000Z
 CATEGORIES:TFC,Boxen,fite.tv,live

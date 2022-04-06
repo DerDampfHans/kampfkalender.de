@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220405T050953Z
-X-KAMPFKALENDER-HASH:724a6489c3da345c5fed6f8b10e0cbfcf1197192
+DTSTAMP:20220406T105309Z
+X-KAMPFKALENDER-HASH:359a0b23c3bc57bbd6bbab37a645e8567e10db43
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-pfl-challenger-series-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 7
@@ -25,7 +25,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  -0-0)\nMain Card: Santino Zurita (0-0-0) vs. Rakim Talley (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-nfc-8-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Prelims
@@ -51,7 +51,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3OtXuodxC-M\
  2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-totalkombat@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Totalkombat
@@ -62,7 +62,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  aza-fights-439
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-nfc-8-undercard@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Undercard
@@ -88,7 +88,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=aMxbwdhjgB4\
  2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-nfc-8-errens-vs-ozyildirim-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Errens vs. Özyildirim 2
@@ -115,7 +115,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de: https://www.yo
  wa Mstoyan (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-plaza-fights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Plaza Fights
@@ -127,29 +127,42 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  he-next-generation/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-pfl-challenger-series-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 8
-DTSTART:20220408T010000Z
-DTEND:20220408T040000Z
+DTSTART:20220409T010000Z
+DTEND:20220409T040000Z
 CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=2HISCtVLCbU\
+ nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
+UID:2022-04-muller-vs-wildenhof@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Müller vs. Wildenhof
+DTSTART:20220409T163000Z
+DTEND:20220409T193000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ xen-falkensee-440\n\n---\n\nhttps://www.boxen1.com/am-9-april-deutsche-m
+ eisterschaft-mueller-vs-wildenhof-tom-schwarz-zurueck-im-ring-61443/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
-DTSTART:20220410T180000Z
-DTEND:20220410T210000Z
+DTSTART:20220410T140000Z
+DTEND:20220410T170000Z
 CATEGORIES:BKB,Bare Knuckle,fighting.de,fight24.tv,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
- e.tv/watch/bkb-25/2pb16/\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/86201-bkb-25
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hx_2izRcmm4\
+ nvia fight24.tv\nvia fite.tv: https://www.fite.tv/watch/bkb-25/2pb16/\n\
+ n---\n\nhttps://www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-pfl-regular-season-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 1
@@ -170,7 +183,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  linton Williams (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-vendetta-26@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Vendetta 26
@@ -181,7 +194,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/ven
  detta-26-wien/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-vendetta-27@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Vendetta 27
@@ -192,7 +205,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/ven
  detta-27/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -203,7 +216,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
  come-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-pfl-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 2
@@ -223,7 +236,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  ghi (14-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-brave-cf-58@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 58
@@ -239,7 +252,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2
@@ -250,7 +263,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/sup
  er-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-05-pfl-regular-season-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 3
@@ -261,7 +274,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87834-pfl-2022-3-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -272,7 +285,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/innferno-fc-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-06-pfl-regular-season-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 4
@@ -283,27 +296,29 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87835-pfl-2022-4-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
 DTSTART:20220618T160000Z
 DTEND:20220618T180000Z
 CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
+ ttps://www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-06-nfc-9-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Main Card
 DTSTART:20220618T180000Z
 DTEND:20220618T210000Z
 CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
+ ttps://www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -312,10 +327,10 @@ DTEND:20220618T223000Z
 CATEGORIES:NFC,MMA,SPORT1,SPORT1 Extra,fighting.de,fight24.tv,live,kosten
  los
 DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
- 
+ \n\n---\n\nhttps://www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-06-pfl-regular-season-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 5
@@ -326,7 +341,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87836-pfl-2022-5-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-07-pfl-regular-season-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 6
@@ -337,7 +352,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87837-pfl-2022-6-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
@@ -348,7 +363,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87838-pfl-2022-7-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -359,7 +374,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -370,7 +385,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -382,7 +397,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -393,7 +408,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87839-pfl-2022-8-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -404,27 +419,29 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87840-pfl-2022-9-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
 DTSTART:20221008T160000Z
 DTEND:20221008T180000Z
 CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
+ ttps://www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
 DTSTART:20221008T180000Z
 DTEND:20221008T210000Z
 CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
+ ttps://www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -433,10 +450,10 @@ DTEND:20221008T223000Z
 CATEGORIES:NFC,MMA,SPORT1,SPORT1 Extra,fighting.de,fight24.tv,live,kosten
  los
 DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
- 
+ \n\n---\n\nhttps://www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -447,7 +464,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87841-pfl-2022-10-championships
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-11-pfl-finals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 2
@@ -457,27 +474,29 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
 DTSTART:20221217T170000Z
 DTEND:20221217T190000Z
 CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
+ ttps://www.fightevents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
 DTSTART:20221217T190000Z
 DTEND:20221217T220000Z
 CATEGORIES:NFC,MMA,fighting.de,SPORT1 Extra,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
+ ttps://www.fightevents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -486,6 +505,6 @@ DTEND:20221217T233000Z
 CATEGORIES:NFC,MMA,SPORT1,SPORT1 Extra,fighting.de,fight24.tv,live,kosten
  los
 DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
- 
+ \n\n---\n\nhttps://www.fightevents.de/event/nfc-12/
 END:VEVENT
 END:VCALENDAR

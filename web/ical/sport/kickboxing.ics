@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220403T220305Z
-X-KAMPFKALENDER-HASH:cfcda5a32c0e18c3245f5e7a06a3d8294d3e324c
+DTSTAMP:20220406T105309Z
+X-KAMPFKALENDER-HASH:b4aa18227107a986287944ad5bb3ba1371ed8078
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-plaza-fights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Plaza Fights
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  he-next-generation/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-one-reloaded@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Reloaded
@@ -31,7 +31,23 @@ DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  vs. Arian Sadiković\nCo-Main Event: Smilla Sundell vs. Jackie Buntan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
+UID:2022-04-titan-fc-75@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Titan FC 75
+DTSTART:20220410T210000Z
+DTEND:20220411T000000Z
+CATEGORIES:TFC,MMA,Kickboxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87656-titan-fc-75\n\n---\n\nMain Event: Oscar Sosa vs. Alex 
+ Nicholson\nCo-Main Event: Landon Quiñones (5-1-1) vs. Reynaldo Acevedo (
+ 9-3-0)\nMain Card: Carlos Matos (8-1-0) vs. Elias Santos (4-4-0)\nMain C
+ ard: Talita Alencar (1-0-0) vs. Yasmeli Araque (2-3-0)\nMain Card: Tommy
+  Garcia (3-2-0) vs. Makiel Frias (3-3-0)\nMain Card: Micaias Ureña (6-3-
+ 0) vs. Alberto Blas (3-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
 UID:2022-04-xfn-379@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 379
@@ -41,7 +57,7 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -52,7 +68,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
  come-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2
@@ -63,7 +79,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/sup
  er-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-05-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -73,7 +89,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-05-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106
@@ -83,7 +99,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-05-glory-rivals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 1
@@ -97,7 +113,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  apu
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220403T220305Z
+DTSTAMP:20220406T105310Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5

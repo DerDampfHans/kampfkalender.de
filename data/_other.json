@@ -1,14 +1,85 @@
 [
   {
+    "id": "falkensee-2022-04-09",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Berlin",
+      "#Falkensee",
+      "#MüllerWildenhof"
+    ],
+    "links": [
+      "https://www.boxen1.com/am-9-april-deutsche-meisterschaft-mueller-vs-wildenhof-tom-schwarz-zurueck-im-ring-61443/"
+    ],
+    "mainCard": {
+      "title": "Müller vs. Wildenhof",
+      "time": "2022-04-09T16:30:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxen-falkensee-440",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "the-chosen-2022-04-09",
+    "promotion": "_OTHER",
+    "tags": [
+      "#Hamburg",
+      "#K1",
+      "#Kickboxen"
+    ],
+    "mainCard": {
+      "title": "Chosen Fight Night",
+      "time": "2022-04-09T16:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=C8UV_ukwjL4"
+        }
+      },
+      "youTube": {
+        "id": "C8UV_ukwjL4",
+        "time": "2022-04-09T16:30:00Z",
+        "title": "LIVE: The Chosen Kickboxen | 9.4. | 18:30 - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=C8UV_ukwjL4",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    }
+  },
+  {
     "id": "ajp-grappling-2022-04-16-2",
     "promotion": "_OTHER",
     "sports": [
       "GRAPPLING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "AJP Tour Sofia",
-      "time": "2022-04-16T12:00:00Z"
+      "time": "2022-04-16T12:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ajp-tour-sofia-int-pro-gi-april/2payw/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2payw",
+        "time": "2022-04-16T12:00:00Z",
+        "title": "AJP Tour Sofia International Pro - Gi, April 16th",
+        "url": "https://www.fite.tv/watch/ajp-tour-sofia-int-pro-gi-april/2payw/",
+        "price": "FREE",
+        "sports": [
+          "GRAPPLING",
+          "MMA"
+        ]
+      }
     }
   },
   {
@@ -18,9 +89,25 @@
       "GRAPPLING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "AJP Tour Orlando",
-      "time": "2022-04-16T19:00:00Z"
+      "time": "2022-04-16T19:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ajp-tour-orlando-international-pro-g/2paw9/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2paw9",
+        "time": "2022-04-16T19:00:00Z",
+        "title": "AJP Tour Orlando: International Pro - Gi",
+        "url": "https://www.fite.tv/watch/ajp-tour-orlando-international-pro-g/2paw9/",
+        "price": "FREE",
+        "sports": [
+          "GRAPPLING",
+          "MMA"
+        ]
+      }
     }
   },
   {

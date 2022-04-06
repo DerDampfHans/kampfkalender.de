@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220405T050953Z
-X-KAMPFKALENDER-HASH:6ee73f54e6445a39ace4acb462cc0189359625e1
+DTSTAMP:20220406T105309Z
+X-KAMPFKALENDER-HASH:d7b63e96316820aac1b31d397ba2b41355283cee
 BEGIN:VEVENT
-DTSTAMP:20220405T050953Z
+DTSTAMP:20220406T105310Z
 UID:2022-04-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -16,5 +16,27 @@ DTEND:20220409T130000Z
 CATEGORIES:GMC,Grappling,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220409-olym
  pix-grappling-no-105
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
+UID:2022-04-ajp-tour-sofia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AJP Tour Sofia
+DTSTART:20220416T120000Z
+DTEND:20220416T150000Z
+CATEGORIES:Other,Grappling,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
+ -gi-april/2payw/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T105310Z
+UID:2022-04-ajp-tour-orlando@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AJP Tour Orlando
+DTSTART:20220416T190000Z
+DTEND:20220416T220000Z
+CATEGORIES:Other,Grappling,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
+ national-pro-g/2paw9/
 END:VEVENT
 END:VCALENDAR

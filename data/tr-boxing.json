@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#MayerHan"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Mayer vs. Han",
-      "time": "2022-04-10T02:00:00Z"
+      "time": "2022-04-10T02:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/top-rank-mayer-vs-han/2pb4g/"
+        }
+      },
+      "fite": {
+        "id": "2pb4g",
+        "time": "2022-04-10T02:00:00Z",
+        "title": "Top Rank: Mikaela Mayer vs Jennifer Han",
+        "url": "https://www.fite.tv/watch/top-rank-mayer-vs-han/2pb4g/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 87268,
