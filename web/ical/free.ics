@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220406T184005Z
-X-KAMPFKALENDER-HASH:381e864b2f2f934d0afcfcf22bb843a93f62dd69
+DTSTAMP:20220406T213005Z
+X-KAMPFKALENDER-HASH:16f4c5c6bd52eb57c40b1186f2017597e28e99f4
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-nfc-contenders@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders
@@ -18,7 +18,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=L325WL2tJw0\
  n\n---\n\nhttps://www.fightevents.de/event/nfc-contenders/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-ksw-63-soldic-vs-kincl-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 63: Soldić vs Kincl (Re-Live)
@@ -31,7 +31,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=s2BPF4ck91c\n\n-
  s://www.bestfightodds.com/events/ksw-63-2276
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-nfc-8-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Prelims
@@ -57,7 +57,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3OtXuodxC-M\
  2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-nfc-8-errens-vs-ozyildirim-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Errens vs. Özyildirim 2
@@ -84,7 +84,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de: https://www.yo
  wa Mstoyan (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-ufc-273-pre-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Pre-Fight Press Conference
@@ -94,7 +94,17 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnBoyfzi8JA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
+UID:2022-04-ufc-273-live-weigh-in-show@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 273: Live Weigh-In Show
+DTSTART:20220408T125000Z
+DTEND:20220408T135000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZdtbea3w6c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T213005Z
 UID:2022-04-bkfc-23-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 23: Prelims
@@ -115,7 +125,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-23-prelims/2pb4h/
  h Cutter\nMain Card: Edmund Santos vs. Nick Villar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-we-love-mma-56@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 56
@@ -126,7 +136,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-60
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-ajp-tour-sofia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Sofia
@@ -137,7 +147,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
  -gi-april/2payw/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-ajp-tour-orlando@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Orlando
@@ -148,7 +158,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
  national-pro-g/2paw9/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-04-casimero-vs-butler@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Casimero vs. Butler
@@ -163,7 +173,7 @@ DESCRIPTION:via Eurosport 2\n\n---\n\nhttps://www.tapology.com/fightcente
  ell (16-0-0) vs. Alejandro Meneses (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-05-invicta-fc-47-ducote-vs-zappitella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 47: Ducote vs. Zappitella
@@ -180,7 +190,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  a (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-05-eagle-fc-48-dos-santos-vs-de-castro@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 48: Dos Santos vs. De Castro
@@ -193,7 +203,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Lombard (34-10-1) vs. Thiago Silva (21-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -204,7 +214,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -216,7 +226,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -226,7 +236,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -237,7 +247,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -249,7 +259,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -259,7 +269,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -270,7 +280,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -282,7 +292,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -293,7 +303,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220406T213005Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
