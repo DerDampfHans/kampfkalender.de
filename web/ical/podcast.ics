@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220406T184005Z
-X-KAMPFKALENDER-HASH:d51f541c4335f293d43ffb8bc828a18fcfbeb37b
+DTSTAMP:20220407T071740Z
+X-KAMPFKALENDER-HASH:26ac1fd8a23d68ad28d649944f0bcb9cd0703e40
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220407T071740Z
 UID:2022-04-schlagwort-podcast-157@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 157
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220407T071740Z
 UID:2022-04-review-zur-tv-ausstrahlung-von-nfc-8-news-der-woche-neu-anges
  etzte-kampfe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -27,5 +27,17 @@ DTSTART:20220405T150000Z
 DTEND:20220405T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=f9G7x5yabPo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220407T071740Z
+UID:2022-04-preview-zu-ufc-273-favoritenrollen-fur-volkanovski-yan-und-ch
+ imaev-berechtigt@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Preview zu UFC 273 - Favoritenrollen für Volkanovski\, Yan und Ch
+ imaev berechtigt?
+DTSTART:20220407T150000Z
+DTEND:20220407T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=iaX9vcYnpY4
 END:VEVENT
 END:VCALENDAR

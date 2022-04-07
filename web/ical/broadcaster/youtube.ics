@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220406T213005Z
-X-KAMPFKALENDER-HASH:b3be27cd5fcfaf56df7e694c1d282214ea39eb81
+DTSTAMP:20220407T071740Z
+X-KAMPFKALENDER-HASH:70046e1a5d9863807b0095e03542aa6b4ebe3c80
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-04-ksw-63-soldic-vs-kincl-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 63: Soldić vs Kincl (Re-Live)
@@ -20,7 +20,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=s2BPF4ck91c\n\n-
  s://www.bestfightodds.com/events/ksw-63-2276
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-04-schlagwort-podcast-157@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 157
@@ -30,7 +30,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-04-review-zur-tv-ausstrahlung-von-nfc-8-news-der-woche-neu-anges
  etzte-kampfe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -42,7 +42,19 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=f9G7x5yabPo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
+UID:2022-04-preview-zu-ufc-273-favoritenrollen-fur-volkanovski-yan-und-ch
+ imaev-berechtigt@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Preview zu UFC 273 - Favoritenrollen für Volkanovski\, Yan und Ch
+ imaev berechtigt?
+DTSTART:20220407T150000Z
+DTEND:20220407T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=iaX9vcYnpY4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220407T071741Z
 UID:2022-04-ufc-273-pre-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Pre-Fight Press Conference
@@ -52,7 +64,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnBoyfzi8JA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-04-ufc-273-live-weigh-in-show@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Live Weigh-In Show
@@ -62,7 +74,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZdtbea3w6c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-05-bellator-280-bader-vs-kongo-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Bader vs. Kongo 2
@@ -85,7 +97,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ourama Camara (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-05-invicta-fc-47-ducote-vs-zappitella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 47: Ducote vs. Zappitella
@@ -102,7 +114,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  a (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-05-bellator-281-mvp-vs-storley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281: MVP vs. Storley
@@ -125,7 +137,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  vicus (15-5-0) vs. David Trallero (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 282: Mousasi vs. Eblen
@@ -138,7 +150,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Ilara Joanne (9-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T213006Z
+DTSTAMP:20220407T071741Z
 UID:2022-09-bellator-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator Dublin

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220406T184005Z
-X-KAMPFKALENDER-HASH:2bc411303bac0f38b05b7d7968ec89d329e2fa5e
+DTSTAMP:20220407T071740Z
+X-KAMPFKALENDER-HASH:bf4fe9f280232155d3f8b057da4912611f9363ca
 BEGIN:VEVENT
-DTSTAMP:20220406T184005Z
+DTSTAMP:20220407T071740Z
 UID:2022-04-review-zur-tv-ausstrahlung-von-nfc-8-news-der-woche-neu-anges
  etzte-kampfe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -17,5 +17,17 @@ DTSTART:20220405T150000Z
 DTEND:20220405T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=f9G7x5yabPo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220407T071740Z
+UID:2022-04-preview-zu-ufc-273-favoritenrollen-fur-volkanovski-yan-und-ch
+ imaev-berechtigt@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Preview zu UFC 273 - Favoritenrollen für Volkanovski\, Yan und Ch
+ imaev berechtigt?
+DTSTART:20220407T150000Z
+DTEND:20220407T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=iaX9vcYnpY4
 END:VEVENT
 END:VCALENDAR
