@@ -4,21 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220407T231005Z
-X-KAMPFKALENDER-HASH:673e2230f65f0cd873197262114db84c533ce092
+DTSTAMP:20220408T162713Z
+X-KAMPFKALENDER-HASH:12b33c084d35e37fa78c2d386c1b7f34b979559a
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
-UID:2022-04-nfc-contenders@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC Contenders
-DTSTART:20220401T160000Z
-DTEND:20220401T210000Z
-CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=L325WL2tJw0\
- n\n---\n\nhttps://www.fightevents.de/event/nfc-contenders/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-ksw-63-soldic-vs-kincl-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 63: Soldić vs Kincl (Re-Live)
@@ -31,7 +20,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=s2BPF4ck91c\n\n-
  s://www.bestfightodds.com/events/ksw-63-2276
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-nfc-8-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Prelims
@@ -57,7 +46,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3OtXuodxC-M\
  2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-nfc-8-errens-vs-ozyildirim-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 8: Errens vs. Özyildirim 2
@@ -84,7 +73,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de: https://www.yo
  wa Mstoyan (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-ufc-273-pre-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Pre-Fight Press Conference
@@ -94,7 +83,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnBoyfzi8JA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-ufc-273-live-weigh-in-show@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Live Weigh-In Show
@@ -104,7 +93,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nZdtbea3w6c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-ufc-273-ceremonial-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 273: Ceremonial Weigh-In
@@ -114,12 +103,12 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MEVjdCIAl6U
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-bkfc-23-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 23: Prelims
-DTSTART:20220408T230000Z
-DTEND:20220409T000000Z
+DTSTART:20220409T000000Z
+DTEND:20220409T010000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-23-prelims/2pb4h/
  \n\n---\n\nhttps://www.tapology.com/fightcenter/events/87619-bkfc-23-ric
@@ -135,18 +124,28 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-23-prelims/2pb4h/
  h Cutter\nMain Card: Edmund Santos vs. Nick Villar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
+UID:2022-04-oktagon-32-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 32: Prelims
+DTSTART:20220409T160000Z
+DTEND:20220409T180000Z
+CATEGORIES:Oktagon,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=mgQ3jFn5Cr8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
 UID:2022-04-we-love-mma-56@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 56
-DTSTART:20220409T203500Z
-DTEND:20220409T231500Z
+DTSTART:20220409T202500Z
+DTEND:20220409T234500Z
 CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-60
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-ajp-tour-sofia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Sofia
@@ -157,7 +156,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
  -gi-april/2payw/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-ajp-tour-orlando@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Orlando
@@ -168,7 +167,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
  national-pro-g/2paw9/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-casimero-vs-butler@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Casimero vs. Butler
@@ -183,7 +182,36 @@ DESCRIPTION:via Eurosport 2\n\n---\n\nhttps://www.tapology.com/fightcente
  ell (16-0-0) vs. Alejandro Meneses (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
+UID:2022-04-ksw-69-przybysz-vs-jojua@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 69: Przybysz vs. Jojua
+DTSTART:20220423T170000Z
+DTEND:20220423T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,Bild TV,live,kostenlos
+DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
+ /fightcenter/events/87779-ksw-69\n\n---\n\nMain Event: Sebastian Przybys
+ z (9-2-0) vs. Zuriko Jojua (8-1-0)\nCo-Main Event: Cezary Kęsik (13-1-0)
+  vs. Paweł Pawlak (19-4-1)\nMain Card: Natalia Baczyńska (6-1-0) vs. Sar
+ a Luzar Smajić (3-1-0)\nMain Card: Robert Ruchała (6-0-0) vs. Michele Ba
+ iano (7-0-0)\nMain Card: Maciej Kazieczko (7-2-0) vs. Wilson Varela (6-2
+ -0)\nMain Card: Artur Szczepaniak (7-1-0) vs. Jivko Stoimenov (13-4-0)\n
+ Prelim: Patryk Chrobak (3-1-0) vs. Paweł Polityło (6-3-0)\nPrelim: Wojci
+ ech Kazieczko (1-0-0) vs. Lubomir Lesák (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
+UID:2022-04-we-love-mma-57@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 57
+DTSTART:20220430T170000Z
+DTEND:20220430T200000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-59
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
 UID:2022-05-invicta-fc-47-ducote-vs-zappitella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 47: Ducote vs. Zappitella
@@ -200,7 +228,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  a (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-05-eagle-fc-48-dos-santos-vs-de-castro@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 48: Dos Santos vs. De Castro
@@ -213,7 +241,18 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Lombard (34-10-1) vs. Thiago Silva (21-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
+UID:2022-05-we-love-mma-58@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 58
+DTSTART:20220521T170000Z
+DTEND:20220521T200000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -224,7 +263,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -236,7 +275,7 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -246,7 +285,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -257,7 +296,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -269,7 +308,18 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
+UID:2022-09-we-love-mma-59@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 59
+DTSTART:20220917T170000Z
+DTEND:20220917T200000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -279,7 +329,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -290,7 +340,18 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
+UID:2022-10-we-love-mma-60@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 60
+DTSTART:20221008T170000Z
+DTEND:20221008T200000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -302,7 +363,40 @@ DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
+UID:2022-10-we-love-mma-61@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 61
+DTSTART:20221029T170000Z
+DTEND:20221029T200000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
+UID:2022-11-we-love-mma-62@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 62
+DTSTART:20221105T180000Z
+DTEND:20221105T210000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
+UID:2022-11-we-love-mma-63@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 63
+DTSTART:20221119T180000Z
+DTEND:20221119T210000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
+ /
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -313,7 +407,7 @@ DESCRIPTION:via fighting.de\nvia SPORT1 Extra\nvia fight24.tv\n\n---\n\nh
  ttps://www.fightevents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T231005Z
+DTSTAMP:20220408T162713Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -323,5 +417,16 @@ CATEGORIES:NFC,MMA,SPORT1,SPORT1 Extra,fighting.de,fight24.tv,live,kosten
  los
 DESCRIPTION:via SPORT1\nvia SPORT1 Extra\nvia fighting.de\nvia fight24.tv
  \n\n---\n\nhttps://www.fightevents.de/event/nfc-12/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220408T162713Z
+UID:2023-03-we-love-mma-65@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 65
+DTSTART:20230304T180000Z
+DTEND:20230304T210000Z
+CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
+ /
 END:VEVENT
 END:VCALENDAR

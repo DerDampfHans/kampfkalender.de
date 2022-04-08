@@ -14,8 +14,8 @@
     ],
     "mainCard": {
       "title": "We Love MMA 56",
-      "time": "2022-04-09T20:35:00Z",
-      "until": "2022-04-09T23:15:00Z",
+      "time": "2022-04-09T20:25:00Z",
+      "until": "2022-04-09T23:45:00Z",
       "broadcasters": {
         "BILD_TV": {
           "free": true
@@ -48,7 +48,8 @@
       "title": "We Love MMA 57",
       "time": "2022-04-30T17:00:00Z",
       "broadcasters": {
-        "BILD_PLUS": {
+        "BILD_TV": {
+          "free": true
         }
       }
     },
@@ -78,7 +79,8 @@
       "title": "We Love MMA 58",
       "time": "2022-05-21T17:00:00Z",
       "broadcasters": {
-        "BILD_PLUS": {
+        "BILD_TV": {
+          "free": true
         }
       }
     },
@@ -108,7 +110,8 @@
       "title": "We Love MMA 59",
       "time": "2022-09-17T17:00:00Z",
       "broadcasters": {
-        "BILD_PLUS": {
+        "BILD_TV": {
+          "free": true
         }
       }
     },
@@ -138,7 +141,8 @@
       "title": "We Love MMA 60",
       "time": "2022-10-08T17:00:00Z",
       "broadcasters": {
-        "BILD_PLUS": {
+        "BILD_TV": {
+          "free": true
         }
       }
     },
@@ -168,7 +172,8 @@
       "title": "We Love MMA 61",
       "time": "2022-10-29T17:00:00Z",
       "broadcasters": {
-        "BILD_PLUS": {
+        "BILD_TV": {
+          "free": true
         }
       }
     },
@@ -198,7 +203,8 @@
       "title": "We Love MMA 62",
       "time": "2022-11-05T18:00:00Z",
       "broadcasters": {
-        "BILD_PLUS": {
+        "BILD_TV": {
+          "free": true
         }
       }
     },
@@ -228,7 +234,8 @@
       "title": "We Love MMA 63",
       "time": "2022-11-19T18:00:00Z",
       "broadcasters": {
-        "BILD_PLUS": {
+        "BILD_TV": {
+          "free": true
         }
       }
     },
@@ -239,6 +246,37 @@
       "city": "Berlin",
       "location": "Mercedes-Benz Arena",
       "url": "https://www.welovemma.de/we-love-mma-58/"
+    }
+  },
+  {
+    "id": "wlmma-2023-03-04",
+    "promotion": "WLMMA_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Berlin",
+      "#WLMMA65"
+    ],
+    "links": [
+      "https://www.welovemma.de/we-love-mma-64/"
+    ],
+    "mainCard": {
+      "title": "We Love MMA 65",
+      "time": "2023-03-04T18:00:00Z",
+      "broadcasters": {
+        "BILD_TV": {
+          "free": true
+        }
+      }
+    },
+    "weLoveMma": {
+      "id": "we-love-mma-64",
+      "time": "2023-03-04T18:00:00Z",
+      "title": "WE LOVE MMA 65",
+      "city": "München",
+      "location": "Kleine Olympiahalle",
+      "url": "https://www.welovemma.de/we-love-mma-64/"
     }
   }
 ]

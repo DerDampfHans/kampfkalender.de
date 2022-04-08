@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220406T105746Z
-X-KAMPFKALENDER-HASH:83e340ba503a932744138e20b355b5b1d50b0f3c
+DTSTAMP:20220408T162713Z
+X-KAMPFKALENDER-HASH:72c43b840ab0c5fc0ae4af51769bec977ed6adc2
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-plaza-fights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Plaza Fights
@@ -19,17 +19,18 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pl
  he-next-generation/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-chosen-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chosen Fight Night
 DTSTART:20220409T163000Z
 DTEND:20220409T193000Z
 CATEGORIES:Other,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=C8UV_ukwjL4
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=C8UV_ukwjL4\
+ n\n---\n\nhttps://www.fightevents.de/event/the-chosen-3-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-titan-fc-75@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Titan FC 75
@@ -45,19 +46,30 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0) vs. Alberto Blas (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-one-reloaded@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Reloaded
 DTSTART:20220422T100000Z
 DTEND:20220422T130000Z
-CATEGORIES:ONE,Kickboxen,Muay Thai,ONE TV,live
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,ONE TV,live
 DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  nts/87416-one-championship-reloaded\n\n---\n\nMain Event: Regian Eersel 
- vs. Arian Sadiković\nCo-Main Event: Smilla Sundell vs. Jackie Buntan
+ vs. Arian Sadiković\nCo-Main Event: Smilla Sundell vs. Jackie Buntan\nMa
+ in Card: Bokang Masunyane (8-0-0) vs. Jarred Brooks (18-2-0)\nMain Card:
+  Liam Harrison vs. Thanousin Jaroendee\nMain Card: Marcus Buchecha (2-0-
+ 0) vs. Oumar Kane (3-1-0)\nMain Card: Namiki Kawahara (7-4-2) vs. Danial
+  Williams (4-1-0)\nPrelim: Yosuke Saruta (21-10-3) vs. Gustavo Balart (9
+ -4-0)\nPrelim: Andrei Stoica vs. Giannis Stoforidis\nPrelim: Anissa Meks
+ en vs. Marie Ruumet\nPrelim: Windson Ramos (4-1-0) vs. Sung Hoon Woo (9-
+ 2-0)\nPrelim: Rui Chen (13-4-0) vs. Min Jong Song (12-8-0)\nPrelim: Ayak
+ a Miura (11-4-0) vs. Dayane Souza (8-1-1)\nPrelim: Abraão Amorim (8-3-0)
+  vs. Dae Sung Park (11-2-0)\nPrelim: Agilan Thani (10-6-0) vs. Tae Ho Ji
+ n (10-5-0)\nPrelim: Masakazu Imanari vs. Mikey Musumeci\nPrelim: Keanu S
+ ubba (7-5-0) vs. James Yang (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-xfn-379@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 379
@@ -67,7 +79,7 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -78,7 +90,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
  come-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2
@@ -89,7 +101,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/sup
  er-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-05-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -99,7 +111,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-05-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106
@@ -109,7 +121,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-05-glory-rivals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 1
@@ -123,7 +135,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  apu
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T105746Z
+DTSTAMP:20220408T162713Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
