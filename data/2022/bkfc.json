@@ -231,5 +231,82 @@
         "https://events.mixedmartialarts.com/bkfc-fight-night:ec2073df-ce47-4dab-97dd-518752659a7a"
       ]
     }
+  },
+  {
+    "id": "tapology-87619",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC23"
+    ],
+    "mainCard": {
+      "title": "BKFC 23: Richman vs. Rickels",
+      "time": "2022-04-09T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-23/2pb2n/"
+        }
+      },
+      "fite": {
+        "id": "2pb2n",
+        "time": "2022-04-09T01:00:00Z",
+        "title": "BKFC 23: Mike Richman vs David Rickels",
+        "url": "https://www.fite.tv/watch/bkfc-23/2pb2n/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 23: Prelims",
+      "time": "2022-04-09T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-23-prelims/2pb4h/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pb4h",
+        "time": "2022-04-09T00:00:00Z",
+        "title": "BKFC 23: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-23-prelims/2pb4h/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 87619,
+      "time": "2022-04-09T00:00:00Z",
+      "title": "BKFC 23: Richman vs. Rickels",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/87619-bkfc-23-richman-vs-rickels",
+      "card": [
+        "Main Event: Mike Richman vs. David Rickels",
+        "Co-Main Event: Isaac Doolittle vs. Jared Warren",
+        "Main Card: Marciano Hernandez vs. Jerald Gregori",
+        "Main Card: Jake Lindsey vs. Derrick Findley",
+        "Main Card: Jessica Link vs. Crystal Pittman",
+        "Main Card: LJ Hermreck vs. Stevo Morris",
+        "Main Card: Chance Wilson vs. Justyn Martinez",
+        "Main Card: Shawn Moffett vs. Antonio Soto III",
+        "Main Card: Joshua Richey vs. Tyler Randall",
+        "Main Card: Kenny Licea vs. Noah Cutter",
+        "Main Card: Edmund Santos vs. Nick Villar"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-23:0d65de4b-dd5b-4861-991b-ceee8cf6aa94",
+        "https://www.bareknuckle.tv/events/bkfc-23-richman-vs-rickles:ed6c3c91-a2c2-4265-acd1-1daa1e331436"
+      ]
+    }
   }
 ]
