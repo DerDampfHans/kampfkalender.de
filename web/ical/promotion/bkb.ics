@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220408T162713Z
-X-KAMPFKALENDER-HASH:c0f7436d3159ea6b8b7fb67b1aac4d62fd8bc769
+DTSTAMP:20220410T153239Z
+X-KAMPFKALENDER-HASH:9c84fd923cb373d1fc92e5b103d56f3453a98b0b
 BEGIN:VEVENT
-DTSTAMP:20220408T162713Z
+DTSTAMP:20220410T153239Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -17,6 +17,17 @@ CATEGORIES:BKB,Bare Knuckle,fighting.de,fight24.tv,fite.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hx_2izRcmm4\
  nvia fight24.tv\nvia fite.tv: https://www.fite.tv/watch/bkb-25/2pb16/\n\
  n---\n\nhttps://www.fightevents.de/event/bkb-25-sweeny-vs-jones/\nhttps:
+ //www.tapology.com/fightcenter/events/86201-bkb-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220410T153239Z
+UID:2022-04-bkb-25-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 25
+DTSTART:20220410T180000Z
+DTEND:20220410T210000Z
+CATEGORIES:BKB,Bare Knuckle,fighting.de,fight24.tv,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 END:VCALENDAR
