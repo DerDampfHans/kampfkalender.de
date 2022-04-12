@@ -1,5 +1,50 @@
 [
   {
+    "id": "gmc-2022-04-23",
+    "promotion": "GMC_DE",
+    "sports": [
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen",
+      "time": "2022-04-23T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/live-events/230422-olympix-k1-boxen-no-106"
+        }
+      },
+      "gmc": {
+        "id": "230422-olympix-k1-boxen-no-106",
+        "time": "2022-04-23T15:00:00Z",
+        "title": "OlympiX K1 / Boxen (No. 106)",
+        "url": "https://www.german-mma.de/live-events/230422-olympix-k1-boxen-no-106"
+      }
+    }
+  },
+  {
+    "id": "gmc-2022-04-23-2",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "OlympiX MMA",
+      "time": "2022-04-23T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/live-events/230422-olympix-mma-no-106"
+        }
+      },
+      "gmc": {
+        "id": "230422-olympix-mma-no-106",
+        "time": "2022-04-23T15:00:00Z",
+        "title": "OlympiX MMA (No. 106)",
+        "url": "https://www.german-mma.de/live-events/230422-olympix-mma-no-106"
+      }
+    }
+  },
+  {
     "id": "gmc-2022-05-28",
     "promotion": "GMC_DE",
     "sports": [

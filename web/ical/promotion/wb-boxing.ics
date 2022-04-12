@@ -4,6 +4,18 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220326T230304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220412T044136Z
+X-KAMPFKALENDER-HASH:3fd436e72c26fcbe9967a730f24e05d359cc2361
+BEGIN:VEVENT
+DTSTAMP:20220412T044137Z
+UID:2022-04-wasserman-boxing-christina-hammer-dennis-radovan@kampfkalende
+ r.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wasserman Boxing: Christina Hammer & Dennis Radovan
+DTSTART:20220430T200000Z
+DTEND:20220430T220500Z
+CATEGORIES:WB,Boxen,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
+ ellum-gala-radovan-hammer-30-april
+END:VEVENT
 END:VCALENDAR

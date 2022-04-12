@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220408T163552Z
-X-KAMPFKALENDER-HASH:1b82af495e5e17c21036855dcf8bfd78eb18f5a8
+DTSTAMP:20220412T044136Z
+X-KAMPFKALENDER-HASH:781f626fc2086ec09b7350f12e739700ed1bdb61
 BEGIN:VEVENT
-DTSTAMP:20220408T163552Z
+DTSTAMP:20220412T044136Z
 UID:2022-04-ksw-69-przybysz-vs-jojua@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 69: Przybysz vs. Jojua
@@ -25,14 +25,15 @@ DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
  ech Kazieczko (1-0-0) vs. Lubomir Lesák (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220408T163552Z
-UID:2022-05-ksw-70@kampfkalender.de
+DTSTAMP:20220412T044136Z
+UID:2022-05-ksw-70-pudzian-vs-materla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 70
+SUMMARY:KSW 70: Pudzian vs. Materla
 DTSTART:20220528T170000Z
 DTEND:20220528T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,Bild TV,live
 DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
- /fightcenter/events/87780-ksw-70
+ /fightcenter/events/87780-ksw-70\n\n---\n\nMain Event: Mariusz Pudzianow
+ ski (16-7-0) vs. Michał Materla (31-8-0)
 END:VEVENT
 END:VCALENDAR
