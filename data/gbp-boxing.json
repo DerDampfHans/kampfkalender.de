@@ -5,10 +5,24 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#DiazGesta",
+      "#DiazJrGesta"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Diaz Jr. vs. Gesta",
-      "time": "2022-04-22T03:00:00Z"
+      "time": "2022-04-22T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1jehlz825dhux1mxagz3vaijo7",
+        "time": "2022-04-22T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Diaz Jr. vs Gesta"
+      }
     },
     "tapology": {
       "id": 87964,
