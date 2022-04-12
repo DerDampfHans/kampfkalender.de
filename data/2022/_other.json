@@ -236,6 +236,48 @@
     }
   },
   {
+    "id": "tapology-85833",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Hollywood Fight Nights: St. Patrick's Day Bash",
+      "time": "2022-03-18T02:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 214360,
+        "time": "2022-03-18T02:00:00Z",
+        "title": "Hollywood Fight Night: Callum Walsh"
+      }
+    },
+    "tapology": {
+      "id": 85833,
+      "time": "2022-03-18T02:00:00Z",
+      "title": "Hollywood Fight Nights: St. Patrick's Day Bash",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/85833-hollywood-fight-nights-st-patrick-s-day-bash",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Card: Marco Deckmann (7-1-0) vs. Victor Fonseca (18-10-1)",
+        "Main Card: Adrian Corona (9-0-0) vs. Joe Perez (15-6-2)",
+        "Main Card: Omar Cande Trinidad (0-0-0) vs. Ivan Varela (4-3-0)",
+        "Main Card: Eric Priest (6-0-0) vs. David Lopez (4-2-0)",
+        "Main Card: Darial Kuchmenov (0-0-0) vs. Erik Hanley (0-0-0)",
+        "Main Card: Cem Kilic (15-1-0) vs. A. Hernandez (6-12-1)",
+        "Main Card: Callum Walsh (0-0-0) vs. Gael Ibarra (5-6-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/844764"
+      ]
+    }
+  },
+  {
     "id": "night-of-the-fighters-2022-03-19",
     "promotion": "_OTHER",
     "sports": [
@@ -312,6 +354,54 @@
           "free": true
         }
       }
+    }
+  },
+  {
+    "id": "tapology-87701",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#MoralesSalido"
+    ],
+    "mainCard": {
+      "title": "Morales vs. Salido",
+      "time": "2022-03-26T22:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/the-last-combat-morales-vs-salido/2pb1h/"
+        }
+      },
+      "fite": {
+        "id": "2pb1h",
+        "time": "2022-03-26T22:30:00Z",
+        "title": "The Last Combat: Erik Morales vs Orlando Salido",
+        "url": "https://www.fite.tv/watch/the-last-combat-morales-vs-salido/2pb1h/",
+        "price": "$21.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 87701,
+      "time": "2022-03-27T00:00:00Z",
+      "title": "The Last Combat: Morales vs. Salido",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/87701-the-last-combat-morales-vs-salido",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Erik Morales (52-9-0) vs. Orlando Salido (44-14-4)",
+        "Main Card: Roberto Marroquin (28-5-1) vs. Eddy Valencia (17-6-6)",
+        "Main Card: James Vick (0-0-0) vs. Alejandro Heredia (0-0-0)",
+        "Main Card: Nosa Divine Nehikhare (3-0-0) vs. Giovanni Loya (4-2-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/849888"
+      ]
     }
   },
   {
