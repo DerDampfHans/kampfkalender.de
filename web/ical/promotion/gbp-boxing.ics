@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:17ada768b185b2c18fd8ca6c38ec7c2e80a3becd
+DTSTAMP:20220412T162122Z
+X-KAMPFKALENDER-HASH:e1930357e4f57a3bf30a56a79bf87614f76ddc3c
 BEGIN:VEVENT
-DTSTAMP:20220412T054306Z
+DTSTAMP:20220412T162122Z
 UID:2022-04-garcia-vs-tagoe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Tagoe
@@ -26,5 +26,18 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Valenzuela Jr (27-11-0)\nMain Card: Tristan Kalkreuth (8-1-0) vs. Santa
  nder Silgado (30-11-0)\nMain Card: Santos Ortega (6-0-0) vs. Jesus Marti
  nez (29-15-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T162122Z
+UID:2022-04-diaz-jr-vs-gesta@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Diaz Jr. vs. Gesta
+DTSTART:20220422T010000Z
+DTEND:20220422T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87964-diaz-jr-vs-gesta\n\n---\n\nMain Event: Joel Diaz Jr. (26-2-0) vs
+ . Mercito Gesta (32-3-3)\nCo-Main Event: Jousce Gonzalez (11-0-1) vs. Ja
+ iro Lopez (25-14-0)
 END:VEVENT
 END:VCALENDAR
