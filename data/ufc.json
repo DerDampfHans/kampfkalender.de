@@ -147,8 +147,8 @@
         "Prelim: Mudaerji Su (15-4-0) vs. Manel Kape (17-6-0)",
         "Prelim: Dwight Grant (11-4-0) vs. Sergey Khandozhko (27-6-1)",
         "Prelim: Damir Hadžović (14-6-0) vs. Steve Garcia (12-4-0)",
-        "Prelim: Jordan Wright (12-2-0) vs. Roman Kopylov (8-2-0)",
-        "Prelim: Marcin Prachnio (15-5-0) vs. Philipe Lins (14-5-0)"
+        "Prelim: Marcin Prachnio (15-5-0) vs. Philipe Lins (14-5-0)",
+        "Prelim: Jordan Wright (12-2-0) vs. Marc-André Barriault (13-5-0)"
       ]
     }
   },
@@ -318,19 +318,30 @@
     ],
     "mainCard": {
       "title": "UFC Vegas 54: Błachowicz vs. Rakić",
-      "time": "2022-05-14T22:00:00Z",
+      "time": "2022-05-15T02:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 216103,
+        "time": "2022-05-15T02:00:00Z",
+        "title": "UFC Fight Night: Blachowicz vs Rakic"
       }
     },
     "prelims": {
       "title": "UFC Vegas 54: Prelims",
+      "time": "2022-05-14T23:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 216102,
+        "time": "2022-05-14T23:00:00Z",
+        "title": "UFC Fight Night: Blachowicz vs Rakic Prelims"
       }
     },
     "tapology": {
@@ -446,7 +457,8 @@
         "Prelim: Jeff Molina (10-2-0) vs. Zhalgas Zhumagulov (14-6-0)",
         "Prelim: Ode Osbourne (10-4-0) vs. Zarrukh Adashev (4-3-0)",
         "Prelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)",
-        "Prelim: Andreas Michailidis (13-5-0) vs. Rinat Fakhretdinov (20-2-0)"
+        "Prelim: Andreas Michailidis (13-5-0) vs. Rinat Fakhretdinov (20-2-0)",
+        "Prelim: Erin Blanchfield (8-1-0) vs. JJ Aldrich (11-4-0)"
       ]
     }
   },
@@ -546,7 +558,9 @@
         "Main Card: Julian Marquez (9-2-0) vs. Wellington Turman (18-5-0)",
         "Prelim: Phil Hawes (11-3-0) vs. Deron Winn (7-2-0)",
         "Prelim: Kyle Daukaus (11-2-0) vs. Roman Dolidze (9-1-0)",
-        "Prelim: Gloria de Paula (6-4-0) vs. Maria Oliveira (12-5-0)"
+        "Prelim: Gloria de Paula (6-4-0) vs. Maria Oliveira (12-5-0)",
+        "Prelim: Cody Durden (12-4-1) vs. JP Buys (9-4-0)",
+        "Prelim: Jasmine Jasudavicius (7-1-0) vs. Natália Silva (12-5-1)"
       ]
     }
   },
@@ -591,8 +605,10 @@
       ],
       "card": [
         "Main Card: Tim Elliott (18-12-1) vs. Amir Albazi (14-1-0)",
+        "Main Card: Chris Curtis (28-8-0) vs. Rodolfo Vieira (8-1-0)",
         "Prelim: Jinh Yu Frey (11-6-0) vs. Vanessa Demopoulos (7-4-0)",
-        "Prelim: Josh Parisian (14-5-0) vs. Alan Baudot (8-3-0)"
+        "Prelim: Josh Parisian (14-5-0) vs. Alan Baudot (8-3-0)",
+        "Prelim: Tagir Ulanbekov (13-2-0) vs. Tyson Nam (20-12-1)"
       ]
     }
   },
@@ -685,6 +701,51 @@
       ],
       "card": [
         "Prelim: Ronnie Lawrence (8-1-0) vs. Saidyokub Kakhramonov (9-2-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-88485",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2022-07-16T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 88485,
+      "time": "2022-07-16T22:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/88485-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Askar Askarov (14-1-1) vs. Alex Perez (24-6-0)",
+        "Main Card: Dustin Jacoby (17-5-1) vs. Da Un Jung (15-2-1)"
       ]
     }
   },

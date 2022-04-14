@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T162122Z
-X-KAMPFKALENDER-HASH:b7b6b209b0f58bee9799771284ca5b22e3675c03
+DTSTAMP:20220414T041103Z
+X-KAMPFKALENDER-HASH:602c511aaf8941f600cf363a94454d310a4f9515
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-benn-vs-van-heerden@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Van Heerden
@@ -28,7 +28,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  azem (9-25-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-zucco-vs-nikolic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zucco vs. Nikolic
@@ -38,12 +38,12 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/87681-zucco-vs-nikolic\nhttp://www.boxrec.com/en/event/851241\n\n---\n
  \nMain Card: Ivan Zucco (15-0-0) vs. Marko Nikolic (28-1-0)\nMain Card: 
- Mirko Natalizi (11-0-0) vs. Tony Dixon (13-3-0)\nMain Card: Francesco Gr
- andelli (15-1-2) vs. Kane Baker (17-8-1)\nMain Card: Samuel Nmomah (16-0
- -0) vs. Felice Moncelli (22-6-1)
+ Francesco Grandelli (15-1-2) vs. Kane Baker (17-8-1)\nMain Card: Samuel 
+ Nmomah (16-0-0) vs. Felice Moncelli (23-6-1)\nMain Card: Mirko Natalizi 
+ (11-0-0) vs. Rico Mueller (28-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-taylor-vs-serrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano
@@ -60,5 +60,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  lliam Langston (6-2-0)\nMain Card: Galal Yafai (0-0-0) vs. Miguel Cartag
  ena (17-6-1)\nMain Card: Skye Nicolson (0-0-0) vs. Paisley Davis (3-1-0)
  
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-05-scardina-vs-de-carolis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Scardina vs. De Carolis
+DTSTART:20220513T173000Z
+DTEND:20220513T203000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87682-scardina-vs-de-carolis\nhttp://www.boxrec.com/en/event/851027\n\
+ n---\n\nMain Event: Daniele Scardina (20-0-0) vs. Giovanni De Carolis (3
+ 0-10-1)\nCo-Main Event: Mary Romero (7-2-0) vs. Maria Cecchi (7-0-0)\nMa
+ in Card: Vincenzo La Femina (10-0-0) vs. Matteo Lecca (9-2-0)
 END:VEVENT
 END:VCALENDAR

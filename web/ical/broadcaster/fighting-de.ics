@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T162122Z
-X-KAMPFKALENDER-HASH:062fef9d7f67c30c3b7408f3ced03264871e5da6
+DTSTAMP:20220414T041103Z
+X-KAMPFKALENDER-HASH:e51454b21661f4d0020e0e74af4d4363d495a450
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-pfl-challenger-series-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 8
@@ -27,7 +27,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=2HISCtVLCbU\
  ) vs. Ali Zebian (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-oktagon-32-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 32: Prelims
@@ -37,7 +37,7 @@ CATEGORIES:Oktagon,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=mgQ3jFn5Cr8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-chosen-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chosen Fight Night
@@ -48,7 +48,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=C8UV_ukwjL4\
  n\n---\n\nhttps://www.fightevents.de/event/the-chosen-3-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-bkb-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 25
@@ -61,7 +61,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hx_2izRcmm4\
  //www.tapology.com/fightcenter/events/86201-bkb-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-pfl-regular-season-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 1
@@ -81,7 +81,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  (8-4-0) vs. Clinton Williams (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-pfl-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 2
@@ -101,7 +101,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  ghi (14-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-brave-cf-58@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 58
@@ -121,7 +121,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  l Lee (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-05-pfl-regular-season-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 3
@@ -142,7 +142,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  8-0) vs. Martina Jindrová (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-05-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -152,7 +152,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-05-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106
@@ -162,7 +162,57 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
+UID:2022-05-enfusion-talents-90@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Talents 90
+DTSTART:20220521T160000Z
+DTEND:20220521T180000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-05-enfusion-107@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 107
+DTSTART:20220521T180000Z
+DTEND:20220521T210000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-06-enfusion-talents-91@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Talents 91
+DTSTART:20220604T160000Z
+DTEND:20220604T180000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-06-enfusion-108@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 108
+DTSTART:20220604T180000Z
+DTEND:20220604T210000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-06-enfusion-talents-92@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Talents 92
+DTSTART:20220611T160000Z
+DTEND:20220611T180000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -173,7 +223,17 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/innferno-fc-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
+UID:2022-06-enfusion-109@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 109
+DTSTART:20220611T180000Z
+DTEND:20220611T210000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
 UID:2022-06-pfl-regular-season-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 4
@@ -184,7 +244,17 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87835-pfl-2022-4-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
+UID:2022-06-enfusion-talents-93@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Talents 93
+DTSTART:20220618T160000Z
+DTEND:20220618T180000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -195,7 +265,17 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
+UID:2022-06-enfusion-110@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 110
+DTSTART:20220618T180000Z
+DTEND:20220618T210000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
 UID:2022-06-nfc-9-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Main Card
@@ -206,7 +286,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -217,7 +297,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-06-pfl-regular-season-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 5
@@ -228,7 +308,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87836-pfl-2022-5-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -238,7 +318,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-06-super-league-mma-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 3
@@ -249,7 +329,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/su
  per-league-mma-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-07-pfl-regular-season-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 6
@@ -260,7 +340,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87837-pfl-2022-6-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
@@ -271,7 +351,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87838-pfl-2022-7-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -282,7 +362,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -293,7 +373,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -304,7 +384,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -315,7 +395,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87839-pfl-2022-8-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -326,7 +406,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87840-pfl-2022-9-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-09-super-league-mma-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 4
@@ -337,7 +417,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/su
  per-league-mma-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -347,7 +427,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -358,7 +438,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -369,7 +449,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -380,7 +460,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -391,7 +471,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/87841-pfl-2022-10-championships
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-11-pfl-finals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 2
@@ -401,7 +481,7 @@ CATEGORIES:PFL,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -412,7 +492,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/su
  per-league-mma-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -423,7 +503,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -434,7 +514,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

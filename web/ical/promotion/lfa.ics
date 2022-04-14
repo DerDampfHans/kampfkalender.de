@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T162122Z
-X-KAMPFKALENDER-HASH:daf1c912e20d494611af5bad25b257e2aad1dcf7
+DTSTAMP:20220414T041103Z
+X-KAMPFKALENDER-HASH:ac989b9e58a9b54f5835eb1b9753f5fea9b42bf8
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-lfa-128-mckenzie-vs-clay@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 128: McKenzie vs. Clay
@@ -28,7 +28,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  im: Cheyanne Bowers (5-1-0) vs. Kaeley Fenhaus (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-lfa-129-petersen-vs-cortes-acosta@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 129: Petersen vs. Cortes-Acosta
@@ -53,7 +53,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  n (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-lfa-130-ksiazkiewicz-vs-gambulino@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 130: Ksiazkiewicz vs. Gambulino
@@ -70,12 +70,22 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-05-lfa-131@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 131
 DTSTART:20220507T020000Z
 DTEND:20220507T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-05-lfa-132@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 132
+DTSTART:20220513T020000Z
+DTEND:20220513T050000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT

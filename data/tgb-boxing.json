@@ -5,10 +5,28 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#SpenceUgas",
+      "#SpenceJrUgas"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Spence Jr. vs. Ugas",
-      "time": "2022-04-17T02:00:00Z"
+      "time": "2022-04-17T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/pbc-spence-vs-ugas/2pb5l/"
+        }
+      },
+      "fite": {
+        "id": "2pb5l",
+        "time": "2022-04-17T01:00:00Z",
+        "title": "PBC: Spence Jr. vs Ugas",
+        "url": "https://www.fite.tv/watch/pbc-spence-vs-ugas/2pb5l/",
+        "price": "$14.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 86756,

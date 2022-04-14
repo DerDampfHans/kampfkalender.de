@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T162122Z
-X-KAMPFKALENDER-HASH:98385fbfa366add4cc4b04a8845cfc23c702f6ed
+DTSTAMP:20220414T041103Z
+X-KAMPFKALENDER-HASH:9eb6e65d88e2e225c346e6c7ee1fd5f695d3c97d
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-champions-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Champions Fight Night
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ch
  ions-fight-night/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-chosen-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chosen Fight Night
@@ -30,7 +30,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=C8UV_ukwjL4\
  n\n---\n\nhttps://www.fightevents.de/event/the-chosen-3-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-muller-vs-wildenhof@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Müller vs. Wildenhof
@@ -43,7 +43,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  tps://www.fightevents.de/event/mueller-vs-wildenhof/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-martinez-vs-dener@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Dener
@@ -61,7 +61,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/boxen-statt-theater-ma
  Branislav Malinovic (13-7-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-ajp-tour-sofia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Sofia
@@ -72,7 +72,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-sofia-int-pro
  -gi-april/2payw/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-isufi-vs-saruhanian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Isufi vs. Saruhanian
@@ -90,7 +90,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/pet
  Kakande (1-0-0) vs. Nerdin Fejzovic (3-16-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-ajp-tour-orlando@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AJP Tour Orlando
@@ -101,7 +101,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ajp-tour-orlando-inter
  national-pro-g/2paw9/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-zerafa-vs-hardman@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zerafa vs. Hardman
@@ -118,7 +118,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/slb-fight-night-zerefa
  -0) vs. Krystina Jacobs (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-xfn-379@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 379
@@ -128,7 +128,7 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -139,7 +139,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
  come-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2
@@ -148,5 +148,15 @@ DTEND:20220430T210000Z
 CATEGORIES:Other,Kickboxen,fight24.tv,live
 DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/sup
  er-cup-kickboxing-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-05-hollywood-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hollywood Fight Night
+DTSTART:20220513T020000Z
+DTEND:20220513T050000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

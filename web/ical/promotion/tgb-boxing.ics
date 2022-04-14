@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:0e0fa9229342295f1fe07c3e384143472a4f60ba
+DTSTAMP:20220414T041103Z
+X-KAMPFKALENDER-HASH:9d875263d0e3826de1f2b57b88776052a2d34cad
 BEGIN:VEVENT
-DTSTAMP:20220412T054306Z
+DTSTAMP:20220414T041104Z
 UID:2022-04-lubin-vs-fundora@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lubin vs. Fundora
@@ -26,5 +26,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-lubin-vs-fundora/2
  )\nMain Card: Albert Gonzalez (0-0-0) vs. D. Alegre (0-0-0)\nMain Card: 
  Dorian Khan (1-0-0) vs. Arturo De Islas (2-1-0)\nMain Card: Jose Ramirez
   (0-0-0) vs. Xavier Bocanegra (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220414T041104Z
+UID:2022-04-spence-jr-vs-ugas@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Spence Jr. vs. Ugas
+DTSTART:20220417T010000Z
+DTEND:20220417T040000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-spence-vs-ugas/2pb
+ 5l/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/86756-spence-j
+ r-vs-ugas\nhttp://www.boxrec.com/en/event/848323\n\n---\n\nMain Event: E
+ rrol Spence Jr. (27-0-0) vs. Yordenis Ugas (27-4-0)\nCo-Main Event: Radz
+ hab Butaev (14-0-0) vs. Eimantas Stanionis (13-0-0)\nCo-Main Event: Isaa
+ c Cruz (22-2-1) vs. Yuriorkis Gamboa (30-4-0)\nMain Card: Francisco Varg
+ as (27-3-2) vs. Jose Valenzuela (11-0-0)\nMain Card: Josesito Lopez (38-
+ 8-0) vs. Cody Crowley (20-0-0)\nPrelim: Brandun Lee (22-0-0) vs. Zachary
+  Ochoa (21-2-0)\nPrelim: Vito Mielnicki Jr. (10-1-0) vs. Dan Karpency (9
+ -3-1)\nPrelim: Adrian Taylor (12-1-1) vs. Efetobar Apochi (11-1-0)\nPrel
+ im: Fernando Garcia (13-4-0) vs. Angel Barrientes (8-1-0)\nPrelim: Samue
+ l Arnold (4-0-0) vs. Darryl Jones (4-3-1)\nPrelim: Nosa Divine Nehikhare
+  (4-0-0) vs. Darius Fulghum (0-0-0)
 END:VEVENT
 END:VCALENDAR

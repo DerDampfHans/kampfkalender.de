@@ -1,2 +1,91 @@
 [
+  {
+    "id": "gcp-2022-04-23",
+    "promotion": "GCP_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Heidelberg",
+      "#GCP5"
+    ],
+    "mainCard": {
+      "title": "German Cage Pioneer 5: MMA",
+      "time": "2022-04-23T16:00:00Z",
+      "until": "2022-04-23T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gcp-4-413"
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "german-cage-pioneer-5",
+      "time": "2022-04-23T16:00:00Z",
+      "until": "2022-04-23T20:00:00Z",
+      "title": "German Cage Pioneer 5",
+      "url": "https://www.fightevents.de/event/german-cage-pioneer-5/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-gcp-4-413",
+      "tags": [
+        "Fight24.tv",
+        "German Cage Pioneer",
+        "German Cage Pioneer 5",
+        "Heidelberg",
+        "MMA"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "Livestream",
+        "MMA",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "gcp-2022-04-24",
+    "promotion": "GCP_DE",
+    "sports": [
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Heidelberg",
+      "#GCP5"
+    ],
+    "mainCard": {
+      "title": "German Cage Pioneer 5: K1 / Boxen",
+      "time": "2022-04-24T16:00:00Z",
+      "until": "2022-04-24T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gcp-4-413"
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "german-cage-pioneer-5-2",
+      "time": "2022-04-24T16:00:00Z",
+      "until": "2022-04-24T20:00:00Z",
+      "title": "German Cage Pioneer 5",
+      "url": "https://www.fightevents.de/event/german-cage-pioneer-5-2/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-gcp-4-413",
+      "tags": [
+        "Boxen",
+        "German Cage Pioneer",
+        "German Cage Pioneer 5",
+        "Heidelberg",
+        "K1",
+        "Kickboxen"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
+  }
 ]
