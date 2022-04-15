@@ -4,20 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:3bae25436c69f90d59b284538a5d750518b388fa
+DTSTAMP:20220415T060130Z
+X-KAMPFKALENDER-HASH:aab9902ee10b78d107a80f5fa7f42d6d20debd3c
 BEGIN:VEVENT
-DTSTAMP:20220412T054306Z
+DTSTAMP:20220415T060130Z
 UID:2022-04-emc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:EMC 9
-DTSTART:20220416T170000Z
-DTEND:20220416T200000Z
-CATEGORIES:EMC,MMA,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/87883-emc-9\n\n--
- -\n\nCo-Main Event: Erko Jun (4-2-0) vs. Szymon Wrzesień (4-2-0)\nMain C
- ard: Daniel Torres (12-5-0) vs. Nico Cocuccio (11-4-1)\nMain Card: Denis
-  Stojnić (14-3-0) vs. Ivo Cuk (19-11-0)\nMain Card: Ahmed Vila (7-4-1) v
- s. Said Eidi (6-7-0)
+DTSTART:20220416T180000Z
+DTEND:20220416T210000Z
+CATEGORIES:EMC,MMA,Bild+,live
+DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/spo
+ rt-mix/mma-nur-live-bei-bild-hier-sehen-sie-die-kaefig-oster-schlacht-au
+ s-duesseldorf-79628600\,view=conversionToLogin.bild.html\n\n---\n\nhttps
+ ://www.tapology.com/fightcenter/events/87883-emc-9\n\n---\n\nCo-Main Eve
+ nt: Erko Jun (4-2-0) vs. Szymon Wrzesień (4-2-0)\nMain Card: Daniel Torr
+ es (12-5-0) vs. Nico Cocuccio (11-4-1)\nMain Card: Denis Stojnić (14-3-0
+ ) vs. Ivo Cuk (19-11-0)\nMain Card: Ahmed Vila (7-4-1) vs. Said Eidi (6-
+ 7-0)
 END:VEVENT
 END:VCALENDAR
