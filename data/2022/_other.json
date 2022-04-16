@@ -738,5 +738,127 @@
         "http://www.boxrec.com/en/event/849866"
       ]
     }
+  },
+  {
+    "id": "ajp-grappling-2022-04-16-2",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "AJP Tour Sofia",
+      "time": "2022-04-16T12:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ajp-tour-sofia-int-pro-gi-april/2payw/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2payw",
+        "time": "2022-04-16T12:00:00Z",
+        "title": "AJP Tour Sofia International Pro - Gi, April 16th",
+        "url": "https://www.fite.tv/watch/ajp-tour-sofia-int-pro-gi-april/2payw/",
+        "price": "FREE",
+        "sports": [
+          "GRAPPLING",
+          "MMA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "petkos-beat-box-2022-04-16",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "🎙@soehnemannheims",
+      "#München"
+    ],
+    "mainCard": {
+      "title": "Isufi vs. Saruhanian",
+      "time": "2022-04-16T16:00:00Z",
+      "until": "2022-04-16T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 88441,
+      "time": "2022-04-16T18:00:00Z",
+      "title": "Isufi vs. Saruhanian",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/88441-isufi-vs-saruhanian",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Shefat Isufi (33-4-2) vs. Grigor Saruhanian (16-5-1)",
+        "Co-Main Event: Vincent Feigenbutz (33-3-0) vs. Kenan Catic (0-0-0)",
+        "Main Card: Edin Avdic (0-0-0) vs. Milos Janjanin (15-31-0)",
+        "Main Card: Menal Topcu (0-0-0) vs. Amar Pasalic (1-5-0)",
+        "Main Card: Chamseddine Lemjide (0-0-0) vs. Adnan Zilic (15-51-1)",
+        "Main Card: Muzamiru Kakande (1-0-0) vs. Nerdin Fejzovic (3-16-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/852659"
+      ]
+    },
+    "fightEvents": {
+      "id": "petkos-beat-box-sohne-mannheims-alexander-knappe",
+      "time": "2022-04-16T16:00:00Z",
+      "until": "2022-04-16T21:00:00Z",
+      "title": "Petkos Beat & Box – Sohne Mannheims & Alexander Knappe",
+      "url": "https://www.fightevents.de/event/petkos-beat-box-sohne-mannheims-alexander-knappe/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Alexander Knappe",
+        "Boxen",
+        "Edin Avdic",
+        "Fight24.tv",
+        "Grigor Saruhanian",
+        "München",
+        "Petkos Beat & Box",
+        "Shefat Isufi",
+        "Sohne Mannheims"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "ajp-grappling-2022-04-16",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "AJP Tour Orlando",
+      "time": "2022-04-16T19:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ajp-tour-orlando-international-pro-g/2paw9/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2paw9",
+        "time": "2022-04-16T19:00:00Z",
+        "title": "AJP Tour Orlando: International Pro - Gi",
+        "url": "https://www.fite.tv/watch/ajp-tour-orlando-international-pro-g/2paw9/",
+        "price": "FREE",
+        "sports": [
+          "GRAPPLING",
+          "MMA"
+        ]
+      }
+    }
   }
 ]
