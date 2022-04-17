@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:c33b14a227b495d9b62e7cf7a7290de3153f2d68
+DTSTAMP:20220417T090149Z
+X-KAMPFKALENDER-HASH:6067536ba117079f1ee4e7970651dbe5d90b1b8c
 BEGIN:VEVENT
-DTSTAMP:20220412T054306Z
+DTSTAMP:20220417T090150Z
 UID:2022-04-one-reloaded@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Reloaded
@@ -28,5 +28,15 @@ DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
   vs. Dae Sung Park (11-2-0)\nPrelim: Agilan Thani (10-6-0) vs. Tae Ho Ji
  n (10-5-0)\nPrelim: Masakazu Imanari vs. Mikey Musumeci\nPrelim: Keanu S
  ubba (7-5-0) vs. James Yang (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220417T090150Z
+UID:2022-06-lion-fight-73@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lion Fight 73
+DTSTART:20220605T000000Z
+DTEND:20220605T030000Z
+CATEGORIES:LFP,Muay Thai,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-73/2pb66/
 END:VEVENT
 END:VCALENDAR

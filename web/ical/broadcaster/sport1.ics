@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T162122Z
-X-KAMPFKALENDER-HASH:aa89fc89e76e70e088c4199150a9a17e6486c7b7
+DTSTAMP:20220417T090149Z
+X-KAMPFKALENDER-HASH:c40e5604c7eb6fec2881711b9ab40c00da115b8b
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220417T090150Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -18,7 +18,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220417T090150Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -29,7 +29,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220417T090150Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -40,14 +40,13 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T162122Z
+DTSTAMP:20220417T090150Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
 DTSTART:20221217T220000Z
 DTEND:20221217T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
- /www.fightevents.de/event/nfc-12/
+DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
 END:VEVENT
 END:VCALENDAR
