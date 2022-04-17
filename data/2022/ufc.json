@@ -1571,5 +1571,117 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-85814",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFCVegas51"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 51: Luque vs. Muhammad 2",
+      "time": "2022-04-17T00:30:00Z",
+      "tags": [
+        "🎙@MarkBergmann"
+      ],
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213919,
+        "time": "2022-04-17T00:30:00Z",
+        "title": "UFC Fight Night: Luque vs Muhammad"
+      },
+      "dazn": {
+        "id": "1rlxes6pagwp71b0kt7hrsa44k",
+        "time": "2022-04-17T00:30:00Z",
+        "title": "UFC Fight Night: Luque vs Muhammad 2 (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Vor über fünf Jahren schlug Luque nach nicht einmal anderthalb Minuten Muhammad K.O. Nach einigen erfolgreichen Fights beider Kämpfer (Luque 10:2 & Muhammad 10:1) in der Zwischenzeit hat der US-Amerikaner nun die Chance, sich zu revanchieren. / Kommentator: Mark Bergmann"
+      }
+    },
+    "prelims": {
+      "title": "UFC Vegas 51: Prelims",
+      "time": "2022-04-16T21:30:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 213918,
+        "time": "2022-04-16T21:30:00Z",
+        "title": "UFC Fight Night: Luque vs Muhammad Prelims"
+      }
+    },
+    "tapology": {
+      "id": 85814,
+      "time": "2022-04-16T21:30:00Z",
+      "title": "UFC Fight Night: Luque vs. Muhammad 2",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/85814-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Belal Muhammad vs. Vicente Luque",
+        "Co-Main Event: Caio Borralho vs. Gadzhi Omargadzhiev",
+        "Main Card: Andre Fialho vs. Miguel Baeza",
+        "Main Card: Mayra Bueno Silva vs. Yanan Wu",
+        "Main Card: Pat Sabatini vs. T.J. Laramie",
+        "Main Card: Mounir Lazzez vs. Ange Loosa",
+        "Prelim: Devin Clark vs. William Knight",
+        "Prelim: Pannie Kianzad vs. Lina Länsberg",
+        "Prelim: Drakkar Klose vs. Brandon Jenkins",
+        "Prelim: Rafa García vs. Jesse Ronson",
+        "Prelim: Martin Buday vs. Chris Barnett",
+        "Prelim: Jordan Leavitt vs. Trey Ogden",
+        "Prelim: Sam Hughes vs. Istela Nunes",
+        "Prelim: Heili Alateng vs. Kevin Croom"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-on-espn-34-luque-vs-muhammad-2-91735",
+        "http://en.wikipedia.org/wiki/UFC_on_ESPN:_Luque_vs._Muhammad_2",
+        "https://events.mixedmartialarts.com/ufc-fight-night:3f22f370-8492-4e08-b9d7-2610bb5246cc",
+        "https://www.ufc.com/event/ufc-fight-night-april-16-2022",
+        "http://www.ufcstats.com/event-details/8753e125f4499816",
+        "https://www.bestfightodds.com/events/ufc-fight-night-ufc-fight-night-206-2412"
+      ]
+    }
+  },
+  {
+    "id": "ufc-1YJt8MQIR00",
+    "promo": true,
+    "promotion": "UFC",
+    "tags": [
+      "#UFC"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 51: Post-Fight Press Conference",
+      "time": "2022-04-17T03:45:00Z",
+      "until": "2022-04-17T04:45:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=1YJt8MQIR00",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "1YJt8MQIR00",
+        "time": "2022-04-17T03:45:04Z",
+        "title": "UFC Vegas 51: Post-Fight Press Conference",
+        "url": "https://www.youtube.com/watch?v=1YJt8MQIR00",
+        "live": true,
+        "tags": [
+          "#UFC"
+        ]
+      }
+    }
   }
 ]
