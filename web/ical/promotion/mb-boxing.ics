@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220414T041103Z
-X-KAMPFKALENDER-HASH:602c511aaf8941f600cf363a94454d310a4f9515
+DTSTAMP:20220420T075322Z
+X-KAMPFKALENDER-HASH:521a52c8bdc5e7296e5d44e6d9894a6b05521ba5
 BEGIN:VEVENT
-DTSTAMP:20220414T041104Z
+DTSTAMP:20220420T075323Z
 UID:2022-04-benn-vs-van-heerden@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Van Heerden
@@ -28,7 +28,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  azem (9-25-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220414T041104Z
+DTSTAMP:20220420T075323Z
 UID:2022-04-zucco-vs-nikolic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zucco vs. Nikolic
@@ -37,13 +37,16 @@ DTEND:20220422T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/87681-zucco-vs-nikolic\nhttp://www.boxrec.com/en/event/851241\n\n---\n
- \nMain Card: Ivan Zucco (15-0-0) vs. Marko Nikolic (28-1-0)\nMain Card: 
- Francesco Grandelli (15-1-2) vs. Kane Baker (17-8-1)\nMain Card: Samuel 
- Nmomah (16-0-0) vs. Felice Moncelli (23-6-1)\nMain Card: Mirko Natalizi 
- (11-0-0) vs. Rico Mueller (28-4-1)
+ \nMain Event: Ivan Zucco (15-0-0) vs. Marko Nikolic (28-1-0)\nMain Card:
+  Francesco Grandelli (15-1-2) vs. Kane Baker (17-8-1)\nMain Card: Mirko 
+ Natalizi (11-0-0) vs. Rico Mueller (28-4-1)\nMain Card: Samuel Nmomah (1
+ 6-0-0) vs. Fouad El Massoudi (17-17-1)\nMain Card: Mauro Forte (16-0-2) 
+ vs. Joshua Ocampo (7-3-4)\nMain Card: Giovanni Sarchioto (0-0-0) vs. Jov
+ an Smilic (0-0-0)\nMain Card: Voldy Toutin (0-0-0) vs. Milos Jankovic (2
+ -15-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220414T041104Z
+DTSTAMP:20220420T075323Z
 UID:2022-04-taylor-vs-serrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano
@@ -62,7 +65,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220414T041104Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-scardina-vs-de-carolis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Scardina vs. De Carolis
@@ -74,5 +77,17 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  n---\n\nMain Event: Daniele Scardina (20-0-0) vs. Giovanni De Carolis (3
  0-10-1)\nCo-Main Event: Mary Romero (7-2-0) vs. Maria Cecchi (7-0-0)\nMa
  in Card: Vincenzo La Femina (10-0-0) vs. Matteo Lecca (9-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220420T075323Z
+UID:2022-05-lejarraga-vs-metcalf@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lejarraga vs. Metcalf
+DTSTART:20220520T173000Z
+DTEND:20220520T203000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87683-lejarraga-vs-metcalf\nhttp://www.boxrec.com/en/event/851240\n\n-
+ --\n\nMain Event: Kerman Lejarraga (34-2-0) vs. James Metcalf (22-2-0)
 END:VEVENT
 END:VCALENDAR

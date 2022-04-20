@@ -1,6 +1,6 @@
 [
   {
-    "id": "vendetta-2022-04-22",
+    "id": "vendetta-2022-04-23",
     "promotion": "VENDETTA",
     "sports": [
       "MMA"
@@ -11,55 +11,23 @@
     ],
     "mainCard": {
       "title": "Vendetta 26",
-      "time": "2022-04-22T16:00:00Z",
-      "until": "2022-04-22T20:00:00Z",
+      "time": "2022-04-23T16:00:00Z",
+      "until": "2022-04-23T21:30:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-vendetta-26-451",
+          "freeAfter": 48
         }
       }
     },
     "fightEvents": {
-      "id": "vendetta-26-wien",
-      "time": "2022-04-22T16:00:00Z",
-      "until": "2022-04-22T20:00:00Z",
+      "id": "vendetta-26",
+      "time": "2022-04-23T14:00:00Z",
+      "until": "2022-04-23T21:30:00Z",
       "title": "Vendetta 26 – Wien",
-      "url": "https://www.fightevents.de/event/vendetta-26-wien/",
+      "url": "https://www.fightevents.de/event/vendetta-26/",
       "broadcaster": "FIGHT24_TV",
-      "categories": [
-        "Fight24.tv",
-        "International",
-        "K1/Kickboxen",
-        "Livestream",
-        "MMA"
-      ]
-    }
-  },
-  {
-    "id": "vendetta-2022-04-23",
-    "promotion": "VENDETTA",
-    "sports": [
-      "MMA"
-    ],
-    "tags": [
-      "#Wien",
-      "#Vendetta27"
-    ],
-    "mainCard": {
-      "title": "Vendetta 27",
-      "time": "2022-04-23T06:00:00Z",
-      "until": "2022-04-23T15:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-        }
-      }
-    },
-    "fightEvents": {
-      "id": "vendetta-27",
-      "time": "2022-04-23T06:00:00Z",
-      "until": "2022-04-23T15:00:00Z",
-      "title": "Vendetta 27 – Wien",
-      "url": "https://www.fightevents.de/event/vendetta-27/",
-      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-vendetta-26-451",
       "tags": [
         "Dominic Schober",
         "Farhad Davoodi",

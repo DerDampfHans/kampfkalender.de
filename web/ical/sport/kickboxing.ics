@@ -4,33 +4,35 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220418T080322Z
-X-KAMPFKALENDER-HASH:48fecbebf8276acf99841905e1bf74b708e8b227
+DTSTAMP:20220420T075322Z
+X-KAMPFKALENDER-HASH:2bcf9b05a2cfc0bd0a0a16765fd039f1eaf97561
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
-UID:2022-04-one-reloaded@kampfkalender.de
+DTSTAMP:20220420T075323Z
+UID:2022-04-one-156-eersel-vs-sadikovic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Reloaded
-DTSTART:20220422T100000Z
-DTEND:20220422T130000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,ONE TV,live
-DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
- nts/87416-one-championship-reloaded\n\n---\n\nMain Event: Regian Eersel 
- vs. Arian Sadiković\nCo-Main Event: Smilla Sundell vs. Jackie Buntan\nMa
- in Card: Bokang Masunyane (8-0-0) vs. Jarred Brooks (18-2-0)\nMain Card:
-  Liam Harrison vs. Thanousin Jaroendee\nMain Card: Marcus Buchecha (2-0-
- 0) vs. Oumar Kane (3-1-0)\nMain Card: Namiki Kawahara (7-4-2) vs. Danial
-  Williams (4-1-0)\nPrelim: Yosuke Saruta (21-10-3) vs. Gustavo Balart (9
- -4-0)\nPrelim: Andrei Stoica vs. Giannis Stoforidis\nPrelim: Anissa Meks
- en vs. Marie Ruumet\nPrelim: Windson Ramos (4-1-0) vs. Sung Hoon Woo (9-
- 2-0)\nPrelim: Rui Chen (13-4-0) vs. Min Jong Song (12-8-0)\nPrelim: Ayak
+SUMMARY:ONE 156: Eersel vs. Sadikovic
+DTSTART:20220422T090000Z
+DTEND:20220422T120000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=vhAijSsYlac\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/87416-one-championship
+ -reloaded\nhttp://www.sherdog.com/events/one-championship-reloaded-92707
+ \nhttps://events.mixedmartialarts.com/one-championship:ee3c662a-998a-4ae
+ e-87b8-affcad09da98\n\n---\n\nMain Event: Regian Eersel vs. Arian Sadiko
+ vić\nCo-Main Event: Smilla Sundell vs. Jackie Buntan\nMain Card: Bokang 
+ Masunyane (8-0-0) vs. Jarred Brooks (18-2-0)\nMain Card: Liam Harrison v
+ s. Thanousin Jaroendee\nMain Card: Rui Chen (13-4-0) vs. Min Jong Song (
+ 12-8-0)\nMain Card: Namiki Kawahara (7-4-2) vs. Danial Williams (4-1-0)\
+ nPrelim: Yosuke Saruta (21-10-3) vs. Gustavo Balart (9-4-0)\nPrelim: And
+ rei Stoica vs. Giannis Stoforidis\nPrelim: Anissa Meksen vs. Marie Ruume
+ t\nPrelim: Windson Ramos (4-1-0) vs. Sung Hoon Woo (9-2-0)\nPrelim: Ayak
  a Miura (11-4-0) vs. Dayane Souza (8-1-1)\nPrelim: Abraão Amorim (8-3-0)
   vs. Dae Sung Park (11-2-0)\nPrelim: Agilan Thani (10-6-0) vs. Tae Ho Ji
  n (10-5-0)\nPrelim: Masakazu Imanari vs. Mikey Musumeci\nPrelim: Keanu S
  ubba (7-5-0) vs. James Yang (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-04-xfn-379@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 379
@@ -40,18 +42,19 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
-DTSTART:20220423T143000Z
+DTSTART:20220423T144000Z
 DTEND:20220423T213000Z
-CATEGORIES:Other,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/wel
- come-to-the-east-5/
+CATEGORIES:Other,Kickboxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
+ passes/fight24-welcome-to-the-east-5-447\nvia SPORT1 Extra\n\n---\n\nhtt
+ ps://www.fightevents.de/event/welcome-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-04-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -62,7 +65,18 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/230422-olym
  pix-k1-boxen-no-106
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
+UID:2022-04-4-huckelhovener-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:4. Hückelhovener Fight Night
+DTSTART:20220423T160000Z
+DTEND:20220423T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-4h
+ uckelhovener-fight-night-446
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220420T075323Z
 UID:2022-04-german-cage-pioneer-5-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:German Cage Pioneer 5: K1 / Boxen
@@ -70,11 +84,11 @@ DTSTART:20220424T160000Z
 DTEND:20220424T200000Z
 CATEGORIES:GCP,Boxen,Kickboxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gc
- p-4-413\n\n---\n\nhttps://www.fightevents.de/event/german-cage-pioneer-5
- -2/
+ p-5-k1-450\n\n---\n\nhttps://www.fightevents.de/event/german-cage-pionee
+ r-5-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2
@@ -85,7 +99,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/sup
  er-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-enfusion-talents-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 89
@@ -96,7 +110,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-106/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-enfusion-106@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 106
@@ -107,7 +121,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-106/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-glory-rivals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 1
@@ -121,7 +135,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  apu
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-enfusion-talents-90@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 90
@@ -132,7 +146,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-107/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-enfusion-107@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 107
@@ -143,7 +157,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-107/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-06-enfusion-talents-91@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 91
@@ -154,7 +168,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-darmstadt-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-06-enfusion-108@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 108
@@ -165,7 +179,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-darmstadt-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-06-enfusion-talents-92@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 92
@@ -176,7 +190,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -187,7 +201,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/innferno-fc-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-06-enfusion-109@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109
@@ -198,7 +212,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-06-enfusion-talents-93@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 93
@@ -208,7 +222,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220418T080323Z
+DTSTAMP:20220420T075323Z
 UID:2022-06-enfusion-110@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 110

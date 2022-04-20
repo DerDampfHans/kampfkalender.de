@@ -4,15 +4,36 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220416T040005Z
-X-KAMPFKALENDER-HASH:ffa38fd90393c7a8c7ee88a564c38514d3df1d55
+DTSTAMP:20220420T075322Z
+X-KAMPFKALENDER-HASH:510de5cfb63c4d214ca1c379735ca4df579bc8ac
 BEGIN:VEVENT
-DTSTAMP:20220416T040006Z
+DTSTAMP:20220420T075323Z
+UID:2022-04-bkfc-fort-lauderdale-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Fort Lauderdale: Prelims
+DTSTART:20220422T000000Z
+DTEND:20220422T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-fort-lauderdal
+ e-prelims/2pb6l/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/8
+ 8006-bkfc-fight-night-ft-lauderdale\nhttps://events.mixedmartialarts.com
+ /bkfc-fight-night:7f1de8b9-1330-49d6-85ae-8756b25923a8\nhttps://www.bare
+ knuckle.tv/events/bkfc-ft-lauderdale:faed578a-ecdd-4a61-a16e-49e35bd3891
+ 2\n\n---\n\nMain Event: Joey Beltran vs. Frank Tate\nMain Card: Howard D
+ avis vs. Josh Wright\nMain Card: Tom Shoaff vs. Bruce Lutchmedial\nMain 
+ Card: Jeremy Smith vs. Davian Green\nMain Card: Vinny Turiello vs. Antho
+ ny Sanchez\nMain Card: Brian Duran vs. Glendel Futrell\nMain Card: James
+  Lilley vs. Adam Pellerano\nMain Card: Gerardo Delgado vs. Leonel Carerr
+ a\nMain Card: Joshuah Alvarez vs. Juston Stills\nMain Card: Alex Delgado
+  vs. Gorjan Slaveski
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220420T075323Z
 UID:2022-04-bkfc-fort-lauderdale@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fort Lauderdale
-DTSTART:20220422T000000Z
-DTEND:20220422T030000Z
+DTSTART:20220422T010000Z
+DTEND:20220422T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-fort-lauderdal
  e/2pb62/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/88006-bkf
@@ -28,24 +49,42 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-fort-lauderdal
  jan Slaveski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T040006Z
+DTSTAMP:20220420T075323Z
+UID:2022-05-bkfc-24-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 24: Prelims
+DTSTART:20220501T000000Z
+DTEND:20220501T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-24-prelims/2pb6s/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/88007-bkfc-24\n\n
+ ---\n\nMain Event: Lorenzo Hunt vs. Joe Riggs\nMain Card: Leo Bercier vs
+ . Bryant Acheson\nMain Card: Andy Nguyen vs. Cassie Robb\nMain Card: Lou
+ ie Lopez vs. Rusty Crowder\nMain Card: Kai Stewart vs. Daniel Gary\nMain
+  Card: Sawyer Depee vs. William Dunkle\nMain Card: Timmy Mason vs. Arthu
+ r Walcott-Ceesay\nMain Card: Dallas Davison vs. Erik Lopez\nMain Card: B
+ rian Maxwell vs. James Dennis\nMain Card: Darrick Gates vs. Anthony Curt
+ iss
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220420T075323Z
 UID:2022-05-bkfc-24-hunt-vs-riggs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 24: Hunt vs. Riggs
-DTSTART:20220501T020000Z
-DTEND:20220501T050000Z
+DTSTART:20220501T010000Z
+DTEND:20220501T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/88007-bkfc-24\n\n---\n\nMain Event: Lorenzo Hunt vs. Joe Riggs\nMai
- n Card: Leo Bercier vs. Bryant Acheson\nMain Card: Andy Nguyen vs. Cassi
- e Robb\nMain Card: Louie Lopez vs. Rusty Crowder\nMain Card: Kai Stewart
-  vs. Daniel Gary\nMain Card: Sawyer Depee vs. William Dunkle\nMain Card:
-  Timmy Mason vs. Arthur Walcott-Ceesay\nMain Card: Dallas Davison vs. Er
- ik Lopez\nMain Card: Brian Maxwell vs. James Dennis\nMain Card: Darrick 
- Gates vs. Anthony Curtiss
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-24/2pb6r/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/88007-bkfc-24\n\n---\n\nM
+ ain Event: Lorenzo Hunt vs. Joe Riggs\nMain Card: Leo Bercier vs. Bryant
+  Acheson\nMain Card: Andy Nguyen vs. Cassie Robb\nMain Card: Louie Lopez
+  vs. Rusty Crowder\nMain Card: Kai Stewart vs. Daniel Gary\nMain Card: S
+ awyer Depee vs. William Dunkle\nMain Card: Timmy Mason vs. Arthur Walcot
+ t-Ceesay\nMain Card: Dallas Davison vs. Erik Lopez\nMain Card: Brian Max
+ well vs. James Dennis\nMain Card: Darrick Gates vs. Anthony Curtiss
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T040006Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-bkfc-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 25
@@ -56,7 +95,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/88008-bkfc-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T040006Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-bkfc-thailand-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 2
@@ -74,7 +113,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  klang\nMain Card: U. Thawilsuhannawang vs. Benjamat Phakra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220416T040006Z
+DTSTAMP:20220420T075323Z
 UID:2022-05-bkfc-omaha@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Omaha

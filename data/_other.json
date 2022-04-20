@@ -10,7 +10,7 @@
     ],
     "mainCard": {
       "title": "Zerafa vs. Hardman",
-      "time": "2022-04-20T07:00:00Z",
+      "time": "2022-04-20T08:30:00Z",
       "broadcasters": {
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/slb-fight-night-zerefa-vs-hardman/2payc/"
@@ -18,7 +18,7 @@
       },
       "fite": {
         "id": "2payc",
-        "time": "2022-04-20T07:00:00Z",
+        "time": "2022-04-20T08:30:00Z",
         "title": "SLB Fight Night: Michael Zerafa vs Issac Hardman",
         "url": "https://www.fite.tv/watch/slb-fight-night-zerefa-vs-hardman/2payc/",
         "price": "$12.99",
@@ -41,8 +41,9 @@
         "Co-Main Event: Cherneka Johnson (13-1-0) vs. Melissa Esquivel (11-2-1)",
         "Main Card: Benjamin Bommber (3-0-0) vs. Waiwit Nareeruk (2-5-0)",
         "Main Card: Carly Salmon (1-0-0) vs. Krystina Jacobs (4-2-0)",
-        "Main Card: Jack Gipp (4-0-0) vs. Nick Wright (1-6-0)",
-        "Main Card: Campbell Somerville (1-0-0) vs. Lawrence Glover (0-0-0)"
+        "Main Card: Campbell Somerville (1-0-0) vs. Lawrence Glover (0-0-0)",
+        "Main Card: Kim-Alina Ross (0-0-0) vs. Zoe Putorak (0-0-0)",
+        "Main Card: Jack Gipp (4-0-0) vs. Lepani Levatia (1-4-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/837446"
@@ -87,10 +88,16 @@
     ],
     "mainCard": {
       "title": "Welcome to the East 5",
-      "time": "2022-04-23T14:30:00Z",
+      "time": "2022-04-23T14:40:00Z",
       "until": "2022-04-23T21:30:00Z",
       "broadcasters": {
+        "FIGHTING_DE": {
+        },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-welcome-to-the-east-5-447",
+          "freeAfter": 48
+        },
+        "SPORT1_EXTRA": {
         }
       }
     },
@@ -126,6 +133,71 @@
         "Livestream",
         "MMA",
         "National"
+      ]
+    }
+  },
+  {
+    "id": "hueckelhoven-2022-04-23",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#Hückelhoven"
+    ],
+    "mainCard": {
+      "title": "4. Hückelhovener Fight Night",
+      "time": "2022-04-23T16:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-4huckelhovener-fight-night-446",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "tapology-86418",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#FuryWhite"
+    ],
+    "mainCard": {
+      "title": "Fury vs. Whyte",
+      "time": "2022-04-23T20:30:00Z",
+      "until": "2022-04-23T23:25:00Z",
+      "broadcasters": {
+        "BILD_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 86418,
+      "time": "2022-04-23T20:00:00Z",
+      "title": "Fury vs. Whyte",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/86418-fury-vs-whyte",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Tyson Fury (31-0-1) vs. Dillian Whyte (28-2-0)",
+        "Main Card: Anthony Cacace (19-1-0) vs. Jhonatan Romero (34-1-0)",
+        "Main Card: Isaac Lowe (21-1-3) vs. Nick Ball (14-0-0)",
+        "Main Card: David Adeleye (8-0-0) vs. Chris Healey (9-8-0)",
+        "Main Card: Tommy Fury (7-0-0) vs. Daniel Bocianski (10-1-0)",
+        "Main Card: Karol Itauma (6-0-0) vs. Michał Ciach (2-11-0)",
+        "Main Card: Kurt Walker (0-0-0) vs. Stefan Nicolae (2-27-1)",
+        "Main Card: Royston Barney Smith (0-0-0) vs. Constantin Radoi (0-10-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/849663"
       ]
     }
   },

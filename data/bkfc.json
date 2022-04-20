@@ -10,7 +10,7 @@
     ],
     "mainCard": {
       "title": "BKFC Fort Lauderdale",
-      "time": "2022-04-22T00:00:00Z",
+      "time": "2022-04-22T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-fn-fort-lauderdale/2pb62/"
@@ -18,10 +18,32 @@
       },
       "fite": {
         "id": "2pb62",
-        "time": "2022-04-22T00:00:00Z",
+        "time": "2022-04-22T01:00:00Z",
         "title": "BKFC Fight Night Fort Lauderdale: Joey Beltran vs Frank Tate",
         "url": "https://www.fite.tv/watch/bkfc-fn-fort-lauderdale/2pb62/",
         "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC Fort Lauderdale: Prelims",
+      "time": "2022-04-22T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-fn-fort-lauderdale-prelims/2pb6l/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pb6l",
+        "time": "2022-04-22T00:00:00Z",
+        "title": "BKFC Fight Night Fort Lauderdale: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-fn-fort-lauderdale-prelims/2pb6l/",
+        "price": "FREE",
         "sports": [
           "BARE_KNUCKLE",
           "BOXING",
@@ -64,10 +86,45 @@
     ],
     "mainCard": {
       "title": "BKFC 24: Hunt vs. Riggs",
-      "time": "2022-05-01T02:00:00Z",
+      "time": "2022-05-01T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-24/2pb6r/"
         }
+      },
+      "fite": {
+        "id": "2pb6r",
+        "time": "2022-05-01T01:00:00Z",
+        "title": "BKFC 24: Lorenzo Hunt vs Joe Riggs",
+        "url": "https://www.fite.tv/watch/bkfc-24/2pb6r/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 24: Prelims",
+      "time": "2022-05-01T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-24-prelims/2pb6s/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pb6s",
+        "time": "2022-05-01T00:00:00Z",
+        "title": "BKFC 24: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-24-prelims/2pb6s/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {

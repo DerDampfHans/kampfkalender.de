@@ -1,7 +1,6 @@
 [
   {
     "id": "wlmma-2022-04-30",
-    "live": false,
     "promotion": "WLMMA_DE",
     "sports": [
       "MMA"
@@ -15,13 +14,28 @@
     ],
     "mainCard": {
       "title": "We Love MMA 57",
-      "time": "2022-04-30T22:15:00Z",
-      "until": "2022-05-01T00:15:00Z",
+      "time": "2022-04-30T21:10:00Z",
+      "until": "2022-04-30T23:10:00Z",
       "broadcasters": {
         "BILD_TV": {
           "free": true
         }
       }
+    },
+    "tapology": {
+      "id": 88616,
+      "time": "2022-04-30T04:00:00Z",
+      "title": "We Love MMA 57",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/88616-we-love-mma-62",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Sebastian Herzberg (3-0-0) vs. Mamadou Lamine Sene (3-3-0)",
+        "Main Card: Andre Pleissner (0-0-0) vs. Rodi Al Bakri (0-0-0)",
+        "Main Card: Soren Dubielzig (0-0-0) vs. Andrei Zugrav (0-0-0)"
+      ]
     },
     "weLoveMma": {
       "id": "we-love-mma-59",
@@ -53,6 +67,13 @@
           "free": true
         }
       }
+    },
+    "tapology": {
+      "id": 88648,
+      "time": "2022-05-21T04:00:00Z",
+      "title": "We Love MMA 58",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/88648-we-love-mma-58"
     },
     "weLoveMma": {
       "id": "we-love-mma-61",

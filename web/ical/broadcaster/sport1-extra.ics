@@ -4,6 +4,18 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T162122Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220420T075322Z
+X-KAMPFKALENDER-HASH:ba034417d7bfb170d38f7b550bc94c42ae0f7817
+BEGIN:VEVENT
+DTSTAMP:20220420T075323Z
+UID:2022-04-welcome-to-the-east-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Welcome to the East 5
+DTSTART:20220423T144000Z
+DTEND:20220423T213000Z
+CATEGORIES:Other,Kickboxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
+ passes/fight24-welcome-to-the-east-5-447\nvia SPORT1 Extra\n\n---\n\nhtt
+ ps://www.fightevents.de/event/welcome-to-the-east-5/
+END:VEVENT
 END:VCALENDAR
