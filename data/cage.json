@@ -5,15 +5,30 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#Cage54"
+    ],
     "mainCard": {
-      "title": "CAGE MMA 54",
+      "title": "Cage 54",
       "time": "2022-04-23T15:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=lYam8OrfgeU"
         },
         "FIGHT24_TV": {
-          "url": "https://www.fight24.tv/fightpasses/fight24-cage-54-448"
         }
+      },
+      "youTube": {
+        "id": "lYam8OrfgeU",
+        "time": "2022-04-23T15:00:00Z",
+        "title": "LIVE: Cage 54 | 23.4. | 17 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=lYam8OrfgeU",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
       }
     },
     "tapology": {
