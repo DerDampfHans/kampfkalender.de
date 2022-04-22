@@ -11,6 +11,9 @@
     "mainCard": {
       "title": "UFC Vegas 52: Lemos vs. Andrade",
       "time": "2022-04-24T01:00:00Z",
+      "tags": [
+        "🎙@SebastianHackl"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -27,7 +30,8 @@
         "time": "2022-04-24T01:00:00Z",
         "title": "UFC Fight Night: Lemos vs Andrade (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Die nächste UFC Fight Night im Apex steht an. Im Mainevent kommt es zum Duell im Strohgewicht. Die ehemalige Championess Jessica Andrade trifft auf Amanda Lemos. Die 30-jährige Brasilianerin Jessica Andrade konnte sich bereits 2019 den Titel im Strohgewicht via KO-Slam sichern. Gegnerin Amanda Lemos ist ebenfalls aus Brasilien und geht mit einer Siegesserie von fünf Kämpfen in dieses Mainevent. // Kommentator: Sebastian Hackl"
       }
     },
     "prelims": {
@@ -55,14 +59,14 @@
       "card": [
         "Main Event: Amanda Lemos (11-1-1) vs. Jéssica Andrade (22-9-0)",
         "Co-Main Event: Clay Guida (37-21-0) vs. Claudio Puelles (11-2-0)",
-        "Main Card: Alexandr Romanov (15-0-0) vs. Chase Sherman (15-9-0)",
         "Main Card: Maycee Barber (9-2-0) vs. Montana De La Rosa (12-6-1)",
-        "Main Card: Mudaerji Su (15-4-0) vs. Manel Kape (17-6-0)",
+        "Main Card: Alexandr Romanov (15-0-0) vs. Chase Sherman (15-9-0)",
         "Main Card: Charles Jourdain (12-4-1) vs. Lando Vannata (12-5-2)",
         "Prelim: Jordan Wright (12-2-0) vs. Marc-André Barriault (13-5-0)",
         "Prelim: Dwight Grant (11-4-0) vs. Sergey Khandozhko (27-6-1)",
         "Prelim: Tyson Pedro (7-3-0) vs. Ike Villanueva (18-13-0)",
         "Prelim: Aoriqileng (20-11-0) vs. Cameron Else (10-5-0)",
+        "Prelim: Preston Parsons (9-3-0) vs. Evan Elder (7-0-0)",
         "Prelim: Marcin Prachnio (15-5-0) vs. Philipe Lins (14-5-0)",
         "Prelim: Dean Barry (4-1-0) vs. Mike Jackson (0-1-0)"
       ],
@@ -306,19 +310,30 @@
     ],
     "mainCard": {
       "title": "UFC Vegas 55: Holm vs. Vieira",
-      "time": "2022-05-21T22:00:00Z",
+      "time": "2022-05-21T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 216492,
+        "time": "2022-05-21T23:00:00Z",
+        "title": "UFC Fight Night: Holm vs Vieira"
       }
     },
     "prelims": {
       "title": "UFC Vegas 55: Prelims",
+      "time": "2022-05-21T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 216490,
+        "time": "2022-05-21T20:00:00Z",
+        "title": "UFC Fight Night: Holm vs Vieira Prelims"
       }
     },
     "tapology": {
@@ -338,9 +353,9 @@
         "Prelim: Polyana Viana (12-4-0) vs. Tabatha Ricci (6-1-0)",
         "Prelim: Omar Morales (11-2-0) vs. Uros Medic (7-1-0)",
         "Prelim: Joseph Holmes (7-2-0) vs. Alen Amedovski (8-2-0)",
-        "Prelim: Jailton Almeida (15-2-0) vs. Maxim Grishin (32-9-2)",
         "Prelim: Chidi Njokuani (21-7-0) vs. Duško Todorović (11-2-0)",
-        "Prelim: Jonathan Martinez (15-4-0) vs. Vince Morales (11-5-0)"
+        "Prelim: Jonathan Martinez (15-4-0) vs. Vince Morales (11-5-0)",
+        "Prelim: Parker Porter (13-6-0) vs. Jailton Almeida (15-2-0)"
       ]
     }
   },
@@ -355,19 +370,30 @@
     ],
     "mainCard": {
       "title": "UFC Vegas 56: Volkov vs. Rozenstruik",
-      "time": "2022-06-04T22:00:00Z",
+      "time": "2022-06-04T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 216493,
+        "time": "2022-06-04T23:00:00Z",
+        "title": "UFC Fight Night: Volkov vs Rozenstruik"
       }
     },
     "prelims": {
       "title": "UFC Vegas 56: Prelims",
+      "time": "2022-06-04T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 216491,
+        "time": "2022-06-04T20:00:00Z",
+        "title": "UFC Fight Night: Volkov vs Rozenstruik Prelims"
       }
     },
     "tapology": {
@@ -389,7 +415,8 @@
         "Prelim: Cynthia Calvillo (9-4-1) vs. Brianna Fortino (9-3-0)",
         "Prelim: Andreas Michailidis (13-5-0) vs. Rinat Fakhretdinov (20-2-0)",
         "Prelim: Erin Blanchfield (8-1-0) vs. JJ Aldrich (11-4-0)",
-        "Prelim: Mike Trizano (9-2-0) vs. Lucas Almeida (13-1-0)"
+        "Prelim: Mike Trizano (9-2-0) vs. Lucas Almeida (13-1-0)",
+        "Prelim: Damon Jackson (20-4-1) vs. Darrick Minner (26-13-0)"
       ]
     }
   },
@@ -450,7 +477,6 @@
       "card": [
         "Main Event: Glover Teixeira (33-7-0) vs. Jiří Procházka (28-3-1)",
         "Co-Main Event: Valentina Shevchenko (22-3-0) vs. Taila Santos (19-1-0)",
-        "Main Card: Robert Whittaker (23-6-0) vs. Marvin Vettori (18-4-1)",
         "Main Card: Weili Zhang (21-3-0) vs. Joanna Jędrzejczyk (16-4-0)",
         "Prelim: Silvana Gómez Juárez (10-4-0) vs. Na Liang (16-5-0)",
         "Prelim: Brendan Allen (18-5-0) vs. Jacob Malkoun (6-1-0)",
@@ -507,7 +533,8 @@
         "Prelim: Cody Durden (12-4-1) vs. JP Buys (9-4-0)",
         "Prelim: Jasmine Jasudavicius (7-1-0) vs. Natália Silva (12-5-1)",
         "Prelim: Damir Ismagulov (23-1-0) vs. Guram Kutateladze (12-2-0)",
-        "Prelim: Cody Stamann (19-5-1) vs. Eddie Wineland (24-15-1)"
+        "Prelim: Cody Stamann (19-5-1) vs. Eddie Wineland (24-15-1)",
+        "Prelim: Jeremiah Wells (10-2-1) vs. Court McGee (21-10-0)"
       ]
     }
   },
@@ -608,7 +635,8 @@
       "card": [
         "Main Card: Miesha Tate (19-8-0) vs. Lauren Murphy (15-5-0)",
         "Main Card: Jessica Eye (15-10-0) vs. Casey O'Neill (9-0-0)",
-        "Prelim: Brad Tavares (19-6-0) vs. Dricus Du Plessis (16-2-0)"
+        "Prelim: Brad Tavares (19-6-0) vs. Dricus Du Plessis (16-2-0)",
+        "Prelim: Jessica-Rose Clark (11-7-0) vs. Julija Stoliarenko (9-6-1)"
       ]
     }
   },
@@ -654,7 +682,8 @@
       "card": [
         "Main Card: Cynthia Calvillo (9-4-1) vs. Nina Nunes (10-7-0)",
         "Main Card: Antonina Shevchenko (9-4-0) vs. Cortney Casey (10-9-0)",
-        "Prelim: Ronnie Lawrence (8-1-0) vs. Saidyokub Kakhramonov (9-2-0)"
+        "Prelim: Ronnie Lawrence (8-1-0) vs. Saidyokub Kakhramonov (9-2-0)",
+        "Prelim: Tresean Gore (3-1-0) vs. Josh Fremd (9-3-0)"
       ]
     }
   },
@@ -700,6 +729,50 @@
       "card": [
         "Main Card: Askar Askarov (14-1-1) vs. Alex Perez (24-6-0)",
         "Main Card: Dustin Jacoby (17-5-1) vs. Da Un Jung (15-2-1)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-88711",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2022-07-23T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 88711,
+      "time": "2022-07-23T22:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/88711-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Muhammad Mokaev (6-0-0) vs. Charles Johnson (11-2-0)"
       ]
     }
   },

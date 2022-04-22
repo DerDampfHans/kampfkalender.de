@@ -25,7 +25,7 @@
     },
     "tapology": {
       "id": 87681,
-      "time": "2022-04-22T18:00:00Z",
+      "time": "2022-04-22T20:00:00Z",
       "title": "Zucco vs. Nikolic",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/87681-zucco-vs-nikolic",
@@ -34,12 +34,13 @@
       ],
       "card": [
         "Main Event: Ivan Zucco (15-0-0) vs. Marko Nikolic (28-1-0)",
+        "Co-Main Event: Mirko Natalizi (11-0-0) vs. Rico Mueller (28-4-1)",
         "Main Card: Francesco Grandelli (15-1-2) vs. Kane Baker (17-8-1)",
-        "Main Card: Mirko Natalizi (11-0-0) vs. Rico Mueller (28-4-1)",
         "Main Card: Samuel Nmomah (16-0-0) vs. Fouad El Massoudi (17-17-1)",
         "Main Card: Mauro Forte (16-0-2) vs. Joshua Ocampo (7-3-4)",
-        "Main Card: Giovanni Sarchioto (0-0-0) vs. Jovan Smilic (0-0-0)",
-        "Main Card: Voldy Toutin (0-0-0) vs. Milos Jankovic (2-15-2)"
+        "Main Card: Joshua Nmomah (10-0-0) vs. Nika Gvajava (6-25-2)",
+        "Main Card: Voldy Toutin (0-0-0) vs. Jovan Smilic (0-0-0)",
+        "Main Card: Giovanni Sarchioto (0-0-0) vs. Ognjen Raukovic (8-24-1)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/851241"
@@ -183,13 +184,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#BuatsiRichards"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Buatsi vs. Richards",
-      "time": "2022-05-21T19:00:00Z",
+      "time": "2022-05-21T18:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "eht4yq515bn21neee0dlb3pia",
+        "time": "2022-05-21T18:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Buatsi vs Richards"
       }
     },
     "tapology": {
@@ -203,7 +213,10 @@
       ],
       "card": [
         "Main Event: Joshua Buatsi (15-0-0) vs. Craig Richards (17-2-1)",
-        "Main Card: Chantelle Cameron (15-0-0) vs. Victoria Noelia Bustos (23-6-0)"
+        "Main Card: Chantelle Cameron (15-0-0) vs. Victoria Noelia Bustos (23-6-0)",
+        "Main Card: Alen Babic (10-0-0) vs. Adam Balski (16-1-0)",
+        "Main Card: Robbie Davies Jr. (22-3-0) vs. Javier Molina (22-4-0)",
+        "Main Card: Ellie Scotney (4-0-0) vs. Maria Cecilia Roman (16-6-1)"
       ]
     }
   }

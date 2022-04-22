@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220420T075322Z
-X-KAMPFKALENDER-HASH:521a52c8bdc5e7296e5d44e6d9894a6b05521ba5
+DTSTAMP:20220422T071946Z
+X-KAMPFKALENDER-HASH:ecf6689db9f5860325130bdc1d10b5befff4eb53
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220422T071946Z
 UID:2022-04-benn-vs-van-heerden@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Van Heerden
@@ -28,7 +28,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  azem (9-25-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220422T071946Z
 UID:2022-04-zucco-vs-nikolic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zucco vs. Nikolic
@@ -37,16 +37,17 @@ DTEND:20220422T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/87681-zucco-vs-nikolic\nhttp://www.boxrec.com/en/event/851241\n\n---\n
- \nMain Event: Ivan Zucco (15-0-0) vs. Marko Nikolic (28-1-0)\nMain Card:
-  Francesco Grandelli (15-1-2) vs. Kane Baker (17-8-1)\nMain Card: Mirko 
- Natalizi (11-0-0) vs. Rico Mueller (28-4-1)\nMain Card: Samuel Nmomah (1
- 6-0-0) vs. Fouad El Massoudi (17-17-1)\nMain Card: Mauro Forte (16-0-2) 
- vs. Joshua Ocampo (7-3-4)\nMain Card: Giovanni Sarchioto (0-0-0) vs. Jov
- an Smilic (0-0-0)\nMain Card: Voldy Toutin (0-0-0) vs. Milos Jankovic (2
- -15-2)
+ \nMain Event: Ivan Zucco (15-0-0) vs. Marko Nikolic (28-1-0)\nCo-Main Ev
+ ent: Mirko Natalizi (11-0-0) vs. Rico Mueller (28-4-1)\nMain Card: Franc
+ esco Grandelli (15-1-2) vs. Kane Baker (17-8-1)\nMain Card: Samuel Nmoma
+ h (16-0-0) vs. Fouad El Massoudi (17-17-1)\nMain Card: Mauro Forte (16-0
+ -2) vs. Joshua Ocampo (7-3-4)\nMain Card: Joshua Nmomah (10-0-0) vs. Nik
+ a Gvajava (6-25-2)\nMain Card: Voldy Toutin (0-0-0) vs. Jovan Smilic (0-
+ 0-0)\nMain Card: Giovanni Sarchioto (0-0-0) vs. Ognjen Raukovic (8-24-1)
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220422T071946Z
 UID:2022-04-taylor-vs-serrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano
@@ -65,7 +66,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220422T071946Z
 UID:2022-05-scardina-vs-de-carolis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Scardina vs. De Carolis
@@ -79,7 +80,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  in Card: Vincenzo La Femina (10-0-0) vs. Matteo Lecca (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220422T071946Z
 UID:2022-05-lejarraga-vs-metcalf@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lejarraga vs. Metcalf
@@ -89,5 +90,21 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/87683-lejarraga-vs-metcalf\nhttp://www.boxrec.com/en/event/851240\n\n-
  --\n\nMain Event: Kerman Lejarraga (34-2-0) vs. James Metcalf (22-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220422T071946Z
+UID:2022-05-buatsi-vs-richards@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Buatsi vs. Richards
+DTSTART:20220521T180000Z
+DTEND:20220521T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/87831-buatsi-vs-richards\n\n---\n\nMain Event: Joshua Buatsi (15-0-0) 
+ vs. Craig Richards (17-2-1)\nMain Card: Chantelle Cameron (15-0-0) vs. V
+ ictoria Noelia Bustos (23-6-0)\nMain Card: Alen Babic (10-0-0) vs. Adam 
+ Balski (16-1-0)\nMain Card: Robbie Davies Jr. (22-3-0) vs. Javier Molina
+  (22-4-0)\nMain Card: Ellie Scotney (4-0-0) vs. Maria Cecilia Roman (16-
+ 6-1)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:190d6961a4d1c27f5d25665b05721f6afd3f6778
+DTSTAMP:20220422T071946Z
+X-KAMPFKALENDER-HASH:c1dc61dbe42d34e7dee117839e0da9de61526b75
 BEGIN:VEVENT
-DTSTAMP:20220412T054306Z
+DTSTAMP:20220422T071946Z
 UID:2022-04-cffc-107-bilder-vs-carvalho@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 107: Bilder vs. Carvalho
@@ -27,7 +27,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)\nPrelim: Vitor Oristanio (3-3-0) vs. BJ Young (4-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T054306Z
+DTSTAMP:20220422T071946Z
 UID:2022-05-cffc-108-blackshear-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 108: Blackshear vs. Smith
@@ -42,5 +42,25 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  tor Mena (0-0-0)\nMain Card: Ricardo Fuentes (4-2-0) vs. DeAndre Anderso
  n (5-1-0)\nMain Card: Damion Nelson (3-0-0) vs. Frank Wells (2-1-0)\nMai
  n Card: Luke Fernandez (4-0-0) vs. Dymere Rappa (2-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220422T071946Z
+UID:2022-05-cffc-109@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 109
+DTSTART:20220527T230000Z
+DTEND:20220528T020000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220422T071946Z
+UID:2022-05-cffc-fury-4-professional-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC: Fury 4 Professional Grappling
+DTSTART:20220529T000000Z
+DTEND:20220529T030000Z
+CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR
