@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220415T060439Z
-X-KAMPFKALENDER-HASH:bf8be5d75d11c616632523d0d286e2d5461ec6b8
+DTSTAMP:20220423T120659Z
+X-KAMPFKALENDER-HASH:bcdaee23125bfe290fe68bd79f8ec229cdc5fd71
 BEGIN:VEVENT
-DTSTAMP:20220415T060442Z
+DTSTAMP:20220423T120700Z
 UID:2022-04-emc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:EMC 9
@@ -22,5 +22,43 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/spo
  es (12-5-0) vs. Nico Cocuccio (11-4-1)\nMain Card: Denis Stojnić (14-3-0
  ) vs. Ivo Cuk (19-11-0)\nMain Card: Ahmed Vila (7-4-1) vs. Said Eidi (6-
  7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220423T120700Z
+UID:2022-04-fury-vs-whyte-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury vs. Whyte: Prelims
+DTSTART:20220423T170000Z
+DTEND:20220423T200000Z
+CATEGORIES:Other,Boxen,Bild+,live
+DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
+ en/tyson-fury-gegen-dillian-whyte-boxen-im-live-stream-hier-sehen-797881
+ 68\,view=conversionToLogin.bild.html\n\n---\n\nhttps://www.tapology.com/
+ fightcenter/events/86418-fury-vs-whyte\nhttp://www.boxrec.com/en/event/8
+ 49663\n\n---\n\nMain Event: Tyson Fury (31-0-1) vs. Dillian Whyte (28-2-
+ 0)\nMain Card: Isaac Lowe (21-1-3) vs. Nick Ball (14-0-0)\nMain Card: Da
+ vid Adeleye (8-0-0) vs. Chris Healey (9-8-0)\nMain Card: Tommy Fury (7-0
+ -0) vs. Daniel Bocianski (10-1-0)\nMain Card: Karol Itauma (6-0-0) vs. M
+ ichał Ciach (2-11-0)\nMain Card: Kurt Walker (0-0-0) vs. Stefan Nicolae 
+ (2-27-1)\nMain Card: Royston Barney Smith (0-0-0) vs. Constantin Radoi (
+ 0-10-0)\nMain Card: Ekow Essuman (16-0-0) vs. Darren Tetley (21-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220423T120700Z
+UID:2022-04-fury-vs-whyte@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury vs. Whyte
+DTSTART:20220423T200000Z
+DTEND:20220423T231000Z
+CATEGORIES:Other,Boxen,Bild TV,Bild+,live,kostenlos
+DESCRIPTION:via Bild TV\nvia Bild+\n\n---\n\nhttps://www.tapology.com/fig
+ htcenter/events/86418-fury-vs-whyte\nhttp://www.boxrec.com/en/event/8496
+ 63\n\n---\n\nMain Event: Tyson Fury (31-0-1) vs. Dillian Whyte (28-2-0)\
+ nMain Card: Isaac Lowe (21-1-3) vs. Nick Ball (14-0-0)\nMain Card: David
+  Adeleye (8-0-0) vs. Chris Healey (9-8-0)\nMain Card: Tommy Fury (7-0-0)
+  vs. Daniel Bocianski (10-1-0)\nMain Card: Karol Itauma (6-0-0) vs. Mich
+ ał Ciach (2-11-0)\nMain Card: Kurt Walker (0-0-0) vs. Stefan Nicolae (2-
+ 27-1)\nMain Card: Royston Barney Smith (0-0-0) vs. Constantin Radoi (0-1
+ 0-0)\nMain Card: Ekow Essuman (16-0-0) vs. Darren Tetley (21-2-0)
 END:VEVENT
 END:VCALENDAR
