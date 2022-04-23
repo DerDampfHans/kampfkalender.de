@@ -935,5 +935,155 @@
         "title": "XFN 379 Kickboxing"
       }
     }
+  },
+  {
+    "id": "hueckelhoven-2022-04-23",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#Hückelhoven"
+    ],
+    "mainCard": {
+      "title": "4. Hückelhovener Fight Night",
+      "time": "2022-04-23T16:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-4huckelhovener-fight-night-446",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "welcome-to-the-east-2022-04-23",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Erfurt",
+      "#EM",
+      "#DM",
+      "#Tournament"
+    ],
+    "mainCard": {
+      "title": "Welcome to the East 5",
+      "time": "2022-04-23T16:00:00Z",
+      "until": "2022-04-23T21:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=run74S8G5oU"
+        },
+        "FIGHT24_TV": {
+          "freeAfter": 48
+        },
+        "SPORT1_EXTRA": {
+        }
+      },
+      "youTube": {
+        "id": "run74S8G5oU",
+        "time": "2022-04-23T16:00:00Z",
+        "title": "LIVE: WELCOME TO THE EAST 5 | 23.3. | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=run74S8G5oU",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "fightEvents": {
+      "id": "welcome-to-the-east-5",
+      "time": "2022-04-23T14:30:00Z",
+      "until": "2022-04-23T21:30:00Z",
+      "title": "Welcome to the East 5",
+      "url": "https://www.fightevents.de/event/welcome-to-the-east-5/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Arthur Derksen",
+        "Bijan Navabi",
+        "Christoph Wunn",
+        "Erfurt",
+        "Fight Night",
+        "Fightnight",
+        "Filip Szostak",
+        "Furkan Gencer",
+        "Ingiohairo Kani",
+        "Jan Kaffa",
+        "Marian Lewin",
+        "Raphael Steinbach",
+        "Renato Achternaam",
+        "Sergej Gavrusenko",
+        "Tim Hoffmann",
+        "Welcome to the East",
+        "Welcome to the East 5"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "MMA",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "tapology-86418",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#FuryWhite"
+    ],
+    "mainCard": {
+      "title": "Fury vs. Whyte",
+      "time": "2022-04-23T20:00:00Z",
+      "until": "2022-04-23T23:10:00Z",
+      "broadcasters": {
+        "BILD_TV": {
+          "free": true
+        },
+        "BILD_PLUS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Fury vs. Whyte: Prelims",
+      "time": "2022-04-23T17:00:00Z",
+      "broadcasters": {
+        "BILD_PLUS": {
+          "url": "https://www.bild.de/bild-plus/sport/mehr-sport/boxen/tyson-fury-gegen-dillian-whyte-boxen-im-live-stream-hier-sehen-79788168,view=conversionToLogin.bild.html"
+        }
+      }
+    },
+    "tapology": {
+      "id": 86418,
+      "time": "2022-04-23T20:00:00Z",
+      "title": "Fury vs. Whyte",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/86418-fury-vs-whyte",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Tyson Fury (31-0-1) vs. Dillian Whyte (28-2-0)",
+        "Main Card: Isaac Lowe (21-1-3) vs. Nick Ball (14-0-0)",
+        "Main Card: David Adeleye (8-0-0) vs. Chris Healey (9-8-0)",
+        "Main Card: Tommy Fury (7-0-0) vs. Daniel Bocianski (10-1-0)",
+        "Main Card: Karol Itauma (6-0-0) vs. Michał Ciach (2-11-0)",
+        "Main Card: Kurt Walker (0-0-0) vs. Stefan Nicolae (2-27-1)",
+        "Main Card: Royston Barney Smith (0-0-0) vs. Constantin Radoi (0-10-0)",
+        "Main Card: Ekow Essuman (16-0-0) vs. Darren Tetley (21-2-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/849663"
+      ]
+    }
   }
 ]
