@@ -4,20 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220424T090354Z
-X-KAMPFKALENDER-HASH:9ad0bd21d57b0139222fc93bdc2d208957d242bf
+DTSTAMP:20220424T212147Z
+X-KAMPFKALENDER-HASH:c91643c9cb37d563e28a21434a29ba9a9270b0b1
 BEGIN:VEVENT
-DTSTAMP:20220424T090355Z
-UID:2022-04-schlagwort-special-so-geht-mma-coaching@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Special: So geht MMA Coaching
-DTSTART:20220417T160000Z
-DTEND:20220417T170000Z
-CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cc6-VFAfu7k
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220424T090355Z
+DTSTAMP:20220424T212147Z
 UID:2022-04-schlagwort-spezial-saba-bolaghi-patrick-vespaziani@kampfkalen
  der.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -26,5 +16,17 @@ DTSTART:20220424T160000Z
 DTEND:20220424T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZCgWNTLGPuM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220424T212147Z
+UID:2022-04-ufc-fight-night-lemos-vs-andrade-erste-standing-arm-triangle-
+ ever@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Fight Night: Lemos vs. Andrade - Erste Standing Arm Triangle 
+ ever
+DTSTART:20220425T150000Z
+DTEND:20220425T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=8IowakII8fI
 END:VEVENT
 END:VCALENDAR
