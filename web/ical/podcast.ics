@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220422T071946Z
-X-KAMPFKALENDER-HASH:48b7f1fca93013e8e43387035e4f14dc63f76fc5
+DTSTAMP:20220424T090354Z
+X-KAMPFKALENDER-HASH:9ad0bd21d57b0139222fc93bdc2d208957d242bf
 BEGIN:VEVENT
-DTSTAMP:20220422T071946Z
+DTSTAMP:20220424T090355Z
 UID:2022-04-schlagwort-special-so-geht-mma-coaching@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Special: So geht MMA Coaching
@@ -17,13 +17,14 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cc6-VFAfu7k
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220422T071946Z
-UID:2022-04-schlagwort-podcast-159@kampfkalender.de
+DTSTAMP:20220424T090355Z
+UID:2022-04-schlagwort-spezial-saba-bolaghi-patrick-vespaziani@kampfkalen
+ der.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast 159
+SUMMARY:Schlagwort Spezial: Saba Bolaghi & Patrick Vespaziani
 DTSTART:20220424T160000Z
-DTEND:20220424T180000Z
-CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DTEND:20220424T170000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZCgWNTLGPuM
 END:VEVENT
 END:VCALENDAR
