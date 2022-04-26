@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220424T212147Z
-X-KAMPFKALENDER-HASH:3337fe9057650f8b4b5bab712c5f053952c63434
+DTSTAMP:20220426T064411Z
+X-KAMPFKALENDER-HASH:7fbf4142137cd4db3b070cdc839a1f5e0726ae01
 BEGIN:VEVENT
-DTSTAMP:20220424T212147Z
+DTSTAMP:20220426T064411Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade-erste-standing-arm-triangle-
  ever@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -17,5 +17,17 @@ DTSTART:20220425T150000Z
 DTEND:20220425T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=8IowakII8fI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220426T064411Z
+UID:2022-04-tyson-fury-mit-grandiosem-ko-sieg-in-wembley-ufc-vegas-52-bel
+ lator-ruckblick@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Tyson Fury mit grandiosem KO Sieg in Wembley | UFC Vegas 52 | Bel
+ lator Rückblick
+DTSTART:20220426T150000Z
+DTEND:20220426T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GqMThioRyJo
 END:VEVENT
 END:VCALENDAR

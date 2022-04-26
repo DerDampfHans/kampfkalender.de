@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220424T212147Z
-X-KAMPFKALENDER-HASH:c91643c9cb37d563e28a21434a29ba9a9270b0b1
+DTSTAMP:20220426T064411Z
+X-KAMPFKALENDER-HASH:cfd9bcf78288bf8abb5f104b576b6405fa03a0d4
 BEGIN:VEVENT
-DTSTAMP:20220424T212147Z
+DTSTAMP:20220426T064411Z
 UID:2022-04-schlagwort-spezial-saba-bolaghi-patrick-vespaziani@kampfkalen
  der.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZCgWNTLGPuM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220424T212147Z
+DTSTAMP:20220426T064411Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade-erste-standing-arm-triangle-
  ever@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,5 +28,17 @@ DTSTART:20220425T150000Z
 DTEND:20220425T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=8IowakII8fI
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220426T064411Z
+UID:2022-04-tyson-fury-mit-grandiosem-ko-sieg-in-wembley-ufc-vegas-52-bel
+ lator-ruckblick@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Tyson Fury mit grandiosem KO Sieg in Wembley | UFC Vegas 52 | Bel
+ lator Rückblick
+DTSTART:20220426T150000Z
+DTEND:20220426T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GqMThioRyJo
 END:VEVENT
 END:VCALENDAR
