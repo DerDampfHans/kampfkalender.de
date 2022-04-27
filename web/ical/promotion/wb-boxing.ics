@@ -4,6 +4,32 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220420T075322Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:0d4a49d3c052c833f257d39911335a0d584b7df1
+BEGIN:VEVENT
+DTSTAMP:20220427T111008Z
+UID:2022-05-hammer-vs-davidova@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hammer vs. Davidova
+DTSTART:20220507T200500Z
+DTEND:20220507T210000Z
+CATEGORIES:WB,Boxen,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
+ ellum-gala-radovan-hammer-30-april\nhttps://www.tapology.com/fightcenter
+ /events/88509-radovan-vs-bevilacqua\n\n---\n\nMain Card: Denis Radovan (
+ 15-0-1) vs. Vincenzo Bevilacqua (18-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111008Z
+UID:2022-05-radovan-vs-bejaran@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Radovan vs. Bejaran
+DTSTART:20220507T211000Z
+DTEND:20220507T220500Z
+CATEGORIES:WB,Boxen,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
+ ellum-gala-radovan-hammer-30-april\nhttps://www.tapology.com/fightcenter
+ /events/88509-radovan-vs-bevilacqua\n\n---\n\nMain Card: Denis Radovan (
+ 15-0-1) vs. Vincenzo Bevilacqua (18-1-0)
+END:VEVENT
 END:VCALENDAR

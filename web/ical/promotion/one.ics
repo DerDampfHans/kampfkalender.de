@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220420T075513Z
-X-KAMPFKALENDER-HASH:c452d3a22de27dffab6705d9208d3294013a6dc9
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:a9970c36c20cde39882aa58aa3c5b260fa845735
 BEGIN:VEVENT
-DTSTAMP:20220420T075515Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-one-156-eersel-vs-sadikovic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 156: Eersel vs. Sadikovic
@@ -30,5 +30,25 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=vhAijSsYlac\n\n-
   vs. Dae Sung Park (11-2-0)\nPrelim: Agilan Thani (10-6-0) vs. Tae Ho Ji
  n (10-5-0)\nPrelim: Masakazu Imanari vs. Mikey Musumeci\nPrelim: Keanu S
  ubba (7-5-0) vs. James Yang (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111007Z
+UID:2022-05-one-petchmorakot-vs-vienot@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE: Petchmorakot vs. Vienot
+DTSTART:20220520T100000Z
+DTEND:20220520T130000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,ONE TV,live
+DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/88823-one-championship-petchmorakot-vs-vienot\n\n---\n\nMain Event: 
+ P. Petchyindee vs. Jimmy Vienot\nCo-Main Event: Prajanchai PK Saenchai v
+ s. Joseph Lasiri\nMain Card: Panpayak Jitmuangnon vs. Josue Cruz\nMain C
+ ard: Elipitua Siregar (4-2-0) vs. Robin Catalan (9-7-0)\nMain Card: Asha
+  Roka (4-2-0) vs. Alyse Anderson (5-2-0)\nMain Card: Wondergirl Fairtex 
+ (0-0-0) vs. Zeba Bano (1-0-0)\nMain Card: Savvas Michael vs. Amir Naseri
+ \nMain Card: Superlek Kiatmoo9 vs. Taiki Naito\nMain Card: Rade Opačić v
+ s. Guto Inocente\nMain Card: Shinya Aoki vs. Kade Ruotolo\nMain Card: Ga
+ rry Tonon vs. Tye Ruotolo\nMain Card: Jonathan Haggerty vs. Walter Gonca
+ lves\nMain Card: Rodtang Jitmuangnon vs. Jacob Smith
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220420T075322Z
-X-KAMPFKALENDER-HASH:510de5cfb63c4d214ca1c379735ca4df579bc8ac
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:a59923858600ab61a8c80be0d78a11c1d6b8727a
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220427T111008Z
 UID:2022-04-bkfc-fort-lauderdale-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fort Lauderdale: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-fort-lauderdal
   vs. Gorjan Slaveski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220427T111008Z
 UID:2022-04-bkfc-fort-lauderdale@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fort Lauderdale
@@ -49,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-fort-lauderdal
  jan Slaveski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220427T111008Z
 UID:2022-05-bkfc-24-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 24: Prelims
@@ -67,7 +67,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-24-prelims/2pb6s/
  iss
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220427T111008Z
 UID:2022-05-bkfc-24-hunt-vs-riggs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 24: Hunt vs. Riggs
@@ -84,18 +84,29 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-24/2pb6r/\n\n---\
  well vs. James Dennis\nMain Card: Darrick Gates vs. Anthony Curtiss
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
-UID:2022-05-bkfc-25@kampfkalender.de
+DTSTAMP:20220427T111008Z
+UID:2022-05-bkfc-25-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC 25
-DTSTART:20220507T020000Z
-DTEND:20220507T050000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/88008-bkfc-25
+SUMMARY:BKFC 25: Prelims
+DTSTART:20220507T000000Z
+DTEND:20220507T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-25-prelims/2pb7x/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/88008-bkfc-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220427T111008Z
+UID:2022-05-bkfc-25-adams-vs-cleckler@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 25: Adams vs. Cleckler
+DTSTART:20220507T010000Z
+DTEND:20220507T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-25/2pb7w/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/88008-bkfc-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111008Z
 UID:2022-05-bkfc-thailand-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 2
@@ -113,7 +124,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  klang\nMain Card: U. Thawilsuhannawang vs. Benjamat Phakra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075323Z
+DTSTAMP:20220427T111008Z
 UID:2022-05-bkfc-omaha@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Omaha

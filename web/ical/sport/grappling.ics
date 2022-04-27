@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220423T220304Z
-X-KAMPFKALENDER-HASH:9f0fa5261227a9d810f680d62299826fd8dce46c
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:6f261969e09546a79fe2e86aa3889cae2b20ac1e
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111008Z
+UID:2022-05-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20220514T100000Z
+DTEND:20220514T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/live-events/220514-olym
+ pix-grappling-no-107
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111008Z
 UID:2022-05-cffc-fury-4-professional-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC: Fury 4 Professional Grappling
@@ -17,7 +28,7 @@ CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111008Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

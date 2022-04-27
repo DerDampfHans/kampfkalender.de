@@ -4,29 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220423T220304Z
-X-KAMPFKALENDER-HASH:08c4a2d7284de740f5acf324002490fb08464253
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:4947977aae180706082b9cf1400ffa72b1f6bd11
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
-UID:2022-04-zerafa-vs-hardman@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Zerafa vs. Hardman
-DTSTART:20220420T083000Z
-DTEND:20220420T113000Z
-CATEGORIES:Other,Boxen,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/slb-fight-night-zerefa
- -vs-hardman/2payc/\n\n---\n\nhttps://www.tapology.com/fightcenter/events
- /85709-zerafa-vs-hardman\nhttp://www.boxrec.com/en/event/837446\n\n---\n
- \nMain Event: Michael Zerafa (29-4-0) vs. Issac Hardman (12-0-0)\nCo-Mai
- n Event: Cherneka Johnson (13-1-0) vs. Melissa Esquivel (11-2-1)\nMain C
- ard: Benjamin Bommber (3-0-0) vs. Waiwit Nareeruk (2-5-0)\nMain Card: Ca
- rly Salmon (1-0-0) vs. Krystina Jacobs (4-2-0)\nMain Card: Campbell Some
- rville (1-0-0) vs. Lawrence Glover (0-0-0)\nMain Card: Kim-Alina Ross (0
- -0-0) vs. Zoe Putorak (0-0-0)\nMain Card: Jack Gipp (4-0-0) vs. Lepani L
- evatia (1-4-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-xfn-379@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 379
@@ -36,7 +17,7 @@ CATEGORIES:Other,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-4-huckelhovener-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:4. Hückelhovener Fight Night
@@ -47,7 +28,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-4h
  uckelhovener-fight-night-446
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-welcome-to-the-east-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Welcome to the East 5
@@ -59,7 +40,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=run74S8G5oU\
  vent/welcome-to-the-east-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-fury-vs-whyte-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury vs. Whyte: Prelims
@@ -79,7 +60,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  0-10-0)\nMain Card: Ekow Essuman (16-0-0) vs. Darren Tetley (21-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-fury-vs-whyte@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury vs. Whyte
@@ -97,18 +78,43 @@ DESCRIPTION:via Bild TV\nvia Bild+\n\n---\n\nhttps://www.tapology.com/fig
  0-0)\nMain Card: Ekow Essuman (16-0-0) vs. Darren Tetley (21-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
-UID:2022-04-super-cup-kickboxing-2@kampfkalender.de
+DTSTAMP:20220427T111007Z
+UID:2022-04-maximus-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Super Cup Kickboxing 2
+SUMMARY:Maximus Fight Night
+DTSTART:20220430T160000Z
+DTEND:20220430T210000Z
+CATEGORIES:Other,Kickboxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
+ passes/fight24-maximus-fight-night-452\nvia SPORT1 Extra\n\n---\n\nhttps
+ ://www.fightevents.de/event/maximus-fight-night/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111007Z
+UID:2022-04-predators-fc@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Predators FC
+DTSTART:20220430T160000Z
+DTEND:20220430T210000Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ edators-fc-454\n\n---\n\nhttps://www.fightevents.de/event/night-of-the-p
+ redators/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111007Z
+UID:2022-04-super-cup-kickboxing-2022@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Super Cup Kickboxing 2022
 DTSTART:20220430T160000Z
 DTEND:20220430T210000Z
 CATEGORIES:Other,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/sup
- er-cup-kickboxing-2/
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-su
+ percup-kickboxing-2022-453\n\n---\n\nhttps://www.fightevents.de/event/su
+ per-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111007Z
 UID:2022-05-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
@@ -118,7 +124,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T220304Z
+DTSTAMP:20220427T111007Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220423T111651Z
-X-KAMPFKALENDER-HASH:3bb7649551069b1e1359d4a486057e06267c5670
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:0286b1493e8fcfbe8612db74c586e91017164528
 BEGIN:VEVENT
-DTSTAMP:20220423T111651Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-lfa-130-ksiazkiewicz-vs-gambulino@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 130: Ksiazkiewicz vs. Gambulino
@@ -26,7 +26,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ston Ogan\nPrelim: Brandon Brisbo vs. Jorge Apalategui
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T111651Z
+DTSTAMP:20220427T111007Z
 UID:2022-05-lfa-131@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 131
@@ -45,13 +45,22 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0)\nPrelim: Edwin Jimenez (6-1-0) vs. Randy Rivera-Santiago (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220423T111651Z
-UID:2022-05-lfa-132@kampfkalender.de
+DTSTAMP:20220427T111007Z
+UID:2022-05-lfa-132-gomes-vs-costa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:LFA 132
+SUMMARY:LFA 132: Gomes vs. Costa
 DTSTART:20220513T020000Z
 DTEND:20220513T050000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88790-lfa-132-lidio-vs-gomes\n\n---\n\nMain Event: Italo Gom
+ es (10-2-0) vs. Melquizael Costa (17-4-0)\nCo-Main Event: Luan Luiz Lace
+ rda (11-1-0) vs. Marciley Alves (9-2-0)\nMain Card: Gabriel Silva (8-2-0
+ ) vs. Rono Junior (8-1-0)\nMain Card: Leo Leite (10-2-0) vs. Claiton Tra
+ ssante (9-1-0)\nMain Card: Yasmin Castanho (5-0-0) vs. Bruna Brasil (6-2
+ -1)\nMain Card: Edna Oliveira (10-9-1) vs. Gabriella Hermógenes (6-1-0)\
+ nMain Card: José Henrique (4-0-0) vs. Pedro Oliveira (5-0-1)\nPrelim: Li
+ ncon Santos (5-1-0) vs. Rodrigo Roldan (5-3-0)\nPrelim: Gabriel Souza Ga
+ lindo (3-0-0) vs. Lucas Sousa (2-0-0)
 END:VEVENT
 END:VCALENDAR

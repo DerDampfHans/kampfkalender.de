@@ -5,10 +5,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#DeinesDabrowksi"
+    ],
+    "links": [
+      "https://www.mdr.de/sport/boxen/boxen-zwei-titelkaempfe-auf-der-seebuehne-in-magdeburg-100.html",
+      "https://www.mdr.de/tv/programm/sendung-754026.html"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Boxen Live",
-      "time": "2022-05-14T19:00:00Z"
+      "title": "Boxen Live mit Adam Deines & Romas Fress",
+      "time": "2022-05-14T20:45:00Z",
+      "until": "2022-05-14T22:45:00Z",
+      "broadcasters": {
+        "MDR": {
+          "free": true
+        }
+      }
     },
     "tapology": {
       "id": 88732,

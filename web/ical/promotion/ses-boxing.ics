@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:c0c12a7f02db79b49548c0d91fbe6e0c451f1584
+BEGIN:VEVENT
+DTSTAMP:20220427T111008Z
+UID:2022-05-boxen-live-mit-adam-deines-romas-fress@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Boxen Live mit Adam Deines & Romas Fress
+DTSTART:20220514T204500Z
+DTEND:20220514T224500Z
+CATEGORIES:SES,Boxen,MDR,live,kostenlos
+DESCRIPTION:via MDR\n\n---\n\nhttps://www.mdr.de/sport/boxen/boxen-zwei-t
+ itelkaempfe-auf-der-seebuehne-in-magdeburg-100.html\nhttps://www.mdr.de/
+ tv/programm/sendung-754026.html\nhttps://www.tapology.com/fightcenter/ev
+ ents/88732-boxen-live\nhttp://www.boxrec.com/en/event/852936\n\n---\n\nM
+ ain Card: Adam Deines (20-2-1) vs. Norbert Dabrowksi (23-9-2)\nMain Card
+ : Tom Dzemski (18-1-0) vs. Tomáš Adámek (29-20-2)
+END:VEVENT
 END:VCALENDAR

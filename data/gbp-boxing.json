@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#AcostaRivera"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Acosta vs. Rivera",
-      "time": "2022-05-13T02:00:00Z"
+      "time": "2022-05-13T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1vkdbvcz95u0t1popp36jhs00y",
+        "time": "2022-05-13T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Acosta vs Rivera"
+      }
     },
     "tapology": {
       "id": 88552,
@@ -47,7 +60,8 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Zurdo Ramirez (43-0-0) vs. Dominic Boesel (32-2-0)"
+        "Main Event: Zurdo Ramirez (43-0-0) vs. Dominic Boesel (32-2-0)",
+        "Main Card: William Zepeda (24-0-0) vs. Rene Alvarado (32-11-0)"
       ]
     }
   },
@@ -59,20 +73,25 @@
     ],
     "mainCard": {
       "hidden": true,
-      "title": "Akhmadaliev vs. Rios",
+      "title": "Rodriguez vs. Rungvisai",
       "time": "2022-06-12T01:00:00Z"
     },
     "tapology": {
       "id": 88712,
-      "time": "2022-06-12T01:00:00Z",
-      "title": "Akhmadaliev vs. Rios",
+      "time": "2022-06-26T01:00:00Z",
+      "title": "Rodriguez vs. Rungvisai",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/88712-akhmadaliev-vs-rios",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Murodjon Akhmadaliev (10-0-0) vs. Ronny Rios (33-3-0)"
+        "Main Event: Jesse Rodriguez (15-0-0) vs. Srisaket Sor Rungvisai (50-5-1)",
+        "Main Card: Murodjon Akhmadaliev (10-0-0) vs. Ronny Rios (33-3-0)",
+        "Main Card: Julio Cesar Martinez (18-2-0) vs. McWilliams Arroyo (21-4-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/854069"
       ]
     }
   }

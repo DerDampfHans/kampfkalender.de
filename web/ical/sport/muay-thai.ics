@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220420T075513Z
-X-KAMPFKALENDER-HASH:607222cee7944b8d24dce2e36c456977d29d5eae
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:bb3b2ac91539f6e01ed2fa1f218a80f1a4977836
 BEGIN:VEVENT
-DTSTAMP:20220420T075515Z
+DTSTAMP:20220427T111008Z
 UID:2022-04-one-156-eersel-vs-sadikovic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 156: Eersel vs. Sadikovic
@@ -32,7 +32,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=vhAijSsYlac\n\n-
  ubba (7-5-0) vs. James Yang (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075515Z
+DTSTAMP:20220427T111008Z
 UID:2022-04-4-huckelhovener-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:4. Hückelhovener Fight Night
@@ -43,7 +43,27 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-4h
  uckelhovener-fight-night-446
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220420T075515Z
+DTSTAMP:20220427T111008Z
+UID:2022-05-one-petchmorakot-vs-vienot@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE: Petchmorakot vs. Vienot
+DTSTART:20220520T100000Z
+DTEND:20220520T130000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,ONE TV,live
+DESCRIPTION:via ONE TV\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/88823-one-championship-petchmorakot-vs-vienot\n\n---\n\nMain Event: 
+ P. Petchyindee vs. Jimmy Vienot\nCo-Main Event: Prajanchai PK Saenchai v
+ s. Joseph Lasiri\nMain Card: Panpayak Jitmuangnon vs. Josue Cruz\nMain C
+ ard: Elipitua Siregar (4-2-0) vs. Robin Catalan (9-7-0)\nMain Card: Asha
+  Roka (4-2-0) vs. Alyse Anderson (5-2-0)\nMain Card: Wondergirl Fairtex 
+ (0-0-0) vs. Zeba Bano (1-0-0)\nMain Card: Savvas Michael vs. Amir Naseri
+ \nMain Card: Superlek Kiatmoo9 vs. Taiki Naito\nMain Card: Rade Opačić v
+ s. Guto Inocente\nMain Card: Shinya Aoki vs. Kade Ruotolo\nMain Card: Ga
+ rry Tonon vs. Tye Ruotolo\nMain Card: Jonathan Haggerty vs. Walter Gonca
+ lves\nMain Card: Rodtang Jitmuangnon vs. Jacob Smith
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111008Z
 UID:2022-06-lion-fight-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 73

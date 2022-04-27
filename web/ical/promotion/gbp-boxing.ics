@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220422T071946Z
-X-KAMPFKALENDER-HASH:eddc746c1676f93f57b053e9ddb0b27bfa2f34f7
+DTSTAMP:20220427T111006Z
+X-KAMPFKALENDER-HASH:ff4ca72260e77f521b85aa0b119ff372bd677e08
 BEGIN:VEVENT
-DTSTAMP:20220422T071946Z
+DTSTAMP:20220427T111007Z
 UID:2022-04-diaz-jr-vs-gesta@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Diaz Jr. vs. Gesta
@@ -20,5 +20,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  zalez vs. Jairo Lopez\nMain Card: Manuel Flores vs. Victor Ruiz\nMain Ca
  rd: Jan Salvatierra vs. Ernie Marquez\nMain Card: Jorge Chavez vs. Jonat
  han Tejeda
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220427T111007Z
+UID:2022-05-acosta-vs-rivera@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Acosta vs. Rivera
+DTSTART:20220513T000000Z
+DTEND:20220513T030000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/88552-acosta-vs-rivera\n\n---\n\nMain Event: Angel Acosta (22-3-0) vs.
+  Janiel Rivera (18-8-3)\nCo-Main Event: Victor Morales Jr (15-0-1) vs. A
+ lberto Torres (11-4-3)\nMain Card: Rudy Garcia (12-0-1) vs. Diuhl Olguin
+  (15-22-5)
 END:VEVENT
 END:VCALENDAR
