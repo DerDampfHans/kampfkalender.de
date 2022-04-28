@@ -14,8 +14,8 @@
     ],
     "mainCard": {
       "title": "We Love MMA 57",
-      "time": "2022-04-30T21:10:00Z",
-      "until": "2022-04-30T23:05:00Z",
+      "time": "2022-04-30T22:05:00Z",
+      "until": "2022-05-01T02:00:00Z",
       "broadcasters": {
         "BILD_TV": {
           "free": true
@@ -268,6 +268,37 @@
       "city": "München",
       "location": "Kleine Olympiahalle",
       "url": "https://www.welovemma.de/we-love-mma-64/"
+    }
+  },
+  {
+    "id": "wlmma-2023-05-06",
+    "promotion": "WLMMA_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Hannover",
+      "#WLMMA66"
+    ],
+    "links": [
+      "https://www.welovemma.de/we-love-mma-66/"
+    ],
+    "mainCard": {
+      "title": "We Love MMA 66",
+      "time": "2023-05-06T17:00:00Z",
+      "broadcasters": {
+        "BILD_TV": {
+          "free": true
+        }
+      }
+    },
+    "weLoveMma": {
+      "id": "we-love-mma-66",
+      "time": "2023-05-06T17:00:00Z",
+      "title": "WE LOVE MMA 66",
+      "city": "Hannover",
+      "location": "SWISS LIFE HALL",
+      "url": "https://www.welovemma.de/we-love-mma-66/"
     }
   }
 ]

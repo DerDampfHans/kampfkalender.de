@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220417T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220428T113631Z
+X-KAMPFKALENDER-HASH:8bc6d8202afc646b832daeba558c50e7b9702666
+BEGIN:VEVENT
+DTSTAMP:20220428T113632Z
+UID:2022-05-titan-fc-76@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Titan FC 76
+DTSTART:20220507T000000Z
+DTEND:20220507T030000Z
+CATEGORIES:TFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88852-titan-fc-76\n\n---\n\nMain Event: Luis Pena (9-3-0) vs
+ . Zach Zane (15-11-0)\nMain Card: Richie Lewis (2-0-0) vs. Kelvin Bowen 
+ (1-0-1)\nMain Card: Richard Mayol (0-0-0) vs. Daniel Morrison (0-0-0)\nM
+ ain Card: Asa Ten Pow (1-0-0) vs. Sean Mora (2-0-0)
+END:VEVENT
 END:VCALENDAR

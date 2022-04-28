@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220427T111006Z
-X-KAMPFKALENDER-HASH:ff4ca72260e77f521b85aa0b119ff372bd677e08
+DTSTAMP:20220428T113631Z
+X-KAMPFKALENDER-HASH:81a1e8cdd44e6f14cb5d67bee42d83fa49f3fc5a
 BEGIN:VEVENT
-DTSTAMP:20220427T111007Z
+DTSTAMP:20220428T113631Z
 UID:2022-04-diaz-jr-vs-gesta@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Diaz Jr. vs. Gesta
@@ -22,7 +22,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  han Tejeda
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111007Z
+DTSTAMP:20220428T113631Z
 UID:2022-05-acosta-vs-rivera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Acosta vs. Rivera
@@ -34,5 +34,18 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Janiel Rivera (18-8-3)\nCo-Main Event: Victor Morales Jr (15-0-1) vs. A
  lberto Torres (11-4-3)\nMain Card: Rudy Garcia (12-0-1) vs. Diuhl Olguin
   (15-22-5)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T113631Z
+UID:2022-05-zurdo-vs-boesel@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zurdo vs. Boesel
+DTSTART:20220515T000000Z
+DTEND:20220515T030000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/88731-zurdo-vs-boesel\n\n---\n\nMain Event: Zurdo Ramirez (43-0-0) vs.
+  Dominic Boesel (32-2-0)\nMain Card: William Zepeda (24-0-0) vs. Rene Al
+ varado (32-11-0)
 END:VEVENT
 END:VCALENDAR

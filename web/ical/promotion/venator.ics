@@ -4,6 +4,25 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220428T113631Z
+X-KAMPFKALENDER-HASH:d182d1501c33225be597e7619e8ec98fd174e828
+BEGIN:VEVENT
+DTSTAMP:20220428T113632Z
+UID:2022-05-venator-fc-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Venator FC 11
+DTSTART:20220514T140000Z
+DTEND:20220514T170000Z
+CATEGORIES:Venator,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87579-venator-fc-11\n\n---\n\nMain Event: Michelangelo Colan
+ gelo (9-2-0) vs. Stefano Paternò (13-4-1)\nMain Card: Serghei Popa (7-4-
+ 0) vs. Andrea Myrto (2-2-0)\nMain Card: Gianni Massafra (1-0-0) vs. Fran
+ cesco Mazzeo (1-0-0)\nMain Card: Giacomo Santoro (6-1-0) vs. Aaron Robin
+ son (4-3-0)\nMain Card: Pasquale Dromì (1-0-0) vs. Michele Verini (0-0-0
+ )\nMain Card: Alberto Ponzio (3-0-1) vs. Vincenzo Orefice (2-0-0)\nMain 
+ Card: Manolo Zecchini (9-3-0) vs. Souk Khampasath (12-12-1)\nMain Card: 
+ Andrei Oniscenco (0-0-0) vs. Francesco Maione (0-3-0)\nMain Card: Diego 
+ Pallavicini (1-4-0) vs. David Lopez (0-0-0)
+END:VEVENT
 END:VCALENDAR

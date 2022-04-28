@@ -10,10 +10,15 @@
     ],
     "mainCard": {
       "title": "Fight Club Rush 12",
-      "time": "2022-05-07T04:00:00Z",
+      "time": "2022-05-07T16:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 216764,
+        "time": "2022-05-07T16:00:00Z",
+        "title": "Fight Club Rush 12"
       }
     },
     "tapology": {
@@ -36,6 +41,29 @@
         "Main Card: Anton Hellström (0-1-0) vs. Martin Corney (1-0-0)",
         "Main Card: Josefine Modig (5-2-0) vs. Janika Antinmaa (8-5-0)"
       ]
+    }
+  },
+  {
+    "id": "fightpass-216779",
+    "promotion": "FCR",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#FCR13"
+    ],
+    "mainCard": {
+      "title": "Fight Club Rush 13",
+      "time": "2022-05-28T16:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 216779,
+        "time": "2022-05-28T16:00:00Z",
+        "title": "Fight Club Rush 13"
+      }
     }
   }
 ]

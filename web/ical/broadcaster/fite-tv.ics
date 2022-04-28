@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220427T111006Z
-X-KAMPFKALENDER-HASH:3c5ceda6976a046481b4c33b0f24bb4e24e4dca2
+DTSTAMP:20220428T113631Z
+X-KAMPFKALENDER-HASH:beb4f9714b674f8f18d2505d749979fb1cd5cce1
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-04-bkfc-fort-lauderdale-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fort Lauderdale: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-fort-lauderdal
   vs. Gorjan Slaveski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-04-bkfc-fort-lauderdale@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fort Lauderdale
@@ -49,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-fort-lauderdal
  jan Slaveski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-04-aka-20-zelner-vs-thibodeaux@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 20: Zelner vs. Thibodeaux
@@ -59,7 +59,7 @@ CATEGORIES:AKA,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-20/2pb4j/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-05-bkfc-24-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 24: Prelims
@@ -77,7 +77,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-24-prelims/2pb6s/
  iss
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-05-bkfc-24-hunt-vs-riggs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 24: Hunt vs. Riggs
@@ -94,7 +94,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-24/2pb6r/\n\n---\
  well vs. James Dennis\nMain Card: Darrick Gates vs. Anthony Curtiss
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
+UID:2022-05-valdez-vs-stevenson@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Valdez vs. Stevenson
+DTSTART:20220501T010000Z
+DTEND:20220501T040000Z
+CATEGORIES:TR,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-valdez-vs-ste
+ venson/2pb7u/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/8605
+ 5-valdez-vs-stevenson\nhttp://www.boxrec.com/en/event/849161\n\n---\n\nM
+ ain Event: Oscar Valdez (30-0-0) vs. Shakur Stevenson (17-0-0)\nMain Car
+ d: Esteban Sanchez (18-1-0) vs. Keyshawn Davis (4-0-0)\nMain Card: Nico 
+ Ali Walsh (0-0-0) vs. Alejandro Ibarra (7-1-0)\nMain Card: Andres Cortes
+  (16-0-0) vs. Alexis Del Bosque (18-5-1)\nMain Card: Raymond Muratalla (
+ 13-0-0) vs. Jeremy Hill (16-2-0)\nMain Card: Abdullah Mason (0-0-0) vs. 
+ Luciano Ramos (1-2-0)\nMain Card: Charlie Sheehy (0-0-0) vs. Burnell Jen
+ kins (0-0-0)\nMain Card: Antoine Cobb (0-0-0) vs. Jaylan Phillips (0-0-0
+ )\nMain Card: Troy Isley (4-0-0) vs. Anthony Hannah (3-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T113632Z
 UID:2022-05-bkfc-25-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 25: Prelims
@@ -105,7 +125,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-25-prelims/2pb7x/
  \n\n---\n\nhttps://www.tapology.com/fightcenter/events/88008-bkfc-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-05-bkfc-25-adams-vs-cleckler@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 25: Adams vs. Cleckler
@@ -116,7 +136,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-25/2pb7w/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/88008-bkfc-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-05-bkfc-thailand-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 2
@@ -134,7 +154,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  klang\nMain Card: U. Thawilsuhannawang vs. Benjamat Phakra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-05-bkfc-omaha@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Omaha
@@ -145,7 +165,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/88010-bkfc-fight-night-omaha
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-05-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kovalev vs. Pulev
@@ -162,7 +182,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trillerverz-v/2pb08/\n
  je Ramseur (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-06-lion-fight-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 73
@@ -172,7 +192,7 @@ CATEGORIES:LFP,Muay Thai,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-73/2pb66/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T111008Z
+DTSTAMP:20220428T113632Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

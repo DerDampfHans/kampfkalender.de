@@ -45,10 +45,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#ZurdoBoesel"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Zurdo vs. Boesel",
-      "time": "2022-05-15T01:00:00Z"
+      "time": "2022-05-15T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "105t83ltkcrog1jlr1zdez0sq3",
+        "time": "2022-05-15T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Zurdo vs Boesel"
+      }
     },
     "tapology": {
       "id": 88731,

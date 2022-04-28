@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220427T111006Z
-X-KAMPFKALENDER-HASH:65d373a47929751708eb656e25b3699f75b42da1
+DTSTAMP:20220428T113631Z
+X-KAMPFKALENDER-HASH:438c3cab7df8fdcd149d5c29897cf1909ff73647
 BEGIN:VEVENT
-DTSTAMP:20220427T111007Z
+DTSTAMP:20220428T113631Z
 UID:2022-05-fight-club-rush-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Club Rush 12
-DTSTART:20220507T040000Z
-DTEND:20220507T070000Z
+DTSTART:20220507T160000Z
+DTEND:20220507T190000Z
 CATEGORIES:FCR,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/87417-fight-club-rush-12\n\n---\n\nMain Event: Alexander Löö
@@ -23,5 +23,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  eini (1-0-0)\nMain Card: Glenn McVeigh (1-2-1) vs. Sakhi Qambari (0-0-0)
  \nMain Card: Anton Hellström (0-1-0) vs. Martin Corney (1-0-0)\nMain Car
  d: Josefine Modig (5-2-0) vs. Janika Antinmaa (8-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T113631Z
+UID:2022-05-fight-club-rush-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fight Club Rush 13
+DTSTART:20220528T160000Z
+DTEND:20220528T190000Z
+CATEGORIES:FCR,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR
