@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220426T064411Z
-X-KAMPFKALENDER-HASH:cfd9bcf78288bf8abb5f104b576b6405fa03a0d4
+DTSTAMP:20220428T055730Z
+X-KAMPFKALENDER-HASH:f8f42b09f1c34c62c17ab2ff3d15b298da6d49d5
 BEGIN:VEVENT
-DTSTAMP:20220426T064411Z
+DTSTAMP:20220428T055730Z
 UID:2022-04-schlagwort-spezial-saba-bolaghi-patrick-vespaziani@kampfkalen
  der.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZCgWNTLGPuM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220426T064411Z
+DTSTAMP:20220428T055730Z
 UID:2022-04-ufc-fight-night-lemos-vs-andrade-erste-standing-arm-triangle-
  ever@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=8IowakII8fI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220426T064411Z
+DTSTAMP:20220428T055730Z
 UID:2022-04-tyson-fury-mit-grandiosem-ko-sieg-in-wembley-ufc-vegas-52-bel
  lator-ruckblick@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -40,5 +40,17 @@ DTSTART:20220426T150000Z
 DTEND:20220426T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GqMThioRyJo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220428T055730Z
+UID:2022-04-mma-news-ufc-in-paris-mike-tyson-schlagt-fan-meinung-zu-chima
+ ev-kadyrov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MMA News: UFC in Paris / Mike Tyson schlägt \"Fan\" / Meinung zu 
+ Chimaev & Kadyrov
+DTSTART:20220428T150000Z
+DTEND:20220428T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=hxCpge42yJw
 END:VEVENT
 END:VCALENDAR
