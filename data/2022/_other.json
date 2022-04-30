@@ -1085,5 +1085,170 @@
         "http://www.boxrec.com/en/event/849663"
       ]
     }
+  },
+  {
+    "id": "maximus-2022-04-30",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Stuttgart",
+      "#Ebersbach"
+    ],
+    "mainCard": {
+      "title": "Maximus Fight Night",
+      "time": "2022-04-30T16:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=ALMSjaPzf-Q"
+        },
+        "FIGHT24_TV": {
+          "freeAfter": 48
+        },
+        "SPORT1_EXTRA": {
+        }
+      },
+      "youTube": {
+        "id": "ALMSjaPzf-Q",
+        "time": "2022-04-30T16:00:00Z",
+        "title": "Live: Maximus Fight Night | Kickboxen | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=ALMSjaPzf-Q",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "fightEvents": {
+      "id": "maximus-fight-night",
+      "time": "2022-04-30T15:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "title": "Maximus Fight Night",
+      "url": "https://www.fightevents.de/event/maximus-fight-night/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Charlotte Glaser",
+        "Ebersbach an der Fils",
+        "Fight Night",
+        "Fight24.tv",
+        "Fighting",
+        "Isabella Ratti",
+        "Johannes Kurz",
+        "K1",
+        "Kickboxen",
+        "Maximus Fight Night",
+        "Rosario Falsone",
+        "Sergej Hauzel",
+        "Yanis Rauch"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "predators-2022-04-30",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Auerbach"
+    ],
+    "mainCard": {
+      "title": "Predators FC",
+      "time": "2022-04-30T16:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-predators-fc-454",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "night-of-the-predators",
+      "time": "2022-04-30T16:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "title": "Night of the Predators",
+      "url": "https://www.fightevents.de/event/night-of-the-predators/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-predators-fc-454",
+      "tags": [
+        "Auerbach",
+        "Daniel Jäger",
+        "Deborah Melhorn",
+        "Fight24.tv",
+        "K1",
+        "Kickboxen",
+        "Leon Schrock",
+        "Marcel Martinez",
+        "Marian Scheidegger",
+        "Night of the Predators",
+        "Vincent Ludwig"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "super-cup-kickboxing-2022-04-30",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Erzhausen",
+      "#Tournament"
+    ],
+    "mainCard": {
+      "title": "Super Cup Kickboxing 2022",
+      "time": "2022-04-30T16:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-supercup-kickboxing-2022-453",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "super-cup-kickboxing-2",
+      "time": "2022-04-30T16:00:00Z",
+      "until": "2022-04-30T21:00:00Z",
+      "title": "Super Cup Kickboxing 2",
+      "url": "https://www.fightevents.de/event/super-cup-kickboxing-2/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Fight24.tv",
+        "Jason Wilnis",
+        "K1",
+        "Kickboxen",
+        "Sergej Braun",
+        "Super Cup Kickboxing",
+        "Super Cup Kickboxing 2",
+        "Weiterstaddt"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
   }
 ]
