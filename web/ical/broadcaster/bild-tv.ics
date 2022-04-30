@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220428T113631Z
-X-KAMPFKALENDER-HASH:5f238742355e96bbfe2c8dad91a4f94589eab869
+DTSTAMP:20220430T150034Z
+X-KAMPFKALENDER-HASH:f47cb8623cc0ebe3e46c085de1e35c06f5673336
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-04-ksw-69-przybysz-vs-martins@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 69: Przybysz vs. Martins
@@ -27,7 +27,7 @@ DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
  : Wojciech Kazieczko (1-0-0) vs. Luboš Lesák (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-04-fury-vs-whyte@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury vs. Whyte
@@ -45,11 +45,11 @@ DESCRIPTION:via Bild TV\nvia Bild+\n\n---\n\nhttps://www.tapology.com/fig
  0-0)\nMain Card: Ekow Essuman (16-0-0) vs. Darren Tetley (21-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-04-we-love-mma-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 57
-DTSTART:20220430T220500Z
+DTSTART:20220430T211500Z
 DTEND:20220501T020000Z
 CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-59
@@ -59,7 +59,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-59
   Card: Soren Dubielzig (0-0-0) vs. Andrei Zugrav (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-05-hammer-vs-davidova@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hammer vs. Davidova
@@ -68,11 +68,13 @@ DTEND:20220507T210000Z
 CATEGORIES:WB,Boxen,Bild TV,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ellum-gala-radovan-hammer-30-april\nhttps://www.tapology.com/fightcenter
- /events/88509-radovan-vs-bevilacqua\n\n---\n\nMain Card: Denis Radovan (
- 15-0-1) vs. Vincenzo Bevilacqua (18-1-0)
+ /events/88509-radovan-vs-bevilacqua\n\n---\n\nMain Event: Denis Radovan 
+ (15-0-1) vs. Rafael Bejaran (30-6-1)\nMain Card: Sophie Alisch (7-0-0) v
+ s. Eva Cantos (0-0-0)\nMain Card: Oliver Zaren (6-0-0) vs. Novak Radulov
+ ić (13-7-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-05-radovan-vs-bejaran@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Radovan vs. Bejaran
@@ -81,11 +83,13 @@ DTEND:20220507T220500Z
 CATEGORIES:WB,Boxen,Bild TV,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ellum-gala-radovan-hammer-30-april\nhttps://www.tapology.com/fightcenter
- /events/88509-radovan-vs-bevilacqua\n\n---\n\nMain Card: Denis Radovan (
- 15-0-1) vs. Vincenzo Bevilacqua (18-1-0)
+ /events/88509-radovan-vs-bevilacqua\n\n---\n\nMain Event: Denis Radovan 
+ (15-0-1) vs. Rafael Bejaran (30-6-1)\nMain Card: Sophie Alisch (7-0-0) v
+ s. Eva Cantos (0-0-0)\nMain Card: Oliver Zaren (6-0-0) vs. Novak Radulov
+ ić (13-7-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-05-we-love-mma-58@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 58
@@ -96,7 +100,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  /\nhttps://www.tapology.com/fightcenter/events/88648-we-love-mma-58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-05-ksw-70-pudzian-vs-materla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 70: Pudzian vs. Materla
@@ -107,10 +111,11 @@ DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
  /fightcenter/events/87780-ksw-70\n\n---\n\nMain Event: Mariusz Pudzianow
  ski (16-7-0) vs. Michał Materla (31-8-0)\nMain Card: Rafał Kijańczuk (11
  -4-0) vs. Ivan Erslan (11-1-0)\nMain Card: Albert Odzimkowski (11-6-0) v
- s. Tommy Quinn (9-5-0)
+ s. Tommy Quinn (9-5-0)\nMain Card: Radosław Paczuski (3-0-0) vs. Jason W
+ ilnis (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -121,7 +126,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -132,7 +137,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -143,7 +148,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -154,7 +159,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -165,7 +170,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -176,7 +181,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113632Z
+DTSTAMP:20220430T150035Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
