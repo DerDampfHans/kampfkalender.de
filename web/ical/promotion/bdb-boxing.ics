@@ -4,6 +4,26 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220502T110110Z
+X-KAMPFKALENDER-HASH:f869c1135c0271010495acce25c7af417e57bcb2
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
+UID:2022-05-box-nacht-landau@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Box Nacht Landau
+DTSTART:20220507T160000Z
+DTEND:20220507T210000Z
+CATEGORIES:BDB,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/fig
+ ht-night-landau/\nhttps://www.tapology.com/fightcenter/events/89000-box-
+ nacht-landau\nhttp://www.boxrec.com/en/event/849563\n\n---\n\nMain Event
+ : Diyab Simon Dabschah (18-0-0) vs. Ibrahim Yildirim (8-0-0)\nMain Card:
+  Antonio Hoffmann (23-2-0) vs. Yeison Gonzalez (15-6-0)\nMain Card: Fati
+ h Altunkaya (25-0-0) vs. Deniz Altz (0-0-0)\nMain Card: Ibrahima Diallo 
+ (9-0-0) vs. Andreas Masold (0-0-0)\nMain Card: Arber Bellegu (9-0-0) vs.
+  Robin Hardwick (0-0-0)\nMain Card: Jakob Winter (5-2-0) vs. Tim Pham (7
+ -1-1)\nMain Card: Hamza Salahudin (0-0-0) vs. Ismael Altintas (4-32-4)\n
+ Main Card: Mario Obenauer (1-21-0) vs. Yasir Ahmed Malik (0-0-0)\nMain C
+ ard: Dennis Juergen (0-0-0) vs. Yves Barz (3-0-0)
+END:VEVENT
 END:VCALENDAR

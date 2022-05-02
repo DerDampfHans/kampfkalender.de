@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220501T220304Z
-X-KAMPFKALENDER-HASH:f344d30889c0cb77a24aaebe5f53ca2f411a7b4e
+DTSTAMP:20220502T110110Z
+X-KAMPFKALENDER-HASH:0518d804d5f54f9923e45c895d507db1666e6e7f
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-04-predators-fc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Predators FC
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  redators/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-04-taylor-vs-serrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano
@@ -37,7 +37,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  (3-1-0)\nPrelim: Khalil Coe (2-0-1) vs. William Langston (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-valdez-vs-stevenson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Valdez vs. Stevenson
@@ -56,7 +56,51 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-valdez-vs-ste
  0)\nPrelim: Troy Isley (4-0-0) vs. Anthony Hannah (3-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
+UID:2022-05-box-nacht-landau@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Box Nacht Landau
+DTSTART:20220507T160000Z
+DTEND:20220507T210000Z
+CATEGORIES:BDB,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/fig
+ ht-night-landau/\nhttps://www.tapology.com/fightcenter/events/89000-box-
+ nacht-landau\nhttp://www.boxrec.com/en/event/849563\n\n---\n\nMain Event
+ : Diyab Simon Dabschah (18-0-0) vs. Ibrahim Yildirim (8-0-0)\nMain Card:
+  Antonio Hoffmann (23-2-0) vs. Yeison Gonzalez (15-6-0)\nMain Card: Fati
+ h Altunkaya (25-0-0) vs. Deniz Altz (0-0-0)\nMain Card: Ibrahima Diallo 
+ (9-0-0) vs. Andreas Masold (0-0-0)\nMain Card: Arber Bellegu (9-0-0) vs.
+  Robin Hardwick (0-0-0)\nMain Card: Jakob Winter (5-2-0) vs. Tim Pham (7
+ -1-1)\nMain Card: Hamza Salahudin (0-0-0) vs. Ismael Altintas (4-32-4)\n
+ Main Card: Mario Obenauer (1-21-0) vs. Yasir Ahmed Malik (0-0-0)\nMain C
+ ard: Dennis Juergen (0-0-0) vs. Yves Barz (3-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
+UID:2022-05-gladiator-fight-night-4-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiator Fight Night 4: Prelims
+DTSTART:20220507T160000Z
+DTEND:20220507T200000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
+ nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/gladiator-fig
+ ht-night-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
+UID:2022-05-gladiator-fight-night-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiator Fight Night 4
+DTSTART:20220507T200000Z
+DTEND:20220507T220000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
+ nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/e
+ vent/gladiator-fight-night-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
 UID:2022-05-hammer-vs-davidova@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hammer vs. Davidova
@@ -71,7 +115,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ić (13-7-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-radovan-vs-bejaran@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Radovan vs. Bejaran
@@ -86,7 +130,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ić (13-7-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-canelo-vs-bivol@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. Bivol
@@ -106,7 +150,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  : Fernando Molina (7-0-0) vs. Ricardo Valdovinos (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-acosta-vs-rivera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Acosta vs. Rivera
@@ -120,7 +164,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (15-22-5)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
@@ -130,7 +174,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-scardina-vs-de-carolis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Scardina vs. De Carolis
@@ -144,7 +188,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  in Card: Vincenzo La Femina (10-0-0) vs. Matteo Lecca (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-boxen-live-mit-adam-deines-romas-fress@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxen Live mit Adam Deines & Romas Fress
@@ -159,7 +203,7 @@ DESCRIPTION:via MDR\n\n---\n\nhttps://www.mdr.de/sport/boxen/boxen-zwei-t
  : Tom Dzemski (18-1-0) vs. Tomáš Adámek (29-20-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kovalev vs. Pulev
@@ -176,7 +220,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trillerverz-v/2pb08/\n
  je Ramseur (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-zurdo-vs-boesel@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zurdo vs. Boesel
@@ -189,7 +233,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  varado (32-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-lejarraga-vs-metcalf@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lejarraga vs. Metcalf
@@ -204,7 +248,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  iain (7-0-0) vs. Rikar Urrutia (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-buatsi-vs-richards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Buatsi vs. Richards
@@ -220,7 +264,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -233,7 +277,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  nMain Card: Jorge Castaneda (15-1-0) vs. Eduardo Hernandez (31-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220306Z
+DTSTAMP:20220502T110110Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai

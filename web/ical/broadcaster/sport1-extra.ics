@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220430T190040Z
-X-KAMPFKALENDER-HASH:eb9f8e08ebf4c867a01d36015bb6f2cfb7f7a6d1
+DTSTAMP:20220502T110110Z
+X-KAMPFKALENDER-HASH:5741561b4253c2442bd4dd026ab704fbfae87cca
 BEGIN:VEVENT
-DTSTAMP:20220430T190041Z
+DTSTAMP:20220502T110110Z
 UID:2022-04-maximus-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Maximus Fight Night
@@ -17,5 +17,17 @@ CATEGORIES:Other,Kickboxen,fighting.de,fight24.tv,SPORT1 Extra,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=ALMSjaPzf-Q\
  nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/e
  vent/maximus-fight-night/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
+UID:2022-05-gladiator-fight-night-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiator Fight Night 4
+DTSTART:20220507T200000Z
+DTEND:20220507T220000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
+ nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/e
+ vent/gladiator-fight-night-4/
 END:VEVENT
 END:VCALENDAR

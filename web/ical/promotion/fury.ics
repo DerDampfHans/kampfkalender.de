@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220501T220304Z
-X-KAMPFKALENDER-HASH:b88d196e4a2e5000f7fa6523be31c36ed869e3a0
+DTSTAMP:20220502T110110Z
+X-KAMPFKALENDER-HASH:f88ac769b6bd33ddb3f978cbd40f32542c51d540
 BEGIN:VEVENT
-DTSTAMP:20220501T220305Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-fury-fc-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 61
@@ -32,7 +32,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  elim: Enrique Lara Bas (0-0-0) vs. Emmanuel Garcia (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220305Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-fury-fc-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 62
@@ -53,12 +53,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (2-1-0)\nMain Card: Marquel Mederos (2-1-0) vs. Ben Lugo (5-5-0)\nMain C
  ard: Aryion Young (1-1-0) vs. Kaleo Meheula (1-1-0)\nMain Card: Jessie S
  talder (1-0-0) vs. Lajuan Davis (3-0-0)\nMain Card: Cody Sheronick (0-1-
- 0) vs. Jose Evans (2-0-0)\nPrelim: Dey McIntosh (1-0-0) vs. Tiga Lundin 
- (0-0-0)\nPrelim: Jonathan Karl (0-0-0) vs. A. Karma Navarro Farias (1-0-
- 0)
+ 0) vs. Jose Evans (2-0-0)\nPrelim: Jonathan Geiger (0-0-0) vs. A. Karma 
+ Navarro Farias (0-0-0)\nPrelim: Dey McIntosh (1-0-0) vs. Tiga Lundin (0-
+ 0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220501T220305Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-fury-fc-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 63
@@ -83,5 +83,19 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Dallas Dodd (2-1-0)\nPrelim: Gabriela Quiroz (0-0-0) vs. Lundon Dib
  rell (0-0-1)\nPrelim: Michael Gore (0-0-0) vs. Lavonte Montgomery (1-0-0
  )\nPrelim: Kyle Petereit (0-1-0) vs. Ryan Perez (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
+UID:2022-06-fury-fc-64@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 64
+DTSTART:20220605T200000Z
+DTEND:20220605T230000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88994-fury-fc-64\nhttps://events.mixedmartialarts.com/fury-f
+ c-64:51d49fc5-0ec7-4fc4-9629-70015d65fc0f\n\n---\n\nMain Card: Jake Heff
+ ernan (8-3-0) vs. Josh Visel (6-3-0)\nMain Card: Paris Moran (6-1-0) vs.
+  Anthony Do (8-4-0)
 END:VEVENT
 END:VCALENDAR

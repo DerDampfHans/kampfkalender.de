@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220428T113631Z
-X-KAMPFKALENDER-HASH:ffca55bc1c39af3d3023e4bfc736193da744e049
+DTSTAMP:20220502T110110Z
+X-KAMPFKALENDER-HASH:b30ece14195a1acd91230911174d6b75d06342cb
 BEGIN:VEVENT
-DTSTAMP:20220428T113631Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-eternal-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 65
@@ -29,13 +29,20 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Jack Lipa (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220428T113631Z
+DTSTAMP:20220502T110110Z
 UID:2022-05-eternal-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 66
 DTSTART:20220528T100000Z
 DTEND:20220528T130000Z
 CATEGORIES:EMMA,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/88996-eternal-mma-66\n\n---\n\nMain Event: Jack Becker (10-2
+ -0) vs. Aidan Aguilera (8-5-0)\nMain Card: Toby Meech (3-2-0) vs. Nick T
+ hornton (1-2-0)\nMain Card: Harvinder Mohar (0-1-0) vs. Frank Jankowski 
+ (1-0-0)\nPrelim: Tristan O'Brien (0-0-0) vs. Moses Deng (1-1-0)\nPrelim:
+  Liam Hoskin (1-3-0) vs. Ryan Jankowski (1-2-0)\nPrelim: Jasmine Nikora 
+ (0-0-0) vs. Robyn O'Neill (0-0-0)\nPrelim: Laurence Whitesmith (3-0-0) v
+ s. Kaleb Steinnokel (3-2-0)
 END:VEVENT
 END:VCALENDAR

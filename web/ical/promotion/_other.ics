@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220430T220303Z
-X-KAMPFKALENDER-HASH:11b7741cf1aa21dd1b6554f84ddea3683eaafe8b
+DTSTAMP:20220502T110110Z
+X-KAMPFKALENDER-HASH:1029f21c714a9c0ffa52417fae84080262825a41
 BEGIN:VEVENT
-DTSTAMP:20220430T220304Z
+DTSTAMP:20220502T110110Z
 UID:2022-04-maximus-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Maximus Fight Night
@@ -19,7 +19,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=ALMSjaPzf-Q\
  vent/maximus-fight-night/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220430T220304Z
+DTSTAMP:20220502T110110Z
 UID:2022-04-predators-fc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Predators FC
@@ -31,7 +31,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  redators/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220430T220304Z
+DTSTAMP:20220502T110110Z
 UID:2022-04-super-cup-kickboxing-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2022
@@ -43,7 +43,31 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-su
  per-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220430T220304Z
+DTSTAMP:20220502T110110Z
+UID:2022-05-gladiator-fight-night-4-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiator Fight Night 4: Prelims
+DTSTART:20220507T160000Z
+DTEND:20220507T200000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
+ nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/gladiator-fig
+ ht-night-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
+UID:2022-05-gladiator-fight-night-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiator Fight Night 4
+DTSTART:20220507T200000Z
+DTEND:20220507T220000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
+ nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/e
+ vent/gladiator-fight-night-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T110110Z
 UID:2022-05-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
@@ -53,7 +77,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220430T220304Z
+DTSTAMP:20220502T110110Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands
