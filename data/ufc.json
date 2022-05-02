@@ -79,7 +79,15 @@
         "Prelim: Tracy Cortez (9-1-0) vs. Melissa Gatto (8-0-2)",
         "Prelim: Kleydson Rodrigues (7-1-0) vs. C.J. Vergara (9-3-1)",
         "Prelim: Lupita Godinez (7-2-0) vs. Ariane Carnelossi (14-2-0)",
-        "Prelim: Journey Newson (9-3-0) vs. Fernie Garcia (10-1-0)"
+        "Prelim: Journey Newson (9-3-0) vs. Fernie Garcia (10-1-0)",
+        "Prelim: Andre Fialho (15-4-0) vs. Cameron VanCamp (15-5-1)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-274-oliveira-vs-gaethje-91512",
+        "http://en.wikipedia.org/wiki/UFC_274",
+        "https://events.mixedmartialarts.com/ufc-274:27051dea-8e13-4e90-bcac-eee97d16f063",
+        "https://www.ufc.com/event/ufc-274",
+        "https://www.bestfightodds.com/events/ufc-2422"
       ]
     }
   },
@@ -146,7 +154,8 @@
         "Prelim: Virna Jandiroba (17-3-0) vs. Angela Hill (13-11-0)",
         "Prelim: Nick Maximov (8-0-0) vs. Andre Petroski (7-1-0)",
         "Prelim: Louis Smolka (17-8-0) vs. Davey Grant (11-6-0)",
-        "Prelim: Jake Hadley (8-0-0) vs. Allan Nascimento (18-6-0)"
+        "Prelim: Jake Hadley (8-0-0) vs. Allan Nascimento (18-6-0)",
+        "Prelim: Carlos Candelario (8-1-0) vs. Tatsuro Taira (10-0-0)"
       ]
     }
   },
@@ -375,13 +384,14 @@
     "tapology": {
       "id": 88108,
       "time": "2022-06-18T22:00:00Z",
-      "title": "UFC Fight Night",
+      "title": "UFC Fight Night: Kattar vs. Emmett",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/88108-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
+        "Main Event: Calvin Kattar (23-5-0) vs. Josh Emmett (17-2-0)",
         "Main Card: Julian Marquez (9-2-0) vs. Gregory Rodrigues (11-4-0)",
         "Main Card: Tim Means (32-12-1) vs. Kevin Holland (22-7-0)",
         "Prelim: Phil Hawes (11-3-0) vs. Deron Winn (7-2-0)",
@@ -620,7 +630,7 @@
     "tapology": {
       "id": 88711,
       "time": "2022-07-23T17:30:00Z",
-      "title": "UFC Fight Night",
+      "title": "UFC Fight Night: Blaydes vs. Aspinall",
       "titleAlt": "UFC Fight Night London",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/88711-ufc-fight-night",
@@ -628,6 +638,8 @@
         "MMA"
       ],
       "card": [
+        "Main Event: Curtis Blaydes (16-3-0) vs. Tom Aspinall (12-2-0)",
+        "Co-Main Event: Jack Hermansson (22-7-0) vs. Darren Till (18-4-1)",
         "Main Card: Muhammad Mokaev (6-0-0) vs. Charles Johnson (11-2-0)",
         "Main Card: Nikita Krylov (27-9-0) vs. Alexander Gustafsson (18-7-0)"
       ]
@@ -678,6 +690,51 @@
       "card": [
         "Main Card: Sean Strickland (25-3-0) vs. Alex Pereira (5-1-0)",
         "Main Card: Derrick Lewis (26-9-0) vs. Sergei Pavlovich (15-1-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-88967",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2022-09-03T16:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 88967,
+      "time": "2022-09-03T16:00:00Z",
+      "title": "UFC Fight Night",
+      "titleAlt": "UFC Fight Night Paris",
+      "info": "Rumored Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/88967-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Ciryl Gane (10-1-0) vs. Tai Tuivasa (15-3-0)"
       ]
     }
   },
