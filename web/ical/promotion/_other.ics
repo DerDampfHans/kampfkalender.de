@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220502T110110Z
-X-KAMPFKALENDER-HASH:1029f21c714a9c0ffa52417fae84080262825a41
+DTSTAMP:20220504T092225Z
+X-KAMPFKALENDER-HASH:edaf99779e09dc31eabc443e753441a26d5e419a
 BEGIN:VEVENT
-DTSTAMP:20220502T110110Z
+DTSTAMP:20220504T092225Z
 UID:2022-04-maximus-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Maximus Fight Night
@@ -19,7 +19,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=ALMSjaPzf-Q\
  vent/maximus-fight-night/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T110110Z
+DTSTAMP:20220504T092225Z
 UID:2022-04-predators-fc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Predators FC
@@ -31,7 +31,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  redators/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T110110Z
+DTSTAMP:20220504T092225Z
 UID:2022-04-super-cup-kickboxing-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2022
@@ -43,7 +43,36 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-su
  per-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T110110Z
+DTSTAMP:20220504T092225Z
+UID:2022-05-acosta-vs-garcia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Acosta vs. Garcia
+DTSTART:20220506T003000Z
+DTEND:20220506T033000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/88316-cinco-de-mayo\nhttp://www.boxrec.com/en/event/852670\n\n---\n\nM
+ ain Event: Bryan Acosta (16-0-0) vs. Benito Garcia (14-5-1)\nMain Card: 
+ Lee Reeves (7-1-0) vs. S. Maldonado (0-0-0)\nMain Card: Nick Asberry (10
+ -2-0) vs. Jesus Angel Nerio (15-10-1)\nMain Card: Ross Mylet (7-1-0) vs.
+  Luis Francisco Vara (0-0-0)\nMain Card: Nick Fantauzzi (11-0-0) vs. J. 
+ Perez (8-11-0)\nMain Card: Steven Wilcox (21-3-1) vs. Miguel Angel Marti
+ nez (15-4-1)\nMain Card: Diego Paredes Medina (0-0-0) vs. Mohamed Zawadi
+  (2-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220504T092225Z
+UID:2022-05-kingdom-of-sports@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Kingdom of Sports
+DTSTART:20220507T150000Z
+DTEND:20220507T180000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ki
+ ngdom-of-sports-457
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220504T092225Z
 UID:2022-05-gladiator-fight-night-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiator Fight Night 4: Prelims
@@ -55,7 +84,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
  ht-night-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T110110Z
+DTSTAMP:20220504T092225Z
 UID:2022-05-gladiator-fight-night-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiator Fight Night 4
@@ -67,7 +96,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
  vent/gladiator-fight-night-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T110110Z
+DTSTAMP:20220504T092225Z
 UID:2022-05-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
@@ -77,7 +106,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T110110Z
+DTSTAMP:20220504T092225Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

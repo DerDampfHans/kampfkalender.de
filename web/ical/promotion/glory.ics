@@ -4,10 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220422T071946Z
-X-KAMPFKALENDER-HASH:babe06bef4a790eaa5a39872fea16132256b4b7a
+DTSTAMP:20220504T092225Z
+X-KAMPFKALENDER-HASH:601d0ff03d0525e51d15c6e98112b87f80a6140d
 BEGIN:VEVENT
-DTSTAMP:20220422T071946Z
+DTSTAMP:20220504T092225Z
+UID:2022-05-glory-80-studio@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 80 Studio
+DTSTART:20220514T130000Z
+DTEND:20220514T160000Z
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/89055-glory-80-studio\n\n---\n\nMain Event: Tyjani Beztati vs. Jos
+ h Jauncey\nCo-Main Event: Antonio Plazibat vs. Tarik Khbabez\nMain Card:
+  Kevin Tariq Osaro vs. Rhys Brudenell
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220504T092225Z
 UID:2022-05-glory-rivals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 1
@@ -19,5 +32,22 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  y Semeleer\nMain Card: Luis Tavares vs. Horace Martin\nMain Card: Ertugr
  ul Bayrak vs. Anis Bouzid\nMain Card: Sofiane Kaddouri vs. Deniz Demirka
  pu\nMain Card: Lionel Bady vs. Mohammad Ghaedibardeh
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220504T092225Z
+UID:2022-06-glory-rivals-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Rivals 2
+DTSTART:20220611T171500Z
+DTEND:20220611T201500Z
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/89058-glory-rivals-2\n\n---\n\nMain Event: Luis Tavares vs. Floren
+ t Kaouachi\nCo-Main Event: Ibrahim El Bouni vs. Clyde Brunswijk\nMain Ca
+ rd: Regilio van den Ent vs. Jos van Belzen\nMain Card: Nidal Bchiri vs. 
+ Muhammed Balli\nCo-Main Event: Serginio Kanters vs. Jay Overmeer\nPrelim
+ : Raymond Bonte vs. Steven van den Broek\nPrelim: Mischa Eradus vs. Jimm
+ y van Kuijeren\nPrelim: Yannick van Vliet vs. Mohammed Achmed\nPrelim: M
+ ohamed El Oualkadi vs. Rastiano Petronia
 END:VEVENT
 END:VCALENDAR
