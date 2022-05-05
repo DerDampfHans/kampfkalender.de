@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220504T091959Z
-X-KAMPFKALENDER-HASH:704afa42ba8bd3466caf700a3c822eb20c4824db
+DTSTAMP:20220505T073533Z
+X-KAMPFKALENDER-HASH:7ebafe2092a982376a58253603c065af43aa90c7
 BEGIN:VEVENT
-DTSTAMP:20220504T091959Z
+DTSTAMP:20220505T073533Z
 UID:2022-04-mma-news-ufc-in-paris-mike-tyson-schlagt-fan-meinung-zu-chima
  ev-kadyrov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=hxCpge42yJw
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T091959Z
+DTSTAMP:20220505T073533Z
 UID:2022-05-ufc-vegas-53-review-marlon-chito-vera-liefert-sein-meisterstu
  ck-ab@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -31,7 +31,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CIcKImWBH_8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T091959Z
+DTSTAMP:20220505T073533Z
 UID:2022-05-q-a-perspektive-von-deutschem-mma-was-kann-conor-mcgregor-noc
  h-rei-en-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -41,5 +41,16 @@ DTSTART:20220504T150000Z
 DTEND:20220504T163000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OcZceYqmaHc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T073533Z
+UID:2022-05-ufc-274-vorschau-mit-sebastian-hackl-und-florian-mandavid@kam
+ pfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 274 Vorschau mit Sebastian Hackl und Florian Mandavid
+DTSTART:20220505T150000Z
+DTEND:20220505T162000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3YFoU_sHqCc
 END:VEVENT
 END:VCALENDAR
