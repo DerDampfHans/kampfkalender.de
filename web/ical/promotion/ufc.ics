@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220504T092225Z
-X-KAMPFKALENDER-HASH:99fb2f6b666be35ef48cb20198c03e5e1e21e9b5
+DTSTAMP:20220505T010004Z
+X-KAMPFKALENDER-HASH:6d7e4d756813669d9a3c517ee684f6315ca5c59f
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-04-ufc-vegas-53-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 53: Prelims
@@ -33,7 +33,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ra (10-0-0) vs. Carlos Candelario (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-04-ufc-vegas-53-font-vs-vera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 53: Font vs. Vera
@@ -59,7 +59,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  atsuro Taira (10-0-0) vs. Carlos Candelario (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-vegas-53-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 53: Post-Fight Press Conference
@@ -69,7 +69,17 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4XzbfGvacNk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
+UID:2022-05-ufc-274-pre-fight-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 274: Pre-Fight Press Conference
+DTSTART:20220505T230000Z
+DTEND:20220506T000000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9Sl36zdb9co
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-274-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Early Prelims
@@ -97,7 +107,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-274-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Prelims
@@ -125,7 +135,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-274-oliveira-vs-gaethje@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Oliveira vs. Gaethje
@@ -153,7 +163,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ie Garcia (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-vegas-54-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 54: Prelims
@@ -173,7 +183,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  elim: Carlos Candelario (8-1-0) vs. Tatsuro Taira (10-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-vegas-54-b-achowicz-vs-rakic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 54: Błachowicz vs. Rakić
@@ -193,7 +203,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  8-6-0)\nPrelim: Carlos Candelario (8-1-0) vs. Tatsuro Taira (10-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-vegas-55-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 55: Prelims
@@ -213,7 +223,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-vegas-55-holm-vs-vieira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 55: Holm vs. Vieira
@@ -233,7 +243,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  a (15-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-ufc-vegas-56-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 56: Prelims
@@ -257,7 +267,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  y (22-7-0) vs. Johnny Munoz Jr. (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-ufc-vegas-56-volkov-vs-rozenstruik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 56: Volkov vs. Rozenstruik
@@ -281,7 +291,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ony Gravely (22-7-0) vs. Johnny Munoz Jr. (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka: Early Prelims
@@ -301,7 +311,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  gerel Danaa (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka: Prelims
@@ -321,7 +331,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  gerel Danaa (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka
@@ -341,7 +351,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0) vs. Batgerel Danaa (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -361,7 +371,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (21-10-0)\nPrelim: Joaquin Buckley (14-4-0) vs. Albert Duraev (15-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -381,7 +391,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-07-ufc-276@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276
@@ -399,7 +409,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Bryan Barberena (17-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-07-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -416,7 +426,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)\nPrelim: Caio Borralho (11-1-0) vs. Armen Petrosyan (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-07-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -431,7 +441,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-07-ufc-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London
@@ -446,7 +456,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  exander Gustafsson (18-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-07-ufc-277@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277
@@ -459,7 +469,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ev (17-1-0) vs. Anthony Smith (36-16-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-09-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -471,7 +481,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Gane (10-1-0) vs. Tai Tuivasa (15-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-10-ufc-281@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281

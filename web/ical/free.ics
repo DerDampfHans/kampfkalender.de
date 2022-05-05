@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220504T092225Z
-X-KAMPFKALENDER-HASH:106f3d448a108ebab11d6a594647a3e8c8db5f83
+DTSTAMP:20220505T010004Z
+X-KAMPFKALENDER-HASH:25ca35862abe3bebf7f8b5e58e5162e5f6edf9fa
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-04-brave-cf-58@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 58
@@ -27,7 +27,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=cLPegqjnTzM\
  im Kai Xiong (2-0-0) vs. Chang Ho Lee (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-04-we-love-mma-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 57
@@ -41,7 +41,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-59
   Card: Soren Dubielzig (0-0-0) vs. Andrei Zugrav (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-bkfc-24-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 24: Prelims
@@ -59,7 +59,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-24-prelims/2pb6s/
  n Tovey vs. JorDan Christensen\nPrelim: Dylan Schulte vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-ufc-vegas-53-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 53: Post-Fight Press Conference
@@ -69,7 +69,17 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4XzbfGvacNk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
+UID:2022-05-ufc-274-pre-fight-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 274: Pre-Fight Press Conference
+DTSTART:20220505T230000Z
+DTEND:20220506T000000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9Sl36zdb9co
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T010005Z
 UID:2022-05-bkfc-25-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 25: Prelims
@@ -87,7 +97,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-25-prelims/2pb7x/
  chen\nMain Card: Travis Floyd vs. Robert Armas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-hammer-vs-davidova@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hammer vs. Davidova
@@ -102,7 +112,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ić (13-7-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-radovan-vs-bejaran@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Radovan vs. Bejaran
@@ -117,7 +127,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ić (13-7-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-invicta-fc-47-ducote-vs-zappitella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 47: Ducote vs. Zappitella
@@ -134,7 +144,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  (2-0-0)\nMain Card: Jennifer Chieng (1-1-0) vs. Alyssa Linduska (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-boxen-live-mit-adam-deines-romas-fress@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxen Live mit Adam Deines & Romas Fress
@@ -150,7 +160,7 @@ DESCRIPTION:via MDR\n\n---\n\nhttps://www.mdr.de/sport/boxen/boxen-zwei-t
  s (15-0-0) vs. Armend Xhoxhaj (13-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-eagle-fc-48-dos-santos-vs-de-castro@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 48: Dos Santos vs. De Castro
@@ -165,7 +175,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  0-0) vs. Roosevelt Roberts (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-oktagon-underground-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON Underground: Prelims
@@ -175,7 +185,7 @@ CATEGORIES:Oktagon,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=HDr0uF9H-oA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-05-we-love-mma-58@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 58
@@ -186,7 +196,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  /\nhttps://www.tapology.com/fightcenter/events/88648-we-love-mma-58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -197,7 +207,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -208,7 +218,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -218,7 +228,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -229,7 +239,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -240,7 +250,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -251,7 +261,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -261,7 +271,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -272,7 +282,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -283,7 +293,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -294,7 +304,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -305,7 +315,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -316,7 +326,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -327,7 +337,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -338,7 +348,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -349,7 +359,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -360,7 +370,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T010005Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
