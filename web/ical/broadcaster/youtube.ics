@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220505T173005Z
-X-KAMPFKALENDER-HASH:03de27f83e4f86cdc783cdb824e5b6f9cf53b523
+DTSTAMP:20220505T233123Z
+X-KAMPFKALENDER-HASH:1f7dc35cf66126e7bf847b74f3c9ed39c996d0e0
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-ufc-vegas-53-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 53: Post-Fight Press Conference
@@ -17,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4XzbfGvacNk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-schlagwort-spezial-max-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Spezial: Max Coga
@@ -27,7 +27,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=v7SPhKP46Mg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-ufc-vegas-53-review-marlon-chito-vera-liefert-sein-meisterstu
  ck-ab@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -39,7 +39,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CIcKImWBH_8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-q-a-perspektive-von-deutschem-mma-was-kann-conor-mcgregor-noc
  h-rei-en-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -51,7 +51,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OcZceYqmaHc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-ufc-274-vorschau-mit-sebastian-hackl-und-florian-mandavid@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -62,7 +62,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3YFoU_sHqCc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-ufc-274-pre-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274: Pre-Fight Press Conference
@@ -72,7 +72,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9Sl36zdb9co
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-bellator-280-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Prelims
@@ -99,7 +99,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PhCk7CO6QbQ\n\n-
  Camara (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-bellator-280-bader-vs-kongo-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Bader vs. Kongo 2
@@ -126,17 +126,36 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GPw0OL8e9_c\n\n-
  Camara (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
+UID:2022-05-ksw-31-materla-vs-drwal@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 31: Materla vs. Drwal
+DTSTART:20220507T160000Z
+DTEND:20220507T190000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ui9zRpyweYg\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/29698-ksw-31\nhttp://w
+ ww.sherdog.com/events/ksw-31-materla-vs-drwal-44357\nhttps://events.mixe
+ dmartialarts.com/ksw-31:c0d7ccb6-5d96-44b8-8170-ab314e6694ee\n\n---\n\nM
+ ain Event: Michał Materla vs. Tomasz Drwal\nCo-Main Event: Mariusz Pudzi
+ anowski vs. Rolles Gracie\nMain Card: Karol Bedorf vs. Peter Graham\nMai
+ n Card: Goran Reljić vs. Attila Végh\nMain Card: Kamil Szymuszowski vs. 
+ Maciej Jewtuszko\nMain Card: Aziz Karaoglu vs. Jay Silva\nMain Card: Tom
+ asz Narkun vs. Karol Celiński\nPrelim: Grzegorz Szulakowski vs. Patryk G
+ rudniewski\nPrelim: Jędrzej Maćkowiak vs. Marcin Gułaś
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T233124Z
 UID:2022-05-schlagwort-podcast-159@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 159
 DTSTART:20220508T160000Z
 DTEND:20220508T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=uqj6dk3KpPw
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-invicta-fc-47-ducote-vs-zappitella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 47: Ducote vs. Zappitella
@@ -153,7 +172,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  (2-0-0)\nMain Card: Jennifer Chieng (1-1-0) vs. Alyssa Linduska (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-bellator-281-mvp-vs-storley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281: MVP vs. Storley
@@ -176,7 +195,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  0) vs. Alan Carlos (13-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 282: Mousasi vs. Eblen
@@ -195,7 +214,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  illys Mota (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T173005Z
+DTSTAMP:20220505T233124Z
 UID:2022-09-bellator-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator Dublin

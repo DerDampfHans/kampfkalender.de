@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220504T092225Z
-X-KAMPFKALENDER-HASH:edaf99779e09dc31eabc443e753441a26d5e419a
+DTSTAMP:20220505T233123Z
+X-KAMPFKALENDER-HASH:01d864af33fdf3764bc9b246e3ccda04ffd11004
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
 UID:2022-04-maximus-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Maximus Fight Night
@@ -19,7 +19,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=ALMSjaPzf-Q\
  vent/maximus-fight-night/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
 UID:2022-04-predators-fc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Predators FC
@@ -31,7 +31,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  redators/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
 UID:2022-04-super-cup-kickboxing-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2022
@@ -43,7 +43,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-su
  per-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-acosta-vs-garcia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Acosta vs. Garcia
@@ -61,42 +61,44 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-kingdom-of-sports@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kingdom of Sports
 DTSTART:20220507T150000Z
-DTEND:20220507T180000Z
+DTEND:20220507T200000Z
 CATEGORIES:Other,Kickboxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ki
- ngdom-of-sports-457
+ ngdom-of-sports-457\n\n---\n\nhttps://www.fightevents.de/event/kingdom-o
+ f-sports/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
+UID:2022-05-gladiator-fight-night-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiator Fight Night 4
+DTSTART:20220507T160000Z
+DTEND:20220507T210000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
+ nvia fight24.tv: https://www.fight24.tv/fightpasses/fight24-gladiator-fi
+ ght-night-455\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/eve
+ nt/gladiator-fight-night-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T233124Z
 UID:2022-05-gladiator-fight-night-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiator Fight Night 4: Prelims
 DTSTART:20220507T160000Z
-DTEND:20220507T200000Z
+DTEND:20220507T160000Z
 CATEGORIES:Other,Boxen,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
  nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/gladiator-fig
  ht-night-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
-UID:2022-05-gladiator-fight-night-4@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Gladiator Fight Night 4
-DTSTART:20220507T200000Z
-DTEND:20220507T220000Z
-CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
- nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/e
- vent/gladiator-fight-night-4/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
 UID:2022-05-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
@@ -106,7 +108,18 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220505T233124Z
+UID:2022-05-4-jenaer-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:4. Jenaer Fight Night
+DTSTART:20220521T170000Z
+DTEND:20220521T200000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/4-j
+ enaer-fight-night/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T233124Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

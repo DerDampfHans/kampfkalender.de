@@ -55,12 +55,36 @@
     "mainCard": {
       "title": "Kingdom of Sports",
       "time": "2022-05-07T15:00:00Z",
+      "until": "2022-05-07T20:00:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
           "url": "https://www.fight24.tv/fightpasses/fight24-kingdom-of-sports-457",
           "freeAfter": 24
         }
       }
+    },
+    "fightEvents": {
+      "id": "kingdom-of-sports",
+      "time": "2022-05-07T15:00:00Z",
+      "until": "2022-05-07T20:00:00Z",
+      "title": "Kingdom of Sports",
+      "url": "https://www.fightevents.de/event/kingdom-of-sports/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-kingdom-of-sports-457",
+      "tags": [
+        "K1",
+        "Kickboxen",
+        "Kingdom of Sports",
+        "Mohamed Dolatman",
+        "Nenad Cosic",
+        "Oldenburg"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
     }
   },
   {
@@ -74,13 +98,14 @@
     ],
     "mainCard": {
       "title": "Gladiator Fight Night 4",
-      "time": "2022-05-07T20:00:00Z",
-      "until": "2022-05-07T22:00:00Z",
+      "time": "2022-05-07T16:00:00Z",
+      "until": "2022-05-07T21:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=E3yVYg5MMsg"
         },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gladiator-fight-night-455",
           "freeAfter": 24
         },
         "SPORT1_EXTRA": {
@@ -164,6 +189,48 @@
         "time": "2022-05-13T02:00:00Z",
         "title": "Hollywood Fight Night: Walsh vs Garcia"
       }
+    }
+  },
+  {
+    "id": "jenaer-fight-night-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Jena"
+    ],
+    "mainCard": {
+      "title": "4. Jenaer Fight Night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "freeAfter": 24
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "4-jenaer-fight-night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "title": "4. Jenaer Fight Night",
+      "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "4. Jenaer Fight Night",
+        "Fight24.tv",
+        "Jena",
+        "Jenaer Fight Night",
+        "K1",
+        "Kickboxen"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
     }
   },
   {
