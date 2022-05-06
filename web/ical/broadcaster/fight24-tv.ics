@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220505T233123Z
-X-KAMPFKALENDER-HASH:d0be672e90d6cd5fc0aec99e383f49f15238b0fe
+DTSTAMP:20220506T090501Z
+X-KAMPFKALENDER-HASH:f11093f157bd7c46a733418155eb778da7c3b38b
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-04-maximus-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Maximus Fight Night
@@ -19,7 +19,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=ALMSjaPzf-Q\
  vent/maximus-fight-night/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-04-predators-fc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Predators FC
@@ -31,7 +31,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  redators/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-04-super-cup-kickboxing-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super Cup Kickboxing 2022
@@ -43,7 +43,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-su
  per-cup-kickboxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-05-kingdom-of-sports@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kingdom of Sports
@@ -55,32 +55,19 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ki
  f-sports/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
-UID:2022-05-gladiator-fight-night-4@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Gladiator Fight Night 4
-DTSTART:20220507T160000Z
-DTEND:20220507T210000Z
-CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
- nvia fight24.tv: https://www.fight24.tv/fightpasses/fight24-gladiator-fi
- ght-night-455\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/eve
- nt/gladiator-fight-night-4/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-05-gladiator-fight-night-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiator Fight Night 4: Prelims
 DTSTART:20220507T160000Z
-DTEND:20220507T160000Z
+DTEND:20220507T200000Z
 CATEGORIES:Other,Boxen,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
  nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/gladiator-fig
  ht-night-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-05-box-nacht-landau@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Box Nacht Landau
@@ -103,7 +90,20 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  s. Aleksandar Kuvac (12-79-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
+UID:2022-05-gladiator-fight-night-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiator Fight Night 4
+DTSTART:20220507T200000Z
+DTEND:20220507T220000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
+ nvia fight24.tv: https://www.fight24.tv/fightpasses/fight24-gladiator-fi
+ ght-night-455\nvia SPORT1 Extra\n\n---\n\nhttps://www.fightevents.de/eve
+ nt/gladiator-fight-night-4/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220506T090502Z
 UID:2022-05-4-jenaer-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:4. Jenaer Fight Night
@@ -114,7 +114,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/4-j
  enaer-fight-night/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -126,7 +126,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -137,7 +137,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-06-nfc-9-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Main Card
@@ -148,7 +148,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-06-nfc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9
@@ -159,7 +159,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -170,7 +170,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -181,7 +181,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-08-nfc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10
@@ -192,7 +192,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -203,7 +203,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -214,7 +214,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -225,7 +225,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -236,7 +236,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -247,7 +247,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T090502Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
