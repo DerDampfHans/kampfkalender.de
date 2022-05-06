@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220505T233123Z
-X-KAMPFKALENDER-HASH:8ff2a95507065fd8b312391408c48e4a9dd62414
+DTSTAMP:20220506T085654Z
+X-KAMPFKALENDER-HASH:0f6da468555e75c99d49c8fe0fb877bf97f5fe68
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-04-we-love-mma-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 57
@@ -21,32 +21,13 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-59
   Card: Soren Dubielzig (0-0-0) vs. Andrei Zugrav (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
-UID:2022-05-hammer-vs-davidova@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Hammer vs. Davidova
-DTSTART:20220507T200000Z
-DTEND:20220507T205500Z
-CATEGORIES:WB,Boxen,Bild TV,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
- ellum-gala-radovan-hammer-30-april\nhttps://www.tapology.com/fightcenter
- /events/88509-radovan-vs-bevilacqua\nhttp://www.boxrec.com/en/event/8546
- 38\n\n---\n\nMain Event: Denis Radovan (15-0-1) vs. Rafael Bejaran (30-6
- -1)\nMain Card: Sophie Alisch (7-0-0) vs. Eva Cantos (0-0-0)\nMain Card:
-  Oliver Zaren (6-0-0) vs. Novak Radulović (13-7-1)\nMain Card: Christina
-  Hammer (27-1-0) vs. Luiza Davydova (6-3-0)\nMain Card: Arnold Khegai (1
- 7-1-1) vs. Antonio Tostado Garcia (25-9-0)\nMain Card: Leon Bunn (17-0-0
- ) vs. Islam Teffahi (21-11-2)\nMain Card: Tsotne Rogava (1-0-0) vs. Mich
- ael Basset (2-4-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-05-radovan-vs-bejaran@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Radovan vs. Bejaran
-DTSTART:20220507T210000Z
+DTSTART:20220507T200000Z
 DTEND:20220507T215500Z
-CATEGORIES:WB,Boxen,Bild TV,kostenlos
+CATEGORIES:WB,Boxen,Bild TV,live,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ellum-gala-radovan-hammer-30-april\nhttps://www.tapology.com/fightcenter
  /events/88509-radovan-vs-bevilacqua\nhttp://www.boxrec.com/en/event/8546
@@ -59,7 +40,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://box-sport.de/news/wassermanprob
  ael Basset (2-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-05-we-love-mma-58@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 58
@@ -70,7 +51,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  /\nhttps://www.tapology.com/fightcenter/events/88648-we-love-mma-58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-05-ksw-70-pudzian-vs-materla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 70: Pudzian vs. Materla
@@ -87,7 +68,7 @@ DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -98,7 +79,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -109,7 +90,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -120,7 +101,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -131,7 +112,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -142,7 +123,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -153,7 +134,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220506T085655Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
