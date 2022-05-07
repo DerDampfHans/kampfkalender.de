@@ -1,5 +1,67 @@
 [
   {
+    "id": "tapology-86506",
+    "promotion": "BELLATOR",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Bellator280",
+      "#BellatorParis"
+    ],
+    "mainCard": {
+      "title": "Bellator 280: Bader vs. Kongo 2",
+      "time": "2022-05-06T20:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=GPw0OL8e9_c"
+        }
+      }
+    },
+    "prelims": {
+      "title": "Bellator 280: Prelims",
+      "time": "2022-05-06T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=PhCk7CO6QbQ"
+        }
+      }
+    },
+    "tapology": {
+      "id": 86506,
+      "time": "2022-05-06T17:00:00Z",
+      "title": "Bellator 280: Bader vs. Kongo 2",
+      "titleAlt": "Bellator Paris",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/86506-bellator-paris-bader-vs-kongo-2",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Ryan Bader vs. Cheick Kongo",
+        "Co-Main Event: Yoel Romero vs. Alex Polizzi",
+        "Main Card: Davy Gallon vs. Benjamin Brander",
+        "Main Card: Lorenz Larkin vs. Kyle Stewart",
+        "Main Card: Gregory Babene vs. Mike Shipman",
+        "Prelim: Piotr Niedzielski vs. Pedro Carvalho",
+        "Prelim: Thibault Gouti vs. Lewis Long",
+        "Prelim: Jordan Barton vs. Fabacary Diatta",
+        "Prelim: Soren Bak vs. Charlie Leary",
+        "Prelim: Yves Landu vs. Gavin Hughes",
+        "Prelim: Lucie Bertaud vs. Katarzyna Sadura",
+        "Prelim: Youcef Ouabbas vs. Matthieu Duclos",
+        "Prelim: Bourama Camara vs. Victor Verchere"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/bellator-280-bader-vs-kongo-2-91959",
+        "http://en.wikipedia.org/wiki/Bellator_280",
+        "https://events.mixedmartialarts.com/bellator-280:1dd8f758-6416-4c7b-9fdb-04c06f1511f0",
+        "https://www.bellator.com/event/292",
+        "https://www.bestfightodds.com/events/bellator-280-2522"
+      ]
+    }
+  },
+  {
     "id": "tapology-86088",
     "promotion": "BELLATOR",
     "sports": [
@@ -36,7 +98,6 @@
       ],
       "card": [
         "Main Event: Michael Page (20-1-0) vs. Logan Storley (13-1-0)",
-        "Co-Main Event: Douglas Lima (32-10-0) vs. Jason Jackson (15-4-0)",
         "Main Card: Denise Kielholtz (6-3-0) vs. Kana Watanabe (10-1-1)",
         "Main Card: Lyoto Machida (26-11-0) vs. Fabian Edwards (9-2-0)",
         "Main Card: Paul Daley (43-18-2) vs. Wendell Giácomo (9-2-0)",
@@ -99,6 +160,31 @@
     }
   },
   {
+    "id": "tapology-89188",
+    "promotion": "BELLATOR",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Bellator MMA",
+      "time": "2022-07-08T23:00:00Z"
+    },
+    "tapology": {
+      "id": 89188,
+      "time": "2022-07-08T23:00:00Z",
+      "title": "Bellator MMA",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/89188-bellator-mma",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Co-Main Event: Douglas Lima (32-10-0) vs. Jason Jackson (15-4-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-87856",
     "promotion": "BELLATOR",
     "sports": [
@@ -132,6 +218,7 @@
         "MMA"
       ],
       "card": [
+        "Co-Main Event: Yoel Romero (14-6-0) vs. Melvin Manhoef (32-15-1)",
         "Main Card: Benson Henderson (29-11-0) vs. Peter Queally (13-6-1)"
       ]
     }

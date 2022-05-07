@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220504T095320Z
-X-KAMPFKALENDER-HASH:73397f41c9ae49eb48835e310c2247bed2bc73f7
+DTSTAMP:20220507T021005Z
+X-KAMPFKALENDER-HASH:5b31f23d45e94980ba8319934d8cd47890a99ebd
 BEGIN:VEVENT
-DTSTAMP:20220504T095320Z
+DTSTAMP:20220507T021006Z
 UID:2022-05-bellator-280-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Prelims
@@ -34,7 +34,31 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PhCk7CO6QbQ\n\n-
  Camara (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T095320Z
+DTSTAMP:20220507T021006Z
+UID:2022-05-bellator-280-prelims-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 280: Prelims
+DTSTART:20220506T170000Z
+DTEND:20220506T200000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PhCk7CO6QbQ\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/86506-bellator-paris-b
+ ader-vs-kongo-2\nhttp://www.sherdog.com/events/bellator-280-bader-vs-kon
+ go-2-91959\nhttp://en.wikipedia.org/wiki/Bellator_280\nhttps://events.mi
+ xedmartialarts.com/bellator-280:1dd8f758-6416-4c7b-9fdb-04c06f1511f0\nht
+ tps://www.bellator.com/event/292\nhttps://www.bestfightodds.com/events/b
+ ellator-280-2522\n\n---\n\nMain Event: Ryan Bader vs. Cheick Kongo\nCo-M
+ ain Event: Yoel Romero vs. Alex Polizzi\nMain Card: Davy Gallon vs. Benj
+ amin Brander\nMain Card: Lorenz Larkin vs. Kyle Stewart\nMain Card: Greg
+ ory Babene vs. Mike Shipman\nPrelim: Piotr Niedzielski vs. Pedro Carvalh
+ o\nPrelim: Thibault Gouti vs. Lewis Long\nPrelim: Jordan Barton vs. Faba
+ cary Diatta\nPrelim: Soren Bak vs. Charlie Leary\nPrelim: Yves Landu vs.
+  Gavin Hughes\nPrelim: Lucie Bertaud vs. Katarzyna Sadura\nPrelim: Youce
+ f Ouabbas vs. Matthieu Duclos\nPrelim: Bourama Camara vs. Victor Vercher
+ e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220507T021006Z
 UID:2022-05-bellator-280-bader-vs-kongo-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Bader vs. Kongo 2
@@ -61,7 +85,31 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GPw0OL8e9_c\n\n-
  Camara (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T095320Z
+DTSTAMP:20220507T021006Z
+UID:2022-05-bellator-280-bader-vs-kongo-2-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 280: Bader vs. Kongo 2
+DTSTART:20220506T200000Z
+DTEND:20220506T230000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GPw0OL8e9_c\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/86506-bellator-paris-b
+ ader-vs-kongo-2\nhttp://www.sherdog.com/events/bellator-280-bader-vs-kon
+ go-2-91959\nhttp://en.wikipedia.org/wiki/Bellator_280\nhttps://events.mi
+ xedmartialarts.com/bellator-280:1dd8f758-6416-4c7b-9fdb-04c06f1511f0\nht
+ tps://www.bellator.com/event/292\nhttps://www.bestfightodds.com/events/b
+ ellator-280-2522\n\n---\n\nMain Event: Ryan Bader vs. Cheick Kongo\nCo-M
+ ain Event: Yoel Romero vs. Alex Polizzi\nMain Card: Davy Gallon vs. Benj
+ amin Brander\nMain Card: Lorenz Larkin vs. Kyle Stewart\nMain Card: Greg
+ ory Babene vs. Mike Shipman\nPrelim: Piotr Niedzielski vs. Pedro Carvalh
+ o\nPrelim: Thibault Gouti vs. Lewis Long\nPrelim: Jordan Barton vs. Faba
+ cary Diatta\nPrelim: Soren Bak vs. Charlie Leary\nPrelim: Yves Landu vs.
+  Gavin Hughes\nPrelim: Lucie Bertaud vs. Katarzyna Sadura\nPrelim: Youce
+ f Ouabbas vs. Matthieu Duclos\nPrelim: Bourama Camara vs. Victor Vercher
+ e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220507T021006Z
 UID:2022-05-bellator-281-mvp-vs-storley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281: MVP vs. Storley
@@ -70,21 +118,20 @@ DTEND:20220513T203000Z
 CATEGORIES:Bellator,MMA,YouTube,live
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/86088-bellator-london-amosov-vs-mvp\n\n---\n\nMain Event: Michael P
- age (20-1-0) vs. Logan Storley (13-1-0)\nCo-Main Event: Douglas Lima (32
- -10-0) vs. Jason Jackson (15-4-0)\nMain Card: Denise Kielholtz (6-3-0) v
- s. Kana Watanabe (10-1-1)\nMain Card: Lyoto Machida (26-11-0) vs. Fabian
-  Edwards (9-2-0)\nMain Card: Paul Daley (43-18-2) vs. Wendell Giácomo (9
- -2-0)\nPrelim: Daniel Weichel (41-13-0) vs. Robert Whiteford (16-4-0)\nP
- relim: Luke Trainer (5-0-0) vs. Simon Biyong (7-2-0)\nPrelim: Alfie Davi
- s (14-4-0) vs. Tim Wilde (14-4-0)\nPrelim: Kate Jackson (11-5-1) vs. Eli
- na Kallionidou (8-4-0)\nPrelim: Oliver Enkamp (10-3-0) vs. Mark Lemminge
- r (12-4-0)\nPrelim: Chiara Penco (6-3-0) vs. Lanchana Green (4-4-1)\nPre
- lim: Lee Chadwick (27-15-1) vs. Maciej Różański (13-3-0)\nPrelim: Andrew
-  Fisher (18-8-1) vs. Attila Korkmaz (12-6-0)\nPrelim: Charlie Ward (9-4-
- 0) vs. Alan Carlos (13-9-0)
+ age (20-1-0) vs. Logan Storley (13-1-0)\nMain Card: Denise Kielholtz (6-
+ 3-0) vs. Kana Watanabe (10-1-1)\nMain Card: Lyoto Machida (26-11-0) vs. 
+ Fabian Edwards (9-2-0)\nMain Card: Paul Daley (43-18-2) vs. Wendell Giác
+ omo (9-2-0)\nPrelim: Daniel Weichel (41-13-0) vs. Robert Whiteford (16-4
+ -0)\nPrelim: Luke Trainer (5-0-0) vs. Simon Biyong (7-2-0)\nPrelim: Alfi
+ e Davis (14-4-0) vs. Tim Wilde (14-4-0)\nPrelim: Kate Jackson (11-5-1) v
+ s. Elina Kallionidou (8-4-0)\nPrelim: Oliver Enkamp (10-3-0) vs. Mark Le
+ mminger (12-4-0)\nPrelim: Chiara Penco (6-3-0) vs. Lanchana Green (4-4-1
+ )\nPrelim: Lee Chadwick (27-15-1) vs. Maciej Różański (13-3-0)\nPrelim: 
+ Andrew Fisher (18-8-1) vs. Attila Korkmaz (12-6-0)\nPrelim: Charlie Ward
+  (9-4-0) vs. Alan Carlos (13-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T095320Z
+DTSTAMP:20220507T021006Z
 UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 282: Mousasi vs. Eblen
@@ -103,7 +150,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  illys Mota (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T095320Z
+DTSTAMP:20220507T021006Z
 UID:2022-09-bellator-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator Dublin
@@ -111,7 +158,8 @@ DTSTART:20220923T170000Z
 DTEND:20220923T200000Z
 CATEGORIES:Bellator,MMA,YouTube,live
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/87856-bellator-dublin\n\n---\n\nMain Card: Benson Henderson (29-11-
- 0) vs. Peter Queally (13-6-1)
+ ents/87856-bellator-dublin\n\n---\n\nCo-Main Event: Yoel Romero (14-6-0)
+  vs. Melvin Manhoef (32-15-1)\nMain Card: Benson Henderson (29-11-0) vs.
+  Peter Queally (13-6-1)
 END:VEVENT
 END:VCALENDAR
