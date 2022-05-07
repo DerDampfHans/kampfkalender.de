@@ -166,5 +166,85 @@
         "http://www.boxrec.com/en/event/848846"
       ]
     }
+  },
+  {
+    "id": "tapology-89000",
+    "promotion": "BDB_BOXING",
+    "sports": [
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Landau"
+    ],
+    "mainCard": {
+      "title": "Box Nacht Landau",
+      "time": "2022-05-07T17:00:00Z",
+      "until": "2022-05-07T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-profiboxen-landau-456",
+          "freeAfter": 24
+        }
+      }
+    },
+    "tapology": {
+      "id": 89000,
+      "time": "2022-05-07T20:00:00Z",
+      "title": "Box Nacht Landau",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/89000-box-nacht-landau",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Diyab Simon Dabschah (18-0-0) vs. Ibrahim Yildirim (8-0-0)",
+        "Main Card: Antonio Hoffmann (23-2-0) vs. Yeison Gonzalez (15-6-0)",
+        "Main Card: Fatih Altunkaya (25-0-0) vs. Deniz Altz (0-0-0)",
+        "Main Card: Ibrahima Diallo (9-0-0) vs. Andreas Masold (0-0-0)",
+        "Main Card: Arber Bellegu (9-0-0) vs. Robin Hardwick (0-0-0)",
+        "Main Card: Jakob Winter (5-2-0) vs. Tim Pham (7-1-1)",
+        "Main Card: Hamza Salahudin (0-0-0) vs. Ismael Altintas (4-32-4)",
+        "Main Card: Mario Obenauer (1-21-0) vs. Yasir Ahmed Malik (0-0-0)",
+        "Main Card: Dennis Juergen (0-0-0) vs. Yves Barz (3-0-0)",
+        "Main Card: Ilias El Goudani (0-0-0) vs. Milan Mihajlovic (0-6-0)",
+        "Main Card: Thomas Narmo (0-0-0) vs. Aleksandar Kuvac (12-79-0)",
+        "Main Card: Thomas Narmo (0-0-0) vs. Antonio Zovak (0-8-0)",
+        "Main Card: Melina Maibaum (0-0-0) vs. Tekle Begiashvili (0-0-0)",
+        "Main Card: Madeleine Mohrhardt (0-0-0) vs. Danka Matijasevic (0-3-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/849563"
+      ]
+    },
+    "fightEvents": {
+      "id": "fight-night-landau",
+      "time": "2022-05-07T16:00:00Z",
+      "until": "2022-05-07T21:00:00Z",
+      "title": "Fight Night Landau",
+      "url": "https://www.fightevents.de/event/fight-night-landau/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-profiboxen-landau-456",
+      "tags": [
+        "Antoni Hoffmann",
+        "Arber Bellegu",
+        "Boxen",
+        "Fight Night Landau",
+        "Ibrahim Diallo",
+        "Ibrahim Yildirim",
+        "K1",
+        "Kickboxen",
+        "Profiboxen",
+        "Robin Hardwick",
+        "Yves Barz"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
   }
 ]

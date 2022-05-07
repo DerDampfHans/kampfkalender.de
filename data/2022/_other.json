@@ -1276,22 +1276,193 @@
       "id": 88316,
       "time": "2022-05-06T00:00:00Z",
       "title": "Cinco de Mayo",
-      "info": "Confirmed Upcoming Boxing Event",
+      "info": "Completed Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/88316-cinco-de-mayo",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Bryan Acosta (16-0-0) vs. Benito Garcia (14-5-1)",
-        "Main Card: Lee Reeves (7-1-0) vs. S. Maldonado (0-0-0)",
-        "Main Card: Nick Asberry (10-2-0) vs. Jesus Angel Nerio (15-10-1)",
+        "Main Event: Bryan Acosta vs. Benito Garcia",
+        "Co-Main Event: Lee Reeves vs. S. Maldonado",
         "Main Card: Ross Mylet (7-1-0) vs. Luis Francisco Vara (0-0-0)",
         "Main Card: Nick Fantauzzi (11-0-0) vs. J. Perez (8-11-0)",
-        "Main Card: Steven Wilcox (21-3-1) vs. Miguel Angel Martinez (15-4-1)",
-        "Main Card: Diego Paredes Medina (0-0-0) vs. Mohamed Zawadi (2-1-0)"
+        "Main Card: Steven Wilcox vs. Miguel Angel Martinez",
+        "Main Card: Mohamed Zawadi vs. Diego Paredes Medina"
       ],
       "links": [
         "http://www.boxrec.com/en/event/852670"
+      ]
+    }
+  },
+  {
+    "id": "fightpass-217370",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#JCK"
+    ],
+    "mainCard": {
+      "title": "JCK Fight Night: First Round",
+      "time": "2022-05-07T11:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 217370,
+        "time": "2022-05-07T11:00:00Z",
+        "title": "JCK MMA: 2022 First Round"
+      }
+    },
+    "tapology": {
+      "id": 86226,
+      "time": "2022-05-07T10:00:00Z",
+      "title": "JCK Fight Night: First Round",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/86226-jck-fight-night-round-of-32-part-1",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Aorigele (4-0-0) vs. Meng Ding (21-7-0)",
+        "Co-Main Event: Mengyu Liu (6-5-0) vs. Huwanixi Wusikenbieke (11-16-0)",
+        "Main Card: Wenyun Zhou (0-1-0) vs. Fu Chen (0-2-0)",
+        "Main Card: Shaoxiang Wang (2-2-0) vs. Bateeraili Hulan (2-2-0)",
+        "Main Card: Yawei Wei (0-0-0) vs. Alemujiang (0-0-0)",
+        "Main Card: Jiesheng Li (0-0-0) vs. Fei Yang (7-14-0)",
+        "Main Card: Ahebota Mulatihan (0-1-0) vs. Yusheng Wang (1-6-0)",
+        "Main Card: Ajiamujia (1-2-0) vs. Hui Zhang (0-0-0)",
+        "Main Card: Weichao Nie (1-1-0) vs. Hongyu Wang (0-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "kingdom-2022-05-07",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Oldenburg"
+    ],
+    "mainCard": {
+      "title": "Kingdom of Sports",
+      "time": "2022-05-07T15:00:00Z",
+      "until": "2022-05-07T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-kingdom-of-sports-457",
+          "freeAfter": 24
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "kingdom-of-sports",
+      "time": "2022-05-07T15:00:00Z",
+      "until": "2022-05-07T20:00:00Z",
+      "title": "Kingdom of Sports",
+      "url": "https://www.fightevents.de/event/kingdom-of-sports/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-kingdom-of-sports-457",
+      "tags": [
+        "K1",
+        "Kickboxen",
+        "Kingdom of Sports",
+        "Mohamed Dolatman",
+        "Nenad Cosic",
+        "Oldenburg"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "gladiator-2022-05-07",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Ingolstadt"
+    ],
+    "mainCard": {
+      "title": "Gladiator Fight Night 4",
+      "time": "2022-05-07T20:00:00Z",
+      "until": "2022-05-07T22:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=E3yVYg5MMsg"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gladiator-fight-night-455",
+          "freeAfter": 24
+        },
+        "SPORT1_EXTRA": {
+        }
+      },
+      "youTube": {
+        "id": "E3yVYg5MMsg",
+        "time": "2022-05-07T16:00:00Z",
+        "title": "LIVE: Gladiator Fight Night | 7.5. | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=E3yVYg5MMsg",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "Gladiator Fight Night 4: Prelims",
+      "time": "2022-05-07T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=E3yVYg5MMsg"
+        },
+        "FIGHT24_TV": {
+          "freeAfter": 24
+        }
+      },
+      "youTube": {
+        "id": "E3yVYg5MMsg",
+        "time": "2022-05-07T16:00:00Z",
+        "title": "LIVE: Gladiator Fight Night | 7.5. | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=E3yVYg5MMsg",
+        "live": true,
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "fightEvents": {
+      "id": "gladiator-fight-night-4",
+      "time": "2022-05-07T15:00:00Z",
+      "until": "2022-05-07T21:00:00Z",
+      "title": "Gladiator Fight Night 4",
+      "url": "https://www.fightevents.de/event/gladiator-fight-night-4/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Boxen",
+        "Fight24.tv",
+        "Gladiator Fight Night",
+        "Ingolstadt",
+        "Kickboxen"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
       ]
     }
   }
