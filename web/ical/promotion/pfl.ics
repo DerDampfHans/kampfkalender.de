@@ -4,33 +4,11 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220507T152131Z
-X-KAMPFKALENDER-HASH:7b62b4acd2c54aa5ec4c788a26fd417c8d804a01
+DTSTAMP:20220507T184005Z
+X-KAMPFKALENDER-HASH:db1137c0e6a20ca43362022acc55606f2ae5b05e
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-05-pfl-regular-season-3@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL Regular Season 3
-DTSTART:20220506T220000Z
-DTEND:20220507T020000Z
-CATEGORIES:PFL,MMA,fighting.de,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=yxrI1df23Ic\
- n\n---\n\nhttps://www.tapology.com/fightcenter/events/87834-pfl-2022-3-r
- egular-season\nhttp://www.sherdog.com/events/professional-fighters-leagu
- e-pfl-3-2022-regular-season-92569\nhttps://events.mixedmartialarts.com/p
- fl-3:a4edb379-a3fb-4ae9-840b-d2984597deb7\nhttps://www.bestfightodds.com
- /events/pfl-week-3-2521\n\n---\n\nMain Event: Kayla Harrison vs. Marina 
- Mokhnatkina\nCo-Main Event: Carlos Leal vs. Ray Cooper III\nMain Card: A
- nthony Pettis vs. Myles Price\nMain Card: Rory MacDonald vs. Brett Coope
- r\nMain Card: Larissa Pacheco vs. Zamzagul Fayzallanova\nPrelim: Dilano 
- Taylor vs. João Zeferino\nPrelim: Genah Fabian vs. Julia Budd\nPrelim: S
- adibou Sy vs. Nikolay Aleksakhin\nPrelim: J. Al-Silawi vs. Gleison Tibau
- \nPrelim: Olena Kolesnyk vs. Abby Montes\nPrelim: Martina Jindrová vs. V
- anessa Melo
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
-UID:2022-05-pfl-regular-season-3-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 3
 DTSTART:20220506T220000Z
@@ -53,7 +31,29 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=yxrI1df23Ic\
  -0-0)\nPrelim: Vanessa Melo (11-8-0) vs. Martina Jindrová (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
+UID:2022-05-pfl-regular-season-3-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Regular Season 3
+DTSTART:20220506T220000Z
+DTEND:20220507T020000Z
+CATEGORIES:PFL,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=yxrI1df23Ic\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/87834-pfl-2022-3-r
+ egular-season\nhttp://www.sherdog.com/events/professional-fighters-leagu
+ e-pfl-3-2022-regular-season-92569\nhttps://events.mixedmartialarts.com/p
+ fl-3:a4edb379-a3fb-4ae9-840b-d2984597deb7\nhttps://www.bestfightodds.com
+ /events/pfl-week-3-2521\n\n---\n\nMain Event: Kayla Harrison vs. Marina 
+ Mokhnatkina\nCo-Main Event: Carlos Leal vs. Ray Cooper III\nMain Card: A
+ nthony Pettis vs. Myles Price\nMain Card: Rory MacDonald vs. Brett Coope
+ r\nMain Card: Larissa Pacheco vs. Zamzagul Fayzallanova\nPrelim: Dilano 
+ Taylor vs. João Zeferino\nPrelim: Genah Fabian vs. Julia Budd\nPrelim: S
+ adibou Sy vs. Nikolay Aleksakhin\nPrelim: J. Al-Silawi vs. Gleison Tibau
+ \nPrelim: Olena Kolesnyk vs. Abby Montes\nPrelim: Martina Jindrová vs. V
+ anessa Melo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220507T184005Z
 UID:2022-06-pfl-regular-season-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 4
@@ -64,7 +64,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87835-pfl-2022-4-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-06-pfl-regular-season-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 5
@@ -75,7 +75,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87836-pfl-2022-5-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-07-pfl-regular-season-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 6
@@ -86,7 +86,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87837-pfl-2022-6-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
@@ -97,7 +97,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87838-pfl-2022-7-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -108,7 +108,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87839-pfl-2022-8-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -119,7 +119,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87840-pfl-2022-9-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -130,7 +130,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87841-pfl-2022-10-championships
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T152132Z
+DTSTAMP:20220507T184005Z
 UID:2022-11-pfl-finals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 2

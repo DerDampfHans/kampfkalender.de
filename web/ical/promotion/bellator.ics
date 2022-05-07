@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220507T021005Z
-X-KAMPFKALENDER-HASH:5b31f23d45e94980ba8319934d8cd47890a99ebd
+DTSTAMP:20220507T184005Z
+X-KAMPFKALENDER-HASH:c958345b7672eb5b27b1323478d8cad0a789a071
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220507T184005Z
 UID:2022-05-bellator-280-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Prelims
@@ -20,21 +20,18 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PhCk7CO6QbQ\n\n-
  go-2-91959\nhttp://en.wikipedia.org/wiki/Bellator_280\nhttps://events.mi
  xedmartialarts.com/bellator-280:1dd8f758-6416-4c7b-9fdb-04c06f1511f0\nht
  tps://www.bellator.com/event/292\nhttps://www.bestfightodds.com/events/b
- ellator-280-2522\n\n---\n\nMain Event: Ryan Bader (29-7-0) vs. Cheick Ko
- ngo (31-11-2)\nCo-Main Event: Yoel Romero (13-6-0) vs. Alex Polizzi (10-
- 1-0)\nMain Card: Davy Gallon (20-7-2) vs. Benjamin Brander (13-8-0)\nMai
- n Card: Lorenz Larkin (23-7-0) vs. Kyle Stewart (15-5-0)\nMain Card: Mik
- e Shipman (14-3-0) vs. Gregory Babene (21-11-0)\nPrelim: Pedro Carvalho 
- (12-5-0) vs. Piotr Niedzielski (16-4-0)\nPrelim: Lewis Long (19-6-0) vs.
-  Thibault Gouti (15-5-0)\nPrelim: Fabacary Diatta (8-0-0) vs. Jordan Bar
- ton (6-2-1)\nPrelim: Soren Bak (15-1-0) vs. Charlie Leary (17-12-1)\nPre
- lim: Yves Landu (16-9-0) vs. Gavin Hughes (10-2-0)\nPrelim: Lucie Bertau
- d (3-3-0) vs. Katarzyna Sadura (5-4-0)\nPrelim: Youcef Ouabbas (2-0-0) v
- s. Matthieu Duclos (2-1-0)\nPrelim: Victor Verchere (5-1-0) vs. Bourama 
- Camara (4-1-0)
+ ellator-280-2522\n\n---\n\nMain Event: Ryan Bader vs. Cheick Kongo\nCo-M
+ ain Event: Yoel Romero vs. Alex Polizzi\nMain Card: Davy Gallon vs. Benj
+ amin Brander\nMain Card: Lorenz Larkin vs. Kyle Stewart\nMain Card: Greg
+ ory Babene vs. Mike Shipman\nPrelim: Piotr Niedzielski vs. Pedro Carvalh
+ o\nPrelim: Thibault Gouti vs. Lewis Long\nPrelim: Jordan Barton vs. Faba
+ cary Diatta\nPrelim: Soren Bak vs. Charlie Leary\nPrelim: Yves Landu vs.
+  Gavin Hughes\nPrelim: Lucie Bertaud vs. Katarzyna Sadura\nPrelim: Youce
+ f Ouabbas vs. Matthieu Duclos\nPrelim: Bourama Camara vs. Victor Vercher
+ e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220507T184005Z
 UID:2022-05-bellator-280-prelims-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Prelims
@@ -47,6 +44,33 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PhCk7CO6QbQ\n\n-
  go-2-91959\nhttp://en.wikipedia.org/wiki/Bellator_280\nhttps://events.mi
  xedmartialarts.com/bellator-280:1dd8f758-6416-4c7b-9fdb-04c06f1511f0\nht
  tps://www.bellator.com/event/292\nhttps://www.bestfightodds.com/events/b
+ ellator-280-2522\n\n---\n\nMain Event: Ryan Bader (29-7-0) vs. Cheick Ko
+ ngo (31-11-2)\nCo-Main Event: Yoel Romero (13-6-0) vs. Alex Polizzi (10-
+ 1-0)\nMain Card: Davy Gallon (20-7-2) vs. Benjamin Brander (13-8-0)\nMai
+ n Card: Lorenz Larkin (23-7-0) vs. Kyle Stewart (15-5-0)\nMain Card: Mik
+ e Shipman (14-3-0) vs. Gregory Babene (21-11-0)\nPrelim: Pedro Carvalho 
+ (12-5-0) vs. Piotr Niedzielski (16-4-0)\nPrelim: Lewis Long (19-6-0) vs.
+  Thibault Gouti (15-5-0)\nPrelim: Fabacary Diatta (8-0-0) vs. Jordan Bar
+ ton (6-2-1)\nPrelim: Soren Bak (15-1-0) vs. Charlie Leary (17-12-1)\nPre
+ lim: Yves Landu (16-9-0) vs. Gavin Hughes (10-2-0)\nPrelim: Lucie Bertau
+ d (3-3-0) vs. Katarzyna Sadura (5-4-0)\nPrelim: Youcef Ouabbas (2-0-0) v
+ s. Matthieu Duclos (2-1-0)\nPrelim: Victor Verchere (5-1-0) vs. Bourama 
+ Camara (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220507T184005Z
+UID:2022-05-bellator-280-bader-vs-kongo-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 280: Bader vs. Kongo 2
+DTSTART:20220506T200000Z
+DTEND:20220506T230000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GPw0OL8e9_c\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/86506-bellator-paris-b
+ ader-vs-kongo-2\nhttp://www.sherdog.com/events/bellator-280-bader-vs-kon
+ go-2-91959\nhttp://en.wikipedia.org/wiki/Bellator_280\nhttps://events.mi
+ xedmartialarts.com/bellator-280:1dd8f758-6416-4c7b-9fdb-04c06f1511f0\nht
+ tps://www.bellator.com/event/292\nhttps://www.bestfightodds.com/events/b
  ellator-280-2522\n\n---\n\nMain Event: Ryan Bader vs. Cheick Kongo\nCo-M
  ain Event: Yoel Romero vs. Alex Polizzi\nMain Card: Davy Gallon vs. Benj
  amin Brander\nMain Card: Lorenz Larkin vs. Kyle Stewart\nMain Card: Greg
@@ -58,8 +82,8 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PhCk7CO6QbQ\n\n-
  e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
-UID:2022-05-bellator-280-bader-vs-kongo-2@kampfkalender.de
+DTSTAMP:20220507T184005Z
+UID:2022-05-bellator-280-bader-vs-kongo-2-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 280: Bader vs. Kongo 2
 DTSTART:20220506T200000Z
@@ -85,31 +109,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GPw0OL8e9_c\n\n-
  Camara (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
-UID:2022-05-bellator-280-bader-vs-kongo-2-1@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Bellator 280: Bader vs. Kongo 2
-DTSTART:20220506T200000Z
-DTEND:20220506T230000Z
-CATEGORIES:Bellator,MMA,YouTube,live
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GPw0OL8e9_c\n\n-
- --\n\nhttps://www.tapology.com/fightcenter/events/86506-bellator-paris-b
- ader-vs-kongo-2\nhttp://www.sherdog.com/events/bellator-280-bader-vs-kon
- go-2-91959\nhttp://en.wikipedia.org/wiki/Bellator_280\nhttps://events.mi
- xedmartialarts.com/bellator-280:1dd8f758-6416-4c7b-9fdb-04c06f1511f0\nht
- tps://www.bellator.com/event/292\nhttps://www.bestfightodds.com/events/b
- ellator-280-2522\n\n---\n\nMain Event: Ryan Bader vs. Cheick Kongo\nCo-M
- ain Event: Yoel Romero vs. Alex Polizzi\nMain Card: Davy Gallon vs. Benj
- amin Brander\nMain Card: Lorenz Larkin vs. Kyle Stewart\nMain Card: Greg
- ory Babene vs. Mike Shipman\nPrelim: Piotr Niedzielski vs. Pedro Carvalh
- o\nPrelim: Thibault Gouti vs. Lewis Long\nPrelim: Jordan Barton vs. Faba
- cary Diatta\nPrelim: Soren Bak vs. Charlie Leary\nPrelim: Yves Landu vs.
-  Gavin Hughes\nPrelim: Lucie Bertaud vs. Katarzyna Sadura\nPrelim: Youce
- f Ouabbas vs. Matthieu Duclos\nPrelim: Bourama Camara vs. Victor Vercher
- e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220507T184005Z
 UID:2022-05-bellator-281-mvp-vs-storley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281: MVP vs. Storley
@@ -131,7 +131,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   (9-4-0) vs. Alan Carlos (13-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220507T184005Z
 UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 282: Mousasi vs. Eblen
@@ -150,7 +150,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  illys Mota (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220507T184005Z
 UID:2022-09-bellator-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator Dublin
