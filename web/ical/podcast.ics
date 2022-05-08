@@ -4,20 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220505T233123Z
-X-KAMPFKALENDER-HASH:4db42cabb4972d846a92e75e53cc44ca918dadb5
+DTSTAMP:20220508T193717Z
+X-KAMPFKALENDER-HASH:5e7c718377f861c6e54691478757cf8f8ea224cd
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
-UID:2022-05-schlagwort-spezial-max-coga@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Spezial: Max Coga
-DTSTART:20220501T160000Z
-DTEND:20220501T170000Z
-CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=v7SPhKP46Mg
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220508T193717Z
 UID:2022-05-ufc-vegas-53-review-marlon-chito-vera-liefert-sein-meisterstu
  ck-ab@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CIcKImWBH_8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220508T193717Z
 UID:2022-05-q-a-perspektive-von-deutschem-mma-was-kann-conor-mcgregor-noc
  h-rei-en-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -41,7 +31,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OcZceYqmaHc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220508T193717Z
 UID:2022-05-ufc-274-vorschau-mit-sebastian-hackl-und-florian-mandavid@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -52,7 +42,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3YFoU_sHqCc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T233124Z
+DTSTAMP:20220508T193717Z
 UID:2022-05-schlagwort-podcast-159@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 159
@@ -60,5 +50,15 @@ DTSTART:20220508T160000Z
 DTEND:20220508T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=uqj6dk3KpPw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220508T193717Z
+UID:2022-05-schlagwort-spezial@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Spezial
+DTSTART:20220515T160000Z
+DTEND:20220515T170000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR
