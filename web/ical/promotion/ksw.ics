@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220507T021005Z
-X-KAMPFKALENDER-HASH:918465878d79d879273c5a21002561b6f856b1b8
+DTSTAMP:20220511T010216Z
+X-KAMPFKALENDER-HASH:49f630802960cb7ebaa0fccfc741c969637f497f
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-ksw-31-materla-vs-drwal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 31: Materla vs. Drwal
@@ -26,7 +26,27 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ui9zRpyweYg\n\n-
  rudniewski\nPrelim: Jędrzej Maćkowiak vs. Marcin Gułaś
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220511T010216Z
+UID:2022-05-ksw-64-przybysz-vs-santos@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 64: Przybysz vs. Santos
+DTSTART:20220520T160000Z
+DTEND:20220520T190000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WUioSPlkmRQ\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/82372-ksw-64\nhttp://w
+ ww.sherdog.com/events/ksw-64-pudzianowski-vs-bombardier-90421\nhttps://e
+ vents.mixedmartialarts.com/ksw-64:34b5ec84-da43-4835-8380-e737aaf4a5e1\n
+ https://www.bestfightodds.com/events/ksw-2334\n\n---\n\nMain Event: Seba
+ stian Przybysz vs. Bruno Santos\nCo-Main Event: Mariusz Pudzianowski vs.
+  Serigne Ousmane Dia\nMain Card: Daniel Rutkowski vs. Filip Pejić\nMain 
+ Card: Robert Ruchała vs. Patryk Kaczmarczyk\nMain Card: Michał Pietrzak 
+ vs. Shamil Musaev\nMain Card: Sylwia Juśkiewicz vs. Karolina Owczarz\nMa
+ in Card: Cezary Kęsik vs. Marcin Krakowiak\nPrelim: Jason Radcliffe vs. 
+ Albert Odzimkowski\nPrelim: Oumar Sy vs. Adam Tomasik
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T010216Z
 UID:2022-05-ksw-70-pudzian-vs-materla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 70: Pudzian vs. Materla

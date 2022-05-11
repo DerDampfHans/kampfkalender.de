@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220508T193717Z
-X-KAMPFKALENDER-HASH:a62745f6313da1aa26c9a6913966697c549ed717
+DTSTAMP:20220511T010216Z
+X-KAMPFKALENDER-HASH:749eee97ac948ae124be59b3b53bf4b9f5f46ecd
 BEGIN:VEVENT
-DTSTAMP:20220508T193717Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-cffc-108-blackshear-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 108: Blackshear vs. Smith
@@ -27,25 +27,34 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193717Z
-UID:2022-05-cffc-109@kampfkalender.de
+DTSTAMP:20220511T010216Z
+UID:2022-05-cffc-109-curatolo-vs-paiva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:CFFC 109
+SUMMARY:CFFC 109: Curatolo vs. Paiva
 DTSTART:20220527T230000Z
 DTEND:20220528T020000Z
 CATEGORIES:CFFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/89088-cffc-109
+ nter/events/89088-cffc-109\n\n---\n\nMain Card: Santo Curatolo (6-2-0) v
+ s. Hugo Paiva (5-0-0)\nMain Card: Manoel Sousa (8-0-0) vs. Felipe Maia (
+ 11-5-0)\nMain Card: Chris Vasil (5-2-0) vs. Vilson Ndregjoni (4-2-0)\nMa
+ in Card: Thomas Majeski (2-2-0) vs. David Meshkhoradze (2-1-0)\nMain Car
+ d: Ian Allston (0-0-0) vs. David Ciuclea (1-0-0)\nMain Card: Teshay Gout
+ hro (4-1-0) vs. Efren Escareno (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193717Z
-UID:2022-05-cffc-fury-pro-grappling@kampfkalender.de
+DTSTAMP:20220511T010216Z
+UID:2022-05-fury-pro-grappling-brady-vs-saunders@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:CFFC: Fury Pro Grappling
+SUMMARY:Fury Pro Grappling: Brady vs. Saunders
 DTSTART:20220528T230000Z
 DTEND:20220529T020000Z
 CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/89089-fury-pro-grappling-3
+ nter/events/89089-fury-pro-grappling-3\n\n---\n\nMain Event: Sean Brady 
+ vs. Ben Saunders\nCo-Main Event: Clay Guida vs. Alex Caceres\nMain Card:
+  Connor Dixon vs. Earl Small\nMain Card: Mike Medrano vs. Andrew Kochel\
+ nMain Card: Molli Zborowski vs. Faith O'Donnell\nMain Card: Gabriella Ma
+ slanka vs. Jocelyn Letscher
 END:VEVENT
 END:VCALENDAR

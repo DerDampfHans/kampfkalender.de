@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220507T021005Z
-X-KAMPFKALENDER-HASH:956038078783b83266e44110b6f8ccfb0514da55
+DTSTAMP:20220511T010216Z
+X-KAMPFKALENDER-HASH:63558c27ab7f3aca70abf01bbdb47dd4e3d7df30
 BEGIN:VEVENT
-DTSTAMP:20220507T021006Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-titan-fc-76@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Titan FC 76
@@ -21,5 +21,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. J. Diaz Zuleta\nMain Card: Richie Lewis vs. Kelvin Bowen\nMain Card
  : Richard Mayol vs. Daniel Morrison\nMain Card: Jason Somchay vs. Nekoro
   Bunsie\nMain Card: Arturo Vergara vs. Cody Schieve
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T010216Z
+UID:2022-06-titan-fc-77@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Titan FC 77
+DTSTART:20220605T000000Z
+DTEND:20220605T030000Z
+CATEGORIES:TFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220507T220304Z
-X-KAMPFKALENDER-HASH:844a3e62497eb29ad03eebe8dff5002805fcecf0
+DTSTAMP:20220511T010216Z
+X-KAMPFKALENDER-HASH:b67b68d20c80b76093e27275c92f7d45871acdcf
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-acosta-vs-garcia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Acosta vs. Garcia
@@ -23,7 +23,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  . Diego Paredes Medina
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-jck-fight-night-first-round@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: First Round
@@ -42,7 +42,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-kingdom-of-sports@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kingdom of Sports
@@ -54,7 +54,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ki
  f-sports/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-gladiator-fight-night-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiator Fight Night 4: Prelims
@@ -66,7 +66,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
  ht-night-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-gladiator-fight-night-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiator Fight Night 4
@@ -79,7 +79,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
  nt/gladiator-fight-night-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
@@ -89,7 +89,29 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
+UID:2022-05-ymk-mix-gala@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:YMK Mix Gala
+DTSTART:20220514T180000Z
+DTEND:20220514T210000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ym
+ k-mix-gala-459\n\n---\n\nhttps://www.fightevents.de/event/ymk-mix-gala/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T010216Z
+UID:2022-05-cinqueoncie-vs-maric-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cinqueoncie vs. Maric: Prelims
+DTSTART:20220521T160000Z
+DTEND:20220521T200000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
+ passes/fight24-heimspiel-458\n\n---\n\nhttps://boxen.co/27419-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T010216Z
 UID:2022-05-4-jenaer-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:4. Jenaer Fight Night
@@ -100,7 +122,19 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/4-j
  enaer-fight-night/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220507T220304Z
+DTSTAMP:20220511T010216Z
+UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cinqueoncie vs. Maric
+DTSTART:20220521T200000Z
+DTEND:20220521T220000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
+ passes/fight24-heimspiel-458\nvia SPORT1 Extra\n\n---\n\nhttps://boxen.c
+ o/27419-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T010216Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

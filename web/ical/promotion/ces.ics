@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220504T092225Z
-X-KAMPFKALENDER-HASH:c3f0d412093c0ad67e5cc0e032b28a60ecd30cf0
+DTSTAMP:20220511T010216Z
+X-KAMPFKALENDER-HASH:6878729ea2d21e7d7b165151f063b016f18ed0c8
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220511T010216Z
 UID:2022-05-ces-68-martin-vs-vogel@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CES 68: Martin vs. Vogel
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220511T010216Z
 UID:2022-06-ces-69@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CES 69
@@ -37,7 +37,9 @@ DTSTART:20220618T000000Z
 DTEND:20220618T030000Z
 CATEGORIES:CES,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/88914-ces-69\n\n---\n\nMain Card: Mike Rodriguez (11-7-0) vs
- . Marcus Vinicius (11-5-0)
+ nter/events/88914-ces-69\n\n---\n\nMain Event: Ashiek Ajim (5-1-0) vs. A
+ zjavkhlan Baatar (8-6-0)\nCo-Main Event: Mike Rodriguez (11-7-0) vs. Mar
+ cus Vinicius (11-5-0)\nMain Card: Richie Santiago (8-4-0) vs. Harris Bon
+ figlio (4-1-0)
 END:VEVENT
 END:VCALENDAR
