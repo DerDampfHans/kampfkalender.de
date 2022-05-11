@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220510T220304Z
-X-KAMPFKALENDER-HASH:bd756f6fea749096298875c3f3c62ff4aa7834fa
+DTSTAMP:20220511T100429Z
+X-KAMPFKALENDER-HASH:59ce8afa9a749e90dae3c184fa35c8be9a6ed64b
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
 UID:2022-05-q-a-perspektive-von-deutschem-mma-was-kann-conor-mcgregor-noc
  h-rei-en-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OcZceYqmaHc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
 UID:2022-05-ufc-274-vorschau-mit-sebastian-hackl-und-florian-mandavid@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3YFoU_sHqCc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
 UID:2022-05-ufc-274-im-ruckspiegel-die-analyse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274 im Rückspiegel - die Analyse!
@@ -38,5 +38,17 @@ DTSTART:20220510T150000Z
 DTEND:20220510T170000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-lDSply4lv0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T100429Z
+UID:2022-05-bivol-besiegt-canelo-mma-news-ufc-bleibt-bei-dazn-volkanovski
+ -und-superbon-u-v-m@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bivol besiegt Canelo / MMA-News: UFC bleibt bei DAZN\, Volkanovsk
+ i und Superbon u.v.m.
+DTSTART:20220511T150000Z
+DTEND:20220511T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=5I8WH4gvMA4
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220510T220304Z
-X-KAMPFKALENDER-HASH:ec225c3ea3ba6974af07aea6279ca5331845d84d
+DTSTAMP:20220511T100429Z
+X-KAMPFKALENDER-HASH:1bffa7071b59e659b55279a3611215b40a72d36e
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
 UID:2022-05-q-a-perspektive-von-deutschem-mma-was-kann-conor-mcgregor-noc
  h-rei-en-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OcZceYqmaHc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
 UID:2022-05-ufc-274-vorschau-mit-sebastian-hackl-und-florian-mandavid@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3YFoU_sHqCc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
 UID:2022-05-schlagwort-podcast-159@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 159
@@ -40,7 +40,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=uqj6dk3KpPw
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
 UID:2022-05-ufc-274-im-ruckspiegel-die-analyse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274 im Rückspiegel - die Analyse!
@@ -50,7 +50,19 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-lDSply4lv0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220510T220304Z
+DTSTAMP:20220511T100429Z
+UID:2022-05-bivol-besiegt-canelo-mma-news-ufc-bleibt-bei-dazn-volkanovski
+ -und-superbon-u-v-m@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bivol besiegt Canelo / MMA-News: UFC bleibt bei DAZN\, Volkanovsk
+ i und Superbon u.v.m.
+DTSTART:20220511T150000Z
+DTEND:20220511T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=5I8WH4gvMA4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T100429Z
 UID:2022-05-schlagwort-spezial@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Spezial
