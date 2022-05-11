@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220511T010216Z
-X-KAMPFKALENDER-HASH:ad483811607d3feaa6458e9977cc3726d9694eaa
+DTSTAMP:20220511T183615Z
+X-KAMPFKALENDER-HASH:fddc76fbb28d8cbffcec50c47419af34ecae5689
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220511T183615Z
 UID:2022-05-fury-fc-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 61
@@ -32,7 +32,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  elim: Enrique Lara Bas (0-0-0) vs. Emmanuel Garcia (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220511T183615Z
 UID:2022-05-fury-fc-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 62
@@ -58,7 +58,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220511T183615Z
 UID:2022-05-fury-fc-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 63
@@ -85,7 +85,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  )\nPrelim: Kyle Petereit (0-1-0) vs. Ryan Perez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220511T183615Z
 UID:2022-06-fury-fc-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 64
@@ -106,5 +106,49 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Card: Cameron Smotherman (4-3-0) vs. John Yannis (2-1-0)\nPrelim: Brand
  on Taylor (6-4-0) vs. Logan Long (0-3-0)\nPrelim: Geno Morelli (2-0-0) v
  s. Oscar Martinez (3-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T183615Z
+UID:2022-06-fury-fc-65@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 65
+DTSTART:20220627T000000Z
+DTEND:20220627T030000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89281-fury-fc-65
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T183615Z
+UID:2022-07-fury-fc-66@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 66
+DTSTART:20220708T220000Z
+DTEND:20220709T010000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89282-fury-fc-66
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T183615Z
+UID:2022-08-fury-fc-67@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 67
+DTSTART:20220814T190000Z
+DTEND:20220814T220000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89284-fury-fc-67
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220511T183615Z
+UID:2022-08-fury-fc-68@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 68
+DTSTART:20220821T190000Z
+DTEND:20220821T220000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89285-fury-fc-68
 END:VEVENT
 END:VCALENDAR
