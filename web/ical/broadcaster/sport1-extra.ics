@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220511T010216Z
-X-KAMPFKALENDER-HASH:cf9a1be04fa1ac2d89e8d6922b05894414e603c3
+DTSTAMP:20220513T002505Z
+X-KAMPFKALENDER-HASH:62e710131e28ff645415378ae8698a8fe1c9c97a
 BEGIN:VEVENT
-DTSTAMP:20220511T010217Z
+DTSTAMP:20220513T002506Z
 UID:2022-05-gladiator-fight-night-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiator Fight Night 4
@@ -20,7 +20,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=E3yVYg5MMsg\
  nt/gladiator-fight-night-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010217Z
+DTSTAMP:20220513T002506Z
 UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric
@@ -29,6 +29,6 @@ DTEND:20220521T220000Z
 CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
 DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
  passes/fight24-heimspiel-458\nvia SPORT1 Extra\n\n---\n\nhttps://boxen.c
- o/27419-2/
+ o/27419-2/\nhttps://www.fightevents.de/event/heimspiel-offenbach/
 END:VEVENT
 END:VCALENDAR

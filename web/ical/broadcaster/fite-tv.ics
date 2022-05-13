@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220508T193717Z
-X-KAMPFKALENDER-HASH:32f6aac1596c9c1124f7c5856fd634b1d6e8d433
+DTSTAMP:20220513T002505Z
+X-KAMPFKALENDER-HASH:554b4dc397480ff28e127aa5bba6a5017669addf
 BEGIN:VEVENT
-DTSTAMP:20220508T193718Z
+DTSTAMP:20220513T002506Z
 UID:2022-05-bkfc-25-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 25: Prelims
@@ -25,7 +25,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-25-prelims/2pb7x/
  s\nMain Card: Rick Caruso vs. Jack Claffey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193718Z
+DTSTAMP:20220513T002506Z
 UID:2022-05-bkfc-25-adams-vs-cleckler@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 25: Adams vs. Cleckler
@@ -43,7 +43,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-25/2pb7w/\n\n---\
  Card: Rick Caruso vs. Jack Claffey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193718Z
+DTSTAMP:20220513T002506Z
 UID:2022-05-bkfc-thailand-2-lamthuan-vs-vertrila@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 2: Lamthuan vs. Vertrila
@@ -63,15 +63,17 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-2/2pb92/
  Mardani
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193718Z
-UID:2022-05-bkfc-omaha-cochrane-vs-dyer@kampfkalender.de
+DTSTAMP:20220513T002506Z
+UID:2022-05-bkfc-omaha-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Omaha: Cochrane vs. Dyer
-DTSTART:20220514T020000Z
-DTEND:20220514T050000Z
+SUMMARY:BKFC Omaha: Prelims
+DTSTART:20220514T000000Z
+DTEND:20220514T010000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/88010-bkfc-fight-night-omaha\n\n---\n\nMain Event: Dakota Cochrane 
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-omaha-prelims/2pb
+ b6/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/88010-bkfc-fig
+ ht-night-omaha\nhttps://events.mixedmartialarts.com/bkfc-fight-night:00c
+ 5ae70-5d6a-4029-9811-080f286264d9\n\n---\n\nMain Event: Dakota Cochrane 
  vs. Josh Dyer\nMain Card: Houston Alexander vs. Jason Fish\nMain Card: S
  ean Wilson vs. Rocky Long\nMain Card: Cody Land vs. Will Shutt\nMain Car
  d: Jeff Souder vs. David Simpson\nMain Card: Ryan Braun vs. Mike Seymour
@@ -79,7 +81,26 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  son vs. Josh Krejci\nMain Card: Charlie DuBray vs. Emeka Ifekandu
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193718Z
+DTSTAMP:20220513T002506Z
+UID:2022-05-bkfc-omaha-cochrane-vs-dyer@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Omaha: Cochrane vs. Dyer
+DTSTART:20220514T010000Z
+DTEND:20220514T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-omaha-cochrane
+ -vs-dyer/2pbb5/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/88
+ 010-bkfc-fight-night-omaha\nhttps://events.mixedmartialarts.com/bkfc-fig
+ ht-night:00c5ae70-5d6a-4029-9811-080f286264d9\n\n---\n\nMain Event: Dako
+ ta Cochrane vs. Josh Dyer\nMain Card: Houston Alexander vs. Jason Fish\n
+ Main Card: Sean Wilson vs. Rocky Long\nMain Card: Cody Land vs. Will Shu
+ tt\nMain Card: Jeff Souder vs. David Simpson\nMain Card: Ryan Braun vs. 
+ Mike Seymour\nMain Card: Alonzo Martinez vs. Adalberto Serrano\nMain Car
+ d: Kevin Benson vs. Josh Krejci\nMain Card: Charlie DuBray vs. Emeka Ife
+ kandu
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220513T002506Z
 UID:2022-05-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kovalev vs. Pulev
@@ -97,7 +118,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trillerverz-v/2pb08/\n
  onald (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193718Z
+DTSTAMP:20220513T002506Z
 UID:2022-06-lion-fight-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 73
@@ -107,7 +128,19 @@ CATEGORIES:LFP,Muay Thai,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-73/2pb66/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220508T193718Z
+DTSTAMP:20220513T002506Z
+UID:2022-06-bkfc-jackson-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Jackson 2
+DTSTART:20220611T040000Z
+DTEND:20220611T070000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/89307-bkfc-fight-night-jackson-2\n\n---\n\nMain Event: Alan Belcher
+  vs. Frank Tate
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220513T002506Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

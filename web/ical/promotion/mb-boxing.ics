@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220511T010216Z
-X-KAMPFKALENDER-HASH:baaf56bdc063560efc9069574137d31fb6d0ba70
+DTSTAMP:20220513T002505Z
+X-KAMPFKALENDER-HASH:a1f3cabe2c0f530d75cda8d53c4ffee3eac8c29e
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220513T002505Z
 UID:2022-05-scardina-vs-de-carolis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Scardina vs. De Carolis
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Gabor Gorbics (26-27-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220513T002505Z
 UID:2022-05-lejarraga-vs-metcalf@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lejarraga vs. Metcalf
@@ -40,7 +40,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  iain (7-0-0) vs. Rikar Urrutia (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220513T002505Z
 UID:2022-05-buatsi-vs-richards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Buatsi vs. Richards
@@ -56,7 +56,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ey (4-0-0) vs. Maria Cecilia Roman (16-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220513T002505Z
 UID:2022-06-ogawa-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ogawa vs. Cordina
@@ -69,7 +69,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Barrett (27-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220513T002505Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -82,7 +82,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  nMain Card: Jorge Castaneda (15-1-0) vs. Eduardo Hernandez (31-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220513T002505Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -95,5 +95,17 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -5-1)\nMain Card: Murodjon Akhmadaliev (10-0-0) vs. Ronny Rios (33-3-0)\
  nMain Card: Julio Cesar Martinez (18-2-0) vs. McWilliams Arroyo (21-4-0)
  \nMain Card: Jessica McCaskill (11-2-0) vs. Alma Ibarra (10-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220513T002505Z
+UID:2022-07-usyk-vs-joshua-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Usyk vs. Joshua 2
+DTSTART:20220723T160000Z
+DTEND:20220723T190000Z
+CATEGORIES:MB,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
+ hua-2\n\n---\n\nMain Event: Oleksandr Usyk (19-0-0) vs. Anthony Joshua (
+ 24-2-0)
 END:VEVENT
 END:VCALENDAR

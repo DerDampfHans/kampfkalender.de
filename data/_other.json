@@ -111,17 +111,21 @@
     }
   },
   {
-    "id": "jenaer-fight-night-2022-05-21",
+    "id": "leos-boxnacht-2022-05-21",
     "promotion": "_OTHER",
     "sports": [
-      "KICKBOXING"
+      "BOXING"
     ],
     "tags": [
-      "#Jena"
+      "#München",
+      "@LCukur"
+    ],
+    "links": [
+      "http://leosboxgym.de/"
     ],
     "mainCard": {
-      "title": "4. Jenaer Fight Night",
-      "time": "2022-05-21T17:00:00Z",
+      "title": "Leo's Boxnacht",
+      "time": "2022-05-21T13:00:00Z",
       "until": "2022-05-21T20:00:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
@@ -130,25 +134,71 @@
       }
     },
     "fightEvents": {
-      "id": "4-jenaer-fight-night",
-      "time": "2022-05-21T17:00:00Z",
+      "id": "leos-boxnacht-12",
+      "time": "2022-05-21T13:00:00Z",
       "until": "2022-05-21T20:00:00Z",
-      "title": "4. Jenaer Fight Night",
-      "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
+      "title": "Leos Boxnacht 12",
+      "url": "https://www.fightevents.de/event/leos-boxnacht-12/",
       "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-ymk-mix-gala-459",
       "tags": [
-        "4. Jenaer Fight Night",
+        "Anthony Zaulig",
+        "Boxen",
+        "Emre Cukur",
+        "Leo’s Boxnacht",
+        "Leos Boxnacht 12",
+        "München"
+      ],
+      "categories": [
+        "Boxen",
         "Fight24.tv",
-        "Jena",
-        "Jenaer Fight Night",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "linz-fight-night-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Linz"
+    ],
+    "mainCard": {
+      "title": "Fight Night Linz",
+      "time": "2022-05-21T15:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "fight-night-linz",
+      "time": "2022-05-21T15:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "title": "Fight Night Linz",
+      "url": "https://www.fightevents.de/event/fight-night-linz/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-ymk-mix-gala-459",
+      "tags": [
+        "Fight Night",
+        "Fight Night Linz",
         "K1",
-        "Kickboxen"
+        "Kamon Chetphaophan",
+        "Kickboxen",
+        "Linz",
+        "Österreich",
+        "Rene Wimmer"
       ],
       "categories": [
         "Fight24.tv",
+        "International",
         "K1/Kickboxen",
-        "Livestream",
-        "National"
+        "Livestream"
       ]
     }
   },
@@ -193,6 +243,76 @@
           "freeAfter": 48
         }
       }
+    },
+    "fightEvents": {
+      "id": "heimspiel-offenbach",
+      "time": "2022-05-21T16:00:00Z",
+      "until": "2022-05-21T21:30:00Z",
+      "title": "Heimspiel Offenbach",
+      "url": "https://www.fightevents.de/event/heimspiel-offenbach/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Boxen",
+        "Fight24.t",
+        "Fighting",
+        "Heimspiel",
+        "Heimspiel Offenbach",
+        "K1",
+        "Kickboxen",
+        "Kickbxoen",
+        "Leon Maric",
+        "Luca Cinqueoncie",
+        "Offenbach"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "jenaer-fight-night-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Jena"
+    ],
+    "mainCard": {
+      "title": "4. Jenaer Fight Night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "4-jenaer-fight-night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "title": "4. Jenaer Fight Night",
+      "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "4. Jenaer Fight Night",
+        "Fight24.tv",
+        "Jena",
+        "Jenaer Fight Night",
+        "K1",
+        "Kickboxen"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
     }
   },
   {
