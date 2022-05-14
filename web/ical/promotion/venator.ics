@@ -4,11 +4,27 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220511T010216Z
-X-KAMPFKALENDER-HASH:5688cad8799ac622bdbb977b807149f5c60cd44b
+DTSTAMP:20220515T135159Z
+X-KAMPFKALENDER-HASH:494307ff34c0f30e31bba4e0a91e6bce2c5d886f
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220515T135200Z
 UID:2022-05-venator-fc-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Venator FC 11
+DTSTART:20220514T140000Z
+DTEND:20220514T170000Z
+CATEGORIES:Venator,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/87579-venator-fc-11\n\n---\n\nMain Event: Stefano Paternò vs
+ . Michelangelo Colangelo\nCo-Main Event: Michael Pagani vs. Joshua Onwor
+ di\nMain Card: Manolo Zecchini vs. Souk Khampasath\nMain Card: Serghei P
+ opa vs. Andrea Myrto\nMain Card: Aaron Robinson vs. Alessio Ibba\nMain C
+ ard: Gianni Massafra vs. Diego Pallavicini\nPrelim: Pasquale Dromì vs. M
+ ichele Verini\nPrelim: Andrei Oniscenco vs. Francesco Maione
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220515T135200Z
+UID:2022-05-venator-fc-11-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Venator FC 11
 DTSTART:20220514T140000Z

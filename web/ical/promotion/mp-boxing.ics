@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220511T183615Z
-X-KAMPFKALENDER-HASH:38fb8bb39d28cc32cccbfcb87a15872345085c40
+DTSTAMP:20220515T135159Z
+X-KAMPFKALENDER-HASH:6b24b7a12a1575101c2a83b6dc393eba15f91c62
 BEGIN:VEVENT
-DTSTAMP:20220511T183615Z
+DTSTAMP:20220515T135200Z
 UID:2022-05-mayweather-vs-moore@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs. Moore
@@ -20,5 +20,17 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/88377-the-showcas
  n Event: Anderson Silva (3-1-0) vs. Bruno Azeredo (0-0-0)\nMain Card: Ba
  dou Jack (25-3-3) vs. Hany Atiyo (16-5-0)\nMain Card: Elhem Mekhaled (15
  -0-0) vs. Delfine Persoon (46-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220515T135200Z
+UID:2022-05-mayweather-vs-moore-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Mayweather vs. Moore
+DTSTART:20220521T180000Z
+DTEND:20220521T210000Z
+CATEGORIES:MP$,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-moore/2p
+ b8l/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/88377-the-sho
+ wcase-in-the-skies-of-dubai\nhttp://www.boxrec.com/en/event/854438
 END:VEVENT
 END:VCALENDAR

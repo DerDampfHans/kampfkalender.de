@@ -2121,5 +2121,114 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-85916",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFCVegas54"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 54: Błachowicz vs. Rakić",
+      "time": "2022-05-15T02:00:00Z",
+      "tags": [
+        "🎙@SweepTheLeg1983"
+      ],
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 216103,
+        "time": "2022-05-15T02:00:00Z",
+        "title": "UFC Fight Night: Blachowicz vs Rakic"
+      },
+      "dazn": {
+        "id": "1h03rahn4tcnn1uywonvcstkrz",
+        "time": "2022-05-15T02:00:00Z",
+        "title": "UFC Fight Night: Blachowicz vs Rakic (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Nach der Rückenverletzung von Jan Blachowicz findet nun endlich der heiß ersehnte Kampf zwischen dem Polen und Aleksandar Rakic statt. Der Fight wird nicht wie ursprünglich geplant in Ohio sondern in Las Vegas stattfinden. // Kommentator: Elias Stefanescu"
+      }
+    },
+    "prelims": {
+      "title": "UFC Vegas 54: Prelims",
+      "time": "2022-05-14T23:30:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 216102,
+        "time": "2022-05-14T23:30:00Z",
+        "title": "UFC Fight Night: Blachowicz vs Rakic Prelims"
+      }
+    },
+    "tapology": {
+      "id": 85916,
+      "time": "2022-05-14T23:30:00Z",
+      "title": "UFC Fight Night: Błachowicz vs. Rakić",
+      "info": "Completed MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/85916-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Jan Błachowicz vs. Aleksandar Rakić",
+        "Co-Main Event: Ryan Spann vs. Ion Cutelaba",
+        "Main Card: Davey Grant vs. Louis Smolka",
+        "Main Card: Katlyn Chookagian vs. Amanda Ribas",
+        "Main Card: Manuel Torres vs. Frank Camacho",
+        "Main Card: Allan Nascimento vs. Jake Hadley",
+        "Prelim: Viviane Araujo vs. Andrea Lee",
+        "Prelim: Michael Johnson vs. Alan Patrick",
+        "Prelim: Virna Jandiroba vs. Angela Hill",
+        "Prelim: Tatsuro Taira vs. Carlos Candelario",
+        "Prelim: Andre Petroski vs. Nick Maximov"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-on-espn-36-blachowicz-vs-rakic-91795",
+        "http://en.wikipedia.org/wiki/UFC_on_ESPN:_Błachowicz_vs._Rakić",
+        "https://events.mixedmartialarts.com/ufc-fight-night:ec54bb42-4cfa-4a53-b275-5c6ed2889d86",
+        "https://www.ufc.com/event/ufc-fight-night-may-14-2022",
+        "http://www.ufcstats.com/event-details/60ba33c3f555a7a3",
+        "https://www.bestfightodds.com/events/ufc-fight-night-208-2418"
+      ]
+    }
+  },
+  {
+    "id": "ufc-jX69q0acL-I",
+    "promo": true,
+    "promotion": "UFC",
+    "tags": [
+      "#UFC"
+    ],
+    "mainCard": {
+      "title": "UFC Vegas 54: Post-Fight Press Conference",
+      "time": "2022-05-15T05:15:00Z",
+      "until": "2022-05-15T06:15:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=jX69q0acL-I",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "jX69q0acL-I",
+        "time": "2022-05-15T05:15:00Z",
+        "title": "UFC Vegas 54: Post-Fight Press Conference",
+        "url": "https://www.youtube.com/watch?v=jX69q0acL-I",
+        "live": true,
+        "tags": [
+          "#UFC"
+        ]
+      }
+    }
   }
 ]
