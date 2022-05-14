@@ -1485,5 +1485,96 @@
         "title": "Hollywood Fight Night: Walsh vs Garcia"
       }
     }
+  },
+  {
+    "id": "fightpass-217460",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#JCK"
+    ],
+    "mainCard": {
+      "title": "JCK Fight Night: Second Round",
+      "time": "2022-05-14T11:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 217460,
+        "time": "2022-05-14T11:00:00Z",
+        "title": "JCK MMA: 2022 Week 2"
+      }
+    },
+    "tapology": {
+      "id": 89220,
+      "time": "2022-05-14T09:40:00Z",
+      "title": "JCK Fight Night 2022: Second Round",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/89220-jck-fight-night-2022-second-round",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Bideliya (10-8-0) vs. Xuan Wang (2-2-0)",
+        "Co-Main Event: Pengchao Feng (11-6-1) vs. Yunzhi Xu (0-0-0)",
+        "Main Card: Ahebota Mulatihan (0-1-0) vs. Daihang Li (0-1-0)",
+        "Main Card: Zhang Xizhen (3-3-0) vs. Changying Liu (0-0-0)",
+        "Main Card: Fuyao Li (6-8-0) vs. Wei Zhao (2-1-0)",
+        "Main Card: Shamuhaer Aidelibieke (5-2-0) vs. Wanshuang Wang (1-3-0)",
+        "Main Card: Yixichilie (1-1-0) vs. Nidu Sha (4-5-0)",
+        "Prelim: Ang Li (0-0-0) vs. Tuerdiaji Sadier (2-1-0)",
+        "Prelim: Pengpeng Yang (0-2-0) vs. Dongliang Yuan (0-1-0)"
+      ]
+    }
+  },
+  {
+    "id": "ymk-2022-05-14",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#München"
+    ],
+    "mainCard": {
+      "title": "YMK Mix Gala",
+      "time": "2022-05-14T18:00:00Z",
+      "until": "2022-05-14T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-ymk-mix-gala-459",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "ymk-mix-gala",
+      "time": "2022-05-14T18:00:00Z",
+      "until": "2022-05-14T21:00:00Z",
+      "title": "YMK Mix Gala",
+      "url": "https://www.fightevents.de/event/ymk-mix-gala/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-ymk-mix-gala-459",
+      "tags": [
+        "Askan Yamak",
+        "Boxen",
+        "Fight24.tv",
+        "Hayk Haratunyan",
+        "Kickboxen",
+        "Michael Deiga-Scheck",
+        "München",
+        "YMK Mix Gala"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
   }
 ]
