@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220512T220304Z
-X-KAMPFKALENDER-HASH:63d652264879b61cfe3cc90ed8a1e326faf4ab50
+DTSTAMP:20220517T070433Z
+X-KAMPFKALENDER-HASH:b8f900007759278e3e65b04e26ee2de6272afb3b
 BEGIN:VEVENT
-DTSTAMP:20220512T220304Z
+DTSTAMP:20220517T070433Z
 UID:2022-05-ufc-274-im-ruckspiegel-die-analyse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 274 im Rückspiegel - die Analyse!
@@ -17,7 +17,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-lDSply4lv0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220512T220304Z
+DTSTAMP:20220517T070433Z
 UID:2022-05-bivol-besiegt-canelo-mma-news-ufc-bleibt-bei-dazn-volkanovski
  -und-superbon-u-v-m@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=5I8WH4gvMA4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220512T220304Z
+DTSTAMP:20220517T070433Z
 UID:2022-05-markus-von-den-mixed-martial-monkeys-uber-rakic-blachowicz-mm
  a-in-osterreich@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -39,5 +39,17 @@ DTSTART:20220512T150000Z
 DTEND:20220512T163000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=oKkEXvLmXyk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220517T070433Z
+UID:2022-05-ufc-vegas-54-analyse-alle-kampfe-rakics-knieverletzung-genau-
+ erklart@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 54 Analyse (alle Kämpfe) | Rakics Knieverletzung genau 
+ erklärt
+DTSTART:20220517T150000Z
+DTEND:20220517T170000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=tIemuWc_oi4
 END:VEVENT
 END:VCALENDAR
