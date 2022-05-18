@@ -4,22 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220517T220304Z
-X-KAMPFKALENDER-HASH:356e4a38854e47b1162aa83daea4d0a1fb497333
+DTSTAMP:20220518T174055Z
+X-KAMPFKALENDER-HASH:e36a9e80cc39f0a8cbda82e4286428e1e41bb3e1
 BEGIN:VEVENT
-DTSTAMP:20220517T220304Z
-UID:2022-05-bivol-besiegt-canelo-mma-news-ufc-bleibt-bei-dazn-volkanovski
- -und-superbon-u-v-m@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Bivol besiegt Canelo / MMA-News: UFC bleibt bei DAZN\, Volkanovsk
- i und Superbon u.v.m.
-DTSTART:20220511T150000Z
-DTEND:20220511T160000Z
-CATEGORIES:CR,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=5I8WH4gvMA4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220517T220304Z
+DTSTAMP:20220518T174055Z
 UID:2022-05-markus-von-den-mixed-martial-monkeys-uber-rakic-blachowicz-mm
  a-in-osterreich@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -31,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=oKkEXvLmXyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T220304Z
+DTSTAMP:20220518T174055Z
 UID:2022-05-ufc-vegas-54-analyse-alle-kampfe-rakics-knieverletzung-genau-
  erklart@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -41,5 +29,15 @@ DTSTART:20220517T150000Z
 DTEND:20220517T170000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=tIemuWc_oi4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220518T174055Z
+UID:2022-05-bellator-281-recap-ufc-vegas-55-preview@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 281 Recap + UFC Vegas 55 Preview
+DTSTART:20220519T150000Z
+DTEND:20220519T161000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=58u3SJyuWNc
 END:VEVENT
 END:VCALENDAR
