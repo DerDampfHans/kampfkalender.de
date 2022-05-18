@@ -11,6 +11,9 @@
     "mainCard": {
       "title": "UFC Vegas 55: Holm vs. Vieira",
       "time": "2022-05-21T23:00:00Z",
+      "tags": [
+        "🎙@SweepTheLeg1983"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -27,7 +30,8 @@
         "time": "2022-05-21T23:00:00Z",
         "title": "UFC Fight Night: Holm vs Vieira (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Freut euch auf die Rückkehr einer ehemaligen Championess! Holly Holm, die ehemalige Championess im Bantamgewicht, wird nach über eineinhalb Jahren zurück in den Käfig steigen. Die 40-Jährige besiegte in ihren letzten Kämpfen Irene Aldana und Raquel Pennington via Punktentscheid und will jetzt noch einmal angreifen. Gegnerin ist die 30-jährige Brasilianerin Ketlen Vieira, die ihre Liste der besiegten Titelträgerinnen erweitern möchte. // Kommentator: Elias Stefanescu"
       }
     },
     "prelims": {
@@ -177,7 +181,7 @@
       }
     },
     "prelims": {
-      "title": "UFC 275: Teixeira vs. Procházka: Prelims",
+      "title": "UFC 275: Prelims",
       "time": "2022-06-12T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
@@ -190,7 +194,7 @@
       }
     },
     "earlyPrelims": {
-      "title": "UFC 275: Teixeira vs. Procházka: Early Prelims",
+      "title": "UFC 275: Early Prelims",
       "time": "2022-06-11T22:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
@@ -234,8 +238,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCAustin"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night",
+      "title": "UFC Austin: Kattar vs. Emmett",
       "time": "2022-06-18T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -245,14 +252,14 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Austin: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       }
     },
     "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
+      "title": "UFC Austin: Early Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -260,7 +267,7 @@
     },
     "tapology": {
       "id": 88108,
-      "time": "2022-06-18T22:00:00Z",
+      "time": "2022-06-18T20:00:00Z",
       "title": "UFC Fight Night: Kattar vs. Emmett",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/88108-ufc-fight-night",
@@ -270,17 +277,18 @@
       "card": [
         "Main Event: Calvin Kattar (23-5-0) vs. Josh Emmett (17-2-0)",
         "Co-Main Event: Donald Cerrone (36-16-0) vs. Joe Lauzon (28-15-0)",
+        "Main Card: Damir Ismagulov (23-1-0) vs. Guram Kutateladze (12-2-0)",
         "Main Card: Julian Marquez (9-2-0) vs. Gregory Rodrigues (11-4-0)",
         "Main Card: Tim Means (32-12-1) vs. Kevin Holland (22-7-0)",
-        "Main Card: Adrian Yanez (15-3-0) vs. Tony Kelley (8-2-0)",
+        "Main Card: Joaquin Buckley (14-4-0) vs. Albert Duraev (15-3-0)",
         "Prelim: Phil Hawes (11-3-0) vs. Deron Winn (7-2-0)",
         "Prelim: Kyle Daukaus (11-2-0) vs. Roman Dolidze (9-1-0)",
         "Prelim: Gloria de Paula (6-4-0) vs. Maria Oliveira (12-5-0)",
         "Prelim: Jasmine Jasudavicius (7-1-0) vs. Natália Silva (12-5-1)",
-        "Prelim: Damir Ismagulov (23-1-0) vs. Guram Kutateladze (12-2-0)",
         "Prelim: Cody Stamann (19-5-1) vs. Eddie Wineland (24-15-1)",
         "Prelim: Jeremiah Wells (10-2-1) vs. Court McGee (21-10-0)",
-        "Prelim: Joaquin Buckley (14-4-0) vs. Albert Duraev (15-3-0)"
+        "Prelim: Adrian Yanez (15-3-0) vs. Tony Kelley (8-2-0)",
+        "Prelim: Danny Chavez (11-4-1) vs. Ricardo Ramos (15-4-0)"
       ]
     }
   },
@@ -290,8 +298,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCVegas57"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night",
+      "title": "UFC Vegas 57",
       "time": "2022-06-25T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -301,14 +312,7 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
+      "title": "UFC Vegas 57: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -392,7 +396,8 @@
         "Prelim: Uriah Hall (17-10-0) vs. André Muniz (22-4-0)",
         "Prelim: Jessica Eye (15-10-0) vs. Maycee Barber (10-2-0)",
         "Prelim: Robbie Lawler (29-15-0) vs. Bryan Barberena (17-8-0)",
-        "Prelim: Jim Miller (34-16-0) vs. Bobby Green (29-13-1)"
+        "Prelim: Jim Miller (34-16-0) vs. Bobby Green (29-13-1)",
+        "Prelim: Brad Riddell (10-2-0) vs. Jalin Turner (12-5-0)"
       ]
     }
   },
@@ -402,8 +407,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCVegas58"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night: Dos Anjos vs. Fiziev",
+      "title": "UFC Vegas 58: Dos Anjos vs. Fiziev",
       "time": "2022-07-09T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -413,14 +421,7 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
+      "title": "UFC Vegas 58: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -441,12 +442,12 @@
         "Main Card: Antonina Shevchenko (9-4-0) vs. Cortney Casey (10-9-0)",
         "Main Card: Cody Garbrandt (12-5-0) vs. Rani Yahya (28-10-1)",
         "Prelim: Ronnie Lawrence (8-1-0) vs. Saidyokub Kakhramonov (9-2-0)",
-        "Prelim: Tresean Gore (3-1-0) vs. Josh Fremd (9-3-0)",
         "Prelim: Said Nurmagomedov (15-2-0) vs. D. Silva de Andrade (28-4-0)",
         "Prelim: Abdul Razak Alhassan (11-5-0) vs. Jamie Pickett (13-7-0)",
         "Prelim: Caio Borralho (11-1-0) vs. Armen Petrosyan (7-1-0)",
         "Prelim: Sijara Eubanks (7-7-0) vs. Maryna Moroz (11-3-0)",
-        "Prelim: Austin Lingo (9-1-0) vs. David Onama (9-1-0)"
+        "Prelim: Austin Lingo (9-1-0) vs. David Onama (9-1-0)",
+        "Prelim: Cody Brundage (7-2-0) vs. Tresean Gore (3-1-0)"
       ]
     }
   },
@@ -456,8 +457,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCVegas59"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night: Ortega vs. Rodriguez",
+      "title": "UFC Vegas 59: Ortega vs. Rodriguez",
       "time": "2022-07-16T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -467,14 +471,7 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
+      "title": "UFC Vegas 59: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -496,7 +493,10 @@
         "Main Card: Michelle Waterson (18-9-0) vs. Amanda Lemos (11-2-1)",
         "Prelim: Herbert Burns (11-3-0) vs. Khusein Askhabov (23-0-0)",
         "Prelim: Jessica Penne (14-5-0) vs. Brianna Fortino (9-3-0)",
-        "Prelim: Punahele Soriano (8-2-0) vs. Dalcha Lungiambula (11-4-0)"
+        "Prelim: Punahele Soriano (8-2-0) vs. Dalcha Lungiambula (11-4-0)",
+        "Prelim: Ricky Simón (19-3-0) vs. Jack Shore (16-0-0)",
+        "Prelim: Billy Quarantillo (16-4-0) vs. Bill Algeo (15-6-0)",
+        "Prelim: Jingliang Li (18-7-0) vs. Muslim Salikhov (18-2-0)"
       ]
     }
   },
@@ -505,6 +505,9 @@
     "promotion": "UFC",
     "sports": [
       "MMA"
+    ],
+    "tags": [
+      "#UFCLondon"
     ],
     "mainCard": {
       "title": "UFC London",
@@ -595,7 +598,8 @@
         "Prelim: Ji Yeon Kim (9-5-2) vs. Mariya Agapova (10-3-0)",
         "Prelim: Ramiz Brahimaj (10-4-0) vs. Michael Morales (13-0-0)",
         "Prelim: Drakkar Klose (12-2-1) vs. Diego Ferreira (17-5-0)",
-        "Prelim: Justin Tafa (5-3-0) vs. Don'Tale Mayes (9-4-0)"
+        "Prelim: Justin Tafa (5-3-0) vs. Don'Tale Mayes (9-4-0)",
+        "Prelim: Drew Dober (24-11-0) vs. Rafael Alves (20-10-0)"
       ]
     }
   },
@@ -605,8 +609,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCVegas60"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night: Santos vs. Hill",
+      "title": "UFC Vegas 60: Santos vs. Hill",
       "time": "2022-08-06T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -616,14 +623,7 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Santos vs. Hill: Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Santos vs. Hill: Early Prelims",
+      "title": "UFC Vegas 60: Santos vs. Hill: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -653,8 +653,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCVegas61"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night",
+      "title": "UFC Vegas 61",
       "time": "2022-08-13T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -664,14 +667,7 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
+      "title": "UFC Vegas 61: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -687,7 +683,10 @@
         "MMA"
       ],
       "card": [
-        "Prelim: Yazmin Jauregui (8-0-0) vs. Istela Nunes (6-3-0)"
+        "Main Card: Devin Clark (13-6-0) vs. Azamat Murzakanov (11-0-0)",
+        "Main Card: Aspen Ladd (9-3-0) vs. Sara McMann (13-6-0)",
+        "Prelim: Yazmin Jauregui (8-0-0) vs. Istela Nunes (6-3-0)",
+        "Prelim: Gerald Meerschaert (34-15-0) vs. Bruno Silva (22-7-0)"
       ]
     }
   },
@@ -697,8 +696,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCVegas62"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night",
+      "title": "UFC Vegas 62",
       "time": "2022-08-20T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -708,14 +710,7 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
+      "title": "UFC Vegas 62: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -731,7 +726,8 @@
         "MMA"
       ],
       "card": [
-        "Prelim: Sean Woodson (9-1-0) vs. Luis Saldaña (16-7-0)"
+        "Prelim: Sean Woodson (9-1-0) vs. Luis Saldaña (16-7-0)",
+        "Prelim: Aoriqileng (23-11-0) vs. Jay Perrin (10-5-0)"
       ]
     }
   },
@@ -742,7 +738,7 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC Fight Night",
+      "title": "UFC Fight Night: Gane vs. Tuivasa",
       "time": "2022-09-03T16:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -777,6 +773,50 @@
       ],
       "card": [
         "Main Event: Ciryl Gane (10-1-0) vs. Tai Tuivasa (15-3-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-89492",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2022-09-10T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 89492,
+      "time": "2022-09-10T22:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/89492-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Prelim: Trey Ogden (15-5-0) vs. Daniel Zellhuber (12-0-0)"
       ]
     }
   },

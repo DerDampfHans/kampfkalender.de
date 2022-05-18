@@ -23,11 +23,12 @@
   },
   {
     "id": "fight-night-linz",
-    "time": "2022-05-21T15:00:00Z",
+    "time": "2022-05-21T16:00:00Z",
     "until": "2022-05-21T20:00:00Z",
     "title": "Fight Night Linz",
     "url": "https://www.fightevents.de/event/fight-night-linz/",
     "broadcaster": "FIGHT24_TV",
+    "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
     "tags": [
       "Fight Night",
       "Fight Night Linz",
@@ -74,9 +75,31 @@
     ]
   },
   {
-    "id": "nak-muay-league",
-    "time": "2022-05-21T16:00:00Z",
+    "id": "4-jenaer-fight-night",
+    "time": "2022-05-21T17:00:00Z",
     "until": "2022-05-21T20:00:00Z",
+    "title": "4. Jenaer Fight Night",
+    "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
+    "broadcaster": "FIGHT24_TV",
+    "tags": [
+      "4. Jenaer Fight Night",
+      "Fight24.tv",
+      "Jena",
+      "Jenaer Fight Night",
+      "K1",
+      "Kickboxen"
+    ],
+    "categories": [
+      "Fight24.tv",
+      "K1/Kickboxen",
+      "Livestream",
+      "National"
+    ]
+  },
+  {
+    "id": "nak-muay-league",
+    "time": "2022-05-21T17:45:00Z",
+    "until": "2022-05-21T21:00:00Z",
     "title": "Nak Muay League",
     "url": "https://www.fightevents.de/event/nak-muay-league/",
     "broadcaster": "FIGHT24_TV",
@@ -96,28 +119,6 @@
       "K1/Kickboxen",
       "Livestream",
       "Muay Thai",
-      "National"
-    ]
-  },
-  {
-    "id": "4-jenaer-fight-night",
-    "time": "2022-05-21T17:00:00Z",
-    "until": "2022-05-21T20:00:00Z",
-    "title": "4. Jenaer Fight Night",
-    "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
-    "broadcaster": "FIGHT24_TV",
-    "tags": [
-      "4. Jenaer Fight Night",
-      "Fight24.tv",
-      "Jena",
-      "Jenaer Fight Night",
-      "K1",
-      "Kickboxen"
-    ],
-    "categories": [
-      "Fight24.tv",
-      "K1/Kickboxen",
-      "Livestream",
       "National"
     ]
   },
