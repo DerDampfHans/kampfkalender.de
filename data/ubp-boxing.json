@@ -5,10 +5,18 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#KossobutskiyDuhaupas"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Kossobutskiy vs. Duhaupas",
-      "time": "2022-05-21T19:00:00Z"
+      "time": "2022-05-21T16:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/c/UniversumBoxing",
+          "free": true
+        }
+      }
     },
     "tapology": {
       "id": 89424,
