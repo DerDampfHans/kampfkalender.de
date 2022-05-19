@@ -94,6 +94,96 @@
     }
   },
   {
+    "id": "linz-fight-night-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Linz"
+    ],
+    "mainCard": {
+      "title": "Fight Night Linz",
+      "time": "2022-05-21T16:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "fight-night-linz",
+      "time": "2022-05-21T16:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "title": "Fight Night Linz",
+      "url": "https://www.fightevents.de/event/fight-night-linz/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
+      "tags": [
+        "Fight Night",
+        "Fight Night Linz",
+        "K1",
+        "Kamon Chetphaophan",
+        "Kickboxen",
+        "Linz",
+        "Österreich",
+        "Rene Wimmer"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "International",
+        "K1/Kickboxen",
+        "Livestream"
+      ]
+    }
+  },
+  {
+    "id": "jenaer-fight-night-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Jena"
+    ],
+    "mainCard": {
+      "title": "4. Jenaer Fight Night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "4-jenaer-fight-night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "title": "4. Jenaer Fight Night",
+      "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "4. Jenaer Fight Night",
+        "Fight24.tv",
+        "Jena",
+        "Jenaer Fight Night",
+        "K1",
+        "Kickboxen"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
     "id": "heimspiel-2022-05-21",
     "promotion": "_OTHER",
     "sports": [
@@ -181,96 +271,6 @@
       ],
       "categories": [
         "Boxen",
-        "Fight24.tv",
-        "K1/Kickboxen",
-        "Livestream",
-        "National"
-      ]
-    }
-  },
-  {
-    "id": "linz-fight-night-2022-05-21",
-    "promotion": "_OTHER",
-    "sports": [
-      "MMA",
-      "BOXING",
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#Linz"
-    ],
-    "mainCard": {
-      "title": "Fight Night Linz",
-      "time": "2022-05-21T16:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "url": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
-          "freeAfter": 48
-        }
-      }
-    },
-    "fightEvents": {
-      "id": "fight-night-linz",
-      "time": "2022-05-21T16:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "title": "Fight Night Linz",
-      "url": "https://www.fightevents.de/event/fight-night-linz/",
-      "broadcaster": "FIGHT24_TV",
-      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
-      "tags": [
-        "Fight Night",
-        "Fight Night Linz",
-        "K1",
-        "Kamon Chetphaophan",
-        "Kickboxen",
-        "Linz",
-        "Österreich",
-        "Rene Wimmer"
-      ],
-      "categories": [
-        "Fight24.tv",
-        "International",
-        "K1/Kickboxen",
-        "Livestream"
-      ]
-    }
-  },
-  {
-    "id": "jenaer-fight-night-2022-05-21",
-    "promotion": "_OTHER",
-    "sports": [
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#Jena"
-    ],
-    "mainCard": {
-      "title": "4. Jenaer Fight Night",
-      "time": "2022-05-21T17:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "freeAfter": 48
-        }
-      }
-    },
-    "fightEvents": {
-      "id": "4-jenaer-fight-night",
-      "time": "2022-05-21T17:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "title": "4. Jenaer Fight Night",
-      "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
-      "broadcaster": "FIGHT24_TV",
-      "tags": [
-        "4. Jenaer Fight Night",
-        "Fight24.tv",
-        "Jena",
-        "Jenaer Fight Night",
-        "K1",
-        "Kickboxen"
-      ],
-      "categories": [
         "Fight24.tv",
         "K1/Kickboxen",
         "Livestream",
