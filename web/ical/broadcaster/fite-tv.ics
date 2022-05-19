@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220518T063321Z
-X-KAMPFKALENDER-HASH:181d234cb1e0e4dca7a1eea5c49fd886e337e022
+DTSTAMP:20220519T121236Z
+X-KAMPFKALENDER-HASH:5108643f2c61c194fc997dc1943ace9419e7a9c4
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-bkfc-omaha-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Omaha: Prelims
@@ -25,7 +25,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-omaha-prelims/2pb
  son vs. Josh Krejci\nMain Card: Charlie DuBray vs. Emeka Ifekandu
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-bkfc-omaha-cochrane-vs-dyer@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Omaha: Cochrane vs. Dyer
@@ -44,7 +44,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-omaha-cochrane
  kandu
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kovalev vs. Pulev
@@ -60,7 +60,20 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trillerverz-v/2pb08/\n
  n Holyfield\nMain Card: Emiliano Vargas vs. Mark Salgado
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
+UID:2022-05-cinqueoncie-vs-maric-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cinqueoncie vs. Maric: Prelims
+DTSTART:20220521T160000Z
+DTEND:20220521T200000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
+ passes/fight24-heimspiel-458\nvia fite.tv: https://www.fite.tv/watch/hei
+ mspiel-cinqueoncie-vs-maric-de/2pbc2/\n\n---\n\nhttps://boxen.co/27419-2
+ /\nhttps://www.fightevents.de/event/heimspiel-offenbach/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220519T121237Z
 UID:2022-05-mayweather-vs-moore-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs. Moore
@@ -72,7 +85,20 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-moore/2p
  wcase-in-the-skies-of-dubai\nhttp://www.boxrec.com/en/event/854438
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
+UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cinqueoncie vs. Maric
+DTSTART:20220521T200000Z
+DTEND:20220521T213000Z
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\nvia SPORT1 Extra\nvia fite.t
+ v: https://www.fite.tv/watch/heimspiel-cinqueoncie-vs-maric-de/2pbc2/\n\
+ n---\n\nhttps://boxen.co/27419-2/\nhttps://www.fightevents.de/event/heim
+ spiel-offenbach/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220519T121237Z
 UID:2022-06-lion-fight-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 73
@@ -82,7 +108,7 @@ CATEGORIES:LFP,Muay Thai,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-73/2pb66/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -93,7 +119,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  iday-night-boxing-2-461\nvia fite.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
 UID:2022-06-bkfc-jackson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2
@@ -105,7 +131,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Frank Tate
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

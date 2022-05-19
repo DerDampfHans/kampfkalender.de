@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220518T174055Z
-X-KAMPFKALENDER-HASH:0c3cbd80231dad2db4402f65098bbb729bfac40d
+DTSTAMP:20220519T121236Z
+X-KAMPFKALENDER-HASH:8b3ff68b1d156b86a91c9c1b564a89b242b08ea5
 BEGIN:VEVENT
-DTSTAMP:20220518T174055Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-markus-von-den-mixed-martial-monkeys-uber-rakic-blachowicz-mm
  a-in-osterreich@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=oKkEXvLmXyk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T174055Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-schlagwort-podcast-163@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 163
@@ -29,7 +29,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nB_KdgIrbF4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T174055Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-ufc-vegas-54-analyse-alle-kampfe-rakics-knieverletzung-genau-
  erklart@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -41,7 +41,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=tIemuWc_oi4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T174055Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-bellator-281-recap-ufc-vegas-55-preview@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281 Recap + UFC Vegas 55 Preview
@@ -49,5 +49,15 @@ DTSTART:20220519T150000Z
 DTEND:20220519T161000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=58u3SJyuWNc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220519T121237Z
+UID:2022-05-schlagwort-podcast@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20220522T160000Z
+DTEND:20220522T170000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR

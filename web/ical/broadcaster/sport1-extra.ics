@@ -4,18 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220518T063321Z
-X-KAMPFKALENDER-HASH:d0781166ec6c26019e7da0806c88e1619d46c563
+DTSTAMP:20220519T121236Z
+X-KAMPFKALENDER-HASH:4d1aae124be94fdc91a9cd07d8ce1ffcb0f8c2fc
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220519T121237Z
 UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric
 DTSTART:20220521T200000Z
 DTEND:20220521T213000Z
-CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\nvia SPORT1 Extra\n\n---\n\nh
- ttps://boxen.co/27419-2/\nhttps://www.fightevents.de/event/heimspiel-off
- enbach/
+CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\nvia SPORT1 Extra\nvia fite.t
+ v: https://www.fite.tv/watch/heimspiel-cinqueoncie-vs-maric-de/2pbc2/\n\
+ n---\n\nhttps://boxen.co/27419-2/\nhttps://www.fightevents.de/event/heim
+ spiel-offenbach/
 END:VEVENT
 END:VCALENDAR
