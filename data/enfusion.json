@@ -59,16 +59,36 @@
     }
   },
   {
+    "id": "enfusion-2022-06-05",
+    "promotion": "ENFUSION",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#ECE8"
+    ],
+    "mainCard": {
+      "title": "Enfusion ECE 8",
+      "time": "2022-06-05T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    }
+  },
+  {
     "id": "enfusion-2022-06-11",
     "promotion": "ENFUSION",
     "sports": [
       "KICKBOXING"
     ],
     "tags": [
-      "#Enfusion108"
+      "#Enfusion108",
+      "#GloryRivals1"
     ],
     "mainCard": {
-      "title": "Enfusion 108",
+      "title": "Enfusion 108 & Glory Rivals 1",
       "time": "2022-06-11T15:30:00Z",
       "until": "2022-06-11T19:30:00Z",
       "broadcasters": {
@@ -88,9 +108,63 @@
       }
     },
     "fightEvents": {
-      "id": "enfusion-109",
+      "id": "enfusion-108",
       "time": "2022-06-11T15:30:00Z",
       "until": "2022-06-11T19:30:00Z",
+      "title": "Enfusion 108",
+      "url": "https://www.fightevents.de/event/enfusion-108/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Antwerp",
+        "Belgien",
+        "Enfusion",
+        "Enfusion 107",
+        "Glory",
+        "Glory Rivals1",
+        "K1",
+        "Kickboxen"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "International",
+        "K1/Kickboxen",
+        "Livestream"
+      ]
+    }
+  },
+  {
+    "id": "enfusion-2022-06-18",
+    "promotion": "ENFUSION",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Enfusion109"
+    ],
+    "mainCard": {
+      "title": "Enfusion 109",
+      "time": "2022-06-18T15:30:00Z",
+      "until": "2022-06-18T19:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Enfusion Talents 92",
+      "time": "2022-06-18T16:00:00Z",
+      "tags": [
+        "#EnfusionTalents92"
+      ],
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "enfusion-109",
+      "time": "2022-06-18T15:30:00Z",
+      "until": "2022-06-18T19:30:00Z",
       "title": "Enfusion 109",
       "url": "https://www.fightevents.de/event/enfusion-109/",
       "broadcaster": "FIGHT24_TV",
@@ -113,35 +187,6 @@
         "K1/Kickboxen",
         "Livestream"
       ]
-    }
-  },
-  {
-    "id": "enfusion-2022-06-18",
-    "promotion": "ENFUSION",
-    "sports": [
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#Enfusion109"
-    ],
-    "mainCard": {
-      "title": "Enfusion 109",
-      "time": "2022-06-18T18:00:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
-      }
-    },
-    "prelims": {
-      "title": "Enfusion Talents 92",
-      "time": "2022-06-18T16:00:00Z",
-      "tags": [
-        "#EnfusionTalents92"
-      ],
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
-      }
     }
   }
 ]

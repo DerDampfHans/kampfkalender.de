@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220518T063321Z
-X-KAMPFKALENDER-HASH:80a4ea25663ec676bfecf7e0b8ab6f4a6c60f05f
+DTSTAMP:20220520T060645Z
+X-KAMPFKALENDER-HASH:71c4f3bf0a65b65819e2aee8e2ee65efaba7696c
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-one-157-petchmorakot-vs-vienot@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 157: Petchmorakot vs. Vienot
@@ -17,22 +17,32 @@ CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=S-XJn81FD_s\n\n-
  --\n\nhttps://www.tapology.com/fightcenter/events/88823-one-championship
  -petchmorakot-vs-vienot\nhttp://www.sherdog.com/events/one-championship-
- one-157-92908\nhttps://events.mixedmartialarts.com/one-championship:0459
- fc5b-cea9-4ec7-bf46-57d8a22d7ba2\n\n---\n\nMain Event: P. Petchyindee vs
- . Jimmy Vienot\nCo-Main Event: Prajanchai PK Saenchai vs. Joseph Lasiri\
- nMain Card: Rodtang Jitmuangnon vs. Jacob Smith\nMain Card: Garry Tonon 
- vs. Tye Ruotolo\nMain Card: Marcus Buchecha (2-0-0) vs. Hugo Cunha (6-1-
- 0)\nMain Card: Shinya Aoki vs. Kade Ruotolo\nMain Card: Jonathan Haggert
- y vs. Walter Goncalves\nPrelim: Rade Opačić vs. Guto Inocente\nPrelim: A
- sha Roka (4-2-0) vs. Alyse Anderson (5-2-0)\nPrelim: Superlek Kiatmoo9 v
- s. Taiki Naito\nPrelim: Savvas Michael vs. Amir Naseri\nPrelim: Davit Ki
- ria vs. Mohammed Boutasaa\nPrelim: Wondergirl Fairtex (0-0-0) vs. Zeba B
- ano (1-0-0)\nPrelim: Panpayak Jitmuangnon vs. Josue Cruz\nPrelim: Denis 
- Purić vs. Sherzod Kabutov\nPrelim: Elipitua Siregar (4-2-0) vs. Robin Ca
- talan (9-7-0)
+ one-157-92908\nhttps://events.mixedmartialarts.com/one-championship-157:
+ 0459fc5b-cea9-4ec7-bf46-57d8a22d7ba2\n\n---\n\nMain Event: P. Petchyinde
+ e vs. Jimmy Vienot\nCo-Main Event: Prajanchai PK Saenchai vs. Joseph Las
+ iri\nMain Card: Rodtang Jitmuangnon vs. Jacob Smith\nMain Card: Garry To
+ non vs. Tye Ruotolo\nMain Card: Shinya Aoki vs. Kade Ruotolo\nMain Card:
+  Walter Goncalves vs. Josue Cruz\nPrelim: Superlek Kiatmoo9 vs. Taiki Na
+ ito\nPrelim: Savvas Michael vs. Amir Naseri\nPrelim: Asha Roka (4-2-0) v
+ s. Alyse Anderson (5-2-0)\nPrelim: Davit Kiria vs. Mohammed Boutasaa\nPr
+ elim: Wondergirl Fairtex (0-0-0) vs. Zeba Bano (1-0-0)\nPrelim: Denis Pu
+ rić vs. Sherzod Kabutov\nPrelim: Elipitua Siregar (4-2-0) vs. Robin Cata
+ lan (9-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T063322Z
+DTSTAMP:20220520T060645Z
+UID:2022-05-nak-muay-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nak Muay League
+DTSTART:20220521T174500Z
+DTEND:20220521T210000Z
+CATEGORIES:Other,Muay Thai,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-na
+ k-muay-league-464\n\n---\n\nhttps://www.fightevents.de/event/nak-muay-le
+ ague/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220520T060645Z
 UID:2022-06-lion-fight-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 73
@@ -40,5 +50,15 @@ DTSTART:20220605T000000Z
 DTEND:20220605T030000Z
 CATEGORIES:LFP,Muay Thai,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-73/2pb66/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220520T060645Z
+UID:2022-07-lion-fight-74@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lion Fight 74
+DTSTART:20220709T000000Z
+DTEND:20220709T030000Z
+CATEGORIES:LFP,Muay Thai,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-74/2pbc8/
 END:VEVENT
 END:VCALENDAR

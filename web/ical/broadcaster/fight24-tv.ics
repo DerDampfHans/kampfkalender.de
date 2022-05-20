@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220519T121236Z
-X-KAMPFKALENDER-HASH:b8615c53c7f91e9bf22f8d44a2f889d441a87862
+DTSTAMP:20220520T060645Z
+X-KAMPFKALENDER-HASH:3fcf648aa7917dbc0cffe7c098ffdf60a70b0dec
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-hard-fighting-championship-35@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hard Fighting Championship 35
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-hf
  .tapology.com/fightcenter/events/88550-hard-fighting-championship-35
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-ymk-mix-gala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:YMK Mix Gala
@@ -30,18 +30,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ym
  k-mix-gala-459\n\n---\n\nhttps://www.fightevents.de/event/ymk-mix-gala/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
-UID:2022-05-leo-s-boxnacht@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Leo's Boxnacht
-DTSTART:20220521T130000Z
-DTEND:20220521T200000Z
-CATEGORIES:Other,Boxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttp://leosboxgym.de/\nhttps://www.f
- ightevents.de/event/leos-boxnacht-12/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-cinqueoncie-vs-maric-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric: Prelims
@@ -54,7 +43,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
  /\nhttps://www.fightevents.de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-fight-night-linz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Night Linz
@@ -66,18 +55,30 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fi
  t-linz/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
-UID:2022-05-4-jenaer-fight-night@kampfkalender.de
+DTSTAMP:20220520T060645Z
+UID:2022-05-leo-s-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:4. Jenaer Fight Night
-DTSTART:20220521T170000Z
+SUMMARY:Leo's Boxnacht
+DTSTART:20220521T160000Z
 DTEND:20220521T200000Z
-CATEGORIES:Other,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/4-j
- enaer-fight-night/
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttp://leosboxgym.de/\nhttps://www.f
+ ightevents.de/event/leos-boxnacht-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
+UID:2022-05-nak-muay-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nak Muay League
+DTSTART:20220521T174500Z
+DTEND:20220521T210000Z
+CATEGORIES:Other,Muay Thai,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-na
+ k-muay-league-464\n\n---\n\nhttps://www.fightevents.de/event/nak-muay-le
+ ague/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220520T060645Z
 UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric
@@ -90,7 +91,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia SPORT1 Extra\nvia fite.t
  spiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -101,7 +102,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  iday-night-boxing-2-461\nvia fite.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -113,7 +114,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -124,7 +125,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-nfc-9-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Main Card
@@ -135,7 +136,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-nfc-9-vertko-vs-ardas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Vertko vs. Ardas
@@ -146,7 +147,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-super-league-mma-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 3
@@ -160,7 +161,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=arX3zBNg1vk\
  (10-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -171,7 +172,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -182,7 +183,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-08-nfc-10-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Coga vs. Özyildirim
@@ -193,7 +194,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-09-super-league-mma-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 4
@@ -204,7 +205,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/super-league-mma-4/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -215,7 +216,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -226,7 +227,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -237,7 +238,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -248,7 +249,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/super-league-mma-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -259,7 +260,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -270,7 +271,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

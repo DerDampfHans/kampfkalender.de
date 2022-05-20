@@ -23,8 +23,8 @@
     },
     "tapology": {
       "id": 89419,
-      "time": "2022-05-21T10:40:00Z",
-      "title": "JCK Fight Night 2022: Third Round",
+      "time": "2022-05-21T09:30:00Z",
+      "title": "JCK Fight Night 2022: First Round 3",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/89419-jck-fight-night-2022-third-round",
       "sports": [
@@ -62,7 +62,7 @@
     ],
     "mainCard": {
       "title": "Leo's Boxnacht",
-      "time": "2022-05-21T13:00:00Z",
+      "time": "2022-05-21T16:00:00Z",
       "until": "2022-05-21T20:00:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
@@ -88,96 +88,6 @@
       "categories": [
         "Boxen",
         "Fight24.tv",
-        "Livestream",
-        "National"
-      ]
-    }
-  },
-  {
-    "id": "linz-fight-night-2022-05-21",
-    "promotion": "_OTHER",
-    "sports": [
-      "MMA",
-      "BOXING",
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#Linz"
-    ],
-    "mainCard": {
-      "title": "Fight Night Linz",
-      "time": "2022-05-21T16:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "url": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
-          "freeAfter": 48
-        }
-      }
-    },
-    "fightEvents": {
-      "id": "fight-night-linz",
-      "time": "2022-05-21T16:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "title": "Fight Night Linz",
-      "url": "https://www.fightevents.de/event/fight-night-linz/",
-      "broadcaster": "FIGHT24_TV",
-      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
-      "tags": [
-        "Fight Night",
-        "Fight Night Linz",
-        "K1",
-        "Kamon Chetphaophan",
-        "Kickboxen",
-        "Linz",
-        "Österreich",
-        "Rene Wimmer"
-      ],
-      "categories": [
-        "Fight24.tv",
-        "International",
-        "K1/Kickboxen",
-        "Livestream"
-      ]
-    }
-  },
-  {
-    "id": "jenaer-fight-night-2022-05-21",
-    "promotion": "_OTHER",
-    "sports": [
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#Jena"
-    ],
-    "mainCard": {
-      "title": "4. Jenaer Fight Night",
-      "time": "2022-05-21T17:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "freeAfter": 48
-        }
-      }
-    },
-    "fightEvents": {
-      "id": "4-jenaer-fight-night",
-      "time": "2022-05-21T17:00:00Z",
-      "until": "2022-05-21T20:00:00Z",
-      "title": "4. Jenaer Fight Night",
-      "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
-      "broadcaster": "FIGHT24_TV",
-      "tags": [
-        "4. Jenaer Fight Night",
-        "Fight24.tv",
-        "Jena",
-        "Jenaer Fight Night",
-        "K1",
-        "Kickboxen"
-      ],
-      "categories": [
-        "Fight24.tv",
-        "K1/Kickboxen",
         "Livestream",
         "National"
       ]
@@ -279,6 +189,145 @@
     }
   },
   {
+    "id": "linz-fight-night-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Linz"
+    ],
+    "mainCard": {
+      "title": "Fight Night Linz",
+      "time": "2022-05-21T16:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "fight-night-linz",
+      "time": "2022-05-21T16:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "title": "Fight Night Linz",
+      "url": "https://www.fightevents.de/event/fight-night-linz/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-fight-night-viii-463",
+      "tags": [
+        "Fight Night",
+        "Fight Night Linz",
+        "K1",
+        "Kamon Chetphaophan",
+        "Kickboxen",
+        "Linz",
+        "Österreich",
+        "Rene Wimmer"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "International",
+        "K1/Kickboxen",
+        "Livestream"
+      ]
+    }
+  },
+  {
+    "id": "jenaer-fight-night-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Jena"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "4. Jenaer Fight Night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "4-jenaer-fight-night",
+      "time": "2022-05-21T17:00:00Z",
+      "until": "2022-05-21T20:00:00Z",
+      "title": "4. Jenaer Fight Night",
+      "url": "https://www.fightevents.de/event/4-jenaer-fight-night/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "4. Jenaer Fight Night",
+        "Fight24.tv",
+        "Jena",
+        "Jenaer Fight Night",
+        "K1",
+        "Kickboxen"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "National"
+      ]
+    }
+  },
+  {
+    "id": "nak-muay-2022-05-21",
+    "promotion": "_OTHER",
+    "sports": [
+      "MUAY_THAI",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Rathenow"
+    ],
+    "mainCard": {
+      "title": "Nak Muay League",
+      "time": "2022-05-21T17:45:00Z",
+      "until": "2022-05-21T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nak-muay-league-464",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "nak-muay-league",
+      "time": "2022-05-21T17:45:00Z",
+      "until": "2022-05-21T21:00:00Z",
+      "title": "Nak Muay League",
+      "url": "https://www.fightevents.de/event/nak-muay-league/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Fight24.tv",
+        "K1",
+        "Kickboxen",
+        "Mo Zamzam",
+        "Muay Thai",
+        "Nak Muay League",
+        "Rathenow",
+        "Robin Ringer",
+        "Valentino Klemic"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "Muay Thai",
+        "National"
+      ]
+    }
+  },
+  {
     "id": "fightpass-217810",
     "promotion": "_OTHER",
     "sports": [
@@ -289,14 +338,14 @@
     ],
     "mainCard": {
       "title": "JCK Fight Night: Week 4",
-      "time": "2022-05-29T11:00:00Z",
+      "time": "2022-05-28T11:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 217810,
-        "time": "2022-05-29T11:00:00Z",
+        "time": "2022-05-28T11:00:00Z",
         "title": "JCK MMA: 2022 Week 4"
       }
     }

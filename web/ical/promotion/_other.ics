@@ -4,20 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220519T121236Z
-X-KAMPFKALENDER-HASH:7387f69fcebaac002d948632ad571da79a7d8f6f
+DTSTAMP:20220520T060645Z
+X-KAMPFKALENDER-HASH:83e8b5e79ff654e64741fb602e01b6f0268e4a96
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
-UID:2022-05-hollywood-fight-night@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Hollywood Fight Night
-DTSTART:20220513T020000Z
-DTEND:20220513T050000Z
-CATEGORIES:Other,Boxen,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-jck-fight-night-week-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: Week 2
@@ -36,7 +26,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-ymk-mix-gala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:YMK Mix Gala
@@ -47,7 +37,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ym
  k-mix-gala-459\n\n---\n\nhttps://www.fightevents.de/event/ymk-mix-gala/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-jck-fight-night-week-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: Week 3
@@ -67,18 +57,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  lim: Shuaihu Li (5-7-0) vs. Xingqiang Yang (0-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
-UID:2022-05-leo-s-boxnacht@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Leo's Boxnacht
-DTSTART:20220521T130000Z
-DTEND:20220521T200000Z
-CATEGORIES:Other,Boxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttp://leosboxgym.de/\nhttps://www.f
- ightevents.de/event/leos-boxnacht-12/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-cinqueoncie-vs-maric-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric: Prelims
@@ -91,7 +70,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
  /\nhttps://www.fightevents.de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-fight-night-linz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Night Linz
@@ -103,18 +82,30 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fi
  t-linz/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
-UID:2022-05-4-jenaer-fight-night@kampfkalender.de
+DTSTAMP:20220520T060645Z
+UID:2022-05-leo-s-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:4. Jenaer Fight Night
-DTSTART:20220521T170000Z
+SUMMARY:Leo's Boxnacht
+DTSTART:20220521T160000Z
 DTEND:20220521T200000Z
-CATEGORIES:Other,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/4-j
- enaer-fight-night/
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttp://leosboxgym.de/\nhttps://www.f
+ ightevents.de/event/leos-boxnacht-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
+UID:2022-05-nak-muay-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nak Muay League
+DTSTART:20220521T174500Z
+DTEND:20220521T210000Z
+CATEGORIES:Other,Muay Thai,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-na
+ k-muay-league-464\n\n---\n\nhttps://www.fightevents.de/event/nak-muay-le
+ ague/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220520T060645Z
 UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric
@@ -127,17 +118,17 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia SPORT1 Extra\nvia fite.t
  spiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-jck-fight-night-week-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: Week 4
-DTSTART:20220529T110000Z
-DTEND:20220529T140000Z
+DTSTART:20220528T110000Z
+DTEND:20220528T140000Z
 CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-jck-fight-night-week-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: Week 5
@@ -147,7 +138,7 @@ CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -158,7 +149,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  iday-night-boxing-2-461\nvia fite.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220520T060645Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands

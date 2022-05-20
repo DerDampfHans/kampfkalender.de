@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220514T205055Z
-X-KAMPFKALENDER-HASH:5a59fbe7c3c4f721390f5e16810c6d420d8e4796
+DTSTAMP:20220520T060645Z
+X-KAMPFKALENDER-HASH:66a752bf30b0db90909033d8f5fb681b1867a2da
 BEGIN:VEVENT
-DTSTAMP:20220514T205055Z
+DTSTAMP:20220520T060645Z
 UID:2022-05-eternal-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 66
@@ -18,9 +18,28 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/88996-eternal-mma-66\n\n---\n\nMain Event: Jack Becker (10-2
  -0) vs. Aidan Aguilera (8-5-0)\nMain Card: Toby Meech (3-2-0) vs. Nick T
  hornton (1-2-0)\nMain Card: Harvinder Mohar (0-1-0) vs. Frank Jankowski 
- (1-0-0)\nPrelim: Tristan O'Brien (0-0-0) vs. Moses Deng (1-1-0)\nPrelim:
-  Liam Hoskin (1-3-0) vs. Ryan Jankowski (1-2-0)\nPrelim: Jasmine Nikora 
- (0-0-0) vs. Robyn O'Neill (0-0-0)\nPrelim: Laurence Whitesmith (3-0-0) v
- s. Kaleb Steinnokel (3-2-0)
+ (1-0-0)\nMain Card: Anthony Drilich (2-1-0) vs. Lawrence Lui (0-0-0)\nPr
+ elim: Tristan O'Brien (0-0-0) vs. Moses Deng (1-1-0)\nPrelim: Liam Hoski
+ n (1-3-0) vs. Ryan Jankowski (1-2-0)\nPrelim: Laurence Whitesmith (3-0-0
+ ) vs. Kaleb Steinnokel (3-2-0)\nPrelim: Jasmine Nikora (0-0-0) vs. Amena
+  Hadaya (3-2-0)\nPrelim: Jack Hooper (2-2-0) vs. Kane Rickus (1-4-0)\nPr
+ elim: Blu Thein (0-0-0) vs. John English (0-0-0)\nPrelim: Owen Tincombe 
+ (2-0-0) vs. Julian Giustiniano (1-0-0)\nPrelim: Wyatt Fraser (2-0-0) vs.
+  Alex Poniris (3-0-0)\nPrelim: Steve Russell (0-1-0) vs. Spencer Mosely 
+ (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220520T060645Z
+UID:2022-07-eternal-mma-67@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 67
+DTSTART:20220716T080000Z
+DTEND:20220716T110000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89588-eternal-mma-67\n\n---\n\nMain Event: Kevin Jousset (5-
+ 1-0) vs. Kaleb Rideout (6-2-0)\nCo-Main Event: Justin Van Heerden (9-5-0
+ ) vs. Mohammad Alavi (7-0-0)\nMain Card: Diego Pereira (7-6-0) vs. Alan 
+ Philpott (19-13-0)
 END:VEVENT
 END:VCALENDAR
