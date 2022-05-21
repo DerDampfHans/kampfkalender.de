@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220514T205055Z
-X-KAMPFKALENDER-HASH:5ea4b6637bdd1ee49d496831a89c9a7ff08a266c
+DTSTAMP:20220521T103219Z
+X-KAMPFKALENDER-HASH:4403acf4ffb5d8df45dfdd09fde5abefb6b5e822
 BEGIN:VEVENT
-DTSTAMP:20220514T205055Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-ksw-64-przybysz-vs-santos-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 64: Przybysz vs. Santos (Re-Live)
@@ -27,7 +27,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WUioSPlkmRQ\n\n-
  Albert Odzimkowski\nPrelim: Oumar Sy vs. Adam Tomasik
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220514T205055Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-ksw-70-pudzian-vs-materla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 70: Pudzian vs. Materla
@@ -42,6 +42,19 @@ DESCRIPTION:via kswtv.com\nvia Bild TV\n\n---\n\nhttps://www.tapology.com
  . Jason Wilnis (2-0-0)\nMain Card: Izuagbe Ugonoh (1-1-0) vs. Marek Samo
  ciuk (3-2-0)\nMain Card: Damian Piwowarczyk (5-0-0) vs. Bartosz Leśko (1
  1-2-2)\nPrelim: Albert Odzimkowski (11-6-0) vs. Tommy Quinn (9-5-0)\nPre
- lim: Anita Bekus (5-2-0) vs. Sofiia Bagishvili (5-1-0)
+ lim: Anita Bekus (5-2-0) vs. Sofiia Bagishvili (5-1-0)\nPrelim: Łukasz R
+ ajewski (11-7-0) vs. F. Barrio (9-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220521T103220Z
+UID:2022-06-ksw-71@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 71
+DTSTART:20220618T160000Z
+DTEND:20220618T190000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/89597-ksw-71\n\n---\n\nMain Card: Artur Sowiński (22-13-0) vs. Do
+ novan Desmae (15-7-0)
 END:VEVENT
 END:VCALENDAR

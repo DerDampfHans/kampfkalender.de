@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220520T220304Z
-X-KAMPFKALENDER-HASH:83b1214895b6b77af86eb987c3aac9cd0604779f
+DTSTAMP:20220521T103219Z
+X-KAMPFKALENDER-HASH:31465fee50afe0f23a3a01044c1d0ed914330cbd
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-mayweather-vs-moore@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs. Moore
@@ -22,7 +22,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/88377-the-showcas
  -0-0) vs. Delfine Persoon (46-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-fress-vs-xhoxhaj@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fress vs. Xhoxhaj
@@ -45,7 +45,7 @@ DESCRIPTION:via MDR\n\n---\n\nhttps://www.mdr.de/sport/boxen/boxen-zwei-t
   Kafka (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-zurdo-vs-boesel@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zurdo vs. Boesel
@@ -62,7 +62,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  z
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-kovalev-vs-pulev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kovalev vs. Pulev
@@ -78,7 +78,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trillerverz-v/2pb08/\n
  n Holyfield\nMain Card: Emiliano Vargas vs. Mark Salgado
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-lejarraga-vs-metcalf@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lejarraga vs. Metcalf
@@ -95,20 +95,20 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  iannon Dixon (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-cinqueoncie-vs-maric-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric: Prelims
 DTSTART:20220521T160000Z
 DTEND:20220521T200000Z
-CATEGORIES:Other,Boxen,fighting.de,fight24.tv,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
- passes/fight24-heimspiel-458\nvia fite.tv: https://www.fite.tv/watch/hei
- mspiel-cinqueoncie-vs-maric-de/2pbc2/\n\n---\n\nhttps://boxen.co/27419-2
- /\nhttps://www.fightevents.de/event/heimspiel-offenbach/
+CATEGORIES:Other,Boxen,fight24.tv,fite.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-he
+ imspiel-458\nvia fite.tv: https://www.fite.tv/watch/heimspiel-cinqueonci
+ e-vs-maric-de/2pbc2/\n\n---\n\nhttps://boxen.co/27419-2/\nhttps://www.fi
+ ghtevents.de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-fight-night-linz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Night Linz
@@ -120,7 +120,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fi
  t-linz/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-leo-s-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Leo's Boxnacht
@@ -131,7 +131,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttp://leosboxgym.de/\nhttps://www.f
  ightevents.de/event/leos-boxnacht-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-kossobutskiy-vs-duhaupas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kossobutskiy vs. Duhaupas
@@ -141,17 +141,18 @@ CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  \n\nhttps://www.tapology.com/fightcenter/events/89424-kossobutskiy-vs-du
  haupas\nhttp://www.boxrec.com/en/event/855122\n\n---\n\nMain Event: Zhan
-  Kossobutskiy (17-0-0) vs. Johann Duhaupas (39-6-0)\nMain Card: Dzmitry 
- Asanau (0-0-0) vs. Marcos Villasana Jr (27-6-0)\nMain Card: Karo Murat (
- 32-4-1) vs. Zoltan Sera (32-22-1)\nMain Card: James Kraft (19-1-1) vs. B
- ernard Donfack (23-27-4)\nMain Card: Romano Kujak (10-0-0) vs. Elvis Sma
- jlovic (13-11-2)\nMain Card: Thulasi Tharumalingam (9-0-0) vs. Bazargur 
- Jugder (3-4-1)\nMain Card: Yusuf Atmis (2-0-0) vs. Vojtech Majer (0-0-0)
- \nMain Card: Edison Demaj (6-1-0) vs. Jiri Kroupa (0-0-0)\nMain Card: Da
- rian Yasar (9-0-1) vs. Andrei Dragomir (0-0-0)
+  Kossobutskiy (17-0-0) vs. Johann Duhaupas (39-6-0)\nCo-Main Event: Dzmi
+ try Asanau (0-0-0) vs. Marcos Villasana Jr (27-6-0)\nMain Card: James Kr
+ aft (19-1-1) vs. Bernard Donfack (23-27-4)\nMain Card: Romano Kujak (10-
+ 0-0) vs. Elvis Smajlovic (13-11-2)\nMain Card: Thulasi Tharumalingam (9-
+ 0-0) vs. Bazargur Jugder (3-4-1)\nMain Card: Edison Demaj (6-1-0) vs. Ji
+ ri Kroupa (0-0-0)\nMain Card: Darian Yasar (9-0-1) vs. Andrei Dragomir (
+ 0-0-0)\nMain Card: Karo Murat (32-4-1) vs. Norbert Szekeres (19-84-4)\nM
+ ain Card: Yusuf Atmis (2-0-0) vs. Bojan Despot (0-0-0)\nMain Card: Ben A
+ dwubi (1-0-0) vs. Igor Kantar (0-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-buatsi-vs-richards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Buatsi vs. Richards
@@ -160,47 +161,30 @@ DTEND:20220521T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/87831-buatsi-vs-richards\nhttp://www.boxrec.com/en/event/851706\n\n---
- \n\nMain Event: Joshua Buatsi (15-0-0) vs. Craig Richards (17-2-1)\nMain
-  Card: Chantelle Cameron (15-0-0) vs. Victoria Noelia Bustos (23-6-0)\nM
- ain Card: Alen Babic (10-0-0) vs. Adam Balski (16-1-0)\nMain Card: Robbi
- e Davies Jr. (22-3-0) vs. Javier Molina (22-4-0)\nMain Card: Ellie Scotn
- ey (4-0-0) vs. Maria Cecilia Roman (16-6-1)\nMain Card: Cheavon Clarke (
- 0-0-0) vs. Pawel Martyniuk (4-9-0)\nMain Card: John Hedges (5-0-0) vs. R
- obert Baltaru (0-0-0)\nMain Card: Shiloh Defreitas (0-0-0) vs. Iliyan Ma
- rkov (5-15-2)\nMain Card: Cyrus Pattinson (0-0-0) vs. Dimitri Trenel (8-
- 0-0)
+ \n\nMain Event: Joshua Buatsi (15-0-0) vs. Craig Richards (17-2-1)\nCo-M
+ ain Event: Chantelle Cameron (15-0-0) vs. Victoria Noelia Bustos (23-6-0
+ )\nMain Card: Alen Babic (10-0-0) vs. Adam Balski (16-1-0)\nMain Card: R
+ obbie Davies Jr. (22-3-0) vs. Javier Molina (22-4-0)\nMain Card: Ellie S
+ cotney (4-0-0) vs. Maria Cecilia Roman (16-6-1)\nMain Card: Cheavon Clar
+ ke (0-0-0) vs. Pawel Martyniuk (4-9-0)\nMain Card: John Hedges (5-0-0) v
+ s. Robert Baltaru (0-0-0)\nMain Card: Shiloh Defreitas (0-0-0) vs. Iliya
+ n Markov (5-15-2)\nMain Card: Cyrus Pattinson (0-0-0) vs. Dimitri Trenel
+  (8-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
-UID:2022-05-mayweather-vs-moore-1@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Mayweather vs. Moore
-DTSTART:20220521T180000Z
-DTEND:20220521T210000Z
-CATEGORIES:MP$,Boxen,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-moore/2p
- b8l/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/88377-the-sho
- wcase-in-the-skies-of-dubai\n\n---\n\nMain Event: Floyd Mayweather Jr. (
- 50-0-0) vs. Don Moore (0-0-0)\nCo-Main Event: Anderson Silva (3-1-0) vs.
-  Bruno Azeredo (0-0-0)\nMain Card: Badou Jack (25-3-3) vs. Hany Atiyo (1
- 6-5-0)\nMain Card: Elhem Mekhaled (15-0-0) vs. Delfine Persoon (46-3-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric
 DTSTART:20220521T200000Z
 DTEND:20220521T213000Z
-CATEGORIES:Other,Boxen,fighting.de,fight24.tv,SPORT1 Extra,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv: https://www.fight24.tv/fight
- passes/fight24-heimspiel-458\nvia SPORT1 Extra\nvia fite.tv: https://www
- .fite.tv/watch/heimspiel-cinqueoncie-vs-maric-de/2pbc2/\n\n---\n\nhttps:
- //boxen.co/27419-2/\nhttps://www.fightevents.de/event/heimspiel-offenbac
- h/
+CATEGORIES:Other,Boxen,fight24.tv,SPORT1 Extra,fite.tv,live
+DESCRIPTION:via fight24.tv\nvia SPORT1 Extra\nvia fite.tv: https://www.fi
+ te.tv/watch/heimspiel-cinqueoncie-vs-maric-de/2pbc2/\n\n---\n\nhttps://b
+ oxen.co/27419-2/\nhttps://www.fightevents.de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-06-ogawa-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ogawa vs. Cordina
@@ -213,7 +197,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Barrett (27-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -224,7 +208,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  iday-night-boxing-2-461\nvia fite.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -234,10 +218,13 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/88809-kyoguchi-vs-bermudez\nhttp://www.boxrec.com/en/event/853989\n\n-
  --\n\nMain Card: Hiroto Kyoguchi (15-0-0) vs. Esteban Bermudez (14-3-2)\
- nMain Card: Jorge Castaneda (15-1-0) vs. Eduardo Hernandez (31-1-0)
+ nMain Card: Jorge Castaneda (15-1-0) vs. Eduardo Hernandez (31-1-0)\nMai
+ n Card: Mayerlin Rivas (16-4-2) vs. Isis Vargas (8-4-0)\nMain Card: Dieg
+ o Pacheco (14-0-0) vs. Raul Ortega Ramirez (10-2-0)\nMain Card: Aaron Ap
+ onte (5-0-0) vs. Leo Martinez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -252,7 +239,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  \nMain Card: Jessica McCaskill (11-2-0) vs. Alma Ibarra (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220520T220304Z
+DTSTAMP:20220521T103220Z
+UID:2022-07-chisora-vs-kownacki@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Chisora vs. Kownacki
+DTSTART:20220709T200000Z
+DTEND:20220709T230000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89604-chisora-vs-kownacki\n\n---\n\nMain Event: Dereck Chisora (32-12-
+ 0) vs. Adam Kownacki (20-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220521T103220Z
 UID:2022-07-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -262,5 +261,20 @@ CATEGORIES:MB,Boxen,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  hua-2\n\n---\n\nMain Event: Oleksandr Usyk (19-0-0) vs. Anthony Joshua (
  24-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220521T103220Z
+UID:2022-10-mayweather-vs-moore@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Mayweather vs. Moore
+DTSTART:20221001T180000Z
+DTEND:20221001T210000Z
+CATEGORIES:MP$,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-moore/2p
+ b8l/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/88377-the-sho
+ wcase-in-the-skies-of-dubai\n\n---\n\nMain Event: Floyd Mayweather Jr. (
+ 50-0-0) vs. Don Moore (0-0-0)\nCo-Main Event: Anderson Silva (3-1-0) vs.
+  Bruno Azeredo (0-0-0)\nMain Card: Badou Jack (25-3-3) vs. Hany Atiyo (1
+ 6-5-0)\nMain Card: Elhem Mekhaled (15-0-0) vs. Delfine Persoon (46-3-0)
 END:VEVENT
 END:VCALENDAR
