@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220519T121236Z
-X-KAMPFKALENDER-HASH:3a60d1164fe10a6eb9a6419f312c7d571f80468c
+DTSTAMP:20220521T151659Z
+X-KAMPFKALENDER-HASH:fcbe6337e8b477b64274e9af8789e0dbe70e3a85
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
+DTSTAMP:20220521T151700Z
 UID:2022-05-schlagwort-podcast-163@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 163
@@ -17,13 +17,13 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nB_KdgIrbF4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T121237Z
-UID:2022-05-schlagwort-podcast@kampfkalender.de
+DTSTAMP:20220521T151700Z
+UID:2022-05-schlagwort-spezial-wladimir-holodenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Spezial: Wladimir Holodenko
 DTSTART:20220522T160000Z
 DTEND:20220522T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=jAZFxDLkg8Q
 END:VEVENT
 END:VCALENDAR
