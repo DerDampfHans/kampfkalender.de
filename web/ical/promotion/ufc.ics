@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220521T103219Z
-X-KAMPFKALENDER-HASH:cdd3d9bc40929131fae8b4c62fa722ae6b6e2100
+DTSTAMP:20220521T185004Z
+X-KAMPFKALENDER-HASH:47b812f7c5e27a7a4f8bf7cdc6d11d794f07144a
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-05-ufc-vegas-54-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 54: Prelims
@@ -30,7 +30,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  rlos Candelario\nPrelim: Andre Petroski vs. Nick Maximov
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-05-ufc-vegas-54-b-achowicz-vs-rakic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 54: Błachowicz vs. Rakić
@@ -53,7 +53,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ira vs. Carlos Candelario\nPrelim: Andre Petroski vs. Nick Maximov
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-05-ufc-vegas-54-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 54: Post-Fight Press Conference
@@ -63,7 +63,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=jX69q0acL-I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-05-ufc-vegas-55-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 55: Prelims
@@ -89,7 +89,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  5-1-0) vs. Sam Hughes (6-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-05-ufc-vegas-55-holm-vs-vieira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 55: Holm vs. Vieira
@@ -115,7 +115,17 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ise Reed (5-1-0) vs. Sam Hughes (6-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
+UID:2022-05-ufc-vegas-55-post-fight-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 55: Post-Fight Press Conference
+DTSTART:20220522T050000Z
+DTEND:20220522T060000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=lBQIsFNOA6E
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220521T185005Z
 UID:2022-06-ufc-vegas-56-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 56: Prelims
@@ -137,7 +147,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Tony Gravely (22-7-0) vs. Johnny Munoz Jr. (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-06-ufc-vegas-56-volkov-vs-rozenstruik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 56: Volkov vs. Rozenstruik
@@ -159,7 +169,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Tony Gravely (22-7-0) vs. Johnny Munoz Jr. (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-06-ufc-275-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Early Prelims
@@ -181,7 +191,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  12-3-0)\nPrelim: Jake Matthews (17-5-0) vs. Andre Fialho (16-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-06-ufc-275-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Prelims
@@ -203,7 +213,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  12-3-0)\nPrelim: Jake Matthews (17-5-0) vs. Andre Fialho (16-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-06-ufc-275-teixeira-vs-prochazka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Teixeira vs. Procházka
@@ -226,7 +236,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-06-ufc-austin-kattar-vs-emmett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Austin: Kattar vs. Emmett
@@ -249,7 +259,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vez (11-4-1) vs. Ricardo Ramos (15-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-06-ufc-vegas-57@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 57
@@ -271,7 +281,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  hukwi (6-2-0) vs. Carlos Ulberg (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-07-ufc-276-adesanya-vs-cannonier@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276: Adesanya vs. Cannonier
@@ -292,7 +302,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  29-13-1)\nPrelim: Brad Riddell (10-2-0) vs. Jalin Turner (12-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-07-ufc-vegas-58-dos-anjos-vs-fiziev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 58: Dos Anjos vs. Fiziev
@@ -313,7 +323,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  esean Gore (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-07-ufc-vegas-59-ortega-vs-rodriguez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 59: Ortega vs. Rodriguez
@@ -333,7 +343,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  hov (18-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-07-ufc-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London
@@ -351,7 +361,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Amirkhani (17-7-0) vs. Jonathan Pearce (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-07-ufc-277-pena-vs-nunes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Peña vs. Nunes
@@ -371,7 +381,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  el Alves (20-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-08-ufc-vegas-60-santos-vs-hill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 60: Santos vs. Hill
@@ -388,7 +398,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  7-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-08-ufc-vegas-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 61
@@ -403,7 +413,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-08-ufc-278@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 278
@@ -416,7 +426,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ay Perrin (10-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-09-ufc-fight-night-gane-vs-tuivasa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Gane vs. Tuivasa
@@ -429,7 +439,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (23-6-0) vs. Marvin Vettori (18-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-09-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -442,7 +452,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Cameron VanCamp (15-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T103220Z
+DTSTAMP:20220521T185005Z
 UID:2022-10-ufc-281@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281
