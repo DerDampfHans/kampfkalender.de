@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220519T220305Z
-X-KAMPFKALENDER-HASH:d90ac07864ee0b675cd091c1899720eee1923478
+DTSTAMP:20220523T073638Z
+X-KAMPFKALENDER-HASH:1fd20bba2bc9b95c30b5cc262e75d07a6b498b67
 BEGIN:VEVENT
-DTSTAMP:20220519T220305Z
+DTSTAMP:20220523T073639Z
 UID:2022-05-ufc-vegas-54-analyse-alle-kampfe-rakics-knieverletzung-genau-
  erklart@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=tIemuWc_oi4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220519T220305Z
+DTSTAMP:20220523T073639Z
 UID:2022-05-bellator-281-recap-ufc-vegas-55-preview@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281 Recap + UFC Vegas 55 Preview
@@ -27,5 +27,15 @@ DTSTART:20220519T150000Z
 DTEND:20220519T161000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=58u3SJyuWNc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220523T073639Z
+UID:2022-05-ufc-vegas-55-hat-holm-gegen-vieira-gewonnen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 55: Hat Holm gegen Vieira gewonnen?
+DTSTART:20220523T150000Z
+DTEND:20220523T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=p8iRDEeNw-o
 END:VEVENT
 END:VCALENDAR

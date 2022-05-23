@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220522T220305Z
-X-KAMPFKALENDER-HASH:fe187065c7553e7e59e476eca763e61716176481
+DTSTAMP:20220523T073638Z
+X-KAMPFKALENDER-HASH:4debfbde9a069ed4e7209f9eabd2742046355e0f
 BEGIN:VEVENT
-DTSTAMP:20220522T220305Z
+DTSTAMP:20220523T073639Z
 UID:2022-05-ufc-vegas-54-analyse-alle-kampfe-rakics-knieverletzung-genau-
  erklart@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=tIemuWc_oi4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220522T220305Z
+DTSTAMP:20220523T073639Z
 UID:2022-05-bellator-281-recap-ufc-vegas-55-preview@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 281 Recap + UFC Vegas 55 Preview
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=58u3SJyuWNc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220522T220305Z
+DTSTAMP:20220523T073639Z
 UID:2022-05-schlagwort-spezial-wladimir-holodenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Spezial: Wladimir Holodenko
@@ -37,5 +37,15 @@ DTSTART:20220522T160000Z
 DTEND:20220522T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=jAZFxDLkg8Q
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220523T073639Z
+UID:2022-05-ufc-vegas-55-hat-holm-gegen-vieira-gewonnen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 55: Hat Holm gegen Vieira gewonnen?
+DTSTART:20220523T150000Z
+DTEND:20220523T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=p8iRDEeNw-o
 END:VEVENT
 END:VCALENDAR
