@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220518T144448Z
-X-KAMPFKALENDER-HASH:68572c286a157be897485cb97d9429bf1b55ad23
+DTSTAMP:20220525T115112Z
+X-KAMPFKALENDER-HASH:6fbeca80eedefce52c9cfaded36878fc582aa1e8
 BEGIN:VEVENT
-DTSTAMP:20220518T144449Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-oktagon-underground@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON Underground
@@ -17,13 +17,17 @@ CATEGORIES:Oktagon,MMA,oktagon.tv,live
 DESCRIPTION:via oktagon.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T144449Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-oktagon-33-buchinger-vs-keita@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 33: Buchinger vs. Keita
 DTSTART:20220604T160000Z
 DTEND:20220604T190000Z
 CATEGORIES:Oktagon,MMA,oktagon.tv,live
-DESCRIPTION:via oktagon.tv
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/89655-oktagon-33\n\n---\n\nMain Event: Ivan Buchinger (39-7-0) v
+ s. Losene Keita (8-0-0)\nCo-Main Event: Stephan Puetz (20-5-0) vs. Marti
+ n Zawada (29-16-1)\nMain Card: Ahmed Vila (8-4-1) vs. Jaroslav Pokorný (
+ 14-9-0)
 END:VEVENT
 END:VCALENDAR

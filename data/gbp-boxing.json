@@ -1,5 +1,70 @@
 [
   {
+    "id": "tapology-89663",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Sullivan vs. Jones",
+      "time": "2022-05-26T02:00:00Z"
+    },
+    "tapology": {
+      "id": 89663,
+      "time": "2022-05-26T02:00:00Z",
+      "title": "Sullivan vs. Jones",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/89663-sullivan-vs-jones",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Card: Nick Sullivan (5-0-0) vs. Tyrome Jones (6-8-1)",
+        "Main Card: Dalis Kaleiopu (2-0-0) vs. Cezly Collard (0-1-0)",
+        "Main Card: Jorge Estrada (0-0-0) vs. Michael Williams (0-0-0)",
+        "Main Card: Ioannis Manouildis (0-0-0) vs. Osmar Olmos Hernandez (0-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/853678"
+      ]
+    }
+  },
+  {
+    "id": "tapology-89528",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#MunguiaKelly"
+    ],
+    "mainCard": {
+      "title": "Munguia vs. Kelly",
+      "time": "2022-06-12T00:00:00Z",
+      "dazn": {
+        "id": "1dvxjsg3cr0zrzmzu89u64knx",
+        "time": "2022-06-12T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Munguia vs Kelly"
+      }
+    },
+    "tapology": {
+      "id": 89528,
+      "time": "2022-06-12T02:00:00Z",
+      "title": "Munguia vs. Kelly",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/89528-munguia-vs-kelly",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Jaime Munguia (39-0-0) vs. Jimmy Kelly (26-2-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-88712",
     "promotion": "GBP_BOXING",
     "sports": [
@@ -27,31 +92,6 @@
       ],
       "links": [
         "http://www.boxrec.com/en/event/854069"
-      ]
-    }
-  },
-  {
-    "id": "tapology-89528",
-    "promotion": "GBP_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "mainCard": {
-      "hidden": true,
-      "title": "Munguia vs. Kelly",
-      "time": "2022-06-12T02:00:00Z"
-    },
-    "tapology": {
-      "id": 89528,
-      "time": "2022-06-12T02:00:00Z",
-      "title": "Munguia vs. Kelly",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/89528-munguia-vs-kelly",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Jaime Munguia (39-0-0) vs. Jimmy Kelly (26-2-0)"
       ]
     }
   },

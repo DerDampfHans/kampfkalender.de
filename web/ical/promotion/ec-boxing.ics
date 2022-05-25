@@ -4,6 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220525T115112Z
+X-KAMPFKALENDER-HASH:b99a8dfd2919497d46716b50c6f29ade87760f20
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
+UID:2022-05-charr-vs-wallisch@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Charr vs. Wallisch
+DTSTART:20220528T210000Z
+DTEND:20220528T225000Z
+CATEGORIES:ECB,Boxen,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/89605-charr-vs-wallisch\nhttp://www.boxrec.com/en/event/855555\n\n-
+ --\n\nMain Event: Mahmoud Charr (32-4-0) vs. Michael Wallisch (22-5-0)\n
+ Main Card: Ali Eren Demirezen (15-1-0) vs. Kevin Johnson (35-18-1)\nMain
+  Card: Viktor Vykhryst (9-0-0) vs. Toni Thes (16-10-0)\nMain Card: Chris
+ tian Hammer (26-9-0) vs. Drazan Janjanin (22-32-0)\nMain Card: Mohammed 
+ Bekdash (20-0-0) vs. Nikoloz Berkatsashvili (26-35-0)\nMain Card: Branim
+ ir Malencia (3-0-0) vs. Slaviša Simeunović (39-50-0)
+END:VEVENT
 END:VCALENDAR

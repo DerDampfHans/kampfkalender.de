@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220523T082826Z
-X-KAMPFKALENDER-HASH:4f0fa97d3b3ea22dd9670a9b2930eaf2d9ea84f2
+DTSTAMP:20220525T115112Z
+X-KAMPFKALENDER-HASH:b01c2459ea634655a4ca50d7e5097117425fe766
 BEGIN:VEVENT
-DTSTAMP:20220523T082827Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-cinqueoncie-vs-maric-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric: Prelims
@@ -21,7 +21,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=sjVXDMb9ZPw\
  de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082827Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric
@@ -35,7 +35,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=sjVXDMb9ZPw\
  //www.fightevents.de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082827Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
@@ -47,7 +47,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-rumble-under-the-r
  296-fusion-fight-league
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082827Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -58,25 +58,43 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  iday-night-boxing-2-461\nvia fite.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082827Z
-UID:2022-06-bkfc-jackson-2@kampfkalender.de
+DTSTAMP:20220525T115113Z
+UID:2022-06-bkfc-jackson-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Jackson 2
-DTSTART:20220611T040000Z
-DTEND:20220611T070000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/89307-bkfc-fight-night-jackson-2\n\n---\n\nMain Event: Alan Belcher
-  vs. Frank Tate\nCo-Main Event: Robbie Peralta vs. Martin Brown\nMain Ca
- rd: Sawyer Depee vs. Quentin Henry\nMain Card: Zion Tomlinson\, Sr. vs. 
- Scott O'Shaughnessy\nMain Card: Billy Wagner vs. Jeremiah Riggs\nMain Ca
- rd: Frankie Shugart vs. Brett Williams\nMain Card: Arthur Walcott-Ceesay
-  vs. Bobby Taylor\nMain Card: Stanislav Grosu vs. Brad Kelly\nMain Card:
-  Christian Torres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jordan Pedre
- ia
+SUMMARY:BKFC Jackson 2: Prelims
+DTSTART:20220612T000000Z
+DTEND:20220612T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-prel
+ ims/2pbcu/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89307-b
+ kfc-fight-night-jackson-2\n\n---\n\nMain Event: Alan Belcher vs. Frank T
+ ate\nCo-Main Event: Robbie Peralta vs. Martin Brown\nMain Card: Sawyer D
+ epee vs. Quentin Henry\nMain Card: Zion Tomlinson\, Sr. vs. Scott O'Shau
+ ghnessy\nMain Card: Billy Wagner vs. Jeremiah Riggs\nMain Card: Frankie 
+ Shugart vs. Brett Williams\nMain Card: Arthur Walcott-Ceesay vs. Bobby T
+ aylor\nMain Card: Stanislav Grosu vs. Brad Kelly\nMain Card: Christian T
+ orres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jordan Pedreia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082827Z
+DTSTAMP:20220525T115113Z
+UID:2022-06-bkfc-jackson-2-belcher-vs-tate@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Jackson 2: Belcher vs. Tate
+DTSTART:20220612T010000Z
+DTEND:20220612T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-belc
+ her-vs-tate/2pbcs/\n\n---\n\nhttps://www.tapology.com/fightcenter/events
+ /89307-bkfc-fight-night-jackson-2\n\n---\n\nMain Event: Alan Belcher vs.
+  Frank Tate\nCo-Main Event: Robbie Peralta vs. Martin Brown\nMain Card: 
+ Sawyer Depee vs. Quentin Henry\nMain Card: Zion Tomlinson\, Sr. vs. Scot
+ t O'Shaughnessy\nMain Card: Billy Wagner vs. Jeremiah Riggs\nMain Card: 
+ Frankie Shugart vs. Brett Williams\nMain Card: Arthur Walcott-Ceesay vs.
+  Bobby Taylor\nMain Card: Stanislav Grosu vs. Brad Kelly\nMain Card: Chr
+ istian Torres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jordan Pedreia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands
@@ -86,7 +104,7 @@ CATEGORIES:Other,Grappling,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/subversiv-7/2pb2p/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082827Z
+DTSTAMP:20220525T115113Z
 UID:2022-07-lion-fight-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 74

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220523T082826Z
-X-KAMPFKALENDER-HASH:ce8b60d5c16fbd974b751a9fb979567f2d5b9aac
+DTSTAMP:20220525T115112Z
+X-KAMPFKALENDER-HASH:0e8618aa3bb9661514fd7afb3f649ddbb262cc8c
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-lejarraga-vs-metcalf@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lejarraga vs. Metcalf
@@ -24,7 +24,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  iannon Dixon (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-cinqueoncie-vs-maric-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric: Prelims
@@ -38,7 +38,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=sjVXDMb9ZPw\
  de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-fight-night-linz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Night Linz
@@ -50,7 +50,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fi
  t-linz/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-leo-s-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Leo's Boxnacht
@@ -61,7 +61,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttp://leosboxgym.de/\nhttps://www.f
  ightevents.de/event/leos-boxnacht-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-kossobutskiy-vs-duhaupas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kossobutskiy vs. Duhaupas
@@ -82,7 +82,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  dwubi (1-0-0) vs. Igor Kantar (0-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-buatsi-vs-richards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Buatsi vs. Richards
@@ -102,7 +102,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (8-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-cinqueoncie-vs-maric@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cinqueoncie vs. Maric
@@ -116,7 +116,74 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=sjVXDMb9ZPw\
  //www.fightevents.de/event/heimspiel-offenbach/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
+UID:2022-05-profi-boxen-traunreut@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Profi Boxen Traunreut
+DTSTART:20220525T160000Z
+DTEND:20220525T190000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ ofiboxen-in-stein-an-der-traun-468\n\n---\n\nhttps://www.fightevents.de/
+ event/boxen-traunreut/\nhttps://www.tapology.com/fightcenter/events/8966
+ 2-profi-boxen\nhttp://www.boxrec.com/en/event/854226\n\n---\n\nMain Even
+ t: Serge Michel (12-2-0) vs. Reinis Porozovs (15-16-1)\nCo-Main Event: F
+ edor Michel (6-0-0) vs. Kassim Ouma (29-17-1)\nMain Card: Alexander Riga
+ s (15-2-0) vs. Patrik Fiala (0-0-0)\nMain Card: Waldemar Beck (0-0-0) vs
+ . Ermin Fatkic (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
+UID:2022-05-pulheimer-boxnacht@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Pulheimer Boxnacht
+DTSTART:20220528T163000Z
+DTEND:20220528T200000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ xen-pulheim-471\n\n---\n\nhttps://www.fightevents.de/event/pulheimer-box
+ nacht/\nhttps://www.tapology.com/fightcenter/events/89682-pulheimer-boxn
+ acht\nhttp://www.boxrec.com/en/event/853117\n\n---\n\nMain Card: Sarah L
+ iegmann (0-0-0) vs. Panagiota Zervoudaki (0-0-0)\nMain Card: Hanna Hanse
+ n (0-0-0) vs. Borislava Goranova (11-64-4)\nMain Card: Yaser Yueksel (9-
+ 5-1) vs. Zaza Amiridze (7-18-2)\nMain Card: Mario Beniesch (0-0-0) vs. S
+ tefan Markovic (1-13-0)\nMain Card: Anas El Abid (0-0-0) vs. Oktavian Gr
+ atii (7-24-1)\nMain Card: Marc Lambertz (6-0-0) vs. Krisztian Santa (16-
+ 20-2)\nMain Card: Ilias Kallouch (5-1-0) vs. Nukri Gamgebeli (11-14-0)\n
+ Main Card: Simon Krebs (3-1-1) vs. Michael Klempert (4-44-4)\nMain Card:
+  Christen Wiening (3-0-0) vs. Marko Pavlovic (0-0-0)\nMain Card: Semir D
+ autovic (0-0-0) vs. Vedran Soskan (2-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
+UID:2022-05-k-town-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:K-Town Fight Night
+DTSTART:20220528T170000Z
+DTEND:20220528T200000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-k-
+ town-fight-night-472
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
+UID:2022-05-charr-vs-wallisch@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Charr vs. Wallisch
+DTSTART:20220528T210000Z
+DTEND:20220528T225000Z
+CATEGORIES:ECB,Boxen,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/89605-charr-vs-wallisch\nhttp://www.boxrec.com/en/event/855555\n\n-
+ --\n\nMain Event: Mahmoud Charr (32-4-0) vs. Michael Wallisch (22-5-0)\n
+ Main Card: Ali Eren Demirezen (15-1-0) vs. Kevin Johnson (35-18-1)\nMain
+  Card: Viktor Vykhryst (9-0-0) vs. Toni Thes (16-10-0)\nMain Card: Chris
+ tian Hammer (26-9-0) vs. Drazan Janjanin (22-32-0)\nMain Card: Mohammed 
+ Bekdash (20-0-0) vs. Nikoloz Berkatsashvili (26-35-0)\nMain Card: Branim
+ ir Malencia (3-0-0) vs. Slaviša Simeunović (39-50-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
 UID:2022-06-ogawa-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ogawa vs. Cordina
@@ -124,13 +191,13 @@ DTSTART:20220604T180000Z
 DTEND:20220604T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/89042-ogawa-vs-cordina\n\n---\n\nMain Event: Kenichi Ogawa (26-1-1) vs
- . Joe Cordina (14-0-0)\nMain Card: Faroukh Kourbanov (19-3-0) vs. Zelfa 
- Barrett (27-1-0)\nPrelim: Skye Nicolson (0-0-0) vs. Gabriela Bouvier (15
- -10-1)
+ s/89042-ogawa-vs-cordina\nhttp://www.boxrec.com/en/event/854555\n\n---\n
+ \nMain Event: Kenichi Ogawa (26-1-1) vs. Joe Cordina (14-0-0)\nMain Card
+ : Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)\nPrelim: Skye Ni
+ colson (0-0-0) vs. Gabriela Bouvier (15-10-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -141,7 +208,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  iday-night-boxing-2-461\nvia fite.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -157,7 +224,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0-0) vs. Leo Martinez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
+UID:2022-06-munguia-vs-kelly@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Munguia vs. Kelly
+DTSTART:20220612T000000Z
+DTEND:20220612T030000Z
+CATEGORIES:GBP,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/89528-munguia-vs-
+ kelly\n\n---\n\nMain Event: Jaime Munguia (39-0-0) vs. Jimmy Kelly (26-2
+ -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -172,7 +251,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  \nMain Card: Jessica McCaskill (11-2-0) vs. Alma Ibarra (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-07-chisora-vs-kownacki@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs. Kownacki
@@ -184,7 +263,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0) vs. Adam Kownacki (20-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-07-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -194,5 +273,17 @@ CATEGORIES:MB,Boxen,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  hua-2\n\n---\n\nMain Event: Oleksandr Usyk (19-0-0) vs. Anthony Joshua (
  24-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
+UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Canelo vs. GGG 3
+DTSTART:20220918T020000Z
+DTEND:20220918T050000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89675-canelo-vs-ggg-3\nhttp://www.boxrec.com/en/event/856254\n\n---\n\
+ nMain Event: Canelo Álvarez (57-2-2) vs. Gennadiy Golovkin (42-1-1)
 END:VEVENT
 END:VCALENDAR

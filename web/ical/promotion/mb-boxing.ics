@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220523T082826Z
-X-KAMPFKALENDER-HASH:3b87c83cff30e5d4ba2b2187533b0263d17a0836
+DTSTAMP:20220525T115112Z
+X-KAMPFKALENDER-HASH:d2fd95e1cfc0c6c8a7809d8895823d2b3f61cbf1
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-lejarraga-vs-metcalf@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lejarraga vs. Metcalf
@@ -24,7 +24,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  iannon Dixon (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-05-buatsi-vs-richards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Buatsi vs. Richards
@@ -44,7 +44,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (8-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-ogawa-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ogawa vs. Cordina
@@ -52,13 +52,13 @@ DTSTART:20220604T180000Z
 DTEND:20220604T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/89042-ogawa-vs-cordina\n\n---\n\nMain Event: Kenichi Ogawa (26-1-1) vs
- . Joe Cordina (14-0-0)\nMain Card: Faroukh Kourbanov (19-3-0) vs. Zelfa 
- Barrett (27-1-0)\nPrelim: Skye Nicolson (0-0-0) vs. Gabriela Bouvier (15
- -10-1)
+ s/89042-ogawa-vs-cordina\nhttp://www.boxrec.com/en/event/854555\n\n---\n
+ \nMain Event: Kenichi Ogawa (26-1-1) vs. Joe Cordina (14-0-0)\nMain Card
+ : Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)\nPrelim: Skye Ni
+ colson (0-0-0) vs. Gabriela Bouvier (15-10-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -74,7 +74,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0-0) vs. Leo Martinez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -89,7 +89,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  \nMain Card: Jessica McCaskill (11-2-0) vs. Alma Ibarra (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-07-chisora-vs-kownacki@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs. Kownacki
@@ -101,7 +101,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0) vs. Adam Kownacki (20-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220525T115113Z
 UID:2022-07-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -111,5 +111,17 @@ CATEGORIES:MB,Boxen,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  hua-2\n\n---\n\nMain Event: Oleksandr Usyk (19-0-0) vs. Anthony Joshua (
  24-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220525T115113Z
+UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Canelo vs. GGG 3
+DTSTART:20220918T020000Z
+DTEND:20220918T050000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89675-canelo-vs-ggg-3\nhttp://www.boxrec.com/en/event/856254\n\n---\n\
+ nMain Event: Canelo Álvarez (57-2-2) vs. Gennadiy Golovkin (42-1-1)
 END:VEVENT
 END:VCALENDAR

@@ -10,11 +10,46 @@
       "#BKFCJackson2"
     ],
     "mainCard": {
-      "title": "BKFC Jackson 2",
-      "time": "2022-06-11T04:00:00Z",
+      "title": "BKFC Jackson 2: Belcher vs. Tate",
+      "time": "2022-06-12T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-fn-jackson-2-belcher-vs-tate/2pbcs/"
         }
+      },
+      "fite": {
+        "id": "2pbcs",
+        "time": "2022-06-12T01:00:00Z",
+        "title": "BKFC Fight Night Jackson 2: Alan Belcher vs Frank Tate",
+        "url": "https://www.fite.tv/watch/bkfc-fn-jackson-2-belcher-vs-tate/2pbcs/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC Jackson 2: Prelims",
+      "time": "2022-06-12T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-fn-jackson-2-prelims/2pbcu/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbcu",
+        "time": "2022-06-12T00:00:00Z",
+        "title": "BKFC Fight Night Jackson 2: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-fn-jackson-2-prelims/2pbcu/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
