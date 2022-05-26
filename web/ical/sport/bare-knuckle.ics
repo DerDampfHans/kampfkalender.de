@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220525T115112Z
-X-KAMPFKALENDER-HASH:823e6d961740e77c3ff1f08e305a7f6e51d0bb1a
+DTSTAMP:20220526T175131Z
+X-KAMPFKALENDER-HASH:0bf2b34f9d93c8e07579a4868840110d40998388
 BEGIN:VEVENT
-DTSTAMP:20220525T115113Z
+DTSTAMP:20220526T175132Z
+UID:2022-06-bkb-26-meikle-vs-podmore@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 26: Meikle vs. Podmore
+DTSTART:20220611T140000Z
+DTEND:20220611T170000Z
+CATEGORIES:BKB,Bare Knuckle,fighting.de,fight24.tv,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
+ e.tv/watch/bkb-26/2pbd7/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220526T175132Z
 UID:2022-06-bkfc-jackson-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2: Prelims
@@ -25,7 +36,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-prel
  orres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jordan Pedreia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T115113Z
+DTSTAMP:20220526T175132Z
 UID:2022-06-bkfc-jackson-2-belcher-vs-tate@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2: Belcher vs. Tate
