@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220527T075934Z
-X-KAMPFKALENDER-HASH:c71310a664496df341a0e27232489b9aa9f8e381
+DTSTAMP:20220527T223632Z
+X-KAMPFKALENDER-HASH:62421a357e4c5e0e30874db57ea5fbfb0765d8f6
 BEGIN:VEVENT
-DTSTAMP:20220527T075935Z
+DTSTAMP:20220527T223632Z
 UID:2022-05-schlagwort-spezial-wladimir-holodenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Spezial: Wladimir Holodenko
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=jAZFxDLkg8Q
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220527T075935Z
+DTSTAMP:20220527T223632Z
 UID:2022-05-ufc-vegas-55-hat-holm-gegen-vieira-gewonnen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 55: Hat Holm gegen Vieira gewonnen?
@@ -27,7 +27,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=p8iRDEeNw-o
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220527T075935Z
+DTSTAMP:20220527T223632Z
 UID:2022-05-q-a-2-mma-g-o-a-t-meinung-zu-open-scoring-u-v-m@kampfkalender
  .de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -38,7 +38,18 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CV3I1E7tHLg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220527T075935Z
+DTSTAMP:20220527T223632Z
+UID:2022-05-mma-unfolded-36-stunden-als-internationaler-mma-judge@kampfka
+ lender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MMA Unfolded: 36 Stunden als internationaler MMA Judge
+DTSTART:20220528T190000Z
+DTEND:20220528T191500Z
+CATEGORIES:MMAU,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=r0AJxr6VH98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220527T223632Z
 UID:2022-05-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
