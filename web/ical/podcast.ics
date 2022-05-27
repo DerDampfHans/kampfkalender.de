@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220526T175131Z
-X-KAMPFKALENDER-HASH:8775f9b80509147595f2b00684c23a8e934fae57
+DTSTAMP:20220527T075934Z
+X-KAMPFKALENDER-HASH:c71310a664496df341a0e27232489b9aa9f8e381
 BEGIN:VEVENT
-DTSTAMP:20220526T175132Z
+DTSTAMP:20220527T075935Z
 UID:2022-05-schlagwort-spezial-wladimir-holodenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Spezial: Wladimir Holodenko
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=jAZFxDLkg8Q
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T175132Z
+DTSTAMP:20220527T075935Z
 UID:2022-05-ufc-vegas-55-hat-holm-gegen-vieira-gewonnen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 55: Hat Holm gegen Vieira gewonnen?
@@ -27,7 +27,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=p8iRDEeNw-o
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T175132Z
+DTSTAMP:20220527T075935Z
 UID:2022-05-q-a-2-mma-g-o-a-t-meinung-zu-open-scoring-u-v-m@kampfkalender
  .de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -36,5 +36,15 @@ DTSTART:20220526T150000Z
 DTEND:20220526T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CV3I1E7tHLg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220527T075935Z
+UID:2022-05-schlagwort-podcast@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20220529T160000Z
+DTEND:20220529T180000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR
