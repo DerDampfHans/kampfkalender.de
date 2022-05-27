@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220525T115112Z
-X-KAMPFKALENDER-HASH:f07d6b150c0523d40066538a6a8f15a7bd0ed086
+DTSTAMP:20220527T075555Z
+X-KAMPFKALENDER-HASH:cc825fbd06c503e90cd5cf72a79da234ab1a0dd9
 BEGIN:VEVENT
-DTSTAMP:20220525T115113Z
+DTSTAMP:20220527T075555Z
 UID:2022-05-profi-boxen-traunreut@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Profi Boxen Traunreut
@@ -24,7 +24,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  . Ermin Fatkic (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T115113Z
+DTSTAMP:20220527T075555Z
 UID:2022-05-pulheimer-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pulheimer Boxnacht
@@ -44,5 +44,27 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  Main Card: Simon Krebs (3-1-1) vs. Michael Klempert (4-44-4)\nMain Card:
   Christen Wiening (3-0-0) vs. Marko Pavlovic (0-0-0)\nMain Card: Semir D
  autovic (0-0-0) vs. Vedran Soskan (2-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220527T075555Z
+UID:2022-05-k-town-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:K-Town Fight Night
+DTSTART:20220528T170000Z
+DTEND:20220528T210000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-k-
+ town-fight-night-472\n\n---\n\nhttps://www.fightevents.de/event/k-town-f
+ ight-night-2/\nhttps://www.tapology.com/fightcenter/events/89748-k-town-
+ fight-night\nhttp://www.boxrec.com/en/event/843170\n\n---\n\nMain Card: 
+ Michael Seitz (0-0-0) vs. Tamas Toth (11-7-5)\nMain Card: Joan Cañaveral
+  (6-1-0) vs. Attila Csereklye (10-25-0)\nMain Card: Artur Mamberger (0-0
+ -0) vs. Ivan Matute (30-6-0)\nMain Card: Beke Bas (15-0-0) vs. Tereza Dv
+ ořáková (4-7-0)\nMain Card: Dennis Don Kiy (0-0-0) vs. András Csomor (18
+ -33-2)\nMain Card: Roberto Scarpello (6-1-0) vs. Mansour Mohammadi (0-0-
+ 0)\nMain Card: Evgenios Lazaridis (17-4-0) vs. Murat Novalic (1-10-0)\nM
+ ain Card: Vitali Frei (0-0-0) vs. Mirko Jovic (2-20-0)\nMain Card: Alexa
+ nder Lorch (6-0-0) vs. Vito Vendetta (14-8-1)\nMain Card: German Skliaro
+ v (0-0-0) vs. Milan Mihajlovic (0-7-0)
 END:VEVENT
 END:VCALENDAR
