@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220523T082826Z
-X-KAMPFKALENDER-HASH:c0d174dabffc6bd57b33728e3d3060398fd8abfc
+DTSTAMP:20220528T090553Z
+X-KAMPFKALENDER-HASH:c53c9f1151e1d6fff526bbb7420795670e790a28
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
+DTSTAMP:20220528T090554Z
 UID:2022-07-uae-warriors-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UAE Warriors 30
@@ -15,17 +15,19 @@ DTSTART:20220702T140000Z
 DTEND:20220702T170000Z
 CATEGORIES:UAEW,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/89634-uae-warriors-30
+ nter/events/89634-uae-warriors-30\n\n---\n\nMain Event: Ali AlQaisi (12-
+ 5-0) vs. Jesse Arnett (19-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T082826Z
-UID:2022-07-uae-warriors-31@kampfkalender.de
+DTSTAMP:20220528T090554Z
+UID:2022-07-uae-warriors-31-arabia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UAE Warriors 31
+SUMMARY:UAE Warriors 31: Arabia
 DTSTART:20220703T140000Z
 DTEND:20220703T170000Z
 CATEGORIES:UAEW,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/89635-uae-warriors-31
+ nter/events/89635-uae-warriors-31\n\n---\n\nMain Event: Tarek Suleiman (
+ 12-8-0) vs. Eslam Abdul Baset (12-2-0)
 END:VEVENT
 END:VCALENDAR
