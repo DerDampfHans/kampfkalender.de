@@ -7,35 +7,36 @@
     ],
     "tags": [
       "#Darmstadt",
-      "#Enfusion107"
+      "#Enfusion107",
+      "#EnfusionTalents90"
     ],
     "mainCard": {
       "title": "Enfusion 107",
-      "time": "2022-06-04T18:00:00Z",
+      "time": "2022-06-04T17:15:00Z",
       "until": "2022-06-04T21:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=9HpWQMSGV2o"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-enfusion-89-talents-106-462"
         }
-      }
-    },
-    "prelims": {
-      "title": "Enfusion Talents 90",
-      "time": "2022-06-04T16:00:00Z",
-      "tags": [
-        "#EnfusionTalents90"
-      ],
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
+      },
+      "youTube": {
+        "id": "9HpWQMSGV2o",
+        "time": "2022-06-04T17:15:00Z",
+        "title": "LIVE: ENFUSION #107 | DARMSTADT | 4.6. | 19:15 - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=9HpWQMSGV2o"
       }
     },
     "fightEvents": {
       "id": "enfusion-darmstadt-3",
-      "time": "2022-06-04T18:00:00Z",
+      "time": "2022-06-04T15:15:00Z",
       "until": "2022-06-04T21:00:00Z",
       "title": "Enfusion Darmstadt",
       "url": "https://www.fightevents.de/event/enfusion-darmstadt-3/",
       "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-enfusion-89-talents-106-462",
       "tags": [
         "Andrej Bruhl",
         "Darmstadt",
@@ -47,6 +48,7 @@
         "Kevin Van Heeckern",
         "Khalid El Bakouri",
         "Kickboxen",
+        "Mogos Madalin",
         "Nenad Cosic und Nick Morsink",
         "Santino Verbeek"
       ],
@@ -62,74 +64,33 @@
     "id": "enfusion-2022-06-05",
     "promotion": "ENFUSION",
     "sports": [
-      "MMA",
-      "KICKBOXING"
+      "MMA"
     ],
     "tags": [
       "#ECE8"
     ],
     "mainCard": {
-      "title": "Enfusion ECE 8",
-      "time": "2022-06-05T16:00:00Z",
+      "title": "Enfusion Cage Events 8",
+      "time": "2022-06-05T17:30:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=nFwipmNe1v4"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-ece-8-476"
         }
+      },
+      "youTube": {
+        "id": "nFwipmNe1v4",
+        "time": "2022-06-05T17:30:00Z",
+        "title": "LIVE: ENFUSION ECE #8 | Darmstadt | 5.6. | 19:30 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=nFwipmNe1v4",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
       }
-    }
-  },
-  {
-    "id": "enfusion-2022-06-11",
-    "promotion": "ENFUSION",
-    "sports": [
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#Enfusion108",
-      "#GloryRivals1"
-    ],
-    "mainCard": {
-      "title": "Enfusion 108 & Glory Rivals 1",
-      "time": "2022-06-11T15:30:00Z",
-      "until": "2022-06-11T19:30:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
-      }
-    },
-    "prelims": {
-      "title": "Enfusion Talents 91",
-      "time": "2022-06-11T16:00:00Z",
-      "tags": [
-        "#EnfusionTalents91"
-      ],
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
-      }
-    },
-    "fightEvents": {
-      "id": "enfusion-108",
-      "time": "2022-06-11T15:30:00Z",
-      "until": "2022-06-11T19:30:00Z",
-      "title": "Enfusion 108",
-      "url": "https://www.fightevents.de/event/enfusion-108/",
-      "broadcaster": "FIGHT24_TV",
-      "tags": [
-        "Antwerp",
-        "Belgien",
-        "Enfusion",
-        "Enfusion 107",
-        "Glory",
-        "Glory Rivals1",
-        "K1",
-        "Kickboxen"
-      ],
-      "categories": [
-        "Fight24.tv",
-        "International",
-        "K1/Kickboxen",
-        "Livestream"
-      ]
     }
   },
   {

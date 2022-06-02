@@ -1,13 +1,17 @@
 [
   {
-    "id": "tapology-86201",
+    "id": "bkb-2022-06-11",
     "promotion": "BKB",
     "sports": [
       "BARE_KNUCKLE"
     ],
+    "tags": [
+      "#BKB26"
+    ],
     "mainCard": {
       "title": "BKB 26: Meikle vs. Podmore",
       "time": "2022-06-11T14:00:00Z",
+      "until": "2022-06-11T20:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
         },
@@ -29,6 +33,76 @@
           "MMA"
         ]
       }
+    },
+    "fightEvents": {
+      "id": "bkb-26",
+      "time": "2022-06-11T16:00:00Z",
+      "until": "2022-06-11T20:00:00Z",
+      "title": "BKB 26",
+      "url": "https://www.fightevents.de/event/bkb-26/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Bare Knuckle",
+        "Bare Knuckle Boxen",
+        "Bare Knuckle Boxing",
+        "BKB 26",
+        "Boxen",
+        "Scott McHugh",
+        "Sean George"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "International",
+        "Livestream",
+        "MMA"
+      ]
+    }
+  },
+  {
+    "id": "bkb-2022-07-23",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKB27"
+    ],
+    "mainCard": {
+      "title": "BKB 27",
+      "time": "2022-07-23T18:00:00Z",
+      "until": "2022-07-23T21:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        },
+        "FITE_TV": {
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "bkb-27",
+      "time": "2022-07-23T18:00:00Z",
+      "until": "2022-07-23T21:00:00Z",
+      "title": "BKB 27",
+      "url": "https://www.fightevents.de/event/bkb-27/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Bare Knuckle Boxen",
+        "Bare Knuckle Boxing",
+        "BKB",
+        "BKB 27",
+        "Boxen",
+        "London"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "International",
+        "Livestream",
+        "MMA"
+      ]
     }
   }
 ]

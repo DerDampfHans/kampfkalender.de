@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220601T220304Z
-X-KAMPFKALENDER-HASH:dac0b96a71de907dc55654e1b7c60cc4e3cebc55
+DTSTAMP:20220602T090742Z
+X-KAMPFKALENDER-HASH:dc47afad4de28e9da5566fdff4e09d0fce262296
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-05-masai-rumble@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Masai Rumble
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ma
  ai-rumble-4-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-05-ring-of-fire-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ring Of Fire 14
@@ -30,61 +30,63 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ri
  ng-of-fire-14-469
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
-UID:2022-06-enfusion-talents-90@kampfkalender.de
+DTSTAMP:20220602T090742Z
+UID:2022-06-prestige-championships-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Enfusion Talents 90
+SUMMARY:Prestige Championships 2
 DTSTART:20220604T160000Z
-DTEND:20220604T180000Z
-CATEGORIES:Enfusion,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-darmstadt-3/
+DTEND:20220604T200000Z
+CATEGORIES:Other,MMA,Boxen,Kickboxen,fight24.tv,fite.tv,SPORT1 Extra,live
+ 
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ estige-championships-ii-474\nvia fite.tv\nvia SPORT1 Extra\n\n---\n\nhtt
+ ps://www.fightevents.de/event/prestige-championship-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
+UID:2022-06-prestige-championships-2-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Prestige Championships 2: Prelims
+DTSTART:20220604T160000Z
+DTEND:20220604T160000Z
+CATEGORIES:Other,MMA,Boxen,Kickboxen,fight24.tv,fite.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ estige-championships-ii-474\nvia fite.tv\n\n---\n\nhttps://www.fighteven
+ ts.de/event/prestige-championship-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T090742Z
 UID:2022-06-enfusion-107@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 107
-DTSTART:20220604T180000Z
+DTSTART:20220604T171500Z
 DTEND:20220604T210000Z
-CATEGORIES:Enfusion,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-darmstadt-3/
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9HpWQMSGV2o\
+ nvia fight24.tv: https://www.fight24.tv/fightpasses/fight24-enfusion-89-
+ talents-106-462\n\n---\n\nhttps://www.fightevents.de/event/enfusion-darm
+ stadt-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
-UID:2022-06-enfusion-ece-8@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Enfusion ECE 8
-DTSTART:20220605T160000Z
-DTEND:20220605T190000Z
-CATEGORIES:Enfusion,MMA,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-enfusion-108-glory-rivals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 108 & Glory Rivals 1
 DTSTART:20220611T153000Z
 DTEND:20220611T193000Z
-CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+CATEGORIES:Glory,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-108/
+ fusion-108/\nhttps://www.tapology.com/fightcenter/events/89058-glory-riv
+ als-2\n\n---\n\nMain Event: Luis Tavares vs. Florent Kaouachi\nCo-Main E
+ vent: Ibrahim El Bouni vs. Clyde Brunswijk\nMain Card: Regilio van den E
+ nt vs. Jos van Belzen\nMain Card: Nidal Bchiri vs. Muhammed Balli\nCo-Ma
+ in Event: Serginio Kanters vs. Jay Overmeer\nPrelim: Raymond Bonte vs. S
+ teven van den Broek\nPrelim: Mischa Eradus vs. Jimmy van Kuijeren\nPreli
+ m: Yannick van Vliet vs. Mohammed Achmed\nPrelim: Mohamed El Oualkadi vs
+ . Rastiano Petronia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
-UID:2022-06-enfusion-talents-91@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Enfusion Talents 91
-DTSTART:20220611T160000Z
-DTEND:20220611T153000Z
-CATEGORIES:Enfusion,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-108/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -96,7 +98,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-enfusion-109@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109
@@ -107,7 +109,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-enfusion-talents-92@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 92
@@ -118,7 +120,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -131,7 +133,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Fernandez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4

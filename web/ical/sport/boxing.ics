@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220601T220304Z
-X-KAMPFKALENDER-HASH:aaf5a7b9efadce8481d97e7f8628fad8dc6e4779
+DTSTAMP:20220602T090742Z
+X-KAMPFKALENDER-HASH:723406c1d5d8971a29af7a60fb265919486fb601
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-05-pulheimer-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pulheimer Boxnacht
@@ -29,7 +29,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  autovic (0-0-0) vs. Vedran Soskan (2-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-05-k-town-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:K-Town Fight Night
@@ -51,7 +51,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-k-
  v (0-0-0) vs. Milan Mihajlovic (0-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-05-charr-vs-milacic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Charr vs. Milacic
@@ -71,7 +71,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-05-davis-vs-romero-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Davis vs. Romero: Prelims
@@ -92,7 +92,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=60HvEVQtcJU\n\n-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-05-davis-vs-romero@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Davis vs. Romero
@@ -113,7 +113,63 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/davis-vs-romero/2pbd1/
   (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
+UID:2022-06-watts-vs-russell@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Watts vs. Russell
+DTSTART:20220604T090000Z
+DTEND:20220604T120000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/btb-drapac-vs-winter/2
+ pbeo/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89858-watts-
+ vs-russell\nhttp://www.boxrec.com/en/event/851828\n\n---\n\nMain Event: 
+ Kane Watts (21-4-0) vs. Daniel Russell (7-3-2)\nMain Card: David Drapac 
+ (8-2-0) vs. Dyan Winter (4-0-0)\nMain Card: George Payne (4-2-0) vs. Ala
+ n Patterson (2-4-0)\nMain Card: Khalid Baker (8-0-0) vs. Zac Cotten (2-4
+ -1)\nMain Card: Ahmed Elomar (0-0-0) vs. Vachayan Khamon (11-30-1)\nMain
+  Card: Nazir Haddara (0-0-0) vs. Komgrit Nanakorn (2-29-0)\nMain Card: S
+ am Dwyer (0-0-1) vs. Waiwit Nareeruk (2-6-0)\nMain Card: Lewis Mumford (
+ 0-0-0) vs. Matthew Walker (1-8-1)\nMain Card: Theo Dounias (2-0-0) vs. R
+ yan Cotten (4-6-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T090742Z
+UID:2022-06-prestige-championships-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Prestige Championships 2
+DTSTART:20220604T160000Z
+DTEND:20220604T200000Z
+CATEGORIES:Other,MMA,Boxen,Kickboxen,fight24.tv,fite.tv,SPORT1 Extra,live
+ 
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ estige-championships-ii-474\nvia fite.tv\nvia SPORT1 Extra\n\n---\n\nhtt
+ ps://www.fightevents.de/event/prestige-championship-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T090742Z
+UID:2022-06-prestige-championships-2-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Prestige Championships 2: Prelims
+DTSTART:20220604T160000Z
+DTEND:20220604T160000Z
+CATEGORIES:Other,MMA,Boxen,Kickboxen,fight24.tv,fite.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ estige-championships-ii-474\nvia fite.tv\n\n---\n\nhttps://www.fighteven
+ ts.de/event/prestige-championship-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T090742Z
+UID:2022-06-grand-boxing-diamond-edition@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Grand Boxing - Diamond Edition
+DTSTART:20220604T163000Z
+DTEND:20220604T193000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gr
+ and-boxing-3-478
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T090742Z
 UID:2022-06-ogawa-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ogawa vs. Cordina
@@ -123,22 +179,49 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/89042-ogawa-vs-cordina\nhttp://www.boxrec.com/en/event/854555\n\n---\n
  \nMain Event: Kenichi Ogawa (26-1-1) vs. Joe Cordina (14-0-0)\nMain Card
- : Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)\nPrelim: Skye Ni
- colson (0-0-0) vs. Gabriela Bouvier (15-10-1)
+ : Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)\nMain Card: Skye
+  Nicolson (0-0-0) vs. Gabriela Bouvier (15-10-1)\nMain Card: Calum Frenc
+ h (0-0-0) vs. Gadatamen Taylor (4-9-1)\nMain Card: Dalton Smith (10-0-0)
+  vs. M. Hasan Perouene (14-5-1)\nPrelim: Joe Morgan (0-0-0) vs. Rustem F
+ atkhullin (8-32-0)\nPrelim: Ben Crocker (0-0-0) vs. Evgeny Vazem (9-28-0
+ )\nPrelim: Kyran Jones (0-0-0) vs. Vasif Mamedov (2-17-3)\nPrelim: Moniq
+ ue Bux (0-0-0) vs. Ester Konecna (1-15-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
+UID:2022-06-garcia-vs-pierce@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Garcia vs. Pierce
+DTSTART:20220605T003000Z
+DTEND:20220605T033000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pcs-1/2pbbk/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T090742Z
+UID:2022-06-profiboxen-recklinghausen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Profiboxen Recklinghausen
+DTSTART:20220605T134500Z
+DTEND:20220605T164500Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ xen-recklinghausen-477
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T090742Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
 DTSTART:20220610T163000Z
-DTEND:20220610T193000Z
+DTEND:20220610T200000Z
 CATEGORIES:Other,Boxen,fight24.tv,fite.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
- iday-night-boxing-2-461\nvia fite.tv
+ iday-night-boxing-2-461\nvia fite.tv\n\n---\n\nhttps://www.fightevents.d
+ e/event/friday-night-boxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -158,7 +241,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-munguia-vs-kelly@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Munguia vs. Kelly
@@ -170,7 +253,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89528-munguia-vs-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -189,7 +272,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-07-chisora-vs-kownacki@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs. Kownacki
@@ -201,7 +284,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0) vs. Adam Kownacki (20-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-07-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -213,7 +296,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  24-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220601T220304Z
+DTSTAMP:20220602T090742Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3

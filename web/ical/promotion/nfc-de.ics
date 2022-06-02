@@ -4,32 +4,22 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220511T010216Z
-X-KAMPFKALENDER-HASH:c7bb4ac380b8765eb77c1cd07fd9e215e65894cc
+DTSTAMP:20220602T090742Z
+X-KAMPFKALENDER-HASH:d71a311cf11c01faa9b3bd16d4d0920591a02a4b
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
-UID:2022-06-nfc-9-prelims@kampfkalender.de
+DTSTAMP:20220602T090742Z
+UID:2022-06-nfc-9-vorkampfe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 9: Prelims
+SUMMARY:NFC 9: Vorkämpfe
 DTSTART:20220618T160000Z
-DTEND:20220618T180000Z
-CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
- ents.de/event/nfc-9-balingen/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
-UID:2022-06-nfc-9-main-card@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 9: Main Card
-DTSTART:20220618T180000Z
 DTEND:20220618T210000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
- ents.de/event/nfc-9-balingen/
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=nTGP_NSzM6U\
+ nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/nfc-9-balinge
+ n/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-06-nfc-9-vertko-vs-ardas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Vertko vs. Ardas
@@ -40,7 +30,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -51,7 +41,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -62,7 +52,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-08-nfc-10-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Coga vs. Özyildirim
@@ -73,7 +63,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -84,7 +74,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -95,7 +85,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -106,7 +96,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -117,7 +107,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -128,7 +118,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220511T010216Z
+DTSTAMP:20220602T090742Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
