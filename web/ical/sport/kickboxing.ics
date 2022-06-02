@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220602T090742Z
-X-KAMPFKALENDER-HASH:dc47afad4de28e9da5566fdff4e09d0fce262296
+DTSTAMP:20220602T091247Z
+X-KAMPFKALENDER-HASH:5999a3e813bf5f179fe4ede4e9532da58ef8e376
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-05-masai-rumble@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Masai Rumble
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ma
  ai-rumble-4-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-05-ring-of-fire-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ring Of Fire 14
@@ -30,32 +30,19 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ri
  ng-of-fire-14-469
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
-UID:2022-06-prestige-championships-2@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Prestige Championships 2
-DTSTART:20220604T160000Z
-DTEND:20220604T200000Z
-CATEGORIES:Other,MMA,Boxen,Kickboxen,fight24.tv,fite.tv,SPORT1 Extra,live
- 
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
- estige-championships-ii-474\nvia fite.tv\nvia SPORT1 Extra\n\n---\n\nhtt
- ps://www.fightevents.de/event/prestige-championship-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-06-prestige-championships-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prestige Championships 2: Prelims
 DTSTART:20220604T160000Z
-DTEND:20220604T160000Z
+DTEND:20220604T200000Z
 CATEGORIES:Other,MMA,Boxen,Kickboxen,fight24.tv,fite.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  estige-championships-ii-474\nvia fite.tv\n\n---\n\nhttps://www.fighteven
  ts.de/event/prestige-championship-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-06-enfusion-107@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 107
@@ -68,7 +55,20 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9HpWQMSGV2o\
  stadt-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
+UID:2022-06-prestige-championships-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Prestige Championships 2
+DTSTART:20220604T200000Z
+DTEND:20220604T220000Z
+CATEGORIES:Other,MMA,Boxen,Kickboxen,fight24.tv,fite.tv,SPORT1 Extra,live
+ 
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ estige-championships-ii-474\nvia fite.tv\nvia SPORT1 Extra\n\n---\n\nhtt
+ ps://www.fightevents.de/event/prestige-championship-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220602T091247Z
 UID:2022-06-enfusion-108-glory-rivals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 108 & Glory Rivals 1
@@ -86,7 +86,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  . Rastiano Petronia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
@@ -98,7 +98,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-06-enfusion-109@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109
@@ -109,7 +109,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-06-enfusion-talents-92@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Talents 92
@@ -120,7 +120,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
  fusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -133,7 +133,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Fernandez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T090742Z
+DTSTAMP:20220602T091247Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4
