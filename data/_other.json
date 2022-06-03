@@ -77,6 +77,51 @@
     }
   },
   {
+    "id": "recklinghausen-2022-06-04",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Recklinghausen"
+    ],
+    "mainCard": {
+      "title": "Grand Boxing - Diamond Edition",
+      "time": "2022-06-04T16:30:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-grand-boxing-3-478",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "grand-boxing-3-diamond-edition",
+      "time": "2022-06-04T13:45:00Z",
+      "until": "2022-06-04T21:55:00Z",
+      "title": "Grand Boxing 3 – Diamond Edition",
+      "url": "https://www.fightevents.de/event/grand-boxing-3-diamond-edition/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Boxen",
+        "Diamond Edition",
+        "Fight24.tv",
+        "Grand Boxing 3",
+        "Kickboxen",
+        "MMA",
+        "Rechlinghausen"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "K1/Kickboxen",
+        "Livestream",
+        "MMA",
+        "National"
+      ]
+    }
+  },
+  {
     "id": "soko-2022-06-04",
     "promotion": "_OTHER",
     "sports": [
@@ -124,26 +169,6 @@
         "Livestream",
         "MMA"
       ]
-    }
-  },
-  {
-    "id": "recklinghausen-2022-06-04",
-    "promotion": "_OTHER",
-    "sports": [
-      "BOXING"
-    ],
-    "tags": [
-      "#Recklinghausen"
-    ],
-    "mainCard": {
-      "title": "Grand Boxing - Diamond Edition",
-      "time": "2022-06-04T16:30:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "url": "https://www.fight24.tv/fightpasses/fight24-grand-boxing-3-478",
-          "freeAfter": 48
-        }
-      }
     }
   },
   {
@@ -254,12 +279,34 @@
     "mainCard": {
       "title": "Profiboxen Recklinghausen",
       "time": "2022-06-05T13:45:00Z",
+      "until": "2022-06-05T17:00:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
           "url": "https://www.fight24.tv/fightpasses/fight24-boxen-recklinghausen-477",
           "freeAfter": 48
         }
       }
+    },
+    "fightEvents": {
+      "id": "profiboxen-recklinghausen",
+      "time": "2022-06-05T13:45:00Z",
+      "until": "2022-06-05T17:00:00Z",
+      "title": "Profiboxen Recklinghausen",
+      "url": "https://www.fightevents.de/event/profiboxen-recklinghausen/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Boxen",
+        "Fight24.tv",
+        "Profiboxen",
+        "Profiboxen Recklinghausen",
+        "Recklinghausen"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "Livestream",
+        "National"
+      ]
     }
   },
   {

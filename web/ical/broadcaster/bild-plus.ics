@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220527T075555Z
-X-KAMPFKALENDER-HASH:a29bdcfae416c8f56f307f44c2986a8e195cabdf
+DTSTAMP:20220603T104855Z
+X-KAMPFKALENDER-HASH:12f09f643d332b0ad1deeb729df0d6213ceebc6e
 BEGIN:VEVENT
-DTSTAMP:20220527T075555Z
+DTSTAMP:20220603T104855Z
 UID:2022-05-ksw-70-pudzian-vs-materla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 70: Pudzian vs. Materla
@@ -29,7 +29,7 @@ DESCRIPTION:via kswtv.com\nvia Bild+: https://www.bild.de/bild-plus/sport
  Prelim: Anita Bekus (5-2-0) vs. Roberta Zocco (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220527T075555Z
+DTSTAMP:20220603T104855Z
 UID:2022-05-charr-vs-milacic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Charr vs. Milacic
@@ -47,5 +47,30 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  li (26-35-0)\nMain Card: Branimir Malencia (3-0-0) vs. Slaviša Simeunovi
  ć (39-51-0)\nMain Card: Toni Thes (16-10-0) vs. Michael Wallisch (22-5-0
  )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220603T104855Z
+UID:2022-06-oktagon-33-buchinger-vs-keita@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 33: Buchinger vs. Keita
+DTSTART:20220604T200000Z
+DTEND:20220604T230000Z
+CATEGORIES:Oktagon,MMA,oktagon.tv,Bild+,live
+DESCRIPTION:via oktagon.tv\nvia Bild+: https://www.bild.de/bild-plus/spor
+ t/mehr-sport/sport-mix/mma-oktagon-33-in-frankfurt-im-livestream-hier-se
+ hen-sie-den-kaefig-kracher-80170222\,view=conversionToLogin.bild.html\n\
+ n---\n\nhttps://www.tapology.com/fightcenter/events/89655-oktagon-33\nht
+ tp://www.sherdog.com/events/oktagon-mma-oktagon-33-93346\nhttps://www.be
+ stfightodds.com/events/oktagon-33-2548\n\n---\n\nMain Event: Ivan Buchin
+ ger (39-7-0) vs. Losene Keita (8-0-0)\nCo-Main Event: Stephan Puetz (20-
+ 5-0) vs. Martin Zawada (29-16-1)\nMain Card: Christian Eckerlin (14-5-0)
+  vs. Denilson Neves (16-8-0)\nMain Card: Karlos Vémola (31-6-0) vs. Mich
+ ał Pasternak (16-7-0)\nMain Card: David Zawada (17-7-0) vs. Erhan Kartal
+  (10-1-0)\nPrelim: Christian Jungwirth (11-5-0) vs. Ivica Trušček (41-35
+ -0)\nPrelim: Zdenek Polivka (7-5-0) vs. Cheick Kone (18-11-0)\nPrelim: H
+ atef Moeil (11-4-0) vs. Kerisson Leal (6-3-0)\nPrelim: Ahmed Vila (8-4-1
+ ) vs. Jaroslav Pokorný (14-9-0)\nPrelim: Donald Ćosic (3-0-0) vs. Adam P
+ ałasz (6-1-0)\nPrelim: Jamie Cordero (1-0-0) vs. Ibrahim Cholo (4-1-0)\n
+ Prelim: Michael Deiga-Scheck (8-4-0) vs. Cory Tait (10-6-0)
 END:VEVENT
 END:VCALENDAR
