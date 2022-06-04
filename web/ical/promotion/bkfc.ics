@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220525T115112Z
-X-KAMPFKALENDER-HASH:823e6d961740e77c3ff1f08e305a7f6e51d0bb1a
+DTSTAMP:20220604T110930Z
+X-KAMPFKALENDER-HASH:cbbb24a2884ea0ed578228f9ed9d2fa2c392f952
 BEGIN:VEVENT
-DTSTAMP:20220525T115113Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-bkfc-jackson-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2: Prelims
@@ -25,7 +25,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-prel
  orres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jordan Pedreia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T115113Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-bkfc-jackson-2-belcher-vs-tate@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2: Belcher vs. Tate
@@ -41,5 +41,20 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-belc
  Frankie Shugart vs. Brett Williams\nMain Card: Arthur Walcott-Ceesay vs.
   Bobby Taylor\nMain Card: Stanislav Grosu vs. Brad Kelly\nMain Card: Chr
  istian Torres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jordan Pedreia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220604T110930Z
+UID:2022-06-bkfc-26-brito-vs-palomino-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 26: Brito vs. Palomino 2
+DTSTART:20220625T000000Z
+DTEND:20220625T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/89959-bkfc-26\nhttps://events.mixedmartialarts.com/bkfc-26:20c6370b
+ -1019-49b3-b8dd-fd2b507ca298\n\n---\n\nMain Event: Luis Palomino vs. Elv
+ in Leon Brito\nCo-Main Event: Jimmie Rivera vs. Howard Davis\nMain Card:
+  Cary Caprio vs. Tyler Randall\nMain Card: Dalton Duncan vs. Brian Duran
+ 
 END:VEVENT
 END:VCALENDAR

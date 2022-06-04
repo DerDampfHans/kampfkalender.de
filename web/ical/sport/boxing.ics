@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220603T104855Z
-X-KAMPFKALENDER-HASH:25a427a0be7ec95518d9715e0c5d72f1f34ec705
+DTSTAMP:20220604T110930Z
+X-KAMPFKALENDER-HASH:a7a7985e519f49c088a3675b38a8290f3a566747
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-05-pulheimer-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pulheimer Boxnacht
@@ -29,7 +29,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  autovic (0-0-0) vs. Vedran Soskan (2-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-05-k-town-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:K-Town Fight Night
@@ -51,7 +51,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-k-
  v (0-0-0) vs. Milan Mihajlovic (0-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-05-charr-vs-milacic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Charr vs. Milacic
@@ -71,7 +71,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-05-davis-vs-romero-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Davis vs. Romero: Prelims
@@ -92,7 +92,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=60HvEVQtcJU\n\n-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-05-davis-vs-romero@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Davis vs. Romero
@@ -113,7 +113,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/davis-vs-romero/2pbd1/
   (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-watts-vs-russell@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Watts vs. Russell
@@ -133,7 +133,18 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/btb-drapac-vs-winter/2
  yan Cotten (4-6-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
+UID:2022-06-grand-boxing-diamond-edition@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Grand Boxing - Diamond Edition
+DTSTART:20220604T134500Z
+DTEND:20220604T215500Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/gra
+ nd-boxing-3-diamond-edition/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220604T110930Z
 UID:2022-06-prestige-championships-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prestige Championships 2: Prelims
@@ -145,19 +156,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  ts.de/event/prestige-championship-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
-UID:2022-06-grand-boxing-diamond-edition@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Grand Boxing - Diamond Edition
-DTSTART:20220604T163000Z
-DTEND:20220604T193000Z
-CATEGORIES:Other,Boxen,fight24.tv,live
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gr
- and-boxing-3-478\n\n---\n\nhttps://www.fightevents.de/event/grand-boxing
- -3-diamond-edition/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-ogawa-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ogawa vs. Cordina
@@ -168,16 +167,16 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/89042-ogawa-vs-cordina\nhttp://www.boxrec.com/en/event/854555\n\n---\n
  \nMain Event: Kenichi Ogawa (26-1-1) vs. Joe Cordina (14-0-0)\nCo-Main E
  vent: Faroukh Kourbanov (19-3-0) vs. Zelfa Barrett (27-1-0)\nMain Card: 
- Skye Nicolson (0-0-0) vs. Gabriela Bouvier (15-10-1)\nMain Card: Dalton 
- Smith (10-0-0) vs. M. Hasan Perouene (14-5-1)\nMain Card: Gamal Yafai (1
- 8-2-0) vs. Sean Cairns (8-3-0)\nPrelim: Joe Morgan (0-0-0) vs. Rustem Fa
- tkhullin (8-32-0)\nPrelim: Ben Crocker (0-0-0) vs. Evgeny Vazem (9-28-0)
- \nPrelim: Kyran Jones (0-0-0) vs. Vasif Mamedov (2-17-3)\nPrelim: Calum 
- French (0-0-0) vs. Gadatamen Taylor (4-9-1)\nPrelim: Monique Bux (0-0-0)
+ Dalton Smith (10-0-0) vs. M. Hasan Perouene (14-5-1)\nMain Card: Skye Ni
+ colson (0-0-0) vs. Gabriela Bouvier (15-10-1)\nMain Card: Gamal Yafai (1
+ 8-2-0) vs. Sean Cairns (8-3-0)\nPrelim: Calum French (0-0-0) vs. Gadatam
+ en Taylor (4-9-1)\nPrelim: Kyran Jones (0-0-0) vs. Vasif Mamedov (2-17-3
+ )\nPrelim: Joe Morgan (0-0-0) vs. Rustem Fatkhullin (8-32-0)\nPrelim: Be
+ n Crocker (0-0-0) vs. Evgeny Vazem (9-28-0)\nPrelim: Monique Bux (0-0-0)
   vs. Ester Konecna (1-15-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-prestige-championships-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prestige Championships 2
@@ -190,7 +189,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  ps://www.fightevents.de/event/prestige-championship-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-garcia-vs-pierce@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Pierce
@@ -200,7 +199,29 @@ CATEGORIES:Other,Boxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pcs-1/2pbbk/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
+UID:2022-06-fulton-jr-vs-roman@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fulton Jr. vs. Roman
+DTSTART:20220605T020000Z
+DTEND:20220605T050000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pbc-fulton-vs-roman/2p
+ bf6/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/87686-fulton-
+ jr-vs-roman\nhttp://www.boxrec.com/en/event/851234\n\n---\n\nMain Event:
+  Stephen Fulton (20-0-0) vs. Danny Roman (29-3-1)\nCo-Main Event: David 
+ Morrell (6-0-0) vs. Kalvin Henderson (15-1-1)\nMain Card: Alfredo Santia
+ go (13-2-0) vs. Karl Dargan (20-1-0)\nPrelim: Demler Zamora (8-0-0) vs. 
+ Raul Chirino (16-13-0)\nPrelim: Malik Warren (6-0-0) vs. Pedro Hernandez
+  (0-0-0)\nPrelim: Yevgeniy Pavlov (6-0-0) vs. Alexis Salido (0-0-0)\nPre
+ lim: Bek Nurmaganbet (6-0-0) vs. Khainell Wheeler (7-1-0)\nPrelim: Devon
+ tae McDonald (0-0-0) vs. Abilkhan Amankul (0-0-0)\nPrelim: Ablaikhan Zhu
+ ssupov (1-0-0) vs. Edgar Ramirez (18-20-1)\nPrelim: Jose Tito Sanchez (8
+ -0-0) vs. Ariel Perez (8-0-0)\nPrelim: Travon Marshall (5-0-0) vs. Marcu
+ s Washington (5-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220604T110930Z
 UID:2022-06-profiboxen-recklinghausen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Profiboxen Recklinghausen
@@ -212,7 +233,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  oxen-recklinghausen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -224,7 +245,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  e/event/friday-night-boxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -235,16 +256,16 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/88809-kyoguchi-vs-bermudez\nhttp://www.boxrec.com/en/event/853989\n\n-
  --\n\nMain Event: Hiroto Kyoguchi (15-0-0) vs. Esteban Bermudez (14-3-2)
  \nMain Card: Jorge Castaneda (15-1-0) vs. Eduardo Hernandez (31-1-0)\nMa
- in Card: Mayerlin Rivas (16-4-2) vs. Isis Vargas (8-4-0)\nMain Card: Die
- go Pacheco (14-0-0) vs. Raul Ortega (10-2-0)\nMain Card: Aaron Aponte (5
- -0-0) vs. Leo Martinez (0-0-0)\nMain Card: Anthony Herrera (0-0-0) vs. K
- ennyn Valenzuela (2-2-0)\nMain Card: Jesus Martinez (0-0-0) vs. Daniel N
- uñez (1-1-0)\nMain Card: Alexis Eduardo Molina (8-0-1) vs. Jonathan Lope
- z (8-0-0)\nMain Card: Harley Mederos (0-0-0) vs. Eduardo Torres Esparza 
- (0-0-0)
+ in Card: Diego Pacheco (14-0-0) vs. Raul Ortega (10-2-0)\nMain Card: Aar
+ on Aponte (5-0-0) vs. Leo Martinez (0-0-0)\nMain Card: Anthony Herrera (
+ 0-0-0) vs. Kennyn Valenzuela (2-2-0)\nMain Card: Jesus Martinez (0-0-0) 
+ vs. Daniel Nuñez (1-1-0)\nMain Card: Alexis Eduardo Molina (8-0-1) vs. J
+ onathan Lopez (8-0-0)\nMain Card: Harley Mederos (0-0-0) vs. Eduardo Tor
+ res Esparza (0-0-0)\nMain Card: Mayerlin Rivas (16-4-2) vs. Karina Ferna
+ ndez (16-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-munguia-vs-kelly@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Munguia vs. Kelly
@@ -256,7 +277,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89528-munguia-vs-
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -275,7 +296,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-07-chisora-vs-kownacki@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs. Kownacki
@@ -287,7 +308,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0) vs. Adam Kownacki (20-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-07-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -299,7 +320,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  24-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220603T104855Z
+DTSTAMP:20220604T110930Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3

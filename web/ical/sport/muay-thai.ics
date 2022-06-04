@@ -4,16 +4,35 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220528T220304Z
-X-KAMPFKALENDER-HASH:0b318fd1261f6e66e64863ef9a970f29c4bd6ce6
+DTSTAMP:20220604T110930Z
+X-KAMPFKALENDER-HASH:ea2543d663e6571d2851e2850bda0e5345e35eda
 BEGIN:VEVENT
-DTSTAMP:20220528T220304Z
+DTSTAMP:20220604T110931Z
 UID:2022-07-lion-fight-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 74
 DTSTART:20220709T000000Z
 DTEND:20220709T030000Z
 CATEGORIES:LFP,Muay Thai,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-74/2pbc8/
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-74/2pbc8/\n
+ \n---\n\nhttps://www.tapology.com/fightcenter/events/89970-lion-fight-73
+ -lf-73\nhttps://events.mixedmartialarts.com/lion-fight-73:e792fc88-6f88-
+ 42d6-946e-0f62b4f4b8ab\n\n---\n\nMain Event: Jefferson Silva vs. Carlos 
+ Guerra\nCo-Main Event: Regan Gowing vs. Magalie Alvarez\nMain Card: W. D
+ os Santos vs. Miguel Angel Robles\nMain Card: Coral Carnicella vs. Angel
+ a Danzig\nMain Card: Ray Aninzo vs. Marcell Mickens\nMain Card: Cristian
+  Carillo vs. Spencer Hanley\nMain Card: Bob Mozisek vs. Anthony Ryles\nM
+ ain Card: Astacia Vormelker vs. Megan Roddie
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220604T110931Z
+UID:2022-08-one-championship-160@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Championship 160
+DTSTART:20220826T100000Z
+DTEND:20220826T130000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/89974-one-championship-160
 END:VEVENT
 END:VCALENDAR
