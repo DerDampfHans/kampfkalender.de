@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220604T214005Z
-X-KAMPFKALENDER-HASH:b9e7951a9fa8664b5620a63ca9912162b8070334
+DTSTAMP:20220605T152226Z
+X-KAMPFKALENDER-HASH:d14626adb6d2e83c68d7b841904c4f542a0aabd8
 BEGIN:VEVENT
-DTSTAMP:20220604T214005Z
+DTSTAMP:20220605T152226Z
 UID:2022-05-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3Q5uvQTU5Ss
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220604T214005Z
+DTSTAMP:20220605T152226Z
 UID:2022-06-interview-mit-peter-sobotta-vom-kinderzimmer-in-die-ufc@kampf
  kalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,13 +28,13 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4j1Su3MtPM8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220604T214005Z
-UID:2022-06-schlagwort-podcast@kampfkalender.de
+DTSTAMP:20220605T152226Z
+UID:2022-06-schlagwort-podcast-166-putz-zawada@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Podcast 166: Pütz & Zawada
 DTSTART:20220605T160000Z
 DTEND:20220605T180000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DK6nivRjSd4
 END:VEVENT
 END:VCALENDAR

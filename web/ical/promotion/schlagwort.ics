@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220602T091917Z
-X-KAMPFKALENDER-HASH:d4d9b8f97c429db11eb2b7dd6b60387b3460f43b
+DTSTAMP:20220605T152226Z
+X-KAMPFKALENDER-HASH:1840d1f451b1557b88b04b7c297edefd5142eb7c
 BEGIN:VEVENT
-DTSTAMP:20220602T091917Z
+DTSTAMP:20220605T152226Z
 UID:2022-05-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -17,13 +17,13 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3Q5uvQTU5Ss
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220602T091917Z
-UID:2022-06-schlagwort-podcast@kampfkalender.de
+DTSTAMP:20220605T152226Z
+UID:2022-06-schlagwort-podcast-166-putz-zawada@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Podcast 166: Pütz & Zawada
 DTSTART:20220605T160000Z
 DTEND:20220605T180000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DK6nivRjSd4
 END:VEVENT
 END:VCALENDAR
