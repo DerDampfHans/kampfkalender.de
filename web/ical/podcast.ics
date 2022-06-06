@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220605T220304Z
-X-KAMPFKALENDER-HASH:2b10ed427072f5f3abd2ce48c7c3862f4a98a90a
+DTSTAMP:20220606T162535Z
+X-KAMPFKALENDER-HASH:79dd5d50d77d3b2d2d3e1be9a0816e21b838a937
 BEGIN:VEVENT
-DTSTAMP:20220605T220304Z
+DTSTAMP:20220606T162535Z
 UID:2022-06-interview-mit-peter-sobotta-vom-kinderzimmer-in-die-ufc@kampf
  kalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4j1Su3MtPM8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T220304Z
+DTSTAMP:20220606T162535Z
 UID:2022-06-schlagwort-podcast-166-putz-zawada@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 166: Pütz & Zawada
@@ -26,5 +26,17 @@ DTSTART:20220605T160000Z
 DTEND:20220605T180000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DK6nivRjSd4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220606T162535Z
+UID:2022-06-bittere-niederlage-fur-niklas-stolze-eckerlin-bei-oktagon-roz
+ enstruik-volkov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bittere Niederlage für Niklas Stolze | Eckerlin bei Oktagon | Roz
+ enstruik - Volkov
+DTSTART:20220606T170000Z
+DTEND:20220606T183000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=EBpIg2lJ9ro
 END:VEVENT
 END:VCALENDAR
