@@ -4,18 +4,28 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220504T092225Z
-X-KAMPFKALENDER-HASH:f59b26c6533f5c7719a125a3bb7dd9908dbef4ec
+DTSTAMP:20220608T115713Z
+X-KAMPFKALENDER-HASH:32a26a5abff9c471a5ea3106bbc6b1caa6f31c4d
 BEGIN:VEVENT
-DTSTAMP:20220504T092225Z
+DTSTAMP:20220608T115713Z
+UID:2022-06-innferno-fc-5-vorkampfe@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:INNFERNO FC 5: Vorkämpfe
+DTSTART:20220611T173000Z
+DTEND:20220611T210000Z
+CATEGORIES:INNFERNO,MMA,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
+ n\n---\n\nhttps://www.fightevents.de/event/innferno-fc-5/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220608T115713Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
-DTSTART:20220611T170000Z
-DTEND:20220611T210000Z
-CATEGORIES:INNFERNO,MMA,Kickboxen,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
- nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/innferno-fc-5
- /
+DTSTART:20220611T210000Z
+DTEND:20220611T223000Z
+CATEGORIES:INNFERNO,MMA,Kickboxen,SPORT1,fighting.de,live,kostenlos
+DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
+ hqJdFDc_hKw\n\n---\n\nhttps://www.fightevents.de/event/innferno-fc-5/
 END:VEVENT
 END:VCALENDAR

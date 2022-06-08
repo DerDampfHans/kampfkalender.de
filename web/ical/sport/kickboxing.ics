@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220605T152226Z
-X-KAMPFKALENDER-HASH:ec2fd87a010dbd03b3f0c941acecffdb4af25ccc
+DTSTAMP:20220608T115713Z
+X-KAMPFKALENDER-HASH:a703efc3174113838f7e3f5ce98042a5e5863757
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
 UID:2022-06-prestige-championships-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prestige Championships 2: Prelims
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  ts.de/event/prestige-championship-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
 UID:2022-06-enfusion-107@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 107
@@ -32,7 +32,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9HpWQMSGV2o\
  stadt-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
 UID:2022-06-prestige-championships-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prestige Championships 2
@@ -45,62 +45,80 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  ps://www.fightevents.de/event/prestige-championship-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
 UID:2022-06-glory-rivals-1-enfusion-108@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 1 / Enfusion 108
-DTSTART:20220611T153000Z
+DTSTART:20220611T151500Z
 DTEND:20220611T193000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-108/\nhttps://www.tapology.com/fightcenter/events/89058-glory-riv
- als-2\n\n---\n\nMain Event: Luis Tavares vs. Florent Kaouachi\nCo-Main E
- vent: Nidal Bchiri vs. Jahfarr Wilnis\nCo-Main Event: Serginio Kanters v
- s. Jay Overmeer\nMain Card: Yannick van Vliet vs. Mohammed Achmed\nMain 
- Card: Ibrahim El Bouni vs. Clyde Brunswijk\nMain Card: Regilio van den E
- nt vs. Joe Johnson\nMain Card: Youssef Madi vs. Adil Bougzir\nMain Card:
-  Diego Barbosa vs. Robin Gillebaard\nPrelim: Raymond Bonte vs. Steven va
- n den Broek\nMain Card: Marouane Elkass vs. Bas Willemse\nPrelim: Mischa
-  Eradus vs. Jimmy van Kuijeren\nPrelim: Renátó Góman vs. Bilal el Alaoui
- \nPrelim: Mohamed El Oualkadi vs. Rastiano Petronia\nPrelim: Gilvan Gome
- z vs. Levi Thompson
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=vF35JXDxnZc\
+ n\n---\n\nhttps://www.fightevents.de/event/enfusion-108/\nhttps://www.ta
+ pology.com/fightcenter/events/89058-glory-rivals-2\n\n---\n\nMain Event:
+  Luis Tavares vs. Florent Kaouachi\nCo-Main Event: Rodrigo Mineiro vs. J
+ ay Overmeer\nMain Card: Ibrahim El Bouni vs. Clyde Brunswijk\nMain Card:
+  Nidal Bchiri vs. Muhammed Balli\nMain Card: Regilio van den Ent vs. Joe
+  Johnson\nMain Card: Younes Smaili vs. Conan Saelens\nMain Card: Raymond
+  Bonte vs. Steven van den Broek\nMain Card: Ismael Ouzgni vs. Jimmy van 
+ Kuijeren\nMain Card: Yannick van Vliet vs. Mohammed Achmed\nMain Card: Y
+ oussef Madi vs. Adil Bougzir\nMain Card: Diego Barbosa vs. Robin Gilleba
+ ard\nMain Card: Marouane Elkass vs. Bas Willemse\nPrelim: Renátó Góman v
+ s. Bilal el Alaoui\nPrelim: Mohamed El Oualkadi vs. Rastiano Petronia\nP
+ relim: Gilvan Gomez vs. Levi Thompson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
+UID:2022-06-innferno-fc-5-vorkampfe@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:INNFERNO FC 5: Vorkämpfe
+DTSTART:20220611T173000Z
+DTEND:20220611T210000Z
+CATEGORIES:INNFERNO,MMA,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
+ n\n---\n\nhttps://www.fightevents.de/event/innferno-fc-5/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220608T115714Z
 UID:2022-06-innferno-fc-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO FC 5
-DTSTART:20220611T170000Z
-DTEND:20220611T210000Z
-CATEGORIES:INNFERNO,MMA,Kickboxen,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=hqJdFDc_hKw\
- nvia fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/innferno-fc-5
- /
+DTSTART:20220611T210000Z
+DTEND:20220611T223000Z
+CATEGORIES:INNFERNO,MMA,Kickboxen,SPORT1,fighting.de,live,kostenlos
+DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
+ hqJdFDc_hKw\n\n---\n\nhttps://www.fightevents.de/event/innferno-fc-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
+UID:2022-06-ksw-71-zio-kowski-vs-rajewski@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 71: Ziółkowski vs. Rajewski
+DTSTART:20220618T160000Z
+DTEND:20220618T190000Z
+CATEGORIES:KSW,MMA,Kickboxen,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/89597-ksw-71\n\n---\n\nMain Event: Marian Ziółkowski (24-8-1) vs.
+  Sebastian Rajewski (12-6-0)\nCo-Main Event: Marcin Różalski vs. Errol Z
+ immerman\nMain Card: Artur Szpilka (0-0-0) vs. Serhiy Radchenko (2-1-0)\
+ nMain Card: Borys Mańkowski (22-9-1) vs. Daniel Torres (13-5-0)\nMain Ca
+ rd: Jakub Wikłacz (12-3-1) vs. Bruno Santos (10-3-0)\nMain Card: Filip S
+ tawowy (9-2-0) vs. Michal Martínek (9-3-0)\nPrelim: Artur Sowiński (22-1
+ 3-0) vs. Donovan Desmae (15-7-0)\nPrelim: Przemysław Dzwoniarek (3-1-0) 
+ vs. Marc Doussis (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220608T115714Z
 UID:2022-06-enfusion-109@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109
-DTSTART:20220618T153000Z
+DTSTART:20220618T174500Z
 DTEND:20220618T193000Z
 CATEGORIES:Enfusion,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-109/
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=r57JGtTfYeI\
+ n\n---\n\nhttps://www.fightevents.de/event/enfusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
-UID:2022-06-enfusion-talents-92@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Enfusion Talents 92
-DTSTART:20220618T160000Z
-DTEND:20220618T153000Z
-CATEGORIES:Enfusion,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-109/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -113,7 +131,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Fernandez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
 UID:2022-08-one-160@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160
@@ -124,7 +142,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/89974-one-championship-160
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220608T115714Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4

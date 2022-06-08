@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220604T110930Z
-X-KAMPFKALENDER-HASH:7356876d984366ba2659ee50a69c1e0fae10890e
+DTSTAMP:20220608T115244Z
+X-KAMPFKALENDER-HASH:7dccfbe438dbcdbb213cfe23188912ef38b740bf
 BEGIN:VEVENT
-DTSTAMP:20220604T110930Z
+DTSTAMP:20220608T115244Z
 UID:2022-06-enfusion-107@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 107
@@ -20,7 +20,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9HpWQMSGV2o\
  stadt-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220604T110930Z
+DTSTAMP:20220608T115244Z
 UID:2022-06-enfusion-cage-events-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Cage Events 8
@@ -31,25 +31,14 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=nFwipmNe1v4\
  nvia fight24.tv: https://www.fight24.tv/fightpasses/fight24-ece-8-476
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220604T110930Z
+DTSTAMP:20220608T115244Z
 UID:2022-06-enfusion-109@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109
-DTSTART:20220618T153000Z
+DTSTART:20220618T174500Z
 DTEND:20220618T193000Z
 CATEGORIES:Enfusion,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-109/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220604T110930Z
-UID:2022-06-enfusion-talents-92@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Enfusion Talents 92
-DTSTART:20220618T160000Z
-DTEND:20220618T153000Z
-CATEGORIES:Enfusion,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/en
- fusion-109/
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=r57JGtTfYeI\
+ n\n---\n\nhttps://www.fightevents.de/event/enfusion-109/
 END:VEVENT
 END:VCALENDAR

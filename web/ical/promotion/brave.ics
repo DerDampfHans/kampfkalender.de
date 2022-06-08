@@ -4,23 +4,36 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220604T110930Z
-X-KAMPFKALENDER-HASH:af77e9692dc93ddb1eb60a821d85716622b717a1
+DTSTAMP:20220608T115244Z
+X-KAMPFKALENDER-HASH:9abea836acc5973f2d59e25ead3dffa5f23b1cb8
 BEGIN:VEVENT
-DTSTAMP:20220604T110930Z
-UID:2022-06-brave-cf-59-atf-11@kampfkalender.de
+DTSTAMP:20220608T115244Z
+UID:2022-06-brave-cf-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Brave CF 59 & ATF 11
-DTSTART:20220618T100000Z
-DTEND:20220618T130000Z
+SUMMARY:Brave CF 59
+DTSTART:20220618T143000Z
+DTEND:20220618T200000Z
 CATEGORIES:Brave,MMA,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/89484-brave-cf-59-atf-11\n\n---\n\nMain Card: K. Abdisalam Uulu
-  (18-3-0) vs. Olzhas Eskaraev (10-5-0)\nMain Card: Baz Mohammad (11-6-0)
-  vs. Ayub Gaziev (12-3-1)\nMain Card: Otabek Toxirov (5-1-0) vs. Nurzhan
-  Akishev (12-3-0)\nMain Card: Ismail Naurdiev (21-5-0) vs. Bekten Jeenbe
- kov (5-0-0)\nMain Card: Alikhon Khasanov (16-8-0) vs. Nemat Abdrashitov 
- (16-8-0)\nMain Card: Xusanboy Atabayev (8-2-0) vs. Ilyar Askhanov (10-4-
- 0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=foFfhH4EbiM\
+ n\n---\n\nhttps://www.fightevents.de/event/brave-59/\nhttps://www.tapolo
+ gy.com/fightcenter/events/89484-brave-cf-59-atf-11\nhttp://www.sherdog.c
+ om/events/brave-cf-59-brave-combat-federation-59-93238\n\n---\n\nMain Ev
+ ent: K. Abdisalam Uulu (18-3-0) vs. Olzhas Eskaraev (10-5-0)\nCo-Main Ev
+ ent: Ismail Naurdiev (21-5-0) vs. Bekten Jeenbekov (5-0-0)\nMain Card: O
+ tabek Toxirov (5-1-0) vs. Nurzhan Akishev (12-3-0)\nMain Card: Alikhon K
+ hasanov (16-8-0) vs. Nemat Abdrashitov (16-8-0)\nMain Card: Xusanboy Ata
+ bayev (8-2-0) vs. Ilyar Askhanov (10-4-0)\nMain Card: Ayub Gaziev (12-3-
+ 1) vs. Sanjarbek Erkinov (7-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220608T115244Z
+UID:2022-06-brave-cf-60@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Brave CF 60
+DTSTART:20220630T180000Z
+DTEND:20220630T213000Z
+CATEGORIES:Brave,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/br
+ ave-60/
 END:VEVENT
 END:VCALENDAR

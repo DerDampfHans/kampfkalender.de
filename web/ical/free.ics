@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220605T152226Z
-X-KAMPFKALENDER-HASH:777060fc2fa66bad58569c4a6537632b1eeeab97
+DTSTAMP:20220608T115713Z
+X-KAMPFKALENDER-HASH:1c9ff393af1191e320b9bc2ffedcfa42a35ea1b0
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-06-one-158-tawanchai-vs-larsen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 158: Tawanchai vs. Larsen
@@ -32,7 +32,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9cu50XJ8f-I\n\n-
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-06-ufc-vegas-56-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 56: Post-Fight Press Conference
@@ -42,7 +42,18 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=1yNOeAHMFmA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
+UID:2022-06-innferno-fc-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:INNFERNO FC 5
+DTSTART:20220611T210000Z
+DTEND:20220611T223000Z
+CATEGORIES:INNFERNO,MMA,Kickboxen,SPORT1,fighting.de,live,kostenlos
+DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
+ hqJdFDc_hKw\n\n---\n\nhttps://www.fightevents.de/event/innferno-fc-5/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220608T115713Z
 UID:2022-06-bkfc-jackson-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2: Prelims
@@ -51,16 +62,18 @@ DTEND:20220612T010000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-prel
  ims/2pbcu/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89307-b
- kfc-fight-night-jackson-2\n\n---\n\nMain Event: Alan Belcher vs. Frank T
- ate\nCo-Main Event: Robbie Peralta vs. Martin Brown\nMain Card: Sawyer D
- epee vs. Quentin Henry\nMain Card: Zion Tomlinson\, Sr. vs. Scott O'Shau
- ghnessy\nMain Card: Billy Wagner vs. Jeremiah Riggs\nMain Card: Frankie 
- Shugart vs. Brett Williams\nMain Card: Arthur Walcott-Ceesay vs. Bobby T
- aylor\nMain Card: Stanislav Grosu vs. Brad Kelly\nMain Card: Christian T
- orres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jordan Pedreia
+ kfc-fight-night-jackson-2\nhttps://events.mixedmartialarts.com/bkfc-figh
+ t-night:4b0558b0-8e7a-4e95-a329-10fba4091d2b\n\n---\n\nMain Event: Alan 
+ Belcher vs. Frank Tate\nCo-Main Event: Robbie Peralta vs. Martin Brown\n
+ Main Card: Sawyer Depee vs. Quentin Henry\nMain Card: Zion Tomlinson\, S
+ r. vs. Scott O'Shaughnessy\nMain Card: Billy Wagner vs. Jeremiah Riggs\n
+ Main Card: Frankie Shugart vs. Brett Williams\nMain Card: Arthur Walcott
+ -Ceesay vs. Bobby Taylor\nMain Card: Stanislav Grosu vs. Brad Kelly\nMai
+ n Card: Christian Torres vs. Tim Hester\nMain Card: Kobe Bowen vs. Jorda
+ n Pedreia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-06-nfc-9-vertko-vs-ardas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Vertko vs. Ardas
@@ -71,7 +84,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-9-balingen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-06-gemmaf-qualifiers-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Qualifiers 1
@@ -81,7 +94,18 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
+UID:2022-07-invicta-fc-48@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Invicta FC 48
+DTSTART:20220721T000000Z
+DTEND:20220721T030000Z
+CATEGORIES:Invicta,MMA,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90047-invicta-fc-48
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220608T115713Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -94,7 +118,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Fernandez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -105,7 +129,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-08-nfc-10-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Coga vs. Özyildirim
@@ -116,7 +140,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-08-one-160@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160
@@ -127,7 +151,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/89974-one-championship-160
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Moraes vs. Johnson 2
@@ -139,7 +163,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  : Adriano Moraes (20-3-0) vs. Demetrious Johnson (23-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -150,7 +174,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -160,7 +184,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -171,7 +195,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -182,7 +206,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -193,7 +217,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -204,7 +228,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -215,7 +239,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -226,7 +250,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -237,7 +261,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -248,7 +272,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-12/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -259,7 +283,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152226Z
+DTSTAMP:20220608T115713Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66

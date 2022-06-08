@@ -12,18 +12,28 @@
     ],
     "mainCard": {
       "title": "INNFERNO FC 5",
-      "time": "2022-06-11T17:00:00Z",
-      "until": "2022-06-11T21:00:00Z",
+      "time": "2022-06-11T21:00:00Z",
+      "until": "2022-06-11T22:30:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=hqJdFDc_hKw"
+        }
+      }
+    },
+    "prelims": {
+      "title": "INNFERNO FC 5: Vorkämpfe",
+      "time": "2022-06-11T17:30:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=hqJdFDc_hKw"
-        },
-        "FIGHT24_TV": {
         }
       },
       "youTube": {
         "id": "hqJdFDc_hKw",
-        "time": "2022-06-11T17:00:00Z",
+        "time": "2022-06-11T17:30:00Z",
         "title": "LIVE: INNFERNO FC 5 | 11. Juni | 19 Uhr - FIGHTING",
         "url": "https://www.youtube.com/watch?v=hqJdFDc_hKw",
         "tags": [
@@ -41,10 +51,20 @@
       "url": "https://www.fightevents.de/event/innferno-fc-5/",
       "broadcaster": "FIGHT24_TV",
       "tags": [
+        "Adrian Zeitner",
+        "Andreeas Binder",
+        "Bogdan Grad",
+        "Daniel Konrad",
+        "Erikas Golubovskis",
+        "Florian Aberge",
+        "Gianluca Locicero",
+        "Gökhan Aksu",
         "Innferno FC",
         "Innferno FC 5",
+        "Johannes Heigl",
         "Kickboxen",
-        "MMA"
+        "MMA",
+        "Roberto Pastuch"
       ],
       "categories": [
         "Fight24.tv",
