@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220606T162535Z
-X-KAMPFKALENDER-HASH:c74ee71488c5e3f2d4b216852b5a511a6748b3ad
+DTSTAMP:20220608T144410Z
+X-KAMPFKALENDER-HASH:0b721471db077a63a85fb8c2626c83e2e8b02093
 BEGIN:VEVENT
-DTSTAMP:20220606T162535Z
+DTSTAMP:20220608T144410Z
 UID:2022-06-interview-mit-peter-sobotta-vom-kinderzimmer-in-die-ufc@kampf
  kalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=4j1Su3MtPM8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220606T162535Z
+DTSTAMP:20220608T144410Z
 UID:2022-06-bittere-niederlage-fur-niklas-stolze-eckerlin-bei-oktagon-roz
  enstruik-volkov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,5 +28,17 @@ DTSTART:20220606T170000Z
 DTEND:20220606T183000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=EBpIg2lJ9ro
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220608T144410Z
+UID:2022-06-preview-zu-ufc-275-teixeira-prochazka-mma-news-und-kommende-f
+ ights@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Preview zu UFC 275: Teixeira - Prochazka | MMA News und kommende 
+ Fights
+DTSTART:20220608T150000Z
+DTEND:20220608T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ogiiWNC3tT8
 END:VEVENT
 END:VCALENDAR
