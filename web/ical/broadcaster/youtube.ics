@@ -4,35 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220609T220304Z
-X-KAMPFKALENDER-HASH:26d9aa194ad7cac1d7e89930f1babe68b5578f1b
+DTSTAMP:20220610T115254Z
+X-KAMPFKALENDER-HASH:340b27e0873513fe88e934cf11fa26f248378d38
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
-UID:2022-06-one-158-tawanchai-vs-larsen@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE 158: Tawanchai vs. Larsen
-DTSTART:20220603T093000Z
-DTEND:20220603T123000Z
-CATEGORIES:ONE,MMA,YouTube,live,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9cu50XJ8f-I\n\n-
- --\n\nhttps://www.tapology.com/fightcenter/events/89435-one-championship
- -pacrio-vs-brooks\nhttp://www.sherdog.com/events/one-championship-one-15
- 8-92909\nhttps://events.mixedmartialarts.com/one-championship-158:1a2864
- 03-6d0e-4bea-9922-b3f88688aea2\n\n---\n\nMain Event: Tawanchai PK Saench
- ai vs. Niclas Larsen\nCo-Main Event: Won Il Kwon (11-3-0) vs. Fabricio d
- e Andrade (7-2-0)\nMain Card: Reece McLaren (14-8-0) vs. Wei Xie (14-3-0
- )\nMain Card: Kairat Akhmetov (28-2-0) vs. Tatsumitsu Wada (24-11-2)\nMa
- in Card: Rade Opačić vs. Guto Inocente\nMain Card: Alex Silva (11-7-0) v
- s. Adrian Mattheis (10-5-0)\nPrelim: Yodkaikaew Fairtex (7-4-1) vs. Gurd
- arshan Mangat (16-3-0)\nPrelim: Marouan Toutouh vs. Constantin Rusu\nPre
- lim: Marcus Buchecha (2-0-0) vs. Simon Carson (2-1-0)\nPrelim: Odie Dela
- ney (3-0-0) vs. Mehdi Barghi (4-3-0)\nPrelim: Duke Didier (8-1-0) vs. Zh
- asur Mirzamukhamedov (5-0-0)\nPrelim: Jenelyn Olsim (5-3-0) vs. Julie Me
- zabarba (9-3-1)\nPrelim: Kyung Lock Kim (0-0-0) vs. Edson Marques (9-2-0
- )
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-06-ufc-vegas-56-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 56: Post-Fight Press Conference
@@ -42,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=1yNOeAHMFmA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-06-schlagwort-podcast-166-putz-zawada@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 166: Pütz & Zawada
@@ -52,7 +27,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DK6nivRjSd4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-06-bittere-niederlage-fur-niklas-stolze-eckerlin-bei-oktagon-roz
  enstruik-volkov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -64,7 +39,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=EBpIg2lJ9ro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-06-preview-zu-ufc-275-teixeira-prochazka-mma-news-und-kommende-f
  ights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -76,7 +51,17 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ogiiWNC3tT8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
+UID:2022-06-schlagwort-podcast@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20220612T160000Z
+DTEND:20220612T180000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220610T115255Z
 UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 282: Mousasi vs. Eblen
@@ -100,7 +85,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-07-invicta-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 48
@@ -108,10 +93,15 @@ DTSTART:20220721T000000Z
 DTEND:20220721T030000Z
 CATEGORIES:Invicta,MMA,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/90047-invicta-fc-48
+ ents/90047-invicta-fc-48\n\n---\n\nMain Event: Taneisha Tennant (4-1-0) 
+ vs. Olga Rubin (7-2-0)\nCo-Main Event: Katharina Lehner (7-3-0) vs. Tali
+ ta Bernardo (7-4-0)\nMain Card: Mallory Martin (7-5-0) vs. Kyra Batara (
+ 8-5-0)\nMain Card: Liana Pirosin (8-4-0) vs. Kristina Williams (5-3-0)\n
+ Main Card: Amber Leibrock (5-4-0) vs. Morgan Frier (4-3-0)\nMain Card: A
+ uttumn Norton (1-1-0) vs. Maria Djukic (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -124,7 +114,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Fernandez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-08-one-160@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160
@@ -135,7 +125,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/89974-one-championship-160
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Moraes vs. Johnson 2
@@ -147,7 +137,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  : Adriano Moraes (20-3-0) vs. Demetrious Johnson (23-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220610T115255Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally

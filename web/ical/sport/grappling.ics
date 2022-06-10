@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220608T115244Z
-X-KAMPFKALENDER-HASH:4f0de3f15caa4316a253c4a653a9dcc35bf08fbf
+DTSTAMP:20220610T114616Z
+X-KAMPFKALENDER-HASH:a197368454856ed8b6ace9ffdb307be0b02a2dc3
 BEGIN:VEVENT
-DTSTAMP:20220608T115244Z
+DTSTAMP:20220610T114617Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands
@@ -15,5 +15,17 @@ DTSTART:20220612T000000Z
 DTEND:20220612T030000Z
 CATEGORIES:Other,Grappling,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/subversiv-7/2pb2p/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220610T114617Z
+UID:2022-06-polaris-20-usa-vs-brazil@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Polaris 20: USA vs. BRAZIL
+DTSTART:20220625T180000Z
+DTEND:20220625T210000Z
+CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/90151-polaris\n\n---\n\nMain Card: Demian Maia vs. Benson He
+ nderson
 END:VEVENT
 END:VCALENDAR
