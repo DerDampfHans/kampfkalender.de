@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220610T114616Z
-X-KAMPFKALENDER-HASH:37957647008fa5c0b941e6520166f7b989da294d
+DTSTAMP:20220612T142324Z
+X-KAMPFKALENDER-HASH:19f43915789115442366918a0a9f02191574d391
 BEGIN:VEVENT
-DTSTAMP:20220610T114617Z
+DTSTAMP:20220612T142324Z
 UID:2022-06-brave-cf-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Brave CF 59
@@ -30,7 +30,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=foFfhH4EbiM\
   Niyaziddin Rysbaev (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220610T114617Z
+DTSTAMP:20220612T142324Z
 UID:2022-06-brave-cf-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Brave CF 60
@@ -38,6 +38,8 @@ DTSTART:20220630T180000Z
 DTEND:20220630T213000Z
 CATEGORIES:Brave,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/br
- ave-60/
+ ave-60/\nhttps://www.tapology.com/fightcenter/events/90197-brave-cf-60\n
+ \n---\n\nMain Event: Lucas Martins (20-6-0) vs. Amin Ayoub (16-5-0)\nCo-
+ Main Event: Leonardo Mafra (15-6-0) vs. Cleiton Silva (15-3-0)
 END:VEVENT
 END:VCALENDAR

@@ -10,7 +10,7 @@
     ],
     "mainCard": {
       "title": "UFC Austin: Kattar vs. Emmett",
-      "time": "2022-06-18T22:00:00Z",
+      "time": "2022-06-18T23:00:00Z",
       "tags": [
         "🎙@SebastianHackl"
       ],
@@ -22,7 +22,7 @@
       },
       "dazn": {
         "id": "1wbvft6nucoyh1vtgedfaazrwi",
-        "time": "2022-06-18T22:00:00Z",
+        "time": "2022-06-18T23:00:00Z",
         "title": "UFC Fight Night: Kattar vs Emmett (Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
@@ -571,7 +571,7 @@
       "#UFC278"
     ],
     "mainCard": {
-      "title": "UFC 278",
+      "title": "UFC 278: Usman vs. Edwards 2",
       "time": "2022-08-20T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -597,13 +597,14 @@
     "tapology": {
       "id": 89354,
       "time": "2022-08-20T22:00:00Z",
-      "title": "UFC 278",
+      "title": "UFC 278: Usman vs. Edwards 2",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/89354-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
+        "Main Event: Kamaru Usman (20-1-0) vs. Leon Edwards (19-3-0)",
         "Main Card: Paulo Costa (13-2-0) vs. Luke Rockhold (16-5-0)",
         "Prelim: Sean Woodson (9-1-0) vs. Luis Saldaña (16-7-0)",
         "Prelim: Aoriqileng (23-11-0) vs. Jay Perrin (10-5-0)",
@@ -694,7 +695,7 @@
     "tapology": {
       "id": 89492,
       "time": "2022-09-10T22:00:00Z",
-      "title": "UFC Fight Night",
+      "title": "UFC 279",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/89492-ufc-fight-night",
       "sports": [
@@ -702,10 +703,53 @@
       ],
       "card": [
         "Main Card: Shamil Abdurakhimov (20-7-0) vs. Jailton Almeida (16-2-0)",
+        "Prelim: Norma Dumont (7-2-0) vs. Danyelle Wolf (1-0-0)",
+        "Prelim: Hannah Cifers (10-7-0) vs. Melissa Martinez (7-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-90191",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2022-09-17T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 90191,
+      "time": "2022-09-17T22:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/90191-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
         "Prelim: Trey Ogden (15-5-0) vs. Daniel Zellhuber (12-0-0)",
         "Prelim: Nikolas Motta (12-4-0) vs. Cameron VanCamp (15-6-1)",
-        "Prelim: Norma Dumont (7-2-0) vs. Danyelle Wolf (1-0-0)",
-        "Prelim: Hannah Cifers (10-7-0) vs. Melissa Martinez (7-0-0)",
         "Prelim: Trevin Giles (14-4-0) vs. Louis Cosce (7-1-0)"
       ]
     }

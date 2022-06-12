@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220611T220305Z
-X-KAMPFKALENDER-HASH:1a4e8db2bfc41a56ef53f6d63279f9f684176001
+DTSTAMP:20220612T142324Z
+X-KAMPFKALENDER-HASH:8a903df72f5f3e594145e80b1113b659f5b58d23
 BEGIN:VEVENT
-DTSTAMP:20220611T220305Z
+DTSTAMP:20220612T142325Z
 UID:2022-06-lfa-134-gafurov-vs-sousa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 134: Gafurov vs. Sousa
@@ -31,5 +31,22 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  . Steven Lontine (0-0-0)\nPrelim: Josh Zarazua (1-0-0) vs. Jody Oliver (
  1-0-0)\nPrelim: Omar Alramahi (1-1-0) vs. Dawson Moore (2-0-0)\nPrelim: 
  Kieran Carthan (0-0-0) vs. Jordan Bradley (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220612T142325Z
+UID:2022-07-lfa-135-leyva-vs-reis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 135: Leyva vs. Reis
+DTSTART:20220709T030000Z
+DTEND:20220709T060000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/90204-lfa-135-leyva-vs-reis\n\n---\n\nMain Event: Alfonso Le
+ yva (5-0-0) vs. Daniel Reis (8-1-0)\nCo-Main Event: Felipe Bunes (11-6-0
+ ) vs. Wascar Cruz (13-9-0)\nMain Card: Austin Wourms (5-3-0) vs. Lucas C
+ lay (8-2-0)\nMain Card: Paris Stanford (5-3-0) vs. Allan Begosso (6-1-1)
+ \nMain Card: Jena Bishop (2-0-0) vs. Luana Santos (3-0-0)\nMain Card: Ma
+ rcus McGhee (4-0-0) vs. Rafael do Nascimento (6-1-0)\nMain Card: Maria H
+ enderson (0-0-0) vs. Melanie McIntyre (0-0-0)
 END:VEVENT
 END:VCALENDAR
