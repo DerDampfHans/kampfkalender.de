@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220610T115254Z
-X-KAMPFKALENDER-HASH:0f968856726a9bb47c408f9c1ec7ed72d4161c21
+DTSTAMP:20220612T142730Z
+X-KAMPFKALENDER-HASH:ba17c58660aa6b797c6551b20deb4ed07c217a05
 BEGIN:VEVENT
-DTSTAMP:20220610T115254Z
+DTSTAMP:20220612T142731Z
 UID:2022-06-schlagwort-podcast-166-putz-zawada@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 166: Pütz & Zawada
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DK6nivRjSd4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220610T115254Z
+DTSTAMP:20220612T142731Z
 UID:2022-06-bittere-niederlage-fur-niklas-stolze-eckerlin-bei-oktagon-roz
  enstruik-volkov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=EBpIg2lJ9ro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220610T115254Z
+DTSTAMP:20220612T142731Z
 UID:2022-06-preview-zu-ufc-275-teixeira-prochazka-mma-news-und-kommende-f
  ights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -41,13 +41,15 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ogiiWNC3tT8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220610T115254Z
-UID:2022-06-schlagwort-podcast@kampfkalender.de
+DTSTAMP:20220612T142731Z
+UID:2022-06-schlagwort-podcast-aslaner-bruder-super-league-coga-vs-ozyild
+ irim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Podcast: Aslaner Brüder\, Super League\, Coga vs Özyil
+ dirim
 DTSTART:20220612T160000Z
-DTEND:20220612T180000Z
+DTEND:20220612T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nSqrYtYQp_I
 END:VEVENT
 END:VCALENDAR

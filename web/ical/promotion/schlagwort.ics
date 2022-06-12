@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220610T115254Z
-X-KAMPFKALENDER-HASH:d2c0e27ffac304cc645bb52e9ef79cbe819a7bfa
+DTSTAMP:20220612T142730Z
+X-KAMPFKALENDER-HASH:77b8c3b5871ed0586d8fd5deffe82d24107ccc6a
 BEGIN:VEVENT
-DTSTAMP:20220610T115254Z
+DTSTAMP:20220612T142731Z
 UID:2022-06-schlagwort-podcast-166-putz-zawada@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 166: Pütz & Zawada
@@ -17,13 +17,15 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=DK6nivRjSd4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220610T115254Z
-UID:2022-06-schlagwort-podcast@kampfkalender.de
+DTSTAMP:20220612T142731Z
+UID:2022-06-schlagwort-podcast-aslaner-bruder-super-league-coga-vs-ozyild
+ irim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Podcast: Aslaner Brüder\, Super League\, Coga vs Özyil
+ dirim
 DTSTART:20220612T160000Z
-DTEND:20220612T180000Z
+DTEND:20220612T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nSqrYtYQp_I
 END:VEVENT
 END:VCALENDAR
