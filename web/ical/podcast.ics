@@ -4,22 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220612T220305Z
-X-KAMPFKALENDER-HASH:c6840b2ba9835501443b594bd88a7459b946bdea
+DTSTAMP:20220613T172057Z
+X-KAMPFKALENDER-HASH:171b761182af78f6951a4d7b296d02ddbaa72828
 BEGIN:VEVENT
-DTSTAMP:20220612T220305Z
-UID:2022-06-bittere-niederlage-fur-niklas-stolze-eckerlin-bei-oktagon-roz
- enstruik-volkov@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Bittere Niederlage für Niklas Stolze | Eckerlin bei Oktagon | Roz
- enstruik - Volkov
-DTSTART:20220606T170000Z
-DTEND:20220606T183000Z
-CATEGORIES:CR,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=EBpIg2lJ9ro
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220612T220305Z
+DTSTAMP:20220613T172057Z
 UID:2022-06-preview-zu-ufc-275-teixeira-prochazka-mma-news-und-kommende-f
  ights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -31,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ogiiWNC3tT8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220612T220305Z
+DTSTAMP:20220613T172057Z
 UID:2022-06-schlagwort-special-aslaner-bruder-super-league-coga-vs-ozyild
  irim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -41,5 +29,16 @@ DTSTART:20220612T160000Z
 DTEND:20220612T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nSqrYtYQp_I
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220613T172057Z
+UID:2022-06-ufc-275-war-verruckt-review-zum-pay-per-view-aus-singapur@kam
+ pfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 275 war verrückt! - Review zum Pay-per-View aus Singapur
+DTSTART:20220613T180000Z
+DTEND:20220613T193000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=B8n_ZqkYXWc
 END:VEVENT
 END:VCALENDAR

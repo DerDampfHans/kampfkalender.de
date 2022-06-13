@@ -4,22 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220609T220304Z
-X-KAMPFKALENDER-HASH:7b7abeb52f8df76bd5a6a869908c93fcc783c8a8
+DTSTAMP:20220613T172057Z
+X-KAMPFKALENDER-HASH:e95e0859cc7e913f7d50ef1489965d43a4ecd201
 BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
-UID:2022-06-bittere-niederlage-fur-niklas-stolze-eckerlin-bei-oktagon-roz
- enstruik-volkov@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Bittere Niederlage für Niklas Stolze | Eckerlin bei Oktagon | Roz
- enstruik - Volkov
-DTSTART:20220606T170000Z
-DTEND:20220606T183000Z
-CATEGORIES:CR,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=EBpIg2lJ9ro
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220609T220304Z
+DTSTAMP:20220613T172058Z
 UID:2022-06-preview-zu-ufc-275-teixeira-prochazka-mma-news-und-kommende-f
  ights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,5 +17,16 @@ DTSTART:20220608T150000Z
 DTEND:20220608T163000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ogiiWNC3tT8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220613T172058Z
+UID:2022-06-ufc-275-war-verruckt-review-zum-pay-per-view-aus-singapur@kam
+ pfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 275 war verrückt! - Review zum Pay-per-View aus Singapur
+DTSTART:20220613T180000Z
+DTEND:20220613T193000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=B8n_ZqkYXWc
 END:VEVENT
 END:VCALENDAR
