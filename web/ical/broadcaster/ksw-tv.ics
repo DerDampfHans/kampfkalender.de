@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220610T114616Z
-X-KAMPFKALENDER-HASH:3a6933b376970a6ee09698fed0c406e524a041d0
+DTSTAMP:20220615T075101Z
+X-KAMPFKALENDER-HASH:085b97251d99997164b53f0c5cfa654599df93de
 BEGIN:VEVENT
-DTSTAMP:20220610T114617Z
+DTSTAMP:20220615T075102Z
 UID:2022-06-ksw-71-zio-kowski-vs-rajewski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 71: Ziółkowski vs. Rajewski
@@ -15,14 +15,29 @@ DTSTART:20220618T160000Z
 DTEND:20220618T190000Z
 CATEGORIES:KSW,MMA,Kickboxen,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/89597-ksw-71\n\n---\n\nMain Event: Marian Ziółkowski (24-8-1) vs.
-  Sebastian Rajewski (12-6-0)\nCo-Main Event: Marcin Różalski vs. Errol Z
- immerman\nMain Card: Artur Szpilka (0-0-0) vs. Serhiy Radchenko (2-1-0)\
- nMain Card: Borys Mańkowski (22-9-1) vs. Daniel Torres (13-5-0)\nMain Ca
- rd: Jakub Wikłacz (12-3-1) vs. Bruno Santos (10-3-0)\nMain Card: Filip S
- tawowy (9-2-0) vs. Michal Martínek (9-3-0)\nMain Card: Roman Szymański (
- 15-6-0) vs. Valeriu Mircea (26-7-1)\nPrelim: Artur Sowiński (22-13-0) vs
- . Donovan Desmae (15-7-0)\nPrelim: Przemysław Dzwoniarek (3-1-0) vs. Mar
- c Doussis (7-1-0)
+ events/89597-ksw-71\nhttp://www.sherdog.com/events/ksw-71-ziolkowski-vs-
+ rajewski-93332\nhttps://events.mixedmartialarts.com/ksw-71:77a661e4-4ee7
+ -4874-b242-90f38282a9ae\n\n---\n\nMain Event: Marian Ziółkowski (24-8-1)
+  vs. Sebastian Rajewski (12-6-0)\nCo-Main Event: Marcin Różalski vs. Err
+ ol Zimmerman\nMain Card: Artur Szpilka (0-0-0) vs. Serhiy Radchenko (2-1
+ -0)\nMain Card: Borys Mańkowski (22-9-1) vs. Daniel Torres (13-5-0)\nMai
+ n Card: Jakub Wikłacz (12-3-1) vs. Bruno Santos (10-3-0)\nMain Card: Fil
+ ip Stawowy (9-2-0) vs. Michal Martínek (9-3-0)\nMain Card: Roman Szymańs
+ ki (15-6-0) vs. Valeriu Mircea (26-7-1)\nPrelim: Artur Sowiński (22-13-0
+ ) vs. Donovan Desmae (15-7-0)\nPrelim: Przemysław Dzwoniarek (3-1-0) vs.
+  Marc Doussis (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220615T075102Z
+UID:2022-07-ksw-72@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 72
+DTSTART:20220723T170000Z
+DTEND:20220723T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/90216-ksw-72\n\n---\n\nMain Event: Tomasz Romanowski (15-8-0) vs.
+  Andrzej Grzebyk (18-5-0)\nMain Card: Patryk Kaczmarczyk (8-1-0) vs. Daw
+ id Śmiełowski (9-0-0)
 END:VEVENT
 END:VCALENDAR

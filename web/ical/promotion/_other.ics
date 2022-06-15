@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220612T142324Z
-X-KAMPFKALENDER-HASH:7b5ca9ae4337c54bf0ea850c5d20279537059404
+DTSTAMP:20220615T075101Z
+X-KAMPFKALENDER-HASH:5852057520ccaa62712e35c20b1830fbec2859d9
 BEGIN:VEVENT
-DTSTAMP:20220612T142324Z
+DTSTAMP:20220615T075101Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  y-night-boxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220612T142324Z
+DTSTAMP:20220615T075101Z
 UID:2022-06-phoenix-fight-gala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phoenix Fight Gala
@@ -30,7 +30,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ph
  oenix-fc-482
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220612T142324Z
+DTSTAMP:20220615T075101Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands
@@ -40,12 +40,12 @@ CATEGORIES:Other,Grappling,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/subversiv-7/2pb2p/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220612T142324Z
+DTSTAMP:20220615T075101Z
 UID:2022-06-combat-fc-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 1
-DTSTART:20220618T000000Z
-DTEND:20220618T030000Z
+DTSTART:20220618T010000Z
+DTEND:20220618T040000Z
 CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
