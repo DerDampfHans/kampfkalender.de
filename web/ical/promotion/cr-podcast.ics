@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220613T172057Z
-X-KAMPFKALENDER-HASH:e95e0859cc7e913f7d50ef1489965d43a4ecd201
+DTSTAMP:20220615T101625Z
+X-KAMPFKALENDER-HASH:103551f422b848673382db740b96e800b4b63acb
 BEGIN:VEVENT
-DTSTAMP:20220613T172058Z
+DTSTAMP:20220615T101625Z
 UID:2022-06-preview-zu-ufc-275-teixeira-prochazka-mma-news-und-kommende-f
  ights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ogiiWNC3tT8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220613T172058Z
+DTSTAMP:20220615T101625Z
 UID:2022-06-ufc-275-war-verruckt-review-zum-pay-per-view-aus-singapur@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,5 +28,17 @@ DTSTART:20220613T180000Z
 DTEND:20220613T193000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=B8n_ZqkYXWc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220615T101625Z
+UID:2022-06-die-kommende-ufc-fight-night-sollte-man-nicht-verpassen-previ
+ ew-zu-kattar-emmett@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Die kommende UFC Fight Night sollte man nicht verpassen! Preview 
+ zu Kattar - Emmett
+DTSTART:20220615T150000Z
+DTEND:20220615T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yLeP9km8ihk
 END:VEVENT
 END:VCALENDAR
