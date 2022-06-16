@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#GormanSalek"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Gorman vs. Salek",
-      "time": "2022-06-17T19:00:00Z"
+      "time": "2022-06-17T17:20:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/wasserman-boxing-june-17/2pbgv/"
+        }
+      },
+      "fite": {
+        "id": "2pbgv",
+        "time": "2022-06-17T17:20:00Z",
+        "title": "Wasserman Boxing: Nathan Gorman vs Tomas Salek",
+        "url": "https://www.fite.tv/watch/wasserman-boxing-june-17/2pbgv/",
+        "price": "$12.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 89420,
@@ -26,6 +43,52 @@
       ],
       "links": [
         "http://www.boxrec.com/en/event/855314"
+      ]
+    }
+  },
+  {
+    "id": "tapology-89065",
+    "promotion": "WB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#BriedisOpetaia"
+    ],
+    "mainCard": {
+      "title": "Briedis vs. Opetaia",
+      "time": "2022-07-02T08:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/wasserman-boxing-july-2nd/2pbh0/"
+        }
+      },
+      "fite": {
+        "id": "2pbh0",
+        "time": "2022-07-02T08:30:00Z",
+        "title": "Wasserman Boxing: Mairis Briedis vs Jai Opetaia",
+        "url": "https://www.fite.tv/watch/wasserman-boxing-july-2nd/2pbh0/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 89065,
+      "time": "2022-07-02T12:00:00Z",
+      "title": "Briedis vs. Opetaia",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/89065-briedis-vs-opetaia",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Mairis Briedis (28-1-0) vs. Jai Opetaia (21-0-0)",
+        "Main Card: Joel Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/855164"
       ]
     }
   }

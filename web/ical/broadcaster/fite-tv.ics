@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220615T075101Z
-X-KAMPFKALENDER-HASH:c5fb4102cf3d0d601509b6f4f297276b24bfecc6
+DTSTAMP:20220616T053212Z
+X-KAMPFKALENDER-HASH:66a2e4120b007b91c543cb4b09bcaf72fc91b5ae
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-06-bkb-26-meikle-vs-podmore@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 26: Meikle vs. Podmore
@@ -20,7 +20,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=VLIusZKKkQI\
  ww.fightevents.de/event/bkb-26/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-06-bkfc-jackson-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2: Prelims
@@ -39,7 +39,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-prel
  s vs. Phil Ramer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands
@@ -49,7 +49,7 @@ CATEGORIES:Other,Grappling,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/subversiv-7/2pb2p/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-06-bkfc-jackson-2-belcher-vs-tate@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Jackson 2: Belcher vs. Tate
@@ -68,7 +68,22 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fn-jackson-2-belc
  er Sammis vs. Phil Ramer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
+UID:2022-06-gorman-vs-salek@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gorman vs. Salek
+DTSTART:20220617T172000Z
+DTEND:20220617T202000Z
+CATEGORIES:WB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-june-
+ 17/2pbgv/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89420-go
+ rman-vs-salek\nhttp://www.boxrec.com/en/event/855314\n\n---\n\nMain Even
+ t: Nathan Gorman (18-1-0) vs. Tomas Salek (16-3-0)\nMain Card: Josh Kell
+ y (10-1-1) vs. Peter Kramer (12-5-3)\nMain Card: Chloe Watson (0-0-0) vs
+ . Farah El Bousairi (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220616T053213Z
 UID:2022-06-aka-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 21
@@ -89,7 +104,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-21/2pbe0/\n\n---\n
  \nMain Card: Marco Esparza (0-0-0) vs. Nevan Driehus (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-06-bkfc-26-brito-vs-palomino-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 26: Brito vs. Palomino 2
@@ -107,7 +122,21 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
+UID:2022-07-briedis-vs-opetaia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Briedis vs. Opetaia
+DTSTART:20220702T083000Z
+DTEND:20220702T113000Z
+CATEGORIES:WB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-july-
+ 2nd/2pbh0/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89065-b
+ riedis-vs-opetaia\nhttp://www.boxrec.com/en/event/855164\n\n---\n\nMain 
+ Event: Mairis Briedis (28-1-0) vs. Jai Opetaia (21-0-0)\nMain Card: Joel
+  Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220616T053213Z
 UID:2022-07-lion-fight-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 74
@@ -125,7 +154,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-74/2pbc8/\n
  ain Card: Astacia Vormelker vs. Megan Roddie
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-07-bkb-27@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 27
@@ -136,7 +165,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.fightevents.de/event/bkb-27/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
@@ -149,7 +178,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  maker vs. Mick Terrill
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075102Z
+DTSTAMP:20220616T053213Z
 UID:2022-08-bkfc-albuquerque@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Albuquerque
