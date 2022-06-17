@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220616T053212Z
-X-KAMPFKALENDER-HASH:2b95930a8e4c1195a52e56483578d57ceea88fce
+DTSTAMP:20220617T052441Z
+X-KAMPFKALENDER-HASH:26d4ca39b7ad655da0a39e6ec228b8960c108050
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  y-night-boxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-kyoguchi-vs-bermudez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kyoguchi vs. Bermudez
@@ -40,7 +40,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  gel Garcia (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-phoenix-fight-gala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phoenix Fight Gala
@@ -51,7 +51,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ph
  oenix-fc-482
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-munguia-vs-kelly@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Munguia vs. Kelly
@@ -69,7 +69,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89528-munguia-vs-
  -12-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-gorman-vs-salek@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gorman vs. Salek
@@ -79,12 +79,42 @@ CATEGORIES:WB,Boxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-june-
  17/2pbgv/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89420-go
  rman-vs-salek\nhttp://www.boxrec.com/en/event/855314\n\n---\n\nMain Even
- t: Nathan Gorman (18-1-0) vs. Tomas Salek (16-3-0)\nMain Card: Josh Kell
- y (10-1-1) vs. Peter Kramer (12-5-3)\nMain Card: Chloe Watson (0-0-0) vs
- . Farah El Bousairi (0-0-0)
+ t: Nathan Gorman (18-1-0) vs. Tomas Salek (16-3-0)\nCo-Main Event: Josh 
+ Kelly (10-1-1) vs. Peter Kramer (12-5-3)\nMain Card: Chloe Watson (0-0-0
+ ) vs. Farah El Bousairi (0-0-0)\nMain Card: Matty Harris (0-0-0) vs. Paw
+ eł Strykowski (3-17-1)\nMain Card: Tom Farrell (20-5-0) vs. Olaide Fijab
+ i (14-1-0)\nMain Card: Marcos Molloy (5-0-0) vs. Gadatamen Taylor (4-10-
+ 1)\nMain Card: Aaron Chalmers (0-0-0) vs. Alexander Zeledon (6-26-3)\nMa
+ in Card: Mason Cartwright (17-3-1) vs. Angel Emilov (10-40-1)\nMain Card
+ : Tom Aitchison (6-0-0) vs. Ezequiel Gregores (3-11-0)\nMain Card: Paddy
+  Lacey (0-0-0) vs. Ryan Broten (0-0-0)\nMain Card: John Edwardson (0-0-0
+ ) vs. Stefan Nicolae (2-29-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
+UID:2022-06-eldor-fight-company-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eldor Fight Company 4
+DTSTART:20220618T160000Z
+DTEND:20220618T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ef
+ c-4-487
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
+UID:2022-06-casino-fight-series-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Casino Fight Series 2
+DTSTART:20220618T170000Z
+DTEND:20220618T200000Z
+CATEGORIES:Other,Boxen,Kickboxen,MMA,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ca
+ sino-fight-series-490\n\n---\n\nhttps://www.fightevents.de/event/casino-
+ fight-series-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -103,7 +133,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
 UID:2022-07-briedis-vs-opetaia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Briedis vs. Opetaia
@@ -117,7 +147,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-july-
   Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
 UID:2022-07-chisora-vs-kownacki@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs. Kownacki
@@ -130,7 +160,32 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  hel Soro (35-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
+UID:2022-07-garcia-vs-fortuna@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Garcia vs. Fortuna
+DTSTART:20220717T000000Z
+DTEND:20220717T030000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89529-estrada-vs-franco\n\n---\n\nMain Event: Ryan Garcia (22-0-0) vs.
+  Javier Fortuna (37-3-1)\nMain Card: Ricardo Sandoval (20-1-0) vs. David
+  Jimenez (11-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
+UID:2022-08-smith-vs-o-maison@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Smith vs. O'Maison
+DTSTART:20220806T190000Z
+DTEND:20220806T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90344-next-gen\n\n---\n\nMain Event: Dalton Smith (11-0-0) vs. Sam O'M
+ aison (17-3-1)\nMain Card: Erica Farias (27-5-0) vs. Sandy Ryan (3-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -142,7 +197,19 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  24-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220616T053213Z
+DTSTAMP:20220617T052442Z
+UID:2022-09-paro-vs-jarvis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paro vs. Jarvis
+DTSTART:20220901T110000Z
+DTEND:20220901T140000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90363-paro-vs-jarvis\n\n---\n\nMain Event: Liam Paro (22-0-0) vs. Broc
+ k Jarvis (20-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3

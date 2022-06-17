@@ -1,5 +1,27 @@
 [
   {
+    "id": "nfc-2022-06-17",
+    "promo": true,
+    "promotion": "NFC_DE",
+    "tags": [
+      "#Balingen",
+      "#NFC9"
+    ],
+    "mainCard": {
+      "title": "NFC 9: Face-Offs",
+      "time": "2022-06-17T16:00:00Z",
+      "until": "2022-06-17T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "nbPR6IBokJU"
+      }
+    }
+  },
+  {
     "id": "nfc-2022-06-18",
     "promotion": "NFC_DE",
     "sports": [
@@ -18,8 +40,10 @@
           "free": true
         },
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=nTGP_NSzM6U"
         },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-9-491"
         }
       }
     },
@@ -31,6 +55,7 @@
           "url": "https://www.youtube.com/watch?v=nTGP_NSzM6U"
         },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-9-491"
         }
       },
       "youTube": {
@@ -54,6 +79,7 @@
           "free": true
         },
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-9-491"
         }
       },
       "youTube": {
@@ -67,6 +93,29 @@
           "#Kampfsport"
         ]
       }
+    },
+    "tapology": {
+      "id": 90359,
+      "time": "2022-06-18T16:00:00Z",
+      "title": "NFC 9",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/90359-nfc-9",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Robin Moosmann (3-0-0) vs. Ibragim Chamzatov (2-0-0)",
+        "Main Card: Julian Pennant (4-2-0) vs. Alexander Djukic (5-3-0)",
+        "Main Card: Dominik Vetek (2-1-0) vs. A. Chatzigeorgiadis (1-1-1)",
+        "Main Card: Robin Frank (2-0-0) vs. Timo Kuchelmeister (1-0-0)",
+        "Main Card: Mohammed Walid (6-1-0) vs. S. Da Silva (2-0-0)",
+        "Main Card: Arijan Topallaj (1-0-1) vs. Has Magomed Dagiev (0-0-0)",
+        "Main Card: Magomed Schuaipov (1-0-0) vs. Hamza Davlyatmirov (1-1-0)",
+        "Main Card: Davlet Karataev (1-1-0) vs. Jahyanthi Daniël (0-1-0)",
+        "Main Card: Nacim Belhouachi (1-1-0) vs. Mohamad Issa (3-1-0)",
+        "Main Card: Jörn Bayer (0-0-0) vs. Alexios Alexiadis (1-1-0)",
+        "Main Card: Sali Azam (2-2-0) vs. Tobias Mutschler (2-1-0)"
+      ]
     },
     "fightEvents": {
       "id": "nfc-9-balingen",
@@ -146,6 +195,13 @@
         "FIGHT24_TV": {
         }
       }
+    },
+    "tapology": {
+      "id": 90360,
+      "time": "2022-08-06T16:00:00Z",
+      "title": "NFC 10",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/90360-nfc-10"
     },
     "fightEvents": {
       "id": "nfc-10",
@@ -228,6 +284,13 @@
         }
       }
     },
+    "tapology": {
+      "id": 90361,
+      "time": "2022-10-09T16:00:00Z",
+      "title": "NFC 11",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/90361-nfc-11"
+    },
     "fightEvents": {
       "id": "nfc-11",
       "time": "2022-10-08T16:00:00Z",
@@ -298,6 +361,13 @@
         "FIGHT24_TV": {
         }
       }
+    },
+    "tapology": {
+      "id": 90362,
+      "time": "2022-12-17T17:00:00Z",
+      "title": "NFC 12",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/90362-nfc-12"
     },
     "fightEvents": {
       "id": "nfc-12",

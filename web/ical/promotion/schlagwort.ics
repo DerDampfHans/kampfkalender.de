@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220612T220305Z
-X-KAMPFKALENDER-HASH:f9a6d219f4f7d32b9ab81bff91fff38a5669ec2d
+DTSTAMP:20220617T052441Z
+X-KAMPFKALENDER-HASH:04ac42246fe6ac6ab1b9ef70de3cce2254fb39b3
 BEGIN:VEVENT
-DTSTAMP:20220612T220306Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-schlagwort-special-aslaner-bruder-super-league-coga-vs-ozyild
  irim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -17,5 +17,15 @@ DTSTART:20220612T160000Z
 DTEND:20220612T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nSqrYtYQp_I
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
+UID:2022-06-schlagwort-podcast-nfc-9-reaction@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast: NFC 9 Reaction
+DTSTART:20220619T090000Z
+DTEND:20220619T110000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MhqKauvNja0
 END:VEVENT
 END:VCALENDAR

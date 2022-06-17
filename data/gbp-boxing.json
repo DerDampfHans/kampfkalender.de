@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#GarciaFortuna"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Garcia vs. Fortuna",
-      "time": "2022-07-17T02:00:00Z"
+      "time": "2022-07-17T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "j1jaxmdrawty1fh862nd5t4xe",
+        "time": "2022-07-17T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Garcia vs Fortuna"
+      }
     },
     "tapology": {
       "id": 89529,
@@ -39,8 +52,8 @@
     "tapology": {
       "id": 89745,
       "time": "2022-08-07T02:00:00Z",
-      "title": "Ortiz vs. Avanesyan",
-      "info": "Rumored Upcoming Boxing Event",
+      "title": "Ortiz vs. McKinson",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/89745-ortiz-vs-avanesyan",
       "sports": [
         "BOXING"

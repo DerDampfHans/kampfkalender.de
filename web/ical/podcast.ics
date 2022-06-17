@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220615T220304Z
-X-KAMPFKALENDER-HASH:82724c615fa1378878799de1371c6dfad1c1696b
+DTSTAMP:20220617T052441Z
+X-KAMPFKALENDER-HASH:0af6547d264fda399f913fb8612884bad2022599
 BEGIN:VEVENT
-DTSTAMP:20220615T220304Z
+DTSTAMP:20220617T052441Z
 UID:2022-06-schlagwort-special-aslaner-bruder-super-league-coga-vs-ozyild
  irim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nSqrYtYQp_I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220304Z
+DTSTAMP:20220617T052441Z
 UID:2022-06-ufc-275-war-verruckt-review-zum-pay-per-view-aus-singapur@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=B8n_ZqkYXWc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220304Z
+DTSTAMP:20220617T052441Z
 UID:2022-06-die-kommende-ufc-fight-night-sollte-man-nicht-verpassen-previ
  ew-zu-kattar-emmett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -40,5 +40,15 @@ DTSTART:20220615T150000Z
 DTEND:20220615T163000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yLeP9km8ihk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052441Z
+UID:2022-06-schlagwort-podcast-nfc-9-reaction@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast: NFC 9 Reaction
+DTSTART:20220619T090000Z
+DTEND:20220619T110000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MhqKauvNja0
 END:VEVENT
 END:VCALENDAR

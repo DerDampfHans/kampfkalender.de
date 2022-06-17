@@ -4,17 +4,31 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220612T220305Z
-X-KAMPFKALENDER-HASH:70862d155ac1093cb27bce561e63598c3051d073
+DTSTAMP:20220617T052441Z
+X-KAMPFKALENDER-HASH:bfeb20aec7d38c9f2c5309b575ce2467cc962d82
 BEGIN:VEVENT
-DTSTAMP:20220612T220305Z
+DTSTAMP:20220617T052442Z
+UID:2022-06-enfusion-109-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 109: Prelims
+DTSTART:20220618T120000Z
+DTEND:20220618T174500Z
+CATEGORIES:Enfusion,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-en
+ fusion-groningen-prelims-489\n\n---\n\nhttps://www.fightevents.de/event/
+ enfusion-109/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
 UID:2022-06-enfusion-109@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109
 DTSTART:20220618T174500Z
 DTEND:20220618T193000Z
-CATEGORIES:Enfusion,Kickboxen,fighting.de,live
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=r57JGtTfYeI\
- n\n---\n\nhttps://www.fightevents.de/event/enfusion-109/
+ nvia fight24.tv: https://www.fight24.tv/fightpasses/fight24-enfusion-gro
+ ningen-prelims-489\n\n---\n\nhttps://www.fightevents.de/event/enfusion-1
+ 09/
 END:VEVENT
 END:VCALENDAR

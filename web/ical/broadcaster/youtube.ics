@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220615T220304Z
-X-KAMPFKALENDER-HASH:eccc634301da426843127b51b2af9853e6abffb1
+DTSTAMP:20220617T052441Z
+X-KAMPFKALENDER-HASH:988a1748d123154fc1c24a6422eaf285c8f3b48a
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-ufc-275-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 275: Post-Fight Press Conference
@@ -17,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GaePaBHIT38
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-schlagwort-special-aslaner-bruder-super-league-coga-vs-ozyild
  irim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,7 +29,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nSqrYtYQp_I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-ufc-275-war-verruckt-review-zum-pay-per-view-aus-singapur@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -40,7 +40,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=B8n_ZqkYXWc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-die-kommende-ufc-fight-night-sollte-man-nicht-verpassen-previ
  ew-zu-kattar-emmett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -52,7 +52,17 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yLeP9km8ihk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
+UID:2022-06-schlagwort-podcast-nfc-9-reaction@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast: NFC 9 Reaction
+DTSTART:20220619T090000Z
+DTEND:20220619T110000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MhqKauvNja0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
 UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 282: Mousasi vs. Eblen
@@ -60,23 +70,34 @@ DTSTART:20220624T220000Z
 DTEND:20220625T010000Z
 CATEGORIES:Bellator,MMA,YouTube,live
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/88076-bellator-282-mousasi-vs-eblen\n\n---\n\nMain Event: Gegard Mo
- usasi (49-7-2) vs. Johnny Eblen (11-0-0)\nCo-Main Event: Leandro Higo (2
- 1-5-0) vs. Danny Sabatello (12-1-0)\nMain Card: Magomed Magomedov (18-2-
- 0) vs. Enrique Barzola (18-5-2)\nMain Card: Brennan Ward (15-6-0) vs. Ka
- ssius Kayne (12-7-0)\nPrelim: Brent Primus (11-2-0) vs. Alexander Shabli
- y (21-3-0)\nPrelim: Cat Zingano (12-4-0) vs. Pam Sorenson (9-4-0)\nPreli
- m: Anatoly Tokov (30-3-0) vs. Muhammad Abdullah (11-5-0)\nPrelim: Sabah 
- Homasi (16-10-0) vs. Maycon Mendonça (11-5-0)\nPrelim: Alejandra Lara (9
- -5-0) vs. Ilara Joanne (9-6-0)\nPrelim: Cody Law (6-0-0) vs. James Gonza
- lez (8-5-0)\nPrelim: Dan Moret (15-7-0) vs. Killys Mota (12-3-0)\nPrelim
- : Lucas Brennan (6-0-0) vs. Johnny Soto (4-2-0)\nPrelim: Aaron Jeffery (
- 11-3-0) vs. Fabio Aguiar (18-2-0)\nPrelim: Bryce Logan (12-6-0) vs. Mand
- el Nallo (8-2-0)\nPrelim: Marcos Breno (14-2-0) vs. Richard Palencia (10
- -0-0)
+ ents/88076-bellator-282-mousasi-vs-eblen\nhttps://www.bestfightodds.com/
+ events/bellator-282-2566\n\n---\n\nMain Event: Gegard Mousasi (49-7-2) v
+ s. Johnny Eblen (11-0-0)\nCo-Main Event: Leandro Higo (21-5-0) vs. Danny
+  Sabatello (12-1-0)\nMain Card: Magomed Magomedov (18-2-0) vs. Enrique B
+ arzola (18-5-2)\nMain Card: Brennan Ward (15-6-0) vs. Kassius Kayne (12-
+ 7-0)\nPrelim: Brent Primus (11-2-0) vs. Alexander Shabliy (21-3-0)\nPrel
+ im: Cat Zingano (12-4-0) vs. Pam Sorenson (9-4-0)\nPrelim: Anatoly Tokov
+  (30-3-0) vs. Muhammad Abdullah (11-5-0)\nPrelim: Sabah Homasi (16-10-0)
+  vs. Maycon Mendonça (11-5-0)\nPrelim: Alejandra Lara (9-5-0) vs. Ilara 
+ Joanne (9-6-0)\nPrelim: Cody Law (6-0-0) vs. James Gonzalez (8-5-0)\nPre
+ lim: Dan Moret (15-7-0) vs. Killys Mota (12-3-0)\nPrelim: Lucas Brennan 
+ (6-0-0) vs. Johnny Soto (4-2-0)\nPrelim: Aaron Jeffery (11-3-0) vs. Fabi
+ o Aguiar (18-2-0)\nPrelim: Bryce Logan (12-6-0) vs. Mandel Nallo (8-2-0)
+ \nPrelim: Marcos Breno (14-2-0) vs. Richard Palencia (10-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
+UID:2022-06-respect-fc@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Respect FC
+DTSTART:20220625T160000Z
+DTEND:20220625T190000Z
+CATEGORIES:Respect,MMA,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90355-respect-fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
 UID:2022-07-invicta-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 48
@@ -93,7 +114,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  sa Parker (3-1-0) vs. Isis Verbeek (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -106,7 +127,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Fernandez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-08-one-160@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160
@@ -117,7 +138,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/89974-one-championship-160
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Moraes vs. Johnson 2
@@ -129,7 +150,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  : Adriano Moraes (20-3-0) vs. Demetrious Johnson (23-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T220305Z
+DTSTAMP:20220617T052442Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally

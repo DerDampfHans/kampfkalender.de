@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220615T075101Z
-X-KAMPFKALENDER-HASH:5852057520ccaa62712e35c20b1830fbec2859d9
+DTSTAMP:20220617T052441Z
+X-KAMPFKALENDER-HASH:ec2f800ed09556154340705c7787e4bbe4dbae12
 BEGIN:VEVENT
-DTSTAMP:20220615T075101Z
+DTSTAMP:20220617T052441Z
 UID:2022-06-friday-night-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Friday Night Boxing
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fr
  y-night-boxing-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075101Z
+DTSTAMP:20220617T052441Z
 UID:2022-06-phoenix-fight-gala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phoenix Fight Gala
@@ -30,7 +30,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ph
  oenix-fc-482
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075101Z
+DTSTAMP:20220617T052441Z
 UID:2022-06-subversiv-7-the-battle-of-the-brands@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Subversiv 7: The Battle of the Brands
@@ -40,7 +40,7 @@ CATEGORIES:Other,Grappling,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/subversiv-7/2pb2p/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220615T075101Z
+DTSTAMP:20220617T052441Z
 UID:2022-06-combat-fc-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 1
@@ -48,5 +48,28 @@ DTSTART:20220618T010000Z
 DTEND:20220618T040000Z
 CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052441Z
+UID:2022-06-eldor-fight-company-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eldor Fight Company 4
+DTSTART:20220618T160000Z
+DTEND:20220618T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ef
+ c-4-487
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052441Z
+UID:2022-06-casino-fight-series-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Casino Fight Series 2
+DTSTART:20220618T170000Z
+DTEND:20220618T200000Z
+CATEGORIES:Other,Boxen,Kickboxen,MMA,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ca
+ sino-fight-series-490\n\n---\n\nhttps://www.fightevents.de/event/casino-
+ fight-series-2/
 END:VEVENT
 END:VCALENDAR

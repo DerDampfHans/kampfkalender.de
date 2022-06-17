@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220610T114616Z
-X-KAMPFKALENDER-HASH:790e373f47682b7e5505f1d6e14a84ffc2ece30b
+DTSTAMP:20220617T052441Z
+X-KAMPFKALENDER-HASH:3c0e6fd3087bc9ce477132713758cd01a75e7660
 BEGIN:VEVENT
-DTSTAMP:20220610T114617Z
+DTSTAMP:20220617T052442Z
 UID:2022-06-munguia-vs-kelly@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Munguia vs. Kelly
@@ -23,5 +23,18 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89528-munguia-vs-
  n Sanchez (11-0-0)\nMain Card: Alejandro Reyes (7-0-0) vs. Moises Flores
   (25-6-1)\nMain Card: Japheth Lee Llamido (6-0-0) vs. Cristian Palma (31
  -12-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220617T052442Z
+UID:2022-07-garcia-vs-fortuna@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Garcia vs. Fortuna
+DTSTART:20220717T000000Z
+DTEND:20220717T030000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89529-estrada-vs-franco\n\n---\n\nMain Event: Ryan Garcia (22-0-0) vs.
+  Javier Fortuna (37-3-1)\nMain Card: Ricardo Sandoval (20-1-0) vs. David
+  Jimenez (11-0-0)
 END:VEVENT
 END:VCALENDAR
