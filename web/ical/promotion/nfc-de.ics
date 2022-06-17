@@ -4,20 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220617T052441Z
-X-KAMPFKALENDER-HASH:e3fb98bfffd1689fdb1e5216d0b9e4140b524ec3
+DTSTAMP:20220617T074218Z
+X-KAMPFKALENDER-HASH:3d835d7b40897ba578b7d8007873d33de57da2be
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-06-nfc-9-face-offs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Face-Offs
 DTSTART:20220617T160000Z
 DTEND:20220617T170000Z
 CATEGORIES:NFC,fighting.de,PR,live,kostenlos
-DESCRIPTION:via fighting.de
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=nbPR6IBokJU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-06-nfc-9-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Prelims
@@ -40,7 +40,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=4qaPBphXW5k\
  ) vs. Tobias Mutschler (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-06-nfc-9-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Main Card
@@ -63,7 +63,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=nTGP_NSzM6U\
  ) vs. Tobias Mutschler (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-06-nfc-9-vertko-vs-ardas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 9: Vertko vs. Ardas
@@ -86,7 +86,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
   Azam (2-2-0) vs. Tobias Mutschler (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -98,7 +98,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-10
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -110,7 +110,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-10
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-08-nfc-10-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Coga vs. Özyildirim
@@ -122,7 +122,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90360-nfc-10
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -134,7 +134,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -146,7 +146,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -158,7 +158,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -170,7 +170,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -182,7 +182,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052442Z
+DTSTAMP:20220617T074218Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
