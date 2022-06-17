@@ -23,6 +23,28 @@
     }
   },
   {
+    "id": "efc-2022-06-18",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Ludwigshafen",
+      "#EFC4"
+    ],
+    "mainCard": {
+      "title": "Eldor Fight Company 4",
+      "time": "2022-06-18T16:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-efc-4-487",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
     "id": "casino-2022-06-18",
     "promotion": "_OTHER",
     "sports": [
@@ -58,28 +80,6 @@
         "Livestream",
         "MMA"
       ]
-    }
-  },
-  {
-    "id": "efc-2022-06-18",
-    "promotion": "_OTHER",
-    "sports": [
-      "BOXING",
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#Ludwigshafen",
-      "#EFC4"
-    ],
-    "mainCard": {
-      "title": "Eldor Fight Company 4",
-      "time": "2022-06-18T16:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "url": "https://www.fight24.tv/fightpasses/fight24-efc-4-487",
-          "freeAfter": 48
-        }
-      }
     }
   }
 ]
