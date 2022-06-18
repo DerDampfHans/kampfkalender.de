@@ -2202,5 +2202,88 @@
         ]
       }
     }
+  },
+  {
+    "id": "fightpass-218629",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#CFC1"
+    ],
+    "mainCard": {
+      "title": "Combat FC 1",
+      "time": "2022-06-18T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 218629,
+        "time": "2022-06-18T01:00:00Z",
+        "title": "COMBAT FC 1"
+      }
+    }
+  },
+  {
+    "id": "efc-2022-06-18",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Ludwigshafen",
+      "#EFC4"
+    ],
+    "mainCard": {
+      "title": "Eldor Fight Company 4",
+      "time": "2022-06-18T16:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-efc-4-487",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "casino-2022-06-18",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING",
+      "MMA"
+    ],
+    "tags": [
+      "#Liechtenstein"
+    ],
+    "mainCard": {
+      "title": "Casino Fight Series 2",
+      "time": "2022-06-18T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-casino-fight-series-490",
+          "freeAfter": 48
+        }
+      }
+    },
+    "fightEvents": {
+      "id": "casino-fight-series-2",
+      "time": "2022-06-18T16:00:00Z",
+      "until": "2022-06-18T20:00:00Z",
+      "title": "Casino Fight Series 2",
+      "url": "https://www.fightevents.de/event/casino-fight-series-2/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-casino-fight-series-490",
+      "categories": [
+        "Fight24.tv",
+        "International",
+        "K1/Kickboxen",
+        "Livestream",
+        "MMA"
+      ]
+    }
   }
 ]

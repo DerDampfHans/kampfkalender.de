@@ -309,5 +309,135 @@
         ]
       }
     }
+  },
+  {
+    "id": "nfc-2022-06-18",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Balingen",
+      "#NFC9"
+    ],
+    "mainCard": {
+      "title": "NFC 9: Vertko vs. Ardas",
+      "time": "2022-06-18T21:00:00Z",
+      "until": "2022-06-18T22:30:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=nTGP_NSzM6U"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-9-491"
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 9: Main Card",
+      "time": "2022-06-18T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=nTGP_NSzM6U"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-9-491"
+        }
+      },
+      "youTube": {
+        "id": "nTGP_NSzM6U",
+        "time": "2022-06-18T16:00:00Z",
+        "title": "LIVE: NFC 9 | Vertko vs Adas | Titelkampf im Leichtgewicht | 18.6. - FIGHTIN",
+        "url": "https://www.youtube.com/watch?v=nTGP_NSzM6U",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 9: Prelims",
+      "time": "2022-06-18T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=4qaPBphXW5k",
+          "free": true
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-nfc-9-491"
+        }
+      },
+      "youTube": {
+        "id": "4qaPBphXW5k",
+        "time": "2022-06-18T16:00:00Z",
+        "title": "FOR FREE: NFC 9 UNDERCARD | 18.6. 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=4qaPBphXW5k",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 90359,
+      "time": "2022-06-18T16:00:00Z",
+      "title": "NFC 9",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/90359-nfc-9",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Robin Moosmann (3-0-0) vs. Ibragim Chamzatov (2-0-0)",
+        "Main Card: Julian Pennant (4-2-0) vs. Alexander Djukic (5-3-0)",
+        "Main Card: Dominik Vetek (2-1-0) vs. A. Chatzigeorgiadis (1-1-1)",
+        "Main Card: Robin Frank (2-0-0) vs. Timo Kuchelmeister (1-0-0)",
+        "Main Card: Mohammed Walid (6-1-0) vs. S. Da Silva (2-0-0)",
+        "Main Card: Arijan Topallaj (1-0-1) vs. Has Magomed Dagiev (0-0-0)",
+        "Main Card: Magomed Schuaipov (1-0-0) vs. Hamza Davlyatmirov (1-1-0)",
+        "Main Card: Davlet Karataev (1-1-0) vs. Jahyanthi Daniël (0-1-0)",
+        "Main Card: Nacim Belhouachi (1-1-0) vs. Mohamad Issa (3-1-0)",
+        "Main Card: Jörn Bayer (0-0-0) vs. Alexios Alexiadis (1-1-0)",
+        "Main Card: Sali Azam (2-2-0) vs. Tobias Mutschler (2-1-0)"
+      ]
+    },
+    "fightEvents": {
+      "id": "nfc-9-balingen",
+      "time": "2022-06-18T16:00:00Z",
+      "until": "2022-06-18T21:00:00Z",
+      "title": "NFC 9 – Balingen",
+      "url": "https://www.fightevents.de/event/nfc-9-balingen/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Aleksandr Vertko",
+        "Anastasios Chatzigeorgiadis",
+        "Arda Adas",
+        "Balingen",
+        "Chequina Noso Pedro",
+        "Christian Mach",
+        "Dominik Vetek",
+        "Florim Zendeli",
+        "Ibragim Chamzatov",
+        "MMA",
+        "National Fighting Championship",
+        "NFC",
+        "NFC 9",
+        "Robin Moosmann",
+        "Sali Azam",
+        "Tobias Mutschler",
+        "Zafar Mohsen"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "Livestream",
+        "MMA",
+        "National"
+      ]
+    }
   }
 ]
