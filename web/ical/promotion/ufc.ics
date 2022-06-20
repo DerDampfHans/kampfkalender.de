@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220619T220305Z
-X-KAMPFKALENDER-HASH:dd8b1521ea7389bb3455bae094860c9bf47453cb
+DTSTAMP:20220620T215005Z
+X-KAMPFKALENDER-HASH:f714444f59e45d7b41e66ec83ca009304a6826e1
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-06-ufc-austin-ceremonial-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Austin: Ceremonial Weigh-In
@@ -17,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ISZejgG7JZg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-06-ufc-austin-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Austin: Prelims
@@ -45,7 +45,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Roman Dolidze (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-06-ufc-austin-kattar-vs-emmett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Austin: Kattar vs. Emmett
@@ -73,7 +73,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -2-0) vs. Roman Dolidze (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-06-ufc-austin-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Austin: Post-Fight Press Conference
@@ -83,7 +83,19 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=lsttAvMQgj8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
+UID:2022-06-ufc-press-conference-featuring-israel-adesanya-alexander-volk
+ anovski-kai-kara-france@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Press Conference Featuring Israel Adesanya\, Alexander Volkan
+ ovski & Kai Kara France
+DTSTART:20220621T023000Z
+DTEND:20220621T033000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=RGt2FkKDV00
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220620T215006Z
 UID:2022-06-ufc-vegas-57-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 57: Prelims
@@ -105,7 +117,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Yu Frey (11-6-0) vs. Vanessa Demopoulos (7-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-06-ufc-vegas-57-tsarukyan-vs-gamrot@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 57: Tsarukyan vs. Gamrot
@@ -127,7 +139,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  lim: Jinh Yu Frey (11-6-0) vs. Vanessa Demopoulos (7-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-276-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276: Early Prelims
@@ -150,7 +162,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  renko (9-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-276-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276: Prelims
@@ -173,7 +185,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  renko (9-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-276-adesanya-vs-cannonier@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276: Adesanya vs. Cannonier
@@ -196,7 +208,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ija Stoliarenko (9-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-vegas-58-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 58: Prelims
@@ -217,7 +229,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-2-0)\nPrelim: Kennedy Nzechukwu (9-3-0) vs. Karl Roberson (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-vegas-58-dos-anjos-vs-fiziev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 58: Dos Anjos vs. Fiziev
@@ -239,7 +251,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-long-island-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Long Island: Prelims
@@ -260,7 +272,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Jessica Penne (14-5-0) vs. Emily Ducote (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-long-island-ortega-vs-rodriguez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Long Island: Ortega vs. Rodriguez
@@ -281,7 +293,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Jessica Penne (14-5-0) vs. Emily Ducote (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-london-blaydes-vs-aspinall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Blaydes vs. Aspinall
@@ -303,7 +315,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  relim: Nathaniel Wood (17-5-0) vs. Charles Rosa (14-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-07-ufc-277-pena-vs-nunes-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Peña vs. Nunes 2
@@ -325,7 +337,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  lim: Alexandre Pantoja (24-5-0) vs. Alex Perez (24-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-08-ufc-vegas-59-santos-vs-hill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 59: Santos vs. Hill
@@ -344,7 +356,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  19-8-0) vs. Josh Quinlan (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-08-ufc-vegas-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 60
@@ -362,7 +374,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -6-0) vs. Malcolm Gordon (14-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-08-ufc-278-usman-vs-edwards-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 278: Usman vs. Edwards 2
@@ -379,7 +391,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0-2-0) vs. Daniel da Silva (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-09-ufc-fight-night-gane-vs-tuivasa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Gane vs. Tuivasa
@@ -395,7 +407,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)\nPrelim: Alessio Di Chirico (13-6-0) vs. Roman Kopylov (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-09-ufc-279-sterling-vs-dillashaw@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Sterling vs. Dillashaw
@@ -410,7 +422,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  sa Martinez (7-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-09-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -426,7 +438,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Jackson (21-4-1) vs. Pat Sabatini (17-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-10-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -440,7 +452,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  mas (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220620T215006Z
 UID:2022-10-ufc-281@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281
