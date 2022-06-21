@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220620T215005Z
-X-KAMPFKALENDER-HASH:9b4f1787cde4d30e17986aa9cc0cf485de3ceb50
+DTSTAMP:20220621T123135Z
+X-KAMPFKALENDER-HASH:5f741e5bbc1b97269339efdbacce40f0cf1ae9c7
 BEGIN:VEVENT
-DTSTAMP:20220620T215005Z
+DTSTAMP:20220621T123135Z
 UID:2022-06-die-kommende-ufc-fight-night-sollte-man-nicht-verpassen-previ
  ew-zu-kattar-emmett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yLeP9km8ihk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220620T215005Z
+DTSTAMP:20220621T123135Z
 UID:2022-06-schlagwort-podcast-nfc-9-reaction@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast: NFC 9 Reaction
@@ -27,5 +27,17 @@ DTSTART:20220619T090000Z
 DTEND:20220619T110000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MhqKauvNja0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220621T123135Z
+UID:2022-06-nacht-der-kos-in-texas-review-zu-ufc-austin-kattar-vs-emmett@
+ kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nacht der KOs in Texas! - Review zu UFC Austin: Kattar vs. Emmett
+ 
+DTSTART:20220621T150000Z
+DTEND:20220621T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=34wfsXkXzXw
 END:VEVENT
 END:VCALENDAR

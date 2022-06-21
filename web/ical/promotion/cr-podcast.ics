@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220620T215005Z
-X-KAMPFKALENDER-HASH:ff4f2e450d2db9e0bd779fed069f5586e92fbe39
+DTSTAMP:20220621T123135Z
+X-KAMPFKALENDER-HASH:bfc8f039b7a4521ab8ad0083134714071b33e87e
 BEGIN:VEVENT
-DTSTAMP:20220620T215006Z
+DTSTAMP:20220621T123135Z
 UID:2022-06-die-kommende-ufc-fight-night-sollte-man-nicht-verpassen-previ
  ew-zu-kattar-emmett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -17,5 +17,17 @@ DTSTART:20220615T150000Z
 DTEND:20220615T163000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yLeP9km8ihk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220621T123135Z
+UID:2022-06-nacht-der-kos-in-texas-review-zu-ufc-austin-kattar-vs-emmett@
+ kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nacht der KOs in Texas! - Review zu UFC Austin: Kattar vs. Emmett
+ 
+DTSTART:20220621T150000Z
+DTEND:20220621T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=34wfsXkXzXw
 END:VEVENT
 END:VCALENDAR
