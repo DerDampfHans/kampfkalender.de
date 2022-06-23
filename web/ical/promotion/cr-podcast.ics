@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220622T220303Z
-X-KAMPFKALENDER-HASH:bd22231e143dd47dc7fe1887459766309e7e19fb
+DTSTAMP:20220623T100412Z
+X-KAMPFKALENDER-HASH:a8b4ccf881b1ff3e0b37b1fcce064502e8a146fd
 BEGIN:VEVENT
-DTSTAMP:20220622T220304Z
+DTSTAMP:20220623T100412Z
 UID:2022-06-nacht-der-kos-in-texas-review-zu-ufc-austin-kattar-vs-emmett@
  kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -17,5 +17,17 @@ DTSTART:20220621T150000Z
 DTEND:20220621T163000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=34wfsXkXzXw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220623T100412Z
+UID:2022-06-wie-arbeitet-ein-judge-im-mma-clemens-werner-uber-die-tatigke
+ it-als-punktrichter@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wie arbeitet ein Judge im MMA? Clemens Werner über die Tätigkeit 
+ als Punktrichter
+DTSTART:20220623T150000Z
+DTEND:20220623T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=VSCsn9J5cX8
 END:VEVENT
 END:VCALENDAR
