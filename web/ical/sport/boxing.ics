@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220619T220305Z
-X-KAMPFKALENDER-HASH:ba80da3bbeaa19687b61eb5b08faaf16a89e7374
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:8d63a5119eb01b607f4e840b4767e3c399bdfcf1
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-gorman-vs-salek@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gorman vs. Salek
@@ -29,7 +29,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-june-
  ) vs. Stefan Nicolae (2-29-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-eldor-fight-company-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eldor Fight Company 4
@@ -40,7 +40,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ef
  c-4-487
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-casino-fight-series-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Casino Fight Series 2
@@ -52,7 +52,60 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ca
  fight-series-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
+UID:2022-06-heilbronner-boxnacht@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Heilbronner Boxnacht
+DTSTART:20220625T153000Z
+DTEND:20220625T183000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-he
+ ilbronner-boxnacht-492\n\n---\n\nhttps://www.fightevents.de/event/heilbr
+ onner-boxnacht-mit-slawa-spomer/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-volkmarsener-fight-night-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Volkmarsener Fight Night 7
+DTSTART:20220625T164500Z
+DTEND:20220625T194500Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
+ volkmarsener-fight-night-497
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-austrian-fight-night-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Austrian Fight Night 5
+DTSTART:20220625T170000Z
+DTEND:20220625T200000Z
+CATEGORIES:Other,MMA,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/aus
+ trian-fight-night-5/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20220625T180000Z
+DTEND:20220625T210000Z
+CATEGORIES:UBP,Boxen,YouTube,live
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90537-universum-boxing-night\nhttp://www.boxrec.com/en/event/857358
+ \n\n---\n\nMain Event: Artem Harutyunyan (11-0-0) vs. Humberto Galindo (
+ 14-1-1)\nMain Card: Edison Demaj (7-1-0) vs. Sergey Khamitski (32-23-3)\
+ nMain Card: Darian Yasar (10-0-1) vs. Edis Biberovic (2-3-1)\nMain Card:
+  Rostam Ibrahim (8-0-2) vs. Bosko Misic (23-19-0)\nMain Card: Sevak Miro
+ yan (4-0-0) vs. M. Katembo (13-6-1)\nMain Card: Ben Adwubi (2-0-0) vs. I
+ brahim Odobasic (3-13-0)\nMain Card: Karo Murat (33-4-1) vs. Adnan Deron
+ ja (8-3-0)\nMain Card: Antonio Martinovic (0-0-0) vs. Pal Olah (9-43-3)\
+ nMain Card: C. Toledo (4-0-0) vs. Attila Csereklye (10-26-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -63,15 +116,14 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/88712-akhmadaliev-vs-rios\nhttp://www.boxrec.com/en/event/854069\n\n--
  -\n\nMain Event: Jesse Rodriguez (15-0-0) vs. Srisaket Sor Rungvisai (50
  -5-1)\nMain Card: Murodjon Akhmadaliev (10-0-0) vs. Ronny Rios (33-3-0)\
- nMain Card: Julio Cesar Martinez (18-2-0) vs. McWilliams Arroyo (21-4-0)
- \nMain Card: Jessica McCaskill (11-2-0) vs. Alma Ibarra (10-1-0)\nMain C
- ard: Ray Ford (11-0-1) vs. Ricky Medina (13-0-0)\nMain Card: Marc Castro
-  (7-0-0) vs. Jean Guerra (6-0-0)\nMain Card: Nikita Ababiy (11-0-0) vs. 
- Noe Larios Jr (0-0-0)\nMain Card: Khalil Coe (3-0-1) vs. Rocky Berroa (0
- -0-0)
+ nMain Card: Jessica McCaskill (11-2-0) vs. Alma Ibarra (10-1-0)\nMain Ca
+ rd: Ray Ford (11-0-1) vs. Ricky Medina (13-0-0)\nMain Card: Nikita Ababi
+ y (11-0-0) vs. Noe Larios Jr (0-0-0)\nMain Card: Khalil Coe (3-0-1) vs. 
+ Rocky Berroa (0-0-0)\nMain Card: Marc Castro (7-0-0) vs. Omar Castillo (
+ 6-4-0)\nMain Card: Jesus Martinez (0-0-0) vs. Keven Monroy (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-07-briedis-vs-opetaia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Briedis vs. Opetaia
@@ -82,10 +134,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-july-
  2nd/2pbh0/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89065-b
  riedis-vs-opetaia\nhttp://www.boxrec.com/en/event/855164\n\n---\n\nMain 
  Event: Mairis Briedis (28-1-0) vs. Jai Opetaia (21-0-0)\nMain Card: Joel
-  Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)
+  Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)\nMain Card: Faris Chevali
+ er (13-1-0) vs. Conor Wallace (8-1-0)\nMain Card: Beau Hartas (6-1-0) vs
+ . Issac Hardman (12-1-0)\nMain Card: Taylah Robertson (5-1-0) vs. Yoseli
+ n Fernandez (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-07-chisora-vs-kownacki@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs. Kownacki
@@ -98,7 +153,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  hel Soro (35-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-07-garcia-vs-fortuna@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Fortuna
@@ -107,11 +162,14 @@ DTEND:20220717T030000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/89529-estrada-vs-franco\n\n---\n\nMain Event: Ryan Garcia (22-0-0) vs.
-  Javier Fortuna (37-3-1)\nMain Card: Ricardo Sandoval (20-1-0) vs. David
-  Jimenez (11-0-0)
+  Javier Fortuna (37-3-1)\nCo-Main Event: Alexis Rocha (19-1-0) vs. Samue
+ l Kotey (23-3-0)\nMain Card: Ricardo Sandoval (20-1-0) vs. David Jimenez
+  (11-0-0)\nMain Card: Lamont Roach Jr. (22-1-1) vs. Angel Rodriguez (20-
+ 1-0)\nPrelim: Diego De La Hoya (22-1-0) vs. Enrique Bernache (24-13-0)\n
+ Prelim: Miguel Goana (0-0-0) vs. Jonathan Guzman (0-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -123,7 +181,20 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  aison (17-3-1)\nMain Card: Erica Farias (27-5-0) vs. Sandy Ryan (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
+UID:2022-08-paul-vs-fury@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paul vs. Fury
+DTSTART:20220807T010000Z
+DTEND:20220807T040000Z
+CATEGORIES:MVP,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/90287-paul\nhttp:
+ //www.boxrec.com/en/event/857630\n\n---\n\nMain Event: Jake Paul (5-0-0)
+  vs. Tommy Fury (8-0-0)\nCo-Main Event: Amanda Serrano (42-2-1) vs. Bren
+ da Carabajal (19-5-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -135,7 +206,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  24-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-09-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -147,7 +218,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  k Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3

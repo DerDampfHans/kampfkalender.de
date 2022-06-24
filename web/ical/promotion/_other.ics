@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220619T220305Z
-X-KAMPFKALENDER-HASH:ad7aa25b01d710c1af7cf08b3bfbe4af8d8b60ce
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:a26c36ef32d4eb4a9bf6a8f5350a1d8daf169dff
 BEGIN:VEVENT
-DTSTAMP:20220619T220305Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-combat-fc-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 1
@@ -17,7 +17,7 @@ CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220305Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-eldor-fight-company-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eldor Fight Company 4
@@ -28,7 +28,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ef
  c-4-487
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220305Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-casino-fight-series-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Casino Fight Series 2
@@ -38,5 +38,50 @@ CATEGORIES:Other,Boxen,Kickboxen,MMA,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ca
  sino-fight-series-490\n\n---\n\nhttps://www.fightevents.de/event/casino-
  fight-series-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-heilbronner-boxnacht@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Heilbronner Boxnacht
+DTSTART:20220625T153000Z
+DTEND:20220625T183000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-he
+ ilbronner-boxnacht-492\n\n---\n\nhttps://www.fightevents.de/event/heilbr
+ onner-boxnacht-mit-slawa-spomer/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-volkmarsener-fight-night-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Volkmarsener Fight Night 7
+DTSTART:20220625T164500Z
+DTEND:20220625T194500Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
+ volkmarsener-fight-night-497
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-austrian-fight-night-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Austrian Fight Night 5
+DTSTART:20220625T170000Z
+DTEND:20220625T200000Z
+CATEGORIES:Other,MMA,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/aus
+ trian-fight-night-5/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-cws-fight-night-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CWS Fight Night 7
+DTSTART:20220625T170000Z
+DTEND:20220625T200000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-cw
+ s-fight-night-7-493
 END:VEVENT
 END:VCALENDAR

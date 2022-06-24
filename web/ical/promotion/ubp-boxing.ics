@@ -4,6 +4,25 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220528T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:248d1dd8545921fd9b583f62bc41ebe0b8fbabff
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20220625T180000Z
+DTEND:20220625T210000Z
+CATEGORIES:UBP,Boxen,YouTube,live
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90537-universum-boxing-night\nhttp://www.boxrec.com/en/event/857358
+ \n\n---\n\nMain Event: Artem Harutyunyan (11-0-0) vs. Humberto Galindo (
+ 14-1-1)\nMain Card: Edison Demaj (7-1-0) vs. Sergey Khamitski (32-23-3)\
+ nMain Card: Darian Yasar (10-0-1) vs. Edis Biberovic (2-3-1)\nMain Card:
+  Rostam Ibrahim (8-0-2) vs. Bosko Misic (23-19-0)\nMain Card: Sevak Miro
+ yan (4-0-0) vs. M. Katembo (13-6-1)\nMain Card: Ben Adwubi (2-0-0) vs. I
+ brahim Odobasic (3-13-0)\nMain Card: Karo Murat (33-4-1) vs. Adnan Deron
+ ja (8-3-0)\nMain Card: Antonio Martinovic (0-0-0) vs. Pal Olah (9-43-3)\
+ nMain Card: C. Toledo (4-0-0) vs. Attila Csereklye (10-26-0)
+END:VEVENT
 END:VCALENDAR

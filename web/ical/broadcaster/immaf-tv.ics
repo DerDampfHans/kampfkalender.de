@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220527T075555Z
-X-KAMPFKALENDER-HASH:8d00c34b7e99e044176832b9a980f32a035a18f5
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:291e049626929484b8f888b3ef3fd431d97ccfc7
 BEGIN:VEVENT
-DTSTAMP:20220527T075555Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-2022-immaf-pan-american-championships@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:2022 IMMAF Pan American Championships
@@ -16,5 +16,20 @@ DTEND:20220622T180000Z
 CATEGORIES:IMMAF,MMA,immaf.tv,live
 DESCRIPTION:via immaf.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/89749-2022-immaf-pan-american-championships
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-2022-immaf-pan-american-championships-finals@kampfkalender.de
+ 
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:2022 IMMAF Pan American Championships: Finals
+DTSTART:20220624T150000Z
+DTEND:20220624T180000Z
+CATEGORIES:IMMAF,MMA,immaf.tv,live
+DESCRIPTION:via immaf.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/90498-2022-immaf-pan-american-championships-finals\n\n---\n\nMain 
+ Card: Brenda Castro (0-1-0) vs. Wendy Widrobo Espinoza (0-0-0)\nMain Car
+ d: Laura Oquendo (4-3-0) vs. Isabel Sierra Martinez (0-0-0)\nMain Card: 
+ Caio Sardela (0-1-0) vs. Anthony Ramirez (3-1-0)
 END:VEVENT
 END:VCALENDAR

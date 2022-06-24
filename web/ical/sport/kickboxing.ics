@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220618T220304Z
-X-KAMPFKALENDER-HASH:a9980267b67dec9be7230aa796fd4091038027d1
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:d1bbe6f46ea3f4b136f02461a7998e30323b9adb
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-enfusion-109-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109: Prelims
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-en
  enfusion-109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-eldor-fight-company-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eldor Fight Company 4
@@ -30,7 +30,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ef
  c-4-487
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-casino-fight-series-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Casino Fight Series 2
@@ -42,7 +42,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ca
  fight-series-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-ksw-71-zio-kowski-vs-rajewski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 71: Ziółkowski vs. Rajewski
@@ -63,7 +63,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  7-0)\nPrelim: Przemysław Dzwoniarek (3-1-0) vs. Marc Doussis (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-enfusion-109@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 109
@@ -76,7 +76,56 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=r57JGtTfYeI\
  09/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
+UID:2022-06-vendetta-28@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vendetta 28
+DTSTART:20220625T150000Z
+DTEND:20220625T180000Z
+CATEGORIES:Vendetta,MMA,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ve
+ ndetta-28-495\n\n---\n\nhttps://www.fightevents.de/event/vendetta-28/\nh
+ ttps://www.tapology.com/fightcenter/events/90491-vendetta-fight-nights-2
+ 8\nhttp://www.sherdog.com/events/iron-fist-gym-vienna-vendetta-28-93476\
+ n\n---\n\nMain Card: Tarhan Ibragimov (7-2-0) vs. Amilcar Alves (18-22-0
+ )\nMain Card: Besnik Limani (1-0-0) vs. Milan Mihajlovic (0-0-0)\nMain C
+ ard: Patrick Spirk (2-2-0) vs. Anes Music (0-0-0)\nMain Card: Semih Yolo
+ glu (0-1-0) vs. Rilind Kadrija (0-0-0)\nMain Card: Pedro Nobre (21-6-2) 
+ vs. Maung Siam (0-0-0)\nMain Card: Daniel Cikarevic vs. Jose Lantiqua\nM
+ ain Card: Alexander Binder (0-0-0) vs. Jan Krawarik (1-2-0)\nMain Card: 
+ Viskhan Mataev (1-3-0) vs. Ivan Caric (0-0-0)\nMain Card: Abubakar Kukae
+ v (1-1-0) vs. Mihajlo Rajic (1-8-0)\nMain Card: Stefano Marić vs. Taulan
+ t Bektashi\nMain Card: Wesam Alhajo Alhamadur (0-2-0) vs. Simon Leitner 
+ (0-0-0)\nMain Card: Benjamin Lellek (0-0-0) vs. Christoph Veigl (0-0-0)\
+ nMain Card: Thomas Zsalacz (0-0-0) vs. Stefan Tanackov (0-0-0)\nMain Car
+ d: Manuel Keppel (0-0-0) vs. Dominik Kral (0-0-0)\nMain Card: Andreas Ko
+ chel (0-0-0) vs. Stefan Sipos (0-0-0)\nMain Card: Vahit Ipek (0-0-0) vs.
+  Tomáš Drábik (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-volkmarsener-fight-night-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Volkmarsener Fight Night 7
+DTSTART:20220625T164500Z
+DTEND:20220625T194500Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
+ volkmarsener-fight-night-497
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-06-cws-fight-night-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CWS Fight Night 7
+DTSTART:20220625T170000Z
+DTEND:20220625T200000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-cw
+ s-fight-night-7-493
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -86,10 +135,17 @@ CATEGORIES:ONE,MMA,Kickboxen,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/89781-one-championship-159\n\n---\n\nMain Event: Reinier de Ridder 
  (15-0-0) vs. Vitaly Bigdash (12-2-0)\nCo-Main Event: Janet Todd vs. Lara
-  Fernandez
+  Fernandez\nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba Minowa (13-3-
+ 0)\nMain Card: Muangthai PK Saenchai vs. Vladimir Kuzmin\nMain Card: Pei
+ mian Zhang vs. Aslanbek Zikreev\nMain Card: Zhaxi Zelang (16-6-1) vs. Da
+ nial Williams (5-1-0)\nPrelim: Sinsamut Klinmee vs. Islam Murtazaev\nPre
+ lim: Ariel Sexton (13-4-0) vs. Marat Gafurov (18-4-0)\nPrelim: Jessa Kha
+ n vs. Amanda Alequin\nPrelim: Tae Ho Jin (11-5-0) vs. Valmir da Silva (8
+ -2-0)\nPrelim: M. Jamal Abdul-Latif (3-0-0) vs. Anderson Silva (3-2-0)\n
+ Prelim: Lea Bivins (0-0-0) vs. Zeba Bano (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
@@ -103,7 +159,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  illet
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-08-one-160@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160
@@ -114,7 +170,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/89974-one-championship-160
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4

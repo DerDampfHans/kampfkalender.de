@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220619T220305Z
-X-KAMPFKALENDER-HASH:3edc693ba04700798515a52b01a1869bbfc31f58
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:a9f5bf9e404114a504811a1737f267424706ff51
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-gorman-vs-salek@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gorman vs. Salek
@@ -29,7 +29,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-june-
  ) vs. Stefan Nicolae (2-29-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-aka-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 21
@@ -50,7 +50,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-21/2pbe0/\n\n---\n
  \nMain Card: Marco Esparza (0-0-0) vs. Nevan Driehus (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-bkfc-26-brito-vs-palomino-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 26: Brito vs. Palomino 2
@@ -68,7 +68,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-07-briedis-vs-opetaia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Briedis vs. Opetaia
@@ -79,10 +79,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-july-
  2nd/2pbh0/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89065-b
  riedis-vs-opetaia\nhttp://www.boxrec.com/en/event/855164\n\n---\n\nMain 
  Event: Mairis Briedis (28-1-0) vs. Jai Opetaia (21-0-0)\nMain Card: Joel
-  Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)
+  Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)\nMain Card: Faris Chevali
+ er (13-1-0) vs. Conor Wallace (8-1-0)\nMain Card: Beau Hartas (6-1-0) vs
+ . Issac Hardman (12-1-0)\nMain Card: Taylah Robertson (5-1-0) vs. Yoseli
+ n Fernandez (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-07-lion-fight-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 74
@@ -100,7 +103,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-74/2pbc8/\n
  ain Card: Astacia Vormelker vs. Megan Roddie
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-07-bkb-27@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 27
@@ -111,7 +114,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv\n\n---\n\nhttps:
  //www.fightevents.de/event/bkb-27/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
@@ -124,7 +127,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  maker vs. Mick Terrill
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220619T220306Z
+DTSTAMP:20220624T040134Z
 UID:2022-08-bkfc-albuquerque@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Albuquerque
@@ -132,6 +135,7 @@ DTSTART:20220828T020000Z
 DTEND:20220828T050000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/90159-bkfc-fight-night-albuquerque
+ ents/90159-bkfc-fight-night-albuquerque\n\n---\n\nMain Event: Christine 
+ Ferea vs. Taylor Starling
 END:VEVENT
 END:VCALENDAR

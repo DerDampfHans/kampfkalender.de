@@ -3,7 +3,8 @@
     "id": "vendetta-2022-06-25",
     "promotion": "VENDETTA",
     "sports": [
-      "MMA"
+      "MMA",
+      "KICKBOXING"
     ],
     "tags": [
       "#Wien",
@@ -11,12 +12,45 @@
     ],
     "mainCard": {
       "title": "Vendetta 28",
-      "time": "2022-06-25T12:00:00Z",
-      "until": "2022-06-25T20:00:00Z",
+      "time": "2022-06-25T15:00:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-vendetta-28-495",
+          "freeAfter": 72
         }
       }
+    },
+    "tapology": {
+      "id": 90491,
+      "time": "2022-06-25T16:00:00Z",
+      "title": "Vendetta Fight Nights 28",
+      "info": "Confirmed Upcoming MMA & Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/90491-vendetta-fight-nights-28",
+      "sports": [
+        "MMA",
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Card: Tarhan Ibragimov (7-2-0) vs. Amilcar Alves (18-22-0)",
+        "Main Card: Besnik Limani (1-0-0) vs. Milan Mihajlovic (0-0-0)",
+        "Main Card: Patrick Spirk (2-2-0) vs. Anes Music (0-0-0)",
+        "Main Card: Semih Yologlu (0-1-0) vs. Rilind Kadrija (0-0-0)",
+        "Main Card: Pedro Nobre (21-6-2) vs. Maung Siam (0-0-0)",
+        "Main Card: Daniel Cikarevic vs. Jose Lantiqua",
+        "Main Card: Alexander Binder (0-0-0) vs. Jan Krawarik (1-2-0)",
+        "Main Card: Viskhan Mataev (1-3-0) vs. Ivan Caric (0-0-0)",
+        "Main Card: Abubakar Kukaev (1-1-0) vs. Mihajlo Rajic (1-8-0)",
+        "Main Card: Stefano Marić vs. Taulant Bektashi",
+        "Main Card: Wesam Alhajo Alhamadur (0-2-0) vs. Simon Leitner (0-0-0)",
+        "Main Card: Benjamin Lellek (0-0-0) vs. Christoph Veigl (0-0-0)",
+        "Main Card: Thomas Zsalacz (0-0-0) vs. Stefan Tanackov (0-0-0)",
+        "Main Card: Manuel Keppel (0-0-0) vs. Dominik Kral (0-0-0)",
+        "Main Card: Andreas Kochel (0-0-0) vs. Stefan Sipos (0-0-0)",
+        "Main Card: Vahit Ipek (0-0-0) vs. Tomáš Drábik (0-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/iron-fist-gym-vienna-vendetta-28-93476"
+      ]
     },
     "fightEvents": {
       "id": "vendetta-28",

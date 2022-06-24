@@ -4,10 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220618T220304Z
-X-KAMPFKALENDER-HASH:8db38def0bd8c77d1c430e68214e6d2d042899c4
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:067f3c5bda3fcaf0aa36f0434c03e5be4d806775
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
+UID:2022-06-glory-collision-4-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Collision 4: Press Conference
+DTSTART:20220628T100000Z
+DTEND:20220628T110000Z
+CATEGORIES:Glory,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UAynNUKtVS4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
@@ -21,7 +31,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  illet
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220618T220304Z
+DTSTAMP:20220624T040134Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4

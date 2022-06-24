@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220617T052556Z
-X-KAMPFKALENDER-HASH:19cdf3b456245b7862d150fa56843dfddb443030
+DTSTAMP:20220624T040133Z
+X-KAMPFKALENDER-HASH:ef1212e3577bd537595dc8c5ac83754158e4c22b
 BEGIN:VEVENT
-DTSTAMP:20220617T052557Z
+DTSTAMP:20220624T040134Z
 UID:2022-06-ksw-71-zio-kowski-vs-rajewski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 71: Ziółkowski vs. Rajewski
@@ -28,7 +28,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  7-0)\nPrelim: Przemysław Dzwoniarek (3-1-0) vs. Marc Doussis (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220617T052557Z
+DTSTAMP:20220624T040134Z
 UID:2022-07-ksw-72@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 72
@@ -37,7 +37,19 @@ DTEND:20220723T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/90216-ksw-72\n\n---\n\nMain Event: Tomasz Romanowski (15-8-0) vs.
-  Andrzej Grzebyk (18-5-0)\nMain Card: Patryk Kaczmarczyk (8-1-0) vs. Daw
- id Śmiełowski (9-0-0)
+  Andrzej Grzebyk (18-5-0)\nCo-Main Event: Patryk Kaczmarczyk (8-1-0) vs.
+  Dawid Śmiełowski (9-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220624T040134Z
+UID:2022-08-ksw-73@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 73
+DTSTART:20220820T140000Z
+DTEND:20220820T170000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/90418-ksw-73\n\n---\n\nMain Card: Arkadiusz Wrzosek (0-0-0) vs. T
+ omasz Sarara (1-0-0)
 END:VEVENT
 END:VCALENDAR
