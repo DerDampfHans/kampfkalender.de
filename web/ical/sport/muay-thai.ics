@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220605T152226Z
-X-KAMPFKALENDER-HASH:5bf42876d493300c124f80ac75feddb6643d3ca7
+DTSTAMP:20220626T153637Z
+X-KAMPFKALENDER-HASH:d634b132651609ce121cb05bf6a123c7cb22eded
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220626T153638Z
 UID:2022-07-lion-fight-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lion Fight 74
@@ -25,7 +25,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-74/2pbc8/\n
  ain Card: Astacia Vormelker vs. Megan Roddie
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220605T152227Z
+DTSTAMP:20220626T153638Z
 UID:2022-08-one-160@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160
@@ -33,6 +33,7 @@ DTSTART:20220826T100000Z
 DTEND:20220826T130000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/89974-one-championship-160
+ ents/89974-one-championship-160\n\n---\n\nMain Event: Thanh Le (13-2-0) 
+ vs. Kai Tang (14-2-0)
 END:VEVENT
 END:VCALENDAR

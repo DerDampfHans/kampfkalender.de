@@ -4,26 +4,16 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220624T040133Z
-X-KAMPFKALENDER-HASH:5ad13e723f9f5a1f2b65cab4327f36de694ad359
+DTSTAMP:20220626T153637Z
+X-KAMPFKALENDER-HASH:698f2172b919bd68b403d5eef6a9aff2dc34cd66
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
-UID:2022-06-schlagwort-podcast-nfc-9-reaction@kampfkalender.de
+DTSTAMP:20220626T153638Z
+UID:2022-06-schlagwort-face-off-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast: NFC 9 Reaction
-DTSTART:20220619T090000Z
-DTEND:20220619T110000Z
-CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MhqKauvNja0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
-UID:2022-06-schlagwort-podcast@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Face Off: Coga vs. Özyildirim
 DTSTART:20220626T160000Z
-DTEND:20220626T180000Z
+DTEND:20220626T170000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aM_a1cMBpDU
 END:VEVENT
 END:VCALENDAR

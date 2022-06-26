@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220625T220304Z
-X-KAMPFKALENDER-HASH:59f53e33f6e284fdfaf25bc45d5f4f3060f915b9
+DTSTAMP:20220626T153637Z
+X-KAMPFKALENDER-HASH:c6a4f62ab36823430c8a5f49860974e84117308e
 BEGIN:VEVENT
-DTSTAMP:20220625T220304Z
+DTSTAMP:20220626T153637Z
 UID:2022-06-brave-cf-60-martins-vs-ayoub@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Brave CF 60: Martins vs. Ayoub
@@ -21,5 +21,21 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/br
  d: Eduardo Mora (7-2-0) vs. Nkosi Ndebele (4-1-0)\nMain Card: Flavio de 
  Queiroz (12-4-0) vs. Abdul Hussein (7-2-0)\nMain Card: Luan Santiago (17
  -6-0) vs. Mihail Kotruţă (13-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220626T153637Z
+UID:2022-08-brave-cf-61@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BRAVE CF 61
+DTSTART:20220806T170000Z
+DTEND:20220806T200000Z
+CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/90590-brave-cf-61\n\n---\n\nMain Event: Mohamed
+  Grabinski (22-6-0) vs. Vadim Kutsy (16-1-0)\nMain Card: Issa Isakov (8-
+ 2-0) vs. Ahmad Labban (12-4-0)\nMain Card: Chad Hanekom (7-2-0) vs. Enri
+ co Cortese (8-3-0)\nMain Card: Axel Sola (3-0-0) vs. Wladimir Holodenko 
+ (4-0-1)\nMain Card: Husein Kadimagomaev (8-1-0) vs. Agshin Babaev (22-7-
+ 0)
 END:VEVENT
 END:VCALENDAR
