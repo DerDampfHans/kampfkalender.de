@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220625T220304Z
-X-KAMPFKALENDER-HASH:5cdf5ecb1880d4396a8d92725113c8541c5ea2a4
+DTSTAMP:20220626T175541Z
+X-KAMPFKALENDER-HASH:44b1e19bfa6315dc6768321c998688a46d0bd7c8
 BEGIN:VEVENT
-DTSTAMP:20220625T220304Z
+DTSTAMP:20220626T175542Z
 UID:2022-06-heilbronner-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Heilbronner Boxnacht
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-he
  onner-boxnacht-mit-slawa-spomer/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T220304Z
+DTSTAMP:20220626T175542Z
 UID:2022-06-volkmarsener-fight-night-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Volkmarsener Fight Night 7
@@ -30,7 +30,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
  volkmarsener-fight-night-497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T220304Z
+DTSTAMP:20220626T175542Z
 UID:2022-06-austrian-fight-night-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Austrian Fight Night 5
@@ -41,7 +41,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/aus
  trian-fight-night-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T220304Z
+DTSTAMP:20220626T175542Z
 UID:2022-06-cws-fight-night-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CWS Fight Night 7
@@ -50,5 +50,15 @@ DTEND:20220625T200000Z
 CATEGORIES:Other,Kickboxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-cw
  s-fight-night-7-493
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220626T175542Z
+UID:2022-07-steko-s-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Steko's Fight Night
+DTSTART:20220701T164000Z
+DTEND:20220701T194000Z
+CATEGORIES:Other,Kickboxen,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/c/Stekos
 END:VEVENT
 END:VCALENDAR
