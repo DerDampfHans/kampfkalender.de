@@ -10,8 +10,8 @@
     ],
     "mainCard": {
       "title": "Brave CF 60: Martins vs. Ayoub",
-      "time": "2022-06-30T18:00:00Z",
-      "until": "2022-06-30T21:30:00Z",
+      "time": "2022-07-30T18:00:00Z",
+      "until": "2022-07-30T21:30:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
         }
@@ -36,8 +36,8 @@
     },
     "fightEvents": {
       "id": "brave-60",
-      "time": "2022-06-30T18:00:00Z",
-      "until": "2022-06-30T21:30:00Z",
+      "time": "2022-07-30T18:00:00Z",
+      "until": "2022-07-30T21:30:00Z",
       "title": "Brave 60",
       "url": "https://www.fightevents.de/event/brave-60/",
       "broadcaster": "FIGHT24_TV",
@@ -62,6 +62,43 @@
         "International",
         "Livestream",
         "MMA"
+      ]
+    }
+  },
+  {
+    "id": "tapology-90590",
+    "promotion": "BRAVE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#BraveCF61"
+    ],
+    "mainCard": {
+      "title": "BRAVE CF 61",
+      "time": "2022-08-06T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 90590,
+      "time": "2022-08-06T17:00:00Z",
+      "title": "BRAVE CF 61",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/90590-brave-cf-61",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Mohamed Grabinski (22-6-0) vs. Vadim Kutsy (16-1-0)",
+        "Main Card: Issa Isakov (8-2-0) vs. Ahmad Labban (12-4-0)",
+        "Main Card: Chad Hanekom (7-2-0) vs. Enrico Cortese (8-3-0)",
+        "Main Card: Axel Sola (3-0-0) vs. Wladimir Holodenko (4-0-1)",
+        "Main Card: Husein Kadimagomaev (8-1-0) vs. Agshin Babaev (22-7-0)"
       ]
     }
   }
