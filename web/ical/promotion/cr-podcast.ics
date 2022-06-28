@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220623T100412Z
-X-KAMPFKALENDER-HASH:a8b4ccf881b1ff3e0b37b1fcce064502e8a146fd
+DTSTAMP:20220628T141126Z
+X-KAMPFKALENDER-HASH:014351d80c3b5458271ab24f0053b8075ec2016b
 BEGIN:VEVENT
-DTSTAMP:20220623T100412Z
+DTSTAMP:20220628T141126Z
 UID:2022-06-nacht-der-kos-in-texas-review-zu-ufc-austin-kattar-vs-emmett@
  kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=34wfsXkXzXw
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220623T100412Z
+DTSTAMP:20220628T141126Z
 UID:2022-06-wie-arbeitet-ein-judge-im-mma-clemens-werner-uber-die-tatigke
  it-als-punktrichter@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -29,5 +29,16 @@ DTSTART:20220623T150000Z
 DTEND:20220623T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=VSCsn9J5cX8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T141126Z
+UID:2022-06-vielversprechendster-ppv-2022-unsere-ufc-276-vorschau@kampfka
+ lender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vielversprechendster PPV 2022? Unsere UFC 276 Vorschau.
+DTSTART:20220628T150000Z
+DTEND:20220628T170000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=W59uXLPhw5Q
 END:VEVENT
 END:VCALENDAR
