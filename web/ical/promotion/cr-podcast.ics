@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220628T220304Z
-X-KAMPFKALENDER-HASH:5b23f301a46ebedb40aea80913604f338a123deb
+DTSTAMP:20220630T113054Z
+X-KAMPFKALENDER-HASH:01b33eac0eac4d6d7ee4a246e252f2bd487d9b4f
 BEGIN:VEVENT
-DTSTAMP:20220628T220305Z
+DTSTAMP:20220630T113054Z
 UID:2022-06-wie-arbeitet-ein-judge-im-mma-clemens-werner-uber-die-tatigke
  it-als-punktrichter@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -19,7 +19,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=VSCsn9J5cX8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220628T220305Z
+DTSTAMP:20220630T113054Z
 UID:2022-06-vielversprechendster-ppv-2022-unsere-ufc-276-vorschau@kampfka
  lender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,5 +28,17 @@ DTSTART:20220628T150000Z
 DTEND:20220628T170000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=W59uXLPhw5Q
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220630T113054Z
+UID:2022-06-so-werden-runden-im-mma-bewertet-punktrichter-clemens-werner-
+ erklart-mma-judging@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:So werden Runden im MMA bewertet - Punktrichter Clemens Werner er
+ klärt MMA Judging
+DTSTART:20220630T150000Z
+DTEND:20220630T160000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-3pK3TlYnyM
 END:VEVENT
 END:VCALENDAR
