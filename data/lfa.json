@@ -38,7 +38,7 @@
         "Main Card: Jena Bishop (2-0-0) vs. Luana Santos (3-0-0)",
         "Main Card: Marcus McGhee (4-0-0) vs. Rafael do Nascimento (6-1-0)",
         "Main Card: Maria Henderson (0-0-0) vs. Melanie McIntyre (0-0-0)",
-        "Prelim: An Ho (1-0-0) vs. Matthew Barrow (0-1-0)",
+        "Prelim: An Ho (1-0-0) vs. Matt Barro (0-1-0)",
         "Prelim: Cedric Katambwa (1-0-0) vs. James Hay (3-2-0)",
         "Prelim: Angel Atoigue (0-0-0) vs. Nick Alwag (1-2-0)",
         "Prelim: Kayla Reagan (0-0-0) vs. Grace DiFrancesco (0-0-0)",
@@ -62,6 +62,11 @@
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 219516,
+        "time": "2022-07-16T01:00:00Z",
+        "title": "LFA 136"
       }
     },
     "tapology": {
@@ -75,14 +80,17 @@
       ],
       "card": [
         "Main Event: Italo Gomes (11-2-0) vs. Wellington Prado (12-2-0)",
-        "Co-Main Event: Davi Costa (11-3-0) vs. E. da Silva (10-1-0)",
+        "Co-Main Event: Davi Costa (11-3-0) vs. Eduardo Henrique (10-1-0)",
         "Main Card: Alexia Thainara (7-1-0) vs. Janaína Silva (4-0-0)",
         "Main Card: Jonas Bilharinho (9-2-1) vs. Pedro Lopes (5-0-0)",
         "Main Card: Wallace Lopes (9-2-0) vs. Rafael Costa (13-3-0)",
+        "Main Card: Mailton Azevedo (10-3-0) vs. Bruno Lopes (9-0-0)",
+        "Main Card: Inaildo Santos (9-1-0) vs. Jean Matsumoto (10-0-0)",
         "Prelim: Júnior Assis (6-3-0) vs. Hermison Oliveira (10-6-0)",
         "Prelim: Jairo Pacheco (6-0-0) vs. Lucas Barros (7-2-0)",
         "Prelim: Gabriel Souza Galindo (4-0-0) vs. Patrick Bittencourt (4-0-0)",
-        "Prelim: Dayane Cristina (0-0-0) vs. Maria Santana (0-0-0)"
+        "Prelim: Dayane Cristina (0-0-0) vs. Maria Santana (0-0-0)",
+        "Prelim: Ewerton Polaquini (5-3-0) vs. Alexandre Silva (7-3-0)"
       ]
     }
   },
@@ -101,6 +109,11 @@
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 219524,
+        "time": "2022-07-30T02:00:00Z",
+        "title": "LFA 137"
       }
     },
     "tapology": {
@@ -121,7 +134,41 @@
         "Main Card: Billy Elekana (4-0-0) vs. Daniel Compton (6-2-0)",
         "Prelim: Karlee Pangilinan (6-2-0) vs. Mefi Monterroso (5-3-0)",
         "Prelim: Dione Barbosa (3-2-0) vs. Lisa Mauldin (4-3-0)",
-        "Prelim: Alandria Brown (1-1-0) vs. Jasmine Pouncy (1-1-0)"
+        "Prelim: Alandria Brown (1-1-0) vs. Jasmine Pouncy (1-1-0)",
+        "Prelim: Jeffrey Craig (1-0-0) vs. Orlando Sanders (0-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-90629",
+    "promotion": "LFA",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#LFA138"
+    ],
+    "mainCard": {
+      "title": "LFA 138: Farias vs. Tanaka",
+      "time": "2022-08-06T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 90629,
+      "time": "2022-08-06T01:00:00Z",
+      "title": "LFA 138: Farias vs. Tanaka",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/90629-lfa-138-farias-vs-tanaka",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Ary Farias (11-3-0) vs. Michinori Tanaka (14-3-0)",
+        "Co-Main Event: Askar Askar (13-2-0) vs. Diego Silva (14-7-0)",
+        "Main Card: Elijah Johns (8-2-0) vs. Masuto Kawana (5-1-0)"
       ]
     }
   }

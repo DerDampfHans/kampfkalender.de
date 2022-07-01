@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220626T154533Z
-X-KAMPFKALENDER-HASH:d7ba856cc40452e9d42e900081fe1c217708ef46
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:f7cbf92184a0f090e7deccbc5dbb8b2f5ffefd35
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-bkfc-26-brito-vs-palomino-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 26: Brito vs. Palomino 2
@@ -25,7 +25,26 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-fusion-fight-league-boom-town-brawls@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League: Boom Town Brawls
+DTSTART:20220702T010000Z
+DTEND:20220702T040000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-boom-town-brawls/2
+ pbii/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/88578-fusion
+ -fight-league-boom-town-brawls\nhttp://www.sherdog.com/events/fusion-fig
+ ht-league-boom-town-brawls-93177\nhttps://events.mixedmartialarts.com/fu
+ sion-fight-league:8db8f257-301b-4942-a9e9-bf42605f4523\n\n---\n\nMain Ca
+ rd: Larry Gonzales (0-1-0) vs. Nick Tomlinson (0-0-0)\nMain Card: Gregg 
+ Ellis (5-4-0) vs. Cody Herbert (2-1-0)\nMain Card: Octavian Trumbo (0-2-
+ 0) vs. Dean Rischer (0-0-0)\nMain Card: Brady Meister (0-0-0) vs. Christ
+ ian Robertson (0-0-0)\nMain Card: Danny August (3-9-0) vs. Gage Saunders
+  (8-5-0)\nMain Card: Amari Sengsavanh (2-0-0) vs. Alim Muhammed (6-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-07-briedis-vs-opetaia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Briedis vs. Opetaia
@@ -39,10 +58,66 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-july-
   Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)\nMain Card: Faris Chevali
  er (13-1-0) vs. Conor Wallace (8-1-0)\nMain Card: Beau Hartas (6-1-0) vs
  . Issac Hardman (12-1-0)\nMain Card: Taylah Robertson (5-1-0) vs. Yoseli
- n Fernandez (11-1-0)
+ n Fernandez (11-1-0)\nMain Card: Dana Coolwell (7-2-0) vs. Lorenz Ladrad
+ a (11-1-1)\nMain Card: Miles Zalewski (10-2-0) vs. Shiva Mishra (8-5-0)\
+ nMain Card: David Nyika (3-0-0) vs. Lui Marsters (0-0-0)\nMain Card: Aus
+ tin Aokuso (0-0-0) vs. Laurence Titter (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-lion-fight-74@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lion Fight 74
+DTSTART:20220709T000000Z
+DTEND:20220709T030000Z
+CATEGORIES:LFP,Muay Thai,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/lion-fight-74/2pbc8/\n
+ \n---\n\nhttps://www.tapology.com/fightcenter/events/89970-lion-fight-73
+ -lf-73\nhttps://events.mixedmartialarts.com/lion-fight-73:e792fc88-6f88-
+ 42d6-946e-0f62b4f4b8ab\n\n---\n\nMain Event: Jefferson Silva vs. Carlos 
+ Guerra\nCo-Main Event: Regan Gowing vs. Magalie Alvarez\nMain Card: W. D
+ os Santos vs. Miguel Angel Robles\nMain Card: Coral Carnicella vs. Angel
+ a Danzig\nMain Card: Ray Aninzo vs. Marcell Mickens\nMain Card: Cristian
+  Carillo vs. Spencer Hanley\nMain Card: Bob Mozisek vs. Anthony Ryles\nM
+ ain Card: Astacia Vormelker vs. Megan Roddie
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-senshi-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 12
+DTSTART:20220709T170000Z
+DTEND:20220709T200000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-12/2pbjr/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-fusion-fight-league-fights-under-the-lights@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League: Fights under the Lights
+DTSTART:20220717T010000Z
+DTEND:20220717T040000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-fights-under-the-l
+ ights-2022/2pbjh/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/
+ 89298-fusion-fight-league
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-aka-22@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 22
+DTSTART:20220723T003000Z
+DTEND:20220723T033000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-22/2pbk9/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/90635-aka-22\n\n---\n\nMai
+ n Event: Chauncey Foxworth (14-9-0) vs. Eric Scallan (17-6-0)\nCo-Main E
+ vent: David Bosnick (10-6-0) vs. Mike Barnett (11-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-07-bkb-27-curragh-vs-churcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 27: Curragh vs. Churcher
@@ -54,28 +129,49 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
  27/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-bkfc-fight-night-tampa-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Fight Night: Tampa 2
+DTSTART:20220724T010000Z
+DTEND:20220724T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90639-bkfc-fight-night-tampa-2\nhttps://events.mixedmartialarts.com
+ /bkfc-fight-night:b8059d30-348d-4747-9e8f-bebaec57c283\n\n---\n\nMain Ev
+ ent: Jarod Grant vs. Reginald Barnett\, Jr.\nCo-Main Event: John Michael
+  Escoboza vs. Jared Warren\nMain Card: David Mundell vs. David Simpson\n
+ Main Card: Rynell Riley vs. Brynnen McIver\nMain Card: Joshua Sanchez vs
+ . Ryan Shough\nMain Card: Stevo Morris vs. Glendel Futrell\nMain Card: J
+ R Ridge vs. Justyn Martinez
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
-DTSTART:20220820T200000Z
-DTEND:20220820T230000Z
+DTSTART:20220821T010000Z
+DTEND:20220821T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/90138-bkfc-27-mvp-vs-perry\n\n---\n\nMain Event: Michael Page vs. M
- ike Perry\nMain Card: Connor Tierney vs. Joe Elmore\nMain Card: Sam Shew
- maker vs. Mick Terrill
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27/2pbkj/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/90138-bkfc-27-mvp-vs-perr
+ y\nhttps://events.mixedmartialarts.com/bkfc-27:8a621851-8e6a-4662-9855-0
+ 3e1f93dafe8\n\n---\n\nMain Event: Michael Page vs. Mike Perry\nMain Card
+ : Connor Tierney vs. Joe Elmore\nMain Card: Sam Shewmaker vs. Mick Terri
+ ll\nMain Card: Jack Draper vs. Rob Cunningham\nMain Card: John Hick vs. 
+ Ellis Shepherd\nMain Card: Franco Tenaglia vs. Chas Symonds\nMain Card: 
+ Conan Barbaru vs. Dan Vinni
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
-UID:2022-08-bkfc-albuquerque@kampfkalender.de
+DTSTAMP:20220701T145347Z
+UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Albuquerque
-DTSTART:20220828T020000Z
-DTEND:20220828T050000Z
+SUMMARY:BKFC 28: Ferea vs. Starling
+DTSTART:20220828T010000Z
+DTEND:20220828T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/90159-bkfc-fight-night-albuquerque\n\n---\n\nMain Event: Christine 
- Ferea vs. Taylor Starling
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/90159-bkfc-fight-night-al
+ buquerque\n\n---\n\nMain Event: Christine Ferea vs. Taylor Starling
 END:VEVENT
 END:VCALENDAR

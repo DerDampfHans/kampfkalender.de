@@ -8,11 +8,7 @@
     "mainCard": {
       "hidden": true,
       "title": "Fusion Fight League",
-      "time": "2022-07-01T04:00:00Z",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
+      "time": "2022-07-01T04:00:00Z"
     },
     "tapology": {
       "id": 89297,
@@ -29,12 +25,22 @@
       "MMA"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Fusion Fight League: Boom Town Brawls",
       "time": "2022-07-02T01:00:00Z",
       "broadcasters": {
-        "UFC_FIGHT_PASS": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ffl-boom-town-brawls/2pbii/"
         }
+      },
+      "fite": {
+        "id": "2pbii",
+        "time": "2022-07-02T01:00:00Z",
+        "title": "Fusion Fight League: Boom Town Brawls",
+        "url": "https://www.fite.tv/watch/ffl-boom-town-brawls/2pbii/",
+        "price": "WATCH WITH FITE+",
+        "sports": [
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -55,6 +61,7 @@
         "Main Card: Amari Sengsavanh (2-0-0) vs. Alim Muhammed (6-3-0)"
       ],
       "links": [
+        "http://www.sherdog.com/events/fusion-fight-league-boom-town-brawls-93177",
         "https://events.mixedmartialarts.com/fusion-fight-league:8db8f257-301b-4942-a9e9-bf42605f4523"
       ]
     }
@@ -66,12 +73,22 @@
       "MMA"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "Fusion Fight League",
-      "time": "2022-07-22T04:00:00Z",
+      "title": "Fusion Fight League: Fights under the Lights",
+      "time": "2022-07-17T01:00:00Z",
       "broadcasters": {
-        "UFC_FIGHT_PASS": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ffl-fights-under-the-lights-2022/2pbjh/"
         }
+      },
+      "fite": {
+        "id": "2pbjh",
+        "time": "2022-07-17T01:00:00Z",
+        "title": "Fusion Fight League: Fights under the Lights 2022",
+        "url": "https://www.fite.tv/watch/ffl-fights-under-the-lights-2022/2pbjh/",
+        "price": "WATCH WITH FITE+",
+        "sports": [
+          "MMA"
+        ]
       }
     },
     "tapology": {

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220630T220304Z
-X-KAMPFKALENDER-HASH:f2c1c98030c0a44b45457205c1d930bcfc3ea477
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:84e896d6ac0bf6488a2c6a5b7da18db2b11a49f5
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145346Z
 UID:2022-06-schlagwort-face-off-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Face Off: Coga vs. Özyildirim
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aM_a1cMBpDU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145346Z
 UID:2022-06-vielversprechendster-ppv-2022-unsere-ufc-276-vorschau@kampfka
  lender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,7 +28,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=W59uXLPhw5Q
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145346Z
 UID:2022-06-so-werden-runden-im-mma-bewertet-punktrichter-clemens-werner-
  erklart-mma-judging@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -38,5 +38,15 @@ DTSTART:20220630T150000Z
 DTEND:20220630T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-3pK3TlYnyM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145346Z
+UID:2022-07-schlagwort-podcast@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20220703T160000Z
+DTEND:20220703T180000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR

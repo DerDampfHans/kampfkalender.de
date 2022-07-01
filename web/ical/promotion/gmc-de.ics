@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220624T040133Z
-X-KAMPFKALENDER-HASH:7fedfa7e35b1d66cbf6c9eeee8034e6643d4426c
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:d0b547beeb6e916a4aa8ba6a5b60cc3f70104fe4
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-gmc-fight-night-15-cengiz-vs-smolik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Fight Night 15: Cengiz vs. Smolik
@@ -29,7 +29,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220625-fight-nig
  murzaev (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-gmc-fight-night-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Fight Night 16
@@ -40,38 +40,16 @@ DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  nts/90351-gmc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
-UID:2022-09-gmc-28@kampfkalender.de
+DTSTAMP:20220701T145347Z
+UID:2022-09-gmc-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GMC 28
+SUMMARY:GMC 29
 DTSTART:20220917T170000Z
 DTEND:20220917T200000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
- nts/90352-gmc-29\n\n---\n\nMain Card: Selim Agaev (13-6-0) vs. Alexander
-  Wesner (6-5-0)\nMain Card: Dino Starcevic (4-0-0) vs. Benny Bajrami (5-
- 1-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
-UID:2022-10-gmc-29@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GMC 29
-DTSTART:20221015T170000Z
-DTEND:20221015T200000Z
-CATEGORIES:GMC,MMA,gmc.tv,live
-DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
- nts/90353-gmc-30
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
-UID:2022-12-gmc-fight-night-17@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GMC Fight Night 17
-DTSTART:20221203T180000Z
-DTEND:20221203T210000Z
-CATEGORIES:GMC,MMA,gmc.tv,live
-DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
- nts/90354-gmc-fight-night
+ nts/90352-gmc-29\n\n---\n\nMain Event: Selim Agaev (13-6-0) vs. Alexande
+ r Wesner (8-5-0)\nCo-Main Event: Mick Mokoyoko (8-11-1) vs. Abeku Afful 
+ (8-3-0)\nMain Card: Dino Starcevic (4-0-0) vs. Benny Bajrami (5-1-0)
 END:VEVENT
 END:VCALENDAR

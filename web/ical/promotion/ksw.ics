@@ -4,23 +4,25 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220625T220304Z
-X-KAMPFKALENDER-HASH:c01ba7bf4fd70b04017d7bccf59418e80de6d4ce
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:fe9f7f456073bdc24740920c503bdfc04b067027
 BEGIN:VEVENT
-DTSTAMP:20220625T220304Z
-UID:2022-07-ksw-72@kampfkalender.de
+DTSTAMP:20220701T145347Z
+UID:2022-07-ksw-72-romanowski-vs-grzebyk@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 72
+SUMMARY:KSW 72: Romanowski vs. Grzebyk
 DTSTART:20220723T170000Z
 DTEND:20220723T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/90216-ksw-72\n\n---\n\nMain Event: Tomasz Romanowski (15-8-0) vs.
   Andrzej Grzebyk (18-5-0)\nCo-Main Event: Patryk Kaczmarczyk (8-1-0) vs.
-  Dawid Śmiełowski (9-0-0)
+  Dawid Śmiełowski (9-0-0)\nMain Card: Oumar Sy (6-0-0) vs. Hasan Mezhiev
+  (12-0-0)\nMain Card: Emilia Czerwińska (1-0-0) vs. Sara Luzar Smajić (4
+ -1-0)\nMain Card: Hubert Szymajda (9-5-0) vs. Yann Liasse (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-ksw-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 73
@@ -29,6 +31,7 @@ DTEND:20220820T170000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/90418-ksw-73\n\n---\n\nMain Card: Arkadiusz Wrzosek (0-0-0) vs. T
- omasz Sarara (1-0-0)
+ omasz Sarara (1-0-0)\nMain Card: Daniel Rutkowski (13-3-0) vs. Lom-Ali E
+ skijew (19-5-0)
 END:VEVENT
 END:VCALENDAR

@@ -21,21 +21,24 @@
     "tapology": {
       "id": 90488,
       "time": "2022-06-26T09:50:00Z",
-      "title": "JCK Fight Night 2022: First Round 9",
-      "info": "Confirmed Upcoming MMA Event",
+      "title": "JCK Fight Night 2022: Week 9",
+      "info": "Completed MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/90488-jck-fight-night-2022-first-round-9",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Lile Du (23-9-0) vs. Haojie Li (25-5-1)",
-        "Co-Main Event: Tanghesi (3-4-0) vs. Xuyang Cen (0-0-0)",
-        "Main Card: Husiletu (1-2-0) vs. Tilihabuli Walibieke (0-0-0)",
-        "Main Card: Qianrui Wei (0-0-0) vs. Hua Li (0-0-0)",
-        "Main Card: Jiahefu Wuziazibieke (23-9-1) vs. Pengxu Zhu (0-0-0)",
-        "Main Card: Xiaofei Zhou (1-0-0) vs. Zhicheng Tai (1-1-0)",
-        "Main Card: Hangyu Du (1-0-0) vs. Shuai Dang (0-0-0)",
-        "Main Card: Caibao Zhang (3-7-0) vs. Junjie Fan (0-0-0)"
+        "Main Event: Haojie Li vs. Lile Du",
+        "Co-Main Event: Tanghesi vs. Xuyang Cen",
+        "Main Card: Husiletu vs. Tilihabuli Walibieke",
+        "Main Card: Qianrui Wei vs. Hua Li",
+        "Main Card: Jiahefu Wuziazibieke vs. Pengxu Zhu",
+        "Main Card: Zhicheng Tai vs. Xiaofei Zhou",
+        "Main Card: Hangyu Du vs. Shuai Dang",
+        "Main Card: Junjie Fan vs. Caibao Zhang"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/jck-night-cage-series-2022-round-of-32-part-9-93709"
       ]
     }
   },
@@ -56,7 +59,7 @@
     "tapology": {
       "id": 90599,
       "time": "2022-07-02T11:00:00Z",
-      "title": "JCK Fight Night 2022: First Round 10",
+      "title": "JCK Fight Night 2022: Week 10",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/90599-jck-fight-night-2022-first-round-10",
       "sports": [
@@ -71,7 +74,70 @@
         "Main Card: Husiman Siwuhaer (8-5-0) vs. Lang Li (0-1-0)",
         "Main Card: Yisimayili Muhetaer (3-3-0) vs. Yeerdana Biekebosen (0-0-0)",
         "Main Card: Jiniushiyue (9-2-0) vs. Bingyin Wang (3-5-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/jck-night-cage-series-2022-round-of-32-part-10-93712"
       ]
+    }
+  },
+  {
+    "id": "jck-2022-07-09",
+    "promotion": "JCK_CN",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "JCK Fight Night: Week 11",
+      "time": "2022-07-09T11:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 219421,
+        "time": "2022-07-09T11:00:00Z",
+        "title": "JCK MMA: 2022 #11"
+      }
+    }
+  },
+  {
+    "id": "jck-2022-07-16",
+    "promotion": "JCK_CN",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "JCK Fight Night: Week 12",
+      "time": "2022-07-16T11:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 219519,
+        "time": "2022-07-16T11:00:00Z",
+        "title": "JCK MMA: 2022 #12"
+      }
+    }
+  },
+  {
+    "id": "jck-2022-07-22",
+    "promotion": "JCK_CN",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "JCK Fight Night: Week 13",
+      "time": "2022-07-22T11:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 219521,
+        "time": "2022-07-22T11:00:00Z",
+        "title": "JCK MMA: 2022 #13"
+      }
     }
   }
 ]

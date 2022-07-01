@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220626T175541Z
-X-KAMPFKALENDER-HASH:ade90e890b6cc2e8444f930d18aaef61f5786afe
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:bfb68d319f2658c45f894bd53a0a05b16f20eba3
 BEGIN:VEVENT
-DTSTAMP:20220626T175542Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-vendetta-28@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Vendetta 28
@@ -34,7 +34,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ve
   Tomáš Drábik (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T175542Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-volkmarsener-fight-night-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Volkmarsener Fight Night 7
@@ -45,7 +45,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
  volkmarsener-fight-night-497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T175542Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-cws-fight-night-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CWS Fight Night 7
@@ -56,17 +56,48 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-cw
  s-fight-night-7-493
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T175542Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-steko-s-fight-night-pre-show@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Steko's Fight Night: Pre-Show
+DTSTART:20220701T160000Z
+DTEND:20220701T171500Z
+CATEGORIES:Other,Kickboxen,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=29I8OfcM3E0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-07-steko-s-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Steko's Fight Night
-DTSTART:20220701T164000Z
-DTEND:20220701T194000Z
+DTSTART:20220701T171500Z
+DTEND:20220701T201500Z
 CATEGORIES:Other,Kickboxen,YouTube,live
-DESCRIPTION:via YouTube: https://www.youtube.com/c/Stekos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ahc2uUgAEtM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T175542Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-charity-fight-night-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Charity Fight Night 2
+DTSTART:20220702T140000Z
+DTEND:20220702T170000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ch
+ arity-fight-night-2-501
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-senshi-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 12
+DTSTART:20220709T170000Z
+DTEND:20220709T200000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-12/2pbjr/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -86,7 +117,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Prelim: Lea Bivins (0-0-0) vs. Zeba Bano (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T175542Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
@@ -100,7 +131,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  illet
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T175542Z
+DTSTAMP:20220701T145347Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220630T220304Z
-X-KAMPFKALENDER-HASH:fafce9e4b5e656df380862a3ae024549fcd73b9a
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:0cd511cfb5482330d8600a4c5f3d1d45c6a497ff
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-bellator-282-mousasi-vs-eblen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 282: Mousasi vs. Eblen
@@ -34,7 +34,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  del Nallo (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-respect-fc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Respect FC
@@ -46,7 +46,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  adovan Nedović (0-13-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -65,7 +65,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nMain Card: C. Toledo (4-0-0) vs. Attila Csereklye (10-26-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-ufc-vegas-57-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 57: Post-Fight Press Conference
@@ -75,7 +75,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZawX7Eegc-c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-schlagwort-face-off-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Face Off: Coga vs. Özyildirim
@@ -85,7 +85,7 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aM_a1cMBpDU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-glory-collision-4-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Press Conference
@@ -95,7 +95,7 @@ CATEGORIES:Glory,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UAynNUKtVS4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-vielversprechendster-ppv-2022-unsere-ufc-276-vorschau@kampfka
  lender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -106,7 +106,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=W59uXLPhw5Q
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-so-werden-runden-im-mma-bewertet-punktrichter-clemens-werner-
  erklart-mma-judging@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -118,17 +118,37 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-3pK3TlYnyM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-steko-s-fight-night-pre-show@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Steko's Fight Night: Pre-Show
+DTSTART:20220701T160000Z
+DTEND:20220701T171500Z
+CATEGORIES:Other,Kickboxen,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=29I8OfcM3E0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-07-steko-s-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Steko's Fight Night
-DTSTART:20220701T164000Z
-DTEND:20220701T194000Z
+DTSTART:20220701T171500Z
+DTEND:20220701T201500Z
 CATEGORIES:Other,Kickboxen,YouTube,live
-DESCRIPTION:via YouTube: https://www.youtube.com/c/Stekos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ahc2uUgAEtM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-schlagwort-podcast@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20220703T160000Z
+DTEND:20220703T180000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-07-invicta-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 48
@@ -145,7 +165,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  mn Norton (1-1-0) vs. Maria Djukic (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -165,7 +185,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Prelim: Lea Bivins (0-0-0) vs. Zeba Bano (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-one-160-le-vs-tang@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160: Le vs. Tang
@@ -177,7 +197,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  vs. Kai Tang (14-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Moraes vs. Johnson 2
@@ -189,7 +209,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  : Adriano Moraes (20-3-0) vs. Demetrious Johnson (23-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220701T145347Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally

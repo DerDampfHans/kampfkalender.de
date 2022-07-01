@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220627T202829Z
-X-KAMPFKALENDER-HASH:7299bb639b0518896da4b2fd3340a2e7e9acbfec
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:d72006246dce77dd9c31cb889dcf3c6fe8a6f388
 BEGIN:VEVENT
-DTSTAMP:20220627T202830Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-pfl-regular-season-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Regular Season 5
@@ -32,28 +32,32 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=2H4_GSXJc7I\
  10-3-1)\nPrelim: Brendan Loughnane (22-4-0) vs. Ago Huskić (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220627T202830Z
-UID:2022-06-pfl-regular-season-6@kampfkalender.de
+DTSTAMP:20220701T145347Z
+UID:2022-07-pfl-6-2022-regular-season@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL Regular Season 6
-DTSTART:20220630T220000Z
-DTEND:20220701T030000Z
+SUMMARY:PFL 6: 2022 Regular Season
+DTSTART:20220701T210000Z
+DTEND:20220702T030000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=MNZCCp7Rjxs\
  n\n---\n\nhttps://www.fightevents.de/event/pfl-6-regular-season-2022/\nh
  ttps://www.tapology.com/fightcenter/events/87837-pfl-2022-6-regular-seas
- on\n\n---\n\nMain Event: Kayla Harrison (13-0-0) vs. Kaitlin Young (12-1
- 2-1)\nCo-Main Event: Rory MacDonald (23-8-1) vs. Sadibou Sy (10-6-2)\nMa
- in Card: Ray Cooper III (24-8-1) vs. Brett Cooper (28-16-0)\nMain Card: 
- Magomed Magomedkerimov (29-6-0) vs. João Zeferino (26-10-0)\nPrelim: J. 
- Al-Silawi (18-3-0) vs. Magomed Umalatov (11-0-0)\nPrelim: Larissa Pachec
- o (16-4-0) vs. Genah Fabian (5-2-0)\nPrelim: Gleison Tibau (36-16-0) vs.
-  Nikolay Aleksakhin (26-7-0)\nPrelim: Marina Mokhnatkina (6-3-0) vs. Abb
- y Montes (3-1-0)\nPrelim: Martina Jindrová (5-2-0) vs. Zamzagul Fayzalla
- nova (7-2-0)\nPrelim: Olena Kolesnyk (6-4-0) vs. Vanessa Melo (11-9-0)
+ on\nhttp://www.sherdog.com/events/professional-fighters-league-pfl-6-202
+ 2-regular-season-92572\nhttp://en.wikipedia.org/wiki/PFL_6_(2022_season)
+ \nhttps://events.mixedmartialarts.com/pfl-6:570170d5-a0a1-4db6-857d-3de9
+ 1a807def\nhttps://pflmma.com/event/2022-pfl-6\nhttps://www.bestfightodds
+ .com/events/pfl-week-6-2576\n\n---\n\nMain Event: Kayla Harrison (13-0-0
+ ) vs. Kaitlin Young (12-12-1)\nCo-Main Event: Rory MacDonald (23-8-1) vs
+ . Sadibou Sy (10-6-2)\nMain Card: Ray Cooper III (24-8-1) vs. Brett Coop
+ er (28-16-0)\nMain Card: Magomed Magomedkerimov (29-6-0) vs. Dilano Tayl
+ or (9-1-0)\nMain Card: Larissa Pacheco (16-4-0) vs. Genah Fabian (5-2-0)
+ \nMain Card: J. Al-Silawi (18-3-0) vs. Magomed Umalatov (11-0-0)\nPrelim
+ : Marina Mokhnatkina (6-3-0) vs. Abby Montes (3-1-0)\nPrelim: Martina Ji
+ ndrová (5-2-0) vs. Zamzagul Fayzallanova (7-2-0)\nPrelim: Olena Kolesnyk
+  (6-4-0) vs. Vanessa Melo (11-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220627T202830Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
@@ -61,10 +65,14 @@ DTSTART:20220806T010000Z
 DTEND:20220806T040000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/87838-pfl-2022-7-playoffs
+ r/events/87838-pfl-2022-7-playoffs\n\n---\n\nMain Event: Rob Wilkinson (
+ 15-2-0) vs. Delan Monte (9-2-0)\nCo-Main Event: Antônio Carlos Júnior (1
+ 5-5-0) vs. Omari Akhmedov (23-7-1)\nMain Card: Anthony Pettis (25-13-0) 
+ vs. Stevie Ray (24-10-0)\nMain Card: Olivier Aubin-Mercier (15-5-0) vs. 
+ Alex Martinez (10-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220627T202830Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -72,10 +80,14 @@ DTSTART:20220814T010000Z
 DTEND:20220814T040000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/87839-pfl-2022-8-playoffs
+ r/events/87839-pfl-2022-8-playoffs\n\n---\n\nMain Card: Chris Wade (22-7
+ -0) vs. Brendan Loughnane (23-4-0)\nMain Card: Ryoji Kudo (11-3-1) vs. B
+ ubba Jenkins (18-5-0)\nMain Card: Denis Goltsov (29-7-0) vs. Bruno Cappe
+ lozza (15-6-0)\nMain Card: Ante Delija (21-5-0) vs. Renan Ferreira (9-3-
+ 0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220627T202830Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -86,7 +98,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87840-pfl-2022-9-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220627T202830Z
+DTSTAMP:20220701T145347Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -97,7 +109,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87841-pfl-2022-10-championships
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220627T202830Z
+DTSTAMP:20220701T145347Z
 UID:2022-11-pfl-finals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 2

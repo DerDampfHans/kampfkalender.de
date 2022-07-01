@@ -11,11 +11,146 @@
     ],
     "mainCard": {
       "title": "Steko's Fight Night",
-      "time": "2022-07-01T16:40:00Z",
+      "time": "2022-07-01T17:15:00Z",
       "broadcasters": {
         "YOUTUBE": {
-          "url": "https://www.youtube.com/c/Stekos"
+          "url": "https://www.youtube.com/watch?v=ahc2uUgAEtM"
         }
+      },
+      "youTube": {
+        "id": "ahc2uUgAEtM",
+        "time": "2022-07-01T17:15:00Z",
+        "title": "Stekos Fight Night 01.07.2022 - Live ab 19:15 - Für Kanalmitglieder (Pre Show ab ca. 18:00 free)",
+        "url": "https://www.youtube.com/watch?v=ahc2uUgAEtM"
+      }
+    },
+    "prelims": {
+      "title": "Steko's Fight Night: Pre-Show",
+      "time": "2022-07-01T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=29I8OfcM3E0"
+        }
+      },
+      "youTube": {
+        "id": "29I8OfcM3E0",
+        "time": "2022-07-01T16:00:00Z",
+        "title": "Pre Show - Free Channel - Stekos Fight Night",
+        "url": "https://www.youtube.com/watch?v=29I8OfcM3E0"
+      }
+    }
+  },
+  {
+    "id": "charity-2022-07-02",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Amberg",
+      "#CFN2"
+    ],
+    "mainCard": {
+      "title": "Charity Fight Night 2",
+      "time": "2022-07-02T14:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-charity-fight-night-2-501",
+          "freeAfter": 72
+        }
+      }
+    }
+  },
+  {
+    "id": "petko-2022-07-02",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Mainz",
+      "#CFN2"
+    ],
+    "mainCard": {
+      "title": "Petko's Beat & Box 2",
+      "time": "2022-07-02T15:30:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-petkos-beat-box-2-503",
+          "freeAfter": 72
+        }
+      }
+    },
+    "tapology": {
+      "id": 90695,
+      "time": "2022-07-02T18:30:00Z",
+      "title": "Pyramide",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/90695-pyramide",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Shefat Isufi (34-4-2) vs. Deniz Altz (0-0-0)",
+        "Co-Main Event: Leon Harth (20-5-0) vs. Siril Makiadi (13-2-2)",
+        "Main Card: Edin Avdic (0-0-0) vs. Gabor Gorbics (26-29-2)",
+        "Main Card: Mahmoud El Shibany (3-0-0) vs. Frane Radnic (11-31-0)",
+        "Main Card: Chamseddine Lemjide (0-0-0) vs. Slaviša Simeunović (39-52-0)",
+        "Main Card: Menal Topcu (0-0-0) vs. Gabor Kovacs (7-18-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/858694"
+      ]
+    }
+  },
+  {
+    "id": "usc-2022-07-02",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Aachen",
+      "#USC2"
+    ],
+    "mainCard": {
+      "title": "Ultimate Sparta Championship 2",
+      "time": "2022-07-02T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-usc-2-500",
+          "freeAfter": 72
+        }
+      }
+    }
+  },
+  {
+    "id": "senshi-2022-07-09",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Senshi12"
+    ],
+    "mainCard": {
+      "title": "Senshi 12",
+      "time": "2022-07-09T17:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/senshi-12/2pbjr/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbjr",
+        "time": "2022-07-09T17:00:00Z",
+        "title": "Senshi 12",
+        "url": "https://www.fite.tv/watch/senshi-12/2pbjr/",
+        "price": "FREE",
+        "sports": [
+          "MMA"
+        ]
       }
     }
   }

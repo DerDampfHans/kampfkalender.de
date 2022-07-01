@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220624T040133Z
-X-KAMPFKALENDER-HASH:1b4af65d55c82e7098924ecebd907ff3f9a6b458
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:a1cefdba6145ddd7ba33d1b4167a79c079066a8a
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220701T145346Z
 UID:2022-06-ares-fc-7-abdouraguimov-vs-amoussou@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 7: Abdouraguimov vs. Amoussou
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  adr Medkouri (3-0-0) vs. Alpha Cissokho (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220701T145346Z
 UID:2022-09-ares-fc-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 8
@@ -37,10 +37,12 @@ DTSTART:20220902T160000Z
 DTEND:20220902T190000Z
 CATEGORIES:ARES,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/88259-ares-fc-8
+ nter/events/88259-ares-fc-8\n\n---\n\nCo-Main Event: Alexandra Tekenah (
+ 2-0-0) vs. Ivana Petrović (4-0-0)\nMain Card: Moustapha Aida (9-1-0) vs.
+  Demarte Pena (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220701T145346Z
 UID:2022-11-ares-fc-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 9
@@ -51,7 +53,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/88260-ares-fc-9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220701T145346Z
 UID:2022-12-ares-fc-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 10

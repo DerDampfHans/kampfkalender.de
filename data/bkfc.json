@@ -1,5 +1,43 @@
 [
   {
+    "id": "tapology-90639",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFCTampa",
+      "#BKFCTampa2"
+    ],
+    "mainCard": {
+      "title": "BKFC Fight Night: Tampa 2",
+      "time": "2022-07-24T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 90639,
+      "time": "2022-07-24T01:00:00Z",
+      "title": "BKFC Fight Night: Tampa 2",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/90639-bkfc-fight-night-tampa-2",
+      "card": [
+        "Main Event: Jarod Grant vs. Reginald Barnett, Jr.",
+        "Co-Main Event: John Michael Escoboza vs. Jared Warren",
+        "Main Card: David Mundell vs. David Simpson",
+        "Main Card: Rynell Riley vs. Brynnen McIver",
+        "Main Card: Joshua Sanchez vs. Ryan Shough",
+        "Main Card: Stevo Morris vs. Glendel Futrell",
+        "Main Card: JR Ridge vs. Justyn Martinez"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-fight-night:b8059d30-348d-4747-9e8f-bebaec57c283"
+      ]
+    }
+  },
+  {
     "id": "tapology-90138",
     "promotion": "BKFC",
     "sports": [
@@ -10,10 +48,23 @@
     ],
     "mainCard": {
       "title": "BKFC 27: MVP vs. Platinum",
-      "time": "2022-08-20T20:00:00Z",
+      "time": "2022-08-21T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-27/2pbkj/"
         }
+      },
+      "fite": {
+        "id": "2pbkj",
+        "time": "2022-08-21T01:00:00Z",
+        "title": "BKFC 27: Michael Page vs Mike Perry",
+        "url": "https://www.fite.tv/watch/bkfc-27/2pbkj/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -25,7 +76,14 @@
       "card": [
         "Main Event: Michael Page vs. Mike Perry",
         "Main Card: Connor Tierney vs. Joe Elmore",
-        "Main Card: Sam Shewmaker vs. Mick Terrill"
+        "Main Card: Sam Shewmaker vs. Mick Terrill",
+        "Main Card: Jack Draper vs. Rob Cunningham",
+        "Main Card: John Hick vs. Ellis Shepherd",
+        "Main Card: Franco Tenaglia vs. Chas Symonds",
+        "Main Card: Conan Barbaru vs. Dan Vinni"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-27:8a621851-8e6a-4662-9855-03e1f93dafe8"
       ]
     }
   },
@@ -39,11 +97,24 @@
       "#BKFC28"
     ],
     "mainCard": {
-      "title": "BKFC Albuquerque",
-      "time": "2022-08-28T02:00:00Z",
+      "title": "BKFC 28: Ferea vs. Starling",
+      "time": "2022-08-28T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-28/2pbki/"
         }
+      },
+      "fite": {
+        "id": "2pbki",
+        "time": "2022-08-28T01:00:00Z",
+        "title": "BKFC 28: Christine Ferea vs Taylor Starling",
+        "url": "https://www.fite.tv/watch/bkfc-28/2pbki/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {

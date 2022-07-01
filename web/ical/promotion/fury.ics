@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220624T040133Z
-X-KAMPFKALENDER-HASH:c64d686336d05977b3f035ad97a13ac6677669ac
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:6705ad8c8f38bb830f6904a7e03443a68453d2fa
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-fury-fc-65-weems-vs-miller@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 65: Weems vs. Miller
@@ -32,5 +32,38 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ux (0-0-0) vs. Joseph Aguilar (1-1-0)\nMain Card: Rylan Melancon (0-0-0)
   vs. Cristian Lopez (1-2-0)\nMain Card: Yehia Riles (2-0-0) vs. Gilberto
   Melara (2-2-0)\nMain Card: Jason Asher (1-0-0) vs. Jaxon Parks (3-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-fury-fc-66-vazquez-vs-nakatani@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 66: Vazquez vs. Nakatani
+DTSTART:20220709T020000Z
+DTEND:20220709T050000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89282-fury-fc-66\n\n---\n\nMain Event: Gianni Vazquez (7-4-0
+ ) vs. Gilbert Nakatani (4-0-0)\nCo-Main Event: Tim Riscen (7-5-0) vs. Jo
+ se Avalos (6-3-0)\nMain Card: Devon Brock (7-5-0) vs. Adrian Guzman (6-3
+ -0)\nMain Card: Jeff Creighton (4-2-0) vs. Albert Gonzales (3-3-0)\nMain
+  Card: Sal Bruno (0-1-0) vs. Austin Liu (0-2-0)\nMain Card: Carlos Figue
+ roa (1-4-0) vs. Brock Dias (0-1-0)\nMain Card: Rafael Hernandez (1-3-0) 
+ vs. Mike Howard (0-2-0)\nMain Card: AJ Williams (2-2-0) vs. Luis Jauregu
+ i (4-2-0)\nMain Card: Holt Felkins (2-0-0) vs. Joshua Dillon (2-2-0)\nMa
+ in Card: Sal Bruno (0-1-0) vs. Austin Liu (0-2-0)\nMain Card: Gabby Lope
+ z (0-0-0) vs. Kathy Solorzano (0-2-0)\nMain Card: Rafael Hernandez (1-3-
+ 0) vs. Mike Howard (0-2-0)\nMain Card: Anthony Parham Jr. (1-1-0) vs. Ys
+ idro Gutierrez (5-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-fury-fc-67@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 67
+DTSTART:20220717T213000Z
+DTEND:20220718T003000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89284-fury-fc-67
 END:VEVENT
 END:VCALENDAR

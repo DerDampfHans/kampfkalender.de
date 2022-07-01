@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220626T154533Z
-X-KAMPFKALENDER-HASH:dfd4d8f6148883489ba7c6739aba015b2974a9b9
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:d258e60620851ab3890ca03067aaf1f1c2a55476
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-bkfc-26-brito-vs-palomino-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 26: Brito vs. Palomino 2
@@ -25,7 +25,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-07-bkb-27-curragh-vs-churcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 27: Curragh vs. Churcher
@@ -37,28 +37,49 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
  27/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
+UID:2022-07-bkfc-fight-night-tampa-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Fight Night: Tampa 2
+DTSTART:20220724T010000Z
+DTEND:20220724T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90639-bkfc-fight-night-tampa-2\nhttps://events.mixedmartialarts.com
+ /bkfc-fight-night:b8059d30-348d-4747-9e8f-bebaec57c283\n\n---\n\nMain Ev
+ ent: Jarod Grant vs. Reginald Barnett\, Jr.\nCo-Main Event: John Michael
+  Escoboza vs. Jared Warren\nMain Card: David Mundell vs. David Simpson\n
+ Main Card: Rynell Riley vs. Brynnen McIver\nMain Card: Joshua Sanchez vs
+ . Ryan Shough\nMain Card: Stevo Morris vs. Glendel Futrell\nMain Card: J
+ R Ridge vs. Justyn Martinez
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
-DTSTART:20220820T200000Z
-DTEND:20220820T230000Z
+DTSTART:20220821T010000Z
+DTEND:20220821T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/90138-bkfc-27-mvp-vs-perry\n\n---\n\nMain Event: Michael Page vs. M
- ike Perry\nMain Card: Connor Tierney vs. Joe Elmore\nMain Card: Sam Shew
- maker vs. Mick Terrill
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27/2pbkj/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/90138-bkfc-27-mvp-vs-perr
+ y\nhttps://events.mixedmartialarts.com/bkfc-27:8a621851-8e6a-4662-9855-0
+ 3e1f93dafe8\n\n---\n\nMain Event: Michael Page vs. Mike Perry\nMain Card
+ : Connor Tierney vs. Joe Elmore\nMain Card: Sam Shewmaker vs. Mick Terri
+ ll\nMain Card: Jack Draper vs. Rob Cunningham\nMain Card: John Hick vs. 
+ Ellis Shepherd\nMain Card: Franco Tenaglia vs. Chas Symonds\nMain Card: 
+ Conan Barbaru vs. Dan Vinni
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
-UID:2022-08-bkfc-albuquerque@kampfkalender.de
+DTSTAMP:20220701T145347Z
+UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Albuquerque
-DTSTART:20220828T020000Z
-DTEND:20220828T050000Z
+SUMMARY:BKFC 28: Ferea vs. Starling
+DTSTART:20220828T010000Z
+DTEND:20220828T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/90159-bkfc-fight-night-albuquerque\n\n---\n\nMain Event: Christine 
- Ferea vs. Taylor Starling
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/90159-bkfc-fight-night-al
+ buquerque\n\n---\n\nMain Event: Christine Ferea vs. Taylor Starling
 END:VEVENT
 END:VCALENDAR

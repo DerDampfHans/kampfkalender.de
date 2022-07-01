@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220626T154533Z
-X-KAMPFKALENDER-HASH:893285bf3242b2601f9d96debea7f2fdffcdcd62
+DTSTAMP:20220701T145346Z
+X-KAMPFKALENDER-HASH:41afdd0af9625f4db411769cf00063380836264b
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-heilbronner-boxnacht@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Heilbronner Boxnacht
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-he
  onner-boxnacht-mit-slawa-spomer/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-volkmarsener-fight-night-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Volkmarsener Fight Night 7
@@ -30,7 +30,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
  volkmarsener-fight-night-497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-austrian-fight-night-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Austrian Fight Night 5
@@ -41,7 +41,7 @@ DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/aus
  trian-fight-night-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -60,7 +60,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nMain Card: C. Toledo (4-0-0) vs. Attila Csereklye (10-26-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-06-rodriguez-vs-rungvisai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Rungvisai
@@ -78,7 +78,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  6-4-0)\nMain Card: Jesus Martinez (0-0-0) vs. Keven Monroy (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-07-briedis-vs-opetaia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Briedis vs. Opetaia
@@ -92,13 +92,79 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-july-
   Camilleri (22-7-1) vs. Koen Mazoudier (9-2-0)\nMain Card: Faris Chevali
  er (13-1-0) vs. Conor Wallace (8-1-0)\nMain Card: Beau Hartas (6-1-0) vs
  . Issac Hardman (12-1-0)\nMain Card: Taylah Robertson (5-1-0) vs. Yoseli
- n Fernandez (11-1-0)
+ n Fernandez (11-1-0)\nMain Card: Dana Coolwell (7-2-0) vs. Lorenz Ladrad
+ a (11-1-1)\nMain Card: Miles Zalewski (10-2-0) vs. Shiva Mishra (8-5-0)\
+ nMain Card: David Nyika (3-0-0) vs. Lui Marsters (0-0-0)\nMain Card: Aus
+ tin Aokuso (0-0-0) vs. Laurence Titter (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
-UID:2022-07-chisora-vs-kownacki@kampfkalender.de
+DTSTAMP:20220701T145347Z
+UID:2022-07-petko-s-beat-box-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Chisora vs. Kownacki
+SUMMARY:Petko's Beat & Box 2
+DTSTART:20220702T153000Z
+DTEND:20220702T183000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pe
+ tkos-beat-box-2-503\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90695-pyramide\nhttp://www.boxrec.com/en/event/858694\n\n---\n\nMain E
+ vent: Shefat Isufi (34-4-2) vs. Deniz Altz (0-0-0)\nCo-Main Event: Leon 
+ Harth (20-5-0) vs. Siril Makiadi (13-2-2)\nMain Card: Edin Avdic (0-0-0)
+  vs. Gabor Gorbics (26-29-2)\nMain Card: Mahmoud El Shibany (3-0-0) vs. 
+ Frane Radnic (11-31-0)\nMain Card: Chamseddine Lemjide (0-0-0) vs. Slavi
+ ša Simeunović (39-52-0)\nMain Card: Menal Topcu (0-0-0) vs. Gabor Kovacs
+  (7-18-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-boxing-after-dark-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Boxing After Dark 2
+DTSTART:20220702T160000Z
+DTEND:20220702T190000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ xing-after-dark-2-502\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/90688-boxing-after-dark\nhttp://www.boxrec.com/en/event/857360\n\n--
+ -\n\nMain Card: Yusuf Sultanoglu (10-1-0) vs. Rocky Zander (3-0-0)\nMain
+  Card: Adel El Garmoui (7-0-0) vs. Atilla Kayabasi (11-5-0)\nMain Card: 
+ Howik Bebraham (18-2-0) vs. Nestor Maradiaga (9-16-2)\nMain Card: Alexan
+ der Rigas (16-2-0) vs. Leonard Carillo (15-3-0)\nMain Card: Pietro Lorig
+ a (9-1-0) vs. Daniel Ibarguen (0-0-0)\nMain Card: Arton Berisha (13-0-0)
+  vs. Jiri Kroupa (4-3-0)\nMain Card: Khaled Gani (0-0-0) vs. Darko Jovic
+  (0-10-0)\nMain Card: Michael Rigas (0-0-0) vs. Stefan Bilbija (0-0-0)\n
+ Main Card: Onur Kocer (5-1-0) vs. Dario Borosa (1-17-0)\nMain Card: Vedr
+ an Soskan (2-8-0) vs. David Ayiti (0-0-0)\nMain Card: Seid Hodzic (0-10-
+ 0) vs. Zeljko Miskatovic (0-0-0)\nMain Card: Michel Gonxhe (2-2-1) vs. S
+ tefan Markovic (1-15-0)\nMain Card: Ago Artukovic (0-0-0) vs. Henry Karb
+ unara (0-0-0)\nMain Card: Osborn Mandela (3-1-0) vs. Dragan Dragojević (
+ 0-11-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-shvedenko-vs-scull@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shvedenko vs. Scull
+DTSTART:20220702T193000Z
+DTEND:20220702T223000Z
+CATEGORIES:ASE,Boxen,Bild TV,live,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90245-shvedenko-vs-scull\nhttp://www.boxrec.com/en/event/856997\n\n
+ ---\n\nMain Event: Evgeny Shvedenko (15-0-0) vs. William Scull (18-0-0)\
+ nMain Card: Petro Ivanov (15-0-2) vs. Robert Talarek (26-14-3)\nMain Car
+ d: Michelle Klich (4-0-0) vs. Delphine Mancini (4-0-0)\nMain Card: Andri
+ i Velikovskyi (20-2-2) vs. Catalin Paraschiveanu (0-0-0)\nMain Card: A. 
+ Vom Berge (0-0-0) vs. Mario Jagatic (0-0-0)\nMain Card: Karen Chukhadzhy
+ an (20-1-0) vs. Blake Minto (14-2-2)\nMain Card: Simon Zachenhuber (16-0
+ -0) vs. Mbemba Miesi (8-6-4)\nMain Card: Nathanael Lukoki (4-0-0) vs. Ba
+ toura Guirassy (7-9-2)\nMain Card: Tom Sander (5-0-0) vs. Ivan Njegac (1
+ 2-24-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220701T145347Z
+UID:2022-07-chisora-vs-pulev-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Chisora vs Pulev 2
 DTSTART:20220709T180000Z
 DTEND:20220709T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
@@ -106,10 +172,11 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/89604-chisora-vs-kownacki\n\n---\n\nMain Event: Dereck Chisora (32-12-
  0) vs. Kubrat Pulev (29-2-0)\nMain Card: Israil Madrimov (8-0-0) vs. Mic
  hel Soro (35-3-1)\nMain Card: Caoimhin Agyarko (11-0-0) vs. Lukasz Macie
- c (28-4-1)
+ c (28-4-1)\nMain Card: Ramla Ali (5-0-0) vs. Agustina Marisa Rojas (0-0-
+ 0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-07-garcia-vs-fortuna@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Fortuna
@@ -125,7 +192,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Prelim: Miguel Goana (0-0-0) vs. Jonathan Guzman (0-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -137,7 +204,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  aison (17-3-1)\nMain Card: Erica Farias (27-5-0) vs. Sandy Ryan (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-paul-vs-fury@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Fury
@@ -150,7 +217,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/90287-paul\nhttp:
  da Carabajal (19-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -162,7 +229,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  24-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-09-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -174,7 +241,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  k Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220626T154534Z
+DTSTAMP:20220701T145347Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
