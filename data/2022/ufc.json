@@ -3116,5 +3116,28 @@
         ]
       }
     }
+  },
+  {
+    "id": "ufc-2022-07-03",
+    "promotion": "UFC",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#UFCFightPassInvitational"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Pass Invitational 2",
+      "time": "2022-07-03T21:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 219041,
+        "time": "2022-07-03T21:00:00Z",
+        "title": "UFC Fight Pass Invitational 2"
+      }
+    }
   }
 ]
