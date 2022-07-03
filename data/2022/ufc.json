@@ -2990,5 +2990,131 @@
         ]
       }
     }
+  },
+  {
+    "id": "tapology-87604",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFC276"
+    ],
+    "mainCard": {
+      "title": "UFC 276: Adesanya vs. Cannonier",
+      "time": "2022-07-03T02:00:00Z",
+      "tags": [
+        "🎙@SebastianHackl",
+        "🎙@PeterSobotta"
+      ],
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 218600,
+        "time": "2022-07-03T02:00:00Z",
+        "title": "UFC 276: Adesanya vs Cannonier"
+      },
+      "dazn": {
+        "id": "zuoju4vtf8xf1lltpnn50r4b7",
+        "time": "2022-07-03T02:00:00Z",
+        "title": "UFC 276: Adesanya vs Cannonier (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Titelkampf im Mittelgewicht in Las Vegas: „Es wird spektakulär“ sagte Adesanya im Hinblick auf den bevorstehenden Kampf gegen Cannonier. Der Neuseeländer könnte mit einem Sieg seinen fünften Titel im Mittelgewicht holen und wäre dann nur noch einen Titel hinter dem alleinigen Rekordhalter Anderson Silva. // Kommentator: Sebastian Hackl / Experte: Peter Sobotta"
+      }
+    },
+    "prelims": {
+      "title": "UFC 276: Prelims",
+      "time": "2022-07-03T00:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 218593,
+        "time": "2022-07-03T00:00:00Z",
+        "title": "UFC 276: Prelims"
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC 276: Early Prelims",
+      "time": "2022-07-02T22:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 218592,
+        "time": "2022-07-02T22:00:00Z",
+        "title": "UFC 276: Fight Pass Prelims"
+      }
+    },
+    "tapology": {
+      "id": 87604,
+      "time": "2022-07-02T22:00:00Z",
+      "title": "UFC 276: Adesanya vs. Cannonier",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/87604-ufc-276",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Israel Adesanya (22-1-0) vs. Jared Cannonier (15-5-0)",
+        "Co-Main Event: Alexander Volkanovski (24-1-0) vs. Max Holloway (23-6-0)",
+        "Main Card: Sean Strickland (25-3-0) vs. Alex Pereira (5-1-0)",
+        "Main Card: Robbie Lawler (29-15-0) vs. Bryan Barberena (17-8-0)",
+        "Main Card: Pedro Munhoz (19-7-0) vs. Sean O'Malley (15-1-0)",
+        "Prelim: Brad Riddell (10-2-0) vs. Jalin Turner (12-5-0)",
+        "Prelim: Donald Cerrone (36-16-0) vs. Jim Miller (34-16-0)",
+        "Prelim: Ian Garry (9-0-0) vs. Gabe Green (11-3-0)",
+        "Prelim: Brad Tavares (19-6-0) vs. Dricus Du Plessis (16-2-0)",
+        "Prelim: Uriah Hall (17-10-0) vs. André Muniz (22-4-0)",
+        "Prelim: Jessica Eye (15-10-0) vs. Maycee Barber (10-2-0)",
+        "Prelim: Jessica-Rose Clark (11-7-0) vs. Julija Stoliarenko (9-6-1)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-276-adesanya-vs-cannonier-91882",
+        "http://en.wikipedia.org/wiki/UFC_276",
+        "https://events.mixedmartialarts.com/ufc-276:76eb79d1-293f-4703-8c6f-8ad6cd723e28",
+        "https://www.ufc.com/event/ufc-276",
+        "http://www.ufcstats.com/event-details/4a9e305633f3ef47",
+        "https://www.bestfightodds.com/events/ufc-276-2478"
+      ]
+    }
+  },
+  {
+    "id": "ufc-NIpLS_0Mg7I",
+    "promo": true,
+    "promotion": "UFC",
+    "tags": [
+      "#UFC",
+      "#UFC276"
+    ],
+    "mainCard": {
+      "title": "UFC 276: Post-Fight Press Conference",
+      "time": "2022-07-03T05:45:00Z",
+      "until": "2022-07-03T06:45:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=NIpLS_0Mg7I",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "NIpLS_0Mg7I",
+        "time": "2022-07-03T05:45:00Z",
+        "title": "UFC 276: Post-Fight Press Conference",
+        "url": "https://www.youtube.com/watch?v=NIpLS_0Mg7I",
+        "live": true,
+        "tags": [
+          "#UFC",
+          "#UFC276"
+        ]
+      }
+    }
   }
 ]
