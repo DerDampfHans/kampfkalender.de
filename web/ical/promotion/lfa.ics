@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220701T145346Z
-X-KAMPFKALENDER-HASH:d3af11f9ed1c1cc756a9e89118752f6ce1a438c6
+DTSTAMP:20220703T144118Z
+X-KAMPFKALENDER-HASH:a47d5d979dd6734064024c26b84b50bb907ced1f
 BEGIN:VEVENT
-DTSTAMP:20220701T145347Z
+DTSTAMP:20220703T144119Z
 UID:2022-07-lfa-135-leyva-vs-reis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 135: Leyva vs. Reis
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  it (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145347Z
+DTSTAMP:20220703T144119Z
 UID:2022-07-lfa-136-rio-de-janeiro-vs-sao-paulo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 136: Rio de Janeiro vs. São Paulo
@@ -50,7 +50,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Prelim: Ewerton Polaquini (5-3-0) vs. Alexandre Silva (7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145347Z
+DTSTAMP:20220703T144119Z
 UID:2022-07-lfa-137-gibson-vs-amil@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 137: Gibson vs. Amil
@@ -63,13 +63,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ney (10-3-0)\nMain Card: Jean-Paul Lebosnoyani (4-1-0) vs. Caleb Hall (4
  -0-0)\nMain Card: Cody Davis (5-0-0) vs. Mark Climaco (6-1-0)\nMain Card
  : Leandro Gomes (6-2-0) vs. Javier Garcia (8-5-0)\nMain Card: Billy Elek
- ana (4-0-0) vs. Daniel Compton (6-2-0)\nPrelim: Karlee Pangilinan (6-2-0
- ) vs. Mefi Monterroso (5-3-0)\nPrelim: Dione Barbosa (3-2-0) vs. Lisa Ma
- uldin (4-3-0)\nPrelim: Alandria Brown (1-1-0) vs. Jasmine Pouncy (1-1-0)
- \nPrelim: Jeffrey Craig (1-0-0) vs. Orlando Sanders (0-0-0)
+ ana (4-0-0) vs. Daniel Compton (6-2-0)\nMain Card: Pauline Macias (4-2-0
+ ) vs. Amber Brown (7-6-0)\nMain Card: Danny Silva (5-0-0) vs. Elijah Leg
+ gett (4-0-0)\nPrelim: Karlee Pangilinan (6-2-0) vs. Mefi Monterroso (5-3
+ -0)\nPrelim: Dione Barbosa (3-2-0) vs. Lisa Mauldin (4-3-0)\nPrelim: Ala
+ ndria Brown (1-1-0) vs. Jasmine Pouncy (1-1-0)\nPrelim: Jeffrey Craig (1
+ -0-0) vs. Orlando Sanders (0-0-0)\nPrelim: Emmanueli Adzoh (3-1-0) vs. T
+ yson Miller (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145347Z
+DTSTAMP:20220703T144119Z
 UID:2022-08-lfa-138-farias-vs-tanaka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 138: Farias vs. Tanaka
@@ -81,5 +84,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ias (11-3-0) vs. Michinori Tanaka (14-3-0)\nCo-Main Event: Askar Askar (
  13-2-0) vs. Diego Silva (14-7-0)\nMain Card: Elijah Johns (8-2-0) vs. Ma
  suto Kawana (5-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220703T144119Z
+UID:2022-08-lfa-139-assenza-vs-melo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 139: Assenza vs. Melo
+DTSTART:20220820T010000Z
+DTEND:20220820T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/90735-lfa-139-assenza-vs-melo\n\n---\n\nMain Event: Adam Ass
+ enza (16-6-0) vs. Junior Melo (11-5-0)
 END:VEVENT
 END:VCALENDAR
