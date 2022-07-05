@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220630T220304Z
-X-KAMPFKALENDER-HASH:b371848fa8c0bdc76429ef73f4bb674ac0316793
+DTSTAMP:20220705T131232Z
+X-KAMPFKALENDER-HASH:4d7132a51efe6a6a794129901e2061dbfe5038f4
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220705T131232Z
 UID:2022-06-vielversprechendster-ppv-2022-unsere-ufc-276-vorschau@kampfka
  lender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=W59uXLPhw5Q
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220630T220304Z
+DTSTAMP:20220705T131232Z
 UID:2022-06-so-werden-runden-im-mma-bewertet-punktrichter-clemens-werner-
  erklart-mma-judging@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,5 +28,17 @@ DTSTART:20220630T150000Z
 DTEND:20220630T160000Z
 CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-3pK3TlYnyM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T131232Z
+UID:2022-07-adesanya-und-volkanovski-dominieren-pereira-im-titelkampf-was
+ -jetzt-fur-holloway@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Adesanya und Volkanovski dominieren. Pereira im Titelkampf? Was j
+ etzt für Holloway?
+DTSTART:20220705T150000Z
+DTEND:20220705T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PtcXQvOStVM
 END:VEVENT
 END:VCALENDAR

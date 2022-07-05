@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220703T220305Z
-X-KAMPFKALENDER-HASH:7aa4920e45ef7c36e9260461c343553e79a6d898
+DTSTAMP:20220705T131232Z
+X-KAMPFKALENDER-HASH:80be0ac0ba2fd6c90821df2f8ac560fc662d269c
 BEGIN:VEVENT
-DTSTAMP:20220703T220305Z
+DTSTAMP:20220705T131232Z
 UID:2022-06-vielversprechendster-ppv-2022-unsere-ufc-276-vorschau@kampfka
  lender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=W59uXLPhw5Q
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220703T220305Z
+DTSTAMP:20220705T131232Z
 UID:2022-06-so-werden-runden-im-mma-bewertet-punktrichter-clemens-werner-
  erklart-mma-judging@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-3pK3TlYnyM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220703T220305Z
+DTSTAMP:20220705T131232Z
 UID:2022-07-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -38,5 +38,17 @@ DTSTART:20220703T160000Z
 DTEND:20220703T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=umGeIzSRRMo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T131232Z
+UID:2022-07-adesanya-und-volkanovski-dominieren-pereira-im-titelkampf-was
+ -jetzt-fur-holloway@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Adesanya und Volkanovski dominieren. Pereira im Titelkampf? Was j
+ etzt für Holloway?
+DTSTART:20220705T150000Z
+DTEND:20220705T163000Z
+CATEGORIES:CR,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PtcXQvOStVM
 END:VEVENT
 END:VCALENDAR
