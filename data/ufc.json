@@ -12,7 +12,7 @@
       "title": "UFC Vegas 58: Dos Anjos vs. Fiziev",
       "time": "2022-07-10T01:00:00Z",
       "tags": [
-        "🎙@BDKraniotakes"
+        "🎙@MarkBergmann"
       ],
       "broadcasters": {
         "DAZN": {
@@ -31,7 +31,7 @@
         "title": "UFC Fight Night: Dos Anjos vs Fiziev (Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
-        "description": "Aller guten Dinge sind drei – hoffentlich! Bereits zwei Mal wurde dieses Event verschoben. Im Februar gab es Visa-Probleme bei Fiziev und im März machte eine Coronainfektion von Fiziev den Kampf unmöglich. Jetzt sollte dem Duell im Leichtgewicht zwischen dem ehemaligen Champion Rafael dos Anjos und Rafael Fiziev, der mit einer Siegesserie von fünf Kämpfen in diesen Kampf geht, nichts mehr im Wege stehen. // Kommentator: Andreas Kraniotakes"
+        "description": "Aller guten Dinge sind drei – hoffentlich! Bereits zwei Mal wurde dieses Event verschoben. Im Februar gab es Visa-Probleme bei Fiziev und im März machte eine Coronainfektion von Fiziev den Kampf unmöglich. Jetzt sollte dem Duell im Leichtgewicht zwischen dem ehemaligen Champion Rafael dos Anjos und Rafael Fiziev, der mit einer Siegesserie von fünf Kämpfen in diesen Kampf geht, nichts mehr im Wege stehen. // Kommentator: Mark Bergmann"
       }
     },
     "prelims": {
@@ -83,7 +83,10 @@
     ],
     "mainCard": {
       "title": "UFC Long Island: Ortega vs. Rodriguez",
-      "time": "2022-07-16T22:00:00Z",
+      "time": "2022-07-16T18:00:00Z",
+      "tags": [
+        "🎙@MarkBergmann"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -92,7 +95,7 @@
       },
       "fightPass": {
         "id": 218699,
-        "time": "2022-07-16T22:00:00Z",
+        "time": "2022-07-16T18:00:00Z",
         "title": "UFC Fight Night: Ortega vs Rodriguez"
       },
       "dazn": {
@@ -100,19 +103,20 @@
         "time": "2022-07-16T18:00:00Z",
         "title": "UFC Fight Night: Ortega vs Rodriguez (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Mark Bergmann"
       }
     },
     "prelims": {
       "title": "UFC Long Island: Prelims",
-      "time": "2022-07-16T19:00:00Z",
+      "time": "2022-07-16T15:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 218698,
-        "time": "2022-07-16T19:00:00Z",
+        "time": "2022-07-16T15:00:00Z",
         "title": "UFC Fight Night: Ortega vs Rodriguez Prelims"
       }
     },
@@ -162,19 +166,32 @@
         "UFC_FIGHT_PASS": {
         }
       },
-      "dazn": {
-        "id": "e9fx99kikrgw1pdlmft8t8y5d",
+      "fightPass": {
+        "id": 219803,
         "time": "2022-07-23T19:00:00Z",
-        "title": "UFC Fight Night: Blaydes vs Aspinall (Hauptkämpfe)",
-        "sport": "MMA",
-        "competition": "UFC"
+        "title": "UFC Fight Night: Blaydes vs Aspinall"
       }
     },
     "prelims": {
       "title": "UFC London: Prelims",
+      "time": "2022-07-23T16:00:00Z",
       "broadcasters": {
+        "DAZN": {
+        },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 219800,
+        "time": "2022-07-23T16:00:00Z",
+        "title": "UFC Fight Night: Blaydes vs Aspinall Prelims"
+      },
+      "dazn": {
+        "id": "e9fx99kikrgw1pdlmft8t8y5d",
+        "time": "2022-07-23T16:00:00Z",
+        "title": "UFC Fight Night: Blaydes vs Aspinall (Vor- & Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "tapology": {
@@ -237,16 +254,28 @@
     },
     "prelims": {
       "title": "UFC 277: Prelims",
+      "time": "2022-07-31T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 219817,
+        "time": "2022-07-31T00:00:00Z",
+        "title": "UFC 277: Prelims"
       }
     },
     "earlyPrelims": {
       "title": "UFC 277: Early Prelims",
+      "time": "2022-07-30T22:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 219813,
+        "time": "2022-07-30T22:00:00Z",
+        "title": "UFC 277: Fight Pass Prelims"
       }
     },
     "tapology": {

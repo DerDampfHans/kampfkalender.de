@@ -4,31 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220703T144118Z
-X-KAMPFKALENDER-HASH:83ad7774144348f30e61b3a3c220c91461d1d614
+DTSTAMP:20220707T185908Z
+X-KAMPFKALENDER-HASH:5c0558ed24616114f04a310b9f1213c077efe946
 BEGIN:VEVENT
-DTSTAMP:20220703T144119Z
+DTSTAMP:20220707T185909Z
 UID:2022-08-gmc-28@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 28
 DTSTART:20220806T170000Z
 DTEND:20220806T200000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
-DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220806-gmc-28
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220806-gmc-28\n\
+ n---\n\nhttps://www.tapology.com/fightcenter/events/90351-gmc-fight-nigh
+ t\n\n---\n\nMain Card: Edilson França (8-7-0) vs. Michael Smolik (4-0-0)
+ \nMain Card: Tobias Balzer (2-1-0) vs. Daniel Schwindt (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220703T144119Z
-UID:2022-08-gmc-fight-night-16@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GMC Fight Night 16
-DTSTART:20220827T170000Z
-DTEND:20220827T200000Z
-CATEGORIES:GMC,MMA,gmc.tv,live
-DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
- nts/90351-gmc-fight-night
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220703T144119Z
+DTSTAMP:20220707T185909Z
 UID:2022-09-gmc-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 29
@@ -39,5 +31,16 @@ DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  nts/90352-gmc-29\n\n---\n\nMain Event: Selim Agaev (13-6-0) vs. Alexande
  r Wesner (8-5-0)\nCo-Main Event: Mick Mokoyoko (8-11-1) vs. Abeku Afful 
  (8-3-0)\nMain Card: Dino Starcevic (4-0-0) vs. Benny Bajrami (5-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220707T185909Z
+UID:2022-10-gmc-fight-night-16@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Fight Night 16
+DTSTART:20221015T170000Z
+DTEND:20221015T200000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/90353-gmc-30
 END:VEVENT
 END:VCALENDAR

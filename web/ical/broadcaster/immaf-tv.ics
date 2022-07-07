@@ -4,6 +4,28 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220701T220305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220707T185908Z
+X-KAMPFKALENDER-HASH:70de7e1b4c96bbfe7b561206718656c780b934a5
+BEGIN:VEVENT
+DTSTAMP:20220707T185909Z
+UID:2022-07-2022-immaf-oceania-championships-day-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:2022 IMMAF Oceania Championships: Day 1
+DTSTART:20220709T040000Z
+DTEND:20220709T070000Z
+CATEGORIES:IMMAF,MMA,immaf.tv,live
+DESCRIPTION:via immaf.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/90914-2022-immaf-oceania-championships-day-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220707T185909Z
+UID:2022-07-2022-immaf-oceania-championships-finals@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:2022 IMMAF Oceania Championships: Finals
+DTSTART:20220710T040000Z
+DTEND:20220710T070000Z
+CATEGORIES:IMMAF,MMA,UFC Fight Pass,immaf.tv,live
+DESCRIPTION:via UFC Fight Pass\nvia immaf.tv\n\n---\n\nhttps://www.tapolo
+ gy.com/fightcenter/events/90915-2022-immaf-oceania-championships-finals
+END:VEVENT
 END:VCALENDAR

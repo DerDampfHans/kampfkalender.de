@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#MagsayoVargas"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Magsayo vs. Vargas",
-      "time": "2022-07-10T02:00:00Z"
+      "time": "2022-07-10T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/magsayo-vs-vargas/2pblp/"
+        }
+      },
+      "fite": {
+        "id": "2pblp",
+        "time": "2022-07-10T01:00:00Z",
+        "title": "PBC: Mark Magsayo vs Rey Vargas",
+        "url": "https://www.fite.tv/watch/magsayo-vs-vargas/2pblp/",
+        "price": "$12.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 87688,
