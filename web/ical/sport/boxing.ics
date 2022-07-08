@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220707T185908Z
-X-KAMPFKALENDER-HASH:91bad9b571c4f3719fe5487e44508146488d04da
+DTSTAMP:20220708T165436Z
+X-KAMPFKALENDER-HASH:ddeac33a7d5c8e19eb4b4c1ec88b772a3a6163ad
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-briedis-vs-opetaia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Briedis vs. Opetaia
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wasserman-boxing-july-
  tin Aokuso (0-0-0) vs. Laurence Titter (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-petko-s-beat-box-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Petko's Beat & Box 2
@@ -45,7 +45,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pe
   (7-18-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-boxing-after-dark-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing After Dark 2
@@ -70,7 +70,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  0-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-shvedenko-vs-scull@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shvedenko vs. Scull
@@ -90,7 +90,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  2-24-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-chisora-vs-pulev-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs Pulev 2
@@ -109,7 +109,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-magsayo-vs-vargas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Magsayo vs. Vargas
@@ -120,13 +120,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/magsayo-vs-vargas/2pbl
  p/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/87688-magsayo-v
  s-vargas\nhttp://www.boxrec.com/en/event/851237\n\n---\n\nMain Event: Ma
  rk Magsayo (24-0-0) vs. Rey Vargas (35-0-0)\nCo-Main Event: Brandon Figu
- eroa (22-1-1) vs. Carlos Castro (27-1-0)\nMain Card: Rashidi Ellis (23-0
- -0) vs. Alberto Palmetta (17-1-0)\nMain Card: Frank Martin (15-0-0) vs. 
- Ricardo Nunez (23-3-0)\nMain Card: Ramon Cardenas (20-1-0) vs. Michell B
- anquez (20-1-0)
+ eroa (22-1-1) vs. Carlos Castro (27-1-0)\nMain Card: Frank Martin (15-0-
+ 0) vs. Jackson Marinez (19-2-0)\nMain Card: Rashidi Ellis (23-0-0) vs. J
+ ose Marrufo (13-10-2)\nPrelim: Ramon Cardenas (20-1-0) vs. Michell Banqu
+ ez (20-1-0)\nPrelim: John Rincon (6-0-0) vs. Archie Weah (9-14-0)\nPreli
+ m: Raymond Guajardo (5-1-0) vs. Dario Guerrero-Meneses (0-0-0)\nPrelim: 
+ Albert Gonzalez (0-0-0) vs. Alberto Alvarez (4-0-0)\nPrelim: Samuel Arno
+ ld (5-0-0) vs. A. Hernandez (6-13-1)\nPrelim: Sequiel Hernandez Jr. (0-0
+ -0) vs. Joshua Montoya (2-2-2)\nPrelim: Xavier Bocanegra (0-0-0) vs. Tra
+ vis Crawford (0-0-0)\nPrelim: Julio Gomez (1-1-2) vs. Fabian Diaz (0-0-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-randall-vs-pandzic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Randall vs. Pandzic
@@ -142,7 +148,27 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Johnson (7-0-0) vs. Devontae McDonald (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
+UID:2022-07-legacy-international-boxing-series-highlights@kampfkalender.d
+ e
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Legacy International Boxing Series (Highlights)
+DTSTART:20220716T232500Z
+DTEND:20220717T002000Z
+CATEGORIES:LSM,Boxen,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90246-legacy-international-boxing-series\nhttp://www.boxrec.com/en/
+ event/857334\n\n---\n\nMain Card: Ramona Graeff (0-0-0) vs. Alys Sanchez
+  (17-7-1)\nMain Card: Uwel Hernandez (13-1-0) vs. Kamer Maloku (16-2-0)\
+ nMain Card: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: J
+ ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Mike Pere
+ z (27-3-1) vs. Julio Cesar Calimeno (5-2-0)\nMain Card: Sarah Weidmann (
+ 0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout (34-5-1
+ ) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs. F. De
+  Almeida (9-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220708T165437Z
 UID:2022-07-garcia-vs-fortuna@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Fortuna
@@ -155,10 +181,10 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  l Kotey (23-3-0)\nMain Card: Ricardo Sandoval (20-1-0) vs. David Jimenez
   (11-0-0)\nMain Card: Lamont Roach Jr. (22-1-1) vs. Angel Rodriguez (20-
  1-0)\nPrelim: Diego De La Hoya (22-1-0) vs. Enrique Bernache (24-13-0)\n
- Prelim: Miguel Goana (0-0-0) vs. Jonathan Guzman (0-5-0)
+ Prelim: Miguel Goana (2-0-0) vs. Jonathan Guzman (0-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -170,7 +196,20 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  aison (17-3-1)\nMain Card: Erica Farias (27-5-0) vs. Sandy Ryan (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
+UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ortiz vs. McKinson
+DTSTART:20220807T010000Z
+DTEND:20220807T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89745-ortiz-vs-avanesyan\n\n---\n\nMain Event: Vergil Ortiz Jr. (18-0-
+ 0) vs. Mikey McKinson (22-0-0)\nMain Card: Seniesa Estrada (22-0-0) vs. 
+ Anabel Ortiz (31-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220708T165437Z
 UID:2022-08-paul-vs-rahman-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Rahman Jr.
@@ -183,7 +222,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/90287-paul\nhttp:
  . Brenda Carabajal (19-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -196,7 +235,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-09-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -208,7 +247,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  k Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220707T185909Z
+DTSTAMP:20220708T165437Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3

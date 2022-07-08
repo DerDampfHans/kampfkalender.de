@@ -41,7 +41,7 @@
         "Main Card: Ricardo Sandoval (20-1-0) vs. David Jimenez (11-0-0)",
         "Main Card: Lamont Roach Jr. (22-1-1) vs. Angel Rodriguez (20-1-0)",
         "Prelim: Diego De La Hoya (22-1-0) vs. Enrique Bernache (24-13-0)",
-        "Prelim: Miguel Goana (0-0-0) vs. Jonathan Guzman (0-5-0)"
+        "Prelim: Miguel Goana (2-0-0) vs. Jonathan Guzman (0-5-0)"
       ]
     }
   },
@@ -77,10 +77,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#OrtizMcKinson"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Ortiz vs. McKinson",
-      "time": "2022-08-07T02:00:00Z"
+      "time": "2022-08-07T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "pn52ww86w0ew1hlxur3wbjgbk",
+        "time": "2022-08-07T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Ortiz Jr. vs McKinson"
+      }
     },
     "tapology": {
       "id": 89745,

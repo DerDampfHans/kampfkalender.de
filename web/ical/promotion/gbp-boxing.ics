@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220624T040133Z
-X-KAMPFKALENDER-HASH:9a4c82a08198eaea00eaff0af67cc7f88f012cda
+DTSTAMP:20220708T165436Z
+X-KAMPFKALENDER-HASH:09df05bd36ca6803d73f39dc06f08f7611acd6d4
 BEGIN:VEVENT
-DTSTAMP:20220624T040134Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-garcia-vs-fortuna@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Fortuna
@@ -20,6 +20,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  l Kotey (23-3-0)\nMain Card: Ricardo Sandoval (20-1-0) vs. David Jimenez
   (11-0-0)\nMain Card: Lamont Roach Jr. (22-1-1) vs. Angel Rodriguez (20-
  1-0)\nPrelim: Diego De La Hoya (22-1-0) vs. Enrique Bernache (24-13-0)\n
- Prelim: Miguel Goana (0-0-0) vs. Jonathan Guzman (0-5-0)
+ Prelim: Miguel Goana (2-0-0) vs. Jonathan Guzman (0-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220708T165437Z
+UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ortiz vs. McKinson
+DTSTART:20220807T010000Z
+DTEND:20220807T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89745-ortiz-vs-avanesyan\n\n---\n\nMain Event: Vergil Ortiz Jr. (18-0-
+ 0) vs. Mikey McKinson (22-0-0)\nMain Card: Seniesa Estrada (22-0-0) vs. 
+ Anabel Ortiz (31-5-0)
 END:VEVENT
 END:VCALENDAR

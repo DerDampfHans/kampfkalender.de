@@ -4,6 +4,26 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220708T165436Z
+X-KAMPFKALENDER-HASH:847838d7ab5dfce4f64d8b4f9c0786dd25f74f9b
+BEGIN:VEVENT
+DTSTAMP:20220708T165437Z
+UID:2022-07-legacy-international-boxing-series-highlights@kampfkalender.d
+ e
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Legacy International Boxing Series (Highlights)
+DTSTART:20220716T232500Z
+DTEND:20220717T002000Z
+CATEGORIES:LSM,Boxen,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90246-legacy-international-boxing-series\nhttp://www.boxrec.com/en/
+ event/857334\n\n---\n\nMain Card: Ramona Graeff (0-0-0) vs. Alys Sanchez
+  (17-7-1)\nMain Card: Uwel Hernandez (13-1-0) vs. Kamer Maloku (16-2-0)\
+ nMain Card: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: J
+ ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Mike Pere
+ z (27-3-1) vs. Julio Cesar Calimeno (5-2-0)\nMain Card: Sarah Weidmann (
+ 0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout (34-5-1
+ ) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs. F. De
+  Almeida (9-5-0)
+END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220701T145836Z
-X-KAMPFKALENDER-HASH:a75c6ed42ad8c21b1496f18ff888fe9e7b15e1d5
+DTSTAMP:20220708T165436Z
+X-KAMPFKALENDER-HASH:80bd8e10e147f76a01a0a711411dd55a5efc055d
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2022-07-shvedenko-vs-scull@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shvedenko vs. Scull
@@ -27,7 +27,63 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  2-24-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
+UID:2022-07-ksw-71-zio-kowski-vs-rajewski-highlights@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 71: Ziółkowski vs. Rajewski (Highlights)
+DTSTART:20220709T220000Z
+DTEND:20220709T225500Z
+CATEGORIES:KSW,MMA,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/89597-ksw-71\nhttp://www.sherdog.com/events/ksw-71-ziolkowski-vs-ra
+ jewski-93332\nhttps://events.mixedmartialarts.com/ksw-71:77a661e4-4ee7-4
+ 874-b242-90f38282a9ae\nhttps://www.bestfightodds.com/events/ksw-2562\n\n
+ ---\n\nMain Event: Marian Ziółkowski vs. Sebastian Rajewski\nCo-Main Eve
+ nt: Errol Zimmerman vs. Marcin Różalski\nMain Card: Daniel Torres vs. Bo
+ rys Mańkowski\nMain Card: Artur Szpilka vs. Serhiy Radchenko\nMain Card:
+  Roman Szymański vs. Valeriu Mircea\nMain Card: Jakub Wikłacz vs. Bruno 
+ Santos\nMain Card: Michal Martínek vs. Filip Stawowy\nPrelim: Donovan De
+ smae vs. Artur Sowiński\nPrelim: Marc Doussis vs. Przemysław Dzwoniarek
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220708T165437Z
+UID:2022-07-legacy-international-boxing-series-highlights@kampfkalender.d
+ e
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Legacy International Boxing Series (Highlights)
+DTSTART:20220716T232500Z
+DTEND:20220717T002000Z
+CATEGORIES:LSM,Boxen,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90246-legacy-international-boxing-series\nhttp://www.boxrec.com/en/
+ event/857334\n\n---\n\nMain Card: Ramona Graeff (0-0-0) vs. Alys Sanchez
+  (17-7-1)\nMain Card: Uwel Hernandez (13-1-0) vs. Kamer Maloku (16-2-0)\
+ nMain Card: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: J
+ ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Mike Pere
+ z (27-3-1) vs. Julio Cesar Calimeno (5-2-0)\nMain Card: Sarah Weidmann (
+ 0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout (34-5-1
+ ) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs. F. De
+  Almeida (9-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220708T165437Z
+UID:2022-07-ksw-72-romanowski-vs-grzebyk-highlights@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 72: Romanowski vs. Grzebyk (Highlights)
+DTSTART:20220723T222500Z
+DTEND:20220723T225500Z
+CATEGORIES:KSW,MMA,Bild TV,kostenlos
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90216-ksw-72\n\n---\n\nMain Event: Tomasz Romanowski (15-8-0) vs. A
+ ndrzej Grzebyk (18-5-0)\nCo-Main Event: Patryk Kaczmarczyk (8-1-0) vs. D
+ awid Śmiełowski (9-0-0)\nMain Card: Oumar Sy (6-0-0) vs. Hasan Mezhiev (
+ 12-0-0)\nMain Card: Emilia Czerwińska (1-0-0) vs. Sara Luzar Smajić (4-1
+ -0)\nMain Card: Patryk Surdyn (6-2-0) vs. Gustavo Oliveira (8-1-0)\nPrel
+ im: Hubert Szymajda (9-5-0) vs. Yann Liasse (7-1-0)\nPrelim: Robert Maci
+ ejowski (5-4-1) vs. Arkadiusz Kaszuba (3-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220708T165437Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -38,7 +94,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -49,7 +105,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -60,7 +116,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -71,7 +127,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -82,7 +138,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2023-02-we-love-mma-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 64
@@ -93,7 +149,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -104,7 +160,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220701T145836Z
+DTSTAMP:20220708T165437Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
