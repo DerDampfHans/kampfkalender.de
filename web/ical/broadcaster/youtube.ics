@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220709T053315Z
-X-KAMPFKALENDER-HASH:76d551b246d7eac7f88fde9727cc44fd44229bc5
+DTSTAMP:20220709T070005Z
+X-KAMPFKALENDER-HASH:52e8e7b6e77d062ede60696454ebcded3e95fb61
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-ufc-276-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276: Post-Fight Press Conference
@@ -17,7 +17,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=NIpLS_0Mg7I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -27,7 +27,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=umGeIzSRRMo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-adesanya-und-volkanovski-dominieren-pereira-im-titelkampf-was
  -jetzt-fur-holloway@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -39,7 +39,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PtcXQvOStVM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-donald-cerrone-beendet-legendare-karriere-sean-o-malley-zeleb
  riert-eyepoke@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -51,7 +51,7 @@ CATEGORIES:CR,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=HfdrwW3kBeU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-mma-unfolded-rundgang-um-den-mma-cage@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MMA Unfolded: Rundgang um den MMA Cage
@@ -61,7 +61,7 @@ CATEGORIES:MMAU,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LWLjCi0Oqro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-bellator-283-lima-vs-jackson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 283: Lima vs. Jackson
@@ -82,7 +82,17 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  es (3-0-0) vs. Kevin Hand (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
+UID:2022-07-ufc-vegas-58-post-fight-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 58: Post-Fight Press Conference
+DTSTART:20220710T043000Z
+DTEND:20220710T053000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CVLJnzh51uA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220709T070005Z
 UID:2022-07-schlagwort-podcast-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -92,7 +102,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=IVb0_6LdRIY
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-invicta-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 48
@@ -109,7 +119,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Norton (1-1-0) vs. Maria Djukic (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -129,7 +139,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Prelim: Lea Bivins (0-0-0) vs. Zeba Bano (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-08-bellator-284-gracie-vs-yamauchi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 284: Gracie vs. Yamauchi
@@ -148,7 +158,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-08-one-160-le-vs-tang@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160: Le vs. Tang
@@ -160,7 +170,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  vs. Kai Tang (14-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Moraes vs. Johnson 2
@@ -172,7 +182,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  : Adriano Moraes (20-3-0) vs. Demetrious Johnson (23-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053316Z
+DTSTAMP:20220709T070005Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220709T053315Z
-X-KAMPFKALENDER-HASH:9be97a79eb6228ce3c2313ba910b52817f2374ed
+DTSTAMP:20220709T070005Z
+X-KAMPFKALENDER-HASH:ab85b9941faa83ab3e39da8c8a22f712dc7b356d
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-shvedenko-vs-scull@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shvedenko vs. Scull
@@ -27,7 +27,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  2-24-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-ufc-276-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 276: Post-Fight Press Conference
@@ -37,7 +37,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=NIpLS_0Mg7I
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-senshi-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 12
@@ -47,7 +47,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-12/2pbjr/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-ksw-71-zio-kowski-vs-rajewski-highlights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 71: Ziółkowski vs. Rajewski (Highlights)
@@ -66,7 +66,17 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  smae vs. Artur Sowiński\nPrelim: Marc Doussis vs. Przemysław Dzwoniarek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
+UID:2022-07-ufc-vegas-58-post-fight-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 58: Post-Fight Press Conference
+DTSTART:20220710T043000Z
+DTEND:20220710T053000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CVLJnzh51uA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220709T070005Z
 UID:2022-07-eagle-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 48
@@ -91,7 +101,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  magomedov (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-legacy-international-boxing-series-highlights@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -111,7 +121,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Almeida (9-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-invicta-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 48
@@ -128,7 +138,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Norton (1-1-0) vs. Maria Djukic (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
@@ -148,7 +158,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Prelim: Lea Bivins (0-0-0) vs. Zeba Bano (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-07-ksw-72-romanowski-vs-grzebyk-highlights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 72: Romanowski vs. Grzebyk (Highlights)
@@ -166,7 +176,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ski (5-4-1) vs. Arkadiusz Kaszuba (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -186,7 +196,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ain Card: Islam Dulatov (6-1-0) vs. Kleverson Sampaio (12-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-08-nfc-10-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Coga vs. Özyildirim
@@ -207,7 +217,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-08-one-160-le-vs-tang@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160: Le vs. Tang
@@ -219,7 +229,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  vs. Kai Tang (14-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Moraes vs. Johnson 2
@@ -231,7 +241,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  : Adriano Moraes (20-3-0) vs. Demetrious Johnson (23-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -242,7 +252,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -252,7 +262,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -264,7 +274,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -275,7 +285,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -287,7 +297,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -298,7 +308,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -309,7 +319,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -320,7 +330,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -332,7 +342,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -344,7 +354,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90362-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2023-02-we-love-mma-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 64
@@ -355,7 +365,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -366,7 +376,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T053315Z
+DTSTAMP:20220709T070005Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
