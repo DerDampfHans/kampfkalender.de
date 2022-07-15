@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#Wuppertal"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Legacy International Boxing Series",
-      "time": "2022-07-15T18:00:00Z"
+      "time": "2022-07-15T15:45:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/legacy-int-boxing-series-july-2022/2pbje/"
+        }
+      },
+      "fite": {
+        "id": "2pbje",
+        "time": "2022-07-15T15:45:00Z",
+        "title": "Legacy International Boxing Series, July 2022",
+        "url": "https://www.fite.tv/watch/legacy-int-boxing-series-july-2022/2pbje/",
+        "price": "$14.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 90246,
@@ -38,7 +55,7 @@
     }
   },
   {
-    "id": "lsm-boxing-2022-07-16",
+    "id": "legacy-2022-07-16",
     "live": false,
     "promotion": "LSM_BOXING",
     "sports": [
@@ -48,12 +65,11 @@
       "#Wuppertal"
     ],
     "mainCard": {
-      "title": "Legacy International Boxing Series (Highlights)",
-      "time": "2022-07-16T23:25:00Z",
-      "until": "2022-07-17T00:20:00Z",
+      "title": "Legacy International Boxing Series (Re-Live)",
+      "time": "2022-07-16T22:55:00Z",
+      "until": "2022-07-17T00:45:00Z",
       "broadcasters": {
         "BILD_TV": {
-          "free": true
         }
       }
     },
