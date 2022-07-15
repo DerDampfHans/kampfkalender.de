@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220708T165436Z
-X-KAMPFKALENDER-HASH:09df05bd36ca6803d73f39dc06f08f7611acd6d4
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:74fd1942391205ebf97f93e32b31146f574fb542
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-garcia-vs-fortuna@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Fortuna
@@ -15,15 +15,31 @@ DTSTART:20220717T000000Z
 DTEND:20220717T030000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/89529-estrada-vs-franco\n\n---\n\nMain Event: Ryan Garcia (22-0-0) vs.
-  Javier Fortuna (37-3-1)\nCo-Main Event: Alexis Rocha (19-1-0) vs. Samue
- l Kotey (23-3-0)\nMain Card: Ricardo Sandoval (20-1-0) vs. David Jimenez
-  (11-0-0)\nMain Card: Lamont Roach Jr. (22-1-1) vs. Angel Rodriguez (20-
- 1-0)\nPrelim: Diego De La Hoya (22-1-0) vs. Enrique Bernache (24-13-0)\n
- Prelim: Miguel Goana (2-0-0) vs. Jonathan Guzman (0-5-0)
+ s/89529-estrada-vs-franco\nhttp://www.boxrec.com/en/event/856863\n\n---\
+ n\nMain Event: Ryan Garcia (22-0-0) vs. Javier Fortuna (37-3-1)\nCo-Main
+  Event: Alexis Rocha (19-1-0) vs. Luis Alberto Veron (19-4-2)\nMain Card
+ : Ricardo Sandoval (20-1-0) vs. David Jimenez (11-0-0)\nMain Card: Lamon
+ t Roach Jr. (22-1-1) vs. Angel Rodriguez (20-1-0)\nMain Card: Victorio S
+ aludar (21-5-0) vs. Oscar Collazo (4-0-0)\nPrelim: Diego De La Hoya (22-
+ 1-0) vs. Enrique Bernache (24-13-0)\nPrelim: Lawrence King (11-1-0) vs. 
+ Edgar Valenzuela (6-0-0)\nPrelim: Miguel Goana (2-0-0) vs. Abdiel Padill
+ a (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
+UID:2022-07-gonzalez-vs-angulo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gonzalez vs. Angulo
+DTSTART:20220729T010000Z
+DTEND:20220729T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90495-gonzalez-vs-angulo\n\n---\n\nMain Card: Jousce Gonzalez (12-0-1)
+  vs. Jose Angulo (14-2-0)\nMain Card: Manuel Flores (12-0-0) vs. Daniel 
+ Moncada (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
 UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz vs. McKinson

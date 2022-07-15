@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#BarbozaZorrilla"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Barboza vs. Zorrilla",
-      "time": "2022-07-16T02:00:00Z"
+      "time": "2022-07-16T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/top-rank-barboza-vs-zorrilla/2pbmq/"
+        }
+      },
+      "fite": {
+        "id": "2pbmq",
+        "time": "2022-07-16T01:00:00Z",
+        "title": "Top Rank: Arnold Barboza Jr. vs Danielito Zorrilla",
+        "url": "https://www.fite.tv/watch/top-rank-barboza-vs-zorrilla/2pbmq/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 89743,
@@ -21,38 +38,15 @@
       ],
       "card": [
         "Main Event: Arnold Barboza Jr. (26-0-0) vs. Danielito Zorrilla (16-0-0)",
-        "Main Card: Keyshawn Davis (5-0-0) vs. Jair Valtierra (14-1-0)",
         "Main Card: Richard Torrez Jr. (0-0-0) vs. Roberto Zavala Jr (2-1-1)",
-        "Main Card: Floyd Diaz (5-0-0) vs. Pedro Salome (3-0-1)",
-        "Main Card: Austin Brooks (6-0-0) vs. Victor Saravia (1-2-0)"
+        "Main Card: Jair Valtierra (14-1-0) vs. Raymond Muratalla (14-0-0)",
+        "Main Card: Stephan Shaw (16-0-0) vs. Bernardo Marquez (14-4-1)",
+        "Prelim: Floyd Diaz (5-0-0) vs. Pedro Salome (3-0-1)",
+        "Prelim: Austin Brooks (6-0-0) vs. Victor Saravia (1-2-0)",
+        "Prelim: Jorge Marron Jr (20-2-1) vs. Adrian Yung (26-7-2)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/856478"
-      ]
-    }
-  },
-  {
-    "id": "tapology-88882",
-    "promotion": "TR_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "mainCard": {
-      "hidden": true,
-      "title": "Pedraza vs. Commey",
-      "time": "2022-07-24T02:00:00Z"
-    },
-    "tapology": {
-      "id": 88882,
-      "time": "2022-08-28T02:00:00Z",
-      "title": "Pedraza vs. Commey",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/88882-pedraza-vs-commey",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Jose Pedraza (29-4-0) vs. Richard Commey (30-4-0)"
       ]
     }
   },
@@ -62,10 +56,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#GonzalezDogboe"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Gonzalez vs. Dogboe",
-      "time": "2022-07-24T02:00:00Z"
+      "time": "2022-07-24T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/top-rank-gonzalez-vs-dogboe/2pbmp/"
+        }
+      },
+      "fite": {
+        "id": "2pbmp",
+        "time": "2022-07-24T01:00:00Z",
+        "title": "Top Rank: Joet Gonzalez vs Isaac Dogboe",
+        "url": "https://www.fite.tv/watch/top-rank-gonzalez-vs-dogboe/2pbmp/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 90125,
@@ -83,12 +94,43 @@
         "Main Card: Pachino Hill (7-0-1) vs. Javier Martinez (6-0-0)",
         "Main Card: Colton Warner (4-1-0) vs. Jimmy Barnes (1-2-0)",
         "Main Card: Tony Woods (10-0-0) vs. Darryl Jones (4-4-1)",
+        "Main Card: Guido Vianello (8-0-1) vs. Rafael Rios (11-3-0)",
+        "Main Card: Abdullah Mason (0-0-0) vs. Luis Fernandez (0-0-0)",
         "Prelim: Antonio Mireles (0-0-0) vs. Dennys Reyes (0-0-0)",
         "Prelim: Thomas Matlon (0-0-0) vs. Cayman Audie (1-1-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/857491"
       ]
+    }
+  },
+  {
+    "id": "toprank-2022-08-06",
+    "promotion": "TR_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#ConlanMarriaga"
+    ],
+    "mainCard": {
+      "title": "Conlan vs. Marriaga",
+      "time": "2022-08-06T18:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/top-rank-conlan-vs-marriaga/2pbmv/"
+        }
+      },
+      "fite": {
+        "id": "2pbmv",
+        "time": "2022-08-06T18:00:00Z",
+        "title": "Top Rank: Michael Conlan vs Miguel Marriaga",
+        "url": "https://www.fite.tv/watch/top-rank-conlan-vs-marriaga/2pbmv/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     }
   },
   {
@@ -106,13 +148,21 @@
       "id": 89944,
       "time": "2022-08-14T02:00:00Z",
       "title": "Lopez vs. Campa",
-      "info": "Rumored Upcoming Boxing Event",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/89944-lopez-vs-campa",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Teofimo Lopez (16-1-0) vs. Pedro Campa (34-1-1)"
+        "Main Event: Teofimo Lopez (16-1-0) vs. Pedro Campa (34-1-1)",
+        "Main Card: Xander Zayas (13-0-0) vs. Elias Espadas (22-4-0)",
+        "Main Card: Andres Cortes (17-0-0) vs. Abraham Montoya (20-3-1)",
+        "Main Card: Duke Ragan (6-0-0) vs. D'Angelo Fuentes (7-0-0)",
+        "Main Card: Troy Isley (6-0-0) vs. Victor Toney (5-1-1)",
+        "Main Card: Jose Enrique Vivas (21-2-0) vs. Eddy Valencia (17-7-6)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/859212"
       ]
     }
   },
@@ -142,7 +192,41 @@
         "Main Card: Giovani Santillan (29-0-0) vs. Rodolfo Orozco (31-2-3)",
         "Main Card: Xavier Martinez (17-1-0) vs. Alejandro Guerrero (12-2-0)",
         "Main Card: Miguel Contreras (11-1-1) vs. Diego Torres (13-0-0)",
-        "Main Card: Nico Ali Walsh (0-0-0) vs. Reyes Sanchez (0-0-0)"
+        "Main Card: Nico Ali Walsh (0-0-0) vs. Reyes Sanchez (0-0-0)",
+        "Main Card: Luis Alberto Lopez (25-2-0) vs. Yeison Vargas (21-10-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/858842"
+      ]
+    }
+  },
+  {
+    "id": "tapology-88882",
+    "promotion": "TR_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Pedraza vs. Commey",
+      "time": "2022-08-28T02:00:00Z"
+    },
+    "tapology": {
+      "id": 88882,
+      "time": "2022-08-28T02:00:00Z",
+      "title": "Pedraza vs. Commey",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/88882-pedraza-vs-commey",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Jose Pedraza (29-4-0) vs. Richard Commey (30-4-0)",
+        "Co-Main Event: Jared Anderson (11-0-0) vs. Miljan Rovcanin (24-2-0)",
+        "Main Card: Efe Ajagba (15-1-0) vs. Jozsef Darmos (14-4-3)",
+        "Main Card: Delante Johnson (0-0-0) vs. Harry Gigliotti (8-3-0)",
+        "Main Card: Kelvin Davis (26-11-0) vs. S. Chaves (5-4-0)",
+        "Main Card: Frevian Gonzalez (5-1-0) vs. Gerardo Esquivel (2-2-0)"
       ]
     }
   },

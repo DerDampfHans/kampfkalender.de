@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220709T220304Z
-X-KAMPFKALENDER-HASH:e51c04d143552d3f25ae61b542fac6ec00a1cbc8
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:295d24bb25fb9a84aff444f245420673130beb8c
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-jck-fight-night-week-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: Week 11
@@ -28,25 +28,36 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  s. Kun Zhou (4-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-jck-fight-night-week-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: Week 12
-DTSTART:20220716T110000Z
-DTEND:20220716T140000Z
-CATEGORIES:JCK,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/90840-jck-fight-night-2022-week-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
-UID:2022-07-jck-fight-night-week-13@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:JCK Fight Night: Week 13
-DTSTART:20220722T110000Z
-DTEND:20220722T140000Z
+DTSTART:20220723T110000Z
+DTEND:20220723T140000Z
 CATEGORIES:JCK,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/90841-jck-fight-night-2022-week-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-07-jck-fight-night-2022-week-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:JCK Fight Night 2022: Week 13
+DTSTART:20220730T110000Z
+DTEND:20220730T140000Z
+CATEGORIES:JCK,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91147-jck-fight-night-2022-week-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-08-jck-fight-night-2022-week-14@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:JCK Fight Night 2022: Week 14
+DTSTART:20220806T110000Z
+DTEND:20220806T140000Z
+CATEGORIES:JCK,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91148-jck-fight-night-2022-week-14
 END:VEVENT
 END:VCALENDAR

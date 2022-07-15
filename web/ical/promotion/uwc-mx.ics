@@ -4,6 +4,24 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220702T013927Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:80b44b7ecd20f662d1cc63d43b7a280a2eed9fa5
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-07-uwc-36@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UWC 36
+DTSTART:20220730T010000Z
+DTEND:20220730T040000Z
+CATEGORIES:UWCM,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91050-uwc-36\n\n---\n\nMain Card: Mahatma Garcia Avalos (10-
+ 8-1) vs. Juan Diaz (8-1-1)\nMain Card: Sóslenis Carvalho (13-12-0) vs. C
+ hristian Cerda (6-6-0)\nMain Card: Oscar Vazquez (0-1-0) vs. Brandon Uru
+ churtu (1-4-0)\nMain Card: Braian Gonzalez (8-2-0) vs. Roberto Luna (3-1
+ -0)\nMain Card: Victor Kuiks (1-0-0) vs. Luis Guzman (1-2-0)\nMain Card:
+  Bryan Martinez (4-2-0) vs. Hugo Torres (3-1-0)\nMain Card: Melany Gomez
+  (0-0-0) vs. Dayerlin Colmenares (0-2-0)\nMain Card: Luis Elias (0-0-0) 
+ vs. Derik Rodríguez (0-0-0)
+END:VEVENT
 END:VCALENDAR

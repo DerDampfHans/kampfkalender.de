@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220708T165436Z
-X-KAMPFKALENDER-HASH:f86808ef75f2bc5b6603aa2650b5e8b8e56c90ea
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:137fcfb793792d605523bf9cd64bf1e912d76f90
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-bellator-283-lima-vs-jackson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 283: Lima vs. Jackson
@@ -28,7 +28,28 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  es (3-0-0) vs. Kevin Hand (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
+UID:2022-07-bellator-283-lima-vs-jackson-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 283: Lima vs. Jackson
+DTSTART:20220722T230000Z
+DTEND:20220723T020000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/89188-bellator-mm
+ a\n\n---\n\nMain Event: Douglas Lima (32-10-0) vs. Jason Jackson (15-4-0
+ )\nCo-Main Event: Sidney Outlaw (16-4-0) vs. Tofiq Musayev (18-4-0)\nMai
+ n Card: Usman Nurmagomedov (14-0-0) vs. Chris Gonzalez (7-1-0)\nMain Car
+ d: Lorenz Larkin (24-7-0) vs. Mukhamed Berkhamov (15-1-0)\nMain Card: Da
+ vion Franklin (5-0-0) vs. Marcelo Golm (9-3-0)\nPrelim: Romero Cotton (6
+ -0-0) vs. Dalton Rosta (6-0-0)\nPrelim: Veta Arteaga (6-4-0) vs. Vanessa
+  Porto (23-9-0)\nPrelim: Gadzhi Rabadanov (17-4-2) vs. Bobby King (12-4-
+ 0)\nPrelim: Jaylon Bates (5-0-0) vs. Mark Coates (10-7-0)\nPrelim: Roman
+  Faraldo (7-0-0) vs. Luis Iniguez (5-1-0)\nPrelim: Kai Kamaka III (9-5-1
+ ) vs. Akhmed Magomedov (8-0-0)\nPrelim: Ethan Hughes (3-0-0) vs. Kevin H
+ and (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
 UID:2022-08-bellator-284-gracie-vs-yamauchi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 284: Gracie vs. Yamauchi
@@ -44,10 +65,12 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ennett (12-7-1) vs. Justine Kish (8-5-0)\nPrelim: Sarvadzhon Khamidov (1
  3-0-0) vs. Jared Scoggins (10-2-0)\nPrelim: Mitchell McKee (2-0-0) vs. T
  ony Ortega (5-4-0)\nPrelim: Bailey Schoenfelder (2-0-0) vs. Mark Currier
-  (1-1-0)
+  (1-1-0)\nPrelim: Austin Vanderford (11-1-0) vs. Anthony Adams (9-2-0)\n
+ Prelim: Josh Hill (21-4-0) vs. Matheus Mattos (13-2-1)\nPrelim: Patrick 
+ Downey (0-0-0) vs. Jeff Souder (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally

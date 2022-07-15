@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220709T220304Z
-X-KAMPFKALENDER-HASH:69236281c5289aa3c6d56fea1e1f62fb572385f7
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:026389ff4b8bd5433d5cd7d1acbc8cf4b08cae94
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-chisora-vs-pulev-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Chisora vs Pulev 2
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  (1-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-magsayo-vs-vargas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Magsayo vs. Vargas
@@ -48,7 +48,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/magsayo-vs-vargas/2pbl
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-randall-vs-pandzic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Randall vs. Pandzic
@@ -61,10 +61,97 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -1)\nMain Card: Andrew Murphy (5-0-0) vs. Isaiah Jones (9-6-0)\nMain Car
  d: W. Hernandez-Gomez (8-2-0) vs. Margarito Hernandez (2-2-1)\nMain Card
  : Alarenz Reynolds (4-0-0) vs. Joseph Aguilar (2-0-1)\nMain Card: Chris 
- Johnson (7-0-0) vs. Devontae McDonald (0-0-0)
+ Johnson (7-0-0) vs. Devontae McDonald (0-0-0)\nMain Card: Bryan Sanchez 
+ (1-0-0) vs. Dyllon Cervantes (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
+UID:2022-07-legacy-international-boxing-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Legacy International Boxing Series
+DTSTART:20220715T154500Z
+DTEND:20220715T184500Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/legacy-int-boxing-seri
+ es-july-2022/2pbje/\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90246-legacy-international-boxing-series\nhttp://www.boxrec.com/en/eve
+ nt/857334\n\n---\n\nMain Card: Ramona Graeff (0-0-0) vs. Alys Sanchez (1
+ 7-7-1)\nMain Card: Uwel Hernandez (13-1-0) vs. Kamer Maloku (16-2-0)\nMa
+ in Card: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: Jame
+ s Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Sarah Weidma
+ nn (0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout (34
+ -5-1) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs. F
+ . De Almeida (9-5-0)\nMain Card: Firat Arslan (51-9-3) vs. Juan Rodolfo 
+ Juarez (20-6-0)\nMain Card: Natalie Zimmermann (8-0-0) vs. Bojana Libisz
+ ewska (7-46-0)\nMain Card: Timo Rost (10-1-3) vs. Mariusz Biskupski (23-
+ 49-2)\nMain Card: Franklyn Dwomoh (0-0-0) vs. Giorgi Gachechiladze (11-4
+ 2-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-07-barboza-vs-zorrilla@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Barboza vs. Zorrilla
+DTSTART:20220716T010000Z
+DTEND:20220716T040000Z
+CATEGORIES:TR,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-barboza-vs-zo
+ rrilla/2pbmq/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/8974
+ 3-barboza-vs-zorrilla\nhttp://www.boxrec.com/en/event/856478\n\n---\n\nM
+ ain Event: Arnold Barboza Jr. (26-0-0) vs. Danielito Zorrilla (16-0-0)\n
+ Main Card: Richard Torrez Jr. (0-0-0) vs. Roberto Zavala Jr (2-1-1)\nMai
+ n Card: Jair Valtierra (14-1-0) vs. Raymond Muratalla (14-0-0)\nMain Car
+ d: Stephan Shaw (16-0-0) vs. Bernardo Marquez (14-4-1)\nPrelim: Floyd Di
+ az (5-0-0) vs. Pedro Salome (3-0-1)\nPrelim: Austin Brooks (6-0-0) vs. V
+ ictor Saravia (1-2-0)\nPrelim: Jorge Marron Jr (20-2-1) vs. Adrian Yung 
+ (26-7-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-07-eifert-vs-sperandio@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eifert vs. Sperandio
+DTSTART:20220716T204500Z
+DTEND:20220716T224500Z
+CATEGORIES:SES,Boxen,MDR,live,kostenlos
+DESCRIPTION:via MDR: https://www.mdr.de/video/livestreams/fernsehen/lives
+ treammdrfernsehen-100.html\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/91081-eifert-vs-sperandio\nhttp://www.boxrec.com/en/event/85767
+ 1\n\n---\n\nMain Event: Michael Eifert (10-1-0) vs. Adriano Sperandio (1
+ 4-1-0)\nMain Card: Tom Dzemski (19-1-0) vs. Alexander Lorch (7-0-0)\nMai
+ n Card: Hugo Micallef (0-0-0) vs. Mauro Loli (7-3-0)\nMain Card: Albon P
+ ervizaj (17-1-0) vs. Alvaro Terrero (5-16-2)\nMain Card: Nenad Stancic (
+ 11-0-0) vs. Brayan Mairena (11-27-1)\nMain Card: Eva Hubmeyer (4-1-0) vs
+ . Nina Meinke (12-3-0)\nMain Card: Lara Ochmann (7-1-0) vs. Marina Sakha
+ rov (5-15-2)\nMain Card: Paul Wall (0-0-0) vs. Nikolas Dzurnak (2-1-2)\n
+ Main Card: Hamsat Shadalov (0-0-0) vs. Edwin Tercero (16-19-1)\nMain Car
+ d: Robin Rehse (0-0-0) vs. Ganiyou Idriss (0-0-0)\nMain Card: Julian Vog
+ el (8-0-0) vs. Richard Walter (9-23-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-07-legacy-international-boxing-series-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Legacy International Boxing Series (Re-Live)
+DTSTART:20220716T225500Z
+DTEND:20220717T004500Z
+CATEGORIES:Other,Boxen,Bild TV
+DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/90246-legacy-international-boxing-series\nhttp://www.boxrec.com/en/
+ event/857334\n\n---\n\nMain Card: Ramona Graeff (0-0-0) vs. Alys Sanchez
+  (17-7-1)\nMain Card: Uwel Hernandez (13-1-0) vs. Kamer Maloku (16-2-0)\
+ nMain Card: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: J
+ ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Sarah Wei
+ dmann (0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout 
+ (34-5-1) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs
+ . F. De Almeida (9-5-0)\nMain Card: Firat Arslan (51-9-3) vs. Juan Rodol
+ fo Juarez (20-6-0)\nMain Card: Natalie Zimmermann (8-0-0) vs. Bojana Lib
+ iszewska (7-46-0)\nMain Card: Timo Rost (10-1-3) vs. Mariusz Biskupski (
+ 23-49-2)\nMain Card: Franklyn Dwomoh (0-0-0) vs. Giorgi Gachechiladze (1
+ 1-42-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
 UID:2022-07-legacy-international-boxing-series-highlights@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -77,14 +164,17 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  event/857334\n\n---\n\nMain Card: Ramona Graeff (0-0-0) vs. Alys Sanchez
   (17-7-1)\nMain Card: Uwel Hernandez (13-1-0) vs. Kamer Maloku (16-2-0)\
  nMain Card: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: J
- ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Mike Pere
- z (27-3-1) vs. Julio Cesar Calimeno (5-2-0)\nMain Card: Sarah Weidmann (
- 0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout (34-5-1
- ) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs. F. De
-  Almeida (9-5-0)
+ ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Sarah Wei
+ dmann (0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout 
+ (34-5-1) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs
+ . F. De Almeida (9-5-0)\nMain Card: Firat Arslan (51-9-3) vs. Juan Rodol
+ fo Juarez (20-6-0)\nMain Card: Natalie Zimmermann (8-0-0) vs. Bojana Lib
+ iszewska (7-46-0)\nMain Card: Timo Rost (10-1-3) vs. Mariusz Biskupski (
+ 23-49-2)\nMain Card: Franklyn Dwomoh (0-0-0) vs. Giorgi Gachechiladze (1
+ 1-42-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-garcia-vs-fortuna@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Fortuna
@@ -92,15 +182,78 @@ DTSTART:20220717T000000Z
 DTEND:20220717T030000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/89529-estrada-vs-franco\n\n---\n\nMain Event: Ryan Garcia (22-0-0) vs.
-  Javier Fortuna (37-3-1)\nCo-Main Event: Alexis Rocha (19-1-0) vs. Samue
- l Kotey (23-3-0)\nMain Card: Ricardo Sandoval (20-1-0) vs. David Jimenez
-  (11-0-0)\nMain Card: Lamont Roach Jr. (22-1-1) vs. Angel Rodriguez (20-
- 1-0)\nPrelim: Diego De La Hoya (22-1-0) vs. Enrique Bernache (24-13-0)\n
- Prelim: Miguel Goana (2-0-0) vs. Jonathan Guzman (0-5-0)
+ s/89529-estrada-vs-franco\nhttp://www.boxrec.com/en/event/856863\n\n---\
+ n\nMain Event: Ryan Garcia (22-0-0) vs. Javier Fortuna (37-3-1)\nCo-Main
+  Event: Alexis Rocha (19-1-0) vs. Luis Alberto Veron (19-4-2)\nMain Card
+ : Ricardo Sandoval (20-1-0) vs. David Jimenez (11-0-0)\nMain Card: Lamon
+ t Roach Jr. (22-1-1) vs. Angel Rodriguez (20-1-0)\nMain Card: Victorio S
+ aludar (21-5-0) vs. Oscar Collazo (4-0-0)\nPrelim: Diego De La Hoya (22-
+ 1-0) vs. Enrique Bernache (24-13-0)\nPrelim: Lawrence King (11-1-0) vs. 
+ Edgar Valenzuela (6-0-0)\nPrelim: Miguel Goana (2-0-0) vs. Abdiel Padill
+ a (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
+UID:2022-07-gonzalez-vs-dogboe@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gonzalez vs. Dogboe
+DTSTART:20220724T010000Z
+DTEND:20220724T040000Z
+CATEGORIES:TR,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-gonzalez-vs-d
+ ogboe/2pbmp/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/90125
+ -gonzalez-vs-dogboe\nhttp://www.boxrec.com/en/event/857491\n\n---\n\nMai
+ n Event: Joet Gonzalez (25-2-0) vs. Isaac Dogboe (23-2-0)\nCo-Main Event
+ : Gabriel Flores Jr. (21-1-0) vs. Giovanni Cabrera (20-0-0)\nMain Card: 
+ Dante Benjamin Jr. (0-0-0) vs. Corey Thompson (0-0-0)\nMain Card: Pachin
+ o Hill (7-0-1) vs. Javier Martinez (6-0-0)\nMain Card: Colton Warner (4-
+ 1-0) vs. Jimmy Barnes (1-2-0)\nMain Card: Tony Woods (10-0-0) vs. Darryl
+  Jones (4-4-1)\nMain Card: Guido Vianello (8-0-1) vs. Rafael Rios (11-3-
+ 0)\nMain Card: Abdullah Mason (0-0-0) vs. Luis Fernandez (0-0-0)\nPrelim
+ : Antonio Mireles (0-0-0) vs. Dennys Reyes (0-0-0)\nPrelim: Thomas Matlo
+ n (0-0-0) vs. Cayman Audie (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-07-gonzalez-vs-angulo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gonzalez vs. Angulo
+DTSTART:20220729T010000Z
+DTEND:20220729T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90495-gonzalez-vs-angulo\n\n---\n\nMain Card: Jousce Gonzalez (12-0-1)
+  vs. Jose Angulo (14-2-0)\nMain Card: Manuel Flores (12-0-0) vs. Daniel 
+ Moncada (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-08-walsh-vs-pendarvis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Walsh vs. Pendarvis
+DTSTART:20220805T020000Z
+DTEND:20220805T050000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/90533-hollywood-fight-nights\nhttp://www.boxrec.com/en/event
+ /856224\n\n---\n\nMain Event: Callum Walsh (0-0-0) vs. Cleotis Pendarvis
+  (21-10-2)\nMain Card: Aida Satybaldinova (6-2-1) vs. Chelsey Anderson (
+ 5-0-0)\nMain Card: Omar Cande Trinidad (8-0-1) vs. Javier Padilla (7-0-1
+ )\nMain Card: Jessica Juarez (3-2-0) vs. Elvina White (5-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-08-conlan-vs-marriaga@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Conlan vs. Marriaga
+DTSTART:20220806T180000Z
+DTEND:20220806T210000Z
+CATEGORIES:TR,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-conlan-vs-mar
+ riaga/2pbmv/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -109,10 +262,11 @@ DTEND:20220806T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/90344-next-gen\n\n---\n\nMain Event: Dalton Smith (11-0-0) vs. Sam O'M
- aison (17-3-1)\nMain Card: Erica Farias (27-5-0) vs. Sandy Ryan (3-1-0)
+ aison (17-3-1)\nCo-Main Event: Erica Farias (27-5-0) vs. Sandy Ryan (3-1
+ -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz vs. McKinson
@@ -125,7 +279,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Anabel Ortiz (31-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-paul-vs-rahman-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Rahman Jr.
@@ -138,7 +292,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/90287-paul\nhttp:
  . Brenda Carabajal (19-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -151,7 +305,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-09-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -163,7 +317,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  k Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -172,6 +326,33 @@ DTEND:20220918T050000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/89675-canelo-vs-ggg-3\nhttp://www.boxrec.com/en/event/856254\n\n---\n\
- nMain Event: Canelo Álvarez (57-2-2) vs. Gennadiy Golovkin (42-1-1)
+ nMain Event: Canelo Álvarez (57-2-2) vs. Gennadiy Golovkin (42-1-1)\nMai
+ n Card: Jesse Rodriguez (16-0-0) vs. Israel Gonzalez (28-4-1)\nMain Card
+ : Austin Williams (11-0-0) vs. Kieron Conway (17-2-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Benn vs. Eubank Jr.
+DTSTART:20221008T190000Z
+DTEND:20221008T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/91151-benn-vs-eubank-jr\n\n---\n\nMain Event: Conor Benn (21-0-0) vs. 
+ Chris Eubank Jr. (32-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-10-martinez-vs-edwards@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Martinez vs. Edwards
+DTSTART:20221023T020000Z
+DTEND:20221023T050000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/91137-martinez-vs-edwards\n\n---\n\nMain Card: Julio Cesar Martinez (1
+ 8-2-0) vs. Sunny Edwards (18-0-0)\nMain Card: McWilliams Arroyo (21-4-0)
+  vs. Joselito Velazquez (14-0-1)
 END:VEVENT
 END:VCALENDAR

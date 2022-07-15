@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220709T220304Z
-X-KAMPFKALENDER-HASH:f64a470bdcdc2a62d6504412dfb5ecdd9570e981
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:936c2f3868dea783e1ccfdfd8d6ea83ec75028fa
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-senshi-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 12
@@ -17,27 +17,28 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-12/2pbjr/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
 DTSTART:20220722T100000Z
 DTEND:20220722T130000Z
 CATEGORIES:ONE,MMA,Kickboxen,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/89781-one-championship-159\n\n---\n\nMain Event: Reinier de Ridder 
- (15-0-0) vs. Vitaly Bigdash (12-2-0)\nCo-Main Event: Janet Todd vs. Lara
-  Fernandez\nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba Minowa (13-3-
- 0)\nMain Card: Muangthai PK Saenchai vs. Vladimir Kuzmin\nMain Card: Pei
- mian Zhang vs. Aslanbek Zikreev\nMain Card: Zhaxi Zelang (16-6-1) vs. Da
- nial Williams (5-1-0)\nPrelim: Sinsamut Klinmee vs. Islam Murtazaev\nPre
- lim: Ariel Sexton (13-4-0) vs. Marat Gafurov (18-4-0)\nPrelim: Jessa Kha
- n vs. Amanda Alequin\nPrelim: Tae Ho Jin (11-5-0) vs. Valmir da Silva (8
- -2-0)\nPrelim: M. Jamal Abdul-Latif (3-0-0) vs. Anderson Silva (3-2-0)\n
- Prelim: Lea Bivins (0-0-0) vs. Zeba Bano (1-1-0)
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GvAQlg6MGwQ\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/89781-one-championship
+ -159\n\n---\n\nMain Event: Reinier de Ridder (15-0-0) vs. Vitaly Bigdash
+  (12-2-0)\nCo-Main Event: Janet Todd vs. Lara Fernandez\nMain Card: Boka
+ ng Masunyane (8-1-0) vs. Hiroba Minowa (13-3-0)\nMain Card: Muangthai PK
+  Saenchai vs. Vladimir Kuzmin\nMain Card: Peimian Zhang vs. Aslanbek Zik
+ reev\nMain Card: Zhaxi Zelang (16-6-1) vs. Danial Williams (5-1-0)\nPrel
+ im: Sinsamut Klinmee vs. Islam Murtazaev\nPrelim: Ariel Sexton (13-4-0) 
+ vs. Marat Gafurov (18-4-0)\nPrelim: Jessa Khan vs. Amanda Alequin\nPreli
+ m: Tae Ho Jin (11-5-0) vs. Valmir da Silva (8-2-0)\nPrelim: M. Jamal Abd
+ ul-Latif (3-0-0) vs. Anderson Silva (3-2-0)\nPrelim: Lea Bivins (0-0-0) 
+ vs. Zeba Bano (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
@@ -51,7 +52,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  illet
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220709T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4
@@ -61,5 +62,16 @@ CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/89722-glory-collision-4\n\n---\n\nMain Event: Badr Hari vs. Alista
  ir Overeem
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-10-oktagon-36@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 36
+DTSTART:20221015T150000Z
+DTEND:20221015T180000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/91181-oktagon-36\nhttps://oktagonmma.cz/event/oktagon-36/
 END:VEVENT
 END:VCALENDAR

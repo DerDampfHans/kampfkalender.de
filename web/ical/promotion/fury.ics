@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220708T165436Z
-X-KAMPFKALENDER-HASH:d0ef9fd4014b00c306ae83b51775a46a9dd808c0
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:48180d28a317c090b9dc13b2b72dc0b0689f16b5
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-fury-fc-66-vazquez-vs-antolin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 66: Vazquez vs. Antolin
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  im: Oseyiomon Oiyemhonlan (5-5-0) vs. Jeramy Titsworth (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-fury-fc-67@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 67
@@ -37,6 +37,9 @@ DTSTART:20220814T213000Z
 DTEND:20220815T003000Z
 CATEGORIES:FFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/89284-fury-fc-67
+ nter/events/89284-fury-fc-67\n\n---\n\nMain Event: Huseyn Aliev (13-4-1)
+  vs. Nate Richardson (9-3-0)\nCo-Main Event: Paris Moran (7-1-0) vs. Jos
+ hua Thawng (5-1-0)\nMain Card: Peter Caballero (10-5-0) vs. Jonathan Dav
+ is (6-2-0)\nMain Card: Justice Torres (4-0-0) vs. Aric Mercado (6-1-0)
 END:VEVENT
 END:VCALENDAR

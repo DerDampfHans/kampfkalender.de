@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220710T220304Z
-X-KAMPFKALENDER-HASH:33d7ff31b0442f473f869cada5b5397b4135ad12
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:a21926d09aac7cb3c46e6ebd7ba9b8d88fe8ab05
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-senshi-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 12
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-12/2pbjr/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-ksw-71-zio-kowski-vs-rajewski-highlights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 71: Ziółkowski vs. Rajewski (Highlights)
@@ -36,7 +36,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  smae vs. Artur Sowiński\nPrelim: Marc Doussis vs. Przemysław Dzwoniarek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-ufc-vegas-58-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 58: Post-Fight Press Conference
@@ -46,7 +46,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CVLJnzh51uA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-eagle-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 48
@@ -66,12 +66,34 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  iyar uulu (1-0-0) vs. Bolat Zamanbekov (3-1-0)\nMain Card: Dhouglas Ribe
  iro (11-6-0) vs. T. Khadzhimuradov (3-1-0)\nMain Card: Roman Dzhomart (2
  -0-0) vs. Joseph Henle (11-4-1)\nMain Card: Djeyhun Godjali (0-1-0) vs. 
- Meyrbek Tulegenov (3-1-0)\nMain Card: Shamil Akhmedov (8-0-0) vs. Konsta
- ntin Andreitsev (16-14-0)\nMain Card: Khamzat Sakalov (9-3-0) vs. A. Ali
- magomedov (11-1-0)
+ Meyrbek Tulegenov (3-1-0)\nMain Card: Khamzat Sakalov (9-3-0) vs. A. Ali
+ magomedov (11-1-0)\nMain Card: Konstantin Andreitsev (16-14-0) vs. Zakha
+ r Ryabov (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
+UID:2022-07-eifert-vs-sperandio@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eifert vs. Sperandio
+DTSTART:20220716T204500Z
+DTEND:20220716T224500Z
+CATEGORIES:SES,Boxen,MDR,live,kostenlos
+DESCRIPTION:via MDR: https://www.mdr.de/video/livestreams/fernsehen/lives
+ treammdrfernsehen-100.html\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/91081-eifert-vs-sperandio\nhttp://www.boxrec.com/en/event/85767
+ 1\n\n---\n\nMain Event: Michael Eifert (10-1-0) vs. Adriano Sperandio (1
+ 4-1-0)\nMain Card: Tom Dzemski (19-1-0) vs. Alexander Lorch (7-0-0)\nMai
+ n Card: Hugo Micallef (0-0-0) vs. Mauro Loli (7-3-0)\nMain Card: Albon P
+ ervizaj (17-1-0) vs. Alvaro Terrero (5-16-2)\nMain Card: Nenad Stancic (
+ 11-0-0) vs. Brayan Mairena (11-27-1)\nMain Card: Eva Hubmeyer (4-1-0) vs
+ . Nina Meinke (12-3-0)\nMain Card: Lara Ochmann (7-1-0) vs. Marina Sakha
+ rov (5-15-2)\nMain Card: Paul Wall (0-0-0) vs. Nikolas Dzurnak (2-1-2)\n
+ Main Card: Hamsat Shadalov (0-0-0) vs. Edwin Tercero (16-19-1)\nMain Car
+ d: Robin Rehse (0-0-0) vs. Ganiyou Idriss (0-0-0)\nMain Card: Julian Vog
+ el (8-0-0) vs. Richard Walter (9-23-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
 UID:2022-07-legacy-international-boxing-series-highlights@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -84,14 +106,17 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  event/857334\n\n---\n\nMain Card: Ramona Graeff (0-0-0) vs. Alys Sanchez
   (17-7-1)\nMain Card: Uwel Hernandez (13-1-0) vs. Kamer Maloku (16-2-0)\
  nMain Card: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: J
- ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Mike Pere
- z (27-3-1) vs. Julio Cesar Calimeno (5-2-0)\nMain Card: Sarah Weidmann (
- 0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout (34-5-1
- ) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs. F. De
-  Almeida (9-5-0)
+ ames Chereji (17-1-0) vs. Jaouad Belmehdi (15-0-3)\nMain Card: Sarah Wei
+ dmann (0-0-0) vs. Karina Szmalenberg (14-50-4)\nMain Card: Austin Trout 
+ (34-5-1) vs. Florin Cardos (0-0-0)\nMain Card: Agron Smakici (18-1-0) vs
+ . F. De Almeida (9-5-0)\nMain Card: Firat Arslan (51-9-3) vs. Juan Rodol
+ fo Juarez (20-6-0)\nMain Card: Natalie Zimmermann (8-0-0) vs. Bojana Lib
+ iszewska (7-46-0)\nMain Card: Timo Rost (10-1-3) vs. Mariusz Biskupski (
+ 23-49-2)\nMain Card: Franklyn Dwomoh (0-0-0) vs. Giorgi Gachechiladze (1
+ 1-42-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-invicta-fc-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 48
@@ -108,27 +133,28 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Norton (1-1-0) vs. Maria Djukic (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-one-159-de-ridder-vs-bigdash@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 159: De Ridder vs. Bigdash
 DTSTART:20220722T100000Z
 DTEND:20220722T130000Z
 CATEGORIES:ONE,MMA,Kickboxen,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/89781-one-championship-159\n\n---\n\nMain Event: Reinier de Ridder 
- (15-0-0) vs. Vitaly Bigdash (12-2-0)\nCo-Main Event: Janet Todd vs. Lara
-  Fernandez\nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba Minowa (13-3-
- 0)\nMain Card: Muangthai PK Saenchai vs. Vladimir Kuzmin\nMain Card: Pei
- mian Zhang vs. Aslanbek Zikreev\nMain Card: Zhaxi Zelang (16-6-1) vs. Da
- nial Williams (5-1-0)\nPrelim: Sinsamut Klinmee vs. Islam Murtazaev\nPre
- lim: Ariel Sexton (13-4-0) vs. Marat Gafurov (18-4-0)\nPrelim: Jessa Kha
- n vs. Amanda Alequin\nPrelim: Tae Ho Jin (11-5-0) vs. Valmir da Silva (8
- -2-0)\nPrelim: M. Jamal Abdul-Latif (3-0-0) vs. Anderson Silva (3-2-0)\n
- Prelim: Lea Bivins (0-0-0) vs. Zeba Bano (1-1-0)
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GvAQlg6MGwQ\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/89781-one-championship
+ -159\n\n---\n\nMain Event: Reinier de Ridder (15-0-0) vs. Vitaly Bigdash
+  (12-2-0)\nCo-Main Event: Janet Todd vs. Lara Fernandez\nMain Card: Boka
+ ng Masunyane (8-1-0) vs. Hiroba Minowa (13-3-0)\nMain Card: Muangthai PK
+  Saenchai vs. Vladimir Kuzmin\nMain Card: Peimian Zhang vs. Aslanbek Zik
+ reev\nMain Card: Zhaxi Zelang (16-6-1) vs. Danial Williams (5-1-0)\nPrel
+ im: Sinsamut Klinmee vs. Islam Murtazaev\nPrelim: Ariel Sexton (13-4-0) 
+ vs. Marat Gafurov (18-4-0)\nPrelim: Jessa Khan vs. Amanda Alequin\nPreli
+ m: Tae Ho Jin (11-5-0) vs. Valmir da Silva (8-2-0)\nPrelim: M. Jamal Abd
+ ul-Latif (3-0-0) vs. Anderson Silva (3-2-0)\nPrelim: Lea Bivins (0-0-0) 
+ vs. Zeba Bano (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-ksw-72-romanowski-vs-grzebyk-highlights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 72: Romanowski vs. Grzebyk (Highlights)
@@ -146,7 +172,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ski (5-4-1) vs. Arkadiusz Kaszuba (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -155,18 +181,18 @@ DTEND:20220806T180000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-10/\nhttps://www.tapology.com/fightcenter/events/90360
- -nfc-10\n\n---\n\nMain Event: Mert Özyildirim (10-3-0) vs. Max Coga (23-
- 8-1)\nMain Card: Axel Sola (3-0-0) vs. Wladimir Holodenko (4-0-1)\nMain 
- Card: Jarno Errens (12-3-1) vs. Alisher Abdullaev (7-2-0)\nMain Card: Gj
- oni Palokaj (5-3-0) vs. M. Trabelsi (11-6-0)\nMain Card: Issa Isakov (8-
- 2-0) vs. Ahmad Labban (12-4-0)\nMain Card: Husein Kadimagomaev (8-1-0) v
- s. Agshin Babaev (22-7-0)\nMain Card: Mohamed Grabinski (22-6-0) vs. Vad
- im Kutsy (16-1-0)\nMain Card: Max Holzer (5-0-0) vs. Andrey Tyshchenko (
- 5-2-0)\nMain Card: Patrick Vespaziani (1-0-0) vs. Lazar Todev (6-5-0)\nM
- ain Card: Islam Dulatov (6-1-0) vs. Kleverson Sampaio (12-6-0)
+ -nfc-10\n\n---\n\nMain Event: Mohamed Grabinski (22-6-0) vs. Vadim Kutsy
+  (16-1-0)\nCo-Main Event: Max Coga (23-8-1) vs. Zafar Mohsen (10-3-0)\nM
+ ain Card: Axel Sola (3-0-0) vs. Wladimir Holodenko (4-0-1)\nMain Card: J
+ arno Errens (12-3-1) vs. Alisher Abdullaev (7-2-0)\nMain Card: Issa Isak
+ ov (8-2-0) vs. Ahmad Labban (12-4-0)\nMain Card: Husein Kadimagomaev (8-
+ 1-0) vs. Agshin Babaev (22-7-0)\nMain Card: Max Holzer (5-0-0) vs. Andre
+ y Tyshchenko (5-2-0)\nMain Card: Patrick Vespaziani (1-0-0) vs. Lazar To
+ dev (6-5-0)\nMain Card: Islam Dulatov (6-1-0) vs. Kleverson Sampaio (12-
+ 7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-nfc-10-coga-vs-ozyildirim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Coga vs. Özyildirim
@@ -175,19 +201,18 @@ DTEND:20220806T223000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-10/\nhttps://www.tapology.com/fightcenter/
- events/90360-nfc-10\n\n---\n\nMain Event: Mert Özyildirim (10-3-0) vs. M
- ax Coga (23-8-1)\nMain Card: Axel Sola (3-0-0) vs. Wladimir Holodenko (4
- -0-1)\nMain Card: Jarno Errens (12-3-1) vs. Alisher Abdullaev (7-2-0)\nM
- ain Card: Gjoni Palokaj (5-3-0) vs. M. Trabelsi (11-6-0)\nMain Card: Iss
- a Isakov (8-2-0) vs. Ahmad Labban (12-4-0)\nMain Card: Husein Kadimagoma
- ev (8-1-0) vs. Agshin Babaev (22-7-0)\nMain Card: Mohamed Grabinski (22-
- 6-0) vs. Vadim Kutsy (16-1-0)\nMain Card: Max Holzer (5-0-0) vs. Andrey 
- Tyshchenko (5-2-0)\nMain Card: Patrick Vespaziani (1-0-0) vs. Lazar Tode
- v (6-5-0)\nMain Card: Islam Dulatov (6-1-0) vs. Kleverson Sampaio (12-6-
- 0)
+ events/90360-nfc-10\n\n---\n\nMain Event: Mohamed Grabinski (22-6-0) vs.
+  Vadim Kutsy (16-1-0)\nCo-Main Event: Max Coga (23-8-1) vs. Zafar Mohsen
+  (10-3-0)\nMain Card: Axel Sola (3-0-0) vs. Wladimir Holodenko (4-0-1)\n
+ Main Card: Jarno Errens (12-3-1) vs. Alisher Abdullaev (7-2-0)\nMain Car
+ d: Issa Isakov (8-2-0) vs. Ahmad Labban (12-4-0)\nMain Card: Husein Kadi
+ magomaev (8-1-0) vs. Agshin Babaev (22-7-0)\nMain Card: Max Holzer (5-0-
+ 0) vs. Andrey Tyshchenko (5-2-0)\nMain Card: Patrick Vespaziani (1-0-0) 
+ vs. Lazar Todev (6-5-0)\nMain Card: Islam Dulatov (6-1-0) vs. Kleverson 
+ Sampaio (12-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-one-160-le-vs-tang@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160: Le vs. Tang
@@ -199,7 +224,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  vs. Kai Tang (14-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Moraes vs. Johnson 2
@@ -211,7 +236,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  : Adriano Moraes (20-3-0) vs. Demetrious Johnson (23-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -219,10 +244,11 @@ DTSTART:20220917T170000Z
 DTEND:20220917T200000Z
 CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
- -2/
+ -2/\nhttps://www.tapology.com/fightcenter/events/91153-we-love-mma-59\n\
+ n---\n\nMain Event: Leo Lauber (5-0-0) vs. Alexander Djukic (5-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -232,7 +258,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -244,7 +270,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -255,7 +281,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -267,7 +293,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -278,7 +304,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -289,7 +315,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -300,7 +326,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -312,7 +338,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -324,7 +350,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90362-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2023-02-we-love-mma-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 64
@@ -335,7 +361,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -346,7 +372,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T220305Z
+DTSTAMP:20220715T043945Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220708T165436Z
-X-KAMPFKALENDER-HASH:f6352a39d0e257fca6ff9b1018ed589f2ef58ce4
+DTSTAMP:20220715T043944Z
+X-KAMPFKALENDER-HASH:0aae48081aa492700ecd26a33f72316ec4a7c570
 BEGIN:VEVENT
-DTSTAMP:20220708T165437Z
+DTSTAMP:20220715T043945Z
 UID:2022-07-budo-sento-championship-volume-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Budo Sento Championship: Volume 9
@@ -23,5 +23,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Ailed Zubieta (1-1-0)\nMain Card: Jesus Gutierrez (4-5-0) vs. Daniel Vil
  la (3-0-0)\nMain Card: Nayib Lopez (12-0-0) vs. E. Granados Farrera (11-
  7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T043945Z
+UID:2022-08-budo-sento-championship-volume-10@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Budo Sento Championship: Volume 10
+DTSTART:20220806T013000Z
+DTEND:20220806T043000Z
+CATEGORIES:BSC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR
