@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220715T043944Z
-X-KAMPFKALENDER-HASH:ecde521f4495737bc232abc0e687e5e6eb6df1a3
+DTSTAMP:20220716T092005Z
+X-KAMPFKALENDER-HASH:0eed642d953fb285584aef0f8be9674656e29948
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-vegas-58-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 58: Prelims
@@ -34,7 +34,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nPrelim: Ronnie Lawrence (8-1-0) vs. Saidyokub Kakhramonov (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-vegas-58-dos-anjos-vs-fiziev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 58: Dos Anjos vs. Fiziev
@@ -62,7 +62,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-vegas-58-post-fight-press-conference@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 58: Post-Fight Press Conference
@@ -72,7 +72,7 @@ CATEGORIES:UFC,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CVLJnzh51uA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-long-island-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Long Island: Prelims
@@ -99,7 +99,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (14-5-0) vs. Emily Ducote (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-long-island-ortega-vs-rodriguez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Long Island: Ortega vs. Rodriguez
@@ -126,7 +126,17 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (14-5-0) vs. Emily Ducote (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
+UID:2022-07-ufc-long-island-post-fight-press-conference@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Long Island: Post-Fight Press Conference
+DTSTART:20220717T003000Z
+DTEND:20220717T013000Z
+CATEGORIES:UFC,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=g3KOa3KvYZA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-london-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Prelims
@@ -148,7 +158,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Nicolas Dalby (19-4-1) vs. Claudio Silva (14-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-london-blaydes-vs-aspinall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London: Blaydes vs. Aspinall
@@ -170,7 +180,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Nicolas Dalby (19-4-1) vs. Claudio Silva (14-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-277-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Early Prelims
@@ -192,7 +202,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Orion Cosce (7-1-0) vs. Blood Diamond (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-277-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Prelims
@@ -214,7 +224,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Orion Cosce (7-1-0) vs. Blood Diamond (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-07-ufc-277-pena-vs-nunes-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Peña vs. Nunes 2
@@ -236,7 +246,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Orion Cosce (7-1-0) vs. Blood Diamond (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-08-ufc-vegas-59-santos-vs-hill-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 59: Santos vs. Hill: Prelims
@@ -257,7 +267,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  7-2-0)\nPrelim: Mayra Bueno Silva (8-2-1) vs. Stephanie Egger (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-08-ufc-vegas-59-santos-vs-hill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 59: Santos vs. Hill
@@ -279,7 +289,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-08-ufc-san-diego-vera-vs-cruz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC San Diego: Vera vs. Cruz
@@ -299,7 +309,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  in Lucindo (13-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-08-ufc-278-usman-vs-edwards-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 278: Usman vs. Edwards 2
@@ -321,7 +331,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0-4-0) vs. Shanna Young (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-09-ufc-paris-gane-vs-tuivasa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Paris: Gane vs. Tuivasa
@@ -339,7 +349,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Nasrat Haqparast (13-5-0) vs. John Makdessi (18-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-09-ufc-279-sterling-vs-dillashaw@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Sterling vs. Dillashaw
@@ -356,7 +366,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  : Elise Reed (5-2-0) vs. Melissa Martinez (7-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-09-ufc-fight-night-sandhagen-vs-song@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Sandhagen vs. Song
@@ -378,7 +388,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  lim: Anthony Hernandez (9-2-0) vs. Marc-André Barriault (14-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-10-ufc-fight-night-dern-vs-yan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Dern vs. Yan
@@ -394,7 +404,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  m: Randy Costa (6-3-0) vs. Guido Cannetti (9-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-10-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -407,7 +417,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Sam Hughes (7-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220716T092005Z
 UID:2022-10-ufc-280@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 280
