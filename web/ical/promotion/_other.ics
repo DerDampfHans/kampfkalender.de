@@ -4,20 +4,32 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220716T220304Z
-X-KAMPFKALENDER-HASH:8402d2c9e0edb3ea933be1c675b8c9192817d9c6
+DTSTAMP:20220722T103714Z
+X-KAMPFKALENDER-HASH:4479b61f6e5d11186801a9f64dff0e3a1e5d43f6
 BEGIN:VEVENT
-DTSTAMP:20220716T220304Z
-UID:2022-07-naciones-mma-bandenay-vs-piedrahita@kampfkalender.de
+DTSTAMP:20220722T103714Z
+UID:2022-07-eislingen-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Naciones MMA: Bandenay vs. Piedrahita
-DTSTART:20220723T000000Z
-DTEND:20220723T030000Z
-CATEGORIES:Other,MMA,DAZN,live
-DESCRIPTION:via DAZN
+SUMMARY:Eislingen Fight Night
+DTSTART:20220723T120000Z
+DTEND:20220723T150000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gy
+ m-club-eislingen-504
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220716T220304Z
+DTSTAMP:20220722T103714Z
+UID:2022-07-diamond-super-four-gala@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Diamond Super Four Gala
+DTSTART:20220723T170000Z
+DTEND:20220723T200000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-di
+ amond-super-four-gala-506
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103714Z
 UID:2022-08-walsh-vs-pendarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Pendarvis
@@ -26,9 +38,9 @@ DTEND:20220805T050000Z
 CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/90533-hollywood-fight-nights\nhttp://www.boxrec.com/en/event
- /856224\n\n---\n\nMain Event: Callum Walsh (0-0-0) vs. Cleotis Pendarvis
-  (21-10-2)\nMain Card: Aida Satybaldinova (6-2-1) vs. Chelsey Anderson (
- 5-0-0)\nMain Card: Omar Cande Trinidad (8-0-1) vs. Javier Padilla (7-0-1
- )\nMain Card: Jessica Juarez (3-2-0) vs. Elvina White (5-1-0)
+ /856224\n\n---\n\nMain Event: Callum Walsh (0-0-0) vs. Benjamin Whitaker
+  (15-8-0)\nMain Card: Aida Satybaldinova (6-2-1) vs. Chelsey Anderson (5
+ -0-0)\nMain Card: Omar Cande Trinidad (8-0-1) vs. Javier Padilla (7-0-1)
+ \nMain Card: Jessica Juarez (3-2-0) vs. Elvina White (5-1-0)
 END:VEVENT
 END:VCALENDAR

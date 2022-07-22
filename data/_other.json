@@ -9,18 +9,48 @@
       "#Naciones8"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Naciones MMA: Bandenay vs. Piedrahita",
-      "time": "2022-07-23T00:00:00Z",
+      "time": "2022-07-23T00:00:00Z"
+    }
+  },
+  {
+    "id": "eislingen-2022-07-23",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Eislingen"
+    ],
+    "mainCard": {
+      "title": "Eislingen Fight Night",
+      "time": "2022-07-23T12:00:00Z",
       "broadcasters": {
-        "DAZN": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gym-club-eislingen-504",
+          "freeAfter": 48
         }
-      },
-      "dazn": {
-        "id": "imidw9c5k41s1odmprcfvcqz5",
-        "time": "2022-07-23T00:00:00Z",
-        "title": "Naciones MMA: Bandenay vs Piedrahita (Vor- und Hauptkämpfe)",
-        "sport": "MMA",
-        "competition": "Naciones MMA"
+      }
+    }
+  },
+  {
+    "id": "diamond-2022-07-23",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#BadWindesheim"
+    ],
+    "mainCard": {
+      "title": "Diamond Super Four Gala",
+      "time": "2022-07-23T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-diamond-super-four-gala-506",
+          "freeAfter": 48
+        }
       }
     }
   },
@@ -56,7 +86,7 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Callum Walsh (0-0-0) vs. Cleotis Pendarvis (21-10-2)",
+        "Main Event: Callum Walsh (0-0-0) vs. Benjamin Whitaker (15-8-0)",
         "Main Card: Aida Satybaldinova (6-2-1) vs. Chelsey Anderson (5-0-0)",
         "Main Card: Omar Cande Trinidad (8-0-1) vs. Javier Padilla (7-0-1)",
         "Main Card: Jessica Juarez (3-2-0) vs. Elvina White (5-1-0)"

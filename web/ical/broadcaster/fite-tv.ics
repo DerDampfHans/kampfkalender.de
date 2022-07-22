@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220717T220305Z
-X-KAMPFKALENDER-HASH:8e0ca03d893e83423f633d7adad3705b0dbf79e2
+DTSTAMP:20220722T103714Z
+X-KAMPFKALENDER-HASH:349c402d1d5555f5a3a1cefb521e2d994f6afa8e
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
+DTSTAMP:20220722T103715Z
 UID:2022-07-legacy-international-boxing-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Legacy International Boxing Series
@@ -30,7 +30,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/legacy-int-boxing-seri
  2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
+DTSTAMP:20220722T103715Z
 UID:2022-07-barboza-vs-zorrilla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Barboza vs. Zorrilla
@@ -49,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-barboza-vs-zo
  (26-7-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
+DTSTAMP:20220722T103715Z
 UID:2022-07-fusion-fight-league-fights-under-the-lights@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Fights under the Lights
@@ -72,22 +72,72 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-fights-under-the-l
  aux (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
-UID:2022-07-bkb-27-curragh-vs-churcher@kampfkalender.de
+DTSTAMP:20220722T103715Z
+UID:2022-07-aka-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKB 27: Curragh vs. Churcher
+SUMMARY:AKA 22
+DTSTART:20220723T000000Z
+DTEND:20220723T030000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-22/2pbk9/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/90635-aka-22\nhttp://www.s
+ herdog.com/events/aka-22-american-kombat-alliance-92607\n\n---\n\nMain E
+ vent: Chauncey Foxworth (14-9-0) vs. Eric Scallan (17-6-0)\nCo-Main Even
+ t: David Bosnick (10-6-0) vs. Mike Barnett (11-4-0)\nMain Card: Jesse Ro
+ berts (3-0-0) vs. Cody Mitchell (0-2-0)\nMain Card: Lajerrick Taylor (0-
+ 0-0) vs. Michael Sullivan (4-0-0)\nMain Card: Kody Yesenosky (1-1-0) vs.
+  Chris Reed (2-2-0)\nMain Card: Jerad Carranza (0-1-0) vs. Forest Jones 
+ (0-0-0)\nMain Card: Jose Castro Duran (0-2-0) vs. Colton Kopszywa (0-0-0
+ )\nMain Card: Jordan Mays (2-1-0) vs. Jacob Benavides (2-0-0)\nMain Card
+ : Shaine Ferrier (0-0-0) vs. Jackson Riber (0-0-0)\nMain Card: Clark Gun
+ ter (0-0-0) vs. Corey Stewart (0-0-0)\nMain Card: Sipho Nkosi (0-1-0) vs
+ . Michael Bryant (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103715Z
+UID:2022-07-bkb-27-morgan-vs-alexandre@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 27: Morgan vs. Alexandre
 DTSTART:20220723T180000Z
 DTEND:20220723T210000Z
 CATEGORIES:BKB,Bare Knuckle,fighting.de,fight24.tv,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\nvia fite.tv: https://www.fit
- e.tv/watch/bkb-27/2pbhw/\n\n---\n\nhttps://www.fightevents.de/event/bkb-
- 27/
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=j-XlX7CsnIs\
+ nvia fight24.tv: https://www.fight24.tv/fightpasses/fight24-bkb-27-505\n
+ via fite.tv: https://www.fite.tv/watch/bkb-27/2pbhw/\n\n---\n\nhttps://w
+ ww.fightevents.de/event/bkb-27/\nhttps://www.tapology.com/fightcenter/ev
+ ents/91468-bkb-27\n\n---\n\nMain Event: Craig Morgan vs. Carlos Alexandr
+ e\nCo-Main Event: Marley Churcher vs. Gavin Curragh\nMain Card: Albert S
+ camp vs. Emil Markic\nMain Card: Steven Evans vs. Dave Thomas\nMain Card
+ : Robin Deakin vs. Ben Hatchett\nMain Card: Mason Shaw vs. Lawrence Trac
+ ey\nMain Card: Jack McLean vs. Patrick Nash\nMain Card: Callan Harley vs
+ . Luke Kelly\nMain Card: Ionel Levitchi vs. Martin Refell\nMain Card: Er
+ ic Olsen vs. Szymon Szynkiewicz\nMain Card: Aaron McCallum vs. Beau Besl
+ ey\nMain Card: Mark Handley vs. Johnny Jones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
-UID:2022-07-bkfc-fight-night-tampa-2@kampfkalender.de
+DTSTAMP:20220722T103715Z
+UID:2022-07-bkfc-tampa-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Fight Night: Tampa 2
+SUMMARY:BKFC Tampa 2: Prelims
+DTSTART:20220724T000000Z
+DTEND:20220724T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-tampa
+ -2-prelims/2pbnx/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/
+ 90639-bkfc-fight-night-tampa-2\nhttps://events.mixedmartialarts.com/bkfc
+ -fight-night:b8059d30-348d-4747-9e8f-bebaec57c283\n\n---\n\nMain Event: 
+ Jarod Grant vs. Reginald Barnett\, Jr.\nCo-Main Event: John Michael Esco
+ boza vs. Jared Warren\nMain Card: David Mundell vs. David Simpson\nMain 
+ Card: Joshua Sanchez vs. Ryan Shough\nMain Card: Rynell Riley vs. Heinri
+ ch Caceres\nMain Card: Stevo Morris vs. Brandon Allen\nMain Card: Henry 
+ Williams vs. Paul Walters\nPrelim: JR Ridge vs. Justyn Martinez\nPrelim:
+  Alex Tierney vs. Darrick Gates
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103715Z
+UID:2022-07-bkfc-tampa-2-grant-vs-barnett@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Tampa 2: Grant vs. Barnett
 DTSTART:20220724T010000Z
 DTEND:20220724T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
@@ -96,14 +146,14 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-tampa
  fc-fight-night-tampa-2\nhttps://events.mixedmartialarts.com/bkfc-fight-n
  ight:b8059d30-348d-4747-9e8f-bebaec57c283\n\n---\n\nMain Event: Jarod Gr
  ant vs. Reginald Barnett\, Jr.\nCo-Main Event: John Michael Escoboza vs.
-  Jared Warren\nMain Card: David Mundell vs. David Simpson\nMain Card: Ry
- nell Riley vs. Brynnen McIver\nMain Card: Joshua Sanchez vs. Ryan Shough
- \nMain Card: Stevo Morris vs. Glendel Futrell\nMain Card: JR Ridge vs. J
- ustyn Martinez\nMain Card: Ryan Reber vs. Rick Caruso\nMain Card: Henry 
- Williams vs. Tim Hester\nMain Card: Alex Tierney vs. Darrick Gates
+  Jared Warren\nMain Card: David Mundell vs. David Simpson\nMain Card: Jo
+ shua Sanchez vs. Ryan Shough\nMain Card: Rynell Riley vs. Heinrich Cacer
+ es\nMain Card: Stevo Morris vs. Brandon Allen\nMain Card: Henry Williams
+  vs. Paul Walters\nPrelim: JR Ridge vs. Justyn Martinez\nPrelim: Alex Ti
+ erney vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
+DTSTAMP:20220722T103715Z
 UID:2022-07-gonzalez-vs-dogboe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gonzalez vs. Dogboe
@@ -115,16 +165,17 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-gonzalez-vs-d
  -gonzalez-vs-dogboe\nhttp://www.boxrec.com/en/event/857491\n\n---\n\nMai
  n Event: Joet Gonzalez (25-2-0) vs. Isaac Dogboe (23-2-0)\nCo-Main Event
  : Gabriel Flores Jr. (21-1-0) vs. Giovanni Cabrera (20-0-0)\nMain Card: 
- Dante Benjamin Jr. (0-0-0) vs. Corey Thompson (0-0-0)\nMain Card: Pachin
- o Hill (7-0-1) vs. Javier Martinez (6-0-0)\nMain Card: Colton Warner (4-
- 1-0) vs. Jimmy Barnes (1-2-0)\nMain Card: Tony Woods (10-0-0) vs. Darryl
-  Jones (4-4-1)\nMain Card: Guido Vianello (8-0-1) vs. Rafael Rios (11-3-
- 0)\nMain Card: Abdullah Mason (0-0-0) vs. Luis Fernandez (0-0-0)\nPrelim
- : Antonio Mireles (0-0-0) vs. Dennys Reyes (0-0-0)\nPrelim: Thomas Matlo
- n (0-0-0) vs. Cayman Audie (1-1-0)
+ Pachino Hill (7-0-1) vs. Javier Martinez (6-0-0)\nMain Card: Guido Viane
+ llo (8-0-1) vs. Rafael Rios (11-3-0)\nPrelim: Antonio Mireles (0-0-0) vs
+ . Dennys Reyes (0-0-0)\nPrelim: Dante Benjamin Jr. (0-0-0) vs. Corey Tho
+ mpson (0-0-0)\nPrelim: Colton Warner (4-1-0) vs. Jimmy Barnes (1-2-0)\nP
+ relim: Tony Woods (10-0-0) vs. Darryl Jones (4-4-1)\nPrelim: Abdullah Ma
+ son (0-0-0) vs. Luis Fernandez (0-0-0)\nPrelim: Haven Brady Jr (6-0-0) v
+ s. Aaron Echeveste Lopez (6-7-0)\nPrelim: Anthony Garrett (1-1-0) vs. Ca
+ yman Audie (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
+DTSTAMP:20220722T103715Z
 UID:2022-08-conlan-vs-marriaga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Marriaga
@@ -135,7 +186,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-conlan-vs-mar
  riaga/2pbmv/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
+DTSTAMP:20220722T103715Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
@@ -145,15 +196,18 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27/2pbkj/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/90138-bkfc-27-mvp-vs-perr
  y\nhttps://events.mixedmartialarts.com/bkfc-27:8a621851-8e6a-4662-9855-0
- 3e1f93dafe8\n\n---\n\nMain Event: Michael Page vs. Mike Perry\nMain Card
- : Connor Tierney vs. Joe Elmore\nMain Card: Sam Shewmaker vs. Mick Terri
- ll\nMain Card: Jack Draper vs. Rob Cunningham\nMain Card: John Hick vs. 
- Ellis Shepherd\nMain Card: Franco Tenaglia vs. Chas Symonds\nMain Card: 
- Conan Barbaru vs. Dan Vinni\nMain Card: Paige VanZant vs. Charisa Sigala
- \nMain Card: Tyler Goodjohn vs. James Lilley
+ 3e1f93dafe8\n\n---\n\nMain Event: Michael Page vs. Mike Perry\nCo-Main E
+ vent: Paige VanZant vs. Charisa Sigala\nMain Card: Connor Tierney vs. Jo
+ e Elmore\nMain Card: Sam Shewmaker vs. Mick Terrill\nMain Card: John Hic
+ k vs. Ellis Shepherd\nMain Card: Tyler Goodjohn vs. James Lilley\nMain C
+ ard: Chris Fishgold vs. Jake Bostwick\nMain Card: Jamie Cox vs. Kearon T
+ homas\nMain Card: Dawid Żółtaszek vs. Adam Harris\nMain Card: Rob Cunnin
+ gham vs. Brett May\nMain Card: Danny Christie vs. Terry Brazier\nPrelim:
+  Franco Tenaglia vs. Chas Symonds\nPrelim: Conan Barbaru vs. Dan Vinni\n
+ Prelim: Tony Giles vs. David Round
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220717T220307Z
+DTSTAMP:20220722T103715Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -166,6 +220,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  Main Event: John Dodson vs. Ryan Benoit\nMain Card: Donald Sanchez vs. J
  eremy Smith\nMain Card: Eric Dodson vs. Nick Villar\nMain Card: Joshua M
  oreno vs. Zion Tomlinson\, Sr.\nMain Card: Kyle McElroy vs. Josh Watson\
- nMain Card: Jayme Hinshaw vs. Cassie Robb
+ nMain Card: Jayme Hinshaw vs. Cassie Robb\nMain Card: Brad Kelly vs. Isa
+ ac Vallie-Flagg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103715Z
+UID:2022-09-bkfc-montana-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Montana 2
+DTSTART:20220911T000000Z
+DTEND:20220911T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91454-bkfc-fight-night-montana-2\nhttps://events.mixedmartialarts.c
+ om/bkfc-fight-night:cf990c1f-0ff5-4c19-b364-7d9188b84ee7
 END:VEVENT
 END:VCALENDAR

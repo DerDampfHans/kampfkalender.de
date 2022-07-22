@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220715T043944Z
-X-KAMPFKALENDER-HASH:74fd1942391205ebf97f93e32b31146f574fb542
+DTSTAMP:20220722T103714Z
+X-KAMPFKALENDER-HASH:3a79389a6c0defad1622864c23c64ccf7676f30d
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220722T103714Z
 UID:2022-07-garcia-vs-fortuna@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Fortuna
@@ -26,7 +26,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  a (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220722T103714Z
 UID:2022-07-gonzalez-vs-angulo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gonzalez vs. Angulo
@@ -34,12 +34,12 @@ DTSTART:20220729T010000Z
 DTEND:20220729T040000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/90495-gonzalez-vs-angulo\n\n---\n\nMain Card: Jousce Gonzalez (12-0-1)
-  vs. Jose Angulo (14-2-0)\nMain Card: Manuel Flores (12-0-0) vs. Daniel 
- Moncada (0-0-0)
+ s/90495-gonzalez-vs-angulo\n\n---\n\nMain Event: Jousce Gonzalez (12-0-1
+ ) vs. Jose Angulo (14-2-0)\nMain Card: Manuel Flores (12-0-0) vs. Daniel
+  Moncada (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220722T103714Z
 UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz vs. McKinson
@@ -48,7 +48,7 @@ DTEND:20220807T040000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/89745-ortiz-vs-avanesyan\n\n---\n\nMain Event: Vergil Ortiz Jr. (18-0-
- 0) vs. Mikey McKinson (22-0-0)\nMain Card: Seniesa Estrada (22-0-0) vs. 
- Anabel Ortiz (31-5-0)
+ 0) vs. Mikey McKinson (22-0-0)\nMain Card: Alex Martin (17-4-0) vs. Henr
+ y Lundy (31-10-1)
 END:VEVENT
 END:VCALENDAR

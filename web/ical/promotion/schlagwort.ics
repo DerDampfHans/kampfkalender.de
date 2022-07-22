@@ -4,16 +4,26 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220717T220305Z
-X-KAMPFKALENDER-HASH:11e65caa8b63e7b57c40c06e5508424e29f8057b
+DTSTAMP:20220722T103714Z
+X-KAMPFKALENDER-HASH:7dbdf01f0abfecd6f70e0d2e07ecf38e343700ee
 BEGIN:VEVENT
-DTSTAMP:20220717T220306Z
-UID:2022-07-schlagwort-podcast-1@kampfkalender.de
+DTSTAMP:20220722T103714Z
+UID:2022-07-schlagwort-podcast-dulatov-interview@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Podcast: Dulatov Interview
 DTSTART:20220717T160000Z
 DTEND:20220717T180000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=qL06itOmPyE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103714Z
+UID:2022-07-schlagwort-podcast-mit-ringlife-edmon@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast mit Ringlife / Edmon
+DTSTART:20220724T160000Z
+DTEND:20220724T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=89J14KvAIdc
 END:VEVENT
 END:VCALENDAR

@@ -10,7 +10,7 @@
       "#BKFCTampa2"
     ],
     "mainCard": {
-      "title": "BKFC Fight Night: Tampa 2",
+      "title": "BKFC Tampa 2: Grant vs. Barnett",
       "time": "2022-07-24T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
@@ -30,9 +30,31 @@
         ]
       }
     },
+    "prelims": {
+      "title": "BKFC Tampa 2: Prelims",
+      "time": "2022-07-24T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-fight-night-tampa-2-prelims/2pbnx/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbnx",
+        "time": "2022-07-24T00:00:00Z",
+        "title": "BKFC Fight Night Tampa 2: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-fight-night-tampa-2-prelims/2pbnx/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
     "tapology": {
       "id": 90639,
-      "time": "2022-07-24T01:00:00Z",
+      "time": "2022-07-24T00:00:00Z",
       "title": "BKFC Fight Night: Tampa 2",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/90639-bkfc-fight-night-tampa-2",
@@ -40,13 +62,12 @@
         "Main Event: Jarod Grant vs. Reginald Barnett, Jr.",
         "Co-Main Event: John Michael Escoboza vs. Jared Warren",
         "Main Card: David Mundell vs. David Simpson",
-        "Main Card: Rynell Riley vs. Brynnen McIver",
         "Main Card: Joshua Sanchez vs. Ryan Shough",
-        "Main Card: Stevo Morris vs. Glendel Futrell",
-        "Main Card: JR Ridge vs. Justyn Martinez",
-        "Main Card: Ryan Reber vs. Rick Caruso",
-        "Main Card: Henry Williams vs. Tim Hester",
-        "Main Card: Alex Tierney vs. Darrick Gates"
+        "Main Card: Rynell Riley vs. Heinrich Caceres",
+        "Main Card: Stevo Morris vs. Brandon Allen",
+        "Main Card: Henry Williams vs. Paul Walters",
+        "Prelim: JR Ridge vs. Justyn Martinez",
+        "Prelim: Alex Tierney vs. Darrick Gates"
       ],
       "links": [
         "https://events.mixedmartialarts.com/bkfc-fight-night:b8059d30-348d-4747-9e8f-bebaec57c283"
@@ -91,14 +112,19 @@
       "url": "https://www.tapology.com/fightcenter/events/90138-bkfc-27-mvp-vs-perry",
       "card": [
         "Main Event: Michael Page vs. Mike Perry",
+        "Co-Main Event: Paige VanZant vs. Charisa Sigala",
         "Main Card: Connor Tierney vs. Joe Elmore",
         "Main Card: Sam Shewmaker vs. Mick Terrill",
-        "Main Card: Jack Draper vs. Rob Cunningham",
         "Main Card: John Hick vs. Ellis Shepherd",
-        "Main Card: Franco Tenaglia vs. Chas Symonds",
-        "Main Card: Conan Barbaru vs. Dan Vinni",
-        "Main Card: Paige VanZant vs. Charisa Sigala",
-        "Main Card: Tyler Goodjohn vs. James Lilley"
+        "Main Card: Tyler Goodjohn vs. James Lilley",
+        "Main Card: Chris Fishgold vs. Jake Bostwick",
+        "Main Card: Jamie Cox vs. Kearon Thomas",
+        "Main Card: Dawid Żółtaszek vs. Adam Harris",
+        "Main Card: Rob Cunningham vs. Brett May",
+        "Main Card: Danny Christie vs. Terry Brazier",
+        "Prelim: Franco Tenaglia vs. Chas Symonds",
+        "Prelim: Conan Barbaru vs. Dan Vinni",
+        "Prelim: Tony Giles vs. David Round"
       ],
       "links": [
         "https://events.mixedmartialarts.com/bkfc-27:8a621851-8e6a-4662-9855-03e1f93dafe8"
@@ -148,7 +174,37 @@
         "Main Card: Eric Dodson vs. Nick Villar",
         "Main Card: Joshua Moreno vs. Zion Tomlinson, Sr.",
         "Main Card: Kyle McElroy vs. Josh Watson",
-        "Main Card: Jayme Hinshaw vs. Cassie Robb"
+        "Main Card: Jayme Hinshaw vs. Cassie Robb",
+        "Main Card: Brad Kelly vs. Isaac Vallie-Flagg"
+      ]
+    }
+  },
+  {
+    "id": "tapology-91454",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFCMontana",
+      "#BKFCMontana2"
+    ],
+    "mainCard": {
+      "title": "BKFC Montana 2",
+      "time": "2022-09-11T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 91454,
+      "time": "2022-09-11T00:00:00Z",
+      "title": "BKFC Fight Night: Montana 2",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/91454-bkfc-fight-night-montana-2",
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-fight-night:cf990c1f-0ff5-4c19-b364-7d9188b84ee7"
       ]
     }
   }

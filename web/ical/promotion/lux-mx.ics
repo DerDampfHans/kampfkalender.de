@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220715T043944Z
-X-KAMPFKALENDER-HASH:81214bc7a96cb8308508e3d4d2928d1afd0dd295
+DTSTAMP:20220722T103714Z
+X-KAMPFKALENDER-HASH:b1f41ab72882d12ae5bd5f62434e0b8d20e672a9
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220722T103714Z
 UID:2022-07-lux-fight-league-24@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lux Fight League 24
@@ -25,5 +25,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  i Garcia (3-1-0) vs. Leticia Baltazar (1-1-0)\nPrelim: Ernesto Galan (3-
  2-0) vs. Alejandro Corrales (2-2-0)\nPrelim: Bryan Lopez (0-0-0) vs. Ale
  xis Miranda (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103714Z
+UID:2022-08-lux-fight-league-25@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lux Fight League 25
+DTSTART:20220813T020000Z
+DTEND:20220813T050000Z
+CATEGORIES:LUX,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

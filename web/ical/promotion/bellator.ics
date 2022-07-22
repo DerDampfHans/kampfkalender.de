@@ -4,31 +4,61 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220716T092005Z
-X-KAMPFKALENDER-HASH:6dd33691bf51f9921471b919ec91887c84cc89fd
+DTSTAMP:20220722T103714Z
+X-KAMPFKALENDER-HASH:bd7f44745959c6ba4914dac94c23bc59646560a0
 BEGIN:VEVENT
-DTSTAMP:20220716T092005Z
+DTSTAMP:20220722T103714Z
 UID:2022-07-bellator-283-lima-vs-jackson-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 283: Lima vs. Jackson
 DTSTART:20220722T230000Z
-DTEND:20220723T020000Z
+DTEND:20220723T010000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=FIu9nvetqX0\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/89188-bellator-mma\nht
+ tp://www.sherdog.com/events/bellator-283-lima-vs-jackson-93333\nhttp://e
+ n.wikipedia.org/wiki/Bellator_283\nhttps://events.mixedmartialarts.com/b
+ ellator-283:e0c76847-d6df-48bd-8284-bb37996bd8d5\nhttps://www.bellator.c
+ om/event/299\nhttps://www.bestfightodds.com/events/bellator-283-2593\n\n
+ ---\n\nMain Event: Douglas Lima (32-10-0) vs. Jason Jackson (15-4-0)\nCo
+ -Main Event: Sidney Outlaw (16-4-0) vs. Tofiq Musayev (19-4-0)\nMain Car
+ d: Usman Nurmagomedov (14-0-0) vs. Chris Gonzalez (7-1-0)\nMain Card: Lo
+ renz Larkin (24-7-0) vs. Mukhamed Berkhamov (15-1-0)\nMain Card: Davion 
+ Franklin (5-0-0) vs. Marcelo Golm (9-3-0)\nPrelim: Romero Cotton (6-0-0)
+  vs. Dalton Rosta (6-0-0)\nPrelim: Veta Arteaga (6-4-0) vs. Vanessa Port
+ o (23-9-0)\nPrelim: Akhmed Magomedov (8-0-0) vs. Kevin Boehm (9-4-0)\nPr
+ elim: Gadzhi Rabadanov (17-4-2) vs. Bobby King (12-4-0)\nPrelim: Roman F
+ araldo (7-0-0) vs. Luis Iniguez (5-1-0)\nPrelim: Jaylon Bates (5-0-0) vs
+ . Mark Coates (10-7-0)\nPrelim: Archie Colgan (4-0-0) vs. Bryan Nuro (8-
+ 4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103714Z
+UID:2022-07-bellator-283-lima-vs-jackson-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 283: Lima vs. Jackson
+DTSTART:20220723T010000Z
+DTEND:20220723T040000Z
 CATEGORIES:Bellator,MMA,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/89188-bellator-mm
- a\n\n---\n\nMain Event: Douglas Lima (32-10-0) vs. Jason Jackson (15-4-0
- )\nCo-Main Event: Sidney Outlaw (16-4-0) vs. Tofiq Musayev (18-4-0)\nMai
+ a\nhttp://www.sherdog.com/events/bellator-283-lima-vs-jackson-93333\nhtt
+ p://en.wikipedia.org/wiki/Bellator_283\nhttps://events.mixedmartialarts.
+ com/bellator-283:e0c76847-d6df-48bd-8284-bb37996bd8d5\nhttps://www.bella
+ tor.com/event/299\nhttps://www.bestfightodds.com/events/bellator-283-259
+ 3\n\n---\n\nMain Event: Douglas Lima (32-10-0) vs. Jason Jackson (15-4-0
+ )\nCo-Main Event: Sidney Outlaw (16-4-0) vs. Tofiq Musayev (19-4-0)\nMai
  n Card: Usman Nurmagomedov (14-0-0) vs. Chris Gonzalez (7-1-0)\nMain Car
  d: Lorenz Larkin (24-7-0) vs. Mukhamed Berkhamov (15-1-0)\nMain Card: Da
  vion Franklin (5-0-0) vs. Marcelo Golm (9-3-0)\nPrelim: Romero Cotton (6
  -0-0) vs. Dalton Rosta (6-0-0)\nPrelim: Veta Arteaga (6-4-0) vs. Vanessa
-  Porto (23-9-0)\nPrelim: Gadzhi Rabadanov (17-4-2) vs. Bobby King (12-4-
- 0)\nPrelim: Jaylon Bates (5-0-0) vs. Mark Coates (10-7-0)\nPrelim: Roman
-  Faraldo (7-0-0) vs. Luis Iniguez (5-1-0)\nPrelim: Kai Kamaka III (9-5-1
- ) vs. Akhmed Magomedov (8-0-0)\nPrelim: Ethan Hughes (3-0-0) vs. Kevin H
- and (2-0-0)
+  Porto (23-9-0)\nPrelim: Akhmed Magomedov (8-0-0) vs. Kevin Boehm (9-4-0
+ )\nPrelim: Gadzhi Rabadanov (17-4-2) vs. Bobby King (12-4-0)\nPrelim: Ro
+ man Faraldo (7-0-0) vs. Luis Iniguez (5-1-0)\nPrelim: Jaylon Bates (5-0-
+ 0) vs. Mark Coates (10-7-0)\nPrelim: Archie Colgan (4-0-0) vs. Bryan Nur
+ o (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220716T092005Z
+DTSTAMP:20220722T103714Z
 UID:2022-08-bellator-284-gracie-vs-yamauchi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 284: Gracie vs. Yamauchi
@@ -49,7 +79,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Downey (0-0-0) vs. Jeff Souder (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220716T092005Z
+DTSTAMP:20220722T103714Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally
@@ -69,5 +99,16 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  im: Asaël Adjoudj (3-1-0) vs. Adam Gustab (6-5-0)\nPrelim: Karl Albrekts
  son (13-3-0) vs. Karl Moore (9-2-0)\nPrelim: Dante Schiro (9-3-0) vs. Lu
  ca Poclit (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220722T103714Z
+UID:2022-10-bellator-milan@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator Milan
+DTSTART:20221029T170000Z
+DTEND:20221029T200000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/91397-bellator-mi
+ lan
 END:VEVENT
 END:VCALENDAR
