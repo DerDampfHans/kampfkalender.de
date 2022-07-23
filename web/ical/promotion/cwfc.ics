@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220722T103714Z
-X-KAMPFKALENDER-HASH:0f56c15142bc7ca0906ceeba5dcccd9eb8ff8c6d
+DTSTAMP:20220723T063048Z
+X-KAMPFKALENDER-HASH:4aabbe33474e80b770eb2d05df316000d66e9d92
 BEGIN:VEVENT
-DTSTAMP:20220722T103714Z
+DTSTAMP:20220723T063048Z
 UID:2022-07-cage-warriors-141-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 141: Prelims
@@ -32,7 +32,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Omiel Brown (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220722T103714Z
+DTSTAMP:20220723T063048Z
 UID:2022-07-cage-warriors-141-driscoll-vs-hardwick@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 141: Driscoll vs. Hardwick
@@ -55,5 +55,19 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  esse Urholin (8-0-0) vs. Madars Fleminas (9-3-0)\nPrelim: Ander Sanchez 
  (1-0-0) vs. Lone'er Kavanagh (3-0-0)\nPrelim: Alexander Lindgren (3-1-0)
   vs. Omiel Brown (3-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220723T063048Z
+UID:2022-08-cage-warriors-142@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 142
+DTSTART:20220813T160000Z
+DTEND:20220813T190000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91481-cage-warriors-142\n\n---\n\nMain Card: Aaron Aby (13-4
+ -1) vs. Michelangelo Lupoli (5-2-0)\nMain Card: Josh Reed (12-7-0) vs. B
+ ogdan Barbu (17-13-0)\nPrelim: Stephanie Evans (0-0-0) vs. Jasmine Faver
+ o (0-0-0)
 END:VEVENT
 END:VCALENDAR
