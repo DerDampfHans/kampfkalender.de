@@ -2572,5 +2572,45 @@
         ]
       }
     }
+  },
+  {
+    "id": "eislingen-2022-07-23",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Eislingen"
+    ],
+    "mainCard": {
+      "title": "Eislingen Fight Night",
+      "time": "2022-07-23T12:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gym-club-eislingen-504",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "diamond-2022-07-23",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#BadWindesheim"
+    ],
+    "mainCard": {
+      "title": "Diamond Super Four Gala",
+      "time": "2022-07-23T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-diamond-super-four-gala-506",
+          "freeAfter": 48
+        }
+      }
+    }
   }
 ]

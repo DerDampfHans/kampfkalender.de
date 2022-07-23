@@ -195,5 +195,98 @@
         "MMA"
       ]
     }
+  },
+  {
+    "id": "bkb-2022-07-23",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKB27"
+    ],
+    "mainCard": {
+      "title": "BKB 27: Morgan vs. Alexandre",
+      "time": "2022-07-23T18:00:00Z",
+      "until": "2022-07-23T21:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=j-XlX7CsnIs"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-bkb-27-505"
+        },
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkb-27/2pbhw/"
+        }
+      },
+      "fite": {
+        "id": "2pbhw",
+        "time": "2022-07-23T18:00:00Z",
+        "title": "BKB 27: Gavin Curragh vs Marley Churcher",
+        "url": "https://www.fite.tv/watch/bkb-27/2pbhw/",
+        "price": "WATCH WITH FITE+",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      },
+      "youTube": {
+        "id": "j-XlX7CsnIs",
+        "time": "2022-07-23T18:00:00Z",
+        "title": "LIVE: BKB 27 | 23. Juli | 20 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=j-XlX7CsnIs",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 91468,
+      "time": "2022-07-23T16:00:00Z",
+      "title": "BKB 27",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/91468-bkb-27",
+      "card": [
+        "Main Event: Craig Morgan vs. Carlos Alexandre",
+        "Co-Main Event: Marley Churcher vs. Gavin Curragh",
+        "Main Card: Albert Scamp vs. Emil Markic",
+        "Main Card: Steven Evans vs. Dave Thomas",
+        "Main Card: Robin Deakin vs. Ben Hatchett",
+        "Main Card: Mason Shaw vs. Lawrence Tracey",
+        "Main Card: Jack McLean vs. Patrick Nash",
+        "Main Card: Callan Harley vs. Luke Kelly",
+        "Main Card: Ionel Levitchi vs. Martin Refell",
+        "Main Card: Eric Olsen vs. Szymon Szynkiewicz",
+        "Main Card: Aaron McCallum vs. Beau Besley",
+        "Main Card: Mark Handley vs. Johnny Jones"
+      ]
+    },
+    "fightEvents": {
+      "id": "bkb-27",
+      "time": "2022-07-23T18:00:00Z",
+      "until": "2022-07-23T21:00:00Z",
+      "title": "BKB 27",
+      "url": "https://www.fightevents.de/event/bkb-27/",
+      "broadcaster": "FIGHT24_TV",
+      "tags": [
+        "Bare Knuckle Boxen",
+        "Bare Knuckle Boxing",
+        "BKB",
+        "BKB 27",
+        "Boxen",
+        "London"
+      ],
+      "categories": [
+        "Boxen",
+        "Fight24.tv",
+        "International",
+        "Livestream",
+        "MMA"
+      ]
+    }
   }
 ]
