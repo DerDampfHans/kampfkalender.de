@@ -772,5 +772,81 @@
         "https://events.mixedmartialarts.com/bkfc-26:20c6370b-1019-49b3-b8dd-fd2b507ca298"
       ]
     }
+  },
+  {
+    "id": "tapology-90639",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFCTampa",
+      "#BKFCTampa2"
+    ],
+    "mainCard": {
+      "title": "BKFC Tampa 2: Grant vs. Barnett",
+      "time": "2022-07-24T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-fight-night-tampa-2/2pbko/"
+        }
+      },
+      "fite": {
+        "id": "2pbko",
+        "time": "2022-07-24T01:00:00Z",
+        "title": "BKFC Fight Night Tampa 2: Jarod Grant vs Reginald Barnett, Jr.",
+        "url": "https://www.fite.tv/watch/bkfc-fight-night-tampa-2/2pbko/",
+        "price": "$14.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC Tampa 2: Prelims",
+      "time": "2022-07-24T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-fight-night-tampa-2-prelims/2pbnx/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbnx",
+        "time": "2022-07-24T00:00:00Z",
+        "title": "BKFC Fight Night Tampa 2: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-fight-night-tampa-2-prelims/2pbnx/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 90639,
+      "time": "2022-07-24T00:00:00Z",
+      "title": "BKFC Fight Night: Tampa 2",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/90639-bkfc-fight-night-tampa-2",
+      "card": [
+        "Main Event: Jarod Grant vs. Reginald Barnett, Jr.",
+        "Co-Main Event: John Michael Escoboza vs. Jared Warren",
+        "Main Card: David Mundell vs. David Simpson",
+        "Main Card: Joshua Sanchez vs. Ryan Shough",
+        "Main Card: Rynell Riley vs. Heinrich Caceres",
+        "Main Card: Stevo Morris vs. Brandon Allen",
+        "Main Card: Henry Williams vs. Paul Walters",
+        "Main Card: Ryan Reber vs. Rick Caruso",
+        "Prelim: JR Ridge vs. Justyn Martinez",
+        "Prelim: Alex Tierney vs. Darrick Gates"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-fight-night:b8059d30-348d-4747-9e8f-bebaec57c283"
+      ]
+    }
   }
 ]
