@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220723T154730Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220727T142356Z
+X-KAMPFKALENDER-HASH:c8750d1da74799714f53f5bbfa2f41c4a3ef3dde
+BEGIN:VEVENT
+DTSTAMP:20220727T142357Z
+UID:2022-08-eagle-fc-49-busurmankul-vs-magomedov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eagle FC 49: Busurmankul vs Magomedov
+DTSTART:20220810T140000Z
+DTEND:20220810T170000Z
+CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
+DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91493-eagle-fc-49\n\n---\n\nMain Event: Rasul Magomedov (10-3-0) vs
+ . B. Abdibait uulu (14-3-1)\nCo-Main Event: Irgit Oveenchi (7-2-0) vs. M
+ agomedrasul Gadzhiev (6-0-0)\nMain Card: Shakhban Alkhasov (6-0-0) vs. M
+ ikhail Doroshenko (10-2-1)
+END:VEVENT
 END:VCALENDAR

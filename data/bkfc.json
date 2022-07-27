@@ -6,7 +6,8 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC27"
+      "#BKFC27",
+      "#BKFCLondon"
     ],
     "mainCard": {
       "title": "BKFC 27: MVP vs. Platinum",
@@ -19,9 +20,31 @@
       "fite": {
         "id": "2pbkj",
         "time": "2022-08-21T01:00:00Z",
-        "title": "BKFC 27: Michael Page vs Mike Perry",
+        "title": "BKFC 27 London: Michael Page vs Mike Perry",
         "url": "https://www.fite.tv/watch/bkfc-27/2pbkj/",
         "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 27: Prelims",
+      "time": "2022-08-21T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-27-prelims/2pbol/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbol",
+        "time": "2022-08-21T00:00:00Z",
+        "title": "BKFC 27 London: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-27-prelims/2pbol/",
+        "price": "FREE",
         "sports": [
           "BARE_KNUCKLE",
           "BOXING",

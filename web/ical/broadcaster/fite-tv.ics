@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220724T220305Z
-X-KAMPFKALENDER-HASH:3bef193c89488e91c275975d8e29fbd3d9d48e19
+DTSTAMP:20220727T142356Z
+X-KAMPFKALENDER-HASH:a1d340053a3511edbd420c2fd525275f7232d4d5
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-07-aka-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 22
@@ -29,7 +29,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-22/2pbk9/\n\n---\n
  . Michael Bryant (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-07-bkb-27-morgan-vs-alexandre@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 27: Morgan vs. Alexandre
@@ -50,7 +50,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=j-XlX7CsnIs\
  ey\nMain Card: Mark Handley vs. Johnny Jones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-07-bkfc-tampa-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Tampa 2: Prelims
@@ -69,7 +69,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-tampa
  : JR Ridge vs. Justyn Martinez\nPrelim: Alex Tierney vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-07-bkfc-tampa-2-grant-vs-barnett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Tampa 2: Grant vs. Barnett
@@ -88,7 +88,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-fight-night-tampa
  ge vs. Justyn Martinez\nPrelim: Alex Tierney vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-07-gonzalez-vs-dogboe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gonzalez vs. Dogboe
@@ -110,7 +110,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-gonzalez-vs-d
  yman Audie (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-08-conlan-vs-marriaga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Marriaga
@@ -121,7 +121,56 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-conlan-vs-mar
  riaga/2pbmv/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
+UID:2022-08-paul-vs-rahman-jr@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paul vs. Rahman Jr.
+DTSTART:20220807T010000Z
+DTEND:20220807T040000Z
+CATEGORIES:MVP,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-rahman-jr/2pbo
+ 8/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/90287-paul\nhtt
+ p://www.boxrec.com/en/event/857630\n\n---\n\nMain Event: Jake Paul (5-0-
+ 0) vs. Hasim Rahman Jr (12-1-0)\nCo-Main Event: Amanda Serrano (42-2-1) 
+ vs. Brenda Carabajal (19-5-1)\nMain Card: Brandun Lee (23-0-0) vs. Will 
+ Madera (17-1-3)\nMain Card: Ashton Sylve (7-0-0) vs. Braulio Rodriguez (
+ 20-4-0)\nMain Card: Jeremiah Milton (5-0-0) vs. Quintin Sumpter (0-0-0)\
+ nMain Card: Brian Ceballo (13-0-0) vs. Wesley Tucker (15-3-0)\nMain Card
+ : Frederic Julan (12-1-0) vs. Joe Ward (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220727T142357Z
+UID:2022-08-aka-23@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 23
+DTSTART:20220814T000000Z
+DTEND:20220814T030000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-23/2pboj/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220727T142357Z
+UID:2022-08-bkfc-27-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 27: Prelims
+DTSTART:20220821T000000Z
+DTEND:20220821T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27-prelims/2pbol/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/90138-bkfc-27-mvp
+ -vs-perry\nhttps://events.mixedmartialarts.com/bkfc-27:8a621851-8e6a-466
+ 2-9855-03e1f93dafe8\n\n---\n\nMain Event: Michael Page vs. Mike Perry\nC
+ o-Main Event: Paige VanZant vs. Charisa Sigala\nMain Card: Connor Tierne
+ y vs. Joe Elmore\nMain Card: Sam Shewmaker vs. Mick Terrill\nMain Card: 
+ John Hick vs. Ellis Shepherd\nMain Card: Tyler Goodjohn vs. James Lilley
+ \nMain Card: Chris Fishgold vs. Jake Bostwick\nMain Card: Jamie Cox vs. 
+ Kearon Thomas\nMain Card: Dawid Żółtaszek vs. Adam Harris\nMain Card: Ro
+ b Cunningham vs. Brett May\nMain Card: Danny Christie vs. Terry Brazier\
+ nPrelim: Franco Tenaglia vs. Chas Symonds\nPrelim: Conan Barbaru vs. Dan
+  Vinni\nPrelim: Tony Giles vs. David Round
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220727T142357Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
@@ -142,7 +191,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27/2pbkj/\n\n---\
  Prelim: Tony Giles vs. David Round
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -159,7 +208,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  ac Vallie-Flagg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220724T220306Z
+DTSTAMP:20220727T142357Z
 UID:2022-09-bkfc-montana-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Montana 2

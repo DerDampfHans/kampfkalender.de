@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220715T043944Z
-X-KAMPFKALENDER-HASH:90debb2f1d876bd2bd7c08f57e736a4e8d076bad
+DTSTAMP:20220727T142356Z
+X-KAMPFKALENDER-HASH:dc35cbdb848f9680e66afd9ba587b745e59c7a48
 BEGIN:VEVENT
-DTSTAMP:20220715T043945Z
+DTSTAMP:20220727T142357Z
 UID:2022-07-urijah-faber-s-a1-combat-4-wallace-vs-batinich@kampfkalender.
  de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -17,14 +17,34 @@ DTEND:20220801T000000Z
 CATEGORIES:A1C,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/89972-urijah-faber-s-a1-combat-4-stockton\n\n---\n\nMain Car
- d: Randall Wallace (17-9-1) vs. Ivan Batinich (5-1-0)\nMain Card: Nick K
- ohring (12-2-0) vs. Julian Lane (12-9-1)\nMain Card: Khai Wu (6-3-0) vs.
-  Ron Becker (4-4-0)\nMain Card: Adrian Guzman (6-3-0) vs. Justin Cornell
-  (3-1-0)\nMain Card: Ryan Loder (3-0-0) vs. Sean Sullivan (1-0-0)\nMain 
- Card: Trey Williams (4-2-0) vs. Chuck Campbell (3-1-0)\nMain Card: Blake
-  Perry (1-0-0) vs. Marcel McCain (0-1-0)\nMain Card: Geoffrey Mellor (2-
- 4-0) vs. Chris Inocencio (2-4-0)\nMain Card: Joseph Lee (1-0-0) vs. Abdi
- kabyl Kaldar (2-1-0)\nMain Card: Yannick Krähenbühl (0-0-0) vs. Matt Ham
- pton (0-1-0)\nMain Card: Billy Brand (1-1-0) vs. Alex Carrillo (0-0-0)
+ d: Randall Wallace (17-9-1) vs. Joaquin Lopez (6-2-0)\nMain Card: Nick K
+ ohring (12-2-0) vs. Moses Murrietta (9-6-0)\nMain Card: Trey Williams (5
+ -2-0) vs. Chuck Campbell (3-1-0)\nMain Card: Adrian Guzman (6-3-0) vs. J
+ ustin Cornell (3-1-0)\nMain Card: Ryan Loder (3-0-0) vs. Sean Sullivan (
+ 1-0-0)\nMain Card: Blake Perry (1-0-0) vs. Marcel McCain (0-1-0)\nMain C
+ ard: Joseph Lee (1-0-0) vs. Abdikabyl Kaldar (2-1-0)\nMain Card: Yannick
+  Krähenbühl (0-0-0) vs. Matt Hampton (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220727T142357Z
+UID:2022-09-urijah-faber-s-a1-combat-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 5
+DTSTART:20220904T000000Z
+DTEND:20220904T030000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91505-urijah-faber-s-a1-combat-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220727T142357Z
+UID:2022-10-urijah-faber-s-a1-combat-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 6
+DTSTART:20221023T000000Z
+DTEND:20221023T030000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91506-urijah-faber-s-a1-combat-6
 END:VEVENT
 END:VCALENDAR
