@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220727T142356Z
-X-KAMPFKALENDER-HASH:3889d0f31974cb20455ff71d9c9966853b458b45
+DTSTAMP:20220729T130659Z
+X-KAMPFKALENDER-HASH:9a1adedb09270ebac5de9efce6086fa45de08ad0
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-07-bkb-27-morgan-vs-alexandre@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 27: Morgan vs. Alexandre
@@ -28,7 +28,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=j-XlX7CsnIs\
  ey\nMain Card: Mark Handley vs. Johnny Jones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-07-brave-cf-60-martins-vs-marques@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Brave CF 60: Martins vs. Marques
@@ -47,26 +47,27 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=e7elUxpHmBk\
  Flavio de Queiroz (12-4-0) vs. Igor Taylon (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
-DTSTART:20220806T010000Z
-DTEND:20220806T040000Z
+DTSTART:20220805T213000Z
+DTEND:20220806T003000Z
 CATEGORIES:PFL,MMA,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/87838-pfl-2022-7-playoffs\n\n---\n\nMain Event: Anthony Pettis 
- (25-13-0) vs. Stevie Ray (24-10-0)\nCo-Main Event: Omari Akhmedov (23-7-
- 1) vs. Josh Silveira (9-0-0)\nMain Card: Rob Wilkinson (15-2-0) vs. Dela
- n Monte (9-2-0)\nMain Card: Olivier Aubin-Mercier (15-5-0) vs. Alex Mart
- inez (10-2-0)\nPrelim: Cory Hendricks (9-4-0) vs. Marthin Hamlet (9-4-0)
- \nPrelim: Marcelo Nunes (8-1-0) vs. Adam Keresh (5-1-0)\nPrelim: Alexei 
- Pergande (1-0-0) vs. Elvis Lebron Quiles (0-0-0)\nPrelim: Elvin Espinoza
-  (6-0-0) vs. Corey Jackson (5-1-0)\nPrelim: Brahyan Zurcher (3-0-0) vs. 
- Ricardo Jimenez (0-1-1)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Ha5RyCLz81k\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/87838-pfl-2022-7-p
+ layoffs\n\n---\n\nMain Event: Anthony Pettis (25-13-0) vs. Stevie Ray (2
+ 4-10-0)\nCo-Main Event: Omari Akhmedov (23-7-1) vs. Josh Silveira (9-0-0
+ )\nMain Card: Rob Wilkinson (15-2-0) vs. Delan Monte (9-2-0)\nMain Card:
+  Olivier Aubin-Mercier (15-5-0) vs. Alex Martinez (10-2-0)\nPrelim: Cory
+  Hendricks (9-4-0) vs. Marthin Hamlet (9-4-0)\nPrelim: Marcelo Nunes (8-
+ 1-0) vs. Adam Keresh (5-1-0)\nPrelim: Alexei Pergande (1-0-0) vs. Elvis 
+ Lebron Quiles (0-0-0)\nPrelim: Elvin Espinoza (6-0-0) vs. Corey Jackson 
+ (5-1-0)\nPrelim: Brahyan Zurcher (3-0-0) vs. Ricardo Jimenez (0-1-1)\nPr
+ elim: Lucas Barbosa (2-1-0) vs. Elmar Umarov (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -87,7 +88,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
   Patrick Vespaziani (1-0-0) vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -109,7 +110,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=IzYfos774-A\
   vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-nfc-10-grabinski-vs-lutterbach@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Grabinski vs. Lutterbach
@@ -131,7 +132,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  iani (1-0-0) vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -139,18 +140,20 @@ DTSTART:20220814T010000Z
 DTEND:20220814T040000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/87839-pfl-2022-8-playoffs\n\n---\n\nMain Event: Rory MacDonald 
- (23-9-1) vs. Magomed Umalatov (12-0-0)\nCo-Main Event: Ante Delija (21-5
- -0) vs. Renan Ferreira (9-3-0)\nMain Card: Denis Goltsov (29-7-0) vs. Br
- uno Cappelozza (15-6-0)\nMain Card: Carlos Leal (17-3-0) vs. Sadibou Sy 
- (11-6-2)\nPrelim: Will Fleury (10-3-0) vs. Kenneth Bergh (9-1-0)\nPrelim
- : Vojto Barborík (13-2-0) vs. Maxim Radu (9-2-0)\nPrelim: Moktar Benkaci
-  (20-7-0) vs. Francesco Nuzzi (9-1-0)\nPrelim: Josh O'Connor (1-0-0) vs.
-  Emran Sakhizaada (2-1-0)\nPrelim: Chris Mixan (3-0-0) vs. John Mitchell
-  (4-1-0)\nPrelim: Hatef Moeil (12-4-0) vs. Szymon Bajor (23-9-0)
+ r/events/87839-pfl-2022-8-playoffs\n\n---\n\nPostlim: Will Fleury (10-3-
+ 0) vs. Anthony Salamone (7-0-0)\nPostlim: Nate Kelly (5-2-0) vs. Ben Ell
+ is (4-1-0)\nPostlim: Vojto Barborík (13-2-0) vs. Maxim Radu (9-2-0)\nPos
+ tlim: Moktar Benkaci (20-7-0) vs. Francesco Nuzzi (9-1-0)\nMain Event: R
+ ory MacDonald (23-9-1) vs. Magomed Umalatov (12-0-0)\nCo-Main Event: Ant
+ e Delija (21-5-0) vs. Renan Ferreira (9-3-0)\nMain Card: Denis Goltsov (
+ 29-7-0) vs. Matheus Scheffel (16-8-0)\nMain Card: Carlos Leal (17-3-0) v
+ s. Sadibou Sy (11-6-2)\nPrelim: Josh O'Connor (1-0-0) vs. Emran Sakhizaa
+ da (2-1-0)\nPrelim: Mohammad Fakhreddine (15-4-0) vs. Marcin Wójcik (15-
+ 8-0)\nPrelim: Chris Mixan (3-0-0) vs. Christian Stigenberg (3-1-0)\nPrel
+ im: Hatef Moeil (12-4-0) vs. Szymon Bajor (23-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -158,20 +161,19 @@ DTSTART:20220821T010000Z
 DTEND:20220821T040000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/87840-pfl-2022-9-playoffs\n\n---\n\nMain Event: Kayla Harrison 
- (14-0-0) vs. Martina Jindrová (6-2-0)\nCo-Main Event: Chris Wade (22-7-0
- ) vs. Brendan Loughnane (23-4-0)\nMain Card: Ryoji Kudo (11-3-1) vs. Bub
- ba Jenkins (18-5-0)\nMain Card: Larissa Pacheco (17-4-0) vs. Olena Koles
- nyk (7-4-0)\nPrelim: Dakota Ditcheva (5-0-0) vs. Hassna Gaber (4-1-0)\nP
- relim: Louie Sutherland (4-0-0) vs. Abraham Bably (1-0-0)\nPrelim: Tayo 
- Odunjo (4-1-0) vs. Magnus Onyeka Iversen (2-0-0)\nPrelim: Ali Taleb (7-0
- -0) vs. Kenji Bortoluzzi (11-4-1)\nPrelim: Simeon Powell (6-0-0) vs. Nem
- anja Uverić (11-5-0)\nPrelim: Stuart Austin (15-8-0) vs. Sofiane Boukich
- ou (9-4-0)\nPrelim: Marcin Held (27-9-0) vs. Myles Price (11-9-0)\nPreli
- m: Ali Taleb (7-0-0) vs. Kenji Bortoluzzi (11-4-1)
+ r/events/87840-pfl-2022-9-playoffs\n\n---\n\nPostlim: Dakota Ditcheva (5
+ -0-0) vs. Hassna Gaber (4-1-0)\nPostlim: Louie Sutherland (4-0-0) vs. Ab
+ raham Bably (1-0-0)\nPostlim: Tayo Odunjo (4-1-0) vs. Magnus Onyeka Iver
+ sen (2-0-0)\nPostlim: Ali Taleb (7-0-0) vs. Kenji Bortoluzzi (11-4-1)\nM
+ ain Event: Kayla Harrison (14-0-0) vs. Martina Jindrová (6-2-0)\nCo-Main
+  Event: Chris Wade (22-7-0) vs. Brendan Loughnane (23-4-0)\nMain Card: L
+ arissa Pacheco (17-4-0) vs. Olena Kolesnyk (7-4-0)\nMain Card: Ryoji Kud
+ o (11-3-1) vs. Bubba Jenkins (18-5-0)\nPrelim: Simeon Powell (6-0-0) vs.
+  Nemanja Uverić (11-5-0)\nPrelim: Stuart Austin (15-8-0) vs. Sofiane Bou
+ kichou (9-4-0)\nPrelim: Marcin Held (27-9-0) vs. Myles Price (11-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-09-super-league-mma-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 4
@@ -183,7 +185,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  events/90451-super-league-mma-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -193,7 +195,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -205,7 +207,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -217,7 +219,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -229,7 +231,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -240,7 +242,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87841-pfl-2022-10-championships
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-11-pfl-finals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 2
@@ -250,7 +252,7 @@ CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -262,7 +264,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  events/90452-super-league-mma-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -274,7 +276,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -286,7 +288,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

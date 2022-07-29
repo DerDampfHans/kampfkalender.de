@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220727T142356Z
-X-KAMPFKALENDER-HASH:31fbb929383fcc8f9802ba5f68c3b44315b9c2f4
+DTSTAMP:20220729T130659Z
+X-KAMPFKALENDER-HASH:b9b2302210d75b9eb4323f3a0372ce1942409645
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-07-lfa-137-gibson-vs-amil@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 137: Gibson vs. Amil
@@ -24,15 +24,14 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -Paul Lebosnoyani (4-1-0) vs. Caleb Hall (4-0-0)\nMain Card: Cody Davis 
  (5-0-0) vs. Mark Climaco (6-1-0)\nMain Card: Leandro Gomes (6-2-0) vs. J
  avier Garcia (8-5-0)\nMain Card: Billy Elekana (4-0-0) vs. Daniel Compto
- n (6-2-0)\nMain Card: Pauline Macias (4-2-0) vs. Amber Brown (7-6-0)\nPr
- elim: Karlee Pangilinan (6-2-0) vs. Mefi Monterroso (5-3-0)\nPrelim: Dan
- ny Silva (5-0-0) vs. Elijah Leggett (4-0-0)\nPrelim: Alandria Brown (1-1
- -0) vs. Jasmine Pouncy (1-1-0)\nPrelim: Emmanueli Adzoh (3-1-0) vs. Tyso
- n Miller (3-0-0)\nPrelim: Jeffrey Craig (1-0-0) vs. Orlando Sanders (0-0
- -0)
+ n (6-2-0)\nPrelim: Karlee Pangilinan (6-2-0) vs. Mefi Monterroso (5-3-0)
+ \nPrelim: Emmanueli Adzoh (3-1-0) vs. Tyson Miller (3-0-0)\nPrelim: Dann
+ y Silva (5-0-0) vs. Elijah Leggett (4-0-0)\nPrelim: Alandria Brown (1-1-
+ 0) vs. Jasmine Pouncy (1-1-0)\nPrelim: Jeffrey Craig (1-0-0) vs. Orlando
+  Sanders (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-lfa-138-farias-vs-tanaka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 138: Farias vs. Tanaka
@@ -47,12 +46,11 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -4-0)\nMain Card: Jota Ninomiya (1-0-0) vs. Nick Talavera (2-1-0)\nMain 
  Card: Motaz Askar (3-0-0) vs. Chris Mecate (4-1-0)\nPrelim: Jared Brown 
  (0-0-0) vs. Ryan Hoover (1-0-0)\nPrelim: Ashton Kirby (0-0-0) vs. Kallum
-  Parker (0-0-0)\nPrelim: Mindaugas Vaitkūnas (1-0-0) vs. Kevin Pease (1-
- 0-0)\nPrelim: David Wright (2-0-0) vs. Gabe Conner (0-0-0)\nPrelim: Abra
- ham Benjamin (5-3-0) vs. Abbas Mounshed (1-1-0)
+  Parker (0-0-0)\nPrelim: David Wright (2-0-0) vs. Gabe Conner (0-0-0)\nP
+ relim: Abraham Benjamin (5-3-0) vs. Abbas Mounshed (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-08-lfa-139-assenza-vs-melo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 139: Assenza vs. Melo
@@ -61,6 +59,26 @@ DTEND:20220820T040000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/90735-lfa-139-assenza-vs-melo\n\n---\n\nMain Event: Adam Ass
- enza (16-6-0) vs. Junior Melo (11-5-0)
+ enza (16-6-0) vs. Junior Melo (11-5-0)\nMain Card: Tony Laramie (6-2-0) 
+ vs. Rodney Kealohi (5-3-0)\nMain Card: Teshay Gouthro (5-1-0) vs. Arnold
+  Jimenez (8-2-0)\nMain Card: Ryan Charlebois (3-1-0) vs. Logan Urban (5-
+ 1-0)\nMain Card: Lydell Poag (2-0-0) vs. Dylan Budka (3-1-0)\nPrelim: Li
+ am Anderson (2-2-0) vs. Robert Gidron (6-6-0)\nPrelim: Austin Ross (2-0-
+ 0) vs. Matt Smith (1-1-0)\nPrelim: Alex Moher (3-1-0) vs. Kevin Hixon (1
+ -0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T130700Z
+UID:2022-08-lfa-140-mota-vs-abuev@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 140: Mota vs. Abuev
+DTSTART:20220827T010000Z
+DTEND:20220827T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91626-lfa-140-mota-vs-abuev\n\n---\n\nMain Event: Carlos Mot
+ a (7-1-0) vs. Rizvan Abuev (12-3-0)\nMain Card: Richie Miranda (4-0-0) v
+ s. Elijah Harris (4-4-0)\nMain Card: Braden Pagaoa (2-1-0) vs. Dillion C
+ ox (4-3-0)
 END:VEVENT
 END:VCALENDAR

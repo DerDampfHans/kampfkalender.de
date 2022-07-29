@@ -1,52 +1,5 @@
 [
   {
-    "id": "tapology-90495",
-    "promotion": "GBP_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "tags": [
-      "#GonzalezAngulo"
-    ],
-    "mainCard": {
-      "title": "Gonzalez vs. Angulo",
-      "time": "2022-07-29T01:00:00Z",
-      "broadcasters": {
-        "DAZN": {
-        }
-      },
-      "dazn": {
-        "id": "mgblwicpa2oj1e9nar17v5old",
-        "time": "2022-07-29T01:00:00Z",
-        "title": "Vorkämpfe & Hauptkampf",
-        "sport": "BOXING",
-        "competition": "Gonzalez vs Angulo"
-      }
-    },
-    "tapology": {
-      "id": 90495,
-      "time": "2022-07-29T02:00:00Z",
-      "title": "Gonzalez vs. Angulo",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/90495-gonzalez-vs-angulo",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Jousce Gonzalez (12-0-1) vs. Jose Angulo (14-2-0)",
-        "Co-Main Event: Manuel Flores (12-0-0) vs. Daniel Moncada (0-0-0)",
-        "Main Card: Gabriela Fundora (7-0-0) vs. Lucia Hernandez Nunez (7-12-0)",
-        "Main Card: Jasmine Artiga (8-0-1) vs. Amy Salinas (4-1-0)",
-        "Main Card: Elnur Abduraimov (9-0-0) vs. Leonel Moreno (2-0-1)",
-        "Main Card: Eric Tudor (0-0-0) vs. Edgar Valenzuela (6-0-0)",
-        "Main Card: Daniel Barrera (0-0-0) vs. Jesus Godinez (3-3-0)"
-      ],
-      "links": [
-        "http://www.boxrec.com/en/event/858078"
-      ]
-    }
-  },
-  {
     "id": "tapology-89745",
     "promotion": "GBP_BOXING",
     "sports": [
@@ -85,6 +38,31 @@
         "Main Card: Blair Cobbs (15-1-1) vs. Maurice Hooker (27-2-3)",
         "Main Card: Bektemir Melikuziev (9-1-0) vs. Sladan Janjanin (32-11-0)",
         "Prelim: Alex Martin (17-4-0) vs. Henry Lundy (31-10-1)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-91595",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Golden Boy Fight Night: Valle vs. Nguyen",
+      "time": "2022-09-09T01:00:00Z"
+    },
+    "tapology": {
+      "id": 91595,
+      "time": "2022-09-09T01:00:00Z",
+      "title": "Golden Boy Fight Night: Valle vs. Nguyen",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/91595-golden-boy-fight-night-valle-vs-nguyen",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Yokasta Valle (25-2-0) vs. Thi Thu Nhi Nguyen (5-0-0)"
       ]
     }
   }

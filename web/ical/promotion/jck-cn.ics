@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220727T142356Z
-X-KAMPFKALENDER-HASH:f2a7a3196dd2f6bdadfc736cc3ca6e0f31675b81
+DTSTAMP:20220729T130659Z
+X-KAMPFKALENDER-HASH:d4eaa0cc9029b5e95640bd8e8d95a895ce29c1c9
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-07-jck-fight-night-week-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night: Week 12
@@ -27,7 +27,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Huanjun Gao (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220729T130700Z
 UID:2022-07-jck-fight-night-2022-week-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night 2022: Week 13
@@ -46,10 +46,28 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (3-3-0) vs. Tao Bai (1-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
-UID:2022-08-jck-fight-night-2022-week-14@kampfkalender.de
+DTSTAMP:20220729T130700Z
+UID:2022-07-jck-fight-night-2022-week-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night 2022: Week 14
+DTSTART:20220731T110000Z
+DTEND:20220731T140000Z
+CATEGORIES:JCK,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91612-jck-fight-night-2022\n\n---\n\nMain Event: Haojie Li (
+ 27-5-1) vs. Tianlong Luo (5-5-0)\nCo-Main Event: Lile Du (31-10-0) vs. Z
+ e Wu (20-14-0)\nMain Card: Meng Ding (30-8-0) vs. Damu Wu (1-5-0)\nMain 
+ Card: Liucai Cui (28-7-0) vs. Ketuogesi Meng (9-7-0)\nPrelim: Guoqing Ba
+ i (0-1-0) vs. Kurban Wubukasimu (3-6-0)\nPrelim: Guang Ying (1-2-0) vs. 
+ Jinping Wang (1-3-0)\nPrelim: Wenyun Zhou (0-2-0) vs. Jinbo Zou (6-13-0)
+ \nPrelim: Bingyin Wang (3-6-0) vs. Hexigetu (8-6-0)\nPrelim: Guangmei Ha
+ n (3-3-0) vs. Wusamo Hailai (2-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T130700Z
+UID:2022-08-jck-fight-night-2022-week-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:JCK Fight Night 2022: Week 15
 DTSTART:20220806T110000Z
 DTEND:20220806T140000Z
 CATEGORIES:JCK,MMA,UFC Fight Pass,live
@@ -57,10 +75,10 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/91148-jck-fight-night-2022-week-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
-UID:2022-08-jck-fight-night-2022-week-15@kampfkalender.de
+DTSTAMP:20220729T130700Z
+UID:2022-08-jck-fight-night-2022-week-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:JCK Fight Night 2022: Week 15
+SUMMARY:JCK Fight Night 2022: Week 16
 DTSTART:20220813T110000Z
 DTEND:20220813T140000Z
 CATEGORIES:JCK,MMA,UFC Fight Pass,live
