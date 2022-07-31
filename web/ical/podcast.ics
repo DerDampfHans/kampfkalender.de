@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220729T131513Z
-X-KAMPFKALENDER-HASH:fdcf4c811c8e63268ac26aa4dec0d189bfd03650
+DTSTAMP:20220731T153715Z
+X-KAMPFKALENDER-HASH:89f373f785eb9fd0b227fc513d2c015a7e44a709
 BEGIN:VEVENT
-DTSTAMP:20220729T131514Z
+DTSTAMP:20220731T153715Z
 UID:2022-07-schlagwort-podcast-mit-edmon-ringlife@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast mit Edmon / Ringlife
@@ -17,13 +17,14 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=89J14KvAIdc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220729T131514Z
-UID:2022-07-schlagwort-podcast-1@kampfkalender.de
+DTSTAMP:20220731T153715Z
+UID:2022-07-schlagwort-podcast-174-max-merten-ilias-darrazi@kampfkalender
+ .de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Podcast 174: Max Merten & Ilias Darrazi
 DTSTART:20220731T160000Z
 DTEND:20220731T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=lrRkq41x9LA
 END:VEVENT
 END:VCALENDAR
