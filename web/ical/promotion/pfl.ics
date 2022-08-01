@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220729T130659Z
-X-KAMPFKALENDER-HASH:9ae09bf43ca91e5a1a3e674be4db11ae6356daf5
+DTSTAMP:20220801T104022Z
+X-KAMPFKALENDER-HASH:e559e1e2df437ffc1d4301b6322297ffa1fb76d3
 BEGIN:VEVENT
-DTSTAMP:20220729T130700Z
+DTSTAMP:20220801T104023Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
@@ -16,18 +16,23 @@ DTEND:20220806T003000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Ha5RyCLz81k\
  n\n---\n\nhttps://www.tapology.com/fightcenter/events/87838-pfl-2022-7-p
- layoffs\n\n---\n\nMain Event: Anthony Pettis (25-13-0) vs. Stevie Ray (2
- 4-10-0)\nCo-Main Event: Omari Akhmedov (23-7-1) vs. Josh Silveira (9-0-0
- )\nMain Card: Rob Wilkinson (15-2-0) vs. Delan Monte (9-2-0)\nMain Card:
-  Olivier Aubin-Mercier (15-5-0) vs. Alex Martinez (10-2-0)\nPrelim: Cory
-  Hendricks (9-4-0) vs. Marthin Hamlet (9-4-0)\nPrelim: Marcelo Nunes (8-
- 1-0) vs. Adam Keresh (5-1-0)\nPrelim: Alexei Pergande (1-0-0) vs. Elvis 
- Lebron Quiles (0-0-0)\nPrelim: Elvin Espinoza (6-0-0) vs. Corey Jackson 
- (5-1-0)\nPrelim: Brahyan Zurcher (3-0-0) vs. Ricardo Jimenez (0-1-1)\nPr
- elim: Lucas Barbosa (2-1-0) vs. Elmar Umarov (4-1-0)
+ layoffs\nhttp://www.sherdog.com/events/professional-fighters-league-pfl-
+ 7-2022-playoffs-93334\nhttp://en.wikipedia.org/wiki/PFL_7_(2022_season)\
+ nhttps://events.mixedmartialarts.com/pfl-7:5c9f7a00-b1fa-4d1a-bb12-4fc18
+ 7ccebd1\nhttps://pflmma.com/event/2022-pfl-7\nhttps://www.bestfightodds.
+ com/events/pfl-week-7-2603\n\n---\n\nPostlim: Brahyan Zurcher (3-0-0) vs
+ . Ricardo Jimenez (0-1-1)\nPostlim: Elvin Espinoza (6-0-0) vs. Corey Jac
+ kson (5-1-0)\nPostlim: Lucas Barbosa (2-1-0) vs. Elmar Umarov (4-1-0)\nP
+ ostlim: Alexei Pergande (1-0-0) vs. Elvis Lebron Quiles (0-0-0)\nMain Ev
+ ent: Anthony Pettis (25-13-0) vs. Stevie Ray (24-10-0)\nCo-Main Event: O
+ mari Akhmedov (23-7-1) vs. Josh Silveira (9-0-0)\nMain Card: Olivier Aub
+ in-Mercier (15-5-0) vs. Alex Martinez (10-2-0)\nMain Card: Rob Wilkinson
+  (15-2-0) vs. Delan Monte (9-2-0)\nPrelim: Marcelo Nunes (8-1-0) vs. Dyl
+ an Potter (10-5-0)\nPrelim: Cory Hendricks (9-4-0) vs. Marthin Hamlet (9
+ -4-0)\nPrelim: Mahmoud Fawzy Sebie (2-1-0) vs. Itso Babulaidze (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220729T130700Z
+DTSTAMP:20220801T104023Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -48,7 +53,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  im: Hatef Moeil (12-4-0) vs. Szymon Bajor (23-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220729T130700Z
+DTSTAMP:20220801T104023Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -68,7 +73,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  kichou (9-4-0)\nPrelim: Marcin Held (27-9-0) vs. Myles Price (11-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220729T130700Z
+DTSTAMP:20220801T104023Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -77,15 +82,5 @@ DTEND:20221126T050000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/87841-pfl-2022-10-championships
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220729T130700Z
-UID:2022-11-pfl-finals-2@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL Finals 2
-DTSTART:20221127T020000Z
-DTEND:20221127T050000Z
-CATEGORIES:PFL,MMA,fighting.de,live
-DESCRIPTION:via fighting.de
 END:VEVENT
 END:VCALENDAR

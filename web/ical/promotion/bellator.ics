@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220730T220304Z
-X-KAMPFKALENDER-HASH:a5e083c268c8b39db1b38e96b5024ca9b4a24c55
+DTSTAMP:20220801T104022Z
+X-KAMPFKALENDER-HASH:905858ea490a55e554471a561dfb03dbcd9d2c47
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220801T104023Z
 UID:2022-08-bellator-284-gracie-vs-yamauchi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 284: Gracie vs. Yamauchi
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  1-4-0) vs. Marcos Breno (14-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220801T104023Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally
@@ -51,14 +51,15 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rdan Barton (7-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
-UID:2022-10-bellator-milan@kampfkalender.de
+DTSTAMP:20220801T104023Z
+UID:2022-10-bellator-287@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Bellator Milan
+SUMMARY:Bellator 287
 DTSTART:20221029T170000Z
 DTEND:20221029T200000Z
 CATEGORIES:Bellator,MMA,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/91397-bellator-mi
- lan
+ lan\n\n---\n\nMain Card: Thibault Gouti (16-5-0) vs. Alfie Davis (14-4-1
+ )
 END:VEVENT
 END:VCALENDAR
