@@ -91,12 +91,17 @@
     ],
     "mainCard": {
       "title": "UFC San Diego: Vera vs. Cruz",
-      "time": "2022-08-14T00:00:00Z",
+      "time": "2022-08-13T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 220957,
+        "time": "2022-08-13T23:00:00Z",
+        "title": "UFC Fight Night: Vera vs Cruz"
       },
       "dazn": {
         "id": "796d19r1uags1qt835xck1dmp",
@@ -108,9 +113,15 @@
     },
     "prelims": {
       "title": "UFC San Diego: Prelims",
+      "time": "2022-08-13T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 220956,
+        "time": "2022-08-13T20:00:00Z",
+        "title": "UFC Fight Night: Vera vs Cruz Prelims"
       }
     },
     "tapology": {
@@ -125,16 +136,15 @@
       ],
       "card": [
         "Main Event: Marlon Vera (21-7-1) vs. Dominick Cruz (24-3-0)",
-        "Co-Main Event: Alexa Grasso (14-3-0) vs. Viviane Araujo (11-3-0)",
         "Main Card: David Onama (10-1-0) vs. Nate Landwehr (15-4-0)",
         "Main Card: Devin Clark (13-6-0) vs. Azamat Murzakanov (11-0-0)",
         "Main Card: Nina Nunes (10-7-0) vs. Cynthia Calvillo (9-4-1)",
         "Main Card: Gerald Meerschaert (34-15-0) vs. Bruno Silva (22-7-0)",
-        "Prelim: Aspen Ladd (9-3-0) vs. Sara McMann (13-6-0)",
+        "Prelim: Angela Hill (13-12-0) vs. Lupita Godinez (8-2-0)",
         "Prelim: Yazmin Jauregui (8-0-0) vs. Iasmin Lucindo (13-4-0)",
         "Prelim: Łukasz Brzeski (8-1-1) vs. Martin Buday (10-1-0)",
         "Prelim: Gabriel Benítez (22-10-0) vs. Charlie Ontiveros (11-8-0)",
-        "Prelim: Youssef Zalal (10-5-0) vs. Cristian Quiñonez (16-3-0)",
+        "Prelim: Youssef Zalal (10-5-0) vs. Da'Mon Blackshear (12-4-0)",
         "Prelim: Ode Osbourne (11-4-0) vs. Tyson Nam (20-12-1)"
       ]
     }
@@ -160,7 +170,7 @@
       "fightPass": {
         "id": 220790,
         "time": "2022-08-21T02:00:00Z",
-        "title": "UFC 278"
+        "title": "UFC 278: Usman vs Edwards"
       },
       "dazn": {
         "id": "ynkphpff69ca14hrk0vz36lrp",
@@ -172,16 +182,28 @@
     },
     "prelims": {
       "title": "UFC 278: Prelims",
+      "time": "2022-08-21T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 221138,
+        "time": "2022-08-21T00:00:00Z",
+        "title": "UFC 278: Prelims"
       }
     },
     "earlyPrelims": {
       "title": "UFC 278: Early Prelims",
+      "time": "2022-08-20T22:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 221134,
+        "time": "2022-08-20T22:00:00Z",
+        "title": "UFC 278: Fight Pass Prelims"
       }
     },
     "tapology": {
@@ -367,9 +389,9 @@
         "Prelim: Trevin Giles (14-4-0) vs. Louis Cosce (7-1-0)",
         "Prelim: Damon Jackson (21-4-1) vs. Pat Sabatini (17-3-0)",
         "Prelim: Loma Lookboonmee (6-3-0) vs. Diana Belbiţă (14-7-0)",
-        "Prelim: Melissa Gatto (8-1-2) vs. Gillian Robertson (10-7-0)",
         "Prelim: Anthony Hernandez (9-2-0) vs. Marc-André Barriault (14-5-0)",
-        "Prelim: Alen Amedovski (8-3-0) vs. Joseph Pyfer (9-2-0)"
+        "Prelim: Alen Amedovski (8-3-0) vs. Joseph Pyfer (9-2-0)",
+        "Prelim: Mariya Agapova (10-3-0) vs. Gillian Robertson (10-7-0)"
       ]
     }
   },
@@ -418,7 +440,8 @@
         "Prelim: Vinc Pichel (14-3-0) vs. Jesse Ronson (21-11-0)",
         "Prelim: Tabatha Ricci (7-1-0) vs. Cheyanne Vlismas (7-2-0)",
         "Prelim: Randy Costa (6-3-0) vs. Guido Cannetti (9-6-0)",
-        "Prelim: Julija Stoliarenko (10-6-1) vs. Chelsea Chandler (4-1-0)"
+        "Prelim: Julija Stoliarenko (10-6-1) vs. Chelsea Chandler (4-1-0)",
+        "Prelim: John Castañeda (19-5-0) vs. Daniel Santos (9-2-0)"
       ]
     }
   },
@@ -463,8 +486,9 @@
       ],
       "card": [
         "Main Card: Jonathan Martinez (16-4-0) vs. Cub Swanson (28-12-0)",
-        "Prelim: Angela Hill (13-12-0) vs. Lupita Godinez (8-2-0)",
-        "Prelim: Piera Rodriguez (8-0-0) vs. Sam Hughes (7-4-0)"
+        "Main Card: Askar Askarov (14-1-1) vs. Brandon Royval (14-6-0)",
+        "Prelim: Piera Rodriguez (8-0-0) vs. Sam Hughes (7-4-0)",
+        "Prelim: C.J. Vergara (10-3-1) vs. Tatsuro Taira (11-0-0)"
       ]
     }
   },
@@ -503,7 +527,7 @@
     },
     "tapology": {
       "id": 87755,
-      "time": "2022-10-22T22:00:00Z",
+      "time": "2022-10-22T14:00:00Z",
       "title": "UFC 280: Oliveira vs. Makhachev",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/87755-ufc-281",
@@ -519,7 +543,8 @@
         "Prelim: Zubaira Tukhugov (20-5-1) vs. Lucas Almeida (14-1-0)",
         "Prelim: Marina Rodriguez (16-1-2) vs. Amanda Lemos (12-2-1)",
         "Prelim: Katlyn Chookagian (18-4-0) vs. Manon Fiorot (9-1-0)",
-        "Prelim: Makhmud Muradov (25-7-0) vs. Caio Borralho (12-1-0)"
+        "Prelim: Makhmud Muradov (25-7-0) vs. Caio Borralho (12-1-0)",
+        "Prelim: Muhammad Mokaev (7-0-0) vs. Malcolm Gordon (14-5-0)"
       ]
     }
   },
@@ -563,7 +588,102 @@
         "MMA"
       ],
       "card": [
-        "Main Card: Edson Barboza (22-11-0) vs. Ilia Topuria (12-0-0)"
+        "Main Card: Edson Barboza (22-11-0) vs. Ilia Topuria (12-0-0)",
+        "Main Card: Andrei Arlovski (34-20-0) vs. Marcos Rogério de Lima (19-8-1)",
+        "Main Card: Dustin Jacoby (18-5-1) vs. Khalil Rountree (10-5-0)",
+        "Prelim: Chase Hooper (11-2-1) vs. Steve Garcia (12-5-0)",
+        "Prelim: Joseph Holmes (8-2-0) vs. Jun Yong Park (14-5-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-91828",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFC281"
+    ],
+    "mainCard": {
+      "title": "UFC 281",
+      "time": "2022-11-13T03:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC 281: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC 281: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 91828,
+      "time": "2022-11-13T03:00:00Z",
+      "title": "UFC 281",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/91828-ufc-281",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Dustin Poirier (28-7-0) vs. Michael Chandler (23-7-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-91801",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2022-12-03T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 91801,
+      "time": "2022-12-03T23:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/91801-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Tracy Cortez (10-1-0) vs. Amanda Ribas (11-3-0)"
       ]
     }
   }

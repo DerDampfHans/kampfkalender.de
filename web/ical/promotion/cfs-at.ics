@@ -4,13 +4,13 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220722T103714Z
-X-KAMPFKALENDER-HASH:721988bd6a5a8aaaf0908aba4331db0e2179fac0
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:09ada77c0887a3806f8d4054900532bac0922aea
 BEGIN:VEVENT
-DTSTAMP:20220722T103714Z
-UID:2022-09-cage-fs-11@kampfkalender.de
+DTSTAMP:20220804T133810Z
+UID:2022-09-cage-fight-series-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage FS 11
+SUMMARY:Cage Fight Series 11
 DTSTART:20220909T180000Z
 DTEND:20220909T210000Z
 CATEGORIES:CFS,MMA,UFC Fight Pass,live
@@ -18,6 +18,18 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/91152-cage-fs-11\n\n---\n\nMain Card: Andreeas Binder (5-2-0
  ) vs. Cristian Valencia (5-3-0)\nMain Card: Ger Harris (1-0-0) vs. A. Na
  srutdinov (1-0-0)\nMain Card: Manuel Gaxhja (7-1-0) vs. Bogdan Grad (8-1
- -0)\nMain Card: Dominic Schober (12-10-0) vs. Marko Vardjan (7-5-0)
+ -0)\nMain Card: Dominic Schober (12-10-0) vs. Marko Vardjan (7-5-0)\nMai
+ n Card: Ákos Dénes (0-1-0) vs. Anas Hamdaoui (8-5-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
+UID:2022-10-cage-fight-series-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Fight Series 12
+DTSTART:20221029T140000Z
+DTEND:20221029T170000Z
+CATEGORIES:CFS,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91795-cage-fs-12
 END:VEVENT
 END:VCALENDAR

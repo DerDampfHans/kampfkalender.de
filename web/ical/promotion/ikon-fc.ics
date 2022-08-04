@@ -4,20 +4,36 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220727T142356Z
-X-KAMPFKALENDER-HASH:e6ed754f5e8e6927cf49648dffe024affe0d4ca4
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:9d02b98cf100eccea9703f430c23fe647cc6674f
 BEGIN:VEVENT
-DTSTAMP:20220727T142357Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-ikon-fc-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:iKON FC 4
-DTSTART:20220806T010000Z
-DTEND:20220806T040000Z
+DTSTART:20220806T000000Z
+DTEND:20220806T030000Z
 CATEGORIES:iKON,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/90581-ikon-fc-4\n\n---\n\nCo-Main Event: Canaan Kawaihae (6-
- 2-0) vs. Quinten Culpepper (5-1-0)\nMain Card: Diego Gomez Manzur (5-0-0
- ) vs. Amun Cosme (4-0-0)\nMain Card: Lindsey Jones (4-0-0) vs. DeWitt Di
- xon (2-1-0)\nMain Card: Justin Dorsey (1-2-0) vs. Torrez Finney (2-0-0)
+ nter/events/90581-ikon-fc-4\nhttp://www.sherdog.com/events/ifc-4-jorge-m
+ asvidals-ikon-fighting-championship-4-93985\nhttps://events.mixedmartial
+ arts.com/ikon-fc-4:7ca47a61-1bfe-4401-a67c-baf26b646f98\n\n---\n\nCo-Mai
+ n Event: Canaan Kawaihae (6-2-0) vs. Quinten Culpepper (5-1-0)\nMain Car
+ d: Diego Gomez Manzur (5-0-0) vs. Amun Cosme (4-0-0)\nMain Card: Lindsey
+  Jones (4-0-0) vs. DeWitt Dixon (2-1-0)\nMain Card: Justin Dorsey (1-2-0
+ ) vs. Torrez Finney (2-0-0)\nMain Card: Brandon Moran (1-0-0) vs. Tyler 
+ Sigmon (0-0-0)\nMain Card: Eddie Lamonte (0-0-0) vs. Ilay Barzilay (0-0-
+ 0)\nMain Card: Malcolm Wellmaker (1-0-0) vs. Langston Sykes (0-0-0)\nMai
+ n Card: Lewis Glover (5-4-0) vs. Chris Brant (6-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
+UID:2022-08-ikon-fc-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:iKON FC 5
+DTSTART:20220819T230000Z
+DTEND:20220820T020000Z
+CATEGORIES:iKON,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

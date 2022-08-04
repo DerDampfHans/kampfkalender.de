@@ -4,15 +4,30 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220729T220304Z
-X-KAMPFKALENDER-HASH:db69333493b13ce34cae84a008240be5828d2cb2
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:bc799cb8ae7229cc9293c4cc3ba9e3978d4c692c
 BEGIN:VEVENT
-DTSTAMP:20220729T220304Z
+DTSTAMP:20220804T133810Z
+UID:2022-08-cage-warriors-142-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 142: Prelims
+DTSTART:20220813T140000Z
+DTEND:20220813T180000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91481-cage-warriors-142\n\n---\n\nMain Card: Aaron Aby (13-4
+ -1) vs. Michelangelo Lupoli (5-2-0)\nMain Card: Josh Reed (12-7-0) vs. B
+ ogdan Barbu (17-13-0)\nMain Card: Owain Williams (0-0-0) vs. Sean McCorm
+ ac (1-1-0)\nMain Card: Sam Creasey (15-4-0) vs. Stipe Brčić (10-2-0)\nPr
+ elim: Stephanie Evans (0-0-0) vs. Jasmine Favero (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
 UID:2022-08-cage-warriors-142@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 142
-DTSTART:20220813T160000Z
-DTEND:20220813T190000Z
+DTSTART:20220813T180000Z
+DTEND:20220813T210000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/91481-cage-warriors-142\n\n---\n\nMain Card: Aaron Aby (13-4

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220801T104022Z
-X-KAMPFKALENDER-HASH:0426ca847db9942712fcaf4e18052e64de8eae6f
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:65804eda1452fe850f5ac2a5f67d6919fc33c45f
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -23,10 +23,11 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  inger (3-1-0)\nMain Card: Campbell Hatton (7-0-0) vs. Michael Dufek (31-
  23-2)\nMain Card: Nico Leivars (0-0-0) vs. Angel Gabriel Chavez (3-2-0)\
  nMain Card: Kieron Conway (17-2-1) vs. Aro Schwartz (0-0-0)\nMain Card: 
- Aqib Fiaz (8-0-0) vs. Jordan Ellison (13-38-3)
+ Aqib Fiaz (8-0-0) vs. Jordan Ellison (13-38-3)\nMain Card: Junaid Bostan
+  (0-0-0) vs. J. Clavero (16-17-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -44,19 +45,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
   Maayouf (0-0-0) vs. Hector Alatorre (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
-UID:2022-09-paro-vs-jarvis@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Paro vs. Jarvis
-DTSTART:20220901T110000Z
-DTEND:20220901T140000Z
-CATEGORIES:MB,Boxen,DAZN,live
-DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/90363-paro-vs-jarvis\n\n---\n\nMain Event: Liam Paro (22-0-0) vs. Broc
- k Jarvis (20-0-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -75,7 +64,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
+UID:2022-10-paro-vs-jarvis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paro vs. Jarvis
+DTSTART:20221001T110000Z
+DTEND:20221001T140000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90363-paro-vs-jarvis\n\n---\n\nMain Event: Liam Paro (22-0-0) vs. Broc
+ k Jarvis (20-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
 UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Eubank Jr.
@@ -87,7 +88,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Chris Eubank Jr. (32-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-martinez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Edwards

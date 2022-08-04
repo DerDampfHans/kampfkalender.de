@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220801T104022Z
-X-KAMPFKALENDER-HASH:6f4f69cfa4705f27d57264f68bc93f44bbf2a2e0
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:8fb2d290f65c722375645936a164a43a6612944d
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-07-gonzalez-vs-angulo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gonzalez vs. Angulo
@@ -25,25 +25,27 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  odinez (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-walsh-vs-whittaker@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Whittaker
-DTSTART:20220805T023000Z
-DTEND:20220805T053000Z
+DTSTART:20220805T020000Z
+DTEND:20220805T050000Z
 CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/90533-hollywood-fight-nights\nhttp://www.boxrec.com/en/event
  /856224\n\n---\n\nMain Event: Callum Walsh (0-0-0) vs. Benjamin Whitaker
-  (15-8-0)\nMain Card: Aida Satybaldinova (6-2-1) vs. Chelsey Anderson (5
- -0-0)\nMain Card: Omar Cande Trinidad (8-0-1) vs. Javier Padilla (7-0-1)
- \nMain Card: Jessica Juarez (3-2-0) vs. Elvina White (5-1-0)\nMain Card:
-  Cem Kilic (16-1-0) vs. Marco Delgado (7-3-0)\nMain Card: Eric Priest (7
- -0-0) vs. Cory Conner (3-0-0)\nMain Card: Eduardo Diaz (5-2-0) vs. Jesse
-  Gonzalez (0-0-0)
+  (15-8-0)\nCo-Main Event: Cem Kilic (16-1-0) vs. Marco Delgado (7-3-0)\n
+ Main Card: Aida Satybaldinova (6-2-1) vs. Chelsey Anderson (5-0-0)\nMain
+  Card: Omar Cande Trinidad (8-0-1) vs. Javier Padilla (7-0-1)\nMain Card
+ : Jessica Juarez (3-2-0) vs. Elvina White (5-1-0)\nMain Card: Eric Pries
+ t (7-0-0) vs. Cory Conner (3-0-0)\nMain Card: Eduardo Diaz (5-2-0) vs. J
+ esse Gonzalez (0-0-0)\nMain Card: Jordan Panthen (0-0-0) vs. Arturo Manr
+ iquez Perez (0-0-0)\nMain Card: Jose Rodriguez (0-0-0) vs. Armando Vasqu
+ ez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-conlan-vs-marriaga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Marriaga
@@ -54,7 +56,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-conlan-vs-mar
  riaga/2pbmv/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -70,10 +72,11 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  inger (3-1-0)\nMain Card: Campbell Hatton (7-0-0) vs. Michael Dufek (31-
  23-2)\nMain Card: Nico Leivars (0-0-0) vs. Angel Gabriel Chavez (3-2-0)\
  nMain Card: Kieron Conway (17-2-1) vs. Aro Schwartz (0-0-0)\nMain Card: 
- Aqib Fiaz (8-0-0) vs. Jordan Ellison (13-38-3)
+ Aqib Fiaz (8-0-0) vs. Jordan Ellison (13-38-3)\nMain Card: Junaid Bostan
+  (0-0-0) vs. J. Clavero (16-17-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz vs. McKinson
@@ -87,10 +90,12 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  : Blair Cobbs (15-1-1) vs. Maurice Hooker (27-2-3)\nMain Card: Bektemir 
  Melikuziev (9-1-0) vs. Sladan Janjanin (32-11-0)\nPrelim: Alex Martin (1
  7-4-0) vs. Henry Lundy (31-10-1)\nPrelim: Floyd Schofield (10-0-0) vs. R
- odrigo Guerrero (26-13-2)
+ odrigo Guerrero (26-13-2)\nPrelim: Rohan Polanco (7-0-0) vs. Dedrick Bel
+ l (31-32-1)\nPrelim: Rodolfo Hernandez (30-10-1) vs. Carlos Nava (8-0-0)
+ \nPrelim: Francisco Bonilla (6-10-3) vs. Figo Gonzalez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -108,19 +113,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
   Maayouf (0-0-0) vs. Hector Alatorre (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
-UID:2022-09-paro-vs-jarvis@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Paro vs. Jarvis
-DTSTART:20220901T110000Z
-DTEND:20220901T140000Z
-CATEGORIES:MB,Boxen,DAZN,live
-DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/90363-paro-vs-jarvis\n\n---\n\nMain Event: Liam Paro (22-0-0) vs. Broc
- k Jarvis (20-0-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -139,7 +132,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
+UID:2022-10-paro-vs-jarvis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paro vs. Jarvis
+DTSTART:20221001T110000Z
+DTEND:20221001T140000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90363-paro-vs-jarvis\n\n---\n\nMain Event: Liam Paro (22-0-0) vs. Broc
+ k Jarvis (20-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
 UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Eubank Jr.
@@ -151,7 +156,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Chris Eubank Jr. (32-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-martinez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Edwards

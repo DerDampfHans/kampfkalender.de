@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220801T104022Z
-X-KAMPFKALENDER-HASH:cc138dc84abaf3cb41f64b2b01e871d7e9f17bd8
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:a52ead9da3165b035b0eecfa0ad6b85882ee52bb
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-07-ufc-277-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Early Prelims
@@ -34,7 +34,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  s. Blood Diamond (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-07-ufc-277-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Prelims
@@ -61,7 +61,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  s. Blood Diamond (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-07-ufc-277-pena-vs-nunes-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 277: Peña vs. Nunes 2
@@ -88,7 +88,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (7-1-0) vs. Blood Diamond (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-ufc-vegas-59-santos-vs-hill-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 59: Santos vs. Hill: Prelims
@@ -115,7 +115,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (8-2-1) vs. Stephanie Egger (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-ufc-vegas-59-santos-vs-hill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 59: Santos vs. Hill
@@ -142,28 +142,92 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  eno Silva (8-2-1) vs. Stephanie Egger (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
+UID:2022-08-ufc-san-diego-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC San Diego: Prelims
+DTSTART:20220813T200000Z
+DTEND:20220813T230000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89355-ufc-fight-night\n\n---\n\nMain Event: Marlon Vera (21-
+ 7-1) vs. Dominick Cruz (24-3-0)\nMain Card: David Onama (10-1-0) vs. Nat
+ e Landwehr (15-4-0)\nMain Card: Devin Clark (13-6-0) vs. Azamat Murzakan
+ ov (11-0-0)\nMain Card: Nina Nunes (10-7-0) vs. Cynthia Calvillo (9-4-1)
+ \nMain Card: Gerald Meerschaert (34-15-0) vs. Bruno Silva (22-7-0)\nPrel
+ im: Angela Hill (13-12-0) vs. Lupita Godinez (8-2-0)\nPrelim: Yazmin Jau
+ regui (8-0-0) vs. Iasmin Lucindo (13-4-0)\nPrelim: Łukasz Brzeski (8-1-1
+ ) vs. Martin Buday (10-1-0)\nPrelim: Gabriel Benítez (22-10-0) vs. Charl
+ ie Ontiveros (11-8-0)\nPrelim: Youssef Zalal (10-5-0) vs. Da'Mon Blacksh
+ ear (12-4-0)\nPrelim: Ode Osbourne (11-4-0) vs. Tyson Nam (20-12-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
 UID:2022-08-ufc-san-diego-vera-vs-cruz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC San Diego: Vera vs. Cruz
-DTSTART:20220814T000000Z
-DTEND:20220814T030000Z
+DTSTART:20220813T230000Z
+DTEND:20220814T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/89355-ufc-fight-night\n\n---\n\nMain Event: Marlon
-  Vera (21-7-1) vs. Dominick Cruz (24-3-0)\nCo-Main Event: Alexa Grasso (
- 14-3-0) vs. Viviane Araujo (11-3-0)\nMain Card: David Onama (10-1-0) vs.
-  Nate Landwehr (15-4-0)\nMain Card: Devin Clark (13-6-0) vs. Azamat Murz
- akanov (11-0-0)\nMain Card: Nina Nunes (10-7-0) vs. Cynthia Calvillo (9-
- 4-1)\nMain Card: Gerald Meerschaert (34-15-0) vs. Bruno Silva (22-7-0)\n
- Prelim: Aspen Ladd (9-3-0) vs. Sara McMann (13-6-0)\nPrelim: Yazmin Jaur
- egui (8-0-0) vs. Iasmin Lucindo (13-4-0)\nPrelim: Łukasz Brzeski (8-1-1)
-  vs. Martin Buday (10-1-0)\nPrelim: Gabriel Benítez (22-10-0) vs. Charli
- e Ontiveros (11-8-0)\nPrelim: Youssef Zalal (10-5-0) vs. Cristian Quiñon
- ez (16-3-0)\nPrelim: Ode Osbourne (11-4-0) vs. Tyson Nam (20-12-1)
+  Vera (21-7-1) vs. Dominick Cruz (24-3-0)\nMain Card: David Onama (10-1-
+ 0) vs. Nate Landwehr (15-4-0)\nMain Card: Devin Clark (13-6-0) vs. Azama
+ t Murzakanov (11-0-0)\nMain Card: Nina Nunes (10-7-0) vs. Cynthia Calvil
+ lo (9-4-1)\nMain Card: Gerald Meerschaert (34-15-0) vs. Bruno Silva (22-
+ 7-0)\nPrelim: Angela Hill (13-12-0) vs. Lupita Godinez (8-2-0)\nPrelim: 
+ Yazmin Jauregui (8-0-0) vs. Iasmin Lucindo (13-4-0)\nPrelim: Łukasz Brze
+ ski (8-1-1) vs. Martin Buday (10-1-0)\nPrelim: Gabriel Benítez (22-10-0)
+  vs. Charlie Ontiveros (11-8-0)\nPrelim: Youssef Zalal (10-5-0) vs. Da'M
+ on Blackshear (12-4-0)\nPrelim: Ode Osbourne (11-4-0) vs. Tyson Nam (20-
+ 12-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
+UID:2022-08-ufc-278-early-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 278: Early Prelims
+DTSTART:20220820T220000Z
+DTEND:20220821T000000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89354-ufc-fight-night\n\n---\n\nMain Event: Kamaru Usman (20
+ -1-0) vs. Leon Edwards (19-3-0)\nCo-Main Event: Paulo Costa (13-2-0) vs.
+  Luke Rockhold (16-5-0)\nMain Card: Tyson Pedro (8-3-0) vs. Harry Hunsuc
+ ker (7-5-0)\nMain Card: José Aldo (31-7-0) vs. Merab Dvalishvili (14-4-0
+ )\nMain Card: Marcin Tybura (22-7-0) vs. Alexandr Romanov (16-0-0)\nPrel
+ im: Sean Woodson (9-1-0) vs. Luis Saldaña (16-7-0)\nPrelim: Aoriqileng (
+ 23-11-0) vs. Jay Perrin (10-5-0)\nPrelim: Victor Altamirano (10-2-0) vs.
+  Daniel da Silva (11-3-0)\nPrelim: Lucie Pudilová (13-7-0) vs. Yanan Wu 
+ (13-5-0)\nPrelim: AJ Fletcher (9-1-0) vs. Ange Loosa (8-3-0)\nPrelim: Am
+ ir Albazi (14-1-0) vs. Francisco Figueiredo (13-4-1)\nPrelim: Jared Gord
+ on (18-5-0) vs. Leonardo Santos (18-5-1)\nPrelim: Miranda Maverick (10-4
+ -0) vs. Shanna Young (8-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
+UID:2022-08-ufc-278-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 278: Prelims
+DTSTART:20220821T000000Z
+DTEND:20220821T020000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/89354-ufc-fight-night\n\n---\n\nMain Event: Kamaru Usman (20
+ -1-0) vs. Leon Edwards (19-3-0)\nCo-Main Event: Paulo Costa (13-2-0) vs.
+  Luke Rockhold (16-5-0)\nMain Card: Tyson Pedro (8-3-0) vs. Harry Hunsuc
+ ker (7-5-0)\nMain Card: José Aldo (31-7-0) vs. Merab Dvalishvili (14-4-0
+ )\nMain Card: Marcin Tybura (22-7-0) vs. Alexandr Romanov (16-0-0)\nPrel
+ im: Sean Woodson (9-1-0) vs. Luis Saldaña (16-7-0)\nPrelim: Aoriqileng (
+ 23-11-0) vs. Jay Perrin (10-5-0)\nPrelim: Victor Altamirano (10-2-0) vs.
+  Daniel da Silva (11-3-0)\nPrelim: Lucie Pudilová (13-7-0) vs. Yanan Wu 
+ (13-5-0)\nPrelim: AJ Fletcher (9-1-0) vs. Ange Loosa (8-3-0)\nPrelim: Am
+ ir Albazi (14-1-0) vs. Francisco Figueiredo (13-4-1)\nPrelim: Jared Gord
+ on (18-5-0) vs. Leonardo Santos (18-5-1)\nPrelim: Miranda Maverick (10-4
+ -0) vs. Shanna Young (8-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
 UID:2022-08-ufc-278-usman-vs-edwards-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 278: Usman vs. Edwards 2
@@ -185,7 +249,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  rick (10-4-0) vs. Shanna Young (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-09-ufc-paris-gane-vs-tuivasa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Paris: Gane vs. Tuivasa
@@ -205,7 +269,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0) vs. Cédric Doumbé (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-09-ufc-279-chimaev-vs-diaz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Chimaev vs. Diaz
@@ -225,7 +289,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  27-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-09-ufc-fight-night-sandhagen-vs-song@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Sandhagen vs. Song
@@ -243,12 +307,12 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  las Motta (12-4-0) vs. Cameron VanCamp (15-6-1)\nPrelim: Trevin Giles (1
  4-4-0) vs. Louis Cosce (7-1-0)\nPrelim: Damon Jackson (21-4-1) vs. Pat S
  abatini (17-3-0)\nPrelim: Loma Lookboonmee (6-3-0) vs. Diana Belbiţă (14
- -7-0)\nPrelim: Melissa Gatto (8-1-2) vs. Gillian Robertson (10-7-0)\nPre
- lim: Anthony Hernandez (9-2-0) vs. Marc-André Barriault (14-5-0)\nPrelim
- : Alen Amedovski (8-3-0) vs. Joseph Pyfer (9-2-0)
+ -7-0)\nPrelim: Anthony Hernandez (9-2-0) vs. Marc-André Barriault (14-5-
+ 0)\nPrelim: Alen Amedovski (8-3-0) vs. Joseph Pyfer (9-2-0)\nPrelim: Mar
+ iya Agapova (10-3-0) vs. Gillian Robertson (10-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-ufc-fight-night-dern-vs-yan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Dern vs. Yan
@@ -261,10 +325,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -5-0) vs. Krzysztof Jotko (24-5-0)\nPrelim: Vinc Pichel (14-3-0) vs. Jes
  se Ronson (21-11-0)\nPrelim: Tabatha Ricci (7-1-0) vs. Cheyanne Vlismas 
  (7-2-0)\nPrelim: Randy Costa (6-3-0) vs. Guido Cannetti (9-6-0)\nPrelim:
-  Julija Stoliarenko (10-6-1) vs. Chelsea Chandler (4-1-0)
+  Julija Stoliarenko (10-6-1) vs. Chelsea Chandler (4-1-0)\nPrelim: John 
+ Castañeda (19-5-0) vs. Daniel Santos (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -273,12 +338,13 @@ DTEND:20221016T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/90713-ufc-fight-night\n\n---\n\nMain Card: Jonatha
- n Martinez (16-4-0) vs. Cub Swanson (28-12-0)\nPrelim: Angela Hill (13-1
- 2-0) vs. Lupita Godinez (8-2-0)\nPrelim: Piera Rodriguez (8-0-0) vs. Sam
-  Hughes (7-4-0)
+ n Martinez (16-4-0) vs. Cub Swanson (28-12-0)\nMain Card: Askar Askarov 
+ (14-1-1) vs. Brandon Royval (14-6-0)\nPrelim: Piera Rodriguez (8-0-0) vs
+ . Sam Hughes (7-4-0)\nPrelim: C.J. Vergara (10-3-1) vs. Tatsuro Taira (1
+ 1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-ufc-280-oliveira-vs-makhachev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 280: Oliveira vs. Makhachev
@@ -294,10 +360,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  1-0)\nPrelim: Zubaira Tukhugov (20-5-1) vs. Lucas Almeida (14-1-0)\nPrel
  im: Marina Rodriguez (16-1-2) vs. Amanda Lemos (12-2-1)\nPrelim: Katlyn 
  Chookagian (18-4-0) vs. Manon Fiorot (9-1-0)\nPrelim: Makhmud Muradov (2
- 5-7-0) vs. Caio Borralho (12-1-0)
+ 5-7-0) vs. Caio Borralho (12-1-0)\nPrelim: Muhammad Mokaev (7-0-0) vs. M
+ alcolm Gordon (14-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220801T104023Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -306,6 +373,34 @@ DTEND:20221030T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/91651-ufc-fight-night\n\n---\n\nMain Card: Edson B
- arboza (22-11-0) vs. Ilia Topuria (12-0-0)
+ arboza (22-11-0) vs. Ilia Topuria (12-0-0)\nMain Card: Andrei Arlovski (
+ 34-20-0) vs. Marcos Rogério de Lima (19-8-1)\nMain Card: Dustin Jacoby (
+ 18-5-1) vs. Khalil Rountree (10-5-0)\nPrelim: Chase Hooper (11-2-1) vs. 
+ Steve Garcia (12-5-0)\nPrelim: Joseph Holmes (8-2-0) vs. Jun Yong Park (
+ 14-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
+UID:2022-11-ufc-281@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 281
+DTSTART:20221113T030000Z
+DTEND:20221113T060000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/91828-ufc-281\n\n---\n\nMain Card: Dustin Poirier 
+ (28-7-0) vs. Michael Chandler (23-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
+UID:2022-12-ufc-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Fight Night
+DTSTART:20221203T230000Z
+DTEND:20221204T020000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/91801-ufc-fight-night\n\n---\n\nMain Card: Tracy C
+ ortez (10-1-0) vs. Amanda Ribas (11-3-0)
 END:VEVENT
 END:VCALENDAR

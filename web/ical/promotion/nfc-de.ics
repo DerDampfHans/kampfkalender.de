@@ -4,10 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220731T153715Z
-X-KAMPFKALENDER-HASH:86a2788ae64a5ae381b1625ffc40d8e06bd4e470
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:5fe144e09ae4ac6fc7ad2fab0ab83d5c7be33aea
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
+UID:2022-08-nfc-10-face-offs@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 10: Face-Offs
+DTSTART:20220805T160000Z
+DTEND:20220805T170000Z
+CATEGORIES:NFC,fighting.de,PR,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=ZZ4d4Kyudjk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -29,7 +39,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=HzjrO5Bfp0Y\
   vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -51,7 +61,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=IzYfos774-A\
   vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-nfc-10-grabinski-vs-lutterbach@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Grabinski vs. Lutterbach
@@ -73,7 +83,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  iani (1-0-0) vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -85,7 +95,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -97,7 +107,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-10-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -109,7 +119,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -121,7 +131,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-12-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -133,7 +143,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

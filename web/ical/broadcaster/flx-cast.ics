@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220731T153715Z
-X-KAMPFKALENDER-HASH:bb22c715460683d728c6fb666274a09293663c17
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:7977e46a666ef3d4adc57d6e9b60b54c2a2dbdca
 BEGIN:VEVENT
-DTSTAMP:20220731T153715Z
+DTSTAMP:20220804T133810Z
 UID:2022-08-eagle-fc-49-busurmankul-vs-magomedov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 49: Busurmankul vs Magomedov
@@ -24,5 +24,18 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  (10-2-0)\nPrelim: Konstantin Veselkin (11-10-1) vs. Khabib Nabiev (5-0-0
  )\nPrelim: Soslan Gasiev (6-7-0) vs. Vladimir Dayneko (13-5-0)\nPrelim: 
  Islambek Baktybek Uulu (5-2-0) vs. Arslan Bilalov (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
+UID:2022-08-eagle-fc-50-nurgozhay-vs-andreitsev@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eagle FC 50: Nurgozhay vs. Andreitsev
+DTSTART:20220821T170000Z
+DTEND:20220821T200000Z
+CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
+DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91737-eagle-fc-50-nurgozhay-vs-andreitsev\n\n---\n\nMain Event: Diy
+ ar Nurgozhay (7-0-0) vs. Konstantin Andreitsev (17-14-0)\nCo-Main Event:
+  Imam-Shapi Mukhtarov (10-0-0) vs. Azamat Dzhigkaev (7-1-0)
 END:VEVENT
 END:VCALENDAR

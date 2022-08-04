@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220729T130659Z
-X-KAMPFKALENDER-HASH:7f79c541dff02bdb77800e21c45c4a9a33e212ee
+DTSTAMP:20220804T133809Z
+X-KAMPFKALENDER-HASH:4909811691fb2430cdd77ad282e9c3a51a88aaab
 BEGIN:VEVENT
-DTSTAMP:20220729T130700Z
+DTSTAMP:20220804T133810Z
 UID:2022-07-titan-fc-78@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Titan FC 78
@@ -24,5 +24,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  atos (9-1-0) vs. Mauricio Diaz (2-6-0)\nMain Card: Luis Peralta (4-3-0) 
  vs. Billy Molina (5-4-0)\nPrelim: Edgar Jaquez (1-0-0) vs. Daynnys Rivas
   (0-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T133810Z
+UID:2022-08-titan-fc-79@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Titan FC 79
+DTSTART:20220826T230000Z
+DTEND:20220827T020000Z
+CATEGORIES:TFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91831-titan-fc-79\n\n---\n\nMain Card: Ira Lukowsky (3-0-0) 
+ vs. Wendel Araujo (6-3-0)
 END:VEVENT
 END:VCALENDAR
