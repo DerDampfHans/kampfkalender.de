@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220804T133809Z
-X-KAMPFKALENDER-HASH:42d76e8614f995149cdb0543397fa642964bbd01
+DTSTAMP:20220804T224138Z
+X-KAMPFKALENDER-HASH:71085de0e183f6925c35a53d2ae86422f59901be
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
+DTSTAMP:20220804T224139Z
 UID:2022-07-jck-fight-night-2022-week-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night 2022: Week 13
@@ -26,7 +26,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (3-3-0) vs. Tao Bai (1-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
+DTSTAMP:20220804T224139Z
 UID:2022-07-jck-fight-night-2022-week-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night 2022: Week 14
@@ -44,7 +44,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  n (3-3-0) vs. Wusamo Hailai (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
+DTSTAMP:20220804T224139Z
 UID:2022-08-jck-fight-night-2022-week-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night 2022: Week 15
@@ -63,7 +63,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  aji Sadier (3-1-0) vs. Zhengyong Lu (4-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
+DTSTAMP:20220804T224139Z
 UID:2022-08-jck-fight-night-2022-week-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night 2022: Week 16
@@ -74,7 +74,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/91546-jck-fight-night-2022-week-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
+DTSTAMP:20220804T224139Z
 UID:2022-08-jck-fight-night-2022-week-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:JCK Fight Night 2022: Week 17
@@ -83,5 +83,16 @@ DTEND:20220820T140000Z
 CATEGORIES:JCK,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/91784-jck-fight-night-2022-week-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220804T224139Z
+UID:2022-08-jck-fight-night-2022-week-17-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:JCK Fight Night 2022: Week 17
+DTSTART:20220827T230000Z
+DTEND:20220828T020000Z
+CATEGORIES:JCK,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91903-jck-fight-night-2022-week-17
 END:VEVENT
 END:VCALENDAR
