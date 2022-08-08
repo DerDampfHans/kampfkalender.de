@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220804T224138Z
-X-KAMPFKALENDER-HASH:575735e15b3f45837ab41f5dcf1e7d95372aac64
+DTSTAMP:20220808T115123Z
+X-KAMPFKALENDER-HASH:aa52975c3d60e911d7fd153fe7799cce3c617ba3
 BEGIN:VEVENT
-DTSTAMP:20220804T224139Z
+DTSTAMP:20220808T115124Z
 UID:2022-08-pfl-playoffs-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 1
@@ -33,7 +33,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Ha5RyCLz81k\
  : Mahmoud Fawzy Sebie (2-1-0) vs. Itso Babulaidze (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T224139Z
+DTSTAMP:20220808T115124Z
 UID:2022-08-pfl-playoffs-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 2
@@ -55,7 +55,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/pf
  l (12-4-0) vs. Szymon Bajor (23-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T224139Z
+DTSTAMP:20220808T115124Z
 UID:2022-08-pfl-playoffs-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Playoffs 3
@@ -69,14 +69,14 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.fightevents.de/event/pf
  0-0)\nPostlim: Tayo Odunjo (4-1-0) vs. Magnus Onyeka Iversen (2-0-0)\nPo
  stlim: Ali Taleb (7-0-0) vs. Kenji Bortoluzzi (11-4-1)\nMain Event: Kayl
  a Harrison (14-0-0) vs. Martina Jindrová (6-2-0)\nCo-Main Event: Chris W
- ade (22-7-0) vs. Brendan Loughnane (23-4-0)\nMain Card: Larissa Pacheco 
+ ade (22-7-0) vs. Brendan Loughnane (24-4-0)\nMain Card: Larissa Pacheco 
  (17-4-0) vs. Olena Kolesnyk (7-4-0)\nMain Card: Ryoji Kudo (11-3-1) vs. 
  Bubba Jenkins (18-5-0)\nPrelim: Simeon Powell (6-0-0) vs. Nemanja Uverić
   (11-5-0)\nPrelim: Stuart Austin (15-8-0) vs. Sofiane Boukichou (9-4-0)\
  nPrelim: Marcin Held (27-9-0) vs. Myles Price (11-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T224139Z
+DTSTAMP:20220808T115124Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -84,6 +84,8 @@ DTSTART:20221126T020000Z
 DTEND:20221126T050000Z
 CATEGORIES:PFL,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/87841-pfl-2022-10-championships
+ r/events/87841-pfl-2022-10-championships\n\n---\n\nMain Card: Stevie Ray
+  (25-10-0) vs. Olivier Aubin-Mercier (16-5-0)\nMain Card: Omari Akhmedov
+  (24-7-1) vs. Rob Wilkinson (16-2-0)
 END:VEVENT
 END:VCALENDAR
