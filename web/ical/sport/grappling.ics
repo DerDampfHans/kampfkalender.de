@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220808T115123Z
-X-KAMPFKALENDER-HASH:76b79d907b039a1ca5caab8d839b28e64ed085ab
+DTSTAMP:20220811T113808Z
+X-KAMPFKALENDER-HASH:66b286795fdfe25865b21a8866ed9612c8661e23
 BEGIN:VEVENT
-DTSTAMP:20220808T115124Z
+DTSTAMP:20220811T113809Z
+UID:2022-08-gmc-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Olympix Grappling
+DTSTART:20220813T100000Z
+DTEND:20220813T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220813-olympix-g
+ rappling-no-111
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113809Z
 UID:2022-08-one-160-le-vs-tang@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160: Le vs. Tang
@@ -26,7 +37,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Renato Canuto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220808T115124Z
+DTSTAMP:20220811T113809Z
 UID:2022-08-fury-pro-grappling-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury Pro Grappling 5
@@ -34,6 +45,10 @@ DTSTART:20220827T220000Z
 DTEND:20220828T010000Z
 CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/90497-fury-pro-grappling-5
+ nter/events/90497-fury-pro-grappling-5\n\n---\n\nMain Event: Clay Guida 
+ vs. Alex Caceres\nCo-Main Event: Eryk Anders vs. Andre Petroski\nMain Ca
+ rd: Connor Dixon vs. Jonathan Piersma\nMain Card: Eddy Torres vs. Mike M
+ edrano\nMain Card: Patrick Brady vs. Brian Sheehan\nMain Card: Jason Gui
+ da vs. John Mabrey\nMain Card: Sean Yadimarco vs. Charlie Livingston
 END:VEVENT
 END:VCALENDAR

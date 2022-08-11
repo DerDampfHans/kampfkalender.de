@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220805T220304Z
-X-KAMPFKALENDER-HASH:857881f4bc3bcac6ca38d5c1ac1c83182b59a968
+DTSTAMP:20220811T113808Z
+X-KAMPFKALENDER-HASH:8cfa6a0d6c5c5f72c49305d44e0c396b9babb843
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-walsh-vs-whittaker@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Whittaker
@@ -27,7 +27,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-conlan-vs-marriaga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Marriaga
@@ -38,7 +38,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-conlan-vs-mar
  riaga/2pbmv/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -58,7 +58,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (0-0-0) vs. J. Clavero (16-17-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz vs. McKinson
@@ -77,7 +77,18 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  \nPrelim: Francisco Bonilla (6-10-3) vs. Figo Gonzalez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
+UID:2022-08-gmc-olympix-k1-boxen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Olympix K1 / Boxen
+DTSTART:20220820T150000Z
+DTEND:20220820T180000Z
+CATEGORIES:GMC,Kickboxen,Boxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/olympix-k1-boxen
+ -no-112
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113808Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -95,7 +106,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
   Maayouf (0-0-0) vs. Hector Alatorre (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -114,7 +125,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -126,7 +137,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  k Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Eubank Jr.
@@ -138,7 +149,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Chris Eubank Jr. (32-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T220305Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-martinez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Edwards

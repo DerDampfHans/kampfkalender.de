@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220804T133809Z
-X-KAMPFKALENDER-HASH:454a559c5c062b3e797022a25dc2440c87d45a1f
+DTSTAMP:20220811T113808Z
+X-KAMPFKALENDER-HASH:4a06ffc39040ffcec84b062f9dd28117bbabbc17
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-nfc-10-face-offs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Face-Offs
@@ -17,7 +17,7 @@ CATEGORIES:NFC,fighting.de,PR,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=ZZ4d4Kyudjk
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -39,7 +39,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=HzjrO5Bfp0Y\
   vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-nfc-10-grabinski-vs-lutterbach@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Grabinski vs. Lutterbach
@@ -61,7 +61,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  iani (1-0-0) vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-eagle-fc-49-busurmankul-vs-magomedov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 49: Busurmankul vs Magomedov
@@ -80,12 +80,31 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Islambek Baktybek Uulu (5-2-0) vs. Arslan Bilalov (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
+UID:2022-08-ksw-29-reload-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 29: Reload (Re-Live)
+DTSTART:20220812T160000Z
+DTEND:20220812T190000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=hgvWJmOO2Q0\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/25891-ksw-29\nhttp://w
+ ww.sherdog.com/events/KSW-29-TBA-40081\nhttps://events.mixedmartialarts.
+ com/ksw-29:E491B74B-F9EA-4701-B73D-A7A87A292BED\n\n---\n\nMain Event: Ma
+ med Khalidov vs. Brett Cooper\nMain Card: Mariusz Pudzianowski vs. Paweł
+  Nastula\nMain Card: Borys Mańkowski vs. David Zawada\nMain Card: Piotr 
+ Strus vs. Jay Silva\nMain Card: Goran Reljić vs. Tomasz Narkun\nMain Car
+ d: Mateusz Gamrot vs. Łukasz Chlewicki\nMain Card: Artur Sowiński vs. Va
+ so Bakočević\nPrelim: Karol Celiński vs. Tomasz Kondraciuk\nPrelim: Robe
+ rt Radomski vs. Mateusz Piskorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113808Z
 UID:2022-08-bkfc-27-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: Prelims
-DTSTART:20220821T000000Z
-DTEND:20220821T010000Z
+DTSTART:20220820T170000Z
+DTEND:20220820T180000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27-prelims/2pbol/
  \n\n---\n\nhttps://www.tapology.com/fightcenter/events/90138-bkfc-27-mvp
@@ -101,7 +120,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27-prelims/2pbol/
   Vinni\nPrelim: Tony Giles vs. David Round
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-eagle-fc-50-nurgozhay-vs-andreitsev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC 50: Nurgozhay vs. Andreitsev
@@ -114,7 +133,7 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Imam-Shapi Mukhtarov (10-0-0) vs. Azamat Dzhigkaev (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-08-one-160-le-vs-tang@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 160: Le vs. Tang
@@ -133,10 +152,10 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Renato Canuto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
-UID:2022-08-one-161-moraes-vs-johnson-2@kampfkalender.de
+DTSTAMP:20220811T113808Z
+UID:2022-08-one-on-prime-video-moraes-vs-johnson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE 161: Moraes vs. Johnson 2
+SUMMARY:ONE on Prime Video: Moraes vs. Johnson 2
 DTSTART:20220827T003000Z
 DTEND:20220827T033000Z
 CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
@@ -151,29 +170,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
-UID:2022-09-one-162@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE 162
-DTSTART:20220916T100000Z
-DTEND:20220916T130000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91286-one-championship-162
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
-UID:2022-09-one-163@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE 163
-DTSTART:20220917T100000Z
-DTEND:20220917T130000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91287-one-championship-163
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -184,10 +181,11 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
  -2/\nhttps://www.tapology.com/fightcenter/events/91153-we-love-mma-59\n\
  n---\n\nMain Event: Leo Lauber (5-0-0) vs. Alexander Djukic (5-3-0)\nCo-
  Main Event: Dilara Kocak (1-1-0) vs. Danielle Misteli (0-2-0)\nMain Card
- : Andris Galaida (4-4-0) vs. Deyan Galinov (1-0-0)
+ : Andris Galaida (4-4-0) vs. Deyan Galinov (1-0-0)\nMain Card: Islam Dja
+ brailov (7-4-0) vs. Oemer Cankardesler (12-12-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -197,7 +195,19 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
+UID:2022-09-one-championship-161-bhullar-vs-malykhin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Championship 161: Bhullar vs. Malykhin
+DTSTART:20220929T103000Z
+DTEND:20220929T133000Z
+CATEGORIES:ONE,MMA,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/92068-one-championship-161-bhullar-vs-malykhin\n\n---\n\nMain Event
+ : Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (11-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113808Z
 UID:2022-10-one-on-prime-video-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 2
@@ -208,7 +218,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91423-one-on-prime-video-2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-one-164@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 164
@@ -219,7 +229,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91288-one-championship-164
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-one-165@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 165
@@ -230,19 +240,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91427-one-championship-165
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
-UID:2022-10-nfc-11-prelims@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 11: Prelims
-DTSTART:20221008T160000Z
-DTEND:20221008T180000Z
-CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
- ents.de/event/nfc-11/\nhttps://www.tapology.com/fightcenter/events/90361
- -nfc-11
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-we-love-mma-60@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 60
@@ -250,22 +248,23 @@ DTSTART:20221008T170000Z
 DTEND:20221008T200000Z
 CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
 DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
- /
+ /\nhttps://www.tapology.com/fightcenter/events/92025-we-love-mma-60\n\n-
+ --\n\nMain Card: David Depannemaecker (4-9-0) vs. Mario Wittmann (10-10-
+ 0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
-UID:2022-10-nfc-11@kampfkalender.de
+DTSTAMP:20220811T113808Z
+UID:2022-10-one-162@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 11
-DTSTART:20221008T210000Z
-DTEND:20221008T223000Z
-CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
- /www.fightevents.de/event/nfc-11/\nhttps://www.tapology.com/fightcenter/
- events/90361-nfc-11
+SUMMARY:ONE 162
+DTSTART:20221021T103000Z
+DTEND:20221021T133000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91286-one-championship-162
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-one-on-prime-video-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3
@@ -276,7 +275,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91424-one-on-prime-video-3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-10-we-love-mma-61@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 61
@@ -287,7 +286,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-11-we-love-mma-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 62
@@ -298,7 +297,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-11-one-166@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 166
@@ -309,7 +308,18 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91428-one-championship-166
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
+UID:2022-11-one-163@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE 163
+DTSTART:20221118T113000Z
+DTEND:20221118T143000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91287-one-championship-163
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113808Z
 UID:2022-11-one-on-prime-video-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4
@@ -320,7 +330,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91425-one-on-prime-video-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-11-one-167@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 167
@@ -331,7 +341,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91429-one-championship-167
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-11-we-love-mma-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 63
@@ -342,7 +352,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-12-one-168@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 168
@@ -353,7 +363,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91430-one-championship-168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -364,7 +374,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91426-one-on-prime-video-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-12-one-169@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 169
@@ -375,7 +385,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91431-one-championship-169
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-12-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -387,7 +397,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  -nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2022-12-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -399,7 +409,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  events/90362-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2023-02-we-love-mma-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 64
@@ -410,7 +420,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  -2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2023-03-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -421,7 +431,7 @@ DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
  /
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133809Z
+DTSTAMP:20220811T113808Z
 UID:2023-05-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66

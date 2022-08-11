@@ -1,5 +1,56 @@
 [
   {
+    "id": "gmc-2022-08-13",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#Olympix"
+    ],
+    "mainCard": {
+      "title": "GMC Olympix Grappling",
+      "time": "2022-08-13T10:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220813-olympix-grappling-no-111"
+        }
+      },
+      "gmc": {
+        "id": "220813-olympix-grappling-no-111",
+        "time": "2022-08-13T10:00:00Z",
+        "title": "Olympix grappling (No. 111)",
+        "url": "https://www.german-mma.de/events/220813-olympix-grappling-no-111"
+      }
+    }
+  },
+  {
+    "id": "gmc-2022-08-20",
+    "promotion": "GMC_DE",
+    "sports": [
+      "KICKBOXING",
+      "BOXING"
+    ],
+    "tags": [
+      "#Olympix"
+    ],
+    "mainCard": {
+      "title": "GMC Olympix K1 / Boxen",
+      "time": "2022-08-20T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/olympix-k1-boxen-no-112"
+        }
+      },
+      "gmc": {
+        "id": "olympix-k1-boxen-no-112",
+        "time": "2022-08-20T15:00:00Z",
+        "title": "OlympiX K1 / Boxen (No. 112)",
+        "url": "https://www.german-mma.de/events/olympix-k1-boxen-no-112"
+      }
+    }
+  },
+  {
     "id": "gmc-2022-09-17",
     "promotion": "GMC_DE",
     "sports": [

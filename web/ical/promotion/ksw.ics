@@ -4,10 +4,29 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220804T133809Z
-X-KAMPFKALENDER-HASH:8dcfdb4769e1f74c758e89249b2b31ed23f1d0e5
+DTSTAMP:20220811T113808Z
+X-KAMPFKALENDER-HASH:7976ec2b9dc027fc0c553bb1cc03c1f954f144be
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
+DTSTAMP:20220811T113808Z
+UID:2022-08-ksw-29-reload-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 29: Reload (Re-Live)
+DTSTART:20220812T160000Z
+DTEND:20220812T190000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=hgvWJmOO2Q0\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/25891-ksw-29\nhttp://w
+ ww.sherdog.com/events/KSW-29-TBA-40081\nhttps://events.mixedmartialarts.
+ com/ksw-29:E491B74B-F9EA-4701-B73D-A7A87A292BED\n\n---\n\nMain Event: Ma
+ med Khalidov vs. Brett Cooper\nMain Card: Mariusz Pudzianowski vs. Paweł
+  Nastula\nMain Card: Borys Mańkowski vs. David Zawada\nMain Card: Piotr 
+ Strus vs. Jay Silva\nMain Card: Goran Reljić vs. Tomasz Narkun\nMain Car
+ d: Mateusz Gamrot vs. Łukasz Chlewicki\nMain Card: Artur Sowiński vs. Va
+ so Bakočević\nPrelim: Karol Celiński vs. Tomasz Kondraciuk\nPrelim: Robe
+ rt Radomski vs. Mateusz Piskorz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113808Z
 UID:2022-08-ksw-73-wrzosek-vs-sarara@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 73: Wrzosek vs. Sarara
@@ -19,12 +38,13 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  Tomasz Sarara (1-0-0)\nMain Card: Daniel Rutkowski (13-3-0) vs. Lom-Ali 
  Eskijew (19-5-0)\nMain Card: Radosław Paczuski (4-0-0) vs. Jason Radclif
  fe (17-9-0)\nMain Card: Artur Szczepaniak (8-1-0) vs. Ion Surdu (11-3-0)
- \nMain Card: Karolina Owczarz (4-2-0) vs. Natalia Baczyńska (6-2-0)\nPre
- lim: Borys Borkowski (4-1-0) vs. Raimondas Krilavičius (6-2-1)\nPrelim: 
- Patryk Likus (3-0-0) vs. Pascal Hintzen (7-1-0)
+ \nMain Card: Karolina Owczarz (4-2-0) vs. Natalia Baczyńska (6-2-0)\nMai
+ n Card: Borys Borkowski (4-1-0) vs. Raimondas Krilavičius (6-2-1)\nPreli
+ m: Patryk Likus (3-0-0) vs. Pascal Hintzen (7-1-0)\nPrelim: Miłosz Melch
+ ert (2-0-0) vs. Carl McNally (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
+DTSTAMP:20220811T113808Z
 UID:2022-09-ksw-74-de-fries-vs-prasel@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 74: De Fries vs. Prasel

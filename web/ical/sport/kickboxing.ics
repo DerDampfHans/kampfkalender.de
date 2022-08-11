@@ -4,46 +4,35 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220730T220304Z
-X-KAMPFKALENDER-HASH:33ac8d7bd012d9baaa050a728621ea6734e41190
+DTSTAMP:20220811T113808Z
+X-KAMPFKALENDER-HASH:43296dceb4ee333689f2ff0a325ef36c5f5373eb
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
+UID:2022-08-gmc-olympix-k1-boxen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Olympix K1 / Boxen
+DTSTART:20220820T150000Z
+DTEND:20220820T180000Z
+CATEGORIES:GMC,Kickboxen,Boxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/olympix-k1-boxen
+ -no-112
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113809Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
-DTSTART:20220820T180000Z
-DTEND:20220820T210000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/90156-glory-81\n\n---\n\nMain Card: Jamal Ben Sad
- dik vs. Benjamin Adegbuyi\nMain Card: Donovan Wisse vs. Juri de Sousa\nM
- ain Card: Zakaria Zouggary vs. Rafik Habiat\nMain Card: Stoyan Koprivlen
- ski vs. Guerric Billet
+DTSTART:20220820T170000Z
+DTEND:20220820T200000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=W1dIwlR_UfM\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/90156-glory-81\n\n
+ ---\n\nMain Card: Jamal Ben Saddik vs. Benjamin Adegbuyi\nMain Card: Don
+ ovan Wisse vs. Juri de Sousa\nMain Card: Zakaria Zouggary vs. Rafik Habi
+ at\nMain Card: Stoyan Koprivlenski vs. Guerric Billet
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
-UID:2022-09-one-162@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE 162
-DTSTART:20220916T100000Z
-DTEND:20220916T130000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91286-one-championship-162
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
-UID:2022-09-one-163@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE 163
-DTSTART:20220917T100000Z
-DTEND:20220917T130000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91287-one-championship-163
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-10-one-on-prime-video-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 2
@@ -54,7 +43,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91423-one-on-prime-video-2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-10-one-164@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 164
@@ -65,7 +54,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91288-one-championship-164
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-10-glory-collision-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4
@@ -77,7 +66,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  ir Overeem
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-10-one-165@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 165
@@ -88,7 +77,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91427-one-championship-165
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-10-oktagon-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36
@@ -101,7 +90,18 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  Card: Christian Eckerlin (14-5-0) vs. Denilson Neves (16-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
+UID:2022-10-one-162@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE 162
+DTSTART:20221021T103000Z
+DTEND:20221021T133000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91286-one-championship-162
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113809Z
 UID:2022-10-one-on-prime-video-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3
@@ -112,7 +112,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91424-one-on-prime-video-3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-11-one-166@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 166
@@ -123,7 +123,18 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91428-one-championship-166
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
+UID:2022-11-one-163@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE 163
+DTSTART:20221118T113000Z
+DTEND:20221118T143000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91287-one-championship-163
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T113809Z
 UID:2022-11-one-on-prime-video-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4
@@ -134,7 +145,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91425-one-on-prime-video-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-11-one-167@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 167
@@ -145,7 +156,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91429-one-championship-167
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-12-one-168@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 168
@@ -156,7 +167,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91430-one-championship-168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -167,7 +178,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91426-one-on-prime-video-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-12-one-169@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 169
@@ -178,7 +189,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91431-one-championship-169
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220730T220305Z
+DTSTAMP:20220811T113809Z
 UID:2022-12-oktagon-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38
