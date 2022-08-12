@@ -4,26 +4,39 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220804T133809Z
-X-KAMPFKALENDER-HASH:55d73fcf27a553a447ac89796c2d93ac2db0ad37
+DTSTAMP:20220812T135501Z
+X-KAMPFKALENDER-HASH:13da47f8980825f4a8aca30ff811a7136a6776ee
 BEGIN:VEVENT
-DTSTAMP:20220804T133810Z
-UID:2022-08-walsh-vs-whittaker@kampfkalender.de
+DTSTAMP:20220812T135501Z
+UID:2022-08-swiss-kickboxing-open-air@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Walsh vs. Whittaker
-DTSTART:20220805T020000Z
-DTEND:20220805T050000Z
-CATEGORIES:Other,Boxen,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/90533-hollywood-fight-nights\nhttp://www.boxrec.com/en/event
- /856224\n\n---\n\nMain Event: Callum Walsh (0-0-0) vs. Benjamin Whitaker
-  (15-8-0)\nCo-Main Event: Cem Kilic (16-1-0) vs. Marco Delgado (7-3-0)\n
- Main Card: Aida Satybaldinova (6-2-1) vs. Chelsey Anderson (5-0-0)\nMain
-  Card: Omar Cande Trinidad (8-0-1) vs. Javier Padilla (7-0-1)\nMain Card
- : Jessica Juarez (3-2-0) vs. Elvina White (5-1-0)\nMain Card: Eric Pries
- t (7-0-0) vs. Cory Conner (3-0-0)\nMain Card: Eduardo Diaz (5-2-0) vs. J
- esse Gonzalez (0-0-0)\nMain Card: Jordan Panthen (0-0-0) vs. Arturo Manr
- iquez Perez (0-0-0)\nMain Card: Jose Rodriguez (0-0-0) vs. Armando Vasqu
- ez (0-0-0)
+SUMMARY:Swiss Kickboxing Open Air
+DTSTART:20220813T170000Z
+DTEND:20220813T200000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-sw
+ iss-kickboxing-open-air-508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T135501Z
+UID:2022-08-premiere-mondiale@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Première Mondiale
+DTSTART:20220815T163000Z
+DTEND:20220815T193000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
+ estige-fight-509\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9
+ 2017-premiere-mondiale
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T135501Z
+UID:2022-08-ksi-vs-swarmz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSI vs. Swarmz
+DTSTART:20220827T180000Z
+DTEND:20220827T210000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN
 END:VEVENT
 END:VCALENDAR

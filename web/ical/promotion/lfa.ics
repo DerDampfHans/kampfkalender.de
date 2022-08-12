@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220811T113808Z
-X-KAMPFKALENDER-HASH:d87cacf2889c7da338ebf3fba2f69573c17e2336
+DTSTAMP:20220812T135501Z
+X-KAMPFKALENDER-HASH:39d849559d78aab067f056d0fabb50186beaebd5
 BEGIN:VEVENT
-DTSTAMP:20220811T113808Z
+DTSTAMP:20220812T135501Z
 UID:2022-08-lfa-138-farias-vs-tanaka@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 138: Farias vs. Tanaka
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ey (6-1-0) vs. Abbas Mounshed (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T113808Z
+DTSTAMP:20220812T135501Z
 UID:2022-08-lfa-139-assenza-vs-melo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 139: Assenza vs. Melo
@@ -39,16 +39,17 @@ CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/90735-lfa-139-assenza-vs-melo\n\n---\n\nMain Event: Adam Ass
  enza (16-6-0) vs. Junior Melo (11-5-0)\nMain Card: Tony Laramie (6-2-0) 
- vs. Rodney Kealohi (5-3-0)\nMain Card: Teshay Gouthro (5-1-0) vs. Arnold
-  Jimenez (8-2-0)\nMain Card: Ryan Charlebois (3-1-0) vs. Logan Urban (5-
- 1-0)\nMain Card: Lydell Poag (2-0-0) vs. Dylan Budka (3-1-0)\nPrelim: Li
- am Anderson (2-2-0) vs. Robert Gidron (6-6-0)\nPrelim: Gavin Teasdale (0
- -0-0) vs. Freddie Rodriguez (2-0-0)\nPrelim: Derrick Patterson (0-0-0) v
- s. Luke Roberts (0-0-1)\nPrelim: Austin Ross (2-0-0) vs. Matt Smith (1-1
- -0)\nPrelim: Alex Moher (3-1-0) vs. Kevin Hixon (1-0-0)
+ vs. Rodney Kealohi (5-3-0)\nMain Card: Nurullo Aliev (6-0-0) vs. Thiago 
+ Oliveira (16-8-0)\nMain Card: Teshay Gouthro (5-1-0) vs. Arnold Jimenez 
+ (8-2-0)\nMain Card: Ryan Charlebois (3-1-0) vs. Logan Urban (5-1-0)\nMai
+ n Card: Lydell Poag (2-0-0) vs. Dylan Budka (3-1-0)\nPrelim: Liam Anders
+ on (2-2-0) vs. Robert Gidron (6-6-0)\nPrelim: Gavin Teasdale (0-0-0) vs.
+  Freddie Rodriguez (2-0-0)\nPrelim: Derrick Patterson (0-0-0) vs. Luke R
+ oberts (0-0-1)\nPrelim: Austin Ross (2-0-0) vs. Matt Smith (1-1-0)\nPrel
+ im: Alex Moher (3-1-0) vs. Kevin Hixson (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T113808Z
+DTSTAMP:20220812T135501Z
 UID:2022-08-lfa-140-mota-vs-abuev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 140: Mota vs. Abuev
@@ -60,5 +61,22 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  a (7-1-0) vs. Rizvan Abuev (12-3-0)\nMain Card: Richie Miranda (4-0-0) v
  s. Elijah Harris (4-4-0)\nMain Card: Braden Pagaoa (2-1-0) vs. Dillion C
  ox (4-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T135501Z
+UID:2022-09-lfa-141-talundzic-vs-brown@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 141: Talundžić vs. Brown
+DTSTART:20220910T020000Z
+DTEND:20220910T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/92073-lfa-141-talundzic-vs-brown\n\n---\n\nMain Event: Haris
+  Talundžić (5-0-0) vs. Chris Brown (8-4-0)\nMain Card: Kathryn Paprocki 
+ (3-2-0) vs. Kelsey Arnesen (1-2-0)\nMain Card: Ben Tynan (2-0-0) vs. And
+ res Cisneros (1-0-0)\nPrelim: Robert Trujillo (5-0-0) vs. Shawn Suser (3
+ -0-0)\nPrelim: Adam Vigil (5-1-0) vs. Kohlman Scribner (3-2-0)\nPrelim: 
+ Luis Gurule (1-0-0) vs. Josiah Reyes (3-0-0)\nPrelim: Llorrvic Acevedo (
+ 2-1-0) vs. Kevin Fernandez (3-1-0)
 END:VEVENT
 END:VCALENDAR

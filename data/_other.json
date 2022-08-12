@@ -1,2 +1,71 @@
 [
+  {
+    "id": "swiss-2022-08-13",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Riedholz"
+    ],
+    "mainCard": {
+      "title": "Swiss Kickboxing Open Air",
+      "time": "2022-08-13T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-swiss-kickboxing-open-air-508",
+          "freeAfter": 72
+        }
+      }
+    }
+  },
+  {
+    "id": "prestige-2022-08-15",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Cannes"
+    ],
+    "mainCard": {
+      "title": "Première Mondiale",
+      "time": "2022-08-15T16:30:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-prestige-fight-509",
+          "freeAfter": 24
+        }
+      }
+    },
+    "tapology": {
+      "id": 92017,
+      "url": "https://www.tapology.com/fightcenter/events/92017-premiere-mondiale"
+    }
+  },
+  {
+    "id": "ksi-2022-08-27",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#KSISwarmz"
+    ],
+    "mainCard": {
+      "title": "KSI vs. Swarmz",
+      "time": "2022-08-27T18:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "12h0dk22xwgm41nq51chzldcvn",
+        "time": "2022-08-27T18:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "KSI vs Swarmz"
+      }
+    }
+  }
 ]

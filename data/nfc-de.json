@@ -1,6 +1,6 @@
 [
   {
-    "id": "nfc-2022-10-08",
+    "id": "nfc-2022-12-17",
     "promotion": "NFC_DE",
     "sports": [
       "MMA"
@@ -10,10 +10,9 @@
       "#NFC11"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "NFC 11",
-      "time": "2022-10-08T21:00:00Z",
-      "until": "2022-10-08T22:30:00Z",
+      "time": "2022-12-17T22:00:00Z",
+      "until": "2022-12-17T23:30:00Z",
       "broadcasters": {
         "SPORT1": {
           "free": true
@@ -25,9 +24,8 @@
       }
     },
     "prelims": {
-      "hidden": true,
       "title": "NFC 11: Main Card",
-      "time": "2022-10-08T18:00:00Z",
+      "time": "2022-12-17T19:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
         },
@@ -36,9 +34,8 @@
       }
     },
     "earlyPrelims": {
-      "hidden": true,
       "title": "NFC 11: Prelims",
-      "time": "2022-10-08T16:00:00Z",
+      "time": "2022-12-17T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "free": true
@@ -53,35 +50,10 @@
       "title": "NFC 11",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/90361-nfc-11"
-    },
-    "fightEvents": {
-      "id": "nfc-11",
-      "time": "2022-10-08T16:00:00Z",
-      "until": "2022-10-08T21:00:00Z",
-      "title": "NFC 11",
-      "url": "https://www.fightevents.de/event/nfc-11/",
-      "broadcaster": "FIGHT24_TV",
-      "tags": [
-        "Brave",
-        "Brave Combat Federation",
-        "Fight24.tv",
-        "Fighting",
-        "MMA",
-        "München",
-        "National Fighting Championship",
-        "NFC",
-        "NFC 11"
-      ],
-      "categories": [
-        "Fight24.tv",
-        "Livestream",
-        "MMA",
-        "National"
-      ]
     }
   },
   {
-    "id": "nfc-2022-12-17",
+    "id": "nfc-2023-02-18",
     "promotion": "NFC_DE",
     "sports": [
       "MMA"
@@ -92,8 +64,8 @@
     ],
     "mainCard": {
       "title": "NFC 12",
-      "time": "2022-12-17T22:00:00Z",
-      "until": "2022-12-17T23:30:00Z",
+      "time": "2023-02-18T22:00:00Z",
+      "until": "2023-02-18T23:30:00Z",
       "broadcasters": {
         "SPORT1": {
           "free": true
@@ -105,8 +77,9 @@
       }
     },
     "prelims": {
+      "hidden": true,
       "title": "NFC 12: Main Card",
-      "time": "2022-12-17T19:00:00Z",
+      "time": "2023-02-18T19:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
         },
@@ -115,8 +88,9 @@
       }
     },
     "earlyPrelims": {
+      "hidden": true,
       "title": "NFC 12: Prelims",
-      "time": "2022-12-17T17:00:00Z",
+      "time": "2023-02-18T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "free": true
@@ -131,31 +105,6 @@
       "title": "NFC 12",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/90362-nfc-12"
-    },
-    "fightEvents": {
-      "id": "nfc-12",
-      "time": "2022-12-17T17:00:00Z",
-      "until": "2022-12-17T22:30:00Z",
-      "title": "NFC 12",
-      "url": "https://www.fightevents.de/event/nfc-12/",
-      "broadcaster": "FIGHT24_TV",
-      "tags": [
-        "Brave",
-        "Brave Combat Federation",
-        "Düsseldorf",
-        "Fight24.tv",
-        "Fighting",
-        "MMA",
-        "National Fighting Championship",
-        "NFC",
-        "NFC 12"
-      ],
-      "categories": [
-        "Fight24.tv",
-        "Livestream",
-        "MMA",
-        "National"
-      ]
     }
   }
 ]
