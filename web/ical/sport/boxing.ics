@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220812T135501Z
-X-KAMPFKALENDER-HASH:b710c87f921237c6cde9258575f214cf6bd34586
+DTSTAMP:20220813T131729Z
+X-KAMPFKALENDER-HASH:4a02f91eac06e6f0da56ab70747eb7fc9c62f9ad
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-conlan-vs-marriaga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Marriaga
@@ -18,7 +18,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-conlan-vs-mar
  riaga/2pbmv/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-smith-vs-o-maison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. O'Maison
@@ -38,7 +38,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (0-0-0) vs. J. Clavero (16-17-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-ortiz-vs-mckinson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz vs. McKinson
@@ -57,7 +57,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  \nPrelim: Francisco Bonilla (6-10-3) vs. Figo Gonzalez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-lopez-vs-campa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lopez vs. Campa
@@ -67,16 +67,16 @@ CATEGORIES:TR,Boxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-lopez-vs-camp
  a/2pbro/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/89944-lop
  ez-vs-campa\nhttp://www.boxrec.com/en/event/859212\n\n---\n\nMain Event:
-  Teofimo Lopez (16-1-0) vs. Pedro Campa (34-1-1)\nMain Card: Xander Zaya
- s (13-0-0) vs. Elias Espadas (22-4-0)\nMain Card: Andres Cortes (17-0-0)
-  vs. Abraham Montoya (20-3-1)\nMain Card: Duke Ragan (6-0-0) vs. D'Angel
- o Fuentes (7-0-0)\nMain Card: Troy Isley (6-0-0) vs. Victor Toney (5-1-1
- )\nMain Card: Jose Enrique Vivas (21-2-0) vs. Eddy Valencia (17-7-6)\nMa
- in Card: Omar Rosario (7-0-0) vs. Esteban Munoz (6-1-0)\nMain Card: Char
- lie Sheehy (0-0-0) vs. J. Valle (2-0-2)
+  Teofimo Lopez (16-1-0) vs. Pedro Campa (34-1-1)\nCo-Main Event: Xander 
+ Zayas (13-0-0) vs. Elias Espadas (22-4-0)\nMain Card: Andres Cortes (17-
+ 0-0) vs. Abraham Montoya (20-3-1)\nMain Card: Duke Ragan (6-0-0) vs. D'A
+ ngelo Fuentes (7-0-0)\nMain Card: Troy Isley (6-0-0) vs. Victor Toney (5
+ -1-1)\nMain Card: Jose Enrique Vivas (21-2-0) vs. Eddy Valencia (17-7-6)
+ \nMain Card: Omar Rosario (7-0-0) vs. Esteban Munoz (6-1-0)\nMain Card: 
+ Charlie Sheehy (0-0-0) vs. Juan Manuel Castaneda (2-0-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-premiere-mondiale@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Première Mondiale
@@ -85,10 +85,26 @@ DTEND:20220815T193000Z
 CATEGORIES:Other,Boxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  estige-fight-509\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9
- 2017-premiere-mondiale
+ 2017-premiere-mondiale\nhttp://www.boxrec.com/en/event/859951\n\n---\n\n
+ Main Card: Kevin Lele Sadjo (17-0-0) vs. Badri Gogichashvili (8-17-4)\nM
+ ain Card: Yurik Mamedov (15-2-0) vs. Javier Jose Clavero (30-9-0)\nMain 
+ Card: Milan Prat (16-0-0) vs. Giorgi Kankava (2-5-1)\nMain Card: Marlon 
+ Brun (13-1-0) vs. Martin Owono (8-39-5)\nMain Card: Bakary Samake (9-0-0
+ ) vs. Apisit Sangmuang (5-1-0)\nMain Card: Ange Baumgartner (0-0-0) vs. 
+ Mikheil Gabinashvili (8-29-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
+UID:2022-08-gamebred-boxing-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gamebred Boxing 2
+DTSTART:20220820T003000Z
+DTEND:20220820T033000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220813T131730Z
 UID:2022-08-gmc-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Olympix K1 / Boxen
@@ -99,7 +115,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/olympix-k1-boxen
  -no-112
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -117,7 +133,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/89337-usyk-vs-jos
   Maayouf (0-0-0) vs. Hector Alatorre (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-navarrete-vs-baez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Navarrete vs. Baez
@@ -137,7 +153,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-navarrete-vs-
  (7-0-0)\nMain Card: Antonio Mireles (0-0-0) vs. Kaleel Carter (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-ksi-vs-swarmz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSI vs. Swarmz
@@ -147,7 +163,7 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-pedraza-vs-commey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pedraza vs. Commey
@@ -168,7 +184,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-co
  im: Dante Benjamin Jr. (0-0-0) vs. Leandro Silva (3-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -187,7 +203,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-10-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -199,7 +215,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  k Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Eubank Jr.
@@ -207,11 +223,11 @@ DTSTART:20221008T190000Z
 DTEND:20221008T220000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/91151-benn-vs-eubank-jr\n\n---\n\nMain Event: Conor Benn (21-0-0) vs. 
- Chris Eubank Jr. (32-2-0)
+ s/91151-benn-vs-eubank-jr\nhttp://www.boxrec.com/en/event/860669\n\n---\
+ n\nMain Event: Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-10-martinez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Edwards

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220812T135501Z
-X-KAMPFKALENDER-HASH:ca6ae9485cdecb32ad04883331e92d1ca1f70e45
+DTSTAMP:20220813T131729Z
+X-KAMPFKALENDER-HASH:c9bfbbbb83df16a28e88939ab821917783ecb706
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-nfc-10-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=HzjrO5Bfp0Y\
   vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-nfc-10-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Main Card
@@ -51,7 +51,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=IzYfos774-A\
   vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-nfc-10-grabinski-vs-lutterbach@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 10: Grabinski vs. Lutterbach
@@ -73,7 +73,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  iani (1-0-0) vs. Lazar Todev (6-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-swiss-kickboxing-open-air@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swiss Kickboxing Open Air
@@ -84,7 +84,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-sw
  iss-kickboxing-open-air-508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-08-premiere-mondiale@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Première Mondiale
@@ -93,10 +93,16 @@ DTEND:20220815T193000Z
 CATEGORIES:Other,Boxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  estige-fight-509\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9
- 2017-premiere-mondiale
+ 2017-premiere-mondiale\nhttp://www.boxrec.com/en/event/859951\n\n---\n\n
+ Main Card: Kevin Lele Sadjo (17-0-0) vs. Badri Gogichashvili (8-17-4)\nM
+ ain Card: Yurik Mamedov (15-2-0) vs. Javier Jose Clavero (30-9-0)\nMain 
+ Card: Milan Prat (16-0-0) vs. Giorgi Kankava (2-5-1)\nMain Card: Marlon 
+ Brun (13-1-0) vs. Martin Owono (8-39-5)\nMain Card: Bakary Samake (9-0-0
+ ) vs. Apisit Sangmuang (5-1-0)\nMain Card: Ange Baumgartner (0-0-0) vs. 
+ Mikheil Gabinashvili (8-29-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-09-gcp6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GCP6
@@ -108,11 +114,12 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gc
  r-6/\nhttps://www.tapology.com/fightcenter/events/91291-gcp6\n\n---\n\nM
  ain Card: Abubakr Abdulhalakov (0-1-0) vs. Walid Hounka (0-0-0)\nMain Ca
  rd: Danilo Sorriso (2-5-0) vs. Tony Sipos (1-0-0)\nMain Card: T. Paulino
-  Do Santos (4-3-0) vs. Nicolas Ighodaro (2-2-0)\nPrelim: Ognan Vasiljevi
- c (0-1-0) vs. Enes Temiz (0-0-0)
+  Do Santos (4-3-0) vs. Nicolas Ighodaro (2-2-0)\nMain Card: Mehdi Mataje
+ v (1-1-0) vs. Quincy Dwamena (2-2-0)\nPrelim: Ognan Vasiljevic (0-1-0) v
+ s. Enes Temiz (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-09-super-league-mma-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 4
@@ -124,7 +131,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  events/90451-super-league-mma-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-09-hard-fighting-championship-37@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hard Fighting Championship 37
@@ -135,7 +142,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-hf
  c-37-510
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -147,7 +154,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  events/90452-super-league-mma-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -158,7 +165,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -169,7 +176,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -180,7 +187,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/90361-nfc-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135502Z
+DTSTAMP:20220813T131730Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

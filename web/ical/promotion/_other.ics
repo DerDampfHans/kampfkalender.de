@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220812T135501Z
-X-KAMPFKALENDER-HASH:13da47f8980825f4a8aca30ff811a7136a6776ee
+DTSTAMP:20220813T131729Z
+X-KAMPFKALENDER-HASH:d8dfa9d5b4eeef825f7951785664e69e2236fb6e
 BEGIN:VEVENT
-DTSTAMP:20220812T135501Z
+DTSTAMP:20220813T131729Z
 UID:2022-08-swiss-kickboxing-open-air@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swiss Kickboxing Open Air
@@ -18,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-sw
  iss-kickboxing-open-air-508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135501Z
+DTSTAMP:20220813T131729Z
 UID:2022-08-premiere-mondiale@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Première Mondiale
@@ -27,10 +27,26 @@ DTEND:20220815T193000Z
 CATEGORIES:Other,Boxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pr
  estige-fight-509\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9
- 2017-premiere-mondiale
+ 2017-premiere-mondiale\nhttp://www.boxrec.com/en/event/859951\n\n---\n\n
+ Main Card: Kevin Lele Sadjo (17-0-0) vs. Badri Gogichashvili (8-17-4)\nM
+ ain Card: Yurik Mamedov (15-2-0) vs. Javier Jose Clavero (30-9-0)\nMain 
+ Card: Milan Prat (16-0-0) vs. Giorgi Kankava (2-5-1)\nMain Card: Marlon 
+ Brun (13-1-0) vs. Martin Owono (8-39-5)\nMain Card: Bakary Samake (9-0-0
+ ) vs. Apisit Sangmuang (5-1-0)\nMain Card: Ange Baumgartner (0-0-0) vs. 
+ Mikheil Gabinashvili (8-29-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135501Z
+DTSTAMP:20220813T131729Z
+UID:2022-08-gamebred-boxing-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gamebred Boxing 2
+DTSTART:20220820T003000Z
+DTEND:20220820T033000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220813T131729Z
 UID:2022-08-ksi-vs-swarmz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSI vs. Swarmz
