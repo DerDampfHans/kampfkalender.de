@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220812T135501Z
-X-KAMPFKALENDER-HASH:f6aee6019fb84c619e95436e080aabff43234a9f
+DTSTAMP:20220816T141012Z
+X-KAMPFKALENDER-HASH:e6c1504fbd1217832fa06c012878a38529877307
 BEGIN:VEVENT
-DTSTAMP:20220812T135501Z
+DTSTAMP:20220816T141012Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
@@ -24,15 +24,29 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=W1dIwlR_UfM\
  i vs. Chris Wunn
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220812T135501Z
-UID:2022-10-glory-collision-4@kampfkalender.de
+DTSTAMP:20220816T141012Z
+UID:2022-09-glory-rivals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory Collision 4
+SUMMARY:Glory Rivals 2
+DTSTART:20220917T070000Z
+DTEND:20220917T100000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/92171-glory-rivals-2\n\n---\n\nMain Event: Robin Ciric vs. Endy
+  Semeleer\nCo-Main Event: Ibrahim El Bouni vs. Badr Ferdaous\nMain Card:
+  Regilio van den Ent vs. Jos van Belzen\nMain Card: Clyde Brunswijk vs. 
+ Muhammed Balli\nMain Card: Jimmy van Kuijeren vs. Frank Rubanguka
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220816T141012Z
+UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Collision 4: Hari vs. Overeem
 DTSTART:20221008T040000Z
 DTEND:20221008T070000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/89722-glory-collision-4\n\n---\n\nMain Event: Badr Hari vs. Alista
- ir Overeem
+ ir Overeem\nMain Card: Tiffany Van Soest vs. Sarah Moussaddak
 END:VEVENT
 END:VCALENDAR
