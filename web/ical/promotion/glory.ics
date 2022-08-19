@@ -4,15 +4,32 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220816T141012Z
-X-KAMPFKALENDER-HASH:e6c1504fbd1217832fa06c012878a38529877307
+DTSTAMP:20220819T175608Z
+X-KAMPFKALENDER-HASH:d5e4dbb8fb990da98e9bcef20c90c1a7c996944c
 BEGIN:VEVENT
-DTSTAMP:20220816T141012Z
+DTSTAMP:20220819T175608Z
+UID:2022-08-glory-81-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 81: Prelims
+DTSTART:20220820T170000Z
+DTEND:20220820T180000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=c9FoTbW2LlU\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/90156-glory-81\n\n
+ ---\n\nMain Event: Jamal Ben Saddik vs. Benjamin Adegbuyi\nCo-Main Event
+ : Donovan Wisse vs. Juri de Sousa\nMain Card: Nordine Mahieddine vs. Cih
+ ad Kepenek\nMain Card: Ahmad Chikh Mousa vs. Rafik Habiat\nMain Card: St
+ oyan Koprivlenski vs. Guerric Billet\nMain Card: Dennis Wosik vs. Naoki 
+ Tanaka\nPrelim: Michael Boapeah vs. Florian Kröger\nPrelim: Ilias Darraz
+ i vs. Chris Wunn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220819T175608Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
-DTSTART:20220820T170000Z
-DTEND:20220820T200000Z
+DTSTART:20220820T180000Z
+DTEND:20220820T210000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=W1dIwlR_UfM\
  n\n---\n\nhttps://www.tapology.com/fightcenter/events/90156-glory-81\n\n
@@ -24,7 +41,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=W1dIwlR_UfM\
  i vs. Chris Wunn
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220816T141012Z
+DTSTAMP:20220819T175608Z
 UID:2022-09-glory-rivals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 2
@@ -38,7 +55,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  Muhammed Balli\nMain Card: Jimmy van Kuijeren vs. Frank Rubanguka
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220816T141012Z
+DTSTAMP:20220819T175608Z
 UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Hari vs. Overeem

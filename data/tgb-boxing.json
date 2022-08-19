@@ -6,9 +6,23 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Figueroa vs. Lipinets",
-      "time": "2022-08-21T02:00:00Z"
+      "time": "2022-08-21T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/figueroa-jr-vs-lipinets/2pbt0/"
+        }
+      },
+      "fite": {
+        "id": "2pbt0",
+        "time": "2022-08-21T00:00:00Z",
+        "title": "PBC: Omar Figueroa Jr vs Sergey Lipinets",
+        "url": "https://www.fite.tv/watch/figueroa-jr-vs-lipinets/2pbt0/",
+        "price": "$12.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 90959,
@@ -23,13 +37,13 @@
         "Main Event: Omar Figueroa Jr. (28-2-1) vs. Sergei Lipinets (16-2-1)",
         "Main Card: Alberto Puello (20-0-0) vs. Batyr Akhmedov (9-1-0)",
         "Main Card: Roger Gutierrez (26-3-1) vs. Hector Garcia (15-0-0)",
-        "Main Card: Ismael Barroso (23-3-2) vs. Fernando David Saucedo (63-9-3)",
         "Main Card: Brandun Lee (23-0-0) vs. Will Madera (17-1-3)",
-        "Main Card: Lenier Pero (7-0-0) vs. Joel Caudle (9-6-2)",
+        "Prelim: Ismael Barroso (23-3-2) vs. Fernando David Saucedo (63-9-3)",
         "Prelim: Fiodor Cherkashyn (19-0-0) vs. Gilbert Venegas Jr (11-1-0)",
         "Prelim: Rau'shee Warren (19-3-0) vs. Francisco Pedroza (16-11-2)",
         "Prelim: Atif Oberlton (5-0-0) vs. Robert Burwell (9-6-0)",
         "Prelim: Michael Angeletti (5-0-0) vs. Rafael Morel (1-5-1)",
+        "Prelim: Lenier Pero (7-0-0) vs. Joel Caudle (9-6-2)",
         "Prelim: Miguel Angel Hernandez (5-0-0) vs. Anthony Hannah (3-3-0)"
       ],
       "links": [
@@ -111,13 +125,14 @@
       "id": 92051,
       "time": "2022-10-16T00:00:00Z",
       "title": "Wilder vs. Helenius",
-      "info": "Rumored Upcoming Boxing Event",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/92051-wilder-vs-helenius",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Deontay Wilder (42-2-1) vs. Robert Helenius (31-3-0)"
+        "Main Event: Deontay Wilder (42-2-1) vs. Robert Helenius (31-3-0)",
+        "Main Card: Caleb Plant (21-1-0) vs. Anthony Dirrell (34-2-2)"
       ]
     }
   },

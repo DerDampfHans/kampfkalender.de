@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220813T131729Z
-X-KAMPFKALENDER-HASH:5fa42eaf0a5f1ec1a2dfc53a2fed79784c0a728f
+DTSTAMP:20220819T175608Z
+X-KAMPFKALENDER-HASH:c37c55b1c1e5f41296a835ff2a02596fc0ee39dd
 BEGIN:VEVENT
-DTSTAMP:20220813T131729Z
+DTSTAMP:20220819T175608Z
 UID:2022-08-cage-warriors-142-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 142: Prelims
@@ -33,7 +33,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Kzdunczyk (3-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220813T131729Z
+DTSTAMP:20220819T175608Z
 UID:2022-08-cage-warriors-142@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 142
@@ -59,7 +59,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Kzdunczyk (3-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220813T131729Z
+DTSTAMP:20220819T175608Z
 UID:2022-09-cage-warriors-143@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 143
@@ -67,10 +67,24 @@ DTSTART:20220923T200000Z
 DTEND:20220923T230000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/92041-cage-warriors-143
+ nter/events/92041-cage-warriors-143\n\n---\n\nMain Card: Erick Sánchez (
+ 10-6-0) vs. James Lynch (5-2-0)\nMain Card: Elijah Harris (4-1-0) vs. Tr
+ ey Williams (5-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220813T131729Z
+DTSTAMP:20220819T175608Z
+UID:2022-10-cage-warriors-144@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 144
+DTSTART:20221007T200000Z
+DTEND:20221007T230000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/92256-cage-warriors-144\n\n---\n\nMain Event: Dominique Wood
+ ing (9-4-0) vs. Michele Martignoni (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220819T175608Z
 UID:2022-11-cage-warriors-145@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 145

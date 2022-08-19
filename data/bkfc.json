@@ -34,6 +34,10 @@
       "title": "BKFC 27: Prelims",
       "time": "2022-08-20T17:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=bKzX2T87xrg",
+          "free": true
+        },
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-27-prelims/2pbol/",
           "free": true
@@ -50,29 +54,35 @@
           "BOXING",
           "MMA"
         ]
+      },
+      "youTube": {
+        "id": "bKzX2T87xrg",
+        "time": "2022-08-20T17:00:00Z",
+        "title": "BKFC 27 Free Prelim Fights | Live!",
+        "url": "https://www.youtube.com/watch?v=bKzX2T87xrg"
       }
     },
     "tapology": {
       "id": 90138,
-      "time": "2022-08-20T20:00:00Z",
+      "time": "2022-08-20T17:00:00Z",
       "title": "BKFC 27: MVP vs. Platinum",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/90138-bkfc-27-mvp-vs-perry",
       "card": [
         "Main Event: Michael Page vs. Mike Perry",
-        "Co-Main Event: Paige VanZant vs. Charisa Sigala",
-        "Main Card: Connor Tierney vs. Joe Elmore",
+        "Co-Main Event: Connor Tierney vs. Joe Elmore",
         "Main Card: Sam Shewmaker vs. Mick Terrill",
         "Main Card: John Hick vs. Ellis Shepherd",
         "Main Card: Tyler Goodjohn vs. James Lilley",
         "Main Card: Chris Fishgold vs. Jake Bostwick",
         "Main Card: Jamie Cox vs. Kearon Thomas",
         "Main Card: Dawid Żółtaszek vs. Adam Harris",
-        "Main Card: Rob Cunningham vs. Brett May",
         "Main Card: Danny Christie vs. Terry Brazier",
+        "Main Card: Tony Giles vs. Ashley Griffiths",
+        "Main Card: David Round vs. Kearon Thomas",
         "Prelim: Franco Tenaglia vs. Chas Symonds",
         "Prelim: Conan Barbaru vs. Dan Vinni",
-        "Prelim: Tony Giles vs. David Round"
+        "Prelim: Rob Cunningham vs. Brett May"
       ],
       "links": [
         "https://events.mixedmartialarts.com/bkfc-27:8a621851-8e6a-4662-9855-03e1f93dafe8"
@@ -182,6 +192,31 @@
       "url": "https://www.tapology.com/fightcenter/events/91454-bkfc-fight-night-montana-2",
       "links": [
         "https://events.mixedmartialarts.com/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7"
+      ]
+    }
+  },
+  {
+    "id": "tapology-92218",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "title": "BKFC 31: VanZant vs. Sigala",
+      "time": "2022-10-16T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 92218,
+      "time": "2022-10-16T00:00:00Z",
+      "title": "BKFC 31: VanZant vs. Sigala",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/92218-bkfc-31-vanzant-vs-sigala",
+      "card": [
+        "Main Event: Paige VanZant vs. Charisa Sigala"
       ]
     }
   }

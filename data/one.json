@@ -21,7 +21,7 @@
     },
     "tapology": {
       "id": 89974,
-      "time": "2022-08-26T10:30:00Z",
+      "time": "2022-08-26T11:30:00Z",
       "title": "ONE Championship 160: Le vs. Tang",
       "info": "Confirmed Upcoming MMA, Muay Thai, & Grappling Event",
       "url": "https://www.tapology.com/fightcenter/events/89974-one-championship-160",
@@ -33,14 +33,12 @@
       "card": [
         "Main Event: Rae Yoon Ok (16-3-0) vs. Christian Lee (15-4-0)",
         "Co-Main Event: Thanh Le (13-2-0) vs. Kai Tang (14-2-0)",
-        "Main Card: Superlek Kiatmoo9 vs. Walter Goncalves",
         "Main Card: Panpayak Jitmuangnon vs. Sherzod Kabutov",
-        "Main Card: Zebaztian Kadestam (13-7-0) vs. Iuri Lapicus (14-1-0)",
         "Main Card: Rittewada Petchyindee vs. Saemapetch Fairtex",
-        "Prelim: Paul Elliott (3-1-0) vs. Martin Batur (7-3-0)",
-        "Prelim: Amir Khan (14-8-0) vs. Keanu Subba (8-5-0)",
+        "Main Card: Amir Khan (14-8-0) vs. Keanu Subba (8-5-0)",
+        "Main Card: Paul Elliott (3-1-0) vs. Martin Batur (7-3-0)",
         "Prelim: Thales Nakassu (5-1-0) vs. K. Agasa (11-3-0)",
-        "Prelim: Valdir Rodrigues vs. Renato Canuto"
+        "Prelim: Renato Canuto vs. Tommy Langaker"
       ]
     }
   },
@@ -55,18 +53,15 @@
       "#ONEonPrime1"
     ],
     "mainCard": {
-      "title": "ONE on Prime Video: Moraes vs. Johnson 2",
-      "time": "2022-08-27T00:30:00Z",
+      "title": "ONE on Prime 1: Moraes vs. Johnson 2",
+      "time": "2022-08-27T01:00:00Z",
       "broadcasters": {
-        "YOUTUBE": {
-          "free": true
-        }
       }
     },
     "tapology": {
       "id": 89976,
       "time": "2022-08-27T01:00:00Z",
-      "title": "ONE on Prime Video 1: Moraes vs. Johnson 2",
+      "title": "ONE on Prime 1: Moraes vs. Johnson 2",
       "info": "Confirmed Upcoming MMA & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/89976-one-championship-161-moraes-vs-johnson-2",
       "sports": [
@@ -79,9 +74,11 @@
         "Main Card: Rodtang Jitmuangnon vs. Savvas Michael",
         "Main Card: Marcus Buchecha (3-0-0) vs. Kirill Grishenko (5-1-0)",
         "Main Card: Amir Aliakbari (10-3-0) vs. Mauro Cerilli (14-4-0)",
-        "Main Card: Amir Naseri vs. Jonathan Haggerty",
+        "Main Card: Superlek Kiatmoo9 vs. Walter Goncalves",
+        "Prelim: Amir Naseri vs. Jonathan Haggerty",
+        "Prelim: Diandra Martin vs. Amber Kitchen",
         "Prelim: Itsuki Hirata (5-1-0) vs. Heqin Lin (15-3-1)",
-        "Prelim: Diandra Martin vs. Amber Kitchen"
+        "Prelim: Zebaztian Kadestam (13-7-0) vs. Iuri Lapicus (14-1-0)"
       ]
     }
   },
@@ -95,7 +92,7 @@
       "#ONE161"
     ],
     "mainCard": {
-      "title": "ONE Championship 161: Bhullar vs. Malykhin",
+      "title": "ONE 161: Bhullar vs. Malykhin",
       "time": "2022-09-29T10:30:00Z",
       "broadcasters": {
         "YOUTUBE": {
@@ -107,13 +104,15 @@
       "id": 92068,
       "time": "2022-09-29T10:30:00Z",
       "title": "ONE Championship 161: Bhullar vs. Malykhin",
-      "info": "Confirmed Upcoming MMA Event",
+      "info": "Confirmed Upcoming MMA & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/92068-one-championship-161-bhullar-vs-malykhin",
       "sports": [
-        "MMA"
+        "MMA",
+        "MUAY_THAI"
       ],
       "card": [
-        "Main Event: Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (11-0-0)"
+        "Main Event: Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (11-0-0)",
+        "Co-Main Event: P. Petchyindee vs. Tawanchai PK Saenchai"
       ]
     }
   },
@@ -129,7 +128,8 @@
       "#ONEonPrime2"
     ],
     "mainCard": {
-      "title": "ONE on Prime Video 2",
+      "hidden": true,
+      "title": "ONE on Prime 2",
       "time": "2022-10-01T01:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
@@ -139,10 +139,20 @@
     },
     "tapology": {
       "id": 91423,
-      "time": "2022-10-01T01:00:00Z",
+      "time": "2022-10-01T00:00:00Z",
       "title": "ONE on Prime Video 2",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/91423-one-on-prime-video-2"
+      "info": "Confirmed Upcoming MMA, Kickboxing, & Grappling Event",
+      "url": "https://www.tapology.com/fightcenter/events/91423-one-on-prime-video-2",
+      "sports": [
+        "MMA",
+        "KICKBOXING",
+        "GRAPPLING"
+      ],
+      "card": [
+        "Main Event: Jingnan Xiong (17-2-0) vs. Angela Lee (11-2-0)",
+        "Co-Main Event: Superbon Banchamek vs. Chingiz Allazov",
+        "Main Card: Mikey Musumeci vs. Cleber Sousa"
+      ]
     }
   },
   {
@@ -157,8 +167,9 @@
       "#ONE164"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 164",
-      "time": "2022-10-07T10:00:00Z",
+      "time": "2022-12-03T11:30:00Z",
       "broadcasters": {
         "YOUTUBE": {
           "free": true
@@ -185,6 +196,7 @@
       "#ONE165"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 165",
       "time": "2022-10-08T10:00:00Z",
       "broadcasters": {
@@ -213,6 +225,7 @@
       "#ONE162"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 162",
       "time": "2022-10-21T10:30:00Z",
       "broadcasters": {
@@ -241,7 +254,8 @@
       "#ONEonPrime3"
     ],
     "mainCard": {
-      "title": "ONE on Prime Video 3",
+      "hidden": true,
+      "title": "ONE on Prime 3",
       "time": "2022-10-22T01:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
@@ -269,6 +283,7 @@
       "#ONE166"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 166",
       "time": "2022-11-18T11:00:00Z",
       "broadcasters": {
@@ -297,6 +312,7 @@
       "#ONE163"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 163",
       "time": "2022-11-18T11:30:00Z",
       "broadcasters": {
@@ -325,7 +341,8 @@
       "#ONEonPrime4"
     ],
     "mainCard": {
-      "title": "ONE on Prime Video 4",
+      "hidden": true,
+      "title": "ONE on Prime 4",
       "time": "2022-11-19T02:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
@@ -353,6 +370,7 @@
       "#ONE167"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 167",
       "time": "2022-11-19T11:00:00Z",
       "broadcasters": {
@@ -381,6 +399,7 @@
       "#ONE168"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 168",
       "time": "2022-12-02T11:00:00Z",
       "broadcasters": {
@@ -409,7 +428,8 @@
       "#ONEonPrime5"
     ],
     "mainCard": {
-      "title": "ONE on Prime Video 5",
+      "hidden": true,
+      "title": "ONE on Prime 5",
       "time": "2022-12-03T02:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
@@ -437,6 +457,7 @@
       "#ONE169"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "ONE 169",
       "time": "2022-12-03T11:00:00Z",
       "broadcasters": {
