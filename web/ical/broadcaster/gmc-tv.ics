@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220826T003404Z
-X-KAMPFKALENDER-HASH:27de39b015ee4bb73487b5029841c7bbbf3f38dc
+DTSTAMP:20220826T225344Z
+X-KAMPFKALENDER-HASH:84782976055da9815d1ba5d8fef23962c0d74bef
 BEGIN:VEVENT
-DTSTAMP:20220826T003405Z
+DTSTAMP:20220826T225344Z
 UID:2022-08-gmc-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Olympix K1 / Boxen / MMA
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/olympix-k1-boxen
  -no-112
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220826T003405Z
+DTSTAMP:20220826T225344Z
 UID:2022-09-gmc-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 29
@@ -38,7 +38,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220917-gmc-29\n\
  ) vs. Amir Safi (0-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220826T003405Z
+DTSTAMP:20220826T225344Z
 UID:2022-10-gmc-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 30
@@ -46,6 +46,18 @@ DTSTART:20221015T170000Z
 DTEND:20221015T200000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221015-gmc-30\n\
- n---\n\nhttps://www.tapology.com/fightcenter/events/90353-gmc-30
+ n---\n\nhttps://www.tapology.com/fightcenter/events/90353-gmc-30\n\n---\
+ n\nMain Card: Arijan Topallaj (3-0-1) vs. Cagri Ucar (5-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T225344Z
+UID:2022-12-gmc-fight-night-16@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Fight Night 16
+DTSTART:20221203T180000Z
+DTEND:20221203T210000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/90354-gmc-fight-night
 END:VEVENT
 END:VCALENDAR

@@ -73,9 +73,15 @@
     "tapology": {
       "id": 90353,
       "time": "2022-10-15T16:00:00Z",
-      "title": "GMC Fight Night 16",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/90353-gmc-30"
+      "title": "GMC 30",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/90353-gmc-30",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Arijan Topallaj (3-0-1) vs. Cagri Ucar (5-0-0)"
+      ]
     }
   },
   {
@@ -85,11 +91,10 @@
       "MMA"
     ],
     "tags": [
-      "#GMCFightNight17"
+      "#GMCFightNight16"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "GMC Fight Night 17",
+      "title": "GMC Fight Night 16",
       "time": "2022-12-03T18:00:00Z",
       "broadcasters": {
         "GMC_TV": {
@@ -99,7 +104,7 @@
     "tapology": {
       "id": 90354,
       "time": "2022-12-03T17:00:00Z",
-      "title": "GMC Fight Night 17",
+      "title": "GMC Fight Night 16",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/90354-gmc-fight-night"
     }
