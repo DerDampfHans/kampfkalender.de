@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220819T175608Z
-X-KAMPFKALENDER-HASH:73bbda1fc1e2ad0155ca12d54abfb37c0bb1a433
+DTSTAMP:20220826T003404Z
+X-KAMPFKALENDER-HASH:722390fc9eaa29b599f489710de912ea0fb67816
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-usyk-vs-joshua-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Georgiev (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-usyk-vs-joshua-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Usyk vs. Joshua 2
@@ -49,8 +49,8 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Georgiev (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
-UID:2022-09-estrada-vs-cortes@kampfkalender.de
+DTSTAMP:20220826T003405Z
+UID:2022-09-estrada-vs-cortes-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Cortes
 DTSTART:20220904T020000Z
@@ -64,7 +64,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  o Hernandez (32-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003405Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -83,7 +83,20 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003405Z
+UID:2022-09-wood-vs-lara@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wood vs. Lara
+DTSTART:20220924T200000Z
+DTEND:20220924T230000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92389-wood-vs-lara\n\n---\n\nMain Event: Leigh Wood (26-2-0) vs. Mauri
+ cio Lara (23-2-1)\nMain Card: Hannah Rankin (12-5-0) vs. Terri Harper (1
+ 2-1-1)\nMain Card: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
 UID:2022-10-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -95,7 +108,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  k Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003405Z
 UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Eubank Jr.
@@ -104,10 +117,11 @@ DTEND:20221008T220000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/91151-benn-vs-eubank-jr\nhttp://www.boxrec.com/en/event/860669\n\n---\
- n\nMain Event: Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)
+ n\nMain Event: Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)\nMain C
+ ard: Mary Romero (8-2-0) vs. Ellie Scotney (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003405Z
 UID:2022-10-martinez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Edwards
@@ -118,5 +132,17 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/91137-martinez-vs-edwards\n\n---\n\nMain Card: Julio Cesar Martinez (1
  8-2-0) vs. Sunny Edwards (18-0-0)\nMain Card: McWilliams Arroyo (21-4-0)
   vs. Joselito Velazquez (14-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
+UID:2022-11-bivol-vs-zurdo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bivol vs. Zurdo
+DTSTART:20221105T140000Z
+DTEND:20221105T170000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92338-bivol-vs-zurdo\n\n---\n\nMain Event: Dmitry Bivol (20-0-0) vs. Z
+ urdo Ramirez (44-0-0)
 END:VEVENT
 END:VCALENDAR

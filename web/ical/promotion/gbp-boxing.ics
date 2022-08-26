@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220814T151907Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220826T003404Z
+X-KAMPFKALENDER-HASH:7f82d6018630464633334e6f7f65393e061cf640
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
+UID:2022-09-valle-vs-nguyen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Valle vs. Nguyen
+DTSTART:20220909T010000Z
+DTEND:20220909T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/91595-golden-boy-fight-night-valle-vs-nguyen\n\n---\n\nMain Event: Yok
+ asta Valle (25-2-0) vs. Thi Thu Nhi Nguyen (5-0-0)\nMain Card: Sonia Oso
+ rio (14-8-2) vs. Adelaida Ruiz (11-0-1)\nMain Card: Anabel Ortiz (31-5-0
+ ) vs. Maria Micheo Santizo (9-1-0)\nMain Card: Angel Rodriguez (11-1-0) 
+ vs. Ivan Delgado (13-4-2)
+END:VEVENT
 END:VCALENDAR

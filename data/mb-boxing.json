@@ -70,6 +70,36 @@
     }
   },
   {
+    "id": "tapology-92389",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Wood vs. Lara",
+      "time": "2022-09-24T20:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 92389,
+      "time": "2022-09-24T20:00:00Z",
+      "title": "Wood vs. Lara",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/92389-wood-vs-lara",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Leigh Wood (26-2-0) vs. Mauricio Lara (23-2-1)",
+        "Main Card: Hannah Rankin (12-5-0) vs. Terri Harper (12-1-1)",
+        "Main Card: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-90363",
     "promotion": "MB_BOXING",
     "sports": [
@@ -121,7 +151,8 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)"
+        "Main Event: Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)",
+        "Main Card: Mary Romero (8-2-0) vs. Ellie Scotney (5-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/860669"
@@ -154,6 +185,35 @@
       "card": [
         "Main Card: Julio Cesar Martinez (18-2-0) vs. Sunny Edwards (18-0-0)",
         "Main Card: McWilliams Arroyo (21-4-0) vs. Joselito Velazquez (14-0-1)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-92338",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Bivol vs. Zurdo",
+      "time": "2022-11-05T14:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 92338,
+      "time": "2022-11-05T14:00:00Z",
+      "title": "Bivol vs. Zurdo",
+      "titleAlt": "Bivol vs. Ramirez",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/92338-bivol-vs-zurdo",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Dmitry Bivol (20-0-0) vs. Zurdo Ramirez (44-0-0)"
       ]
     }
   }

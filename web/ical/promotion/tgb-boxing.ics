@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220819T175608Z
-X-KAMPFKALENDER-HASH:600f4b0c4fd068657752eee5b4699dd613546371
+DTSTAMP:20220826T003404Z
+X-KAMPFKALENDER-HASH:c12a9a1ca78281dd207c09a71d051e666919f666
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-figueroa-vs-lipinets@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Figueroa vs. Lipinets
@@ -27,5 +27,23 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/figueroa-jr-vs-lipinet
  0)\nPrelim: Michael Angeletti (5-0-0) vs. Rafael Morel (1-5-1)\nPrelim: 
  Lenier Pero (7-0-0) vs. Joel Caudle (9-6-2)\nPrelim: Miguel Angel Hernan
  dez (5-0-0) vs. Anthony Hannah (3-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
+UID:2022-09-ruiz-vs-ortiz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ruiz vs. Ortiz
+DTSTART:20220905T010000Z
+DTEND:20220905T040000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ruiz-vs-ortiz/2pbqk/\n
+ \n---\n\nhttps://www.tapology.com/fightcenter/events/88928-ruiz-vs-ortiz
+ \nhttp://www.boxrec.com/en/event/858306\n\n---\n\nMain Event: Andy Ruiz 
+ Jr. (34-2-0) vs. Luis Ortiz (33-2-0)\nCo-Main Event: Isaac Cruz (23-2-1)
+  vs. Eduardo Ramirez (27-2-3)\nMain Card: Abner Mares (31-3-1) vs. Migue
+ l Flores (25-4-0)\nMain Card: Jezzrel Corrales (26-4-0) vs. Jose Valenzu
+ ela (12-0-0)\nPrelim: Mike Plania (26-1-0) vs. Raeese Aleem (19-0-0)\nPr
+ elim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)\nPrelim: Charles 
+ Martin (28-3-1) vs. Devin Vargas (22-7-0)
 END:VEVENT
 END:VCALENDAR

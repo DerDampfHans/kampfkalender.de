@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220821T220305Z
-X-KAMPFKALENDER-HASH:44dce97311102f9e1d8cc046047768e7eb7c4d3c
+DTSTAMP:20220826T003404Z
+X-KAMPFKALENDER-HASH:1d8659be49cae5e8fb3d7d7adcbe26fd41c4650b
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-bkfc-27-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=bKzX2T87xrg\nvia
  : Rob Cunningham vs. Brett May
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
@@ -50,7 +50,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27/2pbkj/\n\n---\
  Prelim: Rob Cunningham vs. Brett May
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-figueroa-vs-lipinets@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Figueroa vs. Lipinets
@@ -72,7 +72,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/figueroa-jr-vs-lipinet
  dez (5-0-0) vs. Anthony Hannah (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-navarrete-vs-baez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Navarrete vs. Baez
@@ -92,7 +92,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-navarrete-vs-
  (7-0-0)\nMain Card: Antonio Mireles (0-0-0) vs. Kaleel Carter (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
+UID:2022-08-bkfc-28-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 28: Prelims
+DTSTART:20220828T000000Z
+DTEND:20220828T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28-prelims/2pbtb/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/90159-bkfc-fight-
+ night-albuquerque\nhttps://events.mixedmartialarts.com/bkfc-28:7dff8b81-
+ b742-476a-83f6-cf92a728e158\n\n---\n\nMain Event: Christine Ferea vs. Ta
+ ylor Starling\nCo-Main Event: John Dodson vs. Ryan Benoit\nMain Card: Do
+ nald Sanchez vs. Jeremy Smith\nMain Card: Eric Dodson vs. Nick Villar\nM
+ ain Card: Joshua Moreno vs. Zion Tomlinson\, Sr.\nMain Card: Kyle McElro
+ y vs. Josh Watson\nMain Card: Jayme Hinshaw vs. Cassie Robb\nMain Card: 
+ Brad Kelly vs. Isaac Vallie-Flagg\nMain Card: Jeremy Sauceda vs. Roderic
+ k Stewart\nMain Card: Will Santiago vs. David Lopez\nMain Card: Joshua M
+ orales vs. Antonio Soto III
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
 UID:2022-08-pedraza-vs-commey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pedraza vs. Commey
@@ -109,11 +129,12 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-co
  S. Chaves (5-4-0)\nMain Card: Frevian Gonzalez (5-1-0) vs. Gerardo Esqui
  vel (2-2-0)\nMain Card: Richard Torrez Jr. (0-0-0) vs. Marco Antonio Can
  edo (4-2-0)\nMain Card: Abdullah Mason (0-0-0) vs. Angel Rebollar (0-0-0
- )\nPrelim: Haven Brady Jr (7-0-0) vs. Manuel Guzman Moreno (8-6-1)\nPrel
- im: Dante Benjamin Jr. (0-0-0) vs. Leandro Silva (3-6-0)
+ )\nMain Card: Jeremiah Milton (5-0-0) vs. Nick Jones (9-4-0)\nPrelim: Ha
+ ven Brady Jr (7-0-0) vs. Manuel Guzman Moreno (8-6-1)\nPrelim: Dante Ben
+ jamin Jr. (0-0-0) vs. Leandro Silva (3-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -122,36 +143,42 @@ DTEND:20220828T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/90159-bkfc-fight-night-al
- buquerque\n\n---\n\nMain Event: Christine Ferea vs. Taylor Starling\nCo-
- Main Event: John Dodson vs. Ryan Benoit\nMain Card: Donald Sanchez vs. J
- eremy Smith\nMain Card: Eric Dodson vs. Nick Villar\nMain Card: Joshua M
- oreno vs. Zion Tomlinson\, Sr.\nMain Card: Kyle McElroy vs. Josh Watson\
- nMain Card: Jayme Hinshaw vs. Cassie Robb\nMain Card: Brad Kelly vs. Isa
- ac Vallie-Flagg
+ buquerque\nhttps://events.mixedmartialarts.com/bkfc-28:7dff8b81-b742-476
+ a-83f6-cf92a728e158\n\n---\n\nMain Event: Christine Ferea vs. Taylor Sta
+ rling\nCo-Main Event: John Dodson vs. Ryan Benoit\nMain Card: Donald San
+ chez vs. Jeremy Smith\nMain Card: Eric Dodson vs. Nick Villar\nMain Card
+ : Joshua Moreno vs. Zion Tomlinson\, Sr.\nMain Card: Kyle McElroy vs. Jo
+ sh Watson\nMain Card: Jayme Hinshaw vs. Cassie Robb\nMain Card: Brad Kel
+ ly vs. Isaac Vallie-Flagg\nMain Card: Jeremy Sauceda vs. Roderick Stewar
+ t\nMain Card: Will Santiago vs. David Lopez\nMain Card: Joshua Morales v
+ s. Antonio Soto III
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-fusion-fight-league-lights-out-at-the-dome-5@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Lights Out at the Dome 5
 DTSTART:20220828T010000Z
 DTEND:20220828T040000Z
-CATEGORIES:FFL,MMA,fite.tv,live
+CATEGORIES:FFL,MMA,Boxen,Grappling,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-lights-out-at-the-
  dome-5/2pbrm/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9088
- 4-fusion-fight-league-lights-out-at-the-dome\n\n---\n\nMain Event: Kerry
-  Lattimer (14-30-0) vs. Delane Lamere (7-5-0)\nMain Card: Dre Coles (4-0
- -0) vs. Mitch Wiles (4-3-0)\nMain Card: Meilyn Ordaz (0-0-0) vs. Julissa
-  Mendez (0-0-0)\nMain Card: Kordell Small (0-0-0) vs. Mitchell Kline (0-
- 0-0)\nMain Card: Kai Duque (0-1-0) vs. Isidro Ponce (0-0-0)\nMain Card: 
- Blaine Thumm (0-0-0) vs. Gavin Gies (2-0-0)\nMain Card: Jordan Perino (0
- -0-0) vs. Cormac O'Hagan (0-0-0)\nMain Card: Kaleb Schafer (0-0-0) vs. N
- athan Cleaver (0-0-0)\nMain Card: Elijah Cummings (0-0-0) vs. Brady Meis
- ter (1-2-0)
+ 4-fusion-fight-league-lights-out-at-the-dome\nhttp://www.sherdog.com/eve
+ nts/fusion-fight-league-lights-out-at-the-dome-5-93179\nhttps://events.m
+ ixedmartialarts.com/fusion-fight-league:6492b983-058e-4913-8bab-1122d80f
+ c682\n\n---\n\nMain Event: Kerry Lattimer (14-30-0) vs. Delane Lamere (7
+ -5-0)\nCo-Main Event: Jordan Perino (0-0-0) vs. Cormac O'Hagan (0-0-0)\n
+ Main Card: Meilyn Ordaz (0-0-0) vs. Julissa Mendez (0-0-0)\nMain Card: K
+ ordell Small (0-0-0) vs. Mitchell Kline (1-0-0)\nMain Card: Kaleb Schafe
+ r (0-0-0) vs. Nathan Cleaver (0-0-0)\nMain Card: Brady Meister (1-2-0) v
+ s. Jake Lowdog (0-0-0)\nMain Card: Blaine Thumm (0-0-0) vs. Jacob Kreite
+ l (1-7-0)\nMain Card: Gavin Gies (2-0-0) vs. Darren Keith (2-4-0)\nMain 
+ Card: Raymond Morkeberg vs. Jose Mendez\nMain Card: David Stratton (2-1-
+ 0) vs. James Wimmer (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
 UID:2022-09-bkfc-thailand-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Thailand 3
@@ -163,7 +190,37 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kan Varol
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
+UID:2022-09-bkb-28-jones-vs-sweeney-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 28: Jones vs. Sweeney 2
+DTSTART:20220903T180000Z
+DTEND:20220903T210000Z
+CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=7tuyYpUxjVI\
+ nvia fite.tv: https://www.fite.tv/watch/bkb-28/2pbtr/\n\n---\n\nhttps://
+ bkbworld.co.uk/bkb-events/bkb28/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
+UID:2022-09-ruiz-vs-ortiz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ruiz vs. Ortiz
+DTSTART:20220905T010000Z
+DTEND:20220905T040000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ruiz-vs-ortiz/2pbqk/\n
+ \n---\n\nhttps://www.tapology.com/fightcenter/events/88928-ruiz-vs-ortiz
+ \nhttp://www.boxrec.com/en/event/858306\n\n---\n\nMain Event: Andy Ruiz 
+ Jr. (34-2-0) vs. Luis Ortiz (33-2-0)\nCo-Main Event: Isaac Cruz (23-2-1)
+  vs. Eduardo Ramirez (27-2-3)\nMain Card: Abner Mares (31-3-1) vs. Migue
+ l Flores (25-4-0)\nMain Card: Jezzrel Corrales (26-4-0) vs. Jose Valenzu
+ ela (12-0-0)\nPrelim: Mike Plania (26-1-0) vs. Raeese Aleem (19-0-0)\nPr
+ elim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)\nPrelim: Charles 
+ Martin (28-3-1) vs. Devin Vargas (22-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
 UID:2022-09-bkfc-montana-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Montana 2
@@ -175,7 +232,29 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  om/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220821T220306Z
+DTSTAMP:20220826T003405Z
+UID:2022-09-fusion-fight-league-gonzales-vs-willis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League: Gonzales vs. Willis
+DTSTART:20220918T010000Z
+DTEND:20220918T040000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-gonzales-vs-willis
+ /2pbt4/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/91658-fusi
+ on-fight-league-gonzales-vs-willis\n\n---\n\nMain Event: Larry Gonzales 
+ (1-1-0) vs. Corey Willis (1-0-0)\nMain Card: Zaylen Crannell (0-0-0) vs.
+  Marcus Hackford (1-1-0)\nMain Card: Timmy Garcia (4-3-0) vs. Brandon Be
+ rkman (3-2-0)\nMain Card: Jen Valentine (0-1-0) vs. Julissa Mendez (0-0-
+ 0)\nMain Card: Elliot Whitcomb (0-0-0) vs. Caden Benson (0-1-0)\nMain Ca
+ rd: Cy McMurrey (0-0-0) vs. Jared Saffold (0-0-0)\nMain Card: Hudson Ket
+ tengring (1-0-0) vs. AJ Craig (3-6-0)\nMain Card: Amari Sengsavanh (2-0-
+ 0) vs. Solomon Courtoreille (5-2-0)\nMain Card: Brian Borst (2-2-0) vs. 
+ Mitch Wiles (4-3-0)\nMain Card: Pernell Stevens (2-3-0) vs. Vladiyilav R
+ ybalka (2-2-0)\nMain Card: Elliot Whitcomb (0-0-0) vs. Caden Benson (0-1
+ -0)\nMain Card: AJ Craig (3-6-0) vs. Daniel Bonner (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
 UID:2022-10-bkfc-31-vanzant-vs-sigala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: VanZant vs. Sigala

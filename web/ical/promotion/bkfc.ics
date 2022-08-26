@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220819T175608Z
-X-KAMPFKALENDER-HASH:5925f0178f6fc5182c2635e966d49815d9a789e2
+DTSTAMP:20220826T003404Z
+X-KAMPFKALENDER-HASH:88b88ba05e25660c05196a62d34cbb21a821c0d1
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003404Z
 UID:2022-08-bkfc-27-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=bKzX2T87xrg\nvia
  : Rob Cunningham vs. Brett May
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003404Z
 UID:2022-08-bkfc-27-mvp-vs-platinum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 27: MVP vs. Platinum
@@ -50,7 +50,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-27/2pbkj/\n\n---\
  Prelim: Rob Cunningham vs. Brett May
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003404Z
+UID:2022-08-bkfc-28-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 28: Prelims
+DTSTART:20220828T000000Z
+DTEND:20220828T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28-prelims/2pbtb/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/90159-bkfc-fight-
+ night-albuquerque\nhttps://events.mixedmartialarts.com/bkfc-28:7dff8b81-
+ b742-476a-83f6-cf92a728e158\n\n---\n\nMain Event: Christine Ferea vs. Ta
+ ylor Starling\nCo-Main Event: John Dodson vs. Ryan Benoit\nMain Card: Do
+ nald Sanchez vs. Jeremy Smith\nMain Card: Eric Dodson vs. Nick Villar\nM
+ ain Card: Joshua Moreno vs. Zion Tomlinson\, Sr.\nMain Card: Kyle McElro
+ y vs. Josh Watson\nMain Card: Jayme Hinshaw vs. Cassie Robb\nMain Card: 
+ Brad Kelly vs. Isaac Vallie-Flagg\nMain Card: Jeremy Sauceda vs. Roderic
+ k Stewart\nMain Card: Will Santiago vs. David Lopez\nMain Card: Joshua M
+ orales vs. Antonio Soto III
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003404Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -59,15 +79,18 @@ DTEND:20220828T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/90159-bkfc-fight-night-al
- buquerque\n\n---\n\nMain Event: Christine Ferea vs. Taylor Starling\nCo-
- Main Event: John Dodson vs. Ryan Benoit\nMain Card: Donald Sanchez vs. J
- eremy Smith\nMain Card: Eric Dodson vs. Nick Villar\nMain Card: Joshua M
- oreno vs. Zion Tomlinson\, Sr.\nMain Card: Kyle McElroy vs. Josh Watson\
- nMain Card: Jayme Hinshaw vs. Cassie Robb\nMain Card: Brad Kelly vs. Isa
- ac Vallie-Flagg
+ buquerque\nhttps://events.mixedmartialarts.com/bkfc-28:7dff8b81-b742-476
+ a-83f6-cf92a728e158\n\n---\n\nMain Event: Christine Ferea vs. Taylor Sta
+ rling\nCo-Main Event: John Dodson vs. Ryan Benoit\nMain Card: Donald San
+ chez vs. Jeremy Smith\nMain Card: Eric Dodson vs. Nick Villar\nMain Card
+ : Joshua Moreno vs. Zion Tomlinson\, Sr.\nMain Card: Kyle McElroy vs. Jo
+ sh Watson\nMain Card: Jayme Hinshaw vs. Cassie Robb\nMain Card: Brad Kel
+ ly vs. Isaac Vallie-Flagg\nMain Card: Jeremy Sauceda vs. Roderick Stewar
+ t\nMain Card: Will Santiago vs. David Lopez\nMain Card: Joshua Morales v
+ s. Antonio Soto III
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003404Z
 UID:2022-09-bkfc-thailand-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Thailand 3
@@ -79,7 +102,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kan Varol
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003404Z
 UID:2022-09-bkfc-montana-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Montana 2
@@ -91,7 +114,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  om/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T175608Z
+DTSTAMP:20220826T003404Z
 UID:2022-10-bkfc-31-vanzant-vs-sigala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: VanZant vs. Sigala

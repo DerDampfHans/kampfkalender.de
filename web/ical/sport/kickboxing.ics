@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220820T220304Z
-X-KAMPFKALENDER-HASH:50bd0614f1933ab658c81a3728e4277b174ab0a3
+DTSTAMP:20220826T003404Z
+X-KAMPFKALENDER-HASH:e33aa7ce64cf0c6417d977afd90a7fad33fb9a10
 BEGIN:VEVENT
-DTSTAMP:20220820T220304Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-gmc-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Olympix K1 / Boxen / MMA
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/olympix-k1-boxen
  -no-112
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220820T220304Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-glory-81-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81: Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=c9FoTbW2LlU\
  i vs. Chris Wunn
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220820T220304Z
+DTSTAMP:20220826T003405Z
 UID:2022-08-glory-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 81
@@ -52,7 +52,18 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=W1dIwlR_UfM\
  i vs. Chris Wunn
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220820T220304Z
+DTSTAMP:20220826T003405Z
+UID:2022-09-invictus-fight-night-7-all-or-nothing@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Invictus Fight Night 7: All or Nothing
+DTSTART:20220903T153000Z
+DTEND:20220903T213000Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/7-i
+ nvictus-fightnight-all-or-nothing/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220826T003405Z
 UID:2022-09-glory-rivals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 2
@@ -66,7 +77,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  Muhammed Balli\nMain Card: Jimmy van Kuijeren vs. Frank Rubanguka
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220820T220304Z
+DTSTAMP:20220826T003405Z
 UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Hari vs. Overeem
@@ -78,7 +89,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  ir Overeem\nMain Card: Tiffany Van Soest vs. Sarah Moussaddak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220820T220304Z
+DTSTAMP:20220826T003405Z
 UID:2022-10-oktagon-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36
@@ -91,7 +102,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  Card: Christian Eckerlin (14-5-0) vs. Denilson Neves (16-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220820T220304Z
+DTSTAMP:20220826T003405Z
 UID:2022-12-oktagon-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38

@@ -4,6 +4,18 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220730T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220826T003404Z
+X-KAMPFKALENDER-HASH:be0fa8945aa4a2a1239c8b3e960750b528df70df
+BEGIN:VEVENT
+DTSTAMP:20220826T003404Z
+UID:2022-09-bkb-28-jones-vs-sweeney-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 28: Jones vs. Sweeney 2
+DTSTART:20220903T180000Z
+DTEND:20220903T210000Z
+CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=7tuyYpUxjVI\
+ nvia fite.tv: https://www.fite.tv/watch/bkb-28/2pbtr/\n\n---\n\nhttps://
+ bkbworld.co.uk/bkb-events/bkb28/
+END:VEVENT
 END:VCALENDAR

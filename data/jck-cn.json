@@ -6,63 +6,84 @@
       "MMA"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "JCK Fight Night: Week 16",
+      "time": "2022-09-17T11:00:00Z"
+    },
+    "tapology": {
+      "id": 91903,
       "time": "2022-08-27T11:00:00Z",
+      "title": "JCK Fight Night 2022",
+      "info": "Cancelled Event",
+      "url": "https://www.tapology.com/fightcenter/events/91903-jck-fight-night-2022-week-17"
+    }
+  },
+  {
+    "id": "jck-2022-09-17",
+    "promotion": "JCK_CN",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#JCK16"
+    ],
+    "mainCard": {
+      "title": "JCK Fight Night: Week 16",
+      "time": "2022-09-17T11:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 221242,
-        "time": "2022-08-27T11:00:00Z",
+        "time": "2022-09-17T11:00:00Z",
         "title": "JCK MMA: 2022 #16"
       }
-    },
-    "tapology": {
-      "id": 91903,
-      "time": "2022-08-27T11:00:00Z",
-      "title": "JCK Fight Night 2022: Week 18",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/91903-jck-fight-night-2022-week-17"
     }
   },
   {
-    "id": "jck-2022-09-03",
+    "id": "jck-2022-09-24",
     "promotion": "JCK_CN",
     "sports": [
       "MMA"
+    ],
+    "tags": [
+      "#JCK17"
     ],
     "mainCard": {
       "title": "JCK Fight Night: Week 17",
-      "time": "2022-09-03T11:00:00Z",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      },
-      "fightPass": {
-        "id": 222713,
-        "time": "2022-09-03T11:00:00Z",
-        "title": "JCK MMA: 2022 #17"
-      }
-    }
-  },
-  {
-    "id": "jck-2022-09-10",
-    "promotion": "JCK_CN",
-    "sports": [
-      "MMA"
-    ],
-    "mainCard": {
-      "title": "JCK Fight Night: Week 18",
-      "time": "2022-09-10T11:00:00Z",
+      "time": "2022-09-24T11:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 222729,
-        "time": "2022-09-10T11:00:00Z",
+        "time": "2022-09-24T11:00:00Z",
         "title": "JCK MMA: 2022 #18"
+      }
+    }
+  },
+  {
+    "id": "jck-2022-09-30",
+    "promotion": "JCK_CN",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#JCK18"
+    ],
+    "mainCard": {
+      "title": "JCK Fight Night: Week 18",
+      "time": "2022-09-30T11:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 222713,
+        "time": "2022-09-30T11:00:00Z",
+        "title": "JCK MMA: 2022 #20"
       }
     }
   }

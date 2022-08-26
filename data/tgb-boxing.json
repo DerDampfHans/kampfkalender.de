@@ -6,9 +6,23 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Ruiz vs. Ortiz",
-      "time": "2022-09-05T02:00:00Z"
+      "time": "2022-09-05T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/ruiz-vs-ortiz/2pbqk/"
+        }
+      },
+      "fite": {
+        "id": "2pbqk",
+        "time": "2022-09-05T01:00:00Z",
+        "title": "PBC: Ruiz vs Ortiz",
+        "url": "https://www.fite.tv/watch/ruiz-vs-ortiz/2pbqk/",
+        "price": "$14.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 88928,
@@ -25,7 +39,8 @@
         "Main Card: Abner Mares (31-3-1) vs. Miguel Flores (25-4-0)",
         "Main Card: Jezzrel Corrales (26-4-0) vs. Jose Valenzuela (12-0-0)",
         "Prelim: Mike Plania (26-1-0) vs. Raeese Aleem (19-0-0)",
-        "Prelim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)"
+        "Prelim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)",
+        "Prelim: Charles Martin (28-3-1) vs. Devin Vargas (22-7-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/858306"
@@ -40,21 +55,22 @@
     ],
     "mainCard": {
       "hidden": true,
-      "title": "Martinez vs. Ancajas 2",
+      "title": "Fundora vs. Ocampo",
       "time": "2022-10-09T02:00:00Z"
     },
     "tapology": {
       "id": 91482,
       "time": "2022-10-09T02:00:00Z",
-      "title": "Martinez vs. Ancajas 2",
-      "info": "Rumored Upcoming Boxing Event",
+      "title": "Fundora vs. Ocampo",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/91482-martinez-vs-ancajas-2",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Fernando Martinez (14-0-0) vs. Jerwin Ancajas (33-2-2)",
-        "Main Card: Carlos Adames (21-1-0) vs. Juan Macias Montiel (23-5-2)"
+        "Main Event: Sebastian Fundora (19-0-1) vs. Carlos Ocampo (34-1-0)",
+        "Co-Main Event: Carlos Adames (21-1-0) vs. Juan Macias Montiel (23-5-2)",
+        "Main Card: Fernando Martinez (14-0-0) vs. Jerwin Ancajas (33-2-2)"
       ]
     }
   },
@@ -80,7 +96,7 @@
       ],
       "card": [
         "Main Event: Deontay Wilder (42-2-1) vs. Robert Helenius (31-3-0)",
-        "Main Card: Caleb Plant (21-1-0) vs. Anthony Dirrell (34-2-2)"
+        "Co-Main Event: Caleb Plant (21-1-0) vs. Anthony Dirrell (34-2-2)"
       ]
     }
   },

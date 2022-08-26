@@ -6,9 +6,19 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Valle vs. Nguyen",
-      "time": "2022-09-09T01:00:00Z"
+      "time": "2022-09-09T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1as44rxmhufv212zl89p1u4qwo",
+        "time": "2022-09-09T01:00:00Z",
+        "title": "Yokasta Valle vs Thi Thu Nhi Nguyen",
+        "sport": "BOXING",
+        "competition": "Valle vs Nguyen"
+      }
     },
     "tapology": {
       "id": 91595,
@@ -24,6 +34,31 @@
         "Main Card: Sonia Osorio (14-8-2) vs. Adelaida Ruiz (11-0-1)",
         "Main Card: Anabel Ortiz (31-5-0) vs. Maria Micheo Santizo (9-1-0)",
         "Main Card: Angel Rodriguez (11-1-0) vs. Ivan Delgado (13-4-2)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-92313",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Golden Boy Fight Night",
+      "time": "2022-10-21T00:00:00Z"
+    },
+    "tapology": {
+      "id": 92313,
+      "time": "2022-10-21T00:00:00Z",
+      "title": "Golden Boy Fight Night",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/92313-golden-boy-fight-night",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Floyd Schofield (11-0-0) vs. Daniel Rosas (22-5-1)"
       ]
     }
   },
