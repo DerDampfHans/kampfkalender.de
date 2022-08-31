@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220827T220304Z
-X-KAMPFKALENDER-HASH:7d3b828471968e42bbf105c3fc120620ab82972e
+DTSTAMP:20220831T042113Z
+X-KAMPFKALENDER-HASH:306ea11ecd013256f0cf64391322dd4c2827f899
 BEGIN:VEVENT
-DTSTAMP:20220827T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-08-ksi-vs-swarmz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSI vs. Swarmz
@@ -17,7 +17,7 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-invictus-fight-night-7-all-or-nothing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invictus Fight Night 7: All or Nothing
@@ -26,5 +26,39 @@ DTEND:20220903T213000Z
 CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
 DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/7-i
  nvictus-fightnight-all-or-nothing/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
+UID:2022-09-prize-fighting-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Prize Fighting: Fight Night
+DTSTART:20220910T160000Z
+DTEND:20220910T190000Z
+CATEGORIES:Other,MMA,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-boennsche
+ n-bimmel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
+UID:2022-09-senshi-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 13
+DTSTART:20220910T163000Z
+DTEND:20220910T193000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-13/2pbuf/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
+UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Super RIZIN: Mayweather vs. Asakura
+DTSTART:20220925T030000Z
+DTEND:20220925T060000Z
+CATEGORIES:Other,Boxen,Kickboxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
+ 2pbuk/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92610-super
+ -rizin\n\n---\n\nMain Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru As
+ akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak
 END:VEVENT
 END:VCALENDAR

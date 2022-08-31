@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220826T003404Z
-X-KAMPFKALENDER-HASH:e7bf8ae79cfdc6592740230cfde39bc4ff2d562f
+DTSTAMP:20220831T042113Z
+X-KAMPFKALENDER-HASH:99fcb8bb28bd18c0c48fb960cb91e16689b2c064
 BEGIN:VEVENT
-DTSTAMP:20220826T003404Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-cage-warriors-143@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 143
@@ -15,12 +15,13 @@ DTSTART:20220923T200000Z
 DTEND:20220923T230000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/92041-cage-warriors-143\n\n---\n\nMain Card: Erick Sánchez (
- 10-6-0) vs. James Lynch (5-2-0)\nMain Card: Elijah Harris (4-1-0) vs. Tr
- ey Williams (5-3-0)
+ nter/events/92041-cage-warriors-143\nhttps://events.mixedmartialarts.com
+ /cage-warriors-143:ec5270e7-42b6-4eae-95dc-0074d3167615\n\n---\n\nMain C
+ ard: Erick Sánchez (10-6-0) vs. James Lynch (5-2-0)\nMain Card: Elijah H
+ arris (4-1-0) vs. Trey Williams (5-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220826T003404Z
+DTSTAMP:20220831T042113Z
 UID:2022-10-cage-warriors-144@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 144
@@ -32,10 +33,11 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ing (9-4-0) vs. Michele Martignoni (7-1-0)\nMain Card: Carlo Pedersoli (
  13-4-0) vs. Madars Fleminas (10-3-0)\nMain Card: Dylan Hazan (8-0-0) vs.
   Daan Duijs (8-1-0)\nMain Card: Bryony Tyrell (4-4-1) vs. Micol di Segni
-  (9-4-0)
+  (9-4-0)\nMain Card: Emanuele Sabatino (3-1-0) vs. Karol Michalak (3-2-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220826T003404Z
+DTSTAMP:20220831T042113Z
 UID:2022-11-cage-warriors-145@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 145
@@ -44,6 +46,19 @@ DTEND:20221104T230000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/91960-cage-warriors-145\n\n---\n\nMain Event: Jordan Vucenic
-  (9-1-0) vs. Paul Hughes (8-1-0)
+  (9-1-0) vs. Paul Hughes (8-1-0)\nMain Card: Festus Ahorlu (5-1-0) vs. F
+ aisal Malik (5-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
+UID:2022-11-cage-warriors-146@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 146
+DTSTART:20221112T210000Z
+DTEND:20221113T000000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/92600-cage-warriors-146\n\n---\n\nMain Event: Christian Lero
+ y Duncan (6-0-0) vs. Marian Dimitrov (10-2-0)
 END:VEVENT
 END:VCALENDAR

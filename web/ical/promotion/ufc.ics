@@ -4,37 +4,38 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220828T220304Z
-X-KAMPFKALENDER-HASH:f1ee48ae534bdc3495cdd780962a9db0c3e56265
+DTSTAMP:20220831T042113Z
+X-KAMPFKALENDER-HASH:c4f9a379a64645262f1961eb462839617cccfd7b
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-ufc-paris-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Paris: Prelims
 DTSTART:20220903T160000Z
 DTEND:20220903T190000Z
-CATEGORIES:UFC,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/88967-ufc-fight-night\nhttp://www.sherdog.com/events/ufc-fig
- ht-night-209-gane-vs-tuivasa-93036\nhttp://en.wikipedia.org/wiki/UFC_Fig
- ht_Night:_Gane_vs._Tuivasa\nhttps://events.mixedmartialarts.com/ufc-figh
- t-night:8e18d25a-304c-4fbe-bf22-fe5fa39e408b\nhttps://www.ufc.com/event/
- ufc-fight-night-september-03-2022\nhttp://www.ufcstats.com/event-details
- /00a905a4a4a2b071\nhttps://www.bestfightodds.com/events/ufc-fight-night-
- gane-vs-tuivasa-2518\n\n---\n\nMain Event: Ciryl Gane (10-1-0) vs. Tai T
- uivasa (15-3-0)\nCo-Main Event: Robert Whittaker (23-6-0) vs. Marvin Vet
- tori (18-4-1)\nMain Card: Alessio Di Chirico (13-6-0) vs. Roman Kopylov 
- (8-2-0)\nMain Card: Nasrat Haqparast (13-5-0) vs. John Makdessi (18-7-0)
- \nMain Card: Charles Jourdain (13-5-1) vs. Nathaniel Wood (18-5-0)\nMain
-  Card: Khalid Taha (13-4-0) vs. Cristian Quiñonez (16-3-0)\nPrelim: Nass
- ourdine Imavov (11-3-0) vs. Joaquin Buckley (15-4-0)\nPrelim: Dustin Sto
- ltzfus (14-4-0) vs. Abusupiyan Magomedov (24-4-1)\nPrelim: Benoit Saint-
- Denis (9-1-0) vs. Gabriel Miranda (16-5-0)\nPrelim: Fares Ziam (12-4-0) 
- vs. Michal Figlak (8-0-0)\nPrelim: Ailin Perez (7-1-0) vs. Stephanie Egg
- er (7-3-0)\nPrelim: William Gomis (10-2-0) vs. Jarno Errens (13-3-1)
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/88967-ufc-fight-night\nhttp://www.sherdog.com/even
+ ts/ufc-fight-night-209-gane-vs-tuivasa-93036\nhttp://en.wikipedia.org/wi
+ ki/UFC_Fight_Night:_Gane_vs._Tuivasa\nhttps://events.mixedmartialarts.co
+ m/ufc-fight-night:8e18d25a-304c-4fbe-bf22-fe5fa39e408b\nhttps://www.ufc.
+ com/event/ufc-fight-night-september-03-2022\nhttp://www.ufcstats.com/eve
+ nt-details/00a905a4a4a2b071\nhttps://www.bestfightodds.com/events/ufc-fi
+ ght-night-gane-vs-tuivasa-2518\n\n---\n\nMain Event: Ciryl Gane (10-1-0)
+  vs. Tai Tuivasa (15-3-0)\nCo-Main Event: Robert Whittaker (23-6-0) vs. 
+ Marvin Vettori (18-4-1)\nMain Card: Alessio Di Chirico (13-6-0) vs. Roma
+ n Kopylov (8-2-0)\nMain Card: Nasrat Haqparast (13-5-0) vs. John Makdess
+ i (18-7-0)\nMain Card: Charles Jourdain (13-5-1) vs. Nathaniel Wood (18-
+ 5-0)\nMain Card: Khalid Taha (13-4-0) vs. Cristian Quiñonez (16-3-0)\nPr
+ elim: Nassourdine Imavov (11-3-0) vs. Joaquin Buckley (15-4-0)\nPrelim: 
+ Dustin Stoltzfus (14-4-0) vs. Abusupiyan Magomedov (24-4-1)\nPrelim: Ben
+ oit Saint-Denis (9-1-0) vs. Gabriel Miranda (16-5-0)\nPrelim: Fares Ziam
+  (12-4-0) vs. Michal Figlak (8-0-0)\nPrelim: Ailin Perez (7-1-0) vs. Ste
+ phanie Egger (7-3-0)\nPrelim: William Gomis (10-2-0) vs. Jarno Errens (1
+ 3-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-ufc-paris-gane-vs-tuivasa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Paris: Gane vs. Tuivasa
@@ -62,7 +63,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  3-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-ufc-279-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Early Prelims
@@ -84,7 +85,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Daniel Rodriguez (16-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-ufc-279-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Prelims
@@ -106,7 +107,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Daniel Rodriguez (16-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-ufc-279-chimaev-vs-diaz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Chimaev vs. Diaz
@@ -128,12 +129,12 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  land (23-7-0) vs. Daniel Rodriguez (16-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-ufc-fight-night-sandhagen-vs-song@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Sandhagen vs. Song
-DTSTART:20220918T000000Z
-DTEND:20220918T030000Z
+DTSTART:20220917T230000Z
+DTEND:20220918T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/90191-ufc-fight-night\n\n---\n\nMain Event: Cory S
@@ -151,7 +152,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  y Gravely (23-7-0) vs. Javid Basharat (12-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-10-ufc-fight-night-dern-vs-yan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Dern vs. Yan
@@ -174,7 +175,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  m Grishin (32-9-2) vs. Philipe Lins (15-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-10-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -194,7 +195,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  or Henry (22-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-10-ufc-280-oliveira-vs-makhachev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 280: Oliveira vs. Makhachev
@@ -219,7 +220,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  4-0) vs. Jamie Mullarkey (15-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-10-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -240,7 +241,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-11-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -257,7 +258,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  rick (10-4-0) vs. Shanna Young (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-11-ufc-281@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281
@@ -278,7 +279,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  anu (13-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-11-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -294,7 +295,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  im: Zhalgas Zhumagulov (14-7-0) vs. Charles Johnson (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-12-ufc-fight-night-brunson-vs-hermansson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Brunson vs. Hermansson
@@ -313,7 +314,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Ducote (12-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-12-ufc-282@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282
@@ -326,7 +327,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -3-0) vs. Dalcha Lungiambula (11-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-12-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -340,7 +341,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (10-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042113Z
 UID:2023-01-ufc-283@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 283

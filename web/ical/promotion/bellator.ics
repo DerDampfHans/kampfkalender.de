@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220826T003404Z
-X-KAMPFKALENDER-HASH:a4c894c819edcac10fe9ad8dcc1b19d18c0b4c76
+DTSTAMP:20220831T042113Z
+X-KAMPFKALENDER-HASH:2d0736d6893b7e23d43918928a942a168e332142
 BEGIN:VEVENT
-DTSTAMP:20220826T003404Z
+DTSTAMP:20220831T042113Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally
@@ -29,7 +29,30 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Kasim Aras (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220826T003404Z
+DTSTAMP:20220831T042113Z
+UID:2022-10-bellator-286-pitbull-vs-borics@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 286: Pitbull vs. Borics
+DTSTART:20221001T230000Z
+DTEND:20221002T020000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/91824-bellator-28
+ 6-pitbull-vs-borics\n\n---\n\nMain Event: Patricio Pitbull (33-5-0) vs. 
+ Ádám Borics (18-1-0)\nCo-Main Event: AJ McKee Jr. (18-1-0) vs. Spike Car
+ lyle (14-3-0)\nMain Card: Aaron Pico (10-3-0) vs. Jeremy Kennedy (17-3-0
+ )\nMain Card: Juan Archuleta (25-4-0) vs. Enrique Barzola (18-6-2)\nPrel
+ im: Richard Palencia (10-0-0) vs. Cee Jay Hamilton (15-9-0)\nPrelim: Max
+  Rohskopf (7-1-0) vs. Mike Hamel (9-5-0)\nPrelim: Islam Mamedov (21-2-1)
+  vs. Nick Browne (13-1-0)\nPrelim: Keoni Diggs (9-2-0) vs. Ricardo Seixa
+ s (9-3-0)\nPrelim: Khadzhimurat Bestaev (11-4-0) vs. Khalid Murtazaliev 
+ (15-3-0)\nPrelim: Chris Avila (8-9-0) vs. Lance Gibson Jr. (6-0-0)\nPrel
+ im: Bobby Seronio III (2-0-0) vs. Miguel Peimbert (1-1-0)\nPrelim: Jay J
+ ay Wilson (8-1-0) vs. Vladimir Tokov (6-1-0)\nPrelim: Sumiko Inaba (4-0-
+ 0) vs. Nadine Mandiau (2-5-0)\nPrelim: Weber Almeida (6-1-0) vs. Ryan Li
+ lley (11-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
 UID:2022-10-bellator-287-piccolotti-vs-barnaoui@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 287: Piccolotti vs. Barnaoui
@@ -49,5 +72,30 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/91397-bellator-mi
  i (3-1-0) vs. Bourama Camara (5-1-0)\nPrelim: Steven Hill (5-0-0) vs. Wa
  lter Pugliesi (9-3-0)\nPrelim: Luke Trainer (5-1-0) vs. Lucas Alsina (11
  -3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
+UID:2022-11-bellator-288-nemkov-vs-anderson-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 288: Nemkov vs. Anderson 2
+DTSTART:20221119T000000Z
+DTEND:20221119T030000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/92067-bellator-28
+ 8-pitbull-vs-nurmagomedov\n\n---\n\nMain Event: Vadim Nemkov (15-2-0) vs
+ . Corey Anderson (16-5-0)\nCo-Main Event: Patricky Pitbull (24-10-0) vs.
+  Usman Nurmagomedov (15-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
+UID:2022-12-bellator-289-stots-vs-sabatello@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 289: Stots vs. Sabatello
+DTSTART:20221209T230000Z
+DTEND:20221210T020000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/92561-bellator-28
+ 9\n\n---\n\nMain Event: Raufeon Stots (18-1-0) vs. Danny Sabatello (13-1
+ -0)\nCo-Main Event: Magomed Magomedov (19-2-0) vs. Patchy Mix (16-1-0)
 END:VEVENT
 END:VCALENDAR

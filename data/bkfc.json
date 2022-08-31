@@ -10,6 +10,7 @@
       "#BKFCThailand3"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "BKFC: Thailand 3",
       "time": "2022-09-03T11:00:00Z",
       "broadcasters": {
@@ -36,24 +37,100 @@
     ],
     "tags": [
       "#BKFCMontana",
-      "#BKFCMontana2"
+      "#BKFC29"
     ],
     "mainCard": {
-      "title": "BKFC Montana 2",
+      "title": "BKFC 29: Hart vs. Peloumpi",
+      "time": "2022-09-11T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-29-hart-vs-peloumpi/2pbul/"
+        }
+      },
+      "fite": {
+        "id": "2pbul",
+        "time": "2022-09-11T01:00:00Z",
+        "title": "BKFC 29 Montana 2: Britain Hart vs Fani Peloumpi",
+        "url": "https://www.fite.tv/watch/bkfc-29-hart-vs-peloumpi/2pbul/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 29: Prelims",
       "time": "2022-09-11T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-29-montana-2-prelims/2pbum/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbum",
+        "time": "2022-09-11T00:00:00Z",
+        "title": "BKFC 29 Montana 2: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-29-montana-2-prelims/2pbum/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 91454,
+      "time": "2022-09-11T00:00:00Z",
+      "title": "BKFC 29: Montana 2",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/91454-bkfc-fight-night-montana-2",
+      "card": [
+        "Main Event: Britain Hart vs. Fani Peloumpi",
+        "Co-Main Event: Joe Riggs vs. Josh Dyer",
+        "Main Card: Kai Stewart vs. Rusty Crowder",
+        "Main Card: Dallas Davison vs. Gorjan Slaveski",
+        "Main Card: Cody Beierle vs. Braeden Tovey",
+        "Main Card: Erik Lopez vs. Manuel Moreira",
+        "Main Card: Louie Lopez vs. Dylan Schulte",
+        "Main Card: Monte Klistoff vs. Pernell Stevens",
+        "Prelim: Leo Bercier vs. Brian Maxwell",
+        "Prelim: Nekah Dmitriyeva vs. Jenny Clausius",
+        "Prelim: Keith Kelly vs. Koda Greenwood"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7"
+      ]
+    }
+  },
+  {
+    "id": "tapology-92568",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC30"
+    ],
+    "mainCard": {
+      "title": "BKFC 30: Hunt vs. Henry",
+      "time": "2022-10-02T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
         }
       }
     },
     "tapology": {
-      "id": 91454,
-      "time": "2022-09-11T00:00:00Z",
-      "title": "BKFC 29",
+      "id": 92568,
+      "time": "2022-10-02T01:00:00Z",
+      "title": "BKFC 30: Hunt vs. Henry",
       "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/91454-bkfc-fight-night-montana-2",
-      "links": [
-        "https://events.mixedmartialarts.com/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7"
+      "url": "https://www.tapology.com/fightcenter/events/92568-bkfc-30-hunt-vs-henry",
+      "card": [
+        "Main Event: Lorenzo Hunt vs. Quentin Henry"
       ]
     }
   },

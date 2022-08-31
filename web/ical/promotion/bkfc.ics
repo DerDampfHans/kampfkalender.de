@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220827T220304Z
-X-KAMPFKALENDER-HASH:bea9f71f088b31630e08b7d40151bbc09e77aa70
+DTSTAMP:20220831T042113Z
+X-KAMPFKALENDER-HASH:7875fae6f786c6739352c7f9c53a5494ae37ed20
 BEGIN:VEVENT
-DTSTAMP:20220827T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-08-bkfc-28-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28-prelims/2pbtb/
  . Roderick Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T220305Z
+DTSTAMP:20220831T042113Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -47,31 +47,59 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  ck Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T220305Z
-UID:2022-09-bkfc-thailand-3@kampfkalender.de
+DTSTAMP:20220831T042113Z
+UID:2022-09-bkfc-29-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC: Thailand 3
-DTSTART:20220903T110000Z
-DTEND:20220903T140000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91667-bkfc-thailand-3\n\n---\n\nMain Event: Buakaw Banchamek vs. Er
- kan Varol
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220827T220305Z
-UID:2022-09-bkfc-montana-2@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Montana 2
+SUMMARY:BKFC 29: Prelims
 DTSTART:20220911T000000Z
-DTEND:20220911T030000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91454-bkfc-fight-night-montana-2\nhttps://events.mixedmartialarts.c
- om/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7
+DTEND:20220911T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-montana-2-prel
+ ims/2pbum/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/91454-b
+ kfc-fight-night-montana-2\nhttps://events.mixedmartialarts.com/bkfc-29:c
+ f990c1f-0ff5-4c19-b364-7d9188b84ee7\n\n---\n\nMain Event: Britain Hart v
+ s. Fani Peloumpi\nCo-Main Event: Joe Riggs vs. Josh Dyer\nMain Card: Kai
+  Stewart vs. Rusty Crowder\nMain Card: Dallas Davison vs. Gorjan Slavesk
+ i\nMain Card: Cody Beierle vs. Braeden Tovey\nMain Card: Erik Lopez vs. 
+ Manuel Moreira\nMain Card: Louie Lopez vs. Dylan Schulte\nMain Card: Mon
+ te Klistoff vs. Pernell Stevens\nPrelim: Leo Bercier vs. Brian Maxwell\n
+ Prelim: Nekah Dmitriyeva vs. Jenny Clausius\nPrelim: Keith Kelly vs. Kod
+ a Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T220305Z
+DTSTAMP:20220831T042113Z
+UID:2022-09-bkfc-29-hart-vs-peloumpi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 29: Hart vs. Peloumpi
+DTSTART:20220911T010000Z
+DTEND:20220911T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-hart-vs-peloum
+ pi/2pbul/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/91454-bk
+ fc-fight-night-montana-2\nhttps://events.mixedmartialarts.com/bkfc-29:cf
+ 990c1f-0ff5-4c19-b364-7d9188b84ee7\n\n---\n\nMain Event: Britain Hart vs
+ . Fani Peloumpi\nCo-Main Event: Joe Riggs vs. Josh Dyer\nMain Card: Kai 
+ Stewart vs. Rusty Crowder\nMain Card: Dallas Davison vs. Gorjan Slaveski
+ \nMain Card: Cody Beierle vs. Braeden Tovey\nMain Card: Erik Lopez vs. M
+ anuel Moreira\nMain Card: Louie Lopez vs. Dylan Schulte\nMain Card: Mont
+ e Klistoff vs. Pernell Stevens\nPrelim: Leo Bercier vs. Brian Maxwell\nP
+ relim: Nekah Dmitriyeva vs. Jenny Clausius\nPrelim: Keith Kelly vs. Koda
+  Greenwood
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
+UID:2022-10-bkfc-30-hunt-vs-henry@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 30: Hunt vs. Henry
+DTSTART:20221002T010000Z
+DTEND:20221002T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/92568-bkfc-30-hunt-vs-henry\n\n---\n\nMain Event: Lorenzo Hunt vs. 
+ Quentin Henry
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042113Z
 UID:2022-10-bkfc-31-vanzant-vs-sigala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: VanZant vs. Sigala

@@ -45,5 +45,107 @@
         "National"
       ]
     }
+  },
+  {
+    "id": "prize-fighting-2022-09-10",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Bonn",
+      "#PrizeFighting"
+    ],
+    "mainCard": {
+      "title": "Prize Fighting: Fight Night",
+      "time": "2022-09-10T16:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220910-boennschen-bimmel"
+        }
+      },
+      "gmc": {
+        "id": "220910-boennschen-bimmel",
+        "time": "2022-09-10T16:00:00Z",
+        "title": "Bönnschen Bimmel: Prize-Fighting-Event",
+        "url": "https://www.german-mma.de/events/220910-boennschen-bimmel"
+      }
+    }
+  },
+  {
+    "id": "senshi-2022-09-10",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Senshi13"
+    ],
+    "mainCard": {
+      "title": "Senshi 13",
+      "time": "2022-09-10T16:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/senshi-13/2pbuf/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbuf",
+        "time": "2022-09-10T16:30:00Z",
+        "title": "Senshi 13",
+        "url": "https://www.fite.tv/watch/senshi-13/2pbuf/",
+        "price": "FREE",
+        "sports": [
+          "MMA"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rizin-2022-09-25",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#MayweatherAsakura",
+      "#SuperRIZIN"
+    ],
+    "mainCard": {
+      "title": "Super RIZIN: Mayweather vs. Asakura",
+      "time": "2022-09-25T03:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/mayweather-vs-asakura/2pbuk/"
+        }
+      },
+      "fite": {
+        "id": "2pbuk",
+        "time": "2022-09-25T03:00:00Z",
+        "title": "Floyd Mayweather vs Mikuru Asakura",
+        "url": "https://www.fite.tv/watch/mayweather-vs-asakura/2pbuk/",
+        "price": "$19.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 92610,
+      "time": "2022-09-25T02:00:00Z",
+      "title": "Super RIZIN",
+      "info": "Confirmed Upcoming Boxing & Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/92610-super-rizin",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru Asakura (0-0-0)",
+        "Main Card: Nadaka Yoshinari vs. Bandasak"
+      ]
+    }
   }
 ]

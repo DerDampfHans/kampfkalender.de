@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220828T220304Z
-X-KAMPFKALENDER-HASH:e353169bcb0e2a7fdefc32bcba89b01d9ed5e763
+DTSTAMP:20220831T042113Z
+X-KAMPFKALENDER-HASH:6d161d3702a0d7077cdcf0458550141364d45384
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
 UID:2022-08-bkfc-28-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28-prelims/2pbtb/
  . Roderick Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
 UID:2022-08-pedraza-vs-commey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pedraza vs. Commey
@@ -48,7 +48,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-co
  n (5-0-0) vs. Nick Jones (9-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -68,7 +68,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  ck Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
 UID:2022-08-fusion-fight-league-lights-out-at-the-dome-5@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -92,19 +92,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-lights-out-at-the-
  0) vs. James Wimmer (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
-UID:2022-09-bkfc-thailand-3@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC: Thailand 3
-DTSTART:20220903T110000Z
-DTEND:20220903T140000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91667-bkfc-thailand-3\n\n---\n\nMain Event: Buakaw Banchamek vs. Er
- kan Varol
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
 UID:2022-09-bkb-28-jones-vs-sweeney-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 28: Jones vs. Sweeney 2
@@ -116,7 +104,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=7tuyYpUxjVI\
  bkbworld.co.uk/bkb-events/bkb28/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
 UID:2022-09-ruiz-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ruiz vs. Ortiz
@@ -134,19 +122,57 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ruiz-vs-ortiz/2pbqk/\n
  Martin (28-3-1) vs. Devin Vargas (22-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
-UID:2022-09-bkfc-montana-2@kampfkalender.de
+DTSTAMP:20220831T042114Z
+UID:2022-09-senshi-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Montana 2
-DTSTART:20220911T000000Z
-DTEND:20220911T030000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91454-bkfc-fight-night-montana-2\nhttps://events.mixedmartialarts.c
- om/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7
+SUMMARY:Senshi 13
+DTSTART:20220910T163000Z
+DTEND:20220910T193000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-13/2pbuf/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
+UID:2022-09-bkfc-29-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 29: Prelims
+DTSTART:20220911T000000Z
+DTEND:20220911T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-montana-2-prel
+ ims/2pbum/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/91454-b
+ kfc-fight-night-montana-2\nhttps://events.mixedmartialarts.com/bkfc-29:c
+ f990c1f-0ff5-4c19-b364-7d9188b84ee7\n\n---\n\nMain Event: Britain Hart v
+ s. Fani Peloumpi\nCo-Main Event: Joe Riggs vs. Josh Dyer\nMain Card: Kai
+  Stewart vs. Rusty Crowder\nMain Card: Dallas Davison vs. Gorjan Slavesk
+ i\nMain Card: Cody Beierle vs. Braeden Tovey\nMain Card: Erik Lopez vs. 
+ Manuel Moreira\nMain Card: Louie Lopez vs. Dylan Schulte\nMain Card: Mon
+ te Klistoff vs. Pernell Stevens\nPrelim: Leo Bercier vs. Brian Maxwell\n
+ Prelim: Nekah Dmitriyeva vs. Jenny Clausius\nPrelim: Keith Kelly vs. Kod
+ a Greenwood
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042114Z
+UID:2022-09-bkfc-29-hart-vs-peloumpi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 29: Hart vs. Peloumpi
+DTSTART:20220911T010000Z
+DTEND:20220911T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-hart-vs-peloum
+ pi/2pbul/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/91454-bk
+ fc-fight-night-montana-2\nhttps://events.mixedmartialarts.com/bkfc-29:cf
+ 990c1f-0ff5-4c19-b364-7d9188b84ee7\n\n---\n\nMain Event: Britain Hart vs
+ . Fani Peloumpi\nCo-Main Event: Joe Riggs vs. Josh Dyer\nMain Card: Kai 
+ Stewart vs. Rusty Crowder\nMain Card: Dallas Davison vs. Gorjan Slaveski
+ \nMain Card: Cody Beierle vs. Braeden Tovey\nMain Card: Erik Lopez vs. M
+ anuel Moreira\nMain Card: Louie Lopez vs. Dylan Schulte\nMain Card: Mont
+ e Klistoff vs. Pernell Stevens\nPrelim: Leo Bercier vs. Brian Maxwell\nP
+ relim: Nekah Dmitriyeva vs. Jenny Clausius\nPrelim: Keith Kelly vs. Koda
+  Greenwood
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042114Z
 UID:2022-09-fusion-fight-league-gonzales-vs-willis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Gonzales vs. Willis
@@ -168,7 +194,32 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-gonzales-vs-willis
  -0)\nMain Card: AJ Craig (3-6-0) vs. Daniel Bonner (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220828T220305Z
+DTSTAMP:20220831T042114Z
+UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Super RIZIN: Mayweather vs. Asakura
+DTSTART:20220925T030000Z
+DTEND:20220925T060000Z
+CATEGORIES:Other,Boxen,Kickboxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
+ 2pbuk/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92610-super
+ -rizin\n\n---\n\nMain Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru As
+ akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042114Z
+UID:2022-10-bkfc-30-hunt-vs-henry@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 30: Hunt vs. Henry
+DTSTART:20221002T010000Z
+DTEND:20221002T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/92568-bkfc-30-hunt-vs-henry\n\n---\n\nMain Event: Lorenzo Hunt vs. 
+ Quentin Henry
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T042114Z
 UID:2022-10-bkfc-31-vanzant-vs-sigala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: VanZant vs. Sigala

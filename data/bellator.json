@@ -61,7 +61,6 @@
       "#Bellator286"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Bellator 286: Pitbull vs. Borics",
       "time": "2022-10-01T23:00:00Z"
     },
@@ -87,7 +86,8 @@
         "Prelim: Chris Avila (8-9-0) vs. Lance Gibson Jr. (6-0-0)",
         "Prelim: Bobby Seronio III (2-0-0) vs. Miguel Peimbert (1-1-0)",
         "Prelim: Jay Jay Wilson (8-1-0) vs. Vladimir Tokov (6-1-0)",
-        "Prelim: Sumiko Inaba (4-0-0) vs. Nadine Mandiau (2-5-0)"
+        "Prelim: Sumiko Inaba (4-0-0) vs. Nadine Mandiau (2-5-0)",
+        "Prelim: Weber Almeida (6-1-0) vs. Ryan Lilley (11-8-0)"
       ]
     }
   },
@@ -142,21 +142,49 @@
       "#Bellator288"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "Bellator 288: Pitbull vs. Nurmagomedov",
+      "title": "Bellator 288: Nemkov vs. Anderson 2",
       "time": "2022-11-19T00:00:00Z"
     },
     "tapology": {
       "id": 92067,
-      "time": "2022-11-19T00:00:00Z",
-      "title": "Bellator 288: Pitbull vs. Nurmagomedov",
+      "time": "2022-11-18T23:00:00Z",
+      "title": "Bellator 288: Nemkov vs. Anderson 2",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/92067-bellator-288-pitbull-vs-nurmagomedov",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Patricky Pitbull (24-10-0) vs. Usman Nurmagomedov (15-0-0)"
+        "Main Event: Vadim Nemkov (15-2-0) vs. Corey Anderson (16-5-0)",
+        "Co-Main Event: Patricky Pitbull (24-10-0) vs. Usman Nurmagomedov (15-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-92561",
+    "promotion": "BELLATOR",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Bellator289"
+    ],
+    "mainCard": {
+      "title": "Bellator 289: Stots vs. Sabatello",
+      "time": "2022-12-09T23:00:00Z"
+    },
+    "tapology": {
+      "id": 92561,
+      "time": "2022-12-09T23:00:00Z",
+      "title": "Bellator 289: Stots vs. Sabatello",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/92561-bellator-289",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Raufeon Stots (18-1-0) vs. Danny Sabatello (13-1-0)",
+        "Co-Main Event: Magomed Magomedov (19-2-0) vs. Patchy Mix (16-1-0)"
       ]
     }
   }
