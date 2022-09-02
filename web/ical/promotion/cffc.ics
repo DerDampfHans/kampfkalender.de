@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220826T225344Z
-X-KAMPFKALENDER-HASH:5bd3f0b3d8515add2d6a9358958ea5ab0efe8329
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:5175f97ce000f920b07818ee6f1f395fb69e8e63
 BEGIN:VEVENT
-DTSTAMP:20220826T225344Z
+DTSTAMP:20220902T221011Z
 UID:2022-08-cage-fury-fc-112-perez-vs-wells@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Fury FC 112: Perez vs. Wells
@@ -31,7 +31,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Sterling (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220826T225344Z
+DTSTAMP:20220902T221011Z
 UID:2022-08-fury-pro-grappling-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury Pro Grappling 5
@@ -53,5 +53,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  lexandria Whitlock vs. Valerie Martinez\nPrelim: Jonna Wood vs. Chrissy 
  Briggs\nPrelim: Chris Emery vs. Luke Staley\nPrelim: Amanda Mazza vs. An
  gelina Hernandez
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221011Z
+UID:2022-09-cage-fury-fc-113@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Fury FC 113
+DTSTART:20220925T000000Z
+DTEND:20220925T030000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220831T042113Z
-X-KAMPFKALENDER-HASH:7875fae6f786c6739352c7f9c53a5494ae37ed20
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:9f919ce650469f4e0768eba571cb260a38a8aa20
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-08-bkfc-28-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28-prelims/2pbtb/
  . Roderick Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -47,7 +47,28 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  ck Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
+UID:2022-09-bkfc-thailand-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Thailand 3
+DTSTART:20220903T110000Z
+DTEND:20220903T140000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-3/2pbuj/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/91667-bkfc-thaila
+ nd-3\nhttps://events.mixedmartialarts.com/bkfc:e649387f-38e3-4943-afa3-f
+ d50850e48ab\n\n---\n\nMain Event: Buakaw Banchamek vs. Erkan Varol\nCo-M
+ ain Event: Pongpisan Chunyong vs. Surasak Sukkhamcha\nMain Card: Chaloem
+ porn Sawatsuk vs. Dominic Ahnee\nMain Card: Steven Banks vs. Ahmed El Ta
+ yeb\nMain Card: Maseng Kantiphong vs. J. Rattanamangsang\nMain Card: Lui
+ s Paulo Terra vs. Mikhail Vertrila\nMain Card: Pipat Chaiporn vs. Frank 
+ Sirahat\nMain Card: U. Thawilsuhannawang vs. Chesu Chesu\nMain Card: Som
+ chai Ainthida vs. Suban Malopho\nMain Card: Tai Emery vs. Rung-Arun Khun
+ chai\nMain Card: Sadudee Srimueang vs. Malinda Amarasinghe\nMain Card: K
+ antapon Petsang vs. Sophong Satho
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221011Z
 UID:2022-09-bkfc-29-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 29: Prelims
@@ -67,7 +88,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-montana-2-prel
  a Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-09-bkfc-29-hart-vs-peloumpi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 29: Hart vs. Peloumpi
@@ -87,7 +108,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-hart-vs-peloum
   Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-10-bkfc-30-hunt-vs-henry@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 30: Hunt vs. Henry
@@ -96,10 +117,10 @@ DTEND:20221002T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/92568-bkfc-30-hunt-vs-henry\n\n---\n\nMain Event: Lorenzo Hunt vs. 
- Quentin Henry
+ Quentin Henry\nCo-Main Event: Bobo O'Bannon vs. Ben Rothwell
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-10-bkfc-31-vanzant-vs-sigala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: VanZant vs. Sigala

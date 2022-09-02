@@ -71,14 +71,14 @@
         "Co-Main Event: Robert Whittaker (23-6-0) vs. Marvin Vettori (18-4-1)",
         "Main Card: Alessio Di Chirico (13-6-0) vs. Roman Kopylov (8-2-0)",
         "Main Card: Nasrat Haqparast (13-5-0) vs. John Makdessi (18-7-0)",
+        "Main Card: William Gomis (10-2-0) vs. Jarno Errens (13-3-1)",
         "Main Card: Charles Jourdain (13-5-1) vs. Nathaniel Wood (18-5-0)",
-        "Main Card: Khalid Taha (13-4-0) vs. Cristian Quiñonez (16-3-0)",
-        "Prelim: Nassourdine Imavov (11-3-0) vs. Joaquin Buckley (15-4-0)",
         "Prelim: Dustin Stoltzfus (14-4-0) vs. Abusupiyan Magomedov (24-4-1)",
-        "Prelim: Benoit Saint-Denis (9-1-0) vs. Gabriel Miranda (16-5-0)",
         "Prelim: Fares Ziam (12-4-0) vs. Michal Figlak (8-0-0)",
-        "Prelim: Ailin Perez (7-1-0) vs. Stephanie Egger (7-3-0)",
-        "Prelim: William Gomis (10-2-0) vs. Jarno Errens (13-3-1)"
+        "Prelim: Nassourdine Imavov (11-3-0) vs. Joaquin Buckley (15-4-0)",
+        "Prelim: Benoit Saint-Denis (9-1-0) vs. Gabriel Miranda (16-5-0)",
+        "Prelim: Khalid Taha (13-4-0) vs. Cristian Quiñonez (16-3-0)",
+        "Prelim: Ailin Perez (7-1-0) vs. Stephanie Egger (7-3-0)"
       ],
       "links": [
         "http://www.sherdog.com/events/ufc-fight-night-209-gane-vs-tuivasa-93036",
@@ -158,10 +158,10 @@
       ],
       "card": [
         "Main Event: Khamzat Chimaev (11-0-0) vs. Nate Diaz (20-13-0)",
-        "Main Card: Shamil Abdurakhimov (20-7-0) vs. Jailton Almeida (16-2-0)",
+        "Co-Main Event: Jingliang Li (19-7-0) vs. Tony Ferguson (25-7-0)",
         "Main Card: Irene Aldana (13-6-0) vs. Macy Chiasson (8-2-0)",
         "Main Card: Johnny Walker (18-7-0) vs. Ion Cutelaba (16-7-1)",
-        "Main Card: Jingliang Li (19-7-0) vs. Tony Ferguson (25-7-0)",
+        "Main Card: Kevin Holland (23-7-0) vs. Daniel Rodriguez (16-2-0)",
         "Prelim: Norma Dumont (7-2-0) vs. Danyelle Wolf (1-0-0)",
         "Prelim: Jamie Pickett (13-7-0) vs. Denis Tiuliulin (10-6-0)",
         "Prelim: Chad Anheliger (12-5-0) vs. Heili Alateng (15-8-2)",
@@ -169,7 +169,7 @@
         "Prelim: Jake Collier (13-7-0) vs. Chris Barnett (22-8-0)",
         "Prelim: Hakeem Dawodu (13-2-1) vs. Julian Erosa (27-9-0)",
         "Prelim: Darian Weeks (5-2-0) vs. Yohan Lainesse (8-1-0)",
-        "Prelim: Kevin Holland (23-7-0) vs. Daniel Rodriguez (16-2-0)"
+        "Prelim: Jailton Almeida (16-2-0) vs. Anton Turkalj (8-0-0)"
       ]
     }
   },
@@ -188,26 +188,30 @@
         "UFC_FIGHT_PASS": {
         }
       },
+      "fightPass": {
+        "id": 223356,
+        "time": "2022-09-17T23:00:00Z",
+        "title": "UFC Fight Night: Sandhagen vs Song"
+      },
       "dazn": {
         "id": "11om2oaufjmvg1bv2t2atpnvq4",
         "time": "2022-09-17T23:00:00Z",
-        "title": "UFC Fight Night: Sandhagen vs Yadong (Hauptkämpfe)",
+        "title": "UFC Fight Night: Sandhagen vs Song (Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC"
       }
     },
     "prelims": {
       "title": "UFC Fight Night: Prelims",
+      "time": "2022-09-17T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 223355,
+        "time": "2022-09-17T20:00:00Z",
+        "title": "UFC Fight Night: Sandhagen vs Song Prelims"
       }
     },
     "tapology": {
@@ -225,6 +229,7 @@
         "Main Card: Chidi Njokuani (22-7-0) vs. Gregory Rodrigues (12-4-0)",
         "Main Card: Tanner Boser (20-8-1) vs. Rodrigo Nascimento (8-1-0)",
         "Main Card: Aspen Ladd (9-3-0) vs. Sara McMann (13-6-0)",
+        "Main Card: Andre Fili (21-9-0) vs. Bill Algeo (16-6-0)",
         "Prelim: Trey Ogden (15-5-0) vs. Daniel Zellhuber (12-0-0)",
         "Prelim: Nikolas Motta (12-4-0) vs. Cameron VanCamp (15-6-1)",
         "Prelim: Trevin Giles (14-4-0) vs. Louis Cosce (7-1-0)",
@@ -245,26 +250,30 @@
     ],
     "mainCard": {
       "title": "UFC Fight Night: Dern vs. Yan",
-      "time": "2022-10-01T22:00:00Z",
+      "time": "2022-10-01T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 223405,
+        "time": "2022-10-01T23:00:00Z",
+        "title": "UFC Fight Night: Dern vs Xiaonan"
       }
     },
     "prelims": {
       "title": "UFC Fight Night: Prelims",
+      "time": "2022-10-01T21:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 223404,
+        "time": "2022-10-01T21:00:00Z",
+        "title": "UFC Fight Night: Dern vs Xiaonan Prelims"
       }
     },
     "tapology": {
@@ -284,13 +293,13 @@
         "Main Card: Raoni Barcelos (16-3-0) vs. Trevin Jones (13-8-0)",
         "Main Card: Jairzinho Rozenstruik (12-4-0) vs. Chris Daukaus (12-5-0)",
         "Main Card: Aleksei Oleinik (60-16-1) vs. Ilir Latifi (15-8-0)",
-        "Prelim: Tabatha Ricci (7-1-0) vs. Cheyanne Vlismas (7-2-0)",
         "Prelim: Randy Costa (6-3-0) vs. Guido Cannetti (9-6-0)",
         "Prelim: Julija Stoliarenko (10-6-1) vs. Chelsea Chandler (4-1-0)",
         "Prelim: John Castañeda (19-5-0) vs. Daniel Santos (9-2-0)",
         "Prelim: Joaquim Silva (11-3-0) vs. Jesse Ronson (21-11-0)",
         "Prelim: Mike Davis (9-2-0) vs. Uros Medic (8-1-0)",
-        "Prelim: Maxim Grishin (32-9-2) vs. Philipe Lins (15-5-0)"
+        "Prelim: Maxim Grishin (32-9-2) vs. Philipe Lins (15-5-0)",
+        "Prelim: Jessica Penne (14-6-0) vs. Tabatha Ricci (7-1-0)"
       ]
     }
   },
@@ -327,14 +336,13 @@
     "tapology": {
       "id": 90713,
       "time": "2022-10-15T22:00:00Z",
-      "title": "UFC Fight Night: Cannonier vs. Strickland",
+      "title": "UFC Fight Night",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/90713-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Jared Cannonier (15-6-0) vs. Sean Strickland (25-4-0)",
         "Main Card: Jonathan Martinez (16-4-0) vs. Cub Swanson (28-12-0)",
         "Main Card: Askar Askarov (14-1-1) vs. Brandon Royval (14-6-0)",
         "Main Card: Alexa Grasso (14-3-0) vs. Viviane Araujo (11-3-0)",
@@ -343,7 +351,8 @@
         "Prelim: C.J. Vergara (10-3-1) vs. Tatsuro Taira (11-0-0)",
         "Prelim: Mana Martinez (9-3-0) vs. Brandon Davis (14-9-0)",
         "Prelim: Mike Jackson (1-1-0) vs. Pete Rodriguez (4-1-0)",
-        "Prelim: Raphael Assunção (27-9-0) vs. Victor Henry (22-5-0)"
+        "Prelim: Raphael Assunção (27-9-0) vs. Victor Henry (22-5-0)",
+        "Prelim: Melsik Baghdasaryan (7-1-0) vs. Joanderson Brito (13-3-1)"
       ]
     }
   },
@@ -401,7 +410,6 @@
         "Main Card: Petr Yan (16-3-0) vs. Sean O'Malley (15-1-0)",
         "Main Card: Beneil Dariush (21-4-1) vs. Mateusz Gamrot (21-1-0)",
         "Prelim: Zubaira Tukhugov (20-5-1) vs. Lucas Almeida (14-1-0)",
-        "Prelim: Marina Rodriguez (16-1-2) vs. Amanda Lemos (12-2-1)",
         "Prelim: Katlyn Chookagian (18-4-0) vs. Manon Fiorot (9-1-0)",
         "Prelim: Makhmud Muradov (25-7-0) vs. Caio Borralho (12-1-0)",
         "Prelim: Muhammad Mokaev (7-0-0) vs. Malcolm Gordon (14-5-0)",
@@ -494,6 +502,7 @@
         "MMA"
       ],
       "card": [
+        "Main Card: Marina Rodriguez (16-1-2) vs. Amanda Lemos (12-2-1)",
         "Prelim: Mario Bautista (10-2-0) vs. Benito Lopez (10-1-0)",
         "Prelim: Tagir Ulanbekov (13-2-0) vs. Nate Maness (14-2-0)",
         "Prelim: Ramona Pascual (6-4-0) vs. Tamires Vidal (6-1-0)",
@@ -599,7 +608,8 @@
         "Prelim: Maria Oliveira (13-5-0) vs. Vanessa Demopoulos (8-4-0)",
         "Prelim: Jack Shore (16-1-0) vs. Kyler Phillips (10-2-0)",
         "Prelim: Cody Brundage (8-2-0) vs. Rodolfo Vieira (8-2-0)",
-        "Prelim: Zhalgas Zhumagulov (14-7-0) vs. Charles Johnson (11-3-0)"
+        "Prelim: Zhalgas Zhumagulov (14-7-0) vs. Charles Johnson (11-3-0)",
+        "Prelim: Jennifer Maia (19-9-1) vs. Maryna Moroz (11-3-0)"
       ]
     }
   },
@@ -644,7 +654,8 @@
         "Prelim: Francis Marshall (6-0-0) vs. Marcelo Rojo (16-8-0)",
         "Prelim: Natan Levy (7-1-0) vs. Genaro Valdéz (10-1-0)",
         "Prelim: Michael Johnson (20-18-0) vs. Marc Diakiese (16-5-0)",
-        "Prelim: Angela Hill (14-12-0) vs. Emily Ducote (12-6-0)"
+        "Prelim: Angela Hill (14-12-0) vs. Emily Ducote (12-6-0)",
+        "Prelim: Darren Elkins (27-10-0) vs. Jonathan Pearce (13-4-0)"
       ]
     }
   },
@@ -692,6 +703,7 @@
       ],
       "card": [
         "Main Card: Santiago Ponzinibbio (28-6-0) vs. Robbie Lawler (29-16-0)",
+        "Main Card: Billy Quarantillo (16-4-0) vs. Alexander Hernandez (13-5-0)",
         "Prelim: Edmen Shahbazyan (11-3-0) vs. Dalcha Lungiambula (11-5-0)"
       ]
     }
@@ -736,9 +748,11 @@
         "MMA"
       ],
       "card": [
+        "Main Card: Alex Perez (24-7-0) vs. Amir Albazi (15-1-0)",
         "Prelim: Julian Marquez (9-3-0) vs. Deron Winn (7-3-0)",
         "Prelim: Tafon Nchukwi (6-3-0) vs. Jamal Pogues (9-3-0)",
-        "Prelim: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)"
+        "Prelim: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)",
+        "Prelim: Bruno Silva (22-8-0) vs. Albert Duraev (15-4-0)"
       ]
     }
   },

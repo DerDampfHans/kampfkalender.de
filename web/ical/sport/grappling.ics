@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220902T220304Z
-X-KAMPFKALENDER-HASH:6ccea4db5d02c49ca696cc2aa8d5306846435ac7
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:f0defe855b11a2964eed34c50670ef0108e5265e
 BEGIN:VEVENT
-DTSTAMP:20220902T220304Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-fury-pro-grappling-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury Pro Grappling 5
@@ -31,7 +31,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  gelina Hernandez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T220304Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-fusion-fight-league-lights-out-at-the-dome-5@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -53,5 +53,37 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-lights-out-at-the-
  l (1-7-0)\nMain Card: Gavin Gies (2-0-0) vs. Darren Keith (2-4-0)\nMain 
  Card: Raymond Morkeberg vs. Jose Mendez\nMain Card: David Stratton (2-1-
  0) vs. James Wimmer (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
+UID:2022-09-grappling-team-challenge@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Grappling Team Challenge
+DTSTART:20220903T100000Z
+DTEND:20220903T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220903-grappling
+ -team-challenge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
+UID:2022-09-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Olympix Grappling
+DTSTART:20220910T100000Z
+DTEND:20220910T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-grappling
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
+UID:2022-09-polaris-21-grapple-island@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Polaris 21: Grapple Island
+DTSTART:20220924T180000Z
+DTEND:20220924T210000Z
+CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

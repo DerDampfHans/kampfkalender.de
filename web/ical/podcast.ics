@@ -4,16 +4,36 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220828T220304Z
-X-KAMPFKALENDER-HASH:a228eb784da362c5f7e61a299d0174ce3185b361
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:6bc6d98f433c519aaf53b3e4bc30f92c13c267dc
 BEGIN:VEVENT
-DTSTAMP:20220828T220304Z
-UID:2022-08-schlagwort-podcast-177-jarno-errens@kampfkalender.de
+DTSTAMP:20220902T221011Z
+UID:2022-08-schlagwort-podcast-178-jarno-errens@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast 177: Jarno Errens
+SUMMARY:Schlagwort Podcast 178: Jarno Errens
 DTSTART:20220828T160000Z
 DTEND:20220828T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221011Z
+UID:2022-09-ufc-paris-watch-together@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Paris Watch Together
+DTSTART:20220903T160000Z
+DTEND:20220903T200000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=paszEZ5kU3s
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221011Z
+UID:2022-09-schlagwort-podcast-179@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast 179
+DTSTART:20220904T160000Z
+DTEND:20220904T180000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=hSyimEfhX-A
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,32 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220831T042113Z
-X-KAMPFKALENDER-HASH:c6c105fce3034b072e22586575b6a08cf8628d27
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:1e355ec280c9ec160f2a485969713108bad54514
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
+UID:2022-09-grappling-team-challenge@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Grappling Team Challenge
+DTSTART:20220903T100000Z
+DTEND:20220903T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220903-grappling
+ -team-challenge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
+UID:2022-09-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Olympix Grappling
+DTSTART:20220910T100000Z
+DTEND:20220910T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-grappling
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
 UID:2022-09-prize-fighting-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prize Fighting: Fight Night
@@ -18,7 +40,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-boennsche
  n-bimmel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-gmc-29-ott-vs-wesner@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 29: Ott vs. Wesner
@@ -36,10 +58,11 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220917-gmc-29\n\
  rd: Sergej Kramer (5-4-0) vs. Osama El Zein (6-3-0)\nMain Card: Gabriel 
  Pavlovic (0-0-0) vs. Max Behrbalk (0-1-0)\nMain Card: Adlan Musaev (2-1-
  0) vs. Amir Safi (0-4-0)\nMain Card: Ronny Zesna (0-0-0) vs. Nezar Al-Kh
- abbaz (2-0-0)
+ abbaz (2-0-0)\nMain Card: Zinedine Elmahdi (0-0-0) vs. Hicham El Hajji (
+ 1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-gmc-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 30
@@ -48,10 +71,11 @@ DTEND:20221015T200000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221015-gmc-30\n\
  n---\n\nhttps://www.tapology.com/fightcenter/events/90353-gmc-30\n\n---\
- n\nMain Card: Arijan Topallaj (3-0-1) vs. Cagri Ucar (5-0-0)
+ n\nMain Card: Arijan Topallaj (3-0-1) vs. Cagri Ucar (5-0-0)\nMain Card:
+  Chequina Noso Pedro (5-2-0) vs. Adrian Zeitner (10-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-12-gmc-fight-night-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Fight Night 16

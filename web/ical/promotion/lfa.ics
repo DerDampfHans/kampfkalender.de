@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220831T042113Z
-X-KAMPFKALENDER-HASH:cf9cffbf0d3fd2730aab79f1cc80e7f61f5a098a
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:727f6328622ef7f8c809905a7bfe92c748876460
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-08-lfa-140-mota-vs-abuev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 140: Mota vs. Abuev
@@ -27,7 +27,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nett (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-09-lfa-141-talundzic-vs-brown@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 141: Talundžić vs. Brown
@@ -46,7 +46,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Fernandez (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042113Z
+DTSTAMP:20220902T221011Z
 UID:2022-09-lfa-142-amorim-vs-nichols@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 142: Amorim vs. Nichols
@@ -55,18 +55,29 @@ DTEND:20220917T040000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/92238-lfa-142-amorim-vs-nichols\n\n---\n\nMain Event: Jaquel
- ine Amorim (5-0-0) vs. Ashley Nichols (4-3-0)\nMain Card: Sean McPadden 
- (5-1-0) vs. Michael Cyr (4-0-0)\nMain Card: Giovanna Canuto (3-0-0) vs. 
- Jamie Colleen (5-3-0)\nMain Card: Zach Vaci (3-1-0) vs. Rob Fenicle (2-1
- -0)\nMain Card: Manatua Lemaire (3-0-0) vs. Daniel Gadley (4-2-0)\nPreli
- m: Jimmy Padilla (2-0-0) vs. Donald Bush (6-2-0)\nPrelim: Reshal Malik (
- 4-3-1) vs. Devon Lozej (1-1-0)\nPrelim: Sam Hernandez (3-3-0) vs. Gary K
- onkol (4-2-0)\nPrelim: Dan Moriarty (2-0-0) vs. Oscar Jurado Sánchez (2-
- 0-0)\nPrelim: Griffin Parriott (0-0-0) vs. Ratavious Thrasher (0-1-0)\nP
- relim: Steven Asplund (2-0-0) vs. Cody Baker (5-2-0)\nPrelim: Taylor Mey
- ers (0-0-0) vs. Shaelyn O'Connor (0-3-0)\nPrelim: Mitchell Wilson (2-0-0
- ) vs. Nowa Blabuh (2-3-0)\nPrelim: Daniel Guadalajara (0-0-0) vs. Noah G
- asho (0-0-0)\nPrelim: Andre Sellars (2-4-0) vs. Shad Walters (3-3-0)\nPr
- elim: Shamar Williams (3-1-0) vs. Jared McKinley (3-0-0)
+ ine Amorim (5-0-0) vs. Ashley Nichols (4-3-0)\nCo-Main Event: Thomas Pet
+ ersen (5-1-0) vs. Kory Moegenburg (2-3-0)\nMain Card: Sean McPadden (5-1
+ -0) vs. Michael Cyr (4-0-0)\nMain Card: Giovanna Canuto (3-0-0) vs. Jami
+ e Colleen (5-3-0)\nMain Card: Zach Vaci (3-1-0) vs. Rob Fenicle (2-1-0)\
+ nMain Card: Manatua Lemaire (3-0-0) vs. Daniel Gadley (4-2-0)\nPrelim: J
+ immy Padilla (2-0-0) vs. Donald Bush (6-2-0)\nPrelim: Reshal Malik (4-3-
+ 1) vs. Devon Lozej (1-1-0)\nPrelim: Sam Hernandez (3-3-0) vs. Gary Konko
+ l (4-2-0)\nPrelim: Dan Moriarty (2-0-0) vs. Oscar Jurado Sánchez (2-0-0)
+ \nPrelim: Griffin Parriott (0-0-0) vs. Ratavious Thrasher (0-1-0)\nPreli
+ m: Steven Asplund (2-0-0) vs. Cody Baker (5-2-0)\nPrelim: Taylor Meyers 
+ (0-0-0) vs. Shaelyn O'Connor (0-3-0)\nPrelim: Mitchell Wilson (2-0-0) vs
+ . Nowa Blabuh (2-3-0)\nPrelim: Daniel Guadalajara (0-0-0) vs. Noah Gasho
+  (0-0-0)\nPrelim: Andre Sellars (2-4-0) vs. Shad Walters (3-3-0)\nPrelim
+ : Shamar Williams (3-1-0) vs. Jared McKinley (3-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221011Z
+UID:2022-10-lfa-143@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 143
+DTSTART:20221001T010000Z
+DTEND:20221001T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

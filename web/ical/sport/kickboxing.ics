@@ -4,21 +4,22 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220831T042113Z
-X-KAMPFKALENDER-HASH:d6376066ea878a374c8c5da797064101e6180bed
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:45eebeab3dd12da95307e15269f6f118f0407b13
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-invictus-fight-night-7-all-or-nothing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invictus Fight Night 7: All or Nothing
 DTSTART:20220903T153000Z
 DTEND:20220903T213000Z
 CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/7-i
- nvictus-fightnight-all-or-nothing/
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
+ invictus-fight-night-513\n\n---\n\nhttps://www.fightevents.de/event/7-in
+ victus-fightnight-all-or-nothing/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-prize-fighting-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prize Fighting: Fight Night
@@ -29,7 +30,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-boennsche
  n-bimmel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-senshi-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 13
@@ -39,7 +40,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-13/2pbuf/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-glory-rivals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 2
@@ -47,13 +48,13 @@ DTSTART:20220917T070000Z
 DTEND:20220917T100000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/92171-glory-rivals-2\n\n---\n\nMain Event: Robin Ciric vs. Endy
-  Semeleer\nCo-Main Event: Ibrahim El Bouni vs. Badr Ferdaous\nMain Card:
-  Regilio van den Ent vs. Jos van Belzen\nMain Card: Clyde Brunswijk vs. 
- Muhammed Balli\nMain Card: Jimmy van Kuijeren vs. Frank Rubanguka
+ r/events/92171-glory-rivals-2\n\n---\n\nMain Event: Endy Semeleer vs. Sh
+ kodran Veseli\nCo-Main Event: Ibrahim El Bouni vs. Badr Ferdaous\nMain C
+ ard: Regilio van den Ent vs. Jos van Belzen\nMain Card: Clyde Brunswijk 
+ vs. Muhammed Balli\nMain Card: Jimmy van Kuijeren vs. Frank Rubanguka
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
@@ -66,7 +67,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-one-161-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Bhullar vs. Malykhin
@@ -82,7 +83,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  aj Azizpour vs. Bruno Chaves
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-one-on-prime-video-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 2
@@ -98,7 +99,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  0) vs. Halil Amir (7-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Hari vs. Overeem
@@ -107,10 +108,14 @@ DTEND:20221008T070000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/89722-glory-collision-4\n\n---\n\nMain Event: Badr Hari vs. Alista
- ir Overeem\nMain Card: Tiffany Van Soest vs. Sarah Moussaddak
+ ir Overeem\nCo-Main Event: Sergej Maslobojev vs. Tarik Khbabez\nMain Car
+ d: Tyjani Beztati vs. Stoyan Koprivlenski\nMain Card: P. Kiatmoo9 vs. Ab
+ raham Vidales\nMain Card: Tiffany van Soest vs. Sarah Moussaddak\nMain C
+ ard: Levi Rigters vs. Kevin Tariq Osaro\nMain Card: Serkan Ozcaglayan vs
+ . César Almeida\nMain Card: Felipe Micheletti vs. Donegi Abena
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-oktagon-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36
@@ -123,7 +128,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  Card: Christian Eckerlin (14-5-0) vs. Denilson Neves (16-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-one-on-prime-video-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3
@@ -134,7 +139,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91424-one-on-prime-video-3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-11-one-on-prime-video-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4
@@ -145,7 +150,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91425-one-on-prime-video-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -156,7 +161,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91426-one-on-prime-video-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-12-oktagon-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38

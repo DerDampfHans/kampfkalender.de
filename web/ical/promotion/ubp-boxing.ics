@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220702T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:4eabe0bc482182a8ed3735735cc622703a0d09b5
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
+UID:2022-09-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20220910T180000Z
+DTEND:20220910T210000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/92585-universum-boxing-night\nhttp://www.boxrec.com/en/event/861490
+ \n\n---\n\nMain Card: Rostam Ibrahim (9-0-2) vs. Chico Kwasi (5-1-1)\nMa
+ in Card: Freddy Kiwitt (21-3-0) vs. Ivan Matute (30-9-0)\nMain Card: Dzm
+ itry Asanau (0-0-0) vs. Robin Zamora (17-15-0)\nMain Card: Sevak Miroyan
+  (4-0-0) vs. Ferenc Hafner (27-20-0)
+END:VEVENT
 END:VCALENDAR

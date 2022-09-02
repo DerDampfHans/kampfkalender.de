@@ -58,6 +58,11 @@
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 223350,
+        "time": "2022-09-17T01:00:00Z",
+        "title": "LFA 142"
       }
     },
     "tapology": {
@@ -71,6 +76,7 @@
       ],
       "card": [
         "Main Event: Jaqueline Amorim (5-0-0) vs. Ashley Nichols (4-3-0)",
+        "Co-Main Event: Thomas Petersen (5-1-0) vs. Kory Moegenburg (2-3-0)",
         "Main Card: Sean McPadden (5-1-0) vs. Michael Cyr (4-0-0)",
         "Main Card: Giovanna Canuto (3-0-0) vs. Jamie Colleen (5-3-0)",
         "Main Card: Zach Vaci (3-1-0) vs. Rob Fenicle (2-1-0)",
@@ -87,6 +93,29 @@
         "Prelim: Andre Sellars (2-4-0) vs. Shad Walters (3-3-0)",
         "Prelim: Shamar Williams (3-1-0) vs. Jared McKinley (3-0-0)"
       ]
+    }
+  },
+  {
+    "id": "lfa-2022-10-01",
+    "promotion": "LFA",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#LFA143"
+    ],
+    "mainCard": {
+      "title": "LFA 143",
+      "time": "2022-10-01T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 223397,
+        "time": "2022-10-01T01:00:00Z",
+        "title": "LFA 143"
+      }
     }
   }
 ]

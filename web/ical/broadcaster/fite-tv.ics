@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220831T042113Z
-X-KAMPFKALENDER-HASH:6d161d3702a0d7077cdcf0458550141364d45384
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:dd90b14b05ec7060d9db95da320c5a16ae7cbc53
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-bkfc-28-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28-prelims/2pbtb/
  . Roderick Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-pedraza-vs-commey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pedraza vs. Commey
@@ -48,7 +48,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-co
  n (5-0-0) vs. Nick Jones (9-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-bkfc-28-ferea-vs-starling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 28: Ferea vs. Starling
@@ -68,7 +68,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-28/2pbki/\n\n---\
  ck Stewart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-fusion-fight-league-lights-out-at-the-dome-5@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -92,7 +92,28 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-lights-out-at-the-
  0) vs. James Wimmer (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
+UID:2022-09-bkfc-thailand-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Thailand 3
+DTSTART:20220903T110000Z
+DTEND:20220903T140000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-3/2pbuj/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/91667-bkfc-thaila
+ nd-3\nhttps://events.mixedmartialarts.com/bkfc:e649387f-38e3-4943-afa3-f
+ d50850e48ab\n\n---\n\nMain Event: Buakaw Banchamek vs. Erkan Varol\nCo-M
+ ain Event: Pongpisan Chunyong vs. Surasak Sukkhamcha\nMain Card: Chaloem
+ porn Sawatsuk vs. Dominic Ahnee\nMain Card: Steven Banks vs. Ahmed El Ta
+ yeb\nMain Card: Maseng Kantiphong vs. J. Rattanamangsang\nMain Card: Lui
+ s Paulo Terra vs. Mikhail Vertrila\nMain Card: Pipat Chaiporn vs. Frank 
+ Sirahat\nMain Card: U. Thawilsuhannawang vs. Chesu Chesu\nMain Card: Som
+ chai Ainthida vs. Suban Malopho\nMain Card: Tai Emery vs. Rung-Arun Khun
+ chai\nMain Card: Sadudee Srimueang vs. Malinda Amarasinghe\nMain Card: K
+ antapon Petsang vs. Sophong Satho
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
 UID:2022-09-bkb-28-jones-vs-sweeney-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 28: Jones vs. Sweeney 2
@@ -101,10 +122,17 @@ DTEND:20220903T210000Z
 CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=7tuyYpUxjVI\
  nvia fite.tv: https://www.fite.tv/watch/bkb-28/2pbtr/\n\n---\n\nhttps://
- bkbworld.co.uk/bkb-events/bkb28/
+ bkbworld.co.uk/bkb-events/bkb28/\nhttps://www.tapology.com/fightcenter/e
+ vents/92634-bkb-28\n\n---\n\nMain Event: Barrie Jones vs. Jimmy Sweeney\
+ nCo-Main Event: Ryan Barrett vs. Dan Podmore\nMain Card: Tony Lafferty v
+ s. Scott McHugh\nMain Card: Jody Meikle vs. Carl Hobley\nMain Card: Mart
+ in Bellamy vs. Dan McGraffin\nMain Card: Sonny Smith vs. Aaron McCallum\
+ nMain Card: Russell Pearce vs. Reece Murray\nMain Card: Igor Zebec vs. J
+ ohn Collier\nMain Card: Patrick Nash vs. Callan Harley\nMain Card: Shane
+  McPhilliben vs. Quentin Domingos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-ruiz-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ruiz vs. Ortiz
@@ -116,13 +144,17 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ruiz-vs-ortiz/2pbqk/\n
  \nhttp://www.boxrec.com/en/event/858306\n\n---\n\nMain Event: Andy Ruiz 
  Jr. (34-2-0) vs. Luis Ortiz (33-2-0)\nCo-Main Event: Isaac Cruz (23-2-1)
   vs. Eduardo Ramirez (27-2-3)\nMain Card: Abner Mares (31-3-1) vs. Migue
- l Flores (25-4-0)\nMain Card: Jezzrel Corrales (26-4-0) vs. Jose Valenzu
- ela (12-0-0)\nPrelim: Mike Plania (26-1-0) vs. Raeese Aleem (19-0-0)\nPr
- elim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)\nPrelim: Charles 
- Martin (28-3-1) vs. Devin Vargas (22-7-0)
+ l Flores (25-4-0)\nMain Card: Jose Valenzuela (12-0-0) vs. Edwin de los 
+ Santos (11-1-0)\nPrelim: Mike Plania (26-1-0) vs. Raeese Aleem (19-0-0)\
+ nPrelim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)\nPrelim: Charl
+ es Martin (28-3-1) vs. Devin Vargas (22-7-0)\nPrelim: Juan Esteban Garci
+ a (9-0-2) vs. Gilberto Mendoza (16-12-3)\nPrelim: Oscar Perez (5-0-0) vs
+ . Anthony Cuba (4-0-1)\nPrelim: Anthony Garnica (8-1-0) vs. Juan Antonio
+  Lopez (17-10-0)\nPrelim: Jesus Silveyra (10-7-2) vs. Matt Gaver (3-6-2)
+ \nPrelim: Mickel Spencer (0-0-0) vs. Deljerro Revello (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-senshi-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 13
@@ -132,7 +164,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-13/2pbuf/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-bkfc-29-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 29: Prelims
@@ -152,7 +184,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-montana-2-prel
  a Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-bkfc-29-hart-vs-peloumpi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 29: Hart vs. Peloumpi
@@ -172,7 +204,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-hart-vs-peloum
   Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-fusion-fight-league-gonzales-vs-willis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Gonzales vs. Willis
@@ -194,7 +226,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-gonzales-vs-willis
  -0)\nMain Card: AJ Craig (3-6-0) vs. Daniel Bonner (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
@@ -207,7 +239,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-bkfc-30-hunt-vs-henry@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 30: Hunt vs. Henry
@@ -216,10 +248,10 @@ DTEND:20221002T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/92568-bkfc-30-hunt-vs-henry\n\n---\n\nMain Event: Lorenzo Hunt vs. 
- Quentin Henry
+ Quentin Henry\nCo-Main Event: Bobo O'Bannon vs. Ben Rothwell
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T042114Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-bkfc-31-vanzant-vs-sigala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: VanZant vs. Sigala

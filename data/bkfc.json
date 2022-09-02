@@ -10,12 +10,24 @@
       "#BKFCThailand3"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "BKFC: Thailand 3",
       "time": "2022-09-03T11:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-thailand-3/2pbuj/"
         }
+      },
+      "fite": {
+        "id": "2pbuj",
+        "time": "2022-09-03T11:00:00Z",
+        "title": "BKFC Thailand 3",
+        "url": "https://www.fite.tv/watch/bkfc-thailand-3/2pbuj/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -25,7 +37,21 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/91667-bkfc-thailand-3",
       "card": [
-        "Main Event: Buakaw Banchamek vs. Erkan Varol"
+        "Main Event: Buakaw Banchamek vs. Erkan Varol",
+        "Co-Main Event: Pongpisan Chunyong vs. Surasak Sukkhamcha",
+        "Main Card: Chaloemporn Sawatsuk vs. Dominic Ahnee",
+        "Main Card: Steven Banks vs. Ahmed El Tayeb",
+        "Main Card: Maseng Kantiphong vs. J. Rattanamangsang",
+        "Main Card: Luis Paulo Terra vs. Mikhail Vertrila",
+        "Main Card: Pipat Chaiporn vs. Frank Sirahat",
+        "Main Card: U. Thawilsuhannawang vs. Chesu Chesu",
+        "Main Card: Somchai Ainthida vs. Suban Malopho",
+        "Main Card: Tai Emery vs. Rung-Arun Khunchai",
+        "Main Card: Sadudee Srimueang vs. Malinda Amarasinghe",
+        "Main Card: Kantapon Petsang vs. Sophong Satho"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc:e649387f-38e3-4943-afa3-fd50850e48ab"
       ]
     }
   },
@@ -130,7 +156,8 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/92568-bkfc-30-hunt-vs-henry",
       "card": [
-        "Main Event: Lorenzo Hunt vs. Quentin Henry"
+        "Main Event: Lorenzo Hunt vs. Quentin Henry",
+        "Co-Main Event: Bobo O'Bannon vs. Ben Rothwell"
       ]
     }
   },

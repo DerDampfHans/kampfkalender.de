@@ -16,6 +16,7 @@
       "until": "2022-09-03T21:30:00Z",
       "broadcasters": {
         "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-7-invictus-fight-night-513"
         }
       }
     },
@@ -26,6 +27,7 @@
       "title": "7. Invictus Fightnight – All or Nothing",
       "url": "https://www.fightevents.de/event/7-invictus-fightnight-all-or-nothing/",
       "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-7-invictus-fight-night-513",
       "tags": [
         "7. Invictus Fightnight",
         "Fabio Ferko",
@@ -43,6 +45,53 @@
         "K1/Kickboxen",
         "Livestream",
         "National"
+      ]
+    }
+  },
+  {
+    "id": "back2back-2022-09-10",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Back2Back",
+      "#WagnerPerez",
+      "@unitedpromotion"
+    ],
+    "mainCard": {
+      "title": "Wagner vs. Perez",
+      "time": "2022-09-10T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "zvwipv4kb4qn1f7zokm21bt57",
+        "time": "2022-09-10T00:00:00Z",
+        "title": "Josh Wagner vs Jorge Perez Sanchez",
+        "sport": "BOXING",
+        "competition": "Wagner vs Perez Sanchez"
+      }
+    },
+    "tapology": {
+      "id": 92298,
+      "time": "2022-09-10T00:00:00Z",
+      "title": "Back 2 Back",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/92298-back-2-back",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Josh Wagner (12-0-0) vs. Jorge Perez (12-2-0)",
+        "Main Card: Mark Smither (8-0-0) vs. Andy Almendras (0-0-0)",
+        "Main Card: Joshua Frazer (0-0-0) vs. Esteban Villalba (13-25-3)",
+        "Main Card: Thad Buntsma (2-3-0) vs. Daniel Roach (2-1-0)",
+        "Main Card: Melinda Watpool (0-0-0) vs. Silvia Silva Barraza (0-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/859564"
       ]
     }
   },
@@ -101,6 +150,54 @@
           "MMA"
         ]
       }
+    }
+  },
+  {
+    "id": "back2back-2022-09-11",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Back2Back",
+      "#SinghVrenozi",
+      "@unitedpromotion"
+    ],
+    "mainCard": {
+      "title": "Singh vs. Vrenozi",
+      "time": "2022-09-11T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "7nn5ohwoue3c169mfr3gll8he",
+        "time": "2022-09-11T00:00:00Z",
+        "title": "Sukhdeep Singh Bhatti vs Xhulijo Vrenozi",
+        "sport": "BOXING",
+        "competition": "Bhatti vs Vrenozi"
+      }
+    },
+    "tapology": {
+      "id": 92299,
+      "time": "2022-09-11T00:00:00Z",
+      "title": "Back 2 Back",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/92299-back-2-back",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Sukhdeep Singh (12-0-0) vs. Xhuljo Vrenozi (18-4-0)",
+        "Main Card: Brandon Cook (22-2-0) vs. Stepan Horvath (21-6-0)",
+        "Main Card: Shakeel Phinn (22-3-1) vs. Josue Castaneda (12-15-2)",
+        "Main Card: Ricardo Brown (0-0-0) vs. Carlos Carreon (8-8-0)",
+        "Main Card: Salar Gholami (5-0-0) vs. Sylvera Louis (8-7-0)",
+        "Main Card: Dylan Rushton (2-7-3) vs. Ki Soo Lee (8-4-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/859565"
+      ]
     }
   },
   {

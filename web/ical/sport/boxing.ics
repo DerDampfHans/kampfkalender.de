@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220831T043407Z
-X-KAMPFKALENDER-HASH:c605ad54896bcd0984b8c540b8b8c00ff056c08d
+DTSTAMP:20220902T221011Z
+X-KAMPFKALENDER-HASH:636e01016ea1373c9cd462eae7248e7d62e1c4c7
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-ksi-vs-swarmz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSI vs. Swarmz
@@ -17,7 +17,7 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-pedraza-vs-commey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pedraza vs. Commey
@@ -38,7 +38,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-pedraza-vs-co
  n (5-0-0) vs. Nick Jones (9-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-08-fusion-fight-league-lights-out-at-the-dome-5@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -62,23 +62,24 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-lights-out-at-the-
  0) vs. James Wimmer (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-invictus-fight-night-7-all-or-nothing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invictus Fight Night 7: All or Nothing
 DTSTART:20220903T153000Z
 DTEND:20220903T213000Z
 CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv\n\n---\n\nhttps://www.fightevents.de/event/7-i
- nvictus-fightnight-all-or-nothing/
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
+ invictus-fight-night-513\n\n---\n\nhttps://www.fightevents.de/event/7-in
+ victus-fightnight-all-or-nothing/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-estrada-vs-cortes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Cortes
-DTSTART:20220904T010000Z
-DTEND:20220904T040000Z
+DTSTART:20220904T000000Z
+DTEND:20220904T030000Z
 CATEGORIES:CP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/90345-flores-vs-nontshinga\nhttp://www.boxrec.com/en/event/860969\n\n-
@@ -88,7 +89,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  in Card: Jorge Mata (15-0-2) vs. Eduardo Hernandez (32-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-ruiz-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ruiz vs. Ortiz
@@ -100,13 +101,17 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ruiz-vs-ortiz/2pbqk/\n
  \nhttp://www.boxrec.com/en/event/858306\n\n---\n\nMain Event: Andy Ruiz 
  Jr. (34-2-0) vs. Luis Ortiz (33-2-0)\nCo-Main Event: Isaac Cruz (23-2-1)
   vs. Eduardo Ramirez (27-2-3)\nMain Card: Abner Mares (31-3-1) vs. Migue
- l Flores (25-4-0)\nMain Card: Jezzrel Corrales (26-4-0) vs. Jose Valenzu
- ela (12-0-0)\nPrelim: Mike Plania (26-1-0) vs. Raeese Aleem (19-0-0)\nPr
- elim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)\nPrelim: Charles 
- Martin (28-3-1) vs. Devin Vargas (22-7-0)
+ l Flores (25-4-0)\nMain Card: Jose Valenzuela (12-0-0) vs. Edwin de los 
+ Santos (11-1-0)\nPrelim: Mike Plania (26-1-0) vs. Raeese Aleem (19-0-0)\
+ nPrelim: Kevin Salgado (12-0-1) vs. Joey Spencer (15-0-0)\nPrelim: Charl
+ es Martin (28-3-1) vs. Devin Vargas (22-7-0)\nPrelim: Juan Esteban Garci
+ a (9-0-2) vs. Gilberto Mendoza (16-12-3)\nPrelim: Oscar Perez (5-0-0) vs
+ . Anthony Cuba (4-0-1)\nPrelim: Anthony Garnica (8-1-0) vs. Juan Antonio
+  Lopez (17-10-0)\nPrelim: Jesus Silveyra (10-7-2) vs. Matt Gaver (3-6-2)
+ \nPrelim: Mickel Spencer (0-0-0) vs. Deljerro Revello (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-valle-vs-nguyen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Valle vs. Nguyen
@@ -121,12 +126,60 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  vs. Ivan Delgado (13-4-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
+UID:2022-09-wagner-vs-perez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wagner vs. Perez
+DTSTART:20220910T000000Z
+DTEND:20220910T030000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92298-back-2-back\nhttp://www.boxrec.com/en/event/859564\n\n---\n\nMai
+ n Event: Josh Wagner (12-0-0) vs. Jorge Perez (12-2-0)\nMain Card: Mark 
+ Smither (8-0-0) vs. Andy Almendras (0-0-0)\nMain Card: Joshua Frazer (0-
+ 0-0) vs. Esteban Villalba (13-25-3)\nMain Card: Thad Buntsma (2-3-0) vs.
+  Daniel Roach (2-1-0)\nMain Card: Melinda Watpool (0-0-0) vs. Silvia Sil
+ va Barraza (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
+UID:2022-09-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20220910T180000Z
+DTEND:20220910T210000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/92585-universum-boxing-night\nhttp://www.boxrec.com/en/event/861490
+ \n\n---\n\nMain Card: Rostam Ibrahim (9-0-2) vs. Chico Kwasi (5-1-1)\nMa
+ in Card: Freddy Kiwitt (21-3-0) vs. Ivan Matute (30-9-0)\nMain Card: Dzm
+ itry Asanau (0-0-0) vs. Robin Zamora (17-15-0)\nMain Card: Sevak Miroyan
+  (4-0-0) vs. Ferenc Hafner (27-20-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
+UID:2022-09-singh-vs-vrenozi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Singh vs. Vrenozi
+DTSTART:20220911T000000Z
+DTEND:20220911T030000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92299-back-2-back\nhttp://www.boxrec.com/en/event/859565\n\n---\n\nMai
+ n Event: Sukhdeep Singh (12-0-0) vs. Xhuljo Vrenozi (18-4-0)\nMain Card:
+  Brandon Cook (22-2-0) vs. Stepan Horvath (21-6-0)\nMain Card: Shakeel P
+ hinn (22-3-1) vs. Josue Castaneda (12-15-2)\nMain Card: Ricardo Brown (0
+ -0-0) vs. Carlos Carreon (8-8-0)\nMain Card: Salar Gholami (5-0-0) vs. S
+ ylvera Louis (8-7-0)\nMain Card: Dylan Rushton (2-7-3) vs. Ki Soo Lee (8
+ -4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
-DTSTART:20220918T020000Z
-DTEND:20220918T050000Z
+DTSTART:20220918T000000Z
+DTEND:20220918T023000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/89675-canelo-vs-ggg-3\nhttp://www.boxrec.com/en/event/856254\n\n---\n\
@@ -140,12 +193,31 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
+UID:2022-09-canelo-vs-ggg-3-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Canelo vs. GGG 3
+DTSTART:20220918T023000Z
+DTEND:20220918T053000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/89675-canelo-vs-ggg-3\nhttp://www.boxrec.com/en/event/856254\n\n---\n\
+ nMain Event: Canelo Álvarez (57-2-2) vs. Gennadiy Golovkin (42-1-1)\nMai
+ n Card: Jesse Rodriguez (16-0-0) vs. Israel Gonzalez (28-4-1)\nMain Card
+ : Austin Williams (11-0-0) vs. Kieron Conway (18-2-1)\nMain Card: Diego 
+ Pacheco (15-0-0) vs. Enrique Collazo (16-2-1)\nMain Card: Marc Castro (7
+ -0-0) vs. Kevin Montiel Mendoza (7-1-2)\nMain Card: Ali Akhmedov (18-1-0
+ ) vs. Gabriel Rosado (26-15-1)\nMain Card: Fernando Molina (8-0-0) vs. A
+ aron Aponte (6-0-0)\nMain Card: Anthony Herrera (0-0-0) vs. Delvin McKin
+ ley (4-3-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220902T221012Z
 UID:2022-09-wood-vs-lara@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Lara
-DTSTART:20220924T200000Z
-DTEND:20220924T230000Z
+DTSTART:20220924T180000Z
+DTEND:20220924T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92389-wood-vs-lara\n\n---\n\nMain Event: Leigh Wood (26-2-0) vs. Mauri
@@ -153,7 +225,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  2-1-1)\nMain Card: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
@@ -166,7 +238,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -174,11 +246,11 @@ DTSTART:20221001T110000Z
 DTEND:20221001T140000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/90363-paro-vs-jarvis\n\n---\n\nMain Event: Liam Paro (22-0-0) vs. Broc
- k Jarvis (20-0-0)
+ s/90363-paro-vs-jarvis\nhttp://www.boxrec.com/en/event/860928\n\n---\n\n
+ Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Eubank Jr.
@@ -191,7 +263,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ard: Mary Romero (8-2-0) vs. Ellie Scotney (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-martinez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Edwards
@@ -204,7 +276,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   vs. Joselito Velazquez (14-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-10-paul-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva
@@ -215,7 +287,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/92580-paul-vs-sil
  va\n\n---\n\nMain Card: Jake Paul (5-0-0) vs. Anderson Silva (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-11-bivol-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Zurdo
@@ -224,10 +296,12 @@ DTEND:20221105T170000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92338-bivol-vs-zurdo\n\n---\n\nMain Event: Dmitry Bivol (20-0-0) vs. Z
- urdo Ramirez (44-0-0)
+ urdo Ramirez (44-0-0)\nMain Card: Chantelle Cameron (16-0-0) vs. Jessica
+  McCaskill (12-2-0)\nMain Card: Joe Cordina (15-0-0) vs. Shavkatdzhon Ra
+ khimov (16-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T043408Z
+DTSTAMP:20220902T221012Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark

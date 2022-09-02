@@ -16,7 +16,7 @@
     },
     "tapology": {
       "id": 90345,
-      "time": "2022-09-04T02:00:00Z",
+      "time": "2022-09-04T01:00:00Z",
       "title": "Estrada vs. Cortes",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/90345-flores-vs-nontshinga",
@@ -40,12 +40,38 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#CaneloGolovkin",
+      "#CaneloGolovkin3"
+    ],
     "mainCard": {
       "title": "Canelo vs. GGG 3",
-      "time": "2022-09-18T02:00:00Z",
+      "time": "2022-09-18T02:30:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "1i7jzgsb77sa31ves14sjet9yn",
+        "time": "2022-09-18T02:30:00Z",
+        "title": "Canelo Alvarez vs Gennady Golovkin III (mit Vorberichten & Analysen)",
+        "sport": "BOXING",
+        "competition": "Canelo vs GGG 3"
+      }
+    },
+    "prelims": {
+      "title": "Canelo vs. GGG 3",
+      "time": "2022-09-18T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "t9qzf2q0kody1cztdk6a49igi",
+        "time": "2022-09-18T00:00:00Z",
+        "title": "Canelo Alvarez vs Gennady Golovkin III (Undercard & Co-Main)",
+        "sport": "BOXING",
+        "competition": "Canelo vs GGG 3"
       }
     },
     "tapology": {
@@ -79,12 +105,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#WoodLara"
+    ],
     "mainCard": {
       "title": "Wood vs. Lara",
-      "time": "2022-09-24T20:00:00Z",
+      "time": "2022-09-24T18:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "xnqbl4ujqruo18t576oax43z0",
+        "time": "2022-09-24T18:00:00Z",
+        "title": "Leigh Wood vs Mauricio Lara",
+        "sport": "BOXING",
+        "competition": "Wood vs Lara"
       }
     },
     "tapology": {
@@ -128,6 +164,9 @@
       ],
       "card": [
         "Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/860928"
       ]
     }
   },
@@ -217,7 +256,9 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Dmitry Bivol (20-0-0) vs. Zurdo Ramirez (44-0-0)"
+        "Main Event: Dmitry Bivol (20-0-0) vs. Zurdo Ramirez (44-0-0)",
+        "Main Card: Chantelle Cameron (16-0-0) vs. Jessica McCaskill (12-2-0)",
+        "Main Card: Joe Cordina (15-0-0) vs. Shavkatdzhon Rakhimov (16-0-1)"
       ]
     }
   },
