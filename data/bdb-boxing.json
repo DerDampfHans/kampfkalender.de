@@ -35,10 +35,18 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#Schönebeck"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Schonebecken BoxNacht Live",
-      "time": "2022-09-03T18:00:00Z"
+      "title": "Schönebecker Boxnacht",
+      "time": "2022-09-03T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-schonebecker-boxnacht-514",
+          "freeAfter": 48
+        }
+      }
     },
     "tapology": {
       "id": 92574,
