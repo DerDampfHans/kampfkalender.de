@@ -288,5 +288,72 @@
         "MMA"
       ]
     }
+  },
+  {
+    "id": "bkb-2022-09-03",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKB28"
+    ],
+    "links": [
+      "https://bkbworld.co.uk/bkb-events/bkb28/"
+    ],
+    "mainCard": {
+      "title": "BKB 28: Jones vs. Sweeney 2",
+      "time": "2022-09-03T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=7tuyYpUxjVI"
+        },
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkb-28/2pbtr/"
+        }
+      },
+      "fite": {
+        "id": "2pbtr",
+        "time": "2022-09-03T18:00:00Z",
+        "title": "BKB 28: Barrie Jones vs Jimmy Sweeney - The Rematch",
+        "url": "https://www.fite.tv/watch/bkb-28/2pbtr/",
+        "price": "WATCH WITH FITE+",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      },
+      "youTube": {
+        "id": "7tuyYpUxjVI",
+        "time": "2022-09-03T18:00:00Z",
+        "title": "LIVE: BKB 28 | 3.9. | 20 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=7tuyYpUxjVI",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 92634,
+      "time": "2022-09-03T18:00:00Z",
+      "title": "BKB 28",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/92634-bkb-28",
+      "card": [
+        "Main Event: Barrie Jones vs. Jimmy Sweeney",
+        "Co-Main Event: Ryan Barrett vs. Dan Podmore",
+        "Main Card: Tony Lafferty vs. Scott McHugh",
+        "Main Card: Jody Meikle vs. Carl Hobley",
+        "Main Card: Martin Bellamy vs. Dan McGraffin",
+        "Main Card: Sonny Smith vs. Aaron McCallum",
+        "Main Card: Russell Pearce vs. Reece Murray",
+        "Main Card: Igor Zebec vs. John Collier",
+        "Main Card: Patrick Nash vs. Callan Harley",
+        "Main Card: Shane McPhilliben vs. Quentin Domingos"
+      ]
+    }
   }
 ]
