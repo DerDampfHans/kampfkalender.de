@@ -10,7 +10,7 @@
       "#BKFC29"
     ],
     "mainCard": {
-      "title": "BKFC 29: Hart vs. Peloumpi",
+      "title": "BKFC 29: Hart vs. Sigala",
       "time": "2022-09-11T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
@@ -59,17 +59,18 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/91454-bkfc-fight-night-montana-2",
       "card": [
-        "Main Event: Britain Hart vs. Fani Peloumpi",
+        "Main Event: Britain Hart vs. Charisa Sigala",
         "Co-Main Event: Joe Riggs vs. Josh Dyer",
         "Main Card: Kai Stewart vs. Rusty Crowder",
         "Main Card: Dallas Davison vs. Gorjan Slaveski",
-        "Main Card: Cody Beierle vs. Braeden Tovey",
         "Main Card: Erik Lopez vs. Manuel Moreira",
         "Main Card: Louie Lopez vs. Dylan Schulte",
         "Main Card: Monte Klistoff vs. Pernell Stevens",
+        "Main Card: Cody Beierle vs. JorDan Christensen",
+        "Main Card: Billy Wagner vs. Henry Lindsay",
         "Prelim: Leo Bercier vs. Brian Maxwell",
         "Prelim: Nekah Dmitriyeva vs. Jenny Clausius",
-        "Prelim: Keith Kelly vs. Koda Greenwood"
+        "Prelim: Dakota Highpine vs. Koda Greenwood"
       ],
       "links": [
         "https://events.mixedmartialarts.com/bkfc-29:cf990c1f-0ff5-4c19-b364-7d9188b84ee7"
@@ -83,14 +84,50 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC30"
+      "#BKFC30",
+      "#BKFCMonroe"
     ],
     "mainCard": {
       "title": "BKFC 30: Hunt vs. Henry",
       "time": "2022-10-02T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-30-monroe/2pbwi/"
         }
+      },
+      "fite": {
+        "id": "2pbwi",
+        "time": "2022-10-02T01:00:00Z",
+        "title": "BKFC 30 Monroe: Lorenzo Hunt vs Quentin Henry",
+        "url": "https://www.fite.tv/watch/bkfc-30-monroe/2pbwi/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 30: Prelims",
+      "time": "2022-10-02T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-30-monroe-prelims/2pbwj/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pbwj",
+        "time": "2022-10-02T00:00:00Z",
+        "title": "BKFC 30 Monroe: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-30-monroe-prelims/2pbwj/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -101,7 +138,8 @@
       "url": "https://www.tapology.com/fightcenter/events/92568-bkfc-30-hunt-vs-henry",
       "card": [
         "Main Event: Lorenzo Hunt vs. Quentin Henry",
-        "Co-Main Event: Bobo O'Bannon vs. Ben Rothwell"
+        "Co-Main Event: Bobo O'Bannon vs. Ben Rothwell",
+        "Main Card: Zachary Calmus vs. Juan Torres"
       ]
     }
   },

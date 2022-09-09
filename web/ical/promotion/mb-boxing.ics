@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220902T221011Z
-X-KAMPFKALENDER-HASH:aeeb94f1c08a7c44f4677f5fb9616f58a090c80a
+DTSTAMP:20220909T120731Z
+X-KAMPFKALENDER-HASH:bf4ef0c6f3760d4503a791a7b1dfd068942195c6
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-09-canelo-vs-ggg-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -26,7 +26,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-09-canelo-vs-ggg-3-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. GGG 3
@@ -45,7 +45,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ley (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-09-wood-vs-lara@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Lara
@@ -54,11 +54,11 @@ DTEND:20220924T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92389-wood-vs-lara\n\n---\n\nMain Event: Leigh Wood (26-2-0) vs. Mauri
- cio Lara (23-2-1)\nMain Card: Hannah Rankin (12-5-0) vs. Terri Harper (1
- 2-1-1)\nMain Card: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)
+ cio Lara (23-2-1)\nCo-Main Event: Hannah Rankin (12-5-0) vs. Terri Harpe
+ r (12-1-1)\nMain Card: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-10-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -67,10 +67,13 @@ DTEND:20221001T140000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/90363-paro-vs-jarvis\nhttp://www.boxrec.com/en/event/860928\n\n---\n\n
- Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)
+ Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)\nMain Card: Sky
+ e Nicolson (0-0-0) vs. Krystina Jacobs (6-3-0)\nMain Card: Demsey McKean
+  (21-0-0) vs. Patrick Korte (17-1-1)\nMain Card: Abdoul Mayweather (6-0-
+ 0) vs. Mateo Tapia (14-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-10-benn-vs-eubank-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Eubank Jr.
@@ -83,7 +86,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ard: Mary Romero (8-2-0) vs. Ellie Scotney (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-10-martinez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Martinez vs. Edwards
@@ -96,7 +99,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   vs. Joselito Velazquez (14-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-11-bivol-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Zurdo
@@ -110,7 +113,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  khimov (16-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220902T221011Z
+DTSTAMP:20220909T120731Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark
@@ -120,5 +123,17 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92465-love-vs-spark\n\n---\n\nMain Event: Montana Love (18-0-1) vs. St
  eve Spark (15-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220909T120731Z
+UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Estrada vs. Chocolatito 3
+DTSTART:20221204T030000Z
+DTEND:20221204T060000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92728-estrada-vs-chocolatito-3\n\n---\n\nMain Event: Juan Francisco Es
+ trada (43-3-0) vs. Roman Gonzalez (51-3-0)
 END:VEVENT
 END:VCALENDAR

@@ -19,7 +19,7 @@
       "dazn": {
         "id": "1i7jzgsb77sa31ves14sjet9yn",
         "time": "2022-09-18T02:30:00Z",
-        "title": "Canelo Alvarez vs Gennady Golovkin III (mit Vorberichten & Analysen)",
+        "title": "Hauptkampf mit Vorberichten & Analysen",
         "sport": "BOXING",
         "competition": "Canelo vs GGG 3"
       }
@@ -34,7 +34,7 @@
       "dazn": {
         "id": "t9qzf2q0kody1cztdk6a49igi",
         "time": "2022-09-18T00:00:00Z",
-        "title": "Canelo Alvarez vs Gennady Golovkin III (Undercard & Co-Main)",
+        "title": "Vorkämpfe",
         "sport": "BOXING",
         "competition": "Canelo vs GGG 3"
       }
@@ -83,7 +83,7 @@
       "dazn": {
         "id": "xnqbl4ujqruo18t576oax43z0",
         "time": "2022-09-24T18:00:00Z",
-        "title": "Leigh Wood vs Mauricio Lara",
+        "title": "Vorkämpfe & Hauptkampf",
         "sport": "BOXING",
         "competition": "Wood vs Lara"
       }
@@ -99,7 +99,7 @@
       ],
       "card": [
         "Main Event: Leigh Wood (26-2-0) vs. Mauricio Lara (23-2-1)",
-        "Main Card: Hannah Rankin (12-5-0) vs. Terri Harper (12-1-1)",
+        "Co-Main Event: Hannah Rankin (12-5-0) vs. Terri Harper (12-1-1)",
         "Main Card: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)"
       ]
     }
@@ -128,7 +128,10 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)"
+        "Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)",
+        "Main Card: Skye Nicolson (0-0-0) vs. Krystina Jacobs (6-3-0)",
+        "Main Card: Demsey McKean (21-0-0) vs. Patrick Korte (17-1-1)",
+        "Main Card: Abdoul Mayweather (6-0-0) vs. Mateo Tapia (14-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/860928"
@@ -252,6 +255,35 @@
       ],
       "card": [
         "Main Event: Montana Love (18-0-1) vs. Steve Spark (15-2-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-92728",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Estrada vs. Chocolatito 3",
+      "time": "2022-12-04T03:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 92728,
+      "time": "2022-12-04T03:00:00Z",
+      "title": "Estrada vs. Chocolatito 3",
+      "titleAlt": "Estrada vs. Gonzalez 3",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/92728-estrada-vs-chocolatito-3",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Juan Francisco Estrada (43-3-0) vs. Roman Gonzalez (51-3-0)"
       ]
     }
   }

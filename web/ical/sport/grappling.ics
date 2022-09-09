@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220904T220304Z
-X-KAMPFKALENDER-HASH:6dee473cddc898cc4b10670d3885f93f87094b8b
+DTSTAMP:20220909T120731Z
+X-KAMPFKALENDER-HASH:b0c773fedf660db62dbba80b6c3a373e14808019
 BEGIN:VEVENT
-DTSTAMP:20220904T220306Z
+DTSTAMP:20220909T120732Z
 UID:2022-09-grappling-team-challenge@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Grappling Team Challenge
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220903-grappling
  -team-challenge
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T220306Z
+DTSTAMP:20220909T120732Z
 UID:2022-09-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Olympix Grappling
@@ -29,13 +29,38 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-grappling
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T220306Z
+DTSTAMP:20220909T120732Z
 UID:2022-09-polaris-21-grapple-island@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris 21: Grapple Island
 DTSTART:20220924T180000Z
 DTEND:20220924T210000Z
 CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/92855-polaris-21-grapple-island\n\n---\n\nMain Card: Ffion D
+ avies vs. Michelle Nicolini\nMain Card: Josh Hinger vs. Owen Livesey\nMa
+ in Card: Ross Nicholls vs. Marcelo Fausto\nMain Card: Alessio Sacchetti 
+ vs. Tom Halpin\nMain Card: Luca Anacoreta vs. Espen Mathiesen\nMain Card
+ : Tom Barlow vs. Robson Moura\nMain Card: Alessio Salis vs. Loris Zanoli
+ ni\nMain Card: Stefano Sanna vs. Matteo Bittichesu\nMain Card: Matteo Ve
+ rmiglio vs. Khadim Dia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220909T120732Z
+UID:2022-10-one-on-prime-video-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE on Prime Video 2
+DTSTART:20221001T010000Z
+DTEND:20221001T040000Z
+CATEGORIES:ONE,MMA,Kickboxen,Grappling,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91423-one-on-prime-video-2\n\n---\n\nMain Event: Jingnan Xiong (17-
+ 2-0) vs. Angela Lee (11-2-0)\nCo-Main Event: Superbon vs. Chingiz Allazo
+ v\nMain Card: Mikey Musumeci vs. Cleber Sousa\nMain Card: Stamp Fairtex 
+ (8-2-0) vs. Jihin Radzuan (8-2-0)\nMain Card: Martin Nguyen (14-5-0) vs.
+  Ilya Freymanov (10-2-0)\nMain Card: Timofey Nastyukhin (14-6-0) vs. Hal
+ il Amir (7-0-0)\nPrelim: Marat Grigorian vs. Tayfun Özcan\nPrelim: Jae W
+ oong Kim (12-5-0) vs. Shamil Gasanov (12-0-0)\nPrelim: Anissa Meksen vs.
+  Daokongfah\nPrelim: Rade Opačić vs. Giannis Stoforidis
 END:VEVENT
 END:VCALENDAR

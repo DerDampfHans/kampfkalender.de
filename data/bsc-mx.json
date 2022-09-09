@@ -1,22 +1,14 @@
 [
   {
-    "id": "fightpass-220177",
+    "id": "tapology-91400",
     "promotion": "BSC_MX",
     "sports": [
       "MMA"
     ],
     "mainCard": {
-      "title": "Budo Sento Championship: Volume 10",
-      "time": "2022-09-10T01:00:00Z",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      },
-      "fightPass": {
-        "id": 220177,
-        "time": "2022-09-10T01:00:00Z",
-        "title": "Budo Sento Championship: Vol 10"
-      }
+      "hidden": true,
+      "title": "Budo Sento Championship 10",
+      "time": "2022-09-09T21:30:00Z"
     },
     "tapology": {
       "id": 91400,
@@ -24,6 +16,49 @@
       "title": "Budo Sento Championship: Volume 10",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/91400-budo-sento-championship-volume-10"
+    }
+  },
+  {
+    "id": "fightpass-220177",
+    "promotion": "BSC_MX",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Budo Sento Championship: Volume 10",
+      "time": "2022-09-10T01:30:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 220177,
+        "time": "2022-09-10T01:30:00Z",
+        "title": "Budo Sento Championship: Vol 10"
+      }
+    },
+    "tapology": {
+      "id": 92816,
+      "time": "2022-09-09T21:30:00Z",
+      "title": "Budo Sento Championship 10",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/92816-budo-sento-championship-10",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Jorge Gonzalez (16-4-0) vs. Walter Luna (14-6-0)",
+        "Main Card: Walter Zamora (11-4-0) vs. Carlos Enrique Cañada (10-12-0)",
+        "Main Card: Jaime Granados (9-4-0) vs. Jesús Siller (5-2-0)",
+        "Main Card: Laura Huizar (3-2-0) vs. Estefania Rodriguez (3-0-0)",
+        "Main Card: Roman Cordoba (7-5-0) vs. Fabian Albuerne (2-0-0)",
+        "Main Card: Mitchelle Etchart (0-2-0) vs. Uziel Gomez (2-0-0)",
+        "Main Card: Sergio Mar (2-1-0) vs. Jose Sandoval (0-0-0)",
+        "Main Card: Benjamin Mendez Salmon (1-2-0) vs. Mario Tena (6-8-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/bsc-10-budo-sento-championship-vol-10-94540"
+      ]
     }
   }
 ]
