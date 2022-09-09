@@ -105,62 +105,6 @@
     }
   },
   {
-    "id": "boxxer-2022-09-10",
-    "promotion": "_OTHER",
-    "sports": [
-      "BOXING"
-    ],
-    "tags": [
-      "#ShieldsMarshall",
-      "#Legacy",
-      "@boxxer"
-    ],
-    "mainCard": {
-      "title": "Shields vs. Marshall",
-      "time": "2022-10-15T18:30:00Z",
-      "broadcasters": {
-        "FITE_TV": {
-          "url": "https://www.fite.tv/watch/shields-vs-marshall/2pbwm/"
-        }
-      },
-      "fite": {
-        "id": "2pbwm",
-        "time": "2022-09-10T18:30:00Z",
-        "title": "Boxxer: Claressa Shields vs Savannah Marshall",
-        "url": "https://www.fite.tv/watch/shields-vs-marshall/2pbwm/",
-        "price": "$9.99",
-        "sports": [
-          "BOXING"
-        ]
-      }
-    },
-    "tapology": {
-      "id": 90500,
-      "time": "2022-10-15T20:00:00Z",
-      "title": "Shields vs. Marshall: Legacy",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/90500-shields-vs-marshall",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Claressa Shields (12-0-0) vs. Savannah Marshall (12-0-0)",
-        "Co-Main Event: Mikaela Mayer (17-0-0) vs. Alycia Baumgardner (12-1-0)",
-        "Main Card: Lauren Price (0-0-0) vs. Timea Belik (0-0-0)",
-        "Main Card: Karriss Artingstall (0-0-0) vs. Marina Sakharov (5-16-2)",
-        "Main Card: Caroline Dubois (0-0-0) vs. Milena Koleva (10-14-1)",
-        "Main Card: Ginny Fuchs (0-0-0) vs. Gemma Ruegg (0-0-0)",
-        "Main Card: Ebonie Jones (0-0-0) vs. Vanesa Caballero (4-15-3)",
-        "Main Card: April Hunter (5-1-0) vs. Erica Alvarez (2-6-0)",
-        "Main Card: Shannon Ryan (0-0-0) vs. Buchra El Quaissi (2-2-3)",
-        "Main Card: Sarah Liegmann (0-0-0) vs. Bec Connolly (3-15-0)"
-      ],
-      "links": [
-        "http://www.boxrec.com/en/event/859107"
-      ]
-    }
-  },
-  {
     "id": "back2back-2022-09-11",
     "promotion": "_OTHER",
     "sports": [
@@ -253,6 +197,62 @@
         "Main Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru Asakura (0-0-0)",
         "Main Card: Nadaka Yoshinari vs. Bandasak",
         "Main Card: Kota Miura (1-0-0) vs. Bunchuai Phonsungnoen (0-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "boxxer-2022-09-10",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#ShieldsMarshall",
+      "#Legacy",
+      "@boxxer"
+    ],
+    "mainCard": {
+      "title": "Shields vs. Marshall",
+      "time": "2022-10-15T18:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/shields-vs-marshall/2pbwm/"
+        }
+      },
+      "fite": {
+        "id": "2pbwm",
+        "time": "2022-09-10T18:30:00Z",
+        "title": "Boxxer: Claressa Shields vs Savannah Marshall",
+        "url": "https://www.fite.tv/watch/shields-vs-marshall/2pbwm/",
+        "price": "$9.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 90500,
+      "time": "2022-10-15T20:00:00Z",
+      "title": "Shields vs. Marshall: Legacy",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/90500-shields-vs-marshall",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Claressa Shields (12-0-0) vs. Savannah Marshall (12-0-0)",
+        "Co-Main Event: Mikaela Mayer (17-0-0) vs. Alycia Baumgardner (12-1-0)",
+        "Main Card: Lauren Price (0-0-0) vs. Timea Belik (0-0-0)",
+        "Main Card: Karriss Artingstall (0-0-0) vs. Marina Sakharov (5-16-2)",
+        "Main Card: Caroline Dubois (0-0-0) vs. Milena Koleva (10-14-1)",
+        "Main Card: Ginny Fuchs (0-0-0) vs. Gemma Ruegg (0-0-0)",
+        "Main Card: Ebonie Jones (0-0-0) vs. Vanesa Caballero (4-15-3)",
+        "Main Card: April Hunter (5-1-0) vs. Erica Alvarez (2-6-0)",
+        "Main Card: Shannon Ryan (0-0-0) vs. Buchra El Quaissi (2-2-3)",
+        "Main Card: Sarah Liegmann (0-0-0) vs. Bec Connolly (3-15-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/859107"
       ]
     }
   }
