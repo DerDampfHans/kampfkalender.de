@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220909T120731Z
-X-KAMPFKALENDER-HASH:39cda4c5a0c3d5fb7a594c03bc234d3c508cf974
+DTSTAMP:20220909T134743Z
+X-KAMPFKALENDER-HASH:c5161f668206faef4bc838b1bef5b03e42ad0207
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T134744Z
 UID:2022-09-invictus-fight-night-7-all-or-nothing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invictus Fight Night 7: All or Nothing
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-7-
  victus-fightnight-all-or-nothing/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T134744Z
 UID:2022-09-wagner-vs-perez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wagner vs. Perez
@@ -36,7 +36,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T134744Z
 UID:2022-09-prize-fighting-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prize Fighting: Fight Night
@@ -47,7 +47,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-boennsche
  n-bimmel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T134744Z
 UID:2022-09-senshi-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 13
@@ -57,28 +57,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-13/2pbuf/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
-UID:2022-09-shields-vs-marshall@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Shields vs. Marshall
-DTSTART:20220910T183000Z
-DTEND:20220910T213000Z
-CATEGORIES:Other,Boxen,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
- bwm/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/90500-shields
- -vs-marshall\nhttp://www.boxrec.com/en/event/859107\n\n---\n\nMain Event
- : Claressa Shields (12-0-0) vs. Savannah Marshall (12-0-0)\nCo-Main Even
- t: Mikaela Mayer (17-0-0) vs. Alycia Baumgardner (12-1-0)\nMain Card: La
- uren Price (0-0-0) vs. Timea Belik (0-0-0)\nMain Card: Karriss Artingsta
- ll (0-0-0) vs. Marina Sakharov (5-16-2)\nMain Card: Caroline Dubois (0-0
- -0) vs. Milena Koleva (10-14-1)\nMain Card: Ginny Fuchs (0-0-0) vs. Gemm
- a Ruegg (0-0-0)\nMain Card: Ebonie Jones (0-0-0) vs. Vanesa Caballero (4
- -15-3)\nMain Card: April Hunter (5-1-0) vs. Erica Alvarez (2-6-0)\nMain 
- Card: Shannon Ryan (0-0-0) vs. Buchra El Quaissi (2-2-3)\nMain Card: Sar
- ah Liegmann (0-0-0) vs. Bec Connolly (3-15-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T134744Z
 UID:2022-09-singh-vs-vrenozi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Singh vs. Vrenozi
@@ -95,7 +74,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T134744Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
@@ -107,5 +86,26 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  -rizin\n\n---\n\nMain Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru As
  akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak\nMain Card: Kota
   Miura (1-0-0) vs. Bunchuai Phonsungnoen (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220909T134744Z
+UID:2022-10-shields-vs-marshall@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shields vs. Marshall
+DTSTART:20221015T183000Z
+DTEND:20221015T213000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
+ bwm/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/90500-shields
+ -vs-marshall\nhttp://www.boxrec.com/en/event/859107\n\n---\n\nMain Event
+ : Claressa Shields (12-0-0) vs. Savannah Marshall (12-0-0)\nCo-Main Even
+ t: Mikaela Mayer (17-0-0) vs. Alycia Baumgardner (12-1-0)\nMain Card: La
+ uren Price (0-0-0) vs. Timea Belik (0-0-0)\nMain Card: Karriss Artingsta
+ ll (0-0-0) vs. Marina Sakharov (5-16-2)\nMain Card: Caroline Dubois (0-0
+ -0) vs. Milena Koleva (10-14-1)\nMain Card: Ginny Fuchs (0-0-0) vs. Gemm
+ a Ruegg (0-0-0)\nMain Card: Ebonie Jones (0-0-0) vs. Vanesa Caballero (4
+ -15-3)\nMain Card: April Hunter (5-1-0) vs. Erica Alvarez (2-6-0)\nMain 
+ Card: Shannon Ryan (0-0-0) vs. Buchra El Quaissi (2-2-3)\nMain Card: Sar
+ ah Liegmann (0-0-0) vs. Bec Connolly (3-15-0)
 END:VEVENT
 END:VCALENDAR
