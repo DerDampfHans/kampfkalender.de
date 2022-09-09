@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220909T120731Z
-X-KAMPFKALENDER-HASH:1b9f4527c7360094e093c246b17dc388f2f17d01
+DTSTAMP:20220909T231200Z
+X-KAMPFKALENDER-HASH:ed2aa341a541afd35c1d40b6888d6f3280ed0ed6
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-09-ufc-paris-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Paris: Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-09-ufc-paris-gane-vs-tuivasa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Paris: Gane vs. Tuivasa
@@ -63,7 +63,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-09-ufc-279-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Early Prelims
@@ -76,9 +76,9 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ents.mixedmartialarts.com/ufc-279:243915ee-e7b6-43c1-aa08-135588a7d6aa\n
  https://www.ufc.com/event/ufc-279\nhttp://www.ufcstats.com/event-details
  /93bf96be327fcd98\nhttps://www.bestfightodds.com/events/ufc-279-2541\n\n
- ---\n\nMain Event: Khamzat Chimaev (11-0-0) vs. Nate Diaz (20-13-0)\nCo-
- Main Event: Jingliang Li (19-7-0) vs. Tony Ferguson (25-7-0)\nMain Card:
-  Kevin Holland (23-7-0) vs. Daniel Rodriguez (16-2-0)\nMain Card: Irene 
+ ---\n\nMain Event: Nate Diaz (20-13-0) vs. Tony Ferguson (25-7-0)\nCo-Ma
+ in Event: Khamzat Chimaev (11-0-0) vs. Kevin Holland (23-7-0)\nMain Card
+ : Jingliang Li (19-7-0) vs. Daniel Rodriguez (16-2-0)\nMain Card: Irene 
  Aldana (13-6-0) vs. Macy Chiasson (8-2-0)\nMain Card: Johnny Walker (18-
  7-0) vs. Ion Cutelaba (16-7-1)\nPrelim: Hakeem Dawodu (13-2-1) vs. Julia
  n Erosa (27-9-0)\nPrelim: Jailton Almeida (16-2-0) vs. Anton Turkalj (8-
@@ -89,7 +89,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (7-0-0)\nPrelim: Darian Weeks (5-2-0) vs. Yohan Lainesse (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-09-ufc-279-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 279: Prelims
@@ -102,9 +102,9 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ents.mixedmartialarts.com/ufc-279:243915ee-e7b6-43c1-aa08-135588a7d6aa\n
  https://www.ufc.com/event/ufc-279\nhttp://www.ufcstats.com/event-details
  /93bf96be327fcd98\nhttps://www.bestfightodds.com/events/ufc-279-2541\n\n
- ---\n\nMain Event: Khamzat Chimaev (11-0-0) vs. Nate Diaz (20-13-0)\nCo-
- Main Event: Jingliang Li (19-7-0) vs. Tony Ferguson (25-7-0)\nMain Card:
-  Kevin Holland (23-7-0) vs. Daniel Rodriguez (16-2-0)\nMain Card: Irene 
+ ---\n\nMain Event: Nate Diaz (20-13-0) vs. Tony Ferguson (25-7-0)\nCo-Ma
+ in Event: Khamzat Chimaev (11-0-0) vs. Kevin Holland (23-7-0)\nMain Card
+ : Jingliang Li (19-7-0) vs. Daniel Rodriguez (16-2-0)\nMain Card: Irene 
  Aldana (13-6-0) vs. Macy Chiasson (8-2-0)\nMain Card: Johnny Walker (18-
  7-0) vs. Ion Cutelaba (16-7-1)\nPrelim: Hakeem Dawodu (13-2-1) vs. Julia
  n Erosa (27-9-0)\nPrelim: Jailton Almeida (16-2-0) vs. Anton Turkalj (8-
@@ -115,10 +115,10 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (7-0-0)\nPrelim: Darian Weeks (5-2-0) vs. Yohan Lainesse (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
-UID:2022-09-ufc-279-chimaev-vs-diaz@kampfkalender.de
+DTSTAMP:20220909T231201Z
+UID:2022-09-ufc-279-diaz-vs-ferguson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC 279: Chimaev vs. Diaz
+SUMMARY:UFC 279: Diaz vs. Ferguson
 DTSTART:20220911T020000Z
 DTEND:20220911T050000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
@@ -128,9 +128,9 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  https://events.mixedmartialarts.com/ufc-279:243915ee-e7b6-43c1-aa08-1355
  88a7d6aa\nhttps://www.ufc.com/event/ufc-279\nhttp://www.ufcstats.com/eve
  nt-details/93bf96be327fcd98\nhttps://www.bestfightodds.com/events/ufc-27
- 9-2541\n\n---\n\nMain Event: Khamzat Chimaev (11-0-0) vs. Nate Diaz (20-
- 13-0)\nCo-Main Event: Jingliang Li (19-7-0) vs. Tony Ferguson (25-7-0)\n
- Main Card: Kevin Holland (23-7-0) vs. Daniel Rodriguez (16-2-0)\nMain Ca
+ 9-2541\n\n---\n\nMain Event: Nate Diaz (20-13-0) vs. Tony Ferguson (25-7
+ -0)\nCo-Main Event: Khamzat Chimaev (11-0-0) vs. Kevin Holland (23-7-0)\
+ nMain Card: Jingliang Li (19-7-0) vs. Daniel Rodriguez (16-2-0)\nMain Ca
  rd: Irene Aldana (13-6-0) vs. Macy Chiasson (8-2-0)\nMain Card: Johnny W
  alker (18-7-0) vs. Ion Cutelaba (16-7-1)\nPrelim: Hakeem Dawodu (13-2-1)
   vs. Julian Erosa (27-9-0)\nPrelim: Jailton Almeida (16-2-0) vs. Anton T
@@ -142,7 +142,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-09-ufc-fight-night-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Prelims
@@ -165,7 +165,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Denise Gomes (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-09-ufc-fight-night-sandhagen-vs-song@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Sandhagen vs. Song
@@ -188,7 +188,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ee (6-3-0) vs. Denise Gomes (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-10-ufc-fight-night-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Prelims
@@ -211,7 +211,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  4-6-0) vs. Tabatha Ricci (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-10-ufc-fight-night-dern-vs-yan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Dern vs. Yan
@@ -234,7 +234,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  a Penne (14-6-0) vs. Tabatha Ricci (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-10-ufc-fight-night-grasso-vs-araujo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Grasso vs. Araujo
@@ -255,7 +255,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-10-ufc-280-oliveira-vs-makhachev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 280: Oliveira vs. Makhachev
@@ -279,7 +279,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  tafaev (14-4-0) vs. Jamie Mullarkey (15-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-10-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -300,7 +300,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-11-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -318,7 +318,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -4-0) vs. Shanna Young (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-11-ufc-281@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281
@@ -340,7 +340,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-11-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -358,7 +358,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0-2-0) vs. Brady Hiestand (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-12-ufc-fight-night-brunson-vs-hermansson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Brunson vs. Hermansson
@@ -378,7 +378,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-12-ufc-282@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282
@@ -393,7 +393,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  exander Hernandez (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2022-12-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -408,7 +408,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  m: Bruno Silva (22-8-0) vs. Albert Duraev (15-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T231201Z
 UID:2023-01-ufc-283@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 283
