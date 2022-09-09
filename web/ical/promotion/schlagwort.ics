@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220909T120731Z
-X-KAMPFKALENDER-HASH:2426c14e88cec008af282360cf7309da729ef0e7
+DTSTAMP:20220909T132819Z
+X-KAMPFKALENDER-HASH:6b2e4a06cc6ad139c37f1b780346270278eab881
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T132820Z
 UID:2022-09-ufc-paris-watch-together@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Paris: Watch Together
@@ -17,7 +17,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=paszEZ5kU3s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T132820Z
 UID:2022-09-schlagwort-podcast-179@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 179
@@ -27,13 +27,13 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=hSyimEfhX-A
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220909T132820Z
 UID:2022-09-schlagwort-podcast-180@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 180
 DTSTART:20220911T160000Z
 DTEND:20220911T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=RMBIvSgkT24
 END:VEVENT
 END:VCALENDAR
