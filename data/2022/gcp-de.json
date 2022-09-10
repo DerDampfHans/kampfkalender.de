@@ -89,5 +89,79 @@
         "National"
       ]
     }
+  },
+  {
+    "id": "tapology-91291",
+    "promotion": "GCP_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#GCP6"
+    ],
+    "mainCard": {
+      "title": "GCP6",
+      "time": "2022-09-10T16:00:00Z",
+      "until": "2022-09-10T21:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gcp-6-515",
+          "freeAfter": 48
+        }
+      }
+    },
+    "tapology": {
+      "id": 91291,
+      "time": "2022-09-10T16:00:00Z",
+      "title": "GCP 6",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/91291-gcp6",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: T. Paulino Do Santos (4-3-0) vs. Nicolas Ighodaro (2-2-0)",
+        "Co-Main Event: Mehdi Matajev (1-1-0) vs. Quincy Dwamena (2-2-0)",
+        "Main Card: Danilo Sorriso (2-5-0) vs. Tony Sipos (1-1-0)",
+        "Main Card: Abubakr Abdulhalakov (0-1-0) vs. Ali Isajew (0-1-0)",
+        "Main Card: Kurkaev Viskhan (0-0-0) vs. Mohammed Yaser (0-0-0)",
+        "Main Card: Wladimir Holodenko (4-1-1) vs. Sergej Hauzel (0-0-0)",
+        "Main Card: Said Saidi (2-1-0) vs. Timur Labazanov (0-3-0)",
+        "Prelim: Ognan Vasiljevic (0-1-0) vs. Enes Temiz (0-0-0)",
+        "Prelim: Denis Calinoiu (0-2-0) vs. Deron Boateng (0-1-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/gcp-6-german-cage-pioneer-6-94558"
+      ]
+    },
+    "fightEvents": {
+      "id": "german-cage-pioneer-6",
+      "time": "2022-09-10T16:00:00Z",
+      "until": "2022-09-10T21:00:00Z",
+      "title": "German Cage Pioneer 6",
+      "url": "https://www.fightevents.de/event/german-cage-pioneer-6/",
+      "broadcaster": "FIGHT24_TV",
+      "broadcasterUrl": "https://www.fight24.tv/fightpasses/fight24-gcp-6-515",
+      "tags": [
+        "Abubakr Abdulhalakov",
+        "Adrian Zeitner",
+        "Enes Temiz",
+        "German Cage Pioneer",
+        "German Cage Pioneer 6",
+        "Lampertheim",
+        "MMA",
+        "Musa Jangubaev",
+        "Nicolas Ighodaro",
+        "Ognjen Vasiljevic",
+        "Tresor Dos Santos",
+        "Walid Hounka"
+      ],
+      "categories": [
+        "Fight24.tv",
+        "International",
+        "Livestream",
+        "MMA"
+      ]
+    }
   }
 ]
