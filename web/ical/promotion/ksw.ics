@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220909T120731Z
-X-KAMPFKALENDER-HASH:16b39074e417b6fde539097b1ac57317ffc3ef4e
+DTSTAMP:20220911T202208Z
+X-KAMPFKALENDER-HASH:d01a2d30229dcccc3ec87760665e3ef5ceeea0b3
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220911T202208Z
 UID:2022-09-ksw-74-de-fries-vs-prasel@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 74: De Fries vs. Prasel
@@ -27,5 +27,41 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  sz Romanowski (16-8-0)\nPrelim: Arkadiusz Mruk (0-0-0) vs. Borys Dzikows
  ki (1-0-0)\nPrelim: Eduard Demenko (3-2-0) vs. Wojciech Kazieczko (2-0-0
  )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220911T202208Z
+UID:2022-10-ksw-75-chuzhigaev-vs-erslan@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 75: Chuzhigaev vs. Erslan
+DTSTART:20221014T140000Z
+DTEND:20221014T170000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/92897-ksw-75\n\n---\n\nMain Event: Ibragim Chuzhigaev (16-5-0) vs
+ . Ivan Erslan (12-1-0)\nMain Card: Robert Ruchała (7-0-0) vs. Damian Sta
+ siak (13-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220911T202208Z
+UID:2022-11-ksw-76-zio-kowski-vs-parnasse@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 76: Ziółkowski vs. Parnasse
+DTSTART:20221112T150000Z
+DTEND:20221112T180000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/92898-ksw-76\n\n---\n\nMain Event: Marian Ziółkowski (25-8-1) vs.
+  Salahdine Parnasse (16-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220911T202208Z
+UID:2022-12-ksw-77@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 77
+DTSTART:20221217T150000Z
+DTEND:20221217T180000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/92899-ksw-77
 END:VEVENT
 END:VCALENDAR
