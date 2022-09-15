@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220911T202208Z
-X-KAMPFKALENDER-HASH:744fc8edf2de20a2b52d410b783100ef2e9de2fb
+DTSTAMP:20220915T180134Z
+X-KAMPFKALENDER-HASH:9d011a1236a399b95c5d251d451f321d2155f9c2
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-senshi-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 13
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-13/2pbuf/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -35,7 +35,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  ard: Sevak Miroyan (4-0-0) vs. Gyorgy Mizsei Jr. (26-33-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-bkfc-29-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 29: Prelims
@@ -55,25 +55,28 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-montana-2-prel
  a vs. Jenny Clausius\nPrelim: Dakota Highpine vs. Koda Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2022-09-we-love-mma-59@kampfkalender.de
+DTSTAMP:20220915T180134Z
+UID:2022-09-super-league-mma-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 59
-DTSTART:20220917T170000Z
-DTEND:20220917T200000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-61
- -2/\nhttps://www.tapology.com/fightcenter/events/91153-we-love-mma-59\n\
- n---\n\nMain Event: Leo Lauber (5-0-0) vs. Alexander Djukic (5-3-0)\nCo-
- Main Event: Dilara Kocak (1-1-0) vs. Danielle Misteli (0-2-0)\nMain Card
- : Andris Galaida (4-4-0) vs. Deyan Galinov (1-0-0)\nMain Card: Islam Dja
- brailov (7-4-0) vs. Oemer Cankardesler (12-12-2)\nMain Card: Nicolas Dju
- rdjević (3-3-0) vs. Georg Bilogrevic (2-2-0)\nMain Card: Hamed Gelitsch 
- (2-4-1) vs. Danial Aghaie (1-0-0)\nMain Card: Nikodem Miastkowski (4-0-0
- ) vs. Raul Lemberanskij (3-1-1)
+SUMMARY:Super League MMA 4: Prelims
+DTSTART:20220917T160000Z
+DTEND:20220917T180000Z
+CATEGORIES:SLMMA,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=bpSQPF8Scvg\
+ n\n---\n\nhttps://www.fightevents.de/event/super-league-mma-4/\nhttps://
+ www.tapology.com/fightcenter/events/90451-super-league-mma-4\nhttp://www
+ .sherdog.com/events/slm-4-super-league-mma-94586\n\n---\n\nMain Event: B
+ akhtiyar Abdulaev (9-1-0) vs. Can Aslaner (8-2-0)\nCo-Main Event: Mert Ö
+ zyildirim (10-3-0) vs. Karomatullo Sufiev (6-1-0)\nMain Card: Wisam Mamo
+ ka (5-1-0) vs. Lascha Abramishvili (2-1-1)\nMain Card: Steven Drammis (0
+ -1-0) vs. Parwez Sahar (1-0-0)\nMain Card: Vladimir Zvekanov (0-1-0) vs.
+  Martin Nussmann (0-0-0)\nMain Card: Eduard Demenko (3-3-0) vs. Shtegu V
+ rajolli (6-2-0)\nMain Card: Ermil Xhaferi (3-0-1) vs. Jordan Beljic (4-4
+ -0)\nPrelim: Enes Ucar (1-0-0) vs. Yousif Alnisani (1-0-0)\nPrelim: Buck
+ minster Jensen (0-0-0) vs. Yigit Demir (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -83,7 +86,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-invicta-fc-49-delboni-vs-decoursey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 49: Delboni vs. DeCoursey
@@ -92,15 +95,15 @@ DTEND:20220929T030000Z
 CATEGORIES:Invicta,MMA,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/92412-invicta-fc-49-delboni-vs-decoursey\n\n---\n\nMain Event: Jéss
- ica Delboni (12-3-0) vs. Jillian DeCoursey (5-3-0)\nCo-Main Event: Krist
- ina Williams (6-3-0) vs. Ketlen Souza (11-3-0)\nMain Card: Nadia Vera (3
- -0-1) vs. Shauna Bannon (2-0-0)\nMain Card: Brittney Cloudy (4-4-0) vs. 
- Montserrat Rendon (4-0-0)\nMain Card: Helen Peralta (5-2-0) vs. Poliana 
- Botelho (8-5-0)\nMain Card: Liz Tracy (7-4-0) vs. Valesca Machado (9-3-0
- )\nMain Card: Kaytlin Neil (5-4-0) vs. Hannah Guy (4-1-0)
+ ica Delboni (12-3-0) vs. Jillian DeCoursey (5-3-0)\nCo-Main Event: Maiju
+  Suotama (8-6-0) vs. Ketlen Souza (11-3-0)\nMain Card: Liz Tracy (7-4-0)
+  vs. Valesca Machado (9-3-0)\nMain Card: Kaytlin Neil (5-4-0) vs. Hannah
+  Guy (4-1-0)\nMain Card: Helen Peralta (5-2-0) vs. Poliana Botelho (8-5-
+ 0)\nMain Card: Brittney Cloudy (4-4-0) vs. Montserrat Rendon (4-0-0)\nMa
+ in Card: Nadia Vera (3-0-1) vs. Shauna Bannon (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-one-161-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Bhullar vs. Malykhin
@@ -113,10 +116,14 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ente\nMain Card: Iraj Azizpour vs. Bruno Chaves\nMain Card: Lipeng Zhang
   (33-11-2) vs. Saygid Izagakhmaev (20-2-0)\nMain Card: Ritu Phogat (7-2-
  0) vs. Tiffany Teo (10-2-0)\nMain Card: Yuya Wakamatsu (15-5-0) vs. Shuo
-  Wang (15-6-0)
+  Wang (15-6-0)\nPrelim: Capitan Petchyindee vs. Alaverdi Ramazanov\nPrel
+ im: ChengLong Zhang vs. Sangmanee Sor Kafae\nPrelim: Oumar Kane (3-1-0) 
+ vs. Batradz Gazzaev (3-0-0)\nPrelim: Han Zi Hao vs. Ferrari Fairtex\nPre
+ lim: Rodrigo Marello vs. Ruslan Bagdasarian\nPrelim: Matheus Felipe (0-0
+ -0) vs. Ali Foladi (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-10-one-on-prime-video-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 2
@@ -134,7 +141,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Daokongfah\nPrelim: Rade Opačić vs. Giannis Stoforidis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-10-bkfc-30-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 30: Prelims
@@ -145,23 +152,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-30-monroe-prelims
  /2pbwj/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92568-bkfc
  -30-hunt-vs-henry\n\n---\n\nMain Event: Lorenzo Hunt vs. Quentin Henry\n
  Co-Main Event: Bobo O'Bannon vs. Ben Rothwell\nMain Card: Zachary Calmus
-  vs. Juan Torres
+  vs. Juan Torres\nMain Card: Brandon Shavers vs. Aaron Sutterfield\nMain
+  Card: Dennis LaBruzza vs. Duke Sensley\nMain Card: Tony Jenkins vs. Rav
+ on Baxter\nMain Card: Harris Stephenson vs. Kaleb Harris\nPrelim: Blake 
+ LaCaze vs. Noah Cutter\nPrelim: David Bosnick vs. Loren Thibodeaux
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2022-10-we-love-mma-60@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 60
-DTSTART:20221008T170000Z
-DTEND:20221008T200000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-62
- /\nhttps://www.tapology.com/fightcenter/events/92025-we-love-mma-60\n\n-
- --\n\nMain Card: David Depannemaecker (4-10-0) vs. Mario Wittmann (10-10
- -0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-10-one-on-prime-video-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3
@@ -174,29 +171,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Fabricio de Andrade (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2022-10-we-love-mma-61@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 61
-DTSTART:20221029T170000Z
-DTEND:20221029T200000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-56
- /
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2022-11-we-love-mma-62@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 62
-DTSTART:20221105T180000Z
-DTEND:20221105T210000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-57
- /
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-11-one-on-prime-video-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4
@@ -207,18 +182,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91425-one-on-prime-video-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2022-11-we-love-mma-63@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 63
-DTSTART:20221119T180000Z
-DTEND:20221119T210000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-58
- /
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -229,7 +193,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91426-one-on-prime-video-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -242,7 +206,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -255,18 +219,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
   Walid (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2023-02-we-love-mma-64@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 64
-DTSTART:20230211T180000Z
-DTEND:20230211T210000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
- -2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -275,27 +228,5 @@ DTEND:20230218T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/90362-nfc-12
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2023-03-we-love-mma-65@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 65
-DTSTART:20230304T180000Z
-DTEND:20230304T210000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-64
- /
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
-UID:2023-05-we-love-mma-66@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:We Love MMA 66
-DTSTART:20230506T170000Z
-DTEND:20230506T200000Z
-CATEGORIES:WLMMA,MMA,Bild TV,live,kostenlos
-DESCRIPTION:via Bild TV\n\n---\n\nhttps://www.welovemma.de/we-love-mma-66
- /
 END:VEVENT
 END:VCALENDAR

@@ -61,7 +61,13 @@
       "card": [
         "Main Event: Lorenzo Hunt vs. Quentin Henry",
         "Co-Main Event: Bobo O'Bannon vs. Ben Rothwell",
-        "Main Card: Zachary Calmus vs. Juan Torres"
+        "Main Card: Zachary Calmus vs. Juan Torres",
+        "Main Card: Brandon Shavers vs. Aaron Sutterfield",
+        "Main Card: Dennis LaBruzza vs. Duke Sensley",
+        "Main Card: Tony Jenkins vs. Ravon Baxter",
+        "Main Card: Harris Stephenson vs. Kaleb Harris",
+        "Prelim: Blake LaCaze vs. Noah Cutter",
+        "Prelim: David Bosnick vs. Loren Thibodeaux"
       ]
     }
   },
@@ -71,8 +77,11 @@
     "sports": [
       "BARE_KNUCKLE"
     ],
+    "tags": [
+      "#BKFC31"
+    ],
     "mainCard": {
-      "title": "BKFC 31: VanZant vs. Sigala",
+      "title": "BKFC 31: Richman vs. Doolittle",
       "time": "2022-10-16T00:00:00Z",
       "broadcasters": {
         "FITE_TV": {
@@ -82,11 +91,39 @@
     "tapology": {
       "id": 92218,
       "time": "2022-10-16T00:00:00Z",
-      "title": "BKFC 31: VanZant vs. Sigala",
+      "title": "BKFC 31: Richman vs. Doolittle",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/92218-bkfc-31-vanzant-vs-sigala",
       "card": [
-        "Main Event: Paige VanZant vs. Charisa Sigala"
+        "Main Event: Mike Richman vs. Isaac Doolittle"
+      ]
+    }
+  },
+  {
+    "id": "tapology-92999",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFCNewcastle"
+    ],
+    "mainCard": {
+      "title": "BKFC Newcastle: Terrill vs. Banks",
+      "time": "2022-11-26T17:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 92999,
+      "time": "2022-11-26T17:00:00Z",
+      "title": "BKFC Fight Night: Newcastle",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/92999-bkfc-fight-night-newcastle",
+      "card": [
+        "Main Event: Mick Terrill vs. Steven Banks"
       ]
     }
   }

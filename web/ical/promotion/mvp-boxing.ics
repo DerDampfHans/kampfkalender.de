@@ -4,18 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220911T202208Z
-X-KAMPFKALENDER-HASH:3bf4f3e5f19473a7c20e59173a5e70b031a583e2
+DTSTAMP:20220915T180134Z
+X-KAMPFKALENDER-HASH:1e1d43d3bc946b5e0180f0b64eeac7506c346559
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-10-paul-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva
-DTSTART:20221030T010000Z
-DTEND:20221030T040000Z
-CATEGORIES:MVP,Boxen,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/92580-paul-vs-sil
- va\nhttp://www.boxrec.com/en/event/861928\n\n---\n\nMain Event: Jake Pau
- l (5-0-0) vs. Anderson Silva (3-1-0)
+DTSTART:20221030T020000Z
+DTEND:20221030T050000Z
+CATEGORIES:MVP,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva/2pbx1/\n
+ \n---\n\nhttps://www.tapology.com/fightcenter/events/92580-paul-vs-silva
+ \nhttp://www.boxrec.com/en/event/861928\n\n---\n\nMain Event: Jake Paul 
+ (5-0-0) vs. Anderson Silva (3-1-0)
 END:VEVENT
 END:VCALENDAR

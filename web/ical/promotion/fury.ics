@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220909T120731Z
-X-KAMPFKALENDER-HASH:6658c234a8ec803f4c624ce3c55649d5dab74efe
+DTSTAMP:20220915T180134Z
+X-KAMPFKALENDER-HASH:3253b4e798311b4bf2f9c7f74009af8ffcc642f9
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-fury-fc-69-jones-vs-cutts@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 69: Jones vs. Cutts
@@ -30,11 +30,11 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  evon Jackson (2-0-0) vs. George Martinez (5-2-0)\nMain Card: Justin McCo
  rmack (0-0-0) vs. Taylor Hickman (2-1-0)\nMain Card: Gabriel Calvario (0
  -0-0) vs. Isaiah Diggs (1-0-0)\nMain Card: Siron Harrison (0-1-0) vs. Ar
- yion Young (2-1-0)\nMain Card: Jesus Martinez (0-6-0) vs. Oscar Herrera 
+ yion Young (3-1-0)\nMain Card: Jesus Martinez (0-6-0) vs. Oscar Herrera 
  (3-1-0)\nMain Card: Melvin Lopez (1-1-0) vs. Isiah Torres (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
+DTSTAMP:20220915T180134Z
 UID:2022-10-fury-fc-70@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 70
@@ -48,14 +48,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  lin (3-0-0)\nMain Card: Isaac Moreno (4-0-0) vs. Tommie Britton (5-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120731Z
-UID:2022-10-fury-fc-71@kampfkalender.de
+DTSTAMP:20220915T180134Z
+UID:2022-11-fury-fc-71@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 71
-DTSTART:20221030T200000Z
-DTEND:20221030T230000Z
+DTSTART:20221106T210000Z
+DTEND:20221107T000000Z
 CATEGORIES:FFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/91561-fury-fc-71
+ nter/events/91561-fury-fc-71\n\n---\n\nMain Event: Nate Richardson (9-4-
+ 0) vs. Andrés Quintana (19-4-0)\nCo-Main Event: Jake Heffernan (9-3-0) v
+ s. Jesse Butler (11-4-0)\nMain Card: Michael Murphy (7-4-1) vs. Armus Gu
+ yton (7-3-0)
 END:VEVENT
 END:VCALENDAR

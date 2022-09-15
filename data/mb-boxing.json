@@ -12,6 +12,11 @@
     "mainCard": {
       "title": "Canelo vs. GGG 3",
       "time": "2022-09-18T02:30:00Z",
+      "tags": [
+        "🎙@ulihebel",
+        "🎙@AsboxingSelak",
+        "🎙@RHalmichORG"
+      ],
       "broadcasters": {
         "DAZN": {
         }
@@ -21,7 +26,8 @@
         "time": "2022-09-18T02:30:00Z",
         "title": "Hauptkampf mit Vorberichten & Analysen",
         "sport": "BOXING",
-        "competition": "Canelo vs GGG 3"
+        "competition": "Canelo vs GGG 3",
+        "description": "Die Box-Saga geht weiter! In der T-Mobile-Arena in Las Vegas steigt die dritte Auflage des Duells zwischen Canelo Alvarez und Gennadi Golovkin. Insgesamt kämpfen die beiden Boxer um vier Titel: WBC, WBO, IBF und WBA (Super). // Kommentator: Uli Hebel / ExpertInnen: Regina Halmich und Andreas Selak"
       }
     },
     "prelims": {
@@ -51,7 +57,7 @@
       ],
       "card": [
         "Main Event: Canelo Álvarez (57-2-2) vs. Gennadiy Golovkin (42-1-1)",
-        "Main Card: Jesse Rodriguez (16-0-0) vs. Israel Gonzalez (28-4-1)",
+        "Co-Main Event: Jesse Rodriguez (16-0-0) vs. Israel Gonzalez (28-4-1)",
         "Main Card: Austin Williams (11-0-0) vs. Kieron Conway (18-2-1)",
         "Main Card: Diego Pacheco (15-0-0) vs. Enrique Collazo (16-2-1)",
         "Main Card: Marc Castro (7-0-0) vs. Kevin Montiel Mendoza (7-1-2)",
@@ -71,10 +77,10 @@
       "BOXING"
     ],
     "tags": [
-      "#WoodLara"
+      "#HughesGalahad"
     ],
     "mainCard": {
-      "title": "Wood vs. Lara",
+      "title": "Hughes vs. Galahad",
       "time": "2022-09-24T18:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -85,22 +91,26 @@
         "time": "2022-09-24T18:00:00Z",
         "title": "Vorkämpfe & Hauptkampf",
         "sport": "BOXING",
-        "competition": "Wood vs Lara"
+        "competition": "Hughes vs Galahad"
       }
     },
     "tapology": {
       "id": 92389,
       "time": "2022-09-24T20:00:00Z",
-      "title": "Wood vs. Lara",
+      "title": "Hughes vs. Galahad",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/92389-wood-vs-lara",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Leigh Wood (26-2-0) vs. Mauricio Lara (23-2-1)",
+        "Main Event: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)",
         "Co-Main Event: Hannah Rankin (12-5-0) vs. Terri Harper (12-1-1)",
-        "Main Card: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)"
+        "Main Card: Solomon Dacres (4-0-0) vs. Dominic Akinlade (9-3-1)",
+        "Prelim: Cheavon Clarke (0-0-0) vs. M. Karalitzky (7-5-2)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/861379"
       ]
     }
   },
@@ -131,7 +141,7 @@
         "Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)",
         "Main Card: Skye Nicolson (0-0-0) vs. Krystina Jacobs (6-3-0)",
         "Main Card: Demsey McKean (21-0-0) vs. Patrick Korte (17-1-1)",
-        "Main Card: Abdoul Mayweather (6-0-0) vs. Mateo Tapia (14-0-0)"
+        "Main Card: Abdoul Mayweather (7-0-0) vs. Mateo Tapia (14-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/860928"
@@ -255,6 +265,9 @@
       ],
       "card": [
         "Main Event: Montana Love (18-0-1) vs. Steve Spark (15-2-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/861495"
       ]
     }
   },

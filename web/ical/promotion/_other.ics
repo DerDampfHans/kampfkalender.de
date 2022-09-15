@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220911T202208Z
-X-KAMPFKALENDER-HASH:198c2d53bb991cddc71b414c23690a3b3ee2652e
+DTSTAMP:20220915T180134Z
+X-KAMPFKALENDER-HASH:786845c0d1a7328b0676956164e93f52d162d4cd
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-wagner-vs-perez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wagner vs. Perez
@@ -24,7 +24,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-prize-fighting-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prize Fighting: Fight Night
@@ -35,7 +35,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220910-boennsche
  n-bimmel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-senshi-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 13
@@ -45,7 +45,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-13/2pbuf/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
 UID:2022-09-singh-vs-vrenozi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Singh vs. Vrenozi
@@ -62,7 +62,59 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  . Drake Olchowecki
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
+UID:2022-09-isufi-vs-ford@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Isufi vs. Ford
+DTSTART:20220916T151500Z
+DTEND:20220916T181500Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pe
+ tkos-beat-box-519\n\n---\n\nhttps://www.petkos.de/\nhttps://www.tapology
+ .com/fightcenter/events/92295-isufi-vs-ford\nhttp://www.boxrec.com/en/ev
+ ent/861907\n\n---\n\nMain Event: Shefat Isufi (35-4-2) vs. Ryan Ford (17
+ -7-0)\nMain Card: Leon Harth (20-5-0) vs. Brandon Deslaurier (14-4-1)\nM
+ ain Card: Veljko Raznatovic (12-0-0) vs. Gusmyr Perdomo (27-13-0)\nMain 
+ Card: Edin Avdic (0-0-0) vs. Lado Gabisonia (4-4-1)\nMain Card: Menal To
+ pcu (0-0-0) vs. Anto Nakic (1-24-0)\nMain Card: Kurosh Nikgan (8-0-0) vs
+ . Nikoloz Berkatsashvili (26-37-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220915T180134Z
+UID:2022-09-bodensee-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bodensee Fight Night
+DTSTART:20220917T160000Z
+DTEND:20220917T190000Z
+CATEGORIES:Other,Kickboxen,Muay Thai,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ densee-fight-night-518
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220915T180134Z
+UID:2022-09-fight-night-nurtingen-2022@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fight Night Nürtingen 2022
+DTSTART:20220917T160000Z
+DTEND:20220917T190000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-nu
+ rtingen-fight-night-516\n\n---\n\nhttps://ka-fightnight.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220915T180134Z
+UID:2022-09-benefiz-fight-night-3-0@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Benefiz Fight Night 3.0
+DTSTART:20220917T170000Z
+DTEND:20220917T200000Z
+CATEGORIES:Other,MMA,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-be
+ nefiz-fight-night-30-517\n\n---\n\nhttps://www.casinofightseries.li/even
+ t-details/benefiz-fight-night-3-0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220915T180134Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
@@ -73,10 +125,31 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  2pbuk/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92610-super
  -rizin\n\n---\n\nMain Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru As
  akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak\nMain Card: Kota
-  Miura (1-0-0) vs. Bunchuai Phonsungnoen (0-0-0)
+  Miura (1-0-0) vs. Bunchuai Phonsungnoen (0-0-0)\nMain Card: Koji Tanaka
+  vs. Ray Sadeghi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220915T180134Z
+UID:2022-09-cyborg-vs-silva@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cyborg vs. Silva
+DTSTART:20220925T170000Z
+DTEND:20220925T200000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/fms-2-cyborg-vs-silva/
+ 2pbx0/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92058-fight
+ -music-show-2\n\n---\n\nMain Event: Cris Cyborg (0-0-0) vs. Simone da Si
+ lva (17-22-0)\nCo-Main Event: Acelino Freitas (0-0-0) vs. Jose Landi-Jon
+ s (0-0-0)\nMain Card: Milton Vieira (0-0-0) vs. Felipe Arantes (0-0-0)\n
+ Main Card: William Macário (11-6-0) vs. Luan Santiago (17-7-0)\nMain Car
+ d: John Allan (13-7-0) vs. Diego Dias (14-5-0)\nMain Card: Edivan Santos
+  (13-4-0) vs. Alison Vicente (27-21-0)\nMain Card: Patricia Alujas (9-2-
+ 0) vs. Andressa Romero (5-2-1)\nMain Card: Thor Silva (0-0-0) vs. Paulo 
+ Rangel (0-0-0)\nMain Card: Sérgio Bertoluci (0-0-0) vs. Chico Salgado (0
+ -0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220915T180134Z
 UID:2022-10-shields-vs-marshall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Marshall

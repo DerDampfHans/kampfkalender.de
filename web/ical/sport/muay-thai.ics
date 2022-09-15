@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220909T120731Z
-X-KAMPFKALENDER-HASH:83f68918cfafd271e723aba7dcb963a1a938ae9b
+DTSTAMP:20220915T180134Z
+X-KAMPFKALENDER-HASH:376024e2f5b571f97f229c6b039b98c9dd4f0b31
 BEGIN:VEVENT
-DTSTAMP:20220909T120732Z
+DTSTAMP:20220915T180135Z
+UID:2022-09-bodensee-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bodensee Fight Night
+DTSTART:20220917T160000Z
+DTEND:20220917T190000Z
+CATEGORIES:Other,Kickboxen,Muay Thai,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
+ densee-fight-night-518
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220915T180135Z
 UID:2022-09-one-161-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Bhullar vs. Malykhin
@@ -20,10 +31,14 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ente\nMain Card: Iraj Azizpour vs. Bruno Chaves\nMain Card: Lipeng Zhang
   (33-11-2) vs. Saygid Izagakhmaev (20-2-0)\nMain Card: Ritu Phogat (7-2-
  0) vs. Tiffany Teo (10-2-0)\nMain Card: Yuya Wakamatsu (15-5-0) vs. Shuo
-  Wang (15-6-0)
+  Wang (15-6-0)\nPrelim: Capitan Petchyindee vs. Alaverdi Ramazanov\nPrel
+ im: ChengLong Zhang vs. Sangmanee Sor Kafae\nPrelim: Oumar Kane (3-1-0) 
+ vs. Batradz Gazzaev (3-0-0)\nPrelim: Han Zi Hao vs. Ferrari Fairtex\nPre
+ lim: Rodrigo Marello vs. Ruslan Bagdasarian\nPrelim: Matheus Felipe (0-0
+ -0) vs. Ali Foladi (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120732Z
+DTSTAMP:20220915T180135Z
 UID:2022-11-one-on-prime-video-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4
@@ -34,7 +49,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91425-one-on-prime-video-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220909T120732Z
+DTSTAMP:20220915T180135Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
