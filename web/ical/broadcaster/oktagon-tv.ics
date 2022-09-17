@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220915T180134Z
-X-KAMPFKALENDER-HASH:c695358d6197b6bab4c339f2327e0bfa11c80efd
+DTSTAMP:20220917T130132Z
+X-KAMPFKALENDER-HASH:b7b8d32dff859e6566b6c60b8541a440533794f8
 BEGIN:VEVENT
-DTSTAMP:20220915T180135Z
+DTSTAMP:20220917T130133Z
 UID:2022-09-oktagon-35@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 35
@@ -30,7 +30,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  elim: Jan Gottvald (9-3-0) vs. Edilson França (9-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180135Z
+DTSTAMP:20220917T130133Z
 UID:2022-10-oktagon-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36
@@ -46,7 +46,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  Dalisda (6-3-0) vs. Mallory Martin (7-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180135Z
+DTSTAMP:20220917T130133Z
 UID:2022-12-oktagon-37@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 37
@@ -58,7 +58,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  \n---\n\nMain Event: David Kozma (30-11-0) vs. Kaik Brito (15-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180135Z
+DTSTAMP:20220917T130133Z
 UID:2022-12-oktagon-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38
@@ -67,5 +67,17 @@ DTEND:20221230T190000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/91582-oktagon-38
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220917T130133Z
+UID:2023-04-oktagon-v-bratislave@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON: V Bratislave
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/93085-oktagon-v-bratislave\nhttps://www.facebook.com/events/1499
+ 393410503305
 END:VEVENT
 END:VCALENDAR

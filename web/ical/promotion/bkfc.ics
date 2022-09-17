@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220915T180134Z
-X-KAMPFKALENDER-HASH:3752154ec45843c34406bcd6e16b518636b2ad11
+DTSTAMP:20220917T130132Z
+X-KAMPFKALENDER-HASH:819be77cf26359d8365ce2d90f588ec6d1f6ca21
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
 UID:2022-09-bkfc-29-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 29: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-montana-2-prel
  a vs. Jenny Clausius\nPrelim: Dakota Highpine vs. Koda Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
 UID:2022-09-bkfc-29-hart-vs-sigala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 29: Hart vs. Sigala
@@ -47,7 +47,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-29-hart-vs-peloum
   vs. Jenny Clausius\nPrelim: Dakota Highpine vs. Koda Greenwood
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
 UID:2022-10-bkfc-30-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 30: Prelims
@@ -64,7 +64,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-30-monroe-prelims
  LaCaze vs. Noah Cutter\nPrelim: David Bosnick vs. Loren Thibodeaux
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
 UID:2022-10-bkfc-30-hunt-vs-henry@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 30: Hunt vs. Henry
@@ -81,7 +81,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-30-monroe/2pbwi/\
  s. Noah Cutter\nPrelim: David Bosnick vs. Loren Thibodeaux
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
 UID:2022-10-bkfc-31-richman-vs-doolittle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Richman vs. Doolittle
@@ -90,10 +90,22 @@ DTEND:20221016T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/92218-bkfc-31-vanzant-vs-sigala\n\n---\n\nMain Event: Mike Richman 
- vs. Isaac Doolittle
+ vs. Isaac Doolittle\nMain Card: Chris Camozzi vs. Bubba McDaniel\nMain C
+ ard: Danny O'Connor vs. Van Vo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
+UID:2022-11-bkfc-33@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 33
+DTSTART:20221119T020000Z
+DTEND:20221119T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/93097-bkfc-33
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220917T130132Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220911T202208Z
-X-KAMPFKALENDER-HASH:d01a2d30229dcccc3ec87760665e3ef5ceeea0b3
+DTSTAMP:20220917T130132Z
+X-KAMPFKALENDER-HASH:b255e382f30e1b7f628c840217a7b82c065a1b31
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220917T130133Z
 UID:2022-09-ksw-74-de-fries-vs-prasel@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 74: De Fries vs. Prasel
@@ -29,7 +29,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220917T130133Z
 UID:2022-10-ksw-75-chuzhigaev-vs-erslan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 75: Chuzhigaev vs. Erslan
@@ -39,10 +39,11 @@ CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/92897-ksw-75\n\n---\n\nMain Event: Ibragim Chuzhigaev (16-5-0) vs
  . Ivan Erslan (12-1-0)\nMain Card: Robert Ruchała (7-0-0) vs. Damian Sta
- siak (13-8-0)
+ siak (13-8-0)\nMain Card: David Martinik (5-4-0) vs. Kamil Szkaradek (2-
+ 0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220917T130133Z
 UID:2022-11-ksw-76-zio-kowski-vs-parnasse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 76: Ziółkowski vs. Parnasse
@@ -54,7 +55,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
   Salahdine Parnasse (16-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220911T202208Z
+DTSTAMP:20220917T130133Z
 UID:2022-12-ksw-77@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 77
@@ -62,6 +63,7 @@ DTSTART:20221217T150000Z
 DTEND:20221217T180000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/92899-ksw-77
+ events/92899-ksw-77\n\n---\n\nMain Event: Mariusz Pudzianowski (17-7-0) 
+ vs. Mamed Khalidov (35-8-2)
 END:VEVENT
 END:VCALENDAR

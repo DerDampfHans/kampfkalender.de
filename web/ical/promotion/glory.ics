@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220915T180134Z
-X-KAMPFKALENDER-HASH:0d8bf6a308514ec49f993b5d76dfda327fdefbd6
+DTSTAMP:20220917T130132Z
+X-KAMPFKALENDER-HASH:a5c536097efffed6eb2c8c098886c64265b2f2b9
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
 UID:2022-09-glory-rivals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 2
-DTSTART:20220917T170000Z
-DTEND:20220917T200000Z
+DTSTART:20220917T151500Z
+DTEND:20220917T181500Z
 CATEGORIES:Glory,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=fzTpLlTD25Q\
  n\n---\n\nhttps://www.tapology.com/fightcenter/events/92171-glory-rivals
@@ -22,7 +22,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=fzTpLlTD25Q\
  rd: Jimmy van Kuijeren vs. Frank Rubanguka
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220917T130132Z
 UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Hari vs. Overeem
@@ -31,10 +31,23 @@ DTEND:20221008T070000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/89722-glory-collision-4\n\n---\n\nMain Event: Badr Hari vs. Alista
- ir Overeem\nCo-Main Event: Sergej Maslobojev vs. Tarik Khbabez\nMain Car
- d: Tyjani Beztati vs. Stoyan Koprivlenski\nMain Card: P. Kiatmoo9 vs. Ab
- raham Vidales\nMain Card: Tiffany van Soest vs. Sarah Moussaddak\nMain C
- ard: Levi Rigters vs. Kevin Tariq Osaro\nMain Card: Serkan Ozcaglayan vs
- . César Almeida\nMain Card: Felipe Micheletti vs. Donegi Abena
+ ir Overeem\nCo-Main Event: Tiffany van Soest vs. Sarah Moussaddak\nMain 
+ Card: Sergej Maslobojev vs. Tarik Khbabez\nMain Card: Tyjani Beztati vs.
+  Stoyan Koprivlenski\nMain Card: P. Kiatmoo9 vs. Abraham Vidales\nMain C
+ ard: Levi Rigters vs. Kevin Tariq Osaro\nPrelim: Serkan Ozcaglayan vs. C
+ ésar Almeida\nPrelim: Felipe Micheletti vs. Donegi Abena\nPrelim: Michae
+ l Boapeah vs. Sergej Braun
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220917T130132Z
+UID:2022-11-glory-rivals-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Rivals 3
+DTSTART:20221105T083000Z
+DTEND:20221105T113000Z
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/93060-glory-rivals-3\n\n---\n\nMain Event: Robin Ciric vs. Jay Ove
+ rmeer
 END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,39 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220807T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220917T130132Z
+X-KAMPFKALENDER-HASH:401e3ddb59448a34ad7a6c2ba714562719aaba37
+BEGIN:VEVENT
+DTSTAMP:20220917T130132Z
+UID:2022-10-brave-cf-63@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BRAVE CF 63
+DTSTART:20221019T150000Z
+DTEND:20221019T180000Z
+CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93030-brave-cf-63
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220917T130132Z
+UID:2022-10-brave-cf-64-african-all-stars@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BRAVE CF 64: African All Stars
+DTSTART:20221022T150000Z
+DTEND:20221022T180000Z
+CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93031-brave-cf-64-african-all-stars
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220917T130132Z
+UID:2022-10-brave-cf-65-rumble-in-the-kingdom@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BRAVE CF 65: Rumble in The Kingdom
+DTSTART:20221028T150000Z
+DTEND:20221028T180000Z
+CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93032-brave-cf-65-rumble-in-the-kingdom
+END:VEVENT
 END:VCALENDAR
