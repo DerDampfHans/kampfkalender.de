@@ -590,5 +590,69 @@
         "url": "https://www.german-mma.de/events/220910-grappling"
       }
     }
+  },
+  {
+    "id": "gmc-2022-09-17",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#GMC29",
+      "#Hamburg"
+    ],
+    "mainCard": {
+      "title": "GMC 29: Ott vs. Wesner",
+      "time": "2022-09-17T18:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220917-gmc-29"
+        }
+      },
+      "gmc": {
+        "id": "220917-gmc-29",
+        "time": "2022-09-17T17:00:00Z",
+        "title": "GMC 29 Hamburg",
+        "url": "https://www.german-mma.de/events/220917-gmc-29"
+      }
+    },
+    "prelims": {
+      "title": "GMC 29: Prelims",
+      "time": "2022-09-17T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/c/GMCMMAChampionship",
+          "free": true
+        },
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220917-gmc-29"
+        }
+      }
+    },
+    "tapology": {
+      "id": 90352,
+      "time": "2022-09-17T16:00:00Z",
+      "title": "GMC 29",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/90352-gmc-29",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Wilhelm Ott (19-18-1) vs. Alexander Wesner (8-5-0)",
+        "Co-Main Event: Dimitar Kostov (14-8-0) vs. Beno Adamia (8-8-1)",
+        "Main Card: Stefan Sigler (1-0-0) vs. Tobias Balzer (2-1-0)",
+        "Main Card: Daniel Schwindt (2-0-0) vs. Omar Amasha (4-2-0)",
+        "Main Card: Sergej Kramer (5-4-0) vs. Osama El Zein (6-3-0)",
+        "Main Card: Adlan Musaev (2-1-0) vs. Amir Safi (0-4-0)",
+        "Main Card: Zinedine Elmahdi (0-0-0) vs. Hicham El Hajji (1-0-0)",
+        "Prelim: Dana Inejad (0-0-0) vs. Andrei Zugrav (1-0-0)",
+        "Prelim: Ronny Zesna (0-0-0) vs. Dennis Wohl (0-0-0)",
+        "Prelim: Gabriel Pavlovic (0-0-0) vs. Max Behrbalk (0-1-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/gmc-29-german-mma-championship-29-93995"
+      ]
+    }
   }
 ]
