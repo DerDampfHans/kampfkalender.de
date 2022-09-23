@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220923T211132Z
-X-KAMPFKALENDER-HASH:ef58acde57a2d01bdfd63f91dbda077eaa00ba1b
+DTSTAMP:20220923T222343Z
+X-KAMPFKALENDER-HASH:901abab3b61a740c98b3fb4ae809c209cff18ddf
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-09-gmc-29-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 29: Prelims
@@ -29,8 +29,18 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/GMCMMAChampionship\nvi
  0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-09-schlagwort-podcast@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20220918T160000Z
+DTEND:20220918T180000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T222344Z
+UID:2022-09-schlagwort-podcast-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
 DTSTART:20220918T160000Z
@@ -39,7 +49,7 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Y_b-JABEm_Y
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-09-bellator-285-henderson-vs-queally@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 285: Henderson vs. Queally
@@ -61,7 +71,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Kasim Aras (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-09-invicta-fc-49-delboni-vs-decoursey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 49: Delboni vs. DeCoursey
@@ -78,7 +88,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  in Card: Nadia Vera (3-0-1) vs. Shauna Bannon (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-09-one-161-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Bhullar vs. Malykhin
@@ -98,7 +108,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Ali Foladi (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-10-one-on-prime-video-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 2
@@ -116,7 +126,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ongfah\nPrelim: Rade Opačić vs. Giannis Stoforidis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-10-one-on-prime-video-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3
@@ -129,7 +139,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Fabricio de Andrade (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-11-one-on-prime-video-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4
@@ -140,7 +150,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91425-one-on-prime-video-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T222344Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
