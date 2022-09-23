@@ -4,6 +4,45 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220625T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:18ea511f19ed5c21322ac399c49e7b2c1d0fcbac
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-enfusion-111@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 111
+DTSTART:20220924T171500Z
+DTEND:20220924T201500Z
+CATEGORIES:Enfusion,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=poFgsZ795UE\
+ n\n---\n\nhttps://enfusionlive.com/events/235-ENFUSION%20#111%20&%20#112
+ %20&%20ENFUSION%20TALENTS%20#94\nhttps://www.fightevents.de/event/enfusi
+ on-111-112/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-enfusion-112@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 112
+DTSTART:20220924T193000Z
+DTEND:20220924T223000Z
+CATEGORIES:Enfusion,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=poFgsZ795UE\
+ n\n---\n\nhttps://enfusionlive.com/events/235-ENFUSION%20#111%20&%20#112
+ %20&%20ENFUSION%20TALENTS%20#94\nhttps://www.fightevents.de/event/enfusi
+ on-111-112/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-enfusion-talents-94@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Talents 94
+DTSTART:20220930T113000Z
+DTEND:20220924T171500Z
+CATEGORIES:Enfusion,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=88e_QP24Fyc\
+ n\n---\n\nhttps://enfusionlive.com/events/235-ENFUSION%20#111%20&%20#112
+ %20&%20ENFUSION%20TALENTS%20#94\nhttps://www.fightevents.de/event/enfusi
+ on-111-112/
+END:VEVENT
 END:VCALENDAR

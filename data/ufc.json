@@ -11,6 +11,9 @@
     "mainCard": {
       "title": "UFC Vegas 61: Dern vs. Xiaonan",
       "time": "2022-10-01T23:00:00Z",
+      "tags": [
+        "🎙@BDKraniotakes"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -25,9 +28,10 @@
       "dazn": {
         "id": "1xlq9iuij7ntx1iadlv17movzd",
         "time": "2022-10-01T23:00:00Z",
-        "title": "UFC Fight Night: Dern - Xiaonan (Hauptkämpfe mit Originalkommentar)",
+        "title": "UFC Fight Night: Dern vs Xiaonan (Hauptkämpfe mit Originalkommentar)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Andreas Kraniotakes"
       }
     },
     "prelims": {
@@ -62,11 +66,16 @@
         "Prelim: Randy Costa (6-3-0) vs. Guido Cannetti (9-6-0)",
         "Prelim: Brendan Allen (19-5-0) vs. Krzysztof Jotko (24-5-0)",
         "Prelim: Julija Stoliarenko (10-6-1) vs. Chelsea Chandler (4-1-0)",
-        "Prelim: Jairzinho Rozenstruik (12-4-0) vs. Chris Daukaus (12-5-0)",
         "Prelim: Joaquim Silva (11-3-0) vs. Jesse Ronson (21-11-0)",
         "Prelim: Maxim Grishin (32-9-2) vs. Philipe Lins (15-5-0)",
         "Prelim: Aleksei Oleinik (60-16-1) vs. Ilir Latifi (15-8-0)",
         "Prelim: Jessica Penne (14-6-0) vs. Tabatha Ricci (7-1-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-fight-night-211-dern-vs-yan-93426",
+        "https://events.mixedmartialarts.com/ufc-fight-night:503b2bfc-59c0-420c-adaf-9e123f8d2d3f",
+        "http://www.ufcstats.com/event-details/4f670b7972fa0a2e",
+        "https://www.bestfightodds.com/events/ufc-vegas-57-2489"
       ]
     }
   },
@@ -110,6 +119,7 @@
         "Main Card: Jonathan Martinez (16-4-0) vs. Cub Swanson (28-12-0)",
         "Main Card: Askar Askarov (14-1-1) vs. Brandon Royval (14-6-0)",
         "Main Card: Misha Cirkunov (15-8-0) vs. Alonzo Menifield (12-3-0)",
+        "Main Card: Neil Magny (26-9-0) vs. Daniel Rodriguez (17-2-0)",
         "Prelim: Piera Rodriguez (8-0-0) vs. Sam Hughes (7-4-0)",
         "Prelim: C.J. Vergara (10-3-1) vs. Tatsuro Taira (11-0-0)",
         "Prelim: Mana Martinez (9-3-0) vs. Brandon Davis (14-9-0)",
@@ -132,26 +142,50 @@
     ],
     "mainCard": {
       "title": "UFC 280: Oliveira vs. Makhachev",
-      "time": "2022-10-22T15:00:00Z",
+      "time": "2022-10-22T18:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 224398,
+        "time": "2022-10-22T18:00:00Z",
+        "title": "UFC 280: Oliveira vs Makhachev"
+      },
+      "dazn": {
+        "id": "1h3187kessbrf1citt3dqafd6l",
+        "time": "2022-10-23T02:00:00Z",
+        "title": "UFC 280: Oliveira vs Makhachev (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
       "title": "UFC 280: Prelims",
+      "time": "2022-10-22T16:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 224396,
+        "time": "2022-10-22T16:00:00Z",
+        "title": "UFC 280: Prelims"
       }
     },
     "earlyPrelims": {
       "title": "UFC 280: Early Prelims",
+      "time": "2022-10-22T14:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 224392,
+        "time": "2022-10-22T14:00:00Z",
+        "title": "UFC 280: Fight Pass Prelims"
       }
     },
     "tapology": {
@@ -176,8 +210,57 @@
         "Prelim: Volkan Oezdemir (18-6-0) vs. Nikita Krylov (28-9-0)",
         "Prelim: Abubakar Nurmagomedov (16-3-1) vs. Gadzhi Omargadzhiev (13-1-0)",
         "Prelim: Armen Petrosyan (7-2-0) vs. AJ Dobson (6-1-0)",
-        "Prelim: Lina Länsberg (10-6-0) vs. Karol Rosa (15-4-0)"
+        "Prelim: Lina Länsberg (10-6-0) vs. Karol Rosa (15-4-0)",
+        "Prelim: Shamil Abdurakhimov (20-7-0) vs. Jailton Almeida (17-2-0)"
       ]
+    }
+  },
+  {
+    "id": "fightpass-224607",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#RoadToUFC",
+      "#RoadToUFC5"
+    ],
+    "mainCard": {
+      "title": "Road to UFC 5",
+      "time": "2022-10-23T07:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 224607,
+        "time": "2022-10-23T07:00:00Z",
+        "title": "Road to UFC: 5"
+      }
+    }
+  },
+  {
+    "id": "fightpass-224608",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#RoadToUFC",
+      "#RoadToUFC6"
+    ],
+    "mainCard": {
+      "title": "Road to UFC 6",
+      "time": "2022-10-23T09:30:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 224608,
+        "time": "2022-10-23T09:30:00Z",
+        "title": "Road to UFC: 6"
+      }
     }
   },
   {
@@ -479,6 +562,7 @@
       "card": [
         "Main Card: Santiago Ponzinibbio (28-6-0) vs. Robbie Lawler (29-16-0)",
         "Main Card: Darren Till (18-4-1) vs. Dricus Du Plessis (17-2-0)",
+        "Main Card: Jairzinho Rozenstruik (12-4-0) vs. Chris Daukaus (12-5-0)",
         "Prelim: Edmen Shahbazyan (11-3-0) vs. Dalcha Lungiambula (11-5-0)",
         "Prelim: Billy Quarantillo (16-4-0) vs. Alexander Hernandez (13-5-0)",
         "Prelim: Erik Silva (9-1-0) vs. TJ Brown (16-9-0)"
@@ -526,7 +610,7 @@
         "Prelim: Julian Marquez (9-3-0) vs. Deron Winn (7-3-0)",
         "Prelim: Tafon Nchukwi (6-3-0) vs. Jamal Pogues (9-3-0)",
         "Prelim: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)",
-        "Prelim: Bruno Silva (22-8-0) vs. Albert Duraev (15-4-0)"
+        "Prelim: Albert Duraev (15-4-0) vs. Michał Oleksiejczuk (17-5-0)"
       ]
     }
   },

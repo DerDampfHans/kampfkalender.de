@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220918T204116Z
-X-KAMPFKALENDER-HASH:d94bbe0bb1aa52782b65cb787a7419d59dc1b1b1
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:ece19cf97420653862578d17386b2e70ab134031
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-09-glory-rivals-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 2
@@ -22,7 +22,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=fzTpLlTD25Q\
  rd: Jimmy van Kuijeren vs. Frank Rubanguka
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-09-super-league-mma-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 4: Prelims
@@ -43,7 +43,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=bpSQPF8Scvg\
  uckminster Jensen (0-0-0) vs. Yigit Demir (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-09-super-league-mma-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 4
@@ -64,7 +64,64 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=7LDNvlR30f4\
  uckminster Jensen (0-0-0) vs. Yigit Demir (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
+UID:2022-09-enfusion-111@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 111
+DTSTART:20220924T171500Z
+DTEND:20220924T201500Z
+CATEGORIES:Enfusion,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=poFgsZ795UE\
+ n\n---\n\nhttps://enfusionlive.com/events/235-ENFUSION%20#111%20&%20#112
+ %20&%20ENFUSION%20TALENTS%20#94\nhttps://www.fightevents.de/event/enfusi
+ on-111-112/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-enfusion-112@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 112
+DTSTART:20220924T193000Z
+DTEND:20220924T223000Z
+CATEGORIES:Enfusion,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=poFgsZ795UE\
+ n\n---\n\nhttps://enfusionlive.com/events/235-ENFUSION%20#111%20&%20#112
+ %20&%20ENFUSION%20TALENTS%20#94\nhttps://www.fightevents.de/event/enfusi
+ on-111-112/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-brave-cf-62@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Brave CF 62
+DTSTART:20220930T113000Z
+DTEND:20220930T143000Z
+CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=88e_QP24Fyc\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92
+ 655-brave-cf-62-octagon-35\n\n---\n\nMain Card: Olzhas Eskaraev (10-6-0)
+  vs. Rolando Dy (14-12-0)\nMain Card: Mehmosh Raza (10-4-0) vs. Nurzhan 
+ Akishev (13-3-0)\nMain Card: Ilyar Askhanov (11-4-0) vs. Omar Solomonov 
+ (11-2-0)\nMain Card: Murtaza Talha Ali (5-0-0) vs. Kirill Khomitsky (8-2
+ -0)\nMain Card: Abdullah Al-Qahtani (5-0-0) vs. Ilyor Bakhtiyar Uulu (6-
+ 1-0)\nMain Card: Sanjarbek Erkinov (8-5-0) vs. Anzor Abdulkhozhaev (11-2
+ -0)\nMain Card: Kamil Magomedov (15-2-0) vs. Akhmed Shervaniev (14-1-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-enfusion-talents-94@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Talents 94
+DTSTART:20220930T113000Z
+DTEND:20220924T171500Z
+CATEGORIES:Enfusion,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=88e_QP24Fyc\
+ n\n---\n\nhttps://enfusionlive.com/events/235-ENFUSION%20#111%20&%20#112
+ %20&%20ENFUSION%20TALENTS%20#94\nhttps://www.fightevents.de/event/enfusi
+ on-111-112/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
 UID:2022-10-brave-cf-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 63
@@ -75,7 +132,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/93030-brave-cf-63
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-10-brave-cf-64-african-all-stars@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 64: African All Stars
@@ -86,7 +143,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/93031-brave-cf-64-african-all-stars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-10-brave-cf-65-rumble-in-the-kingdom@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 65: Rumble in The Kingdom
@@ -97,7 +154,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/93032-brave-cf-65-rumble-in-the-kingdom
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -114,7 +171,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-11-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -124,7 +181,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -136,7 +193,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  events/90452-super-league-mma-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-12-nfc-contenders-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders 2
@@ -146,7 +203,7 @@ CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -159,7 +216,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -172,7 +229,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -185,7 +242,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
   Walid (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T204117Z
+DTSTAMP:20220923T211133Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

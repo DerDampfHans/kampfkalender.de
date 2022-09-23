@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220915T180134Z
-X-KAMPFKALENDER-HASH:991c6863dda0fa057b247b83d9f8821d4b7340dc
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:a60b85dedec9af76c01b6fdae4c7da7d16193ff8
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
+DTSTAMP:20220923T211133Z
 UID:2022-09-fusion-fight-league-gonzales-vs-willis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Gonzales vs. Willis
@@ -31,5 +31,23 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-gonzales-vs-willis
   vs. Vladiyilav Rybalka (2-2-0)\nMain Card: Elliot Whitcomb (0-0-0) vs. 
  Caden Benson (0-1-0)\nMain Card: AJ Craig (3-6-0) vs. Daniel Bonner (1-1
  -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-10-fusion-fight-league-boise@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League: Boise
+DTSTART:20221016T020000Z
+DTEND:20221016T050000Z
+CATEGORIES:FFL,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/93123-fusion-fight-league-boise\n\n---\n\nMain Card: Ben Hol
+ lier (6-2-0) vs. Hunter Azure (9-3-0)\nMain Card: Tryston Hutchinson (2-
+ 1-0) vs. Taha Bendaoud (5-1-0)\nMain Card: Joe Wilkins (4-1-0) vs. Sterl
+ ing Ritch (2-0-0)\nMain Card: Raymond Lawley (4-0-0) vs. Bryce Nowak (5-
+ 3-0)\nMain Card: Nate Laganse (0-1-0) vs. Conall Powers (2-1-0)\nMain Ca
+ rd: Reese Bandurraga (1-0-0) vs. Hudson Kettengring (1-0-0)\nMain Card: 
+ Maddie Moorhead (0-1-0) vs. Julissa Mendez (0-1-0)\nMain Card: Tyler O'D
+ onnell (1-0-0) vs. Matthew Beasley (1-0-0)
 END:VEVENT
 END:VCALENDAR

@@ -25,7 +25,7 @@
     },
     "tapology": {
       "id": 92389,
-      "time": "2022-09-24T20:00:00Z",
+      "time": "2022-09-24T18:00:00Z",
       "title": "Hughes vs. Galahad",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/92389-wood-vs-lara",
@@ -35,8 +35,12 @@
       "card": [
         "Main Event: Maxi Hughes (25-5-2) vs. Kid Galahad (28-2-0)",
         "Co-Main Event: Hannah Rankin (12-5-0) vs. Terri Harper (12-1-1)",
-        "Main Card: Solomon Dacres (4-0-0) vs. Dominic Akinlade (9-3-1)",
-        "Prelim: Cheavon Clarke (0-0-0) vs. M. Karalitzky (7-5-2)"
+        "Main Card: Cheavon Clarke (0-0-0) vs. M. Karalitzky (7-5-2)",
+        "Main Card: Cyrus Pattinson (4-0-0) vs. Jorick Luisetto (12-4-0)",
+        "Main Card: Solomon Dacres (4-0-0) vs. A. Bracamonte (11-9-0)",
+        "Main Card: Junaid Bostan (0-0-0) vs. Anas Isarti (0-0-0)",
+        "Main Card: Rhiannon Dixon (5-0-0) vs. Edina Kiss (15-15-0)",
+        "Main Card: Mohammed Sameer (4-0-0) vs. Dale Arrowsmith (4-64-2)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/861379"
@@ -83,12 +87,24 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#EubankBenn",
+      "#EubankJrBenn",
+      "#BornRivals"
+    ],
     "mainCard": {
-      "title": "Benn vs. Eubank Jr.",
-      "time": "2022-10-08T19:00:00Z",
+      "title": "Eubank Jr. vs. Benn",
+      "time": "2022-10-08T18:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "18oxhscmdblsa1hal73r47jz5q",
+        "time": "2022-10-08T18:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Eubank Jr. vs Benn"
       }
     },
     "tapology": {
@@ -102,7 +118,13 @@
       ],
       "card": [
         "Main Event: Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)",
-        "Main Card: Mary Romero (8-2-0) vs. Ellie Scotney (5-0-0)"
+        "Main Card: Mary Romero (8-2-0) vs. Ellie Scotney (5-0-0)",
+        "Main Card: Felix Cash (15-0-0) vs. Connor Coyle (17-0-0)",
+        "Main Card: Galal Yafai (0-0-0) vs. Gohan Rodriguez (12-1-1)",
+        "Main Card: Shannon Courtenay (7-2-0) vs. Gemma Ruegg (0-0-0)",
+        "Main Card: Harlem Eubank (15-0-0) vs. David Martin (0-0-0)",
+        "Main Card: Chloe Watson (0-0-0) vs. Nancy Franco (18-17-2)",
+        "Main Card: Matty Harris (0-0-0) vs. Chris Healey (9-12-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/860669"
@@ -133,7 +155,10 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Katie Taylor (21-0-0) vs. K. Carabajal (0-0-0)"
+        "Main Event: Katie Taylor (21-0-0) vs. K. Carabajal (0-0-0)",
+        "Co-Main Event: Jordan Gill (27-1-1) vs. Kiko Martinez (43-11-2)",
+        "Main Card: Caoimhin Agyarko (12-0-0) vs. Peter Dobson (16-0-0)",
+        "Main Card: Johnny Fisher (6-0-0) vs. Alfonso Damiani (5-2-0)"
       ]
     }
   },
@@ -225,6 +250,34 @@
       ],
       "card": [
         "Main Event: Juan Francisco Estrada (43-3-0) vs. Roman Gonzalez (51-3-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-93198",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Warrington vs. Lopez",
+      "time": "2022-12-10T19:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 93198,
+      "time": "2022-12-10T19:00:00Z",
+      "title": "Warrington vs. Lopez",
+      "info": "Rumored Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/93198-warrington-vs-lopez",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Josh Warrington (31-1-1) vs. Luis Alberto Lopez (26-2-0)"
       ]
     }
   }

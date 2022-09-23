@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220915T180134Z
-X-KAMPFKALENDER-HASH:36f8926fed69a3105998e6248714936bc7d82972
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:88e44ddd00f712c81982109e5f600d209db31ab7
 BEGIN:VEVENT
-DTSTAMP:20220915T180134Z
-UID:2022-09-cage-fury-fc-113@kampfkalender.de
+DTSTAMP:20220923T211133Z
+UID:2022-10-cage-fury-fc-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Fury FC 113
-DTSTART:20220925T000000Z
-DTEND:20220925T030000Z
+DTSTART:20221008T000000Z
+DTEND:20221008T030000Z
 CATEGORIES:CFFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/92969-cffc-113\n\n---\n\nMain Event: Greg Velasco (4-0-0) vs
@@ -22,5 +22,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  rd: Ricardo Fuentes (5-2-0) vs. Junior Cortez (6-2-0)\nMain Card: Joseph
   Schick (4-2-0) vs. Dwayne Holman (3-7-0)\nMain Card: Thomas Majeski (3-
  2-0) vs. Robert Varricchio (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-11-cage-fury-fc-114@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Fury FC 114
+DTSTART:20221111T000000Z
+DTEND:20221111T030000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/93165-cffc-114
 END:VEVENT
 END:VCALENDAR

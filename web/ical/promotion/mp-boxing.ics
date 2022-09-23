@@ -4,6 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220605T152226Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:dbc4052c3b2649f9bc309b9f8b8f445b78fe282b
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-11-mayweather-vs-deji@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Mayweather vs Deji
+DTSTART:20221113T230000Z
+DTEND:20221114T020000Z
+CATEGORIES:MP$,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/93239-mayweather-
+ vs-deji\nhttps://www.global-titans.com/\n\n---\n\nMain Event: Floyd Mayw
+ eather Jr. (50-0-0) vs. O. Olatunji (0-0-0)\nMain Card: Tommy Fury (8-0-
+ 0) vs. Tyron Woodley (0-2-0)
+END:VEVENT
 END:VCALENDAR

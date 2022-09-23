@@ -1,5 +1,32 @@
 [
   {
+    "id": "gmc-2022-09-24",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#GMCOlympiX"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2022-09-24T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220924-olympix-k1-boxen-mma-no-114"
+        }
+      },
+      "gmc": {
+        "id": "220924-olympix-k1-boxen-mma-no-114",
+        "time": "2022-09-24T15:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 114)",
+        "url": "https://www.german-mma.de/events/220924-olympix-k1-boxen-mma-no-114"
+      }
+    }
+  },
+  {
     "id": "gmc-2022-10-15",
     "promotion": "GMC_DE",
     "sports": [
@@ -36,7 +63,9 @@
       "card": [
         "Main Card: Arijan Topallaj (3-0-1) vs. Cagri Ucar (5-0-0)",
         "Main Card: Chequina Noso Pedro (5-2-0) vs. Adrian Zeitner (10-2-0)",
-        "Main Card: Franziska Chwalicz (0-1-0) vs. Lorena Cubero (0-0-0)"
+        "Main Card: Franziska Chwalicz (0-1-0) vs. Lorena Cubero (0-0-0)",
+        "Main Card: Gjoni Palokaj (5-3-0) vs. Eduard Evdokimov (3-1-0)",
+        "Main Card: Ben Davis (8-5-0) vs. Alexander Luster (6-1-0)"
       ]
     }
   },

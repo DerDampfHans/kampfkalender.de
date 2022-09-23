@@ -4,28 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220918T201650Z
-X-KAMPFKALENDER-HASH:7838d54c3b38fda8d4f262633a4adfa00471abf0
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:da83bcaf23a7cb185507979ba73084addb2265f0
 BEGIN:VEVENT
-DTSTAMP:20220918T201650Z
-UID:2022-09-isufi-vs-ford@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Isufi vs. Ford
-DTSTART:20220916T151500Z
-DTEND:20220916T181500Z
-CATEGORIES:Other,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-pe
- tkos-beat-box-519\n\n---\n\nhttps://www.petkos.de/\nhttps://www.tapology
- .com/fightcenter/events/92295-isufi-vs-ford\nhttp://www.boxrec.com/en/ev
- ent/861907\n\n---\n\nMain Event: Shefat Isufi (35-4-2) vs. Ryan Ford (17
- -7-0)\nMain Card: Leon Harth (20-5-0) vs. Brandon Deslaurier (14-4-1)\nM
- ain Card: Veljko Raznatovic (12-0-0) vs. Gusmyr Perdomo (27-13-0)\nMain 
- Card: Edin Avdic (0-0-0) vs. Lado Gabisonia (4-4-1)\nMain Card: Menal To
- pcu (0-0-0) vs. Anto Nakic (1-24-0)\nMain Card: Kurosh Nikgan (8-0-0) vs
- . Nikoloz Berkatsashvili (26-37-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220918T201650Z
+DTSTAMP:20220923T211132Z
 UID:2022-09-bodensee-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bodensee Fight Night
@@ -36,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-bo
  densee-fight-night-518
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T201650Z
+DTSTAMP:20220923T211132Z
 UID:2022-09-fight-night-nurtingen-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Night Nürtingen 2022
@@ -47,7 +29,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-nu
  rtingen-fight-night-516\n\n---\n\nhttps://ka-fightnight.de/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T201650Z
+DTSTAMP:20220923T211132Z
 UID:2022-09-benefiz-fight-night-3-0@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benefiz Fight Night 3.0
@@ -59,7 +41,41 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-be
  t-details/benefiz-fight-night-3-0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T201650Z
+DTSTAMP:20220923T211132Z
+UID:2022-09-international-boxing-masters-cup@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:International Boxing Masters Cup
+DTSTART:20220924T150000Z
+DTEND:20220924T180000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-in
+ t-masters-cup-522
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211132Z
+UID:2022-09-joyce-vs-parker@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Joyce vs. Parker
+DTSTART:20220924T170000Z
+DTEND:20220924T200000Z
+CATEGORIES:Other,Boxen,Bild+,live
+DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
+ en/boxen-joe-joyce-vs-joseph-parker-am-samstag-bei-bild-im-livestream-81
+ 369028.bild.html\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9
+ 1827-joyce-vs-parker\nhttp://www.boxrec.com/en/event/860469\n\n---\n\nMa
+ in Event: Joe Joyce (14-0-0) vs. Joseph Parker (30-2-0)\nCo-Main Event: 
+ Amanda Serrano (42-2-1) vs. Sarah Mahfoud (11-0-0)\nMain Card: Nathan He
+ aney (15-0-0) vs. Jack Flatley (19-2-1)\nMain Card: Raven Chapman (0-0-0
+ ) vs. Jorgelina Guanini (10-4-2)\nMain Card: Michael Magnesi (21-0-0) vs
+ . Anthony Cacace (19-1-0)\nMain Card: Ekow Essuman (17-0-0) vs. Samuel A
+ ntwi (14-1-0)\nMain Card: Mark Heffron (28-2-1) vs. Martin Bulacio (10-6
+ -0)\nPrelim: James Heneghan (7-0-0) vs. Rod Douglas Jr. (3-4-0)\nPrelim:
+  Amaar Akbar (3-0-0) vs. Karlo Wallace (0-0-0)\nPrelim: Callum Thompson 
+ (0-0-0) vs. Delmar Thomas (5-2-0)\nPrelim: Tommy Fletcher (0-0-0) vs. To
+ ni Visic (20-34-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211132Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
@@ -69,12 +85,23 @@ CATEGORIES:Other,MMA,Boxen,Kickboxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  2pbuk/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92610-super
  -rizin\n\n---\n\nMain Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru As
- akura (0-0-0)\nMain Card: Nadaka Yoshinari vs. Bandasak\nMain Card: Kota
-  Miura (1-0-0) vs. Bunchuai Phonsungnoen (0-0-0)\nMain Card: Koji Tanaka
-  vs. Ray Sadeghi
+ akura (0-0-0)\nMain Card: Koji Tanaka vs. Ray Sadeghi\nMain Card: Nadaka
+  Yoshinari vs. Bandasak\nMain Card: Kota Miura (1-0-0) vs. Bunchuai Phon
+ sungnoen (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T201650Z
+DTSTAMP:20220923T211132Z
+UID:2022-09-lollar-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lollar Fight Night
+DTSTART:20220925T140000Z
+DTEND:20220925T170000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-lo
+ llar-fight-night-524
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211132Z
 UID:2022-09-cyborg-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cyborg vs. Silva
@@ -83,18 +110,33 @@ DTEND:20220925T200000Z
 CATEGORIES:Other,Boxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/fms-2-cyborg-vs-silva/
  2pbx0/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92058-fight
- -music-show-2\n\n---\n\nMain Event: Cris Cyborg (0-0-0) vs. Simone da Si
- lva (17-22-0)\nCo-Main Event: Acelino Freitas (0-0-0) vs. Jose Landi-Jon
- s (0-0-0)\nMain Card: Milton Vieira (0-0-0) vs. Felipe Arantes (0-0-0)\n
- Main Card: William Macário (11-6-0) vs. Luan Santiago (17-7-0)\nMain Car
- d: John Allan (13-7-0) vs. Diego Dias (14-5-0)\nMain Card: Edivan Santos
-  (13-4-0) vs. Alison Vicente (27-21-0)\nMain Card: Patricia Alujas (9-2-
- 0) vs. Andressa Romero (5-2-1)\nMain Card: Thor Silva (0-0-0) vs. Paulo 
- Rangel (0-0-0)\nMain Card: Sérgio Bertoluci (0-0-0) vs. Chico Salgado (0
- -0-0)
+ -music-show-2\nhttp://www.sherdog.com/events/fight-music-show-fms-2-9462
+ 6\nhttps://events.mixedmartialarts.com/fight-music-show-2:0b417fa0-0d63-
+ 4ed7-9191-4aa5ac4a7ecf\n\n---\n\nMain Event: Acelino Freitas (0-0-0) vs.
+  Jose Landi-Jons (0-0-0)\nCo-Main Event: Cris Cyborg (0-0-0) vs. Simone 
+ da Silva (17-22-0)\nMain Card: Dynho Alves (0-0-0) vs. Christian Figueir
+ edo (0-0-0)\nMain Card: Milton Vieira (0-0-0) vs. Felipe Arantes (0-0-0)
+ \nMain Card: Sérgio Bertoluci (0-0-0) vs. Chico Salgado (0-0-0)\nMain Ca
+ rd: John Allan (13-7-0) vs. Diego Dias (14-5-0)\nMain Card: William Macá
+ rio (11-6-0) vs. Luan Santiago (17-7-0)\nMain Card: Jackson Loureiro (12
+ -2-1) vs. Willian Lima (10-1-1)\nMain Card: Edivan Santos (13-4-0) vs. A
+ lison Vicente (27-21-0)\nMain Card: Patricia Alujas (9-2-0) vs. Andressa
+  Romero (5-2-1)\nMain Card: Thor Silva (0-0-0) vs. Gabriel Bonfim (0-0-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220918T201650Z
+DTSTAMP:20220923T211132Z
+UID:2022-10-kernfightwerk@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Kernfightwerk
+DTSTART:20221001T160000Z
+DTEND:20221001T190000Z
+CATEGORIES:Other,MMA,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ke
+ rnfightwerk-525
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211132Z
 UID:2022-10-shields-vs-marshall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Marshall
@@ -103,7 +145,7 @@ DTEND:20221015T213000Z
 CATEGORIES:Other,Boxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
  bwm/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/90500-shields
- -vs-marshall\nhttp://www.boxrec.com/en/event/859107\n\n---\n\nMain Event
+ -vs-marshall\nhttp://www.boxrec.com/en/event/862521\n\n---\n\nMain Event
  : Claressa Shields (12-0-0) vs. Savannah Marshall (12-0-0)\nCo-Main Even
  t: Mikaela Mayer (17-0-0) vs. Alycia Baumgardner (12-1-0)\nMain Card: La
  uren Price (0-0-0) vs. Timea Belik (0-0-0)\nMain Card: Karriss Artingsta
@@ -112,6 +154,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
  a Ruegg (0-0-0)\nMain Card: Ebonie Jones (0-0-0) vs. Vanesa Caballero (4
  -15-3)\nMain Card: April Hunter (5-1-0) vs. Erica Alvarez (2-6-0)\nMain 
  Card: Shannon Ryan (0-0-0) vs. Buchra El Quaissi (2-2-3)\nMain Card: Sar
- ah Liegmann (0-0-0) vs. Bec Connolly (3-15-0)
+ ah Liegmann (0-0-0) vs. Bec Connolly (3-15-0)\nMain Card: Georgia O'Conn
+ or (0-0-0) vs. Joyce Van Ee (2-0-1)
 END:VEVENT
 END:VCALENDAR

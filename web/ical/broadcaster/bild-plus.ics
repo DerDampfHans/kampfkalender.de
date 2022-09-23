@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220915T182642Z
-X-KAMPFKALENDER-HASH:5c91d673e1cb3506721cab3be77cec3c79d3803c
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:ee73c23678d8fbbc77eea5a7281cf8520faac193
 BEGIN:VEVENT
-DTSTAMP:20220915T182642Z
+DTSTAMP:20220923T211133Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -26,5 +26,49 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/spo
  anial Aghaie (1-0-0)\nMain Card: Nikodem Miastkowski (0-0-0) vs. Raul Le
  mberanskij (0-0-0)\nMain Card: Robert Dmitrus (0-0-0) vs. Vardan Melikya
  n (1-5-0)\nMain Card: Andris Galaida (4-4-0) vs. Leon Naumann (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-boxing-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Boxing Fight Night
+DTSTART:20220924T160000Z
+DTEND:20220924T190000Z
+CATEGORIES:BDB,Boxen,Bild+,live
+DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
+ en/boxen-mega-event-am-samstag-hier-anmelden-und-titel-boxen-schauen-813
+ 70424.bild.html\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92
+ 294-boxing-fight-night\nhttp://www.boxrec.com/en/event/858929\n\n---\n\n
+ Main Event: Ahmad Ali (17-0-1) vs. Felice Moncelli (23-7-1)\nCo-Main Eve
+ nt: Huseyin Cinkara (18-0-0) vs. Al Sands (22-4-1)\nMain Card: Michael S
+ eitz (0-0-0) vs. M. Arifogullari (11-5-0)\nMain Card: Sarah Bormann (14-
+ 0-0) vs. Elizabeth Lopez (9-4-5)\nMain Card: Leon Bauer (18-0-1) vs. Han
+ cel Gonzalez (0-0-0)\nMain Card: Michel Schmidt (0-0-0) vs. Roland Orosz
+ lan (0-0-0)\nMain Card: Daniel Dietz (0-0-0) vs. Dejan Bubic (2-2-0)\nMa
+ in Card: Farid Bougrara (0-0-0) vs. Janos Lakatos (4-50-1)\nMain Card: A
+ hmad Alselo (0-0-0) vs. Zoltan Bogdan (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
+UID:2022-09-joyce-vs-parker@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Joyce vs. Parker
+DTSTART:20220924T170000Z
+DTEND:20220924T200000Z
+CATEGORIES:Other,Boxen,Bild+,live
+DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
+ en/boxen-joe-joyce-vs-joseph-parker-am-samstag-bei-bild-im-livestream-81
+ 369028.bild.html\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9
+ 1827-joyce-vs-parker\nhttp://www.boxrec.com/en/event/860469\n\n---\n\nMa
+ in Event: Joe Joyce (14-0-0) vs. Joseph Parker (30-2-0)\nCo-Main Event: 
+ Amanda Serrano (42-2-1) vs. Sarah Mahfoud (11-0-0)\nMain Card: Nathan He
+ aney (15-0-0) vs. Jack Flatley (19-2-1)\nMain Card: Raven Chapman (0-0-0
+ ) vs. Jorgelina Guanini (10-4-2)\nMain Card: Michael Magnesi (21-0-0) vs
+ . Anthony Cacace (19-1-0)\nMain Card: Ekow Essuman (17-0-0) vs. Samuel A
+ ntwi (14-1-0)\nMain Card: Mark Heffron (28-2-1) vs. Martin Bulacio (10-6
+ -0)\nPrelim: James Heneghan (7-0-0) vs. Rod Douglas Jr. (3-4-0)\nPrelim:
+  Amaar Akbar (3-0-0) vs. Karlo Wallace (0-0-0)\nPrelim: Callum Thompson 
+ (0-0-0) vs. Delmar Thomas (5-2-0)\nPrelim: Tommy Fletcher (0-0-0) vs. To
+ ni Visic (20-34-2)
 END:VEVENT
 END:VCALENDAR

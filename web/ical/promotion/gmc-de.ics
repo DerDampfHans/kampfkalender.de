@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220917T130132Z
-X-KAMPFKALENDER-HASH:6b72bd40d2e9498fe390f994fdafff6d4cc14837
+DTSTAMP:20220923T211132Z
+X-KAMPFKALENDER-HASH:bf30a442f96de50a2a4de65ddaec6a3da6755741
 BEGIN:VEVENT
-DTSTAMP:20220917T130132Z
+DTSTAMP:20220923T211133Z
 UID:2022-09-gmc-29-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 29: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/GMCMMAChampionship\nvi
  0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220917T130132Z
+DTSTAMP:20220923T211133Z
 UID:2022-09-gmc-29-ott-vs-wesner@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 29: Ott vs. Wesner
@@ -50,7 +50,18 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220917-gmc-29\n\
  ax Behrbalk (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220917T130132Z
+DTSTAMP:20220923T211133Z
+UID:2022-09-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20220924T150000Z
+DTEND:20220924T180000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220924-olympix-k
+ 1-boxen-mma-no-114
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T211133Z
 UID:2022-10-gmc-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 30
@@ -61,10 +72,12 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221015-gmc-30\n\
  n---\n\nhttps://www.tapology.com/fightcenter/events/90353-gmc-30\n\n---\
  n\nMain Card: Arijan Topallaj (3-0-1) vs. Cagri Ucar (5-0-0)\nMain Card:
   Chequina Noso Pedro (5-2-0) vs. Adrian Zeitner (10-2-0)\nMain Card: Fra
- nziska Chwalicz (0-1-0) vs. Lorena Cubero (0-0-0)
+ nziska Chwalicz (0-1-0) vs. Lorena Cubero (0-0-0)\nMain Card: Gjoni Palo
+ kaj (5-3-0) vs. Eduard Evdokimov (3-1-0)\nMain Card: Ben Davis (8-5-0) v
+ s. Alexander Luster (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220917T130132Z
+DTSTAMP:20220923T211133Z
 UID:2022-12-gmc-fight-night-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Fight Night 16
