@@ -9,6 +9,7 @@
       "#EMCTalents"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "EMC Talents",
       "time": "2022-09-24T12:00:00Z"
     },
@@ -44,7 +45,24 @@
     ],
     "mainCard": {
       "title": "EMC 10",
-      "time": "2022-09-24T16:00:00Z"
+      "time": "2022-09-24T20:00:00Z",
+      "broadcasters": {
+        "EMC_TV": {
+          "url": "https://emctv.de/ppv/emc-10,272173"
+        },
+        "BILD_PLUS": {
+          "url": "https://www.bild.de/bild-plus/sport/mehr-sport/sport-mix/emc10-hier-den-mma-knaller-mit-engizek-und-dulatov-gucken-81305106.bild.html"
+        }
+      }
+    },
+    "prelims": {
+      "title": "EMC 10: Prelims",
+      "time": "2022-09-24T17:00:00Z",
+      "broadcasters": {
+        "EMC_TV": {
+          "url": "https://emctv.de/ppv/emc-10,272173"
+        }
+      }
     },
     "tapology": {
       "id": 91476,

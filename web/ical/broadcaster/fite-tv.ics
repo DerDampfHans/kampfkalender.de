@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220923T211132Z
-X-KAMPFKALENDER-HASH:b1d4907b3e163ad09c32792a0ecb681acb90899b
+DTSTAMP:20220923T221937Z
+X-KAMPFKALENDER-HASH:5380c2b4f4651231b66844375d3c4a891549ea38
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-09-fusion-fight-league-gonzales-vs-willis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Gonzales vs. Willis
@@ -33,7 +33,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-gonzales-vs-willis
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-09-stevenson-vs-conceicao@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Stevenson vs. Conceicao
@@ -55,13 +55,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-stevenson-vs-
  (6-0-0) vs. J. Martinez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
 DTSTART:20220925T030000Z
 DTEND:20220925T060000Z
-CATEGORIES:Other,MMA,Boxen,Kickboxen,fite.tv,live
+CATEGORIES:RIZIN,MMA,Boxen,Kickboxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  2pbuk/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92610-super
  -rizin\n\n---\n\nMain Event: Floyd Mayweather Jr. (50-0-0) vs. Mikuru As
@@ -70,7 +70,26 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  sungnoen (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
+UID:2022-09-rizin-38@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:RIZIN 38
+DTSTART:20220925T060000Z
+DTEND:20220925T090000Z
+CATEGORIES:RIZIN,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-38/2pbzo/\n\n---
+ \n\nhttps://www.tapology.com/fightcenter/events/92070-rizin-38\nhttp://w
+ ww.sherdog.com/events/rizin-ff-super-rizin-rizin-38-94346\n\n---\n\nMain
+  Event: Kyoji Horiguchi (29-5-0) vs. Yuto Hokamura (14-11-2)\nCo-Main Ev
+ ent: Seika Izawa (7-0-0) vs. Anastasiya Svetkivska (2-1-0)\nMain Card: A
+ yaka Hamasaki (24-5-0) vs. Si Woo Park (8-4-0)\nMain Card: Soo Chul Kim 
+ (17-6-1) vs. Hiromasa Ougikubo (25-5-2)\nMain Card: Shoma Shibisai (8-3-
+ 0) vs. C. Gibrainn de Oliveira (5-1-0)\nMain Card: Kyohei Hagiwara (6-6-
+ 0) vs. Chihiro Suzuki (7-3-0)\nMain Card: Juri Ohara (31-17-3) vs. Luiz 
+ Gustavo (11-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T221938Z
 UID:2022-09-cyborg-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cyborg vs. Silva
@@ -94,7 +113,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/fms-2-cyborg-vs-silva/
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-10-bkfc-30-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 30: Prelims
@@ -111,7 +130,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-30-monroe-prelims
  LaCaze vs. Noah Cutter\nPrelim: David Bosnick vs. Loren Thibodeaux
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-10-bkfc-30-hunt-vs-henry@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 30: Hunt vs. Henry
@@ -128,7 +147,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-30-monroe/2pbwi/\
  s. Noah Cutter\nPrelim: David Bosnick vs. Loren Thibodeaux
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-10-shields-vs-marshall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Marshall
@@ -150,7 +169,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
  or (0-0-0) vs. Joyce Van Ee (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-10-bkfc-31-richman-vs-doolittle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Richman vs. Doolittle
@@ -165,7 +184,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  land vs. Levi Costa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-10-haney-vs-kambosos-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Haney vs. Kambosos Jr
@@ -181,7 +200,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-haney-vs-kamb
  9-0-0) vs. Faiga Opelu (14-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-10-lomachenko-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lomachenko vs. Ortiz
@@ -197,7 +216,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-lomachenko-vs
  0) vs. Robeisy Ramirez (10-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-10-paul-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva
@@ -212,7 +231,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva/2pbx1/\n
  arshavski (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-11-bkfc-33@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33
@@ -223,7 +242,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/93097-bkfc-33
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks

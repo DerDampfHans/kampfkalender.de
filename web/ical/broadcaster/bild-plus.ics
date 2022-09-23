@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220923T211132Z
-X-KAMPFKALENDER-HASH:ee73c23678d8fbbc77eea5a7281cf8520faac193
+DTSTAMP:20220923T221937Z
+X-KAMPFKALENDER-HASH:14db6added989dc2d06d679ef40629acfc9dba4f
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-09-we-love-mma-59@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 59
@@ -28,7 +28,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/spo
  n (1-5-0)\nMain Card: Andris Galaida (4-4-0) vs. Leon Naumann (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-09-boxing-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing Fight Night
@@ -49,7 +49,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  hmad Alselo (0-0-0) vs. Zoltan Bogdan (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220923T221938Z
 UID:2022-09-joyce-vs-parker@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Joyce vs. Parker
@@ -70,5 +70,30 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
   Amaar Akbar (3-0-0) vs. Karlo Wallace (0-0-0)\nPrelim: Callum Thompson 
  (0-0-0) vs. Delmar Thomas (5-2-0)\nPrelim: Tommy Fletcher (0-0-0) vs. To
  ni Visic (20-34-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220923T221938Z
+UID:2022-09-emc-10@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:EMC 10
+DTSTART:20220924T200000Z
+DTEND:20220924T230000Z
+CATEGORIES:EMC,MMA,emctv.de,Bild+,live
+DESCRIPTION:via emctv.de: https://emctv.de/ppv/emc-10\,272173\nvia Bild+:
+  https://www.bild.de/bild-plus/sport/mehr-sport/sport-mix/emc10-hier-den
+ -mma-knaller-mit-engizek-und-dulatov-gucken-81305106.bild.html\n\n---\n\
+ nhttps://www.tapology.com/fightcenter/events/91476-emc-10\nhttp://www.sh
+ erdog.com/events/emc-10-elite-mma-championship-10-94174\n\n---\n\nMain E
+ vent: Kerim Engizek (17-4-0) vs. Wallison Henrique (15-11-0)\nCo-Main Ev
+ ent: Ahmed Abdulkadirov (8-1-0) vs. Alexandre Ribeiro (19-9-1)\nMain Car
+ d: Fabiano Silva (32-14-1) vs. Bekhruz Zukhurov (16-5-0)\nMain Card: Mar
+ cel Jedidi (4-6-0) vs. Silvestrs Kaņeps (5-0-0)\nMain Card: Ivan Zidar (
+ 7-3-0) vs. Said Eidi (6-8-0)\nMain Card: Kamran Hafzabad (0-0-0) vs. Tom
+ ek Łangowski (3-2-0)\nMain Card: Saeed Younesi (4-4-0) vs. Wojciech Kacp
+ rzyk (1-0-0)\nMain Card: Miljan Zdravkovic (3-0-0) vs. Murad Teleev (5-5
+ -0)\nMain Card: Daniel Alberti (4-1-0) vs. Drazan Janjanin (0-0-0)\nMain
+  Card: Islam Dulatov (7-1-0) vs. Alexander Mikael (9-0-0)\nMain Card: Ro
+ bert Oganesyan (8-9-0) vs. Walter Gahadza (18-7-0)\nMain Card: Deniz Ilb
+ ay (2-0-0) vs. Denis Gondžala (1-0-0)
 END:VEVENT
 END:VCALENDAR
