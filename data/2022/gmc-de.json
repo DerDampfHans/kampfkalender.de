@@ -654,5 +654,32 @@
         "http://www.sherdog.com/events/gmc-29-german-mma-championship-29-93995"
       ]
     }
+  },
+  {
+    "id": "gmc-2022-09-24",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#GMCOlympiX"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2022-09-24T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220924-olympix-k1-boxen-mma-no-114"
+        }
+      },
+      "gmc": {
+        "id": "220924-olympix-k1-boxen-mma-no-114",
+        "time": "2022-09-24T15:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 114)",
+        "url": "https://www.german-mma.de/events/220924-olympix-k1-boxen-mma-no-114"
+      }
+    }
   }
 ]
