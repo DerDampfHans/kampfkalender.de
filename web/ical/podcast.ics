@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220923T223333Z
-X-KAMPFKALENDER-HASH:7e2691d4ade82c1637e27bf2ffa5ae59c91e0413
+DTSTAMP:20220925T153701Z
+X-KAMPFKALENDER-HASH:112b9894f8fcbf10c022ac988af65d707f0de32c
 BEGIN:VEVENT
-DTSTAMP:20220923T223334Z
+DTSTAMP:20220925T153702Z
 UID:2022-09-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -17,13 +17,13 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Y_b-JABEm_Y
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T223334Z
-UID:2022-09-schlagwort-podcast-1@kampfkalender.de
+DTSTAMP:20220925T153702Z
+UID:2022-09-schlagwort-special-tom-holemann@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast
+SUMMARY:Schlagwort Special: Tom Hölemann
 DTSTART:20220925T160000Z
 DTEND:20220925T180000Z
-CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=HFjEF_JCfw8
 END:VEVENT
 END:VCALENDAR
