@@ -49,7 +49,7 @@
     },
     "tapology": {
       "id": 89894,
-      "time": "2022-10-01T22:00:00Z",
+      "time": "2022-10-01T20:00:00Z",
       "title": "UFC Fight Night: Dern vs. Yan",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/89894-ufc-fight-night",
@@ -73,7 +73,9 @@
       ],
       "links": [
         "http://www.sherdog.com/events/ufc-fight-night-211-dern-vs-yan-93426",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Dern_vs._Yan",
         "https://events.mixedmartialarts.com/ufc-fight-night:503b2bfc-59c0-420c-adaf-9e123f8d2d3f",
+        "https://www.ufc.com/event/ufc-fight-night-october-01-2022",
         "http://www.ufcstats.com/event-details/4f670b7972fa0a2e",
         "https://www.bestfightodds.com/events/ufc-vegas-57-2489"
       ]
@@ -211,7 +213,8 @@
         "Prelim: Abubakar Nurmagomedov (16-3-1) vs. Gadzhi Omargadzhiev (13-1-0)",
         "Prelim: Armen Petrosyan (7-2-0) vs. AJ Dobson (6-1-0)",
         "Prelim: Lina Länsberg (10-6-0) vs. Karol Rosa (15-4-0)",
-        "Prelim: Shamil Abdurakhimov (20-7-0) vs. Jailton Almeida (17-2-0)"
+        "Prelim: Shamil Abdurakhimov (20-7-0) vs. Jailton Almeida (17-2-0)",
+        "Prelim: Yamato Nishikawa (21-3-6) vs. Magomed Mustafaev (14-4-0)"
       ]
     }
   },
@@ -431,7 +434,7 @@
       "#UFCVegas65"
     ],
     "mainCard": {
-      "title": "UFC Vegas 65",
+      "title": "UFC Vegas 65: Lewis vs. Spivak",
       "time": "2022-11-19T23:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -450,13 +453,14 @@
     "tapology": {
       "id": 91976,
       "time": "2022-11-19T23:00:00Z",
-      "title": "UFC Fight Night",
+      "title": "UFC Fight Night: Lewis vs. Spivak",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/91976-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
+        "Main Event: Derrick Lewis (26-10-0) vs. Sergey Spivak (15-3-0)",
         "Main Card: Muslim Salikhov (18-3-0) vs. Andre Fialho (16-5-0)",
         "Prelim: Ricky Turcios (11-3-0) vs. Kevin Natividad (9-3-0)",
         "Prelim: Maria Oliveira (13-5-0) vs. Vanessa Demopoulos (8-4-0)",
@@ -563,6 +567,7 @@
         "Main Card: Santiago Ponzinibbio (28-6-0) vs. Robbie Lawler (29-16-0)",
         "Main Card: Darren Till (18-4-1) vs. Dricus Du Plessis (17-2-0)",
         "Main Card: Jairzinho Rozenstruik (12-4-0) vs. Chris Daukaus (12-5-0)",
+        "Main Card: Chris Curtis (29-9-0) vs. Joaquin Buckley (15-5-0)",
         "Prelim: Edmen Shahbazyan (11-3-0) vs. Dalcha Lungiambula (11-5-0)",
         "Prelim: Billy Quarantillo (16-4-0) vs. Alexander Hernandez (13-5-0)",
         "Prelim: Erik Silva (9-1-0) vs. TJ Brown (16-9-0)"
@@ -615,6 +620,50 @@
     }
   },
   {
+    "id": "tapology-93279",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2023-01-14T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 93279,
+      "time": "2023-01-14T23:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/93279-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Prelim: Jeff Molina (11-2-0) vs. Jimmy Flick (16-5-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-92055",
     "promotion": "UFC",
     "sports": [
@@ -651,8 +700,14 @@
       "id": 92055,
       "time": "2023-01-21T23:00:00Z",
       "title": "UFC 283",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/92055-ufc-283"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/92055-ufc-283",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Prelim: Gabriel Bonfim (13-0-0) vs. Mounir Lazzez (11-2-0)"
+      ]
     }
   }
 ]

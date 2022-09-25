@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220924T220305Z
-X-KAMPFKALENDER-HASH:76e930e40a726ab6e12f597c39e9ded040113039
+DTSTAMP:20220925T160008Z
+X-KAMPFKALENDER-HASH:d48eafbd91e822e75bc4a218f0c17cee5a07eb37
 BEGIN:VEVENT
-DTSTAMP:20220924T220305Z
+DTSTAMP:20220925T160009Z
 UID:2022-09-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -18,7 +18,18 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220924-olympix-k
  1-boxen-mma-no-114
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220924T220305Z
+DTSTAMP:20220925T160009Z
+UID:2022-10-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20221008T100000Z
+DTEND:20221008T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221008-olympix-g
+ rappling-no-115
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220925T160009Z
 UID:2022-10-gmc-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 30
@@ -34,7 +45,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221015-gmc-30\n\
  s. Alexander Luster (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220924T220305Z
+DTSTAMP:20220925T160009Z
 UID:2022-12-gmc-fight-night-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Fight Night 16
