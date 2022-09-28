@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220925T153701Z
-X-KAMPFKALENDER-HASH:af79c181cb467486651dc16f2e31ae4d9a7062b4
+DTSTAMP:20220928T230810Z
+X-KAMPFKALENDER-HASH:f8c681d61cafdf855ee14f670601498b4d12b700
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
 UID:2022-09-hughes-vs-galahad@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hughes vs. Galahad
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Card: Mohammed Sameer (4-0-0) vs. Dale Arrowsmith (4-64-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
 UID:2022-10-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -40,7 +40,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0) vs. Mateo Tapia (14-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
 UID:2022-10-eubank-jr-vs-benn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eubank Jr. vs. Benn
@@ -55,10 +55,22 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Gohan Rodriguez (12-1-1)\nMain Card: Shannon Courtenay (7-2-0) vs. Gemm
  a Ruegg (0-0-0)\nMain Card: Harlem Eubank (15-0-0) vs. David Martin (0-0
  -0)\nMain Card: Chloe Watson (0-0-0) vs. Nancy Franco (18-17-2)\nMain Ca
- rd: Matty Harris (0-0-0) vs. Chris Healey (9-12-0)
+ rd: Matty Harris (0-0-0) vs. Chris Healey (9-12-0)\nMain Card: Lyndon Ar
+ thur (20-1-0) vs. Cesar Hernan Reynoso (17-17-4)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
+UID:2022-10-matchroom-mexico@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Matchroom México
+DTSTART:20221023T020000Z
+DTEND:20221023T050000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/93386-matchroom-mexico
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220928T230811Z
 UID:2022-10-taylor-vs-carabajal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Carabajal
@@ -72,7 +84,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  nMain Card: Johnny Fisher (6-0-0) vs. Alfonso Damiani (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
 UID:2022-11-bivol-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Zurdo
@@ -86,7 +98,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  khimov (16-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark
@@ -98,7 +110,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ain Event: Montana Love (18-0-1) vs. Steve Spark (15-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
 UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Chocolatito 3
@@ -110,7 +122,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  trada (43-3-0) vs. Roman Gonzalez (51-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T153702Z
+DTSTAMP:20220928T230811Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez

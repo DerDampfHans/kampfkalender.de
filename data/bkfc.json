@@ -68,6 +68,9 @@
         "Main Card: Harris Stephenson vs. Kaleb Harris",
         "Prelim: Blake LaCaze vs. Noah Cutter",
         "Prelim: David Bosnick vs. Loren Thibodeaux"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-30:12c3208e-56c4-491a-ab31-f7a0ee8fbb26"
       ]
     }
   },
@@ -82,10 +85,45 @@
     ],
     "mainCard": {
       "title": "BKFC 31: Richman vs. Doolittle",
+      "time": "2022-10-16T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-31-denver/2pc1r/"
+        }
+      },
+      "fite": {
+        "id": "2pc1r",
+        "time": "2022-10-16T01:00:00Z",
+        "title": "BKFC 31 Denver: Mike Richman vs Isaac Doolittle",
+        "url": "https://www.fite.tv/watch/bkfc-31-denver/2pc1r/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 31: Prelims",
       "time": "2022-10-16T00:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-31-denver-prelims/2pc1s/",
+          "free": true
         }
+      },
+      "fite": {
+        "id": "2pc1s",
+        "time": "2022-10-16T00:00:00Z",
+        "title": "BKFC 31 Denver: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-31-denver-prelims/2pc1s/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {

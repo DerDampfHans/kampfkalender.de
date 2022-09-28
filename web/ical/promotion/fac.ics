@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220923T211132Z
-X-KAMPFKALENDER-HASH:08d59d34a002109fcbc32cf1ac3004c2d15eafab
+DTSTAMP:20220928T230810Z
+X-KAMPFKALENDER-HASH:2824bfc108cd9be9aee307b1c5d3d92a2676490a
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220928T230811Z
 UID:2022-10-fac-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:FAC 16
@@ -25,5 +25,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Chris Tarnawski (1-1-0)\nPrelim: Bryan Herrera (0-1-0) vs. Caleb Willia
  ms (4-4-0)\nPrelim: Sam Coronado (3-2-0) vs. Vince Anderson (4-2-0)\nPre
  lim: Julie Russell (8-7-0) vs. Anjoli Fard (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220928T230811Z
+UID:2022-12-fac-17@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:FAC 17
+DTSTART:20221210T010000Z
+DTEND:20221210T040000Z
+CATEGORIES:FAC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/93369-fac-17
 END:VEVENT
 END:VCALENDAR

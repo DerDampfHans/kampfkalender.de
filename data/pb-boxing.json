@@ -12,10 +12,45 @@
     },
     "tapology": {
       "id": 93277,
-      "time": "2022-10-17T19:00:00Z",
+      "time": "2022-10-15T19:00:00Z",
       "title": "Probellum Liverpool",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/93277-probellum-liverpool"
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/93277-probellum-liverpool",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Card: Peter McGrail (0-0-0) vs. Alexander Espinoza (21-3-2)",
+        "Main Card: Jazza Dickens (31-4-0) vs. Lerato Dlamini (17-1-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/862796"
+      ]
+    }
+  },
+  {
+    "id": "tapology-93365",
+    "promotion": "PB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Edwards vs. Alvarado",
+      "time": "2022-11-11T19:00:00Z"
+    },
+    "tapology": {
+      "id": 93365,
+      "time": "2022-11-11T19:00:00Z",
+      "title": "Edwards vs. Alvarado",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/93365-edwards-vs-alvarado",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Sunny Edwards (18-0-0) vs. Felix Alvarado (38-2-0)"
+      ]
     }
   }
 ]
