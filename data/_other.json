@@ -1,26 +1,5 @@
 [
   {
-    "id": "kern-2022-10-01",
-    "promotion": "_OTHER",
-    "sports": [
-      "MMA",
-      "KICKBOXING"
-    ],
-    "tags": [
-      "#KernsGym",
-      "#Kernfightwerk"
-    ],
-    "mainCard": {
-      "title": "Kernfightwerk",
-      "time": "2022-10-01T16:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "url": "https://www.fight24.tv/fightpasses/fight24-kernfightwerk-525"
-        }
-      }
-    }
-  },
-  {
     "id": "heroes-2022-10-01",
     "promotion": "_OTHER",
     "sports": [
@@ -59,6 +38,27 @@
       "broadcasters": {
         "FIGHT24_TV": {
           "url": "https://www.fight24.tv/fightpasses/fight24-elite-fight-night-3-528"
+        }
+      }
+    }
+  },
+  {
+    "id": "kern-2022-10-01",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#KernsGym",
+      "#Kernfightwerk"
+    ],
+    "mainCard": {
+      "title": "Kernfightwerk",
+      "time": "2022-10-01T16:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-kernfightwerk-525"
         }
       }
     }
