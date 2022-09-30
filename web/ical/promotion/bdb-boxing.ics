@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220923T211132Z
-X-KAMPFKALENDER-HASH:fda62b81d3e2bf30693094379431258695d5bb6e
+DTSTAMP:20220930T045309Z
+X-KAMPFKALENDER-HASH:4471c03d9075ad5ab9ad2af56188c729fc725ded
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-boxing-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Boxing Fight Night
@@ -28,7 +28,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  hmad Alselo (0-0-0) vs. Zoltan Bogdan (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220923T211133Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-rk-boxing-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RK Boxing Fight Night
@@ -42,5 +42,21 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-rk
   Card: Qendrim Krasniqi (4-1-0) vs. Merab Gukasiani (11-26-5)\nMain Card
  : Stefani Koykov (10-1-0) vs. Gary Abajyan (17-45-1)\nMain Card: Kushtri
  m Tahirukaj (0-0-0) vs. Giorgi Abramishvili (13-24-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
+UID:2022-09-hammer-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hammer Fight Night
+DTSTART:20220930T170000Z
+DTEND:20220930T200000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ha
+ mmer-fight-night-526\n\n---\n\nhttps://www.tapology.com/fightcenter/even
+ ts/93303-hammer-fight-night\nhttp://www.boxrec.com/en/event/861781\n\n--
+ -\n\nMain Card: Petar Milas (15-1-0) vs. Pavel Sour (15-11-0)\nMain Card
+ : Artur Mann (18-2-0) vs. Amine Boucetta (7-4-0)\nMain Card: Elvis Hetem
+ i (17-1-0) vs. Kenan Catic (0-0-0)\nMain Card: Djuar El Scheich (15-0-0)
+  vs. Adnan Redžović (21-6-0)
 END:VEVENT
 END:VCALENDAR

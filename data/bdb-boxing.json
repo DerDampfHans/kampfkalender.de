@@ -5,10 +5,18 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#Bergkamen"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Hammer Fight Night",
-      "time": "2022-09-30T18:00:00Z"
+      "time": "2022-09-30T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-hammer-fight-night-526",
+          "freeAfter": 48
+        }
+      }
     },
     "tapology": {
       "id": 93303,

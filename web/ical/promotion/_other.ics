@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220925T160008Z
-X-KAMPFKALENDER-HASH:1b1ee829cf099df5978dcdbc867fa57dc0cee61b
+DTSTAMP:20220930T045309Z
+X-KAMPFKALENDER-HASH:c90156c0f0ba541af7cd65dcf0516dcff234a860
 BEGIN:VEVENT
-DTSTAMP:20220925T160009Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-international-boxing-masters-cup@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:International Boxing Masters Cup
@@ -18,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-in
  t-masters-cup-522
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T160009Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-joyce-vs-parker@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Joyce vs. Parker
@@ -41,7 +41,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  ni Visic (20-34-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T160009Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-lollar-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lollar Fight Night
@@ -52,7 +52,29 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-lo
  llar-fight-night-524
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T160009Z
+DTSTAMP:20220930T045309Z
+UID:2022-10-heroes-clash-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Heroes Clash 3
+DTSTART:20221001T150000Z
+DTEND:20221001T180000Z
+CATEGORIES:Other,MMA,Kickboxen,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-he
+ roes-clash-vol-3-527
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
+UID:2022-10-elite-fight-night-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Elite Fight Night 3
+DTSTART:20221001T153000Z
+DTEND:20221001T183000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-el
+ ite-fight-night-3-528
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
 UID:2022-10-kernfightwerk@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kernfightwerk
@@ -63,7 +85,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ke
  rnfightwerk-525
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220925T160009Z
+DTSTAMP:20220930T045309Z
 UID:2022-10-shields-vs-marshall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Marshall

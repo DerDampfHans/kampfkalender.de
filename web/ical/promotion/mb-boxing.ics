@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220928T230810Z
-X-KAMPFKALENDER-HASH:f8c681d61cafdf855ee14f670601498b4d12b700
+DTSTAMP:20220930T045309Z
+X-KAMPFKALENDER-HASH:0154acb3ac142b091feccb26a0aa05204e98cba2
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-hughes-vs-galahad@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hughes vs. Galahad
@@ -25,22 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Card: Mohammed Sameer (4-0-0) vs. Dale Arrowsmith (4-64-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
-UID:2022-10-paro-vs-jarvis@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Paro vs. Jarvis
-DTSTART:20221001T110000Z
-DTEND:20221001T140000Z
-CATEGORIES:MB,Boxen,DAZN,live
-DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/90363-paro-vs-jarvis\nhttp://www.boxrec.com/en/event/860928\n\n---\n\n
- Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)\nMain Card: Sky
- e Nicolson (0-0-0) vs. Krystina Jacobs (6-3-0)\nMain Card: Demsey McKean
-  (21-0-0) vs. Patrick Korte (17-1-1)\nMain Card: Abdoul Mayweather (7-0-
- 0) vs. Mateo Tapia (14-0-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-10-eubank-jr-vs-benn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eubank Jr. vs. Benn
@@ -59,7 +44,24 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  thur (20-1-0) vs. Cesar Hernan Reynoso (17-17-4)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
+UID:2022-10-paro-vs-jarvis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paro vs. Jarvis
+DTSTART:20221015T080000Z
+DTEND:20221015T110000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90363-paro-vs-jarvis\nhttp://www.boxrec.com/en/event/860928\n\n---\n\n
+ Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)\nMain Card: Sky
+ e Nicolson (0-0-0) vs. Krystina Jacobs (6-3-0)\nMain Card: Demsey McKean
+  (21-0-0) vs. Patrick Korte (17-1-1)\nMain Card: Abdoul Mayweather (7-0-
+ 0) vs. Mateo Tapia (14-0-0)\nMain Card: Rocky Ogden (2-0-0) vs. Ben Came
+ ron-Hands (3-0-0)\nMain Card: Dylan Biggs (6-0-0) vs. Mirko Pizzi (4-2-0
+ )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
 UID:2022-10-matchroom-mexico@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Matchroom México
@@ -70,7 +72,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/93386-matchroom-mexico
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-10-taylor-vs-carabajal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Carabajal
@@ -78,13 +80,14 @@ DTSTART:20221029T200000Z
 DTEND:20221029T230000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/93059-taylor-vs\n\n---\n\nMain Event: Katie Taylor (21-0-0) vs. K. Car
- abajal (0-0-0)\nCo-Main Event: Jordan Gill (27-1-1) vs. Kiko Martinez (4
- 3-11-2)\nMain Card: Caoimhin Agyarko (12-0-0) vs. Peter Dobson (16-0-0)\
- nMain Card: Johnny Fisher (6-0-0) vs. Alfonso Damiani (5-2-0)
+ s/93059-taylor-vs\nhttp://www.boxrec.com/en/event/862555\n\n---\n\nMain 
+ Event: Katie Taylor (21-0-0) vs. K. Carabajal (0-0-0)\nCo-Main Event: Jo
+ rdan Gill (27-1-1) vs. Kiko Martinez (43-11-2)\nMain Card: Caoimhin Agya
+ rko (12-0-0) vs. Peter Dobson (16-0-0)\nMain Card: Johnny Fisher (6-0-0)
+  vs. Alfonso Damiani (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-11-bivol-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Zurdo
@@ -98,7 +101,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  khimov (16-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark
@@ -107,10 +110,13 @@ DTEND:20221113T050000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92465-love-vs-spark\nhttp://www.boxrec.com/en/event/861495\n\n---\n\nM
- ain Event: Montana Love (18-0-1) vs. Steve Spark (15-2-0)
+ ain Event: Montana Love (18-0-1) vs. Steve Spark (15-2-0)\nMain Card: Ri
+ chardson Hitchins (14-0-0) vs. Yomar Alamo (20-1-1)\nMain Card: Christia
+ n Tapia (15-0-0) vs. Thomas Mattice (19-3-1)\nMain Card: Ray Ford (12-0-
+ 1) vs. Sakaria Lukas (25-1-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Chocolatito 3
@@ -122,7 +128,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  trada (43-3-0) vs. Roman Gonzalez (51-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez

@@ -248,14 +248,14 @@
     ],
     "mainCard": {
       "title": "Road to UFC 5",
-      "time": "2022-10-23T07:00:00Z",
+      "time": "2022-10-23T11:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 224607,
-        "time": "2022-10-23T07:00:00Z",
+        "time": "2022-10-23T11:00:00Z",
         "title": "Road to UFC: 5"
       }
     }
@@ -272,14 +272,14 @@
     ],
     "mainCard": {
       "title": "Road to UFC 6",
-      "time": "2022-10-23T09:30:00Z",
+      "time": "2022-10-23T13:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 224608,
-        "time": "2022-10-23T09:30:00Z",
+        "time": "2022-10-23T13:00:00Z",
         "title": "Road to UFC: 6"
       }
     }
@@ -295,12 +295,19 @@
     ],
     "mainCard": {
       "title": "UFC Vegas 63: Kattar vs. Allen",
-      "time": "2022-10-29T22:00:00Z",
+      "time": "2022-10-30T01:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "dazn": {
+        "id": "bk2pysf95b491idwiyobd9ds5",
+        "time": "2022-10-30T01:00:00Z",
+        "title": "UFC Fight Night: Kattar vs Allen (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
@@ -500,7 +507,7 @@
       "#UFCOrlando"
     ],
     "mainCard": {
-      "title": "UFC Orlando: Brunson vs. Hermansson",
+      "title": "UFC Orlando",
       "time": "2022-12-03T23:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -519,16 +526,16 @@
     "tapology": {
       "id": 91801,
       "time": "2022-12-03T23:00:00Z",
-      "title": "UFC Fight Night: Brunson vs. Hermansson",
+      "title": "UFC Fight Night",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/91801-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Derek Brunson (23-8-0) vs. Jack Hermansson (23-7-0)",
         "Main Card: Tracy Cortez (10-1-0) vs. Amanda Ribas (11-3-0)",
         "Main Card: Matheus Nicolau (18-2-1) vs. Matt Schnell (16-7-0)",
+        "Main Card: Derek Brunson (23-8-0) vs. Jack Hermansson (23-7-0)",
         "Main Card: Clay Guida (37-22-0) vs. Scott Holtzman (14-5-0)",
         "Prelim: Eryk Anders (14-7-0) vs. Kyle Daukaus (11-3-0)",
         "Prelim: Francis Marshall (6-0-0) vs. Marcelo Rojo (16-8-0)",
@@ -590,7 +597,8 @@
         "Prelim: Edmen Shahbazyan (11-3-0) vs. Dalcha Lungiambula (11-5-0)",
         "Prelim: Billy Quarantillo (16-4-0) vs. Alexander Hernandez (13-5-0)",
         "Prelim: Erik Silva (9-1-0) vs. TJ Brown (16-9-0)",
-        "Prelim: Daniel da Silva (11-4-0) vs. Vinicius Salvador (14-4-0)"
+        "Prelim: Daniel da Silva (11-4-0) vs. Vinicius Salvador (14-4-0)",
+        "Prelim: Jamie Pickett (13-8-0) vs. Bo Nickal (3-0-0)"
       ]
     }
   },
@@ -632,6 +640,7 @@
       "card": [
         "Main Event: Jared Cannonier (15-6-0) vs. Sean Strickland (25-4-0)",
         "Main Card: Alex Perez (24-7-0) vs. Amir Albazi (15-1-0)",
+        "Main Card: Arman Tsarukyan (18-3-0) vs. Damir Ismagulov (24-1-0)",
         "Prelim: Julian Marquez (9-3-0) vs. Deron Winn (7-3-0)",
         "Prelim: Tafon Nchukwi (6-3-0) vs. Jamal Pogues (9-3-0)",
         "Prelim: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)",

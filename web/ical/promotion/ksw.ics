@@ -4,10 +4,22 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220928T230810Z
-X-KAMPFKALENDER-HASH:9e77fca8ccde674361271069d994c7612e1c020a
+DTSTAMP:20220930T045309Z
+X-KAMPFKALENDER-HASH:695a78e16392033d55dbcdba34227161f1ac8142
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
+UID:2022-09-ksw-24-clash-of-the-giants-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 24: Clash of the Giants (Re-Live)
+DTSTART:20220930T160000Z
+DTEND:20220930T190000Z
+CATEGORIES:KSW,MMA,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=B_XVLJHppmc\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/20051-ksw-24-clash-of-
+ the-giants
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
 UID:2022-10-ksw-75-chuzhigaev-vs-erslan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 75: Chuzhigaev vs. Erslan
@@ -25,7 +37,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  á (6-4-0) vs. Adrianna Kreft (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-11-ksw-76-zio-kowski-vs-parnasse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 76: Ziółkowski vs. Parnasse
@@ -37,7 +49,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
   Salahdine Parnasse (16-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-12-ksw-77@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 77

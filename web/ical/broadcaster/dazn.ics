@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220928T230810Z
-X-KAMPFKALENDER-HASH:d820f0b3179044b6e41e3d657b95b61210012153
+DTSTAMP:20220930T045309Z
+X-KAMPFKALENDER-HASH:1964001243fbd5f497d457389d8c4059036a561e
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-09-hughes-vs-galahad@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hughes vs. Galahad
@@ -25,22 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Card: Mohammed Sameer (4-0-0) vs. Dale Arrowsmith (4-64-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
-UID:2022-10-paro-vs-jarvis@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Paro vs. Jarvis
-DTSTART:20221001T110000Z
-DTEND:20221001T140000Z
-CATEGORIES:MB,Boxen,DAZN,live
-DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/90363-paro-vs-jarvis\nhttp://www.boxrec.com/en/event/860928\n\n---\n\n
- Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)\nMain Card: Sky
- e Nicolson (0-0-0) vs. Krystina Jacobs (6-3-0)\nMain Card: Demsey McKean
-  (21-0-0) vs. Patrick Korte (17-1-1)\nMain Card: Abdoul Mayweather (7-0-
- 0) vs. Mateo Tapia (14-0-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-10-ufc-vegas-61-dern-vs-xiaonan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 61: Dern vs. Xiaonan
@@ -68,7 +53,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  nnetti (9-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-10-eubank-jr-vs-benn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eubank Jr. vs. Benn
@@ -87,7 +72,24 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  thur (20-1-0) vs. Cesar Hernan Reynoso (17-17-4)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
+UID:2022-10-paro-vs-jarvis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paro vs. Jarvis
+DTSTART:20221015T080000Z
+DTEND:20221015T110000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/90363-paro-vs-jarvis\nhttp://www.boxrec.com/en/event/860928\n\n---\n\n
+ Main Event: Liam Paro (22-0-0) vs. Brock Jarvis (20-0-0)\nMain Card: Sky
+ e Nicolson (0-0-0) vs. Krystina Jacobs (6-3-0)\nMain Card: Demsey McKean
+  (21-0-0) vs. Patrick Korte (17-1-1)\nMain Card: Abdoul Mayweather (7-0-
+ 0) vs. Mateo Tapia (14-0-0)\nMain Card: Rocky Ogden (2-0-0) vs. Ben Came
+ ron-Hands (3-0-0)\nMain Card: Dylan Biggs (6-0-0) vs. Mirko Pizzi (4-2-0
+ )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045310Z
 UID:2022-10-ufc-vegas-62-grasso-vs-araujo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 62: Grasso vs. Araujo
@@ -109,7 +111,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  : Duško Todorović (11-3-0) vs. Jordan Wright (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-10-ufc-280-oliveira-vs-makhachev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 280: Oliveira vs. Makhachev
@@ -133,7 +135,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  o Nishikawa (21-3-6) vs. Magomed Mustafaev (14-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-10-matchroom-mexico@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Matchroom México
@@ -144,7 +146,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/93386-matchroom-mexico
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-10-taylor-vs-carabajal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Carabajal
@@ -152,18 +154,19 @@ DTSTART:20221029T200000Z
 DTEND:20221029T230000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/93059-taylor-vs\n\n---\n\nMain Event: Katie Taylor (21-0-0) vs. K. Car
- abajal (0-0-0)\nCo-Main Event: Jordan Gill (27-1-1) vs. Kiko Martinez (4
- 3-11-2)\nMain Card: Caoimhin Agyarko (12-0-0) vs. Peter Dobson (16-0-0)\
- nMain Card: Johnny Fisher (6-0-0) vs. Alfonso Damiani (5-2-0)
+ s/93059-taylor-vs\nhttp://www.boxrec.com/en/event/862555\n\n---\n\nMain 
+ Event: Katie Taylor (21-0-0) vs. K. Carabajal (0-0-0)\nCo-Main Event: Jo
+ rdan Gill (27-1-1) vs. Kiko Martinez (43-11-2)\nMain Card: Caoimhin Agya
+ rko (12-0-0) vs. Peter Dobson (16-0-0)\nMain Card: Johnny Fisher (6-0-0)
+  vs. Alfonso Damiani (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-10-ufc-vegas-63-kattar-vs-allen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 63: Kattar vs. Allen
-DTSTART:20221029T220000Z
-DTEND:20221030T010000Z
+DTSTART:20221030T010000Z
+DTEND:20221030T040000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/91651-ufc-fight-night\n\n---\n\nMain Event: Calvin
@@ -179,7 +182,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-11-bivol-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Zurdo
@@ -193,7 +196,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  khimov (16-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-11-ufc-vegas-64-mitchell-vs-evloev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 64: Mitchell vs. Evloev
@@ -212,7 +215,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  . Shanna Young (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark
@@ -221,10 +224,13 @@ DTEND:20221113T050000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92465-love-vs-spark\nhttp://www.boxrec.com/en/event/861495\n\n---\n\nM
- ain Event: Montana Love (18-0-1) vs. Steve Spark (15-2-0)
+ ain Event: Montana Love (18-0-1) vs. Steve Spark (15-2-0)\nMain Card: Ri
+ chardson Hitchins (14-0-0) vs. Yomar Alamo (20-1-1)\nMain Card: Christia
+ n Tapia (15-0-0) vs. Thomas Mattice (19-3-1)\nMain Card: Ray Ford (12-0-
+ 1) vs. Sakaria Lukas (25-1-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-11-ufc-281-adesanya-vs-pereira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281: Adesanya vs. Pereira
@@ -246,7 +252,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)\nPrelim: Julio Arce (18-5-0) vs. Montel Jackson (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-11-ufc-vegas-65-lewis-vs-spivak@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 65: Lewis vs. Spivak
@@ -266,27 +272,27 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  es (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
-UID:2022-12-ufc-orlando-brunson-vs-hermansson@kampfkalender.de
+DTSTAMP:20220930T045310Z
+UID:2022-12-ufc-orlando@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Orlando: Brunson vs. Hermansson
+SUMMARY:UFC Orlando
 DTSTART:20221203T230000Z
 DTEND:20221204T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/91801-ufc-fight-night\n\n---\n\nMain Event: Derek 
- Brunson (23-8-0) vs. Jack Hermansson (23-7-0)\nMain Card: Tracy Cortez (
- 10-1-0) vs. Amanda Ribas (11-3-0)\nMain Card: Matheus Nicolau (18-2-1) v
- s. Matt Schnell (16-7-0)\nMain Card: Clay Guida (37-22-0) vs. Scott Holt
- zman (14-5-0)\nPrelim: Eryk Anders (14-7-0) vs. Kyle Daukaus (11-3-0)\nP
- relim: Francis Marshall (6-0-0) vs. Marcelo Rojo (16-8-0)\nPrelim: Natan
-  Levy (7-1-0) vs. Genaro Valdéz (10-1-0)\nPrelim: Michael Johnson (20-18
- -0) vs. Marc Diakiese (16-5-0)\nPrelim: Angela Hill (14-12-0) vs. Emily 
- Ducote (12-6-0)\nPrelim: Darren Elkins (27-10-0) vs. Jonathan Pearce (13
- -4-0)
+ om/fightcenter/events/91801-ufc-fight-night\n\n---\n\nMain Card: Tracy C
+ ortez (10-1-0) vs. Amanda Ribas (11-3-0)\nMain Card: Matheus Nicolau (18
+ -2-1) vs. Matt Schnell (16-7-0)\nMain Card: Derek Brunson (23-8-0) vs. J
+ ack Hermansson (23-7-0)\nMain Card: Clay Guida (37-22-0) vs. Scott Holtz
+ man (14-5-0)\nPrelim: Eryk Anders (14-7-0) vs. Kyle Daukaus (11-3-0)\nPr
+ elim: Francis Marshall (6-0-0) vs. Marcelo Rojo (16-8-0)\nPrelim: Natan 
+ Levy (7-1-0) vs. Genaro Valdéz (10-1-0)\nPrelim: Michael Johnson (20-18-
+ 0) vs. Marc Diakiese (16-5-0)\nPrelim: Angela Hill (14-12-0) vs. Emily D
+ ucote (12-6-0)\nPrelim: Darren Elkins (27-10-0) vs. Jonathan Pearce (13-
+ 4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Chocolatito 3
@@ -298,7 +304,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  trada (43-3-0) vs. Roman Gonzalez (51-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez
@@ -310,7 +316,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  1) vs. Luis Alberto Lopez (26-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-12-ufc-282-prochazka-vs-teixeira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Procházka vs. Teixeira
@@ -326,10 +332,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Buckley (15-5-0)\nPrelim: Edmen Shahbazyan (11-3-0) vs. Dalcha Lungiamb
  ula (11-5-0)\nPrelim: Billy Quarantillo (16-4-0) vs. Alexander Hernandez
   (13-5-0)\nPrelim: Erik Silva (9-1-0) vs. TJ Brown (16-9-0)\nPrelim: Dan
- iel da Silva (11-4-0) vs. Vinicius Salvador (14-4-0)
+ iel da Silva (11-4-0) vs. Vinicius Salvador (14-4-0)\nPrelim: Jamie Pick
+ ett (13-8-0) vs. Bo Nickal (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2022-12-ufc-vegas-66-cannonier-vs-strickland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 66: Cannonier vs. Strickland
@@ -339,13 +346,14 @@ CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/92365-ufc-fight-night\n\n---\n\nMain Event: Jared 
  Cannonier (15-6-0) vs. Sean Strickland (25-4-0)\nMain Card: Alex Perez (
- 24-7-0) vs. Amir Albazi (15-1-0)\nPrelim: Julian Marquez (9-3-0) vs. Der
- on Winn (7-3-0)\nPrelim: Tafon Nchukwi (6-3-0) vs. Jamal Pogues (9-3-0)\
- nPrelim: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)\nPrelim: Al
- bert Duraev (15-4-0) vs. Michał Oleksiejczuk (17-5-0)
+ 24-7-0) vs. Amir Albazi (15-1-0)\nMain Card: Arman Tsarukyan (18-3-0) vs
+ . Damir Ismagulov (24-1-0)\nPrelim: Julian Marquez (9-3-0) vs. Deron Win
+ n (7-3-0)\nPrelim: Tafon Nchukwi (6-3-0) vs. Jamal Pogues (9-3-0)\nPreli
+ m: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)\nPrelim: Albert D
+ uraev (15-4-0) vs. Michał Oleksiejczuk (17-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2023-01-ufc-fight-night-gastelum-vs-imavov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Gastelum vs. Imavov
@@ -358,7 +366,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (11-2-0) vs. Jimmy Flick (16-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045310Z
 UID:2023-01-ufc-283@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 283

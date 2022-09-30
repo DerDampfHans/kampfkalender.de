@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220928T230810Z
-X-KAMPFKALENDER-HASH:318a34b493f629d2dd7390f0347f2ecb05b3f978
+DTSTAMP:20220930T045309Z
+X-KAMPFKALENDER-HASH:787c6e6793f05a9d729098512d9c183847ad4deb
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220924-olympix-k
  1-boxen-mma-no-114
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-vendetta-fight-night-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Vendetta Fight Night 29
@@ -39,7 +39,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ve
  e Juric (0-0-0) vs. Yanis Rauch (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-super-rizin-mayweather-vs-asakura@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super RIZIN: Mayweather vs. Asakura
@@ -54,7 +54,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-vs-asakura/
  sungnoen (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-lollar-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lollar Fight Night
@@ -65,7 +65,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-lo
  llar-fight-night-524
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-09-one-161-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Bhullar vs. Malykhin
@@ -89,7 +89,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=F_AvCdGjyOU\n\n-
  0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-10-one-on-prime-video-2-xiong-vs-lee-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 2: Xiong vs. Lee 3
@@ -111,7 +111,29 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GMH-TyImDWg\n\n-
  gfah\nPrelim: Rade Opačić vs. Giannis Stoforidis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
+UID:2022-10-heroes-clash-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Heroes Clash 3
+DTSTART:20221001T150000Z
+DTEND:20221001T180000Z
+CATEGORIES:Other,MMA,Kickboxen,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-he
+ roes-clash-vol-3-527
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
+UID:2022-10-elite-fight-night-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Elite Fight Night 3
+DTSTART:20221001T153000Z
+DTEND:20221001T183000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-el
+ ite-fight-night-3-528
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
 UID:2022-10-kernfightwerk@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kernfightwerk
@@ -122,7 +144,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ke
  rnfightwerk-525
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Hari vs. Overeem
@@ -139,7 +161,24 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  l Boapeah vs. Sergej Braun
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
+UID:2022-10-glory-collision-4-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Collision 4: Prelims
+DTSTART:20221008T163000Z
+DTEND:20221008T040000Z
+CATEGORIES:Glory,Kickboxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=XZ9csoajdt0\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/89722-glory-collision-
+ 4\n\n---\n\nMain Event: Badr Hari vs. Alistair Overeem\nCo-Main Event: T
+ iffany van Soest vs. Sarah Moussaddak\nMain Card: Sergej Maslobojev vs. 
+ Tarik Khbabez\nMain Card: Tyjani Beztati vs. Stoyan Koprivlenski\nMain C
+ ard: P. Kiatmoo9 vs. Abraham Vidales\nMain Card: Levi Rigters vs. Kevin 
+ Tariq Osaro\nPrelim: Serkan Ozcaglayan vs. César Almeida\nPrelim: Felipe
+  Micheletti vs. Donegi Abena\nPrelim: Michael Boapeah vs. Sergej Braun
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220930T045309Z
 UID:2022-10-xfn-383@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:XFN 383
@@ -149,7 +188,7 @@ CATEGORIES:XFN,Kickboxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-10-oktagon-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36
@@ -167,10 +206,10 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ie Cordero (2-0-0)\nMain Card: Máté Kertész (12-5-0) vs. Christian Jungw
  irth (12-5-0)\nMain Card: Nermin Hajdarpašić (4-0-0) vs. Alexander Poppe
  ck (14-4-0)\nMain Card: Zdenek Polivka (8-5-0) vs. Samuel Krištofič (15-
- 4-0)
+ 4-0)\nMain Card: Marek Bartl (10-11-0) vs. Ebrahim Hosseinpour (6-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-10-oktagon-east-pro-fight@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON: East PRO Fight
@@ -181,7 +220,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/93297-east-pro-fight
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-11-glory-rivals-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 3
@@ -193,7 +232,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  rmeer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -205,7 +244,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  23-5-0) vs. Christian Lee (16-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -216,7 +255,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91426-one-on-prime-video-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2022-12-oktagon-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38
@@ -228,7 +267,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  . Karlos Vémola (33-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20220930T045309Z
 UID:2023-04-oktagon-v-bratislave@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON: V Bratislave
