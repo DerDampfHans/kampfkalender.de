@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221001T220305Z
-X-KAMPFKALENDER-HASH:c5541f9767af83f2f444092b7e3ada356527acd3
+DTSTAMP:20221002T055005Z
+X-KAMPFKALENDER-HASH:cac2adc9dfb137ac3f1396b8e5e60298a9736d39
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221002T055006Z
 UID:2022-10-one-on-prime-video-2-xiong-vs-lee-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 2: Xiong vs. Lee 3
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GMH-TyImDWg\n\n-
  gfah\nPrelim: Rade Opačić vs. Giannis Stoforidis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221002T055006Z
 UID:2022-10-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -38,5 +38,25 @@ DTEND:20221008T130000Z
 CATEGORIES:GMC,Grappling,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221008-olympix-g
  rappling-no-115
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221002T055006Z
+UID:2022-10-eddie-bravo-s-medusa-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eddie Bravo's Medusa 3
+DTSTART:20221023T010000Z
+DTEND:20221023T040000Z
+CATEGORIES:EBI,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221002T055006Z
+UID:2022-10-eddie-bravo-invitational-20-the-absolutes@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eddie Bravo Invitational 20: The Absolutes
+DTSTART:20221024T010000Z
+DTEND:20221024T040000Z
+CATEGORIES:EBI,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

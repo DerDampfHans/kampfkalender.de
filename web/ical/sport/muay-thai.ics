@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220928T230810Z
-X-KAMPFKALENDER-HASH:87fbd1eeeb4ea1bda9a8d98eeb75ddccaa6d581d
+DTSTAMP:20221002T055005Z
+X-KAMPFKALENDER-HASH:b24aec890251c4bf1e2917274f73204dd2c021dd
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20221002T055006Z
 UID:2022-09-one-161-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 161: Bhullar vs. Malykhin
@@ -31,7 +31,29 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=F_AvCdGjyOU\n\n-
  0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20221002T055006Z
+UID:2022-10-one-162@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE 162
+DTSTART:20221021T103000Z
+DTEND:20221021T133000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91286-one-championship-162
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221002T055006Z
+UID:2022-11-one-163@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE 163
+DTSTART:20221118T113000Z
+DTEND:20221118T143000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91287-one-championship-163
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221002T055006Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -43,7 +65,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  23-5-0) vs. Christian Lee (16-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T230811Z
+DTSTAMP:20221002T055006Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -51,6 +73,18 @@ DTSTART:20221203T020000Z
 DTEND:20221203T050000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91426-one-on-prime-video-5
+ ents/91426-one-on-prime-video-5\n\n---\n\nMain Card: Roberto Soldić (20-
+ 3-0) vs. Murad Ramazanov (11-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221002T055006Z
+UID:2022-12-one-164@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE 164
+DTSTART:20221203T113000Z
+DTEND:20221203T143000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91288-one-championship-164
 END:VEVENT
 END:VCALENDAR
