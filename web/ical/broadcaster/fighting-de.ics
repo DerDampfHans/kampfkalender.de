@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221001T220305Z
-X-KAMPFKALENDER-HASH:a223d118728a0049ab06682c4b37030c918fa7c6
+DTSTAMP:20221006T135239Z
+X-KAMPFKALENDER-HASH:6f1c477852f8f312803538eb2f847c99db8b3d02
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-09-brave-cf-62@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Brave CF 62
@@ -29,7 +29,35 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=88e_QP24Fyc\
  0-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
+UID:2022-10-the-chosen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Chosen
+DTSTART:20221008T153000Z
+DTEND:20221008T183000Z
+CATEGORIES:Other,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=VpJS15UWNhE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T135240Z
+UID:2022-10-glory-collision-4-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Collision 4: Prelims
+DTSTART:20221008T163000Z
+DTEND:20221008T180000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=PjjF06e8k24\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/89722-glory-collis
+ ion-4\n\n---\n\nMain Event: Badr Hari vs. Alistair Overeem\nCo-Main Even
+ t: Tiffany van Soest vs. Sarah Moussaddak\nMain Card: Sergej Maslobojev 
+ vs. Tarik Khbabez\nMain Card: Tyjani Beztati vs. Stoyan Koprivlenski\nMa
+ in Card: P. Kiatmoo9 vs. Abraham Vidales\nMain Card: Levi Rigters vs. Ke
+ vin Tariq Osaro\nPrelim: Serkan Ozcaglayan vs. César Almeida\nPrelim: Fe
+ lipe Micheletti vs. Donegi Abena\nPrelim: Michael Boapeah vs. Sergej Bra
+ un
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T135240Z
 UID:2022-10-brave-cf-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 63
@@ -37,10 +65,14 @@ DTSTART:20221019T150000Z
 DTEND:20221019T180000Z
 CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/93030-brave-cf-63
+ y.com/fightcenter/events/93030-brave-cf-63\n\n---\n\nMain Event: Ismail 
+ Naurdiev (22-5-0) vs. Marcin Bandel (21-7-1)\nCo-Main Event: Brad Katona
+  (11-2-0) vs. Gamzat Magomedov (7-1-0)\nMain Card: Kamal Magomedov (9-0-
+ 0) vs. Olli Santalahti (13-4-0)\nMain Card: Baz Mohammad (11-6-0) vs. Ja
+ hongir Saidjamolov (16-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-brave-cf-64-african-all-stars@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 64: African All Stars
@@ -51,7 +83,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/93031-brave-cf-64-african-all-stars
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-brave-cf-65-rumble-in-the-kingdom@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 65: Rumble in The Kingdom
@@ -62,7 +94,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/93032-brave-cf-65-rumble-in-the-kingdom
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -82,7 +114,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
   Walsh (1-1-0) vs. Tom Graesser (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-11-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -92,7 +124,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -104,7 +136,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  events/90452-super-league-mma-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-12-nfc-contenders-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders 2
@@ -114,7 +146,7 @@ CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -123,12 +155,14 @@ DTEND:20221217T190000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/\nhttps://www.tapology.com/fightcenter/events/90361
- -nfc-11\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6-2-
- 0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMain C
- ard: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)
+ -nfc-11\nhttp://www.sherdog.com/events/nfc-11-national-fighting-champion
+ ship-94462\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6
+ -2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMai
+ n Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain Card: Julia
+ n Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -137,12 +171,14 @@ DTEND:20221217T220000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ents.de/event/nfc-11/\nhttps://www.tapology.com/fightcenter/events/90361
- -nfc-11\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6-2-
- 0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMain C
- ard: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)
+ -nfc-11\nhttp://www.sherdog.com/events/nfc-11-national-fighting-champion
+ ship-94462\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6
+ -2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMai
+ n Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain Card: Julia
+ n Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -151,12 +187,14 @@ DTEND:20221217T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.fightevents.de/event/nfc-11/\nhttps://www.tapology.com/fightcenter/
- events/90361-nfc-11\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Mohammed
-  Walid (6-2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-
- 1-0)\nMain Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)
+ events/90361-nfc-11\nhttp://www.sherdog.com/events/nfc-11-national-fight
+ ing-championship-94462\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Moham
+ med Walid (6-2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf 
+ (5-1-0)\nMain Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain
+  Card: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

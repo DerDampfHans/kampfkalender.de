@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221001T220305Z
-X-KAMPFKALENDER-HASH:61a4ab029ded2f2059dd80262b6e883c36149339
+DTSTAMP:20221006T135239Z
+X-KAMPFKALENDER-HASH:73c7405dc08b7d867cecfa538887d64bc7f45129
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221006T135240Z
 UID:2022-09-hammer-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hammer Fight Night
@@ -21,5 +21,28 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ha
  : Artur Mann (18-2-0) vs. Amine Boucetta (7-4-0)\nMain Card: Elvis Hetem
  i (17-1-0) vs. Kenan Catic (0-0-0)\nMain Card: Djuar El Scheich (15-0-0)
   vs. Adnan Redžović (21-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T135240Z
+UID:2022-10-falkensee-profibox-gala-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Falkensee Profibox Gala 2
+DTSTART:20221008T163000Z
+DTEND:20221008T193000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
+ lkensee-profibox-gala-2-530\n\n---\n\nhttps://www.tapology.com/fightcent
+ er/events/93728-falkensee-profibox-gala-2\nhttp://www.boxrec.com/en/even
+ t/856197\n\n---\n\nMain Event: Edin Puhalo (21-1-0) vs. Roman Golovashch
+ enko (21-5-0)\nMain Card: Sanel Hasanovic (5-0-1) vs. Mirko Tintor (16-6
+ -1)\nMain Card: Rico Mueller (28-5-1) vs. Gabor Gorbics (26-33-2)\nMain 
+ Card: Alen Lauriolle (0-0-0) vs. Felix Langberg (9-0-0)\nMain Card: Roma
+ no Kujak (11-0-0) vs. Bernard Donfack (23-30-4)\nMain Card: Taycan Yildi
+ rim (10-1-0) vs. Sladan Janjanin (33-12-0)\nMain Card: Abu Yusupov (5-0-
+ 1) vs. Pal Olah (9-43-4)\nMain Card: Nina Meinke (13-3-0) vs. Karina Szm
+ alenberg (14-53-4)\nMain Card: Dokka Mantaev (4-0-0) vs. Ervin Dzinic (1
+ 0-5-0)\nMain Card: Andranik Voskanjan (2-0-0) vs. Damian Haus (3-8-0)\nM
+ ain Card: Victor Cakiqi (0-0-0) vs. Istvan Bela Orban (0-0-0)\nMain Card
+ : Dusko Vujicic (4-10-0) vs. Elvis Jahovic (0-0-0)
 END:VEVENT
 END:VCALENDAR

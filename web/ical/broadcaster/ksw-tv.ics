@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221002T055005Z
-X-KAMPFKALENDER-HASH:5d9d11ac15a89d1920bb98c48cfe4005df00d9ba
+DTSTAMP:20221006T135239Z
+X-KAMPFKALENDER-HASH:d5b2039e8295a522a6693b6049e691a7b2e67cf9
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-ksw-75-chuzhigaev-vs-erslan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 75: Chuzhigaev vs. Erslan
@@ -26,7 +26,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  ) vs. Adrianna Kreft (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-11-ksw-76-zio-kowski-vs-parnasse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 76: Ziółkowski vs. Parnasse
@@ -38,15 +38,16 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
   Salahdine Parnasse (16-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
-UID:2022-12-ksw-77@kampfkalender.de
+DTSTAMP:20221006T135240Z
+UID:2022-12-ksw-77-pudzian-vs-mamed@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 77
+SUMMARY:KSW 77: Pudzian vs. Mamed
 DTSTART:20221217T150000Z
 DTEND:20221217T180000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/92899-ksw-77\n\n---\n\nMain Event: Mariusz Pudzianowski (17-7-0) 
- vs. Mamed Khalidov (35-8-2)
+ vs. Mamed Khalidov (35-8-2)\nCo-Main Event: Sebastian Przybysz (10-2-0) 
+ vs. Jakub Wikłacz (13-3-1)
 END:VEVENT
 END:VCALENDAR

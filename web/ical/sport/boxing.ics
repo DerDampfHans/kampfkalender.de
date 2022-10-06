@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221002T055005Z
-X-KAMPFKALENDER-HASH:d4a4d957d5dbf6f1d23bf1897845a8449f7ae58c
+DTSTAMP:20221006T135239Z
+X-KAMPFKALENDER-HASH:a82def0f067aa0531d2471127d4c3e4c21c860e4
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-09-hammer-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hammer Fight Night
@@ -23,7 +23,40 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ha
   vs. Adnan Redžović (21-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
+UID:2022-10-garcia-vs-sauceda@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Garcia vs. Sauceda
+DTSTART:20221007T020000Z
+DTEND:20221007T050000Z
+CATEGORIES:RJJ,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T135240Z
+UID:2022-10-falkensee-profibox-gala-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Falkensee Profibox Gala 2
+DTSTART:20221008T163000Z
+DTEND:20221008T193000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
+ lkensee-profibox-gala-2-530\n\n---\n\nhttps://www.tapology.com/fightcent
+ er/events/93728-falkensee-profibox-gala-2\nhttp://www.boxrec.com/en/even
+ t/856197\n\n---\n\nMain Event: Edin Puhalo (21-1-0) vs. Roman Golovashch
+ enko (21-5-0)\nMain Card: Sanel Hasanovic (5-0-1) vs. Mirko Tintor (16-6
+ -1)\nMain Card: Rico Mueller (28-5-1) vs. Gabor Gorbics (26-33-2)\nMain 
+ Card: Alen Lauriolle (0-0-0) vs. Felix Langberg (9-0-0)\nMain Card: Roma
+ no Kujak (11-0-0) vs. Bernard Donfack (23-30-4)\nMain Card: Taycan Yildi
+ rim (10-1-0) vs. Sladan Janjanin (33-12-0)\nMain Card: Abu Yusupov (5-0-
+ 1) vs. Pal Olah (9-43-4)\nMain Card: Nina Meinke (13-3-0) vs. Karina Szm
+ alenberg (14-53-4)\nMain Card: Dokka Mantaev (4-0-0) vs. Ervin Dzinic (1
+ 0-5-0)\nMain Card: Andranik Voskanjan (2-0-0) vs. Damian Haus (3-8-0)\nM
+ ain Card: Victor Cakiqi (0-0-0) vs. Istvan Bela Orban (0-0-0)\nMain Card
+ : Dusko Vujicic (4-10-0) vs. Elvis Jahovic (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T135240Z
 UID:2022-10-eubank-jr-vs-benn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eubank Jr. vs. Benn
@@ -31,18 +64,20 @@ DTSTART:20221008T180000Z
 DTEND:20221008T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/91151-benn-vs-eubank-jr\nhttp://www.boxrec.com/en/event/860669\n\n---\
- n\nMain Event: Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)\nMain C
- ard: Mary Romero (8-2-0) vs. Ellie Scotney (5-0-0)\nMain Card: Felix Cas
- h (15-0-0) vs. Connor Coyle (17-0-0)\nMain Card: Galal Yafai (0-0-0) vs.
-  Gohan Rodriguez (12-1-1)\nMain Card: Shannon Courtenay (7-2-0) vs. Gemm
- a Ruegg (0-0-0)\nMain Card: Harlem Eubank (15-0-0) vs. David Martin (0-0
- -0)\nMain Card: Chloe Watson (0-0-0) vs. Nancy Franco (18-17-2)\nMain Ca
- rd: Matty Harris (0-0-0) vs. Chris Healey (9-12-0)\nMain Card: Lyndon Ar
- thur (20-1-0) vs. Cesar Hernan Reynoso (17-17-4)
+ s/91151-benn-vs-eubank-jr\nhttps://www.matchroomboxing.com/events/eubank
+ -jr-vs-benn/\nhttp://www.boxrec.com/en/event/860669\n\n---\n\nMain Event
+ : Conor Benn (21-0-0) vs. Chris Eubank Jr. (32-2-0)\nCo-Main Event: Feli
+ x Cash (15-0-0) vs. Connor Coyle (17-0-0)\nMain Card: Mary Romero (8-2-0
+ ) vs. Ellie Scotney (5-0-0)\nMain Card: Galal Yafai (0-0-0) vs. Gohan Ro
+ driguez (12-1-1)\nMain Card: Shannon Courtenay (7-2-0) vs. Gemma Ruegg (
+ 0-0-0)\nMain Card: Harlem Eubank (15-0-0) vs. David Martin (0-0-0)\nMain
+  Card: Chloe Watson (0-0-0) vs. Nancy Franco (18-17-2)\nMain Card: Matty
+  Harris (0-0-0) vs. Chris Healey (9-12-0)\nMain Card: Lyndon Arthur (20-
+ 1-0) vs. Cesar Hernan Reynoso (17-17-4)\nPrelim: George Liddard (0-0-0) 
+ vs. Hrvoje Grcic (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-paro-vs-jarvis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paro vs. Jarvis
@@ -59,7 +94,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-shields-vs-marshall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Marshall
@@ -81,7 +116,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
  or (0-0-0) vs. Joyce Van Ee (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-haney-vs-kambosos-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Haney vs. Kambosos Jr
@@ -94,11 +129,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-haney-vs-kamb
  n Event: Devin Haney (28-0-0) vs. George Kambosos Jr. (20-1-0)\nMain Car
  d: Andrew Moloney (24-2-0) vs. Norbelto Jimenez (31-9-6)\nMain Card: Jas
  on Moloney (24-2-0) vs. Nawaphon Kaikanha (56-1-1)\nMain Card: Cherneka 
- Johnson (14-1-0) vs. Susie Ramadan (29-3-0)\nPrelim: Hemi Ahio (19-0-0) 
- vs. Faiga Opelu (14-3-1)
+ Johnson (14-1-0) vs. Susie Ramadan (29-3-0)\nMain Card: David Nyika (4-0
+ -0) vs. Titi Motusaga (4-0-0)\nPrelim: Hemi Ahio (19-0-0) vs. Faiga Opel
+ u (14-3-1)\nPrelim: Lorenzo Simpson (11-0-0) vs. Marcus Heywood (6-4-1)\
+ nPrelim: Adrian Sosa (12-0-0) vs. John Mannu (6-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-matchroom-mexico@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Matchroom México
@@ -106,10 +143,25 @@ DTSTART:20221023T020000Z
 DTEND:20221023T050000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/93386-matchroom-mexico
+ s/93386-matchroom-mexico\nhttp://www.boxrec.com/en/event/863167\n\n---\n
+ \nMain Event: Mauricio Lara (23-2-1) vs. Jose Sanmartin (33-5-1)\nMain C
+ ard: Angel Fierro (19-1-2) vs. Jeremy Cuevas (14-1-0)\nMain Card: Reshat
+  Mati (12-0-0) vs. Diego Santiago Sanchez (19-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
+UID:2022-10-triller-fight-club-lineage-of-greatness-ii@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Triller Fight Club: Lineage of Greatness II
+DTSTART:20221023T020000Z
+DTEND:20221023T050000Z
+CATEGORIES:TFC,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/tfc-lineage-of-greatne
+ ss-2/2pc2w/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93287-
+ lineage-of-greatness-ii
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T135240Z
 UID:2022-10-taylor-vs-carabajal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Carabajal
@@ -124,7 +176,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   vs. Alfonso Damiani (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-lomachenko-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lomachenko vs. Ortiz
@@ -142,7 +194,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-lomachenko-vs
  -1)\nMain Card: Troy Isley (7-0-0) vs. Quincy LaVallais (14-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-10-paul-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva
@@ -154,10 +206,11 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva/2pbx1/\n
  \nhttp://www.boxrec.com/en/event/861928\n\n---\n\nMain Event: Jake Paul 
  (5-0-0) vs. Anderson Silva (3-1-0)\nMain Card: Ashton Sylve (7-0-0) vs. 
  Braulio Rodriguez (20-4-0)\nMain Card: Chris Avila (1-1-0) vs. Mikhail V
- arshavski (0-0-0)
+ arshavski (0-0-0)\nPrelim: Danny Barrios (10-0-0) vs. Edgar Ortiz Jr (8-
+ 3-2)\nPrelim: Adrian Rodriguez (0-0-0) vs. Dominique Griffin (4-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-11-bivol-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Zurdo
@@ -167,11 +220,24 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92338-bivol-vs-zurdo\n\n---\n\nMain Event: Dmitry Bivol (20-0-0) vs. Z
  urdo Ramirez (44-0-0)\nMain Card: Chantelle Cameron (16-0-0) vs. Jessica
-  McCaskill (12-2-0)\nMain Card: Joe Cordina (15-0-0) vs. Shavkatdzhon Ra
- khimov (16-0-1)
+  McCaskill (12-2-0)\nMain Card: Shavkatdzhon Rakhimov (16-0-1) vs. Zelfa
+  Barrett (28-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
+UID:2022-11-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20221105T190000Z
+DTEND:20221105T220000Z
+CATEGORIES:UBP,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/93713-universum-b
+ oxing-night\n\n---\n\nMain Card: Zhan Kossobutskiy (18-0-0) vs. Hussein 
+ Muhamed (16-0-0)\nMain Card: Jose Larduet (8-0-0) vs. Ali Kiydin (15-1-0
+ )\nMain Card: Rostam Ibrahim (10-0-2) vs. Armenak Hovhannisyan (13-1-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T135240Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark
@@ -186,7 +252,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  1) vs. Sakaria Lukas (25-1-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-11-mayweather-vs-deji@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs Deji
@@ -200,7 +266,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/93239-mayweather-
  amba (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Chocolatito 3
@@ -209,10 +275,11 @@ DTEND:20221204T060000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92728-estrada-vs-chocolatito-3\n\n---\n\nMain Event: Juan Francisco Es
- trada (43-3-0) vs. Roman Gonzalez (51-3-0)
+ trada (43-3-0) vs. Roman Gonzalez (51-3-0)\nCo-Main Event: Julio Cesar M
+ artinez (18-2-0) vs. McWilliams Arroyo (21-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T055006Z
+DTSTAMP:20221006T135240Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez
