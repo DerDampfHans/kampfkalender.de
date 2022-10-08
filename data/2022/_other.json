@@ -3215,5 +3215,87 @@
         }
       }
     }
+  },
+  {
+    "id": "chosen-2022-10-08",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#TheChosen"
+    ],
+    "mainCard": {
+      "title": "The Chosen",
+      "time": "2022-10-08T15:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=VpJS15UWNhE"
+        }
+      },
+      "youTube": {
+        "id": "VpJS15UWNhE",
+        "time": "2022-10-08T15:30:00Z",
+        "title": "The Chosen - FOR FREE - Kickboxing LIVE aus Hamburg",
+        "url": "https://www.youtube.com/watch?v=VpJS15UWNhE",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tapology-93558",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#LeeEroglu"
+    ],
+    "mainCard": {
+      "title": "BKK Kickboxing Championship: Lee vs. Eroglu",
+      "time": "2022-10-08T18:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkk-kc-bokeme-vs-eroglu/2pbwq/"
+        }
+      },
+      "fite": {
+        "id": "2pbwq",
+        "time": "2022-10-08T18:00:00Z",
+        "title": "BKK Kickboxing Championship: Ruben Lee vs Serdar Eroglu",
+        "url": "https://www.fite.tv/watch/bkk-kc-bokeme-vs-eroglu/2pbwq/",
+        "price": "$14.99",
+        "sports": [
+          "KICKBOXING",
+          "MMA"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 93558,
+      "time": "2022-10-08T07:00:00Z",
+      "title": "BKK Kickboxing Championship",
+      "info": "Confirmed Upcoming Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/93558-bkk-kickboxing-championship",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Event: Ulric Bokeme vs. Serdar Yigit Eroglu",
+        "Co-Main Event: Christian Adrian Mile vs. Mavlud Tupiev",
+        "Main Card: S. Khambakhadov vs. Furkhan Semi Karabag",
+        "Main Card: Funda Alkayis vs. F. Vera Lizama",
+        "Main Card: Muhammed Shuhaib vs. S. Chandio",
+        "Main Card: E. Bernoussi vs. Ferzan Çiçek",
+        "Main Card: Mohamed El Boukhari vs. Mohammed El Mir",
+        "Main Card: Worawit Madadam vs. Bekmursev Temirlan",
+        "Main Card: Sabri Ben Henia vs. Abdullah Al Falouji",
+        "Main Card: Walid El Kehal vs. Fabio Reis"
+      ]
+    }
   }
 ]
