@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221002T220304Z
-X-KAMPFKALENDER-HASH:a2832d83bb3de8563689b6a8c590f2ac19fdf211
+DTSTAMP:20221009T091722Z
+X-KAMPFKALENDER-HASH:0993f15e51b1e64d3eecb20ffc70d5b5bacde6bd
 BEGIN:VEVENT
-DTSTAMP:20221002T220304Z
+DTSTAMP:20221009T091723Z
 UID:2022-10-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -15,5 +15,16 @@ DTSTART:20221002T160000Z
 DTEND:20221002T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221009T091723Z
+UID:2022-10-schlagwort-podcast-collision-4-mo-abdallah-julian-pennant@kam
+ pfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast: Collision 4\, Mo Abdallah\, Julian Pennant
+DTSTART:20221009T160000Z
+DTEND:20221009T180000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wGvoJ2dhkrw
 END:VEVENT
 END:VCALENDAR

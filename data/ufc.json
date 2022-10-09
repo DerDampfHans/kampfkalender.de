@@ -57,7 +57,6 @@
         "Co-Main Event: Jonathan Martinez (16-4-0) vs. Cub Swanson (28-12-0)",
         "Main Card: Askar Askarov (14-1-1) vs. Brandon Royval (14-6-0)",
         "Main Card: Duško Todorović (11-3-0) vs. Jordan Wright (12-3-0)",
-        "Main Card: Neil Magny (26-9-0) vs. Daniel Rodriguez (17-2-0)",
         "Prelim: Misha Cirkunov (15-8-0) vs. Alonzo Menifield (12-3-0)",
         "Prelim: Mana Martinez (9-3-0) vs. Brandon Davis (14-9-0)",
         "Prelim: Nick Maximov (8-1-0) vs. Jacob Malkoun (6-2-0)",
@@ -316,6 +315,7 @@
       "card": [
         "Main Event: Bryce Mitchell (15-0-0) vs. Movsar Evloev (16-0-0)",
         "Main Card: Marina Rodriguez (16-1-2) vs. Amanda Lemos (12-2-1)",
+        "Main Card: Neil Magny (26-9-0) vs. Daniel Rodriguez (17-2-0)",
         "Prelim: Mario Bautista (10-2-0) vs. Benito Lopez (10-1-0)",
         "Prelim: Tagir Ulanbekov (13-2-0) vs. Nate Maness (14-2-0)",
         "Prelim: Ramona Pascual (6-4-0) vs. Tamires Vidal (6-1-0)",
@@ -383,7 +383,8 @@
         "Prelim: Dan Hooker (21-12-0) vs. Claudio Puelles (12-2-0)",
         "Prelim: Carlos Ulberg (6-1-0) vs. Nicolae Negumereanu (13-1-0)",
         "Prelim: Andre Petroski (8-1-0) vs. Wellington Turman (18-5-0)",
-        "Prelim: Julio Arce (18-5-0) vs. Montel Jackson (11-2-0)"
+        "Prelim: Julio Arce (18-5-0) vs. Montel Jackson (11-2-0)",
+        "Prelim: Frankie Edgar (24-10-1) vs. Chris Gutierrez (18-3-2)"
       ]
     }
   },
@@ -478,6 +479,7 @@
         "Main Card: Matheus Nicolau (18-2-1) vs. Matt Schnell (16-7-0)",
         "Main Card: Derek Brunson (23-8-0) vs. Jack Hermansson (23-7-0)",
         "Main Card: Clay Guida (37-22-0) vs. Scott Holtzman (14-5-0)",
+        "Main Card: Rafael dos Anjos (31-14-0) vs. Bryan Barberena (18-8-0)",
         "Prelim: Eryk Anders (14-7-0) vs. Kyle Daukaus (11-3-0)",
         "Prelim: Francis Marshall (6-0-0) vs. Marcelo Rojo (16-8-0)",
         "Prelim: Natan Levy (7-1-0) vs. Genaro Valdéz (10-1-0)",
@@ -589,7 +591,8 @@
         "Prelim: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)",
         "Prelim: Albert Duraev (15-4-0) vs. Michał Oleksiejczuk (17-5-0)",
         "Prelim: Michael Morales (14-0-0) vs. Rinat Fakhretdinov (20-2-0)",
-        "Prelim: Maheshate (9-1-0) vs. Rafa García (14-3-0)"
+        "Prelim: Maheshate (9-1-0) vs. Rafa García (14-3-0)",
+        "Prelim: Said Nurmagomedov (16-2-0) vs. Saidyokub Kakhramonov (10-2-0)"
       ]
     }
   },
@@ -634,7 +637,9 @@
       ],
       "card": [
         "Main Event: Kelvin Gastelum (17-8-0) vs. Nassourdine Imavov (12-3-0)",
-        "Prelim: Jeff Molina (11-2-0) vs. Jimmy Flick (16-5-0)"
+        "Main Card: Geoff Neal (15-4-0) vs. Shavkat Rakhmonov (16-0-0)",
+        "Prelim: Jeff Molina (11-2-0) vs. Jimmy Flick (16-5-0)",
+        "Prelim: Allan Nascimento (19-6-0) vs. Carlos Hernandez (8-1-0)"
       ]
     }
   },
@@ -687,6 +692,47 @@
         "Prelim: Gabriel Bonfim (13-0-0) vs. Mounir Lazzez (11-2-0)",
         "Prelim: Josiane Nunes (9-1-0) vs. Zarah Fairn (6-4-0)"
       ]
+    }
+  },
+  {
+    "id": "tapology-93764",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFC284"
+    ],
+    "mainCard": {
+      "title": "UFC 284",
+      "time": "2023-02-11T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC 284: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC 284: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 93764,
+      "time": "2023-02-11T23:00:00Z",
+      "title": "UFC 284",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/93764-ufc-284"
     }
   }
 ]
