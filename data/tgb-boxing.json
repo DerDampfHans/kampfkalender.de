@@ -5,10 +5,47 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#WilderHelenius"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Wilder vs. Helenius",
-      "time": "2022-10-16T00:00:00Z"
+      "time": "2022-10-16T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/wilder-vs-helenius/2pbyb/"
+        }
+      },
+      "fite": {
+        "id": "2pbyb",
+        "time": "2022-10-16T01:00:00Z",
+        "title": "Deontay Wilder vs Robert Helenius",
+        "url": "https://www.fite.tv/watch/wilder-vs-helenius/2pbyb/",
+        "price": "$14.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "Wilder vs. Helenius: Countdown Show",
+      "time": "2022-10-16T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/countdown-to-wilder-vs-helenius/2pc41/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pc41",
+        "time": "2022-10-16T00:00:00Z",
+        "title": "Wilder vs Helenius: Countdown Show",
+        "url": "https://www.fite.tv/watch/countdown-to-wilder-vs-helenius/2pc41/",
+        "price": "FREE",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 92051,
@@ -27,7 +64,11 @@
         "Prelim: Vito Mielnicki Jr. (12-1-0) vs. Limberth Ponce (19-5-0)",
         "Prelim: Geovany Bruzon (7-1-0) vs. James Evans (4-0-1)",
         "Prelim: Michael Polite Coffie (13-2-0) vs. Gurgen Hovhannisyan (0-0-0)",
-        "Prelim: Michel Rivera (23-0-0) vs. Jerry Perez (14-1-0)"
+        "Prelim: Michel Rivera (23-0-0) vs. Jerry Perez (14-1-0)",
+        "Prelim: Travon Marshall (6-0-0) vs. Angel Ruiz (17-2-1)",
+        "Prelim: Jeremy Adorno (7-0-0) vs. Michael Angeletti (6-0-0)",
+        "Prelim: Miguel Roman (2-0-0) vs. Jose Negrete (2-0-0)",
+        "Prelim: Keeshawn Williams (9-1-1) vs. Julio Rosa (5-1-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/860985"

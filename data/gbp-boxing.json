@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#SchofieldRosas"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Golden Boy Fight Night",
-      "time": "2022-10-21T00:00:00Z"
+      "title": "Schofield vs. Rosas",
+      "time": "2022-10-21T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "vk5avhwpfru21b9fl0od1hdko",
+        "time": "2022-10-21T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Schofield vs Rosas"
+      }
     },
     "tapology": {
       "id": 92313,

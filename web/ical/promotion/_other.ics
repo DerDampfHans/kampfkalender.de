@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221009T091722Z
-X-KAMPFKALENDER-HASH:87a170842f8566891f179582572dcc7982e30242
+DTSTAMP:20221013T180637Z
+X-KAMPFKALENDER-HASH:04539445ef9965d2fe72540075a02d2dd0661640
 BEGIN:VEVENT
-DTSTAMP:20221009T091722Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-the-chosen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=VpJS15UWNhE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091722Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-bkk-kickboxing-championship-lee-vs-eroglu@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKK Kickboxing Championship: Lee vs. Eroglu
@@ -36,7 +36,29 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkk-kc-bokeme-vs-erogl
  l vs. Fabio Reis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091722Z
+DTSTAMP:20221013T180637Z
+UID:2022-10-fair-fc-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fair FC 15
+DTSTART:20221015T163000Z
+DTEND:20221015T193000Z
+CATEGORIES:Other,MMA,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
+ ir-fc-12-533
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
+UID:2022-10-ring-of-fire-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ring Of Fire 15
+DTSTART:20221015T170000Z
+DTEND:20221015T200000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ri
+ ng-of-fire-15-532
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
 UID:2022-10-swingler-vs-cherdleys@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swingler vs. Cherdleys
@@ -46,14 +68,14 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92510-mf-dazn-x-series-2-rahman-jr-vs-belfort\n\n---\n\nMain Event: Ja
  y Swingler (0-0-0) vs. Chad Lebaron (0-0-0)\nCo-Main Event: Sulieman Alb
- aher (0-0-0) vs. Ryan Taylor (0-0-0)\nMain Card: Anthony Taylor (2-3-0) 
- vs. Ashley Tebi (0-0-0)\nMain Card: Astrid Wett (0-0-0) vs. Keeley Colbr
- an (0-0-0)\nMain Card: Hamad Khan (0-0-0) vs. Deji Araoye (0-0-0)\nMain 
- Card: Joel Morris (0-0-0) vs. Ginty (0-0-0)\nMain Card: Tom Zanetti (0-0
- -0) vs. Jayden King (0-0-0)
+ aher (0-0-0) vs. Ryan Taylor (0-0-0)\nMain Card: Joel Morris (0-0-0) vs.
+  Ginty (0-0-0)\nMain Card: Tom Zanetti (0-0-0) vs. Jayden King (0-0-0)\n
+ Prelim: Astrid Wett (0-0-0) vs. Keeley Colbran (0-0-0)\nPrelim: Anthony 
+ Taylor (2-3-0) vs. Ashley Tebi (0-0-0)\nPrelim: Hamad Khan (0-0-0) vs. D
+ eji Araoye (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091722Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-shields-vs-marshall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Marshall
@@ -73,5 +95,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
  Card: Shannon Ryan (0-0-0) vs. Buchra El Quaissi (2-2-3)\nMain Card: Sar
  ah Liegmann (0-0-0) vs. Bec Connolly (3-15-0)\nMain Card: Georgia O'Conn
  or (0-0-0) vs. Joyce Van Ee (2-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
+UID:2022-11-the-cage@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Cage
+DTSTART:20221105T170000Z
+DTEND:20221105T200000Z
+CATEGORIES:Other,MMA,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
+ nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
+UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Top Level Pro 9: Grappling Series
+DTSTART:20221203T220000Z
+DTEND:20221204T010000Z
+CATEGORIES:Other,Grappling,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
+ 
 END:VEVENT
 END:VCALENDAR

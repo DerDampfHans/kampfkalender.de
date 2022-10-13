@@ -4,10 +4,27 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221009T091722Z
-X-KAMPFKALENDER-HASH:e0b33e4f979d727de63de62f44232a39a62dd59b
+DTSTAMP:20221013T174306Z
+X-KAMPFKALENDER-HASH:07ea4532d56523ffec2251487f1c3e4be5bc8c9b
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
+UID:2022-10-kok-world-series-in-tallinn@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KOK: World Series in Tallinn
+DTSTART:20221015T170000Z
+DTEND:20221015T200000Z
+CATEGORIES:KOK,MMA,Kickboxen,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/93561-kok-world-series-in-tallinn\n\n---\n\nMain Event: Volodymyr Hynz
+ hu vs. Hendrik Themas\nMain Card: Ilona Wojda vs. Astrid Grents\nMain Ca
+ rd: Ricardas Kulis vs. Aleksei Larin\nMain Card: Oleh Moshin vs. Henry R
+ ohtla\nMain Card: Dzianis Makouski vs. Raimondas Avlasevičius\nMain Card
+ : Roman Yarysh vs. Marko Sults\nPrelim: Aleksandra Dzhikaeva vs. Karolin
+ a Arm\nPrelim: Ernesta Kareckaite (0-0-0) vs. Sigrid Kapanen (0-0-0)\nPr
+ elim: Mahmud Sayfullaev vs. Sergei Strinža
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
 UID:2022-10-one-162-zhang-vs-di-bella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 162: Zhang vs. Di Bella
@@ -25,7 +42,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Denis Purić
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-one-on-prime-video-3-lineker-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3: Lineker vs. Andrade
@@ -43,7 +60,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -57,7 +74,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  37-14-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -69,7 +86,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  3-0) vs. Murad Ramazanov (11-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -77,6 +94,7 @@ DTSTART:20230114T010000Z
 DTEND:20230114T040000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/93660-one-on-prime-video-6
+ ents/93660-one-on-prime-video-6\n\n---\n\nMain Card: Stamp Fairtex vs. A
+ nissa Meksen
 END:VEVENT
 END:VCALENDAR

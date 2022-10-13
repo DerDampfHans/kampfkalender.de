@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221001T220305Z
-X-KAMPFKALENDER-HASH:302d4fb6f2f8c05cea30f469a16809e512d7434f
+DTSTAMP:20221013T174306Z
+X-KAMPFKALENDER-HASH:599ed07bb4e4b77b6912d7385f23f7c774578668
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,32 +18,35 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221008-olympix-g
  rappling-no-115
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-gmc-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 30
-DTSTART:20221015T170000Z
-DTEND:20221015T200000Z
+DTSTART:20221015T150000Z
+DTEND:20221015T180000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221015-gmc-30\n\
- n---\n\nhttps://www.tapology.com/fightcenter/events/90353-gmc-30\n\n---\
- n\nMain Card: Arijan Topallaj (3-0-1) vs. Cagri Ucar (5-0-0)\nMain Card:
-  Chequina Noso Pedro (5-2-0) vs. Adrian Zeitner (10-2-0)\nMain Card: Fra
- nziska Chwalicz (0-1-0) vs. Lorena Cubero (0-0-0)\nMain Card: Gjoni Palo
- kaj (5-3-0) vs. Eduard Evdokimov (3-1-0)\nMain Card: Ben Davis (8-5-0) v
- s. Alexander Luster (6-1-0)\nMain Card: Hugo Vach (1-0-0) vs. Pepijn Sch
- upp (1-0-0)\nMain Card: Dominik Vetek (2-2-0) vs. Adlan Musaev (3-1-0)\n
- Main Card: Zinedine Elmahdi (0-0-0) vs. Aaron Heinrich (0-0-0)
+ n---\n\nhttps://www.tapology.com/fightcenter/events/90353-gmc-30\nhttp:/
+ /www.sherdog.com/events/gmc-fight-night-16-german-mma-championship-93996
+ \n\n---\n\nMain Event: Chequina Noso Pedro (5-2-0) vs. Adrian Zeitner (1
+ 0-2-0)\nCo-Main Event: Ben Davis (8-5-0) vs. Alexander Luster (6-1-0)\nM
+ ain Card: Franziska Chwalicz (0-1-0) vs. Lorena Cubero (0-0-0)\nMain Car
+ d: Hugo Vach (1-0-0) vs. Pepijn Schupp (1-0-0)\nMain Card: Dominik Vetek
+  (2-2-0) vs. Adlan Musaev (3-1-0)\nMain Card: Urosh Vesich (1-2-0) vs. J
+ oseph Donkor (1-1-0)\nMain Card: Lars Staude (0-0-0) vs. Sapan Taha (2-1
+ -0)\nMain Card: Richard Mpayi (4-2-0) vs. Florian Kopiec (4-1-0)\nMain C
+ ard: Rachid Nasri (0-0-0) vs. Aaron Heinrich (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221001T220305Z
+DTSTAMP:20221013T174306Z
 UID:2022-12-gmc-fight-night-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC Fight Night 16
 DTSTART:20221203T180000Z
 DTEND:20221203T210000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
-DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
- nts/90354-gmc-fight-night
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221203-fight-nig
+ ht-16\n\n---\n\nhttps://www.tapology.com/fightcenter/events/90354-gmc-fi
+ ght-night
 END:VEVENT
 END:VCALENDAR

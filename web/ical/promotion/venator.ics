@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221006T135239Z
-X-KAMPFKALENDER-HASH:b43525054a5f6203288254133507c8764eeeddc6
+DTSTAMP:20221013T174306Z
+X-KAMPFKALENDER-HASH:dc3fae1225798c5cb759395bbd763bdb66270e9d
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-venator-fc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Venator FC 12
@@ -27,5 +27,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Mario Mingaj (2-0-0)\nPrelim: Christian Tosco (1-0-0) vs. Alessio F
  reguglia (0-0-0)\nPrelim: Alice Pisciotta (0-0-0) vs. Alice Maniccia (0-
  0-0)\nPrelim: Fabio Morlacchi (0-1-0) vs. Hussem Khelify (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
+UID:2022-12-venator-fc-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Venator FC 13
+DTSTART:20221217T170000Z
+DTEND:20221217T200000Z
+CATEGORIES:Venator,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/93970-venator-fc-13
 END:VEVENT
 END:VCALENDAR

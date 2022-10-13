@@ -4,15 +4,25 @@
     "promotion": "KOK_LT",
     "sports": [
       "MMA",
-      "KICKBOXING"
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#KOKTallin"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "KOK: World Series in Tallinn",
-      "time": "2022-10-15T10:00:00Z",
+      "time": "2022-10-15T17:00:00Z",
       "broadcasters": {
-        "UFC_FIGHT_PASS": {
+        "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "v8eexrpe472v177xs7mzvk0qg",
+        "time": "2022-10-15T17:00:00Z",
+        "title": "KOK World Series: Tallinn",
+        "sport": "MMA",
+        "competition": "King of Kings (KOK)"
       }
     },
     "tapology": {
@@ -36,6 +46,26 @@
         "Prelim: Ernesta Kareckaite (0-0-0) vs. Sigrid Kapanen (0-0-0)",
         "Prelim: Mahmud Sayfullaev vs. Sergei Strinža"
       ]
+    }
+  },
+  {
+    "id": "tapology-93891",
+    "promotion": "KOK_LT",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "KOK World Series in Kaunas",
+      "time": "2022-11-05T12:00:00Z"
+    },
+    "tapology": {
+      "id": 93891,
+      "time": "2022-11-05T12:00:00Z",
+      "title": "KOK World Series in Kaunas",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/93891-kok-world-series-in-kaunas"
     }
   }
 ]

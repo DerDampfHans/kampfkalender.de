@@ -4,6 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220709T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221013T174306Z
+X-KAMPFKALENDER-HASH:4f2980f84ffe85006017f0477a7955be8fc9f4e4
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
+UID:2022-10-bunn-vs-mccrory@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bunn vs. McCrory
+DTSTART:20221022T204500Z
+DTEND:20221022T224500Z
+CATEGORIES:WB,Boxen,SPORT1,live,kostenlos
+DESCRIPTION:via SPORT1\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/92654-bunn-vs-dos-santos\nhttp://www.boxrec.com/en/event/862688\n\n-
+ --\n\nMain Event: Leon Bunn (18-0-0) vs. Padraig McCrory (14-0-0)\nMain 
+ Card: L. Cinqueoncie (13-0-0) vs. Leon Maric (8-3-0)
+END:VEVENT
 END:VCALENDAR

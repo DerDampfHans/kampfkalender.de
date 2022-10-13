@@ -4,10 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221006T135239Z
-X-KAMPFKALENDER-HASH:50cf0cfd3ec3eb73d8a54334d39896744b52e7b9
+DTSTAMP:20221013T174306Z
+X-KAMPFKALENDER-HASH:d6d7a03ad25727eef50a6a2d3bda69d3dc1945f0
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T174306Z
+UID:2022-10-bunn-vs-mccrory@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bunn vs. McCrory
+DTSTART:20221022T204500Z
+DTEND:20221022T224500Z
+CATEGORIES:WB,Boxen,SPORT1,live,kostenlos
+DESCRIPTION:via SPORT1\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/92654-bunn-vs-dos-santos\nhttp://www.boxrec.com/en/event/862688\n\n-
+ --\n\nMain Event: Leon Bunn (18-0-0) vs. Padraig McCrory (14-0-0)\nMain 
+ Card: L. Cinqueoncie (13-0-0) vs. Leon Maric (8-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -20,10 +33,11 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  ing-championship-94462\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Moham
  med Walid (6-2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf 
  (5-1-0)\nMain Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain
-  Card: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
+  Card: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)\nMain Card: M
+ . Trabelsi (11-6-0) vs. Chakir Haj Haddou (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T174306Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221009T091722Z
-X-KAMPFKALENDER-HASH:9d44ac42343f6ea70ad14beb192e074139d14760
+DTSTAMP:20221013T174306Z
+X-KAMPFKALENDER-HASH:45683f313bd9325988e94f12a6e5ddb61f0593b0
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-the-chosen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=VpJS15UWNhE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-glory-collision-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Prelims
@@ -35,45 +35,128 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=PjjF06e8k24\
  un
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-brave-cf-63@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 63
 DTSTART:20221019T150000Z
 DTEND:20221019T180000Z
 CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/93030-brave-cf-63\n\n---\n\nMain Event: Ismail 
- Naurdiev (22-5-0) vs. Marcin Bandel (21-7-1)\nCo-Main Event: Brad Katona
-  (11-2-0) vs. Gamzat Magomedov (7-1-0)\nMain Card: Kamal Magomedov (9-0-
- 0) vs. Olli Santalahti (13-4-0)\nMain Card: Baz Mohammad (11-6-0) vs. Ja
- hongir Saidjamolov (16-5-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=YCRHedLTNJM\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93
+ 030-brave-cf-63\n\n---\n\nMain Event: Ismail Naurdiev (22-5-0) vs. Marci
+ n Bandel (21-7-1)\nCo-Main Event: Brad Katona (11-2-0) vs. Gamzat Magome
+ dov (7-1-0)\nMain Card: Kamal Magomedov (9-0-0) vs. Olli Santalahti (13-
+ 4-0)\nMain Card: Baz Mohammad (11-6-0) vs. Jahongir Saidjamolov (16-5-0)
+ \nMain Card: Abbas Khan (3-1-0) vs. Michael Reali (2-1-0)\nMain Card: Ne
+ mat Abdrashitov (17-8-0) vs. Marcos Vinícius Costa (10-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-brave-cf-64-african-all-stars@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 64: African All Stars
 DTSTART:20221022T150000Z
 DTEND:20221022T180000Z
 CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/93031-brave-cf-64-african-all-stars\n\n---\n\nM
- ain Event: Tae Kyun Kim (9-0-0) vs. Roman Bogatov (12-1-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=OVaM-rYEFtw\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93
+ 031-brave-cf-64-african-all-stars\n\n---\n\nMain Event: Tae Kyun Kim (9-
+ 0-0) vs. Roman Bogatov (12-1-0)\nCo-Main Event: Nkosi Ndebele (5-1-0) vs
+ . Matiss Zaharovs (4-2-0)\nMain Card: Mzwandile Hlongwa (6-2-0) vs. Abus
+ upyan Alikhanov (13-3-0)\nMain Card: Brendan Lesar (3-2-0) vs. Zagid Gai
+ darov (2-1-0)\nMain Card: Omar El Dafrawy (5-2-0) vs. Kevin Ruart (9-5-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
+UID:2022-10-enfusion-113@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 113
+DTSTART:20221022T151500Z
+DTEND:20221022T181500Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=IE1nT19MUXM\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93
+ 564-enfusion-113\n\n---\n\nMain Event: Khalid El Bakouri vs. Kevin van H
+ eeckeren\nCo-Main Event: Angelo Volpe vs. Youssef El Haji\nMain Card: Na
+ bil Khachab vs. Lazar Todev\nMain Card: Ali Baniasad vs. Seif Harnafi\nM
+ ain Card: Youness Ben Malek vs. Abdelilah Azzouzi\nPrelim: Peter Verhaeg
+ h vs. Marcel Verhaar\nPrelim: Gurkan Basak vs. Peter Verhaegh\nPrelim: K
+ rasniqi Azdren vs. Angaar Afghan\nPrelim: M. Noukrache vs. Farhad Davood
+ i\nPrelim: Hamid Najafi vs. Spyridon Mitselos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
 UID:2022-10-brave-cf-65-rumble-in-the-kingdom@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 65: Rumble in The Kingdom
 DTSTART:20221028T150000Z
 DTEND:20221028T180000Z
 CATEGORIES:Brave,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/93032-brave-cf-65-rumble-in-the-kingdom
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=PHJvVDyHetw\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93
+ 032-brave-cf-65-rumble-in-the-kingdom\n\n---\n\nMain Event: Hamza Koohej
+ i (11-3-0) vs. Eduardo Mora (7-3-0)\nCo-Main Event: Jose Torres (10-1-1)
+  vs. Izzeddine Al Derbani (13-2-0)\nMain Card: Mohamed Said Maalem (11-4
+ -0) vs. Magomed Gadzhiyasulov (6-0-0)\nMain Card: Ahmad Labban (12-5-0) 
+ vs. Carl Booth (10-5-0)\nMain Card: Shamil Gaziev (8-0-0) vs. Pavel Dail
+ idko (4-1-0)\nMain Card: Maysara Mohamed (6-0-0) vs. Frieh Harahsheh (1-
+ 0-0)\nMain Card: Abdulla Alyaqoob (2-0-0) vs. Fouad Al Shami (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
+UID:2022-11-enfusion-114@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 114
+DTSTART:20221105T110000Z
+DTEND:20221105T140000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93893-enfusion-114
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
+UID:2022-11-the-cage@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Cage
+DTSTART:20221105T170000Z
+DTEND:20221105T200000Z
+CATEGORIES:Other,MMA,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
+ nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
+UID:2022-11-enfusion-115@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 115
+DTSTART:20221112T121500Z
+DTEND:20221112T151500Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93894-enfusion-115
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
+UID:2022-11-enfusion-116@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 116
+DTSTART:20221119T121500Z
+DTEND:20221119T151500Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93892-enfusion-116\n\n---\n\nMain Event: Sarel 
+ De Jong vs. Vittoria di Mauro\nMain Card: Martin Terpstra vs. Perry Reic
+ hling\nMain Card: Jorina Baars vs. Erica Björnestrand\nMain Card: Lorenz
+ o Geurink vs. Seif Harnafi\nMain Card: Darryl Verdonk vs. Nawid Tahoeni\
+ nMain Card: Piet van den Berg vs. Regy Janssen\nPrelim: Peter Verhaegh v
+ s. Clayton Raven\nPrelim: Rida Bellahcen vs. Cengizhan Lale\nPrelim: Dwa
+ yne Panka vs. Cwainy Sebregts\nPrelim: Anwar Dira vs. Jimi Van Oeveren\n
+ Prelim: Nina van Dalum vs. Kelly Danioko
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -89,11 +172,12 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  n-Mercier (16-5-0)\nMain Card: Dilano Taylor (10-2-0) vs. Sadibou Sy (12
  -6-2)\nMain Card: Omari Akhmedov (24-7-1) vs. Rob Wilkinson (16-2-0)\nPr
  elim: Natan Schulte (22-5-1) vs. Jeremy Stephens (29-20-0)\nPrelim: Dako
- ta Ditcheva (6-0-0) vs. Katherine Corogenes (1-0-0)\nPrelim: Biaggio Ali
-  Walsh (1-1-0) vs. Tom Graesser (0-0-0)
+ ta Ditcheva (6-0-0) vs. Katherine Corogenes (2-0-0)\nPrelim: Biaggio Ali
+  Walsh (1-1-0) vs. Tom Graesser (0-0-0)\nPrelim: Julia Budd (16-4-0) vs.
+  Aspen Ladd (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-11-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -103,7 +187,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -115,7 +199,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  events/90452-super-league-mma-5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-12-nfc-contenders-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders 2
@@ -125,7 +209,7 @@ CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -138,10 +222,11 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ship-94462\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6
  -2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMai
  n Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain Card: Julia
- n Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
+ n Pennant (5-2-0) vs. Alexander Djukic (6-3-0)\nMain Card: M. Trabelsi (
+ 11-6-0) vs. Chakir Haj Haddou (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -154,10 +239,11 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  ship-94462\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6
  -2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMai
  n Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain Card: Julia
- n Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
+ n Pennant (5-2-0) vs. Alexander Djukic (6-3-0)\nMain Card: M. Trabelsi (
+ 11-6-0) vs. Chakir Haj Haddou (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -170,10 +256,11 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  ing-championship-94462\n\n---\n\nMain Card: Max Holzer (5-0-0) vs. Moham
  med Walid (6-2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf 
  (5-1-0)\nMain Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain
-  Card: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
+  Card: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)\nMain Card: M
+ . Trabelsi (11-6-0) vs. Chakir Haj Haddou (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T174306Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221009T091722Z
-X-KAMPFKALENDER-HASH:7c71fff0b4b876057b6ac0997f007fa783241417
+DTSTAMP:20221013T180637Z
+X-KAMPFKALENDER-HASH:dee28ddad55c71baa1138cc7afe9a135fa6b9add
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-the-chosen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=VpJS15UWNhE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-glory-collision-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=PjjF06e8k24\
  un
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-bkk-kickboxing-championship-lee-vs-eroglu@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKK Kickboxing Championship: Lee vs. Eroglu
@@ -54,7 +54,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkk-kc-bokeme-vs-erogl
  l vs. Fabio Reis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Hari vs. Overeem
@@ -71,39 +71,96 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  l Boapeah vs. Sergej Braun
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
-UID:2022-10-xfn-383@kampfkalender.de
+DTSTAMP:20221013T180637Z
+UID:2022-10-oktagon-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:XFN 383
-DTSTART:20221014T230000Z
-DTEND:20221015T020000Z
-CATEGORIES:XFN,Kickboxen,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+SUMMARY:OKTAGON 36: Prelims
+DTSTART:20221015T151500Z
+DTEND:20221015T200000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/91181-oktagon-36\nhttp://www.sherdog.com/events/oktagon-mma-okta
+ gon-36-93387\nhttps://events.mixedmartialarts.com/oktagon-36:e6e40109-58
+ ac-4e6e-9efe-25e25b849a23\nhttps://oktagonmma.cz/event/oktagon-36/\n\n--
+ -\n\nMain Event: Christian Eckerlin (14-5-0) vs. Denilson Neves (16-8-0)
+ \nCo-Main Event: Jeremy Kimball (18-9-0) vs. Hatef Moeil (12-4-0)\nMain 
+ Card: Stephan Puetz (21-5-0) vs. Miloš Petrášek (12-6-0)\nMain Card: Boj
+ an Velickovic (21-11-2) vs. Leandro Silva (25-10-1)\nMain Card: Zdenek P
+ olivka (8-5-0) vs. Samuel Krištofič (15-4-0)\nMain Card: Máté Kertész (1
+ 2-5-0) vs. Christian Jungwirth (12-5-0)\nPrelim: André Ricardo (11-5-2) 
+ vs. John Hathaway (17-2-0)\nMain Card: Nermin Hajdarpašić (4-0-0) vs. Al
+ exander Poppeck (14-4-0)\nPrelim: Václav Mikulášek (7-9-0) vs. Hojat Kha
+ jevand (5-3-0)\nPrelim: Marek Bartl (10-11-0) vs. Ebrahim Hosseinpour (6
+ -6-0)\nPrelim: Katharina Dalisda (6-3-0) vs. Mallory Martin (7-5-0)\nPre
+ lim: Jakub Bahník (8-4-0) vs. Jamie Cordero (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
+UID:2022-10-fair-fc-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fair FC 15
+DTSTART:20221015T163000Z
+DTEND:20221015T193000Z
+CATEGORIES:Other,MMA,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
+ ir-fc-12-533
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
+UID:2022-10-kok-world-series-in-tallinn@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KOK: World Series in Tallinn
+DTSTART:20221015T170000Z
+DTEND:20221015T200000Z
+CATEGORIES:KOK,MMA,Kickboxen,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/93561-kok-world-series-in-tallinn\n\n---\n\nMain Event: Volodymyr Hynz
+ hu vs. Hendrik Themas\nMain Card: Ilona Wojda vs. Astrid Grents\nMain Ca
+ rd: Ricardas Kulis vs. Aleksei Larin\nMain Card: Oleh Moshin vs. Henry R
+ ohtla\nMain Card: Dzianis Makouski vs. Raimondas Avlasevičius\nMain Card
+ : Roman Yarysh vs. Marko Sults\nPrelim: Aleksandra Dzhikaeva vs. Karolin
+ a Arm\nPrelim: Ernesta Kareckaite (0-0-0) vs. Sigrid Kapanen (0-0-0)\nPr
+ elim: Mahmud Sayfullaev vs. Sergei Strinža
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
+UID:2022-10-ring-of-fire-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ring Of Fire 15
+DTSTART:20221015T170000Z
+DTEND:20221015T200000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ri
+ ng-of-fire-15-532
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
 UID:2022-10-oktagon-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36
-DTSTART:20221015T150000Z
-DTEND:20221015T180000Z
-CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
-DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/91181-oktagon-36\nhttps://oktagonmma.cz/event/oktagon-36/\n\n---
- \n\nMain Event: Christian Eckerlin (14-5-0) vs. Denilson Neves (16-8-0)\
- nCo-Main Event: Jeremy Kimball (18-9-0) vs. Hatef Moeil (12-4-0)\nMain C
- ard: Stephan Puetz (21-5-0) vs. Miloš Petrášek (12-6-0)\nMain Card: Boja
- n Velickovic (21-11-2) vs. Leandro Silva (25-10-1)\nMain Card: Zdenek Po
- livka (8-5-0) vs. Samuel Krištofič (15-4-0)\nMain Card: Máté Kertész (12
- -5-0) vs. Christian Jungwirth (12-5-0)\nPrelim: André Ricardo (11-5-2) v
- s. John Hathaway (17-2-0)\nMain Card: Nermin Hajdarpašić (4-0-0) vs. Ale
- xander Poppeck (14-4-0)\nPrelim: Václav Mikulášek (7-9-0) vs. Hojat Khaj
- evand (5-3-0)\nPrelim: Marek Bartl (10-11-0) vs. Ebrahim Hosseinpour (6-
- 6-0)\nPrelim: Katharina Dalisda (6-3-0) vs. Mallory Martin (7-5-0)\nPrel
- im: Jakub Bahník (8-4-0) vs. Jamie Cordero (2-0-0)
+DTSTART:20221015T200000Z
+DTEND:20221015T230000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,Bild+,live
+DESCRIPTION:via oktagon.tv\nvia Bild+: https://www.bild.de/bild-plus/spor
+ t/mehr-sport/sport-mix/mma-oktagon-36-exklusiv-bei-bild-hier-anmelden-un
+ d-die-eckerlin-rache-sehen-81550056.bild.html\n\n---\n\nhttps://www.tapo
+ logy.com/fightcenter/events/91181-oktagon-36\nhttp://www.sherdog.com/eve
+ nts/oktagon-mma-oktagon-36-93387\nhttps://events.mixedmartialarts.com/ok
+ tagon-36:e6e40109-58ac-4e6e-9efe-25e25b849a23\nhttps://oktagonmma.cz/eve
+ nt/oktagon-36/\n\n---\n\nMain Event: Christian Eckerlin (14-5-0) vs. Den
+ ilson Neves (16-8-0)\nCo-Main Event: Jeremy Kimball (18-9-0) vs. Hatef M
+ oeil (12-4-0)\nMain Card: Stephan Puetz (21-5-0) vs. Miloš Petrášek (12-
+ 6-0)\nMain Card: Bojan Velickovic (21-11-2) vs. Leandro Silva (25-10-1)\
+ nMain Card: Zdenek Polivka (8-5-0) vs. Samuel Krištofič (15-4-0)\nMain C
+ ard: Máté Kertész (12-5-0) vs. Christian Jungwirth (12-5-0)\nPrelim: And
+ ré Ricardo (11-5-2) vs. John Hathaway (17-2-0)\nMain Card: Nermin Hajdar
+ pašić (4-0-0) vs. Alexander Poppeck (14-4-0)\nPrelim: Václav Mikulášek (
+ 7-9-0) vs. Hojat Khajevand (5-3-0)\nPrelim: Marek Bartl (10-11-0) vs. Eb
+ rahim Hosseinpour (6-6-0)\nPrelim: Katharina Dalisda (6-3-0) vs. Mallory
+  Martin (7-5-0)\nPrelim: Jakub Bahník (8-4-0) vs. Jamie Cordero (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-one-162-zhang-vs-di-bella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 162: Zhang vs. Di Bella
@@ -121,24 +178,25 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Denis Purić
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-enfusion-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 113
-DTSTART:20221022T104500Z
-DTEND:20221022T134500Z
-CATEGORIES:Enfusion,Kickboxen,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/93564-enfusion-11
- 3\n\n---\n\nMain Event: Khalid El Bakouri vs. Kevin van Heeckeren\nCo-Ma
- in Event: Angelo Volpe vs. Youssef El Haji\nMain Card: Nabil Khachab vs.
-  Lazar Todev\nMain Card: Ali Baniasad vs. Seif Harnafi\nMain Card: Youne
- ss Ben Malek vs. Abdelilah Azzouzi\nPrelim: Peter Verhaegh vs. Marcel Ve
- rhaar\nPrelim: Gurkan Basak vs. Peter Verhaegh\nPrelim: Krasniqi Azdren 
- vs. Angaar Afghan\nPrelim: M. Noukrache vs. Farhad Davoodi\nPrelim: Hami
- d Najafi vs. Spyridon Mitselos
+DTSTART:20221022T151500Z
+DTEND:20221022T181500Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=IE1nT19MUXM\
+ nvia fight24.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93
+ 564-enfusion-113\n\n---\n\nMain Event: Khalid El Bakouri vs. Kevin van H
+ eeckeren\nCo-Main Event: Angelo Volpe vs. Youssef El Haji\nMain Card: Na
+ bil Khachab vs. Lazar Todev\nMain Card: Ali Baniasad vs. Seif Harnafi\nM
+ ain Card: Youness Ben Malek vs. Abdelilah Azzouzi\nPrelim: Peter Verhaeg
+ h vs. Marcel Verhaar\nPrelim: Gurkan Basak vs. Peter Verhaegh\nPrelim: K
+ rasniqi Azdren vs. Angaar Afghan\nPrelim: M. Noukrache vs. Farhad Davood
+ i\nPrelim: Hamid Najafi vs. Spyridon Mitselos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-10-oktagon-east-pro-fight@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON: East PRO Fight
@@ -150,7 +208,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  vs. Martin Mucha (1-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-11-glory-rivals-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 3
@@ -162,7 +220,40 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  rmeer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
+UID:2022-11-enfusion-114@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 114
+DTSTART:20221105T110000Z
+DTEND:20221105T140000Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93893-enfusion-114
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
+UID:2022-11-the-cage@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Cage
+DTSTART:20221105T170000Z
+DTEND:20221105T200000Z
+CATEGORIES:Other,MMA,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
+ nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
+UID:2022-11-enfusion-115@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 115
+DTSTART:20221112T121500Z
+DTEND:20221112T151500Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93894-enfusion-115
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
 UID:2022-11-one-163-akimoto-vs-petchtanong@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 163: Akimoto vs. Petchtanong
@@ -174,7 +265,25 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Petchtanong Banchamek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
+UID:2022-11-enfusion-116@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion 116
+DTSTART:20221119T121500Z
+DTEND:20221119T151500Z
+CATEGORIES:Enfusion,Kickboxen,fighting.de,fight24.tv,live
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/93892-enfusion-116\n\n---\n\nMain Event: Sarel 
+ De Jong vs. Vittoria di Mauro\nMain Card: Martin Terpstra vs. Perry Reic
+ hling\nMain Card: Jorina Baars vs. Erica Björnestrand\nMain Card: Lorenz
+ o Geurink vs. Seif Harnafi\nMain Card: Darryl Verdonk vs. Nawid Tahoeni\
+ nMain Card: Piet van den Berg vs. Regy Janssen\nPrelim: Peter Verhaegh v
+ s. Clayton Raven\nPrelim: Rida Bellahcen vs. Cengizhan Lale\nPrelim: Dwa
+ yne Panka vs. Cwainy Sebregts\nPrelim: Anwar Dira vs. Jimi Van Oeveren\n
+ Prelim: Nina van Dalum vs. Kelly Danioko
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T180637Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -186,7 +295,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  3-0) vs. Murad Ramazanov (11-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2022-12-oktagon-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38
@@ -198,7 +307,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  . Karlos Vémola (33-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -206,10 +315,11 @@ DTSTART:20230114T010000Z
 DTEND:20230114T040000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/93660-one-on-prime-video-6
+ ents/93660-one-on-prime-video-6\n\n---\n\nMain Card: Stamp Fairtex vs. A
+ nissa Meksen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T091723Z
+DTSTAMP:20221013T180637Z
 UID:2023-04-oktagon-v-bratislave@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON: V Bratislave

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221006T135239Z
-X-KAMPFKALENDER-HASH:5d85a81752eea0e81e65e7a7134b8c4def07b3e2
+DTSTAMP:20221013T174306Z
+X-KAMPFKALENDER-HASH:650bd04704d77ce118b5e2fdae878cced55a1126
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T174306Z
 UID:2022-10-cage-fury-fc-113-sears-vs-velasco@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Fury FC 113: Sears vs. Velasco
@@ -29,10 +29,10 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
-UID:2022-11-cage-fury-fc-114@kampfkalender.de
+DTSTAMP:20221013T174306Z
+UID:2022-11-cage-fury-fc-114-st-louis-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Fury FC 114
+SUMMARY:Cage Fury FC 114: St. Louis vs. Smith
 DTSTART:20221111T000000Z
 DTEND:20221111T030000Z
 CATEGORIES:CFFC,MMA,UFC Fight Pass,live
@@ -44,5 +44,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  d: Tyler Keating (1-1-0) vs. William Rentz (1-1-0)\nMain Card: Max Quino
  nes (1-0-0) vs. Cameron Cash (1-0-0)\nMain Card: Jesus Hernandez (1-2-0)
   vs. Daniel Morrison (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T174306Z
+UID:2022-11-cffc-115@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 115
+DTSTART:20221119T000000Z
+DTEND:20221119T030000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/93910-cffc-115
 END:VEVENT
 END:VCALENDAR

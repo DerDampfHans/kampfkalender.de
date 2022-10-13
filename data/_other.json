@@ -1,5 +1,26 @@
 [
   {
+    "id": "ring-of-fire-2022-10-15",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Unterschleissheim",
+      "#RingOfFire15"
+    ],
+    "mainCard": {
+      "title": "Ring Of Fire 15",
+      "time": "2022-10-15T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-ring-of-fire-15-532",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
     "id": "tapology-92510",
     "promotion": "_OTHER",
     "sports": [
@@ -36,11 +57,11 @@
       "card": [
         "Main Event: Jay Swingler (0-0-0) vs. Chad Lebaron (0-0-0)",
         "Co-Main Event: Sulieman Albaher (0-0-0) vs. Ryan Taylor (0-0-0)",
-        "Main Card: Anthony Taylor (2-3-0) vs. Ashley Tebi (0-0-0)",
-        "Main Card: Astrid Wett (0-0-0) vs. Keeley Colbran (0-0-0)",
-        "Main Card: Hamad Khan (0-0-0) vs. Deji Araoye (0-0-0)",
         "Main Card: Joel Morris (0-0-0) vs. Ginty (0-0-0)",
-        "Main Card: Tom Zanetti (0-0-0) vs. Jayden King (0-0-0)"
+        "Main Card: Tom Zanetti (0-0-0) vs. Jayden King (0-0-0)",
+        "Prelim: Astrid Wett (0-0-0) vs. Keeley Colbran (0-0-0)",
+        "Prelim: Anthony Taylor (2-3-0) vs. Ashley Tebi (0-0-0)",
+        "Prelim: Hamad Khan (0-0-0) vs. Deji Araoye (0-0-0)"
       ]
     }
   },
@@ -99,6 +120,73 @@
       "links": [
         "http://www.boxrec.com/en/event/862521"
       ]
+    }
+  },
+  {
+    "id": "the-cage-2022-11-05",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "🎙@MarkBergmann",
+      "#TheCage",
+      "#GerMMAny",
+      "#Magdeburg",
+      "#MMAgdeburg"
+    ],
+    "mainCard": {
+      "title": "The Cage",
+      "time": "2022-11-05T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=3sNlSLlgxw0"
+        },
+        "FIGHT24_TV": {
+        }
+      },
+      "youTube": {
+        "id": "3sNlSLlgxw0",
+        "time": "2022-11-05T17:00:00Z",
+        "title": "The Cage LIVE aus Magdeburg",
+        "url": "https://www.youtube.com/watch?v=3sNlSLlgxw0",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tlp-grappling-2022-12-03",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#TopLevelPro9"
+    ],
+    "mainCard": {
+      "title": "Top Level Pro 9: Grappling Series",
+      "time": "2022-12-03T22:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/top-level-pro-9/2pc57/"
+        }
+      },
+      "fite": {
+        "id": "2pc57",
+        "time": "2022-12-03T22:00:00Z",
+        "title": "Top Level Pro 9: Grappling Series",
+        "url": "https://www.fite.tv/watch/top-level-pro-9/2pc57/",
+        "price": "WATCH WITH FITE+",
+        "sports": [
+          "GRAPPLING",
+          "MMA"
+        ]
+      }
     }
   }
 ]
