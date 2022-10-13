@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221006T135239Z
-X-KAMPFKALENDER-HASH:387b33cfe30276d8087ead166b96840f7c2177b2
+DTSTAMP:20221013T184330Z
+X-KAMPFKALENDER-HASH:4f18486323d4482ef80b7b87a1a224c09dec29d6
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T184330Z
 UID:2022-10-glory-collision-4-weigh-ins@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Weigh-Ins
@@ -17,7 +17,7 @@ CATEGORIES:Glory,YouTube,PR,live
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZY8K27Jzr5k
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T184330Z
 UID:2022-10-glory-collision-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=PjjF06e8k24\
  un
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T184330Z
 UID:2022-10-glory-collision-4-hari-vs-overeem@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Collision 4: Hari vs. Overeem
@@ -52,15 +52,25 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  l Boapeah vs. Sergej Braun
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221006T135240Z
+DTSTAMP:20221013T184330Z
 UID:2022-11-glory-rivals-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 3
 DTSTART:20221105T083000Z
 DTEND:20221105T113000Z
-CATEGORIES:Glory,Kickboxen,glory.tv,live
-DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
- vents/93060-glory-rivals-3\n\n---\n\nMain Event: Robin Ciric vs. Jay Ove
- rmeer
+CATEGORIES:Glory,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/93060-glory-rivals-3\n\n---\n\nMain Event: Robin Ciric vs. Jay 
+ Overmeer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221013T184330Z
+UID:2022-11-glory-82@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 82
+DTSTART:20221119T180000Z
+DTEND:20221119T210000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de
 END:VEVENT
 END:VCALENDAR

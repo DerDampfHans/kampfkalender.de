@@ -5,16 +5,12 @@
     "sports": [
       "KICKBOXING"
     ],
+    "tags": [
+      "#GloryRivals3"
+    ],
     "mainCard": {
       "title": "Glory Rivals 3",
       "time": "2022-11-05T08:30:00Z",
-      "broadcasters": {
-        "GLORY_TV": {
-        }
-      }
-    },
-    "prelims": {
-      "title": "Glory Rivals 3: Prelims",
       "broadcasters": {
         "FIGHTING_DE": {
         }
@@ -32,6 +28,24 @@
       "card": [
         "Main Event: Robin Ciric vs. Jay Overmeer"
       ]
+    }
+  },
+  {
+    "id": "glory-82",
+    "promotion": "GLORY",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Glory82"
+    ],
+    "mainCard": {
+      "title": "Glory 82",
+      "time": "2022-11-19T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
     }
   }
 ]
