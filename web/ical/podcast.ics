@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221009T220305Z
-X-KAMPFKALENDER-HASH:9e08ae5ed47293fb3eff85b7ebcf12559f84fe04
+DTSTAMP:20221014T150916Z
+X-KAMPFKALENDER-HASH:6a6e9a3723af2de10d31c95b83f13bbb429ec525
 BEGIN:VEVENT
-DTSTAMP:20221009T220306Z
+DTSTAMP:20221014T150916Z
 UID:2022-10-mma-unfolded-basics-vorurteile-unter-der-lupe@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -18,7 +18,7 @@ CATEGORIES:MMAU,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=E9Adh8qWTVU
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221009T220306Z
+DTSTAMP:20221014T150916Z
 UID:2022-10-schlagwort-podcast-collision-4-mo-abdallah-julian-pennant@kam
  pfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -27,5 +27,15 @@ DTSTART:20221009T160000Z
 DTEND:20221009T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=wGvoJ2dhkrw
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221014T150916Z
+UID:2022-10-schlagwort-podcast-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20221016T160000Z
+DTEND:20221016T180000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR
