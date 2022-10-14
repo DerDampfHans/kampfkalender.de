@@ -62,7 +62,7 @@
         "Main Card: Askar Askarov (14-1-1) vs. Brandon Royval (14-6-0)",
         "Main Card: Duško Todorović (11-3-0) vs. Jordan Wright (12-3-0)",
         "Main Card: Misha Cirkunov (15-8-0) vs. Alonzo Menifield (12-3-0)",
-        "Main Card: Mana Martinez (9-3-0) vs. Brandon Davis (14-9-0)",
+        "Prelim: Mana Martinez (9-3-0) vs. Brandon Davis (14-9-0)",
         "Prelim: Raphael Assunção (27-9-0) vs. Victor Henry (22-5-0)",
         "Prelim: Nick Maximov (8-1-0) vs. Jacob Malkoun (6-2-0)",
         "Prelim: Joanderson Brito (13-3-1) vs. Lucas Alexander (7-2-0)",
@@ -167,9 +167,8 @@
         "Prelim: Muhammad Mokaev (7-0-0) vs. Malcolm Gordon (14-5-0)",
         "Prelim: Volkan Oezdemir (18-6-0) vs. Nikita Krylov (28-9-0)",
         "Prelim: Abubakar Nurmagomedov (16-3-1) vs. Gadzhi Omargadzhiev (13-1-0)",
-        "Prelim: Armen Petrosyan (7-2-0) vs. AJ Dobson (6-1-0)",
+        "Prelim: Armen Petrosyan (6-2-0) vs. AJ Dobson (6-1-0)",
         "Prelim: Lina Länsberg (10-6-0) vs. Karol Rosa (15-4-0)",
-        "Prelim: Shamil Abdurakhimov (20-7-0) vs. Jailton Almeida (17-2-0)",
         "Prelim: Yamato Nishikawa (21-3-6) vs. Magomed Mustafaev (14-4-0)"
       ]
     }
@@ -301,7 +300,7 @@
       "#UFCVegas64"
     ],
     "mainCard": {
-      "title": "UFC Vegas 64: Mitchell vs. Evloev",
+      "title": "UFC Vegas 64",
       "time": "2022-11-06T00:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -327,16 +326,16 @@
     "tapology": {
       "id": 91921,
       "time": "2022-11-05T20:00:00Z",
-      "title": "UFC Fight Night: Mitchell vs. Evloev",
+      "title": "UFC Fight Night",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/91921-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Bryce Mitchell (15-0-0) vs. Movsar Evloev (16-0-0)",
         "Main Card: Marina Rodriguez (16-1-2) vs. Amanda Lemos (12-2-1)",
         "Main Card: Neil Magny (26-9-0) vs. Daniel Rodriguez (17-2-0)",
+        "Main Card: Jailton Almeida (17-2-0) vs. Maxim Grishin (32-9-2)",
         "Prelim: Mario Bautista (10-2-0) vs. Benito Lopez (10-1-0)",
         "Prelim: Tagir Ulanbekov (13-2-0) vs. Nate Maness (14-2-0)",
         "Prelim: Ramona Pascual (6-4-0) vs. Tamires Vidal (6-1-0)",
@@ -455,7 +454,8 @@
         "Prelim: Jennifer Maia (19-9-1) vs. Maryna Moroz (11-3-0)",
         "Prelim: Fernie Garcia (10-2-0) vs. Brady Hiestand (5-2-0)",
         "Prelim: Jose Johnson (15-7-0) vs. Vince Morales (11-6-0)",
-        "Prelim: Natália Silva (13-5-1) vs. Tereza Bledá (6-0-0)"
+        "Prelim: Natália Silva (13-5-1) vs. Tereza Bledá (6-0-0)",
+        "Prelim: William Knight (11-4-0) vs. Marcin Prachnio (15-6-0)"
       ]
     }
   },
@@ -524,7 +524,7 @@
       "#UFC282"
     ],
     "mainCard": {
-      "title": "UFC 282: Procházka vs. Teixeira",
+      "title": "UFC 282: Procházka vs. Teixeira 2",
       "time": "2022-12-10T23:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -550,7 +550,7 @@
     "tapology": {
       "id": 92214,
       "time": "2022-12-10T23:00:00Z",
-      "title": "UFC 282",
+      "title": "UFC 282: Procházka vs. Teixeira 2",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/92214-ufc-282",
       "sports": [
@@ -664,6 +664,7 @@
       "card": [
         "Main Event: Kelvin Gastelum (17-8-0) vs. Nassourdine Imavov (12-3-0)",
         "Main Card: Geoff Neal (15-4-0) vs. Shavkat Rakhmonov (16-0-0)",
+        "Main Card: Ketlen Vieira (13-2-0) vs. Raquel Pennington (14-8-0)",
         "Prelim: Jeff Molina (11-2-0) vs. Jimmy Flick (16-5-0)",
         "Prelim: Allan Nascimento (19-6-0) vs. Carlos Hernandez (8-1-0)"
       ]
@@ -718,6 +719,47 @@
         "Main Card: Paul Craig (16-5-1) vs. Johnny Walker (19-7-0)",
         "Prelim: Gabriel Bonfim (13-0-0) vs. Mounir Lazzez (11-2-0)",
         "Prelim: Josiane Nunes (9-1-0) vs. Zarah Fairn (6-4-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-93977",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#UFCSeoul"
+    ],
+    "mainCard": {
+      "title": "UFC Seoul",
+      "time": "2023-02-04T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Seoul: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 93977,
+      "time": "2023-02-04T23:00:00Z",
+      "title": "UFC Fight Night",
+      "titleAlt": "UFC Fight Night Seoul",
+      "info": "Rumored Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/93977-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Da Un Jung (15-3-1) vs. Devin Clark (13-7-0)"
       ]
     }
   },
