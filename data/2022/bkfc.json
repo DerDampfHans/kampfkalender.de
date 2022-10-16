@@ -1223,5 +1223,82 @@
         "https://events.mixedmartialarts.com/bkfc-30:12c3208e-56c4-491a-ab31-f7a0ee8fbb26"
       ]
     }
+  },
+  {
+    "id": "tapology-92218",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC31",
+      "#BKFCDenver"
+    ],
+    "mainCard": {
+      "title": "BKFC 31: Richman vs. Doolittle",
+      "time": "2022-10-16T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-31-denver/2pc1r/"
+        }
+      },
+      "fite": {
+        "id": "2pc1r",
+        "time": "2022-10-16T01:00:00Z",
+        "title": "BKFC 31 Denver: Mike Richman vs Isaac Doolittle",
+        "url": "https://www.fite.tv/watch/bkfc-31-denver/2pc1r/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 31: Prelims",
+      "time": "2022-10-16T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-31-denver-prelims/2pc1s/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pc1s",
+        "time": "2022-10-16T00:00:00Z",
+        "title": "BKFC 31 Denver: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-31-denver-prelims/2pc1s/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 92218,
+      "time": "2022-10-16T00:00:00Z",
+      "title": "BKFC 31: Richman vs. Doolittle",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/92218-bkfc-31-vanzant-vs-sigala",
+      "card": [
+        "Main Event: Mike Richman vs. Isaac Doolittle",
+        "Co-Main Event: Brandon Girtz vs. Jake Lindsey",
+        "Main Card: Chris Camozzi vs. Bubba McDaniel",
+        "Main Card: Cory Madden vs. Christian Torres",
+        "Main Card: Andrew Yates vs. Nolan McGlaughlin",
+        "Main Card: Josh Copeland vs. Levi Costa",
+        "Main Card: Van Vo vs. Andrew Angelcor",
+        "Main Card: Gorjan Slaveski vs. Evgeny Kurdanov",
+        "Prelim: Keegan Vandermeer vs. Zeb Vincent",
+        "Prelim: Khortni Kamyron vs. Crystal Pittman",
+        "Prelim: Joshua Todd vs. Jessie Stalder"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-31:e30f1f16-f4be-48a5-9c13-8cd8b027e38a"
+      ]
+    }
   }
 ]
