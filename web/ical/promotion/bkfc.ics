@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221014T142107Z
-X-KAMPFKALENDER-HASH:a9d3c75a4700870292c3666c0e68a8d1a8ab2465
+DTSTAMP:20221019T143551Z
+X-KAMPFKALENDER-HASH:cdf678363c4c7a1d40a7cda63f38aae05d0a88de
 BEGIN:VEVENT
-DTSTAMP:20221014T142108Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-bkfc-31-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-31-denver-prelims
  odd vs. Jessie Stalder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221014T142108Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-bkfc-31-richman-vs-doolittle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Richman vs. Doolittle
@@ -47,7 +47,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-31-denver/2pc1r/\
  Jessie Stalder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221014T142108Z
+DTSTAMP:20221019T143552Z
 UID:2022-11-bkfc-32-barnett-vs-herrera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Barnett vs. Herrera
@@ -64,7 +64,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ady\nPrelim: Tony Murphy vs. Shane Stapp
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221014T142108Z
+DTSTAMP:20221019T143552Z
 UID:2022-11-bkfc-33-beltran-vs-alexander@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Beltran vs. Alexander
@@ -73,14 +73,16 @@ DTEND:20221119T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/93739-bkfc-33\n\n---\n\nMain Event: Joey Beltran vs. Houston Alexan
- der\nMain Card: Carlos Trinidad vs. Rynell Riley\nMain Card: Alonzo Mart
- inez vs. Adalberto Serrano\nMain Card: Kassius Kayne vs. Henry Lindsay\n
- Main Card: Cody Land vs. Tommy Strydom\nMain Card: Justin Grizzard vs. A
- ndrew Potter\nPrelim: Jeff Souder vs. Jaquis Williams\nPrelim: Drako Rod
- riguez vs. Will Shutt\nPrelim: Sarah Shell vs. Audra Cummings
+ der\nCo-Main Event: Sean Wilson vs. Kevin Croom\nMain Card: Carlos Trini
+ dad vs. Rynell Riley\nMain Card: Alonzo Martinez vs. Adalberto Serrano\n
+ Main Card: Kassius Kayne vs. Henry Lindsay\nMain Card: Cody Land vs. Tom
+ my Strydom\nMain Card: Justin Grizzard vs. Andrew Potter\nMain Card: Bra
+ ndon Meyer vs. Shaine Moffitt\nPrelim: Jeff Souder vs. Jaquis Williams\n
+ Prelim: Drako Rodriguez vs. Will Shutt\nPrelim: Sarah Shell vs. Audra Cu
+ mmings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221014T142108Z
+DTSTAMP:20221019T143552Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks
@@ -92,5 +94,17 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Steven Banks\nCo-Main Event: Darren Hendry vs. Anthony Holmes\nMain
   Card: Tom Scott vs. John Ferguson\nMain Card: Mark Godbeer vs. Matt Hil
  l\nMain Card: Chris Fishgold vs. Liam Wilson
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T143552Z
+UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 34: Palomino vs. Shoaff
+DTSTART:20221204T010000Z
+DTEND:20221204T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/94156-bkfc-34-palomino-vs-shoaff\n\n---\n\nMain Event: Luis Palomin
+ o vs. Tom Shoaff\nCo-Main Event: Francesco Ricchi vs. David Mundell
 END:VEVENT
 END:VCALENDAR

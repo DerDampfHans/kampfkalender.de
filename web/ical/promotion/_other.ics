@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221015T220304Z
-X-KAMPFKALENDER-HASH:f977b3a1efacf68f13bd5093661e27580ff02d6c
+DTSTAMP:20221019T143551Z
+X-KAMPFKALENDER-HASH:b19a4e4d2d7e16b79dd9504cbc8a9091d7ff00dc
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-fair-fc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fair FC 15
@@ -18,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
  ir-fc-12-533
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-ring-of-fire-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ring Of Fire 15
@@ -29,7 +29,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ri
  ng-of-fire-15-532
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-swingler-vs-cherdleys@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swingler vs. Cherdleys
@@ -45,7 +45,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  an (0-0-0) vs. Deji Araoye (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-shields-vs-marshall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Marshall
@@ -67,7 +67,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/shields-vs-marshall/2p
  or (0-0-0) vs. Joyce Van Ee (2-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
+DTSTAMP:20221019T143552Z
+UID:2022-10-shooto-brasil-111@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shooto Brasil 111
+DTSTART:20221028T230000Z
+DTEND:20221029T020000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/94194-shooto-brasil-111\n\n---\n\nMain Event: John Teixeira 
+ (24-8-2) vs. Mauricio Machado (25-14-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T143552Z
 UID:2022-11-the-cage@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Cage
@@ -78,7 +90,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
  nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
+DTSTAMP:20221019T143552Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series

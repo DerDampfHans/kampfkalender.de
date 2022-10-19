@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221015T220304Z
-X-KAMPFKALENDER-HASH:4911d18760545310eec4ce43b7e075206181b8a6
+DTSTAMP:20221019T143551Z
+X-KAMPFKALENDER-HASH:fc6331a969e583d42392bb2449f21b82e43b8644
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-gmc-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 30
@@ -27,15 +27,37 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221015-gmc-30\n\
  ard: Rachid Nasri (0-0-0) vs. Aaron Heinrich (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221015T220304Z
-UID:2022-12-gmc-fight-night-16@kampfkalender.de
+DTSTAMP:20221019T143552Z
+UID:2022-10-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GMC Fight Night 16
+SUMMARY:OlympiX K1 / Boxen
+DTSTART:20221022T150000Z
+DTEND:20221022T180000Z
+CATEGORIES:GMC,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221022-olympix-k
+ 1-boxen-no-116
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T143552Z
+UID:2022-10-olympix-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX MMA
+DTSTART:20221022T150000Z
+DTEND:20221022T180000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221022-olympix-m
+ ma-no-116
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T143552Z
+UID:2022-12-gmc-31@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC 31
 DTSTART:20221203T180000Z
 DTEND:20221203T210000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
-DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221203-fight-nig
- ht-16\n\n---\n\nhttps://www.tapology.com/fightcenter/events/90354-gmc-fi
- ght-night
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221203-gmc-31\n\
+ n---\n\nhttps://www.tapology.com/fightcenter/events/90354-gmc-fight-nigh
+ t
 END:VEVENT
 END:VCALENDAR

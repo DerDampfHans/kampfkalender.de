@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221014T150916Z
-X-KAMPFKALENDER-HASH:e6c50d37c048fa8c8d7c261f25752cac8a0805da
+DTSTAMP:20221019T143551Z
+X-KAMPFKALENDER-HASH:1f5eb4b62b06d3c60be93cf4f67eb2d270dfdca3
 BEGIN:VEVENT
-DTSTAMP:20221014T150917Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-ksw-75-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 75: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
   Kreft (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221014T150917Z
+DTSTAMP:20221019T143552Z
 UID:2022-10-ksw-75-chuzhigaev-vs-erslan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 75: Chuzhigaev vs. Erslan
@@ -51,22 +51,22 @@ DESCRIPTION:via kswtv.com\nvia Bild+: https://www.bild.de/bild-plus/sport
  anna Kreft (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221014T150917Z
-UID:2022-11-ksw-76-zio-kowski-vs-parnasse@kampfkalender.de
+DTSTAMP:20221019T143552Z
+UID:2022-11-ksw-76-rajewski-vs-parnasse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 76: Ziółkowski vs. Parnasse
+SUMMARY:KSW 76: Rajewski vs. Parnasse
 DTSTART:20221112T180000Z
 DTEND:20221112T210000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/92898-ksw-76\n\n---\n\nMain Event: Marian Ziółkowski (25-8-1) vs.
-  Salahdine Parnasse (16-1-0)\nMain Card: Adrian Bartosiński (12-0-0) vs.
-  Krystian Kaszubowski (10-2-0)\nMain Card: Paweł Pawlak (20-4-1) vs. Bar
- tosz Leśko (12-2-2)\nMain Card: Artur Szczepaniak (8-1-0) vs. Brian Hooi
-  (18-8-0)
+ events/92898-ksw-76\n\n---\n\nMain Event: Sebastian Rajewski (12-7-0) vs
+ . Salahdine Parnasse (16-1-0)\nMain Card: Adrian Bartosiński (12-0-0) vs
+ . Krystian Kaszubowski (10-2-0)\nMain Card: Paweł Pawlak (20-4-1) vs. Ba
+ rtosz Leśko (12-2-2)\nMain Card: Artur Szczepaniak (8-1-0) vs. Brian Hoo
+ i (18-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221014T150917Z
+DTSTAMP:20221019T143552Z
 UID:2022-12-ksw-77-pudzian-vs-mamed@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 77: Pudzian vs. Mamed
@@ -77,5 +77,16 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/92899-ksw-77\n\n---\n\nMain Event: Mariusz Pudzianowski (17-7-0) 
  vs. Mamed Khalidov (35-8-2)\nCo-Main Event: Sebastian Przybysz (10-2-0) 
  vs. Jakub Wikłacz (13-3-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221019T143552Z
+UID:2023-01-ksw-78@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 78
+DTSTART:20230128T180000Z
+DTEND:20230128T210000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/94030-ksw-78
 END:VEVENT
 END:VCALENDAR

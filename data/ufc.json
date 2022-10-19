@@ -11,6 +11,10 @@
     "mainCard": {
       "title": "UFC 280: Oliveira vs. Makhachev",
       "time": "2022-10-22T18:00:00Z",
+      "tags": [
+        "🎙@SebastianHackl",
+        "🎙@PeterSobotta"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -27,12 +31,17 @@
         "time": "2022-10-22T16:00:00Z",
         "title": "UFC 280: Oliveira vs Makhachev (Vor- und Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Sebastian Hackl / Experte: Peter Sobotta"
       }
     },
     "prelims": {
       "title": "UFC 280: Prelims",
       "time": "2022-10-22T16:00:00Z",
+      "tags": [
+        "🎙@SebastianHackl",
+        "🎙@PeterSobotta"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -49,7 +58,8 @@
         "time": "2022-10-22T16:00:00Z",
         "title": "UFC 280: Oliveira vs Makhachev (Vor- und Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Sebastian Hackl / Experte: Peter Sobotta"
       }
     },
     "earlyPrelims": {
@@ -81,14 +91,21 @@
         "Main Card: Beneil Dariush (21-4-1) vs. Mateusz Gamrot (21-1-0)",
         "Main Card: Katlyn Chookagian (18-4-0) vs. Manon Fiorot (9-1-0)",
         "Prelim: Belal Muhammad (21-3-0) vs. Sean Brady (15-0-0)",
-        "Prelim: Zubaira Tukhugov (20-5-1) vs. Lucas Almeida (14-1-0)",
         "Prelim: Makhmud Muradov (25-7-0) vs. Caio Borralho (12-1-0)",
-        "Prelim: Muhammad Mokaev (7-0-0) vs. Malcolm Gordon (14-5-0)",
         "Prelim: Volkan Oezdemir (18-6-0) vs. Nikita Krylov (28-9-0)",
+        "Prelim: Zubaira Tukhugov (20-5-1) vs. Lucas Almeida (14-1-0)",
         "Prelim: Abubakar Nurmagomedov (16-3-1) vs. Gadzhi Omargadzhiev (13-1-0)",
         "Prelim: Armen Petrosyan (6-2-0) vs. AJ Dobson (6-1-0)",
-        "Prelim: Lina Länsberg (10-6-0) vs. Karol Rosa (15-4-0)",
-        "Prelim: Yamato Nishikawa (21-3-6) vs. Magomed Mustafaev (14-4-0)"
+        "Prelim: Muhammad Mokaev (7-0-0) vs. Malcolm Gordon (14-5-0)",
+        "Prelim: Lina Länsberg (10-6-0) vs. Karol Rosa (15-4-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-280-oliveira-vs-makhachev-92490",
+        "http://en.wikipedia.org/wiki/UFC_280",
+        "https://events.mixedmartialarts.com/ufc-280:700c2de3-2629-4a92-b2e2-287b20fa5240",
+        "https://www.ufc.com/event/ufc-280",
+        "http://www.ufcstats.com/event-details/885e7f70dcac0007",
+        "https://www.bestfightodds.com/events/ufc-281-2586"
       ]
     }
   },
@@ -204,8 +221,7 @@
         "Prelim: Joseph Holmes (8-2-0) vs. Jun Yong Park (14-5-0)",
         "Prelim: Roman Dolidze (10-1-0) vs. Phil Hawes (12-3-0)",
         "Prelim: Christian Rodriguez (7-1-0) vs. Garrett Armfield (8-3-0)",
-        "Prelim: Cody Durden (13-4-1) vs. Kleydson Rodrigues (7-2-0)",
-        "Prelim: Drakkar Klose (13-2-1) vs. Mark Madsen (12-0-0)"
+        "Prelim: Cody Durden (13-4-1) vs. Kleydson Rodrigues (7-2-0)"
       ]
     }
   },
@@ -226,13 +242,6 @@
         },
         "UFC_FIGHT_PASS": {
         }
-      },
-      "dazn": {
-        "id": "y1aqta2qxegt1lln0c1ncjm4p",
-        "time": "2022-11-06T00:00:00Z",
-        "title": "UFC Fight Night: Mitchell vs Evloev (Hauptkämpfe)",
-        "sport": "MMA",
-        "competition": "UFC"
       }
     },
     "prelims": {
@@ -284,6 +293,11 @@
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 227449,
+        "time": "2022-11-13T03:00:00Z",
+        "title": "UFC 281"
       }
     },
     "prelims": {
@@ -637,7 +651,8 @@
         "Main Card: Maurício Rua (27-13-1) vs. Ihor Potieria (18-3-0)",
         "Main Card: Paul Craig (16-5-1) vs. Johnny Walker (19-7-0)",
         "Prelim: Gabriel Bonfim (13-0-0) vs. Mounir Lazzez (11-2-0)",
-        "Prelim: Josiane Nunes (9-1-0) vs. Zarah Fairn (6-4-0)"
+        "Prelim: Josiane Nunes (9-1-0) vs. Zarah Fairn (6-4-0)",
+        "Prelim: Jéssica Andrade (23-9-0) vs. Lauren Murphy (16-5-0)"
       ]
     }
   },

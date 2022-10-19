@@ -5,17 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#LaraSanmartin"
+    ],
     "mainCard": {
-      "title": "Matchroom México",
-      "time": "2022-10-23T02:00:00Z",
+      "title": "Lara vs. Sanmartin",
+      "time": "2022-10-23T00:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "f2134lhe9faf1v3xgvg9bi833",
+        "time": "2022-10-23T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Lara vs Sanmartin"
       }
     },
     "tapology": {
       "id": 93386,
-      "time": "2022-10-23T02:00:00Z",
+      "time": "2022-10-23T00:00:00Z",
       "title": "Lara vs. Sanmartin",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/93386-matchroom-mexico",
@@ -42,12 +52,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#TaylorCarabajal"
+    ],
     "mainCard": {
       "title": "Taylor vs. Carabajal",
-      "time": "2022-10-29T20:00:00Z",
+      "time": "2022-10-29T18:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "1jp2tusptgjag142dsr5ys45as",
+        "time": "2022-10-29T18:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Taylor vs Carabajal"
       }
     },
     "tapology": {
@@ -101,6 +121,9 @@
         "Main Card: Chantelle Cameron (16-0-0) vs. Jessica McCaskill (12-2-0)",
         "Main Card: Shavkatdzhon Rakhimov (16-0-1) vs. Zelfa Barrett (28-1-0)",
         "Main Card: Galal Yafai (0-0-0) vs. Gohan Rodriguez (12-1-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/861753"
       ]
     }
   },

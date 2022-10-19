@@ -7,6 +7,7 @@
       "KICKBOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "OKTAGON: East PRO Fight",
       "time": "2022-10-29T18:00:00Z",
       "broadcasters": {
@@ -58,7 +59,9 @@
         "Main Event: David Kozma (30-11-0) vs. Kaik Brito (15-4-0)",
         "Main Card: Mate Sanikidze (8-2-0) vs. Jakub Tichota (5-0-0)",
         "Main Card: Tadej Dajčman (5-2-0) vs. Adam Pałasz (7-1-0)",
-        "Main Card: Abdel Rahmane Driai (7-1-0) vs. Robert Bryczek (14-5-0)"
+        "Main Card: Abdel Rahmane Driai (7-1-0) vs. Robert Bryczek (14-5-0)",
+        "Main Card: Al Matavao (9-5-0) vs. Radovan Úškrt (6-3-0)",
+        "Main Card: Jan Široký (12-13-0) vs. Ondřej Petrášek (7-1-0)"
       ],
       "links": [
         "https://oktagonmma.cz/event/oktagon-ostrava/"
@@ -93,8 +96,44 @@
         "MMA"
       ],
       "card": [
-        "Main Event: Patrik Kincl (26-10-0) vs. Karlos Vémola (33-6-0)"
+        "Main Event: Patrik Kincl (26-10-0) vs. Karlos Vémola (33-6-0)",
+        "Main Card: Jonas Mågård (14-5-0) vs. Filip Macek (27-16-1)",
+        "Main Card: Losene Keita (9-0-0) vs. Ahmed Vila (9-4-1)"
       ]
+    }
+  },
+  {
+    "id": "tapology-94070",
+    "promotion": "OKTAGON",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#OKTAGON39",
+      "#GerMMAny"
+    ],
+    "mainCard": {
+      "title": "OKTAGON 39",
+      "time": "2023-02-12T00:00:00Z",
+      "broadcasters": {
+        "OKTAGON_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "OKTAGON 39: Prelims",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 94070,
+      "time": "2023-02-12T00:00:00Z",
+      "title": "OKTAGON 39",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/94070-oktagon-39"
     }
   },
   {
@@ -105,6 +144,7 @@
       "KICKBOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "OKTAGON: V Bratislave",
       "time": "2023-04-29T18:00:00Z",
       "broadcasters": {

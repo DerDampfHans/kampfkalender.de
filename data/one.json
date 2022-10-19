@@ -12,16 +12,27 @@
     ],
     "mainCard": {
       "title": "ONE 162: Zhang vs. Di Bella",
-      "time": "2022-10-21T10:30:00Z",
+      "time": "2022-10-21T11:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=R0KXpeF1TO0",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "R0KXpeF1TO0",
+        "time": "2022-10-21T11:00:00Z",
+        "title": "🔴 [Live In HD] ONE 162: Zhang vs. Di Bella  | Lead Card",
+        "url": "https://www.youtube.com/watch?v=R0KXpeF1TO0",
+        "tags": [
+          "#ONE162",
+          "#ONEChampionship"
+        ]
       }
     },
     "tapology": {
       "id": 91286,
-      "time": "2022-10-21T10:30:00Z",
+      "time": "2022-10-21T11:00:00Z",
       "title": "ONE Championship 162: Zhang vs. Di Bella",
       "info": "Confirmed Upcoming MMA, Kickboxing, & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/91286-one-championship-162",
@@ -40,6 +51,10 @@
         "Prelim: Leandro Issa (17-8-0) vs. Artem Belakh (9-2-0)",
         "Prelim: Eko Roni Saputra (6-1-0) vs. Yodkaikaew Fairtex (7-5-1)",
         "Prelim: C. Tor Sangtiannoi vs. Denis Purić"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/one-championship-one-162-95050",
+        "https://www.onefc.com/events/one162/"
       ]
     }
   },
@@ -56,11 +71,22 @@
     ],
     "mainCard": {
       "title": "ONE on Prime Video 3: Lineker vs. Andrade",
-      "time": "2022-10-22T01:00:00Z",
+      "time": "2022-10-22T00:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=D7aub8CsFuk",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "D7aub8CsFuk",
+        "time": "2022-10-22T00:00:00Z",
+        "title": "🔴 [Live In HD] ONE On Prime Video 3: Lineker vs. Andrade | Lead Card",
+        "url": "https://www.youtube.com/watch?v=D7aub8CsFuk",
+        "tags": [
+          "#ONEonPrimeVideo3",
+          "#ONEChampionship"
+        ]
       }
     },
     "tapology": {
@@ -84,6 +110,11 @@
         "Prelim: Amir Naseri vs. Taiki Naito",
         "Prelim: Asa Ten Pow vs. Mehdi Zatout",
         "Prelim: Lea Bivins (0-0-0) vs. Noelle Grandjean (3-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/one-championship-one-on-prime-video-3-lineker-vs-andrade-94093",
+        "https://events.mixedmartialarts.com/one-on-prime-video-3:12c7ce71-40e7-468e-bb0a-9b3095d2b02b",
+        "https://www.onefc.com/events/oneonprimevideo3/"
       ]
     }
   },
@@ -91,6 +122,7 @@
     "id": "tapology-91287",
     "promotion": "ONE",
     "sports": [
+      "MMA",
       "KICKBOXING"
     ],
     "tags": [
@@ -109,13 +141,18 @@
       "id": 91287,
       "time": "2022-11-19T11:30:00Z",
       "title": "ONE Championship 163: Akimoto vs. Petchtanong",
-      "info": "Confirmed Upcoming Kickboxing Event",
+      "info": "Confirmed Upcoming MMA & Kickboxing Event",
       "url": "https://www.tapology.com/fightcenter/events/91287-one-championship-163",
       "sports": [
+        "MMA",
         "KICKBOXING"
       ],
       "card": [
-        "Main Event: Hiroki Akimoto vs. Petchtanong Banchamek"
+        "Main Event: Hiroki Akimoto vs. Petchtanong Banchamek",
+        "Main Card: Shinya Aoki (47-10-0) vs. Saygid Izagakhmaev (21-2-0)",
+        "Main Card: Yushin Okami (37-14-0) vs. Aung La N Sang (27-13-0)",
+        "Main Card: Itsuki Hirata (6-1-0) vs. Seo Hee Ham (25-8-0)",
+        "Main Card: Yuya Wakamatsu (15-5-0) vs. Sung Hoon Woo (9-3-0)"
       ]
     }
   },
@@ -150,8 +187,7 @@
       ],
       "card": [
         "Main Event: Kiamrian Abbasov (23-5-0) vs. Christian Lee (16-4-0)",
-        "Co-Main Event: Rodtang Jitmuangnon vs. Joseph Lasiri",
-        "Main Card: Aung La N Sang (27-13-0) vs. Yushin Okami (37-14-0)"
+        "Co-Main Event: Rodtang Jitmuangnon vs. Joseph Lasiri"
       ]
     }
   },
@@ -159,9 +195,7 @@
     "id": "tapology-91426",
     "promotion": "ONE",
     "sports": [
-      "MMA",
-      "KICKBOXING",
-      "MUAY_THAI"
+      "MMA"
     ],
     "tags": [
       "#ONEonPrimeVideo5"

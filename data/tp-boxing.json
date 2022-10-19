@@ -5,10 +5,24 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#TerajiKyoguchi",
+      "#KenshiroKyoguchi"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Kenshiro vs. Kyoguchi",
-      "time": "2022-11-01T11:00:00Z"
+      "title": "Teraji vs. Kyoguchi",
+      "time": "2022-11-01T10:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "6s5ytc26aih1e69629qrn7go",
+        "time": "2022-11-01T10:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Teraji vs Kyoguchi"
+      }
     },
     "tapology": {
       "id": 92696,
@@ -52,9 +66,10 @@
       ],
       "card": [
         "Main Event: Naoya Inoue (23-0-0) vs. Paul Butler (34-2-0)",
+        "Co-Main Event: Andy Hiraoka (21-0-0) vs. Min Ho Jung (0-0-0)",
         "Main Card: Yoshiki Takei (5-0-0) vs. Bruno Tarimo (25-3-2)",
-        "Main Card: Takuma Inoue (16-1-0) vs. Jade Bornea (18-0-0)",
-        "Main Card: Peter McGrail (0-0-0) vs. Hironori Miyake (9-11-2)"
+        "Main Card: Peter McGrail (0-0-0) vs. Hironori Miyake (9-11-2)",
+        "Main Card: Takuma Inoue (16-1-0) vs. Jake Bornea (14-3-1)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/863506"
