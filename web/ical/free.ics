@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221020T150207Z
-X-KAMPFKALENDER-HASH:668cf194055c7735498ba8f9b2563be3ab8953ea
+DTSTAMP:20221020T162405Z
+X-KAMPFKALENDER-HASH:7b207dc82e4fbcbdea4d7727b0b7fe5615b1cb05
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-10-bkfc-31-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-31-denver-prelims
  odd vs. Jessie Stalder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-10-wilder-vs-helenius-countdown-show@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wilder vs. Helenius: Countdown Show
@@ -50,7 +50,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/countdown-to-wilder-vs
  -1-1) vs. Julio Rosa (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-10-one-162-zhang-vs-di-bella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 162: Zhang vs. Di Bella
@@ -70,7 +70,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=R0KXpeF1TO0\n\n-
   Denis Purić
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-10-one-on-prime-video-3-lineker-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3: Lineker vs. Andrade
@@ -91,7 +91,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=D7aub8CsFuk\n\n-
  . Mehdi Zatout\nPrelim: Lea Bivins (0-0-0) vs. Noelle Grandjean (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-10-bunn-vs-mccrory@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bunn vs. McCrory
@@ -109,7 +109,32 @@ DESCRIPTION:via SPORT1\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
+UID:2022-10-emc-talents@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:EMC Talents
+DTSTART:20221029T160000Z
+DTEND:20221029T190000Z
+CATEGORIES:EMC,MMA,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/c/EMCELITEMMACHAMPIONSHI
+ P
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221020T162405Z
+UID:2022-11-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20221105T190000Z
+DTEND:20221105T220000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
+ \n\nhttps://www.tapology.com/fightcenter/events/93713-universum-boxing-n
+ ight\n\n---\n\nMain Card: Zhan Kossobutskiy (18-0-0) vs. Hussein Muhamed
+  (16-0-0)\nMain Card: Jose Larduet (8-0-0) vs. Ali Kiydin (15-1-0)\nMain
+  Card: Rostam Ibrahim (10-0-2) vs. Armenak Hovhannisyan (13-1-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221020T162405Z
 UID:2022-11-invicta-fc-50-strawweight-title-tournament@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 50: Strawweight Title Tournament
@@ -124,7 +149,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  e (2-0-0) vs. Danni McCormack (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-11-one-163-akimoto-vs-petchtanong@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 163: Akimoto vs. Petchtanong
@@ -139,7 +164,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  n Card: Yuya Wakamatsu (15-5-0) vs. Sung Hoon Woo (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -152,7 +177,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  s. Joseph Lasiri
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-11-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -162,7 +187,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-12-one-on-prime-video-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5
@@ -174,7 +199,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  3-0) vs. Murad Ramazanov (11-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-12-one-164-pacio-vs-brooks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 164: Pacio vs. Brooks
@@ -186,7 +211,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Jarred Brooks (19-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -204,7 +229,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  . Chakir Haj Haddou (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -222,7 +247,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
   (11-6-0) vs. Chakir Haj Haddou (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -234,7 +259,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nissa Meksen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221020T162405Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
