@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221019T143551Z
-X-KAMPFKALENDER-HASH:cdf678363c4c7a1d40a7cda63f38aae05d0a88de
+DTSTAMP:20221020T150207Z
+X-KAMPFKALENDER-HASH:4e43f40c82a1a14f3101c18fe042df4ba8b9dd6b
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-bkfc-31-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-31-denver-prelims
  odd vs. Jessie Stalder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-bkfc-31-richman-vs-doolittle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Richman vs. Doolittle
@@ -47,7 +47,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-31-denver/2pc1r/\
  Jessie Stalder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
+UID:2022-10-wotore-6-wielki-rewanz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wotore 6: Wielki Rewanż
+DTSTART:20221021T173000Z
+DTEND:20221021T203000Z
+CATEGORIES:Other,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wotore-6/2pc6r/\n\n---
+ \n\nhttps://www.tapology.com/fightcenter/events/94073-wotore-6-wielki-re
+ wanz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221020T150208Z
 UID:2022-11-bkfc-32-barnett-vs-herrera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Barnett vs. Herrera
@@ -64,7 +76,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ady\nPrelim: Tony Murphy vs. Shane Stapp
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-11-bkfc-33-beltran-vs-alexander@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Beltran vs. Alexander
@@ -82,7 +94,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  mmings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks
@@ -96,7 +108,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  l\nMain Card: Chris Fishgold vs. Liam Wilson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Palomino vs. Shoaff

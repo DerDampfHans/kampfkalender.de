@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221019T143551Z
-X-KAMPFKALENDER-HASH:db737f2212cc328e35acab4ce7eb81ce47e0ba95
+DTSTAMP:20221020T150207Z
+X-KAMPFKALENDER-HASH:b16ac8aa326ba6aafb7a1fa8d8aab465ea3eb3f6
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-oktagon-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36: Prelims
@@ -31,7 +31,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  lim: Jakub Bahník (8-4-0) vs. Jamie Cordero (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-fair-fc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fair FC 15
@@ -42,7 +42,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
  ir-fc-12-533
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-kok-world-series-in-tallinn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK: World Series in Tallinn
@@ -59,7 +59,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  elim: Mahmud Sayfullaev vs. Sergei Strinža
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-ring-of-fire-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ring Of Fire 15
@@ -70,7 +70,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ri
  ng-of-fire-15-532
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-oktagon-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 36
@@ -96,7 +96,7 @@ DESCRIPTION:via oktagon.tv\nvia Bild+: https://www.bild.de/bild-plus/spor
   Martin (7-5-0)\nPrelim: Jakub Bahník (8-4-0) vs. Jamie Cordero (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-one-162-zhang-vs-di-bella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 162: Zhang vs. Di Bella
@@ -116,7 +116,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=R0KXpeF1TO0\n\n-
   Denis Purić
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -127,7 +127,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221022-olympix-k
  1-boxen-no-116
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-10-enfusion-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 113
@@ -145,19 +145,30 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=IE1nT19MUXM\
   Najafi vs. Spyridon Mitselos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
-UID:2022-11-glory-rivals-3@kampfkalender.de
+DTSTAMP:20221020T150208Z
+UID:2022-10-rizin-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory Rivals 3
-DTSTART:20221105T083000Z
-DTEND:20221105T113000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/93060-glory-rivals-3\n\n---\n\nMain Event: Robin Ciric vs. Jay 
- Overmeer
+SUMMARY:RIZIN 39
+DTSTART:20221023T050000Z
+DTEND:20221023T080000Z
+CATEGORIES:RIZIN,MMA,Kickboxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-39/2pc5p/\n\n---
+ \n\nhttps://www.tapology.com/fightcenter/events/93082-rizin-39\nhttp://w
+ ww.sherdog.com/events/rizin-ff-rizin-39-94767\nhttps://events.mixedmarti
+ alarts.com/rizin-39:ce1b8a1b-2f04-4bf6-9b4e-95d6b7a253e9\n\n---\n\nMain 
+ Event: Juntarou Ushiku (22-8-1) vs. Kleber Koike Erbst (30-5-1)\nMain Ca
+ rd: Tsuyoshi Sudario (5-1-0) vs. Janos Csukas (7-0-0)\nMain Card: Yusuke
+  Yachi (23-13-0) vs. Boyd Allen (16-4-1)\nMain Card: Koji Takeda (14-3-0
+ ) vs. Zach Zane (15-13-0)\nMain Card: Shinji Sasaki (20-12-3) vs. Sho Pa
+ trick Usami (4-1-0)\nMain Card: Daichi Abe (11-5-0) vs. Yukinari Tamura 
+ (16-13-9)\nMain Card: Genji Umeno vs. Trent Girdham\nMain Card: Takahiro
+  Ashida (25-12-2) vs. Hirotaka Nakada (5-3-0)\nMain Card: Yoshiki Nakaha
+ ra (16-5-0) vs. Akira Haraguchi (7-3-0)\nMain Card: Motonobu Tezuka (34-
+ 14-6) vs. Mehman Mamedov (5-5-0)\nMain Card: Shogo Kuriaki vs. Kakeru\nM
+ ain Card: REITO BRAVELY vs. Koichiro Seki
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-11-enfusion-114@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 114
@@ -178,7 +189,19 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  aim
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
+UID:2022-11-glory-rivals-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Rivals 3
+DTSTART:20221105T161500Z
+DTEND:20221105T191500Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9KQ5BOEQnqs\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/93060-glory-rivals
+ -3\n\n---\n\nMain Event: Robin Ciric vs. Jay Overmeer
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221020T150208Z
 UID:2022-11-the-cage@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Cage
@@ -189,7 +212,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
  nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-11-enfusion-115@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 115
@@ -206,7 +229,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  stafa Karboosh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-11-one-163-akimoto-vs-petchtanong@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 163: Akimoto vs. Petchtanong
@@ -221,7 +244,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  n Card: Yuya Wakamatsu (15-5-0) vs. Sung Hoon Woo (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-11-enfusion-116@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 116
@@ -239,7 +262,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
   Dalum vs. Kelly Danioko
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-11-glory-82@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 82
@@ -249,7 +272,7 @@ CATEGORIES:Glory,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=l51FTyTAbcY
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-12-enfusion-117@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 117
@@ -259,7 +282,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2022-12-oktagon-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38
@@ -272,7 +295,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ek (27-16-1)\nMain Card: Losene Keita (9-0-0) vs. Ahmed Vila (9-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -284,7 +307,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nissa Meksen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221020T150208Z
 UID:2023-02-oktagon-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 39
