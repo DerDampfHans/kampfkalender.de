@@ -4,17 +4,27 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221016T220304Z
-X-KAMPFKALENDER-HASH:87d759148a3fad1cc04e12ab793c83a2e3db185a
+DTSTAMP:20221021T013228Z
+X-KAMPFKALENDER-HASH:ca6ee044f9e0601999ecdc19a3c9cc9bbe78f1a3
 BEGIN:VEVENT
-DTSTAMP:20221016T220304Z
-UID:2022-10-schlagwort-podcast-oktagon-36-reaction-interviews@kampfkalend
- er.de
+DTSTAMP:20221021T013228Z
+UID:2022-10-schlagwort-podcast-184-oktagon-36-reaction-interviews@kampfka
+ lender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast: OKTAGON 36 Reaction & Interviews
+SUMMARY:Schlagwort Podcast 184: OKTAGON 36 Reaction & Interviews
 DTSTART:20221016T160000Z
 DTEND:20221016T180000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Sxq7cZxumyA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221021T013228Z
+UID:2022-10-schlagwort-podcast-185@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast 185
+DTSTART:20221023T160000Z
+DTEND:20221023T180000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube
 END:VEVENT
 END:VCALENDAR
