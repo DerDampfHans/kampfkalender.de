@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221019T143551Z
-X-KAMPFKALENDER-HASH:cdf678363c4c7a1d40a7cda63f38aae05d0a88de
+DTSTAMP:20221022T215142Z
+X-KAMPFKALENDER-HASH:0db70a3f166c7ac021f99676a414fd1e692ee705
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221022T215143Z
 UID:2022-10-bkfc-31-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-31-denver-prelims
  odd vs. Jessie Stalder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221022T215143Z
 UID:2022-10-bkfc-31-richman-vs-doolittle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 31: Richman vs. Doolittle
@@ -47,24 +47,43 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-31-denver/2pc1r/\
  Jessie Stalder
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221022T215143Z
+UID:2022-11-bkfc-32-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 32: Prelims
+DTSTART:20221106T000000Z
+DTEND:20221106T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32-orlando-prelim
+ s/2pc6v/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93689-bkf
+ c-32-barnett-vs-herrera\n\n---\n\nMain Event: Reginald Barnett\, Jr. vs.
+  Geane Herrera\nMain Card: Jared Warren vs. Jay Jackson\nMain Card: Jess
+ ica Borga vs. Brooke Gilley\nMain Card: Bobby Taylor vs. Gabriel Freyre\
+ nMain Card: Travis Thompson vs. David Diaz\nMain Card: Jonathan Miller v
+ s. Stephon Reese\nMain Card: JR Ridge vs. Chance Wilson\nMain Card: Bran
+ don Allen vs. Joshua Marer\nPrelim: Ryan Reber vs. Jack Grady\nPrelim: T
+ ony Murphy vs. Shane Stapp
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221022T215143Z
 UID:2022-11-bkfc-32-barnett-vs-herrera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Barnett vs. Herrera
 DTSTART:20221106T010000Z
 DTEND:20221106T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/93689-bkfc-32-barnett-vs-herrera\n\n---\n\nMain Event: Reginald Bar
- nett\, Jr. vs. Geane Herrera\nMain Card: Jared Warren vs. Jay Jackson\nM
- ain Card: Jessica Borga vs. Brooke Gilley\nMain Card: Bobby Taylor vs. G
- abriel Freyre\nMain Card: Travis Thompson vs. David Diaz\nMain Card: Jon
- athan Miller vs. Stephon Reese\nMain Card: JR Ridge vs. Chance Wilson\nM
- ain Card: Brandon Allen vs. Joshua Marer\nPrelim: Ryan Reber vs. Jack Gr
- ady\nPrelim: Tony Murphy vs. Shane Stapp
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32/2pc6u/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/93689-bkfc-32-barnett-vs-
+ herrera\n\n---\n\nMain Event: Reginald Barnett\, Jr. vs. Geane Herrera\n
+ Main Card: Jared Warren vs. Jay Jackson\nMain Card: Jessica Borga vs. Br
+ ooke Gilley\nMain Card: Bobby Taylor vs. Gabriel Freyre\nMain Card: Trav
+ is Thompson vs. David Diaz\nMain Card: Jonathan Miller vs. Stephon Reese
+ \nMain Card: JR Ridge vs. Chance Wilson\nMain Card: Brandon Allen vs. Jo
+ shua Marer\nPrelim: Ryan Reber vs. Jack Grady\nPrelim: Tony Murphy vs. S
+ hane Stapp
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221022T215143Z
 UID:2022-11-bkfc-33-beltran-vs-alexander@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Beltran vs. Alexander
@@ -82,7 +101,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  mmings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221022T215143Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks
@@ -96,7 +115,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  l\nMain Card: Chris Fishgold vs. Liam Wilson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221022T215143Z
 UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Palomino vs. Shoaff

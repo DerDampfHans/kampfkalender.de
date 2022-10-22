@@ -4,6 +4,52 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221008T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221022T215142Z
+X-KAMPFKALENDER-HASH:0a72d145f3a0b3658a8170187b94988de92b7483
+BEGIN:VEVENT
+DTSTAMP:20221022T215143Z
+UID:2022-10-immaf-asian-championships-day-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:IMMAF Asian Championships: Day 1
+DTSTART:20221027T060000Z
+DTEND:20221027T090000Z
+CATEGORIES:IMMAF,MMA,immaf.tv,live
+DESCRIPTION:via immaf.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/94282-2022-immaf-asian-championships-day-1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221022T215143Z
+UID:2022-10-immaf-asian-championships-day-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:IMMAF Asian Championships: Day 2
+DTSTART:20221028T060000Z
+DTEND:20221028T090000Z
+CATEGORIES:IMMAF,MMA,immaf.tv,live
+DESCRIPTION:via immaf.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/94283-2022-immaf-asian-championships
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221022T215143Z
+UID:2022-10-immaf-asian-championships-junior-finals-senior-semi-finals@ka
+ mpfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:IMMAF Asian Championships: Junior Finals/Senior Semi-Finals
+DTSTART:20221029T060000Z
+DTEND:20221029T090000Z
+CATEGORIES:IMMAF,MMA,immaf.tv,live
+DESCRIPTION:via immaf.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/94284-2022-immaf-asian-championships-junior-finals-senior-semi-fin
+ als
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221022T215143Z
+UID:2022-10-immaf-asian-championships-senior-finals@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:IMMAF Asian Championships: Senior Finals
+DTSTART:20221030T060000Z
+DTEND:20221030T090000Z
+CATEGORIES:IMMAF,MMA,immaf.tv,live
+DESCRIPTION:via immaf.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/94285-2022-immaf-asian-championships-senior-finals
+END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221020T150207Z
-X-KAMPFKALENDER-HASH:5fac71e14442d90dae551be9a7b6dd0f817b65aa
+DTSTAMP:20221022T215142Z
+X-KAMPFKALENDER-HASH:2a121771ca1614e24e4eb25e963f0d7531c8d666
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221022T215143Z
 UID:2022-10-bunn-vs-mccrory@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bunn vs. McCrory
@@ -25,7 +25,7 @@ DESCRIPTION:via SPORT1\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
+DTSTAMP:20221022T215143Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -41,16 +41,5 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  ain Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain Card: Jul
  ian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)\nMain Card: M. Trabelsi
   (11-6-0) vs. Chakir Haj Haddou (8-1-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221020T150208Z
-UID:2023-02-nfc-12@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 12
-DTSTART:20230218T220000Z
-DTEND:20230218T233000Z
-CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
- /www.tapology.com/fightcenter/events/90362-nfc-12
 END:VEVENT
 END:VCALENDAR

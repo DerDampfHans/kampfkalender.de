@@ -14,7 +14,20 @@
       "time": "2022-12-16T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=w-68jCgTttI",
+          "free": true
         }
+      },
+      "youTube": {
+        "id": "w-68jCgTttI",
+        "time": "2022-12-16T17:00:00Z",
+        "title": "FREE: NFC Contenders | 16.12. | Düsseldorf - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=w-68jCgTttI",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
       }
     }
   },
@@ -47,9 +60,21 @@
       "time": "2022-12-17T19:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=1IdEZCty6Vk"
         },
         "FIGHT24_TV": {
         }
+      },
+      "youTube": {
+        "id": "1IdEZCty6Vk",
+        "time": "2022-12-17T17:00:00Z",
+        "title": "LIVE: NFC 11| Islam Dulatov vs Florim Zendeli | 17.12. - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=1IdEZCty6Vk",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
       }
     },
     "earlyPrelims": {
@@ -123,6 +148,7 @@
       "#NFC12"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "NFC 12",
       "time": "2023-02-18T22:00:00Z",
       "until": "2023-02-18T23:30:00Z",
