@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221019T143551Z
-X-KAMPFKALENDER-HASH:b89d299e5f58e60799d117e92882d6886be250a2
+DTSTAMP:20221028T074409Z
+X-KAMPFKALENDER-HASH:1cd6795af70da4eeef7cfa79b93ae2972ce869af
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221028T074410Z
 UID:2022-10-one-162-zhang-vs-di-bella@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 162: Zhang vs. Di Bella
@@ -27,7 +27,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=R0KXpeF1TO0\n\n-
   Denis Purić
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221028T074410Z
 UID:2022-10-one-on-prime-video-3-lineker-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 3: Lineker vs. Andrade
@@ -48,7 +48,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=D7aub8CsFuk\n\n-
  . Mehdi Zatout\nPrelim: Lea Bivins (0-0-0) vs. Noelle Grandjean (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221028T074410Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -58,10 +58,25 @@ CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91425-one-on-prime-video-4\n\n---\n\nMain Event: Kiamrian Abbasov (
  23-5-0) vs. Christian Lee (16-4-0)\nCo-Main Event: Rodtang Jitmuangnon v
- s. Joseph Lasiri
+ s. Joseph Lasiri\nMain Card: Bibiano Fernandes (24-5-0) vs. Stephen Loma
+ n (16-2-0)\nMain Card: Jonathan Haggerty vs. Vladimir Kuzmin\nMain Card:
+  Won Il Kwon (11-4-0) vs. Mark Abelardo (20-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221019T143552Z
+DTSTAMP:20221028T074410Z
+UID:2022-12-one-on-prime-video-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE on Prime Video 5
+DTSTART:20221203T020000Z
+DTEND:20221203T050000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91426-one-on-prime-video-5\n\n---\n\nMain Card: Roberto Soldić (20-
+ 3-0) vs. Murad Ramazanov (11-0-0)\nMain Card: Superbon Singha Mawynn vs.
+  Chingiz Allazov\nMain Card: A. Rodrigues vs. Janet Todd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -71,5 +86,27 @@ CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/93660-one-on-prime-video-6\n\n---\n\nMain Card: Stamp Fairtex vs. A
  nissa Meksen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
+UID:2023-02-one-on-prime-video-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE on Prime Video 7
+DTSTART:20230211T010000Z
+DTEND:20230211T040000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/94524-one-on-prime-video-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
+UID:2023-02-one-on-prime-video-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE on Prime Video 8
+DTSTART:20230225T010000Z
+DTEND:20230225T040000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/94525-one-on-prime-video-8
 END:VEVENT
 END:VCALENDAR

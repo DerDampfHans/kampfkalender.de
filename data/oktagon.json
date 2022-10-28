@@ -4,7 +4,8 @@
     "promotion": "OKTAGON",
     "sports": [
       "MMA",
-      "KICKBOXING"
+      "BOXING",
+      "MUAY_THAI"
     ],
     "mainCard": {
       "hidden": true,
@@ -19,13 +20,25 @@
       "id": 93297,
       "time": "2022-10-29T18:00:00Z",
       "title": "East PRO Fight",
-      "info": "Confirmed Upcoming MMA Event",
+      "info": "Confirmed Upcoming MMA, Boxing, & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/93297-east-pro-fight",
       "sports": [
-        "MMA"
+        "MMA",
+        "BOXING",
+        "MUAY_THAI"
       ],
       "card": [
-        "Main Card: Viktor Serhij (0-1-0) vs. Martin Mucha (1-3-0)"
+        "Main Card: Viktor Serhij (0-1-0) vs. Martin Mucha (1-3-0)",
+        "Main Card: Ivan Zidar (7-3-0) vs. Denis Tripšanský (3-3-1)",
+        "Main Card: Jan Malach (13-12-0) vs. Kamil Łebkowski (19-12-0)",
+        "Main Card: Pavol Langer (9-9-0) vs. Mraz Avdoyan (3-0-0)",
+        "Main Card: Matej Stehnáč (0-0-0) vs. Lukáš Fernéza (0-0-0)",
+        "Main Card: Michal Kotalík (6-5-0) vs. Maksim Sergeev (13-13-0)",
+        "Main Card: Rado Lachký vs. Erik Munka",
+        "Main Card: Lloyd Manning (2-1-0) vs. Peter Gabal (2-2-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/epf-east-pro-fight-95073"
       ]
     }
   },

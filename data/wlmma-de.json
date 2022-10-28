@@ -11,6 +11,15 @@
     ],
     "mainCard": {
       "title": "We Love MMA 60",
+      "time": "2022-10-29T17:00:00Z",
+      "broadcasters": {
+        "BILD_PLUS": {
+          "url": "https://www.bild.de/bild-plus/sport/mehr-sport/sport-mix/mma-we-love-mma-60-hier-gibt-es-die-knallharte-kaefigkloppe-aus-hamburg-81655878.bild.html"
+        }
+      }
+    },
+    "prelims": {
+      "title": "We Love MMA 60: Prelims",
       "time": "2022-10-29T17:00:00Z"
     },
     "tapology": {
@@ -27,10 +36,13 @@
         "Main Card: David Depannemaecker (4-10-0) vs. Mario Wittmann (10-10-0)",
         "Main Card: Karsten Liebich (2-3-0) vs. Abeku Afful (8-3-0)",
         "Main Card: Rodi Al Bakri (1-0-0) vs. Daniel Makin (3-15-0)",
-        "Main Card: Alex Friesen (1-2-0) vs. Jan-Niklas Janßen (0-1-0)"
+        "Main Card: Veselin Dimitrov (11-18-0) vs. Selim Agaev (13-6-0)",
+        "Main Card: Denis Malikov (0-1-0) vs. Syrene Senobio (0-0-0)",
+        "Prelim: Alex Friesen (1-2-0) vs. Jan-Niklas Janßen (0-1-0)"
       ],
       "links": [
-        "http://www.sherdog.com/events/wlmma-we-love-mma-60-86542"
+        "http://www.sherdog.com/events/wlmma-we-love-mma-60-86542",
+        "https://events.mixedmartialarts.com/we-love-mma-60:a86ee07c-ad9c-4afb-8084-e6862af5df54"
       ]
     },
     "weLoveMma": {
@@ -183,6 +195,52 @@
       "city": "Hannover",
       "location": "SWISS LIFE HALL",
       "url": "https://welovemma.de/we-love-mma-66/"
+    }
+  },
+  {
+    "id": "wlmma-2023-09-30",
+    "promotion": "WLMMA_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Frankfurt",
+      "#WLMMA66"
+    ],
+    "mainCard": {
+      "title": "We Love MMA 66",
+      "time": "2023-09-30T17:00:00Z"
+    },
+    "weLoveMma": {
+      "id": "we-love-mma-66-2",
+      "time": "2023-09-30T17:00:00Z",
+      "title": "WE LOVE MMA 66",
+      "city": "Frankfurt",
+      "location": "Jahrhunderthalle",
+      "url": "https://welovemma.de/we-love-mma-66-2/"
+    }
+  },
+  {
+    "id": "wlmma-2023-11-25",
+    "promotion": "WLMMA_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Hamburg",
+      "#WLMMA68"
+    ],
+    "mainCard": {
+      "title": "We Love MMA 68",
+      "time": "2023-11-25T18:00:00Z"
+    },
+    "weLoveMma": {
+      "id": "we-love-mma-68",
+      "time": "2023-11-25T18:00:00Z",
+      "title": "WE LOVE MMA 68",
+      "city": "Hamburg",
+      "location": "Barclays Arena",
+      "url": "https://welovemma.de/we-love-mma-68/"
     }
   }
 ]

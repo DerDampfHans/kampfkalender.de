@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221023T220305Z
-X-KAMPFKALENDER-HASH:8cd6aa653533007a06aa773cf6b40ab39c4d932e
+DTSTAMP:20221028T074409Z
+X-KAMPFKALENDER-HASH:dc1d1c08e43cc671ddb743c681785b88ee6e05db
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-10-wotore-6-wielki-rewanz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wotore 6: Wielki Rewanż
@@ -19,7 +19,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/wotore-6/2pc6r/\n\n---
  wanz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-10-triller-fight-club-lineage-of-greatness-ii@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Triller Fight Club: Lineage of Greatness II
@@ -38,7 +38,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/tfc-lineage-of-greatne
  Bell (31-33-1)\nMain Card: TJ Jones (0-0-0) vs. John Cantrell (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-10-rizin-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 39
@@ -62,7 +62,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-39/2pc5p/\n\n---
  ELY vs. Koichiro Seki
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-10-lomachenko-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lomachenko vs. Ortiz
@@ -84,7 +84,28 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-lomachenko-vs
  (0-0-0) vs. Esteban Garcia (15-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
+UID:2022-10-paul-vs-silva-pre-show@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paul vs. Silva: Pre Show
+DTSTART:20221030T000000Z
+DTEND:20221030T010000Z
+CATEGORIES:MVP,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva-preshow/
+ 2pc73/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/92580-paul-
+ vs-silva\nhttp://www.boxrec.com/en/event/861928\n\n---\n\nMain Event: Ja
+ ke Paul (5-0-0) vs. Anderson Silva (3-1-0)\nMain Card: Ashton Sylve (7-0
+ -0) vs. Braulio Rodriguez (20-4-0)\nMain Card: Chris Avila (1-1-0) vs. M
+ ikhail Varshavski (0-0-0)\nMain Card: Uriah Hall (0-0-0) vs. Le'Veon Bel
+ l (0-0-0)\nMain Card: Alejandro Santiago (26-3-5) vs. Antonio Nieves (20
+ -3-2)\nPrelim: Danny Barrios (10-0-0) vs. Edgar Ortiz Jr (8-3-2)\nPrelim
+ : Adrian Rodriguez (0-0-0) vs. Dominique Griffin (4-2-1)\nPrelim: Quinti
+ n Sumpter (0-0-0) vs. Jeremiah Milton (6-0-0)\nPrelim: Shadasia Green (1
+ 0-0-0) vs. Ogleidis Suarez (30-4-1)\nPrelim: Eliezer Silva (0-0-0) vs. A
+ nthony Hannah (3-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
 UID:2022-10-paul-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva
@@ -94,22 +115,23 @@ CATEGORIES:MVP,Boxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva/2pbx1/\n
  \n---\n\nhttps://www.tapology.com/fightcenter/events/92580-paul-vs-silva
  \nhttp://www.boxrec.com/en/event/861928\n\n---\n\nMain Event: Jake Paul 
- (5-0-0) vs. Anderson Silva (3-1-0)\nMain Card: Chris Avila (1-1-0) vs. M
- ikhail Varshavski (0-0-0)\nMain Card: Uriah Hall (0-0-0) vs. Le'Veon Bel
- l (0-0-0)\nMain Card: Alejandro Santiago (26-3-5) vs. Antonio Nieves (20
- -3-2)\nPrelim: Ashton Sylve (7-0-0) vs. Braulio Rodriguez (20-4-0)\nPrel
- im: Danny Barrios (10-0-0) vs. Edgar Ortiz Jr (8-3-2)\nPrelim: Adrian Ro
- driguez (0-0-0) vs. Dominique Griffin (4-2-1)\nPrelim: Quintin Sumpter (
- 0-0-0) vs. Jeremiah Milton (6-0-0)\nPrelim: Eliezer Silva (0-0-0) vs. Ph
- illip Carmouche (2-3-0)
+ (5-0-0) vs. Anderson Silva (3-1-0)\nMain Card: Ashton Sylve (7-0-0) vs. 
+ Braulio Rodriguez (20-4-0)\nMain Card: Chris Avila (1-1-0) vs. Mikhail V
+ arshavski (0-0-0)\nMain Card: Uriah Hall (0-0-0) vs. Le'Veon Bell (0-0-0
+ )\nMain Card: Alejandro Santiago (26-3-5) vs. Antonio Nieves (20-3-2)\nP
+ relim: Danny Barrios (10-0-0) vs. Edgar Ortiz Jr (8-3-2)\nPrelim: Adrian
+  Rodriguez (0-0-0) vs. Dominique Griffin (4-2-1)\nPrelim: Quintin Sumpte
+ r (0-0-0) vs. Jeremiah Milton (6-0-0)\nPrelim: Shadasia Green (10-0-0) v
+ s. Ogleidis Suarez (30-4-1)\nPrelim: Eliezer Silva (0-0-0) vs. Anthony H
+ annah (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-11-bkfc-32-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Prelims
 DTSTART:20221106T000000Z
-DTEND:20221106T010000Z
+DTEND:20221106T013000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32-orlando-prelim
  s/2pc6v/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93689-bkf
@@ -119,15 +141,15 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32-orlando-prelim
  nMain Card: Travis Thompson vs. David Diaz\nMain Card: Jonathan Miller v
  s. Stephon Reese\nMain Card: JR Ridge vs. Chance Wilson\nMain Card: Bran
  don Allen vs. Joshua Marer\nPrelim: Ryan Reber vs. Jack Grady\nPrelim: T
- ony Murphy vs. Shane Stapp
+ ony Murphy vs. Shane Stapp\nPrelim: Chris Cornelius vs. Ja'Far Fortt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-11-bkfc-32-barnett-vs-herrera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Barnett vs. Herrera
-DTSTART:20221106T010000Z
-DTEND:20221106T040000Z
+DTSTART:20221106T013000Z
+DTEND:20221106T043000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32/2pc6u/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/93689-bkfc-32-barnett-vs-
@@ -137,16 +159,16 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32/2pc6u/\n\n---\
  is Thompson vs. David Diaz\nMain Card: Jonathan Miller vs. Stephon Reese
  \nMain Card: JR Ridge vs. Chance Wilson\nMain Card: Brandon Allen vs. Jo
  shua Marer\nPrelim: Ryan Reber vs. Jack Grady\nPrelim: Tony Murphy vs. S
- hane Stapp
+ hane Stapp\nPrelim: Chris Cornelius vs. Ja'Far Fortt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-11-rizin-landmark-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN Landmark 4
 DTSTART:20221106T050000Z
 DTEND:20221106T080000Z
-CATEGORIES:RIZIN,MMA,fite.tv,live
+CATEGORIES:RIZIN,MMA,Kickboxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-landmark-4/2pc63
  /\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93296-rizin-land
  mark-vol-4\n\n---\n\nMain Event: Satoshi Yamasu (13-6-0) vs. Ren Hiramot
@@ -160,28 +182,49 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-landmark-4/2pc63
  ng Yang (5-0-0)\nMain Card: A. Yoshihiro Yamaniha (19-10-4) vs. Yasuhiro
   Kawamura (13-7-1)\nMain Card: Keisuke Okuda (0-4-0) vs. Yuta Kubo (0-1-
  0)\nPrelim: Junya Hibino (4-2-0) vs. Riku Yoshida (5-0-0)\nPrelim: Kenta
-  Kubo (6-2-0) vs. Hideyoshi Okamoto (3-2-0)
+  Kubo (6-2-0) vs. Hideyoshi Okamoto (3-2-0)\nPrelim: Shuto Sato vs. KAZU
+ NORI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
+UID:2022-11-bkfc-33-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 33: Prelims
+DTSTART:20221119T010000Z
+DTEND:20221119T020000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-33/2pc80/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/93739-bkfc-33\n\n---\n\nM
+ ain Event: Joey Beltran vs. Houston Alexander\nCo-Main Event: Sean Wilso
+ n vs. Kevin Croom\nMain Card: Carlos Trinidad vs. Rynell Riley\nMain Car
+ d: Alonzo Martinez vs. Adalberto Serrano\nMain Card: Kassius Kayne vs. H
+ enry Lindsay\nMain Card: Cody Land vs. Tommy Strydom\nMain Card: Justin 
+ Grizzard vs. Andrew Potter\nMain Card: Brandon Meyer vs. Shaine Moffitt\
+ nMain Card: Dakota Cochrane vs. Robbie Peralta\nPrelim: Jeff Souder vs. 
+ Jaquis Williams\nPrelim: Drako Rodriguez vs. Will Shutt\nPrelim: Sarah S
+ hell vs. Audra Cummings
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
 UID:2022-11-bkfc-33-beltran-vs-alexander@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Beltran vs. Alexander
-DTSTART:20221119T010000Z
-DTEND:20221119T040000Z
+DTSTART:20221119T020000Z
+DTEND:20221119T050000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/93739-bkfc-33\n\n---\n\nMain Event: Joey Beltran vs. Houston Alexan
- der\nCo-Main Event: Sean Wilson vs. Kevin Croom\nMain Card: Carlos Trini
- dad vs. Rynell Riley\nMain Card: Alonzo Martinez vs. Adalberto Serrano\n
- Main Card: Kassius Kayne vs. Henry Lindsay\nMain Card: Cody Land vs. Tom
- my Strydom\nMain Card: Justin Grizzard vs. Andrew Potter\nMain Card: Bra
- ndon Meyer vs. Shaine Moffitt\nPrelim: Jeff Souder vs. Jaquis Williams\n
- Prelim: Drako Rodriguez vs. Will Shutt\nPrelim: Sarah Shell vs. Audra Cu
- mmings
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-33/2pc7z/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/93739-bkfc-33\n\n---\n\nM
+ ain Event: Joey Beltran vs. Houston Alexander\nCo-Main Event: Sean Wilso
+ n vs. Kevin Croom\nMain Card: Carlos Trinidad vs. Rynell Riley\nMain Car
+ d: Alonzo Martinez vs. Adalberto Serrano\nMain Card: Kassius Kayne vs. H
+ enry Lindsay\nMain Card: Cody Land vs. Tommy Strydom\nMain Card: Justin 
+ Grizzard vs. Andrew Potter\nMain Card: Brandon Meyer vs. Shaine Moffitt\
+ nMain Card: Dakota Cochrane vs. Robbie Peralta\nPrelim: Jeff Souder vs. 
+ Jaquis Williams\nPrelim: Drako Rodriguez vs. Will Shutt\nPrelim: Sarah S
+ hell vs. Audra Cummings
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks
@@ -192,10 +235,14 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/92999-bkfc-fight-night-newcastle\n\n---\n\nMain Event: Mick Terrill
   vs. Steven Banks\nCo-Main Event: Darren Hendry vs. Anthony Holmes\nMain
   Card: Tom Scott vs. John Ferguson\nMain Card: Mark Godbeer vs. Matt Hil
- l\nMain Card: Chris Fishgold vs. Liam Wilson
+ l\nMain Card: Chris Fishgold vs. Liam Wilson\nMain Card: Danny Christie 
+ vs. Jamie Jones\nMain Card: Steve Ibbotson vs. Lee Browne\nMain Card: Da
+ vid Round vs. Nathan Owens\nMain Card: Anthony Faulkner vs. Dan Robson\n
+ Main Card: Mathilda Wilson vs. Melanie Shah\nMain Card: Fergal Allomby v
+ s. Wain Morgan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-11-zepeda-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis
@@ -207,10 +254,12 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis/2pc
  s-prograis\nhttp://www.boxrec.com/en/event/863038\n\n---\n\nMain Event: 
  Jose Zepeda (36-2-0) vs. Regis Prograis (27-1-0)\nMain Card: Alejandro R
  eyes (9-0-0) vs. Nelson Morales (0-0-0)\nMain Card: Jacob Macalolooy (3-
- 0-0) vs. Sincere Brooks (0-0-0)
+ 0-0) vs. Sincere Brooks (0-0-0)\nMain Card: Charles Conwell (17-0-0) vs.
+  Juan Carlos Abreu (25-6-1)\nMain Card: Bakhodir Jalolov (11-0-0) vs. Cu
+ rtis Harper (14-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
@@ -221,7 +270,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221023T220307Z
+DTSTAMP:20221028T074410Z
 UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Palomino vs. Shoaff
@@ -231,5 +280,17 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94156-bkfc-34-palomino-vs-shoaff\n\n---\n\nMain Event: Luis Palomin
  o vs. Tom Shoaff\nCo-Main Event: Francesco Ricchi vs. David Mundell
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
+UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
+DTSTART:20230318T100000Z
+DTEND:20230318T130000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/94482-bkfc-fight-night-buakaw-vs-saenchai\n\n---\n\nMain Event: Bua
+ kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 END:VCALENDAR

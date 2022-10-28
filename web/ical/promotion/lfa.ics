@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221022T215142Z
-X-KAMPFKALENDER-HASH:682e0418d5dbfac3c366bdf5c815dbdaf4d80419
+DTSTAMP:20221028T074409Z
+X-KAMPFKALENDER-HASH:47ab11328da1fd9540b8968a91caa795576fdda0
 BEGIN:VEVENT
-DTSTAMP:20221022T215143Z
+DTSTAMP:20221028T074410Z
 UID:2022-10-lfa-145-assis-vs-murray@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 145: Assis vs. Murray
@@ -26,5 +26,47 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0-0) vs. Diamond Long (0-1-0)\nPrelim: Kevin Messer (1-0-0) vs. Santos V
  erdinez (0-0-0)\nPrelim: Dalton Holmes (1-0-0) vs. Jeremy Landowski (2-1
  -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
+UID:2022-11-lfa-146-barbosa-vs-santos@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 146: Barbosa vs. Santos
+DTSTART:20221105T010000Z
+DTEND:20221105T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/94392-lfa-146-barbosa-vs-santos\n\n---\n\nMain Event: Márcio
+  Barbosa (13-1-0) vs. Gabriel Santos (8-0-0)\nCo-Main Event: Felipe Doug
+ las (20-5-0) vs. Rangel de Sá (11-2-0)\nMain Card: Jean Matsumoto (11-0-
+ 0) vs. Inaildo Santos (9-1-0)\nMain Card: Carlos Prates (14-6-0) vs. Moa
+ cir Rocha (12-6-1)\nMain Card: Felipe dos Santos (6-0-0) vs. Hugo Paiva 
+ (5-0-0)\nMain Card: Luana Santos (3-1-0) vs. Waleska Sousa (4-1-0)\nPrel
+ im: Danilo Adreani (10-3-0) vs. Yan Teixeira (9-1-0)\nPrelim: Janaína Si
+ lva (4-0-0) vs. Nayara Hemily (5-3-0)\nPrelim: Reginaldo Junior (5-0-0) 
+ vs. Marcos Zinhani (5-1-0)\nPrelim: Levi Rodrigues (1-0-0) vs. Mark Leno
+ n (1-0-0)\nPrelim: Manuel Robson Minoto (0-0-0) vs. Allan Oliveira (0-0-
+ 0)\nPrelim: Gabriela Fujimoto (0-0-0) vs. Eduarda Santana (1-1-0)\nPreli
+ m: Bianca Sattelmayer (7-11-0) vs. Julia Polastri (9-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
+UID:2022-11-budo-sento-championship-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Budo Sento Championship 11
+DTSTART:20221105T013000Z
+DTEND:20221105T043000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074410Z
+UID:2022-11-lfa-147@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 147
+DTSTART:20221119T020000Z
+DTEND:20221119T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

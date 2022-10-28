@@ -3,7 +3,8 @@
     "id": "tapology-93296",
     "promotion": "RIZIN",
     "sports": [
-      "MMA"
+      "MMA",
+      "KICKBOXING"
     ],
     "tags": [
       "#Landmark4"
@@ -31,10 +32,11 @@
       "id": 93296,
       "time": "2022-11-06T04:00:00Z",
       "title": "RIZIN LANDMARK Vol.4",
-      "info": "Confirmed Upcoming MMA Event",
+      "info": "Confirmed Upcoming MMA & Kickboxing Event",
       "url": "https://www.tapology.com/fightcenter/events/93296-rizin-landmark-vol-4",
       "sports": [
-        "MMA"
+        "MMA",
+        "KICKBOXING"
       ],
       "card": [
         "Main Event: Satoshi Yamasu (13-6-0) vs. Ren Hiramoto (1-2-0)",
@@ -49,7 +51,33 @@
         "Main Card: A. Yoshihiro Yamaniha (19-10-4) vs. Yasuhiro Kawamura (13-7-1)",
         "Main Card: Keisuke Okuda (0-4-0) vs. Yuta Kubo (0-1-0)",
         "Prelim: Junya Hibino (4-2-0) vs. Riku Yoshida (5-0-0)",
-        "Prelim: Kenta Kubo (6-2-0) vs. Hideyoshi Okamoto (3-2-0)"
+        "Prelim: Kenta Kubo (6-2-0) vs. Hideyoshi Okamoto (3-2-0)",
+        "Prelim: Shuto Sato vs. KAZUNORI"
+      ]
+    }
+  },
+  {
+    "id": "tapology-94453",
+    "promotion": "RIZIN",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "RIZIN 40",
+      "time": "2022-12-31T05:00:00Z"
+    },
+    "tapology": {
+      "id": 94453,
+      "time": "2022-12-31T05:00:00Z",
+      "title": "RIZIN 40",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94453-rizin-40",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Seika Izawa (8-0-0) vs. Si Woo Park (9-4-0)"
       ]
     }
   }
