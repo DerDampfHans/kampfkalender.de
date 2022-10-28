@@ -139,6 +139,37 @@
     }
   },
   {
+    "id": "tapology-90362",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "NFC 12",
+      "time": "2022-12-17T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 12: Prelims",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 90362,
+      "time": "2022-12-17T17:00:00Z",
+      "title": "NFC 12",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/90362-nfc-12"
+    }
+  },
+  {
     "id": "nfc-2023-02-18",
     "promotion": "NFC_DE",
     "sports": [
@@ -184,11 +215,11 @@
       }
     },
     "tapology": {
-      "id": 90362,
-      "time": "2022-12-17T17:00:00Z",
+      "id": 94571,
+      "time": "2023-02-18T17:00:00Z",
       "title": "NFC 12",
       "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/90362-nfc-12"
+      "url": "https://www.tapology.com/fightcenter/events/94571-nfc-12"
     }
   },
   {
@@ -235,52 +266,19 @@
         "FIGHT24_TV": {
         }
       }
-    }
-  },
-  {
-    "id": "nfc-2023-03-25",
-    "promotion": "NFC_DE",
-    "sports": [
-      "MMA"
-    ],
-    "tags": [
-      "#Dortmund",
-      "#NFC13"
-    ],
-    "mainCard": {
-      "title": "NFC 13: Özyildirim vs. Coga",
-      "time": "2023-03-25T22:00:00Z",
-      "until": "2023-03-25T23:30:00Z",
-      "broadcasters": {
-        "SPORT1": {
-          "free": true
-        },
-        "FIGHTING_DE": {
-        },
-        "FIGHT24_TV": {
-        }
-      }
     },
-    "prelims": {
-      "title": "NFC 13: Main Card",
-      "time": "2023-03-25T19:00:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        },
-        "FIGHT24_TV": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "NFC 13: Prelims",
-      "time": "2023-03-25T17:00:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-          "free": true
-        },
-        "FIGHT24_TV": {
-        }
-      }
+    "tapology": {
+      "id": 94572,
+      "time": "2023-03-25T16:00:00Z",
+      "title": "NFC 13",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94572-nfc-13",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Mert Özyildirim (10-4-0) vs. Max Coga (24-8-1)"
+      ]
     }
   },
   {
@@ -327,6 +325,13 @@
         "FIGHT24_TV": {
         }
       }
+    },
+    "tapology": {
+      "id": 94581,
+      "time": "2023-05-27T16:00:00Z",
+      "title": "NFC 14",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/94581-nfc-14"
     }
   },
   {
@@ -373,6 +378,13 @@
         "FIGHT24_TV": {
         }
       }
+    },
+    "tapology": {
+      "id": 94582,
+      "time": "2023-09-16T16:00:00Z",
+      "title": "NFC 15",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/94582-nfc-15"
     }
   },
   {
@@ -419,6 +431,13 @@
         "FIGHT24_TV": {
         }
       }
+    },
+    "tapology": {
+      "id": 94583,
+      "time": "2023-11-11T17:00:00Z",
+      "title": "NFC 16",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/94583-nfc-16"
     }
   },
   {
@@ -465,6 +484,13 @@
         "FIGHT24_TV": {
         }
       }
+    },
+    "tapology": {
+      "id": 94584,
+      "time": "2023-12-16T17:00:00Z",
+      "title": "NFC 17",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/94584-nfc-17"
     }
   }
 ]

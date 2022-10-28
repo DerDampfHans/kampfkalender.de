@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221028T074409Z
-X-KAMPFKALENDER-HASH:37deacf2647ed3830552e5755b6294e0b88d8fcc
+DTSTAMP:20221028T224442Z
+X-KAMPFKALENDER-HASH:5679370cc1131b4103ac1b49e0a1c40328dbf783
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2022-12-nfc-contenders-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders 2
@@ -17,7 +17,7 @@ CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=w-68jCgTttI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -36,7 +36,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -55,7 +55,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=1IdEZCty6Vk\
  \nMain Card: A. Chatzigeorgiadis (2-1-1) vs. Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -74,7 +74,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  (2-1-1) vs. Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -82,10 +82,10 @@ DTSTART:20230218T170000Z
 DTEND:20230218T190000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/90362-nfc-12
+ y.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-02-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -93,10 +93,10 @@ DTSTART:20230218T190000Z
 DTEND:20230218T220000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
- y.com/fightcenter/events/90362-nfc-12
+ y.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -104,186 +104,174 @@ DTSTART:20230218T220000Z
 DTEND:20230218T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
- /www.tapology.com/fightcenter/events/90362-nfc-12
+ /www.tapology.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
 DTSTART:20230325T170000Z
 DTEND:20230325T190000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94572-nfc-13\n\n---\n\nMain Event: Mert Özyildi
+ rim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
-UID:2023-03-nfc-13-prelims-1@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 13: Prelims
-DTSTART:20230325T170000Z
-DTEND:20230325T190000Z
-CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-03-nfc-13-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
 DTSTART:20230325T190000Z
 DTEND:20230325T220000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94572-nfc-13\n\n---\n\nMain Event: Mert Özyildi
+ rim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
-UID:2023-03-nfc-13-main-card-1@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 13: Main Card
-DTSTART:20230325T190000Z
-DTEND:20230325T220000Z
-CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
 DTSTART:20230325T220000Z
 DTEND:20230325T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
+DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
+ /www.tapology.com/fightcenter/events/94572-nfc-13\n\n---\n\nMain Event: 
+ Mert Özyildirim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
-UID:2023-03-nfc-13-ozyildirim-vs-coga-1@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 13: Özyildirim vs. Coga
-DTSTART:20230325T220000Z
-DTEND:20230325T233000Z
-CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
 DTSTART:20230527T160000Z
 DTEND:20230527T180000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-05-nfc-14-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Main Card
 DTSTART:20230527T180000Z
 DTEND:20230527T210000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
 DTSTART:20230527T210000Z
 DTEND:20230527T223000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
+DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
+ /www.tapology.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
 DTSTART:20230916T160000Z
 DTEND:20230916T180000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
 DTSTART:20230916T180000Z
 DTEND:20230916T210000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
 DTSTART:20230916T210000Z
 DTEND:20230916T223000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
+DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
+ /www.tapology.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
 DTSTART:20231111T170000Z
 DTEND:20231111T190000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
 DTSTART:20231111T190000Z
 DTEND:20231111T220000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
 DTSTART:20231111T220000Z
 DTEND:20231111T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
+DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
+ /www.tapology.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
 DTSTART:20231216T170000Z
 DTEND:20231216T190000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
 DTSTART:20231216T190000Z
 DTEND:20231216T220000Z
 CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
-DESCRIPTION:via fighting.de\nvia fight24.tv
+DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
+ y.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T224443Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17
 DTSTART:20231216T220000Z
 DTEND:20231216T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
+DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
+ /www.tapology.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 END:VCALENDAR
