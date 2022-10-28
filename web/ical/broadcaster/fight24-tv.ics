@@ -4,32 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221028T074409Z
-X-KAMPFKALENDER-HASH:de820d610399f5bcb539f4932b5a2d0ec403ef9a
+DTSTAMP:20221028T074640Z
+X-KAMPFKALENDER-HASH:499ea5d6976b13b83d9b59e8a53ec876af95d799
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
-UID:2022-10-battle-of-barock-2@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Battle of Barock 2
-DTSTART:20221029T150000Z
-DTEND:20221029T180000Z
-CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,SPORT1 Extra,live
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
- ttle-of-barock-ii-540\nvia SPORT1 Extra
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-battle-of-barock-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Battle of Barock 2: Prelims
 DTSTART:20221029T150000Z
-DTEND:20221029T150000Z
+DTEND:20221029T200000Z
 CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
  ttle-of-barock-ii-540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-get-in-the-ring-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Get In The Ring 21
@@ -40,7 +29,18 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ge
  t-in-the-ring-21-541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
+UID:2022-10-battle-of-barock-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Battle of Barock 2
+DTSTART:20221029T200000Z
+DTEND:20221029T230000Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
+ ttle-of-barock-ii-540\nvia SPORT1 Extra
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074641Z
 UID:2022-11-the-cage@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Cage
@@ -51,7 +51,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
  nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-12-super-league-mma-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Super League MMA 5
@@ -64,7 +64,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
   (10-1-0) vs. Karomatullo Sufiev (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -83,7 +83,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -102,7 +102,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=1IdEZCty6Vk\
  \nMain Card: A. Chatzigeorgiadis (2-1-1) vs. Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -121,7 +121,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  (2-1-1) vs. Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -132,7 +132,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/90362-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-02-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -143,7 +143,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/90362-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -154,7 +154,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/90362-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -164,7 +164,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-03-nfc-13-prelims-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -174,7 +174,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-03-nfc-13-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
@@ -184,7 +184,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-03-nfc-13-main-card-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
@@ -194,7 +194,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -204,7 +204,7 @@ CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -214,7 +214,7 @@ CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -224,7 +224,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-05-nfc-14-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Main Card
@@ -234,7 +234,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -244,7 +244,7 @@ CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -254,7 +254,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -264,7 +264,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -274,7 +274,7 @@ CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -284,7 +284,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -294,7 +294,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -304,7 +304,7 @@ CATEGORIES:NFC,MMA,SPORT1,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -314,7 +314,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live,kostenlos
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -324,7 +324,7 @@ CATEGORIES:NFC,MMA,fighting.de,fight24.tv,live
 DESCRIPTION:via fighting.de\nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

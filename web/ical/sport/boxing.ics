@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221028T074409Z
-X-KAMPFKALENDER-HASH:c5f9c68ee1ef029736b8250a1715282f33de5eb7
+DTSTAMP:20221028T074640Z
+X-KAMPFKALENDER-HASH:af71d9603a171791b63fc6260bbebc4f083e2968
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-olympix-k1-boxen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221022-olympix-k
  1-boxen-no-116
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-bunn-vs-mccrory@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bunn vs. McCrory
@@ -36,7 +36,7 @@ DESCRIPTION:via SPORT1\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-lara-vs-sanmartin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lara vs. Sanmartin
@@ -54,7 +54,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  2-1)\nMain Card: Francisco Pina (0-0-0) vs. Felix Cruz de Jesus (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-triller-fight-club-lineage-of-greatness-ii@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Triller Fight Club: Lineage of Greatness II
@@ -73,29 +73,18 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/tfc-lineage-of-greatne
  Bell (31-33-1)\nMain Card: TJ Jones (0-0-0) vs. John Cantrell (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
-UID:2022-10-battle-of-barock-2@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Battle of Barock 2
-DTSTART:20221029T150000Z
-DTEND:20221029T180000Z
-CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,SPORT1 Extra,live
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
- ttle-of-barock-ii-540\nvia SPORT1 Extra
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-battle-of-barock-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Battle of Barock 2: Prelims
 DTSTART:20221029T150000Z
-DTEND:20221029T150000Z
+DTEND:20221029T200000Z
 CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
  ttle-of-barock-ii-540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-taylor-vs-carabajal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Carabajal
@@ -114,7 +103,18 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  rtney (0-0-0) vs. Judit Hachbold (5-17-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
+UID:2022-10-battle-of-barock-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Battle of Barock 2
+DTSTART:20221029T200000Z
+DTEND:20221029T230000Z
+CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
+ ttle-of-barock-ii-540\nvia SPORT1 Extra
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221028T074641Z
 UID:2022-10-lomachenko-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lomachenko vs. Ortiz
@@ -136,7 +136,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-lomachenko-vs
  (0-0-0) vs. Esteban Garcia (15-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-paul-vs-silva-pre-show@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva: Pre Show
@@ -157,7 +157,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva-preshow/
  nthony Hannah (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-diaz-vs-zepeda@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Diaz vs. Zepeda
@@ -175,7 +175,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  lds (0-0-0)\nPrelim: Jorge Chavez (0-0-0) vs. Adrian Leyva (2-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-10-paul-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva
@@ -196,7 +196,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva/2pbx1/\n
  annah (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-teraji-vs-kyoguchi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Teraji vs. Kyoguchi
@@ -213,7 +213,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Junior (0-0-0) vs. Kosei Numata (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-walsh-vs-parsley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs Parsley
@@ -224,7 +224,7 @@ DESCRIPTION:via UFC Fight Pass: https://www.youtube.com/watch?v=3sNlSLlgx
  w0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-bivol-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Zurdo
@@ -241,7 +241,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  go Valtierra (6-5-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -260,7 +260,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  )\nMain Card: Edison Demaj (7-2-0) vs. Alexandru Crasnitchii (3-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark
@@ -279,7 +279,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-mayweather-vs-deji@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs Deji
@@ -296,7 +296,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/93239-mayweather-
  (0-0-0) vs. Franklin Manzanilla (21-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-whyte-vs-franklin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Whyte vs. Franklin
@@ -311,7 +311,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Rodriguez (0-0-0) vs. Sandy Ryan (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-11-zepeda-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis
@@ -328,7 +328,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis/2pc
  rtis Harper (14-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Chocolatito 3
@@ -342,7 +342,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  rroyo (21-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221028T074641Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez
