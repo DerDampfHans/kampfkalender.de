@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221030T142300Z
-X-KAMPFKALENDER-HASH:0bd5d94d2629bb57fd1561bcfc3cbbf561d5fcde
+DTSTAMP:20221102T090944Z
+X-KAMPFKALENDER-HASH:8d0f65e22da5496218ec08df4bf02f0b5c37642a
 BEGIN:VEVENT
-DTSTAMP:20221030T142300Z
+DTSTAMP:20221102T090945Z
 UID:2022-10-ksw-32-road-to-wembley-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 32: Road to Wembley (Re-Live)
@@ -26,7 +26,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=f8PlUSPzZrQ\n\n-
   Brett Cooper\nPrelim: Leszek Krakowski vs. Andre Winner
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221030T142300Z
+DTSTAMP:20221102T090945Z
 UID:2022-11-ksw-76-rajewski-vs-parnasse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 76: Rajewski vs. Parnasse
@@ -45,7 +45,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
   vs. Filip Bradaric (5-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221030T142300Z
+DTSTAMP:20221102T090945Z
 UID:2022-12-ksw-77-pudzian-vs-mamed@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 77: Pudzian vs. Mamed
@@ -62,14 +62,15 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  0)\nPrelim: Shamad Erzanukaev (1-0-0) vs. Carl McNally (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221030T142300Z
-UID:2023-01-ksw-78@kampfkalender.de
+DTSTAMP:20221102T090945Z
+UID:2023-01-ksw-78-szpilka-vs-wrzosek@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 78
+SUMMARY:KSW 78: Szpilka vs. Wrzosek
 DTSTART:20230128T180000Z
 DTEND:20230128T210000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/94030-ksw-78
+ events/94030-ksw-78\n\n---\n\nMain Event: Artur Szpilka (2-0-0) vs. Arka
+ diusz Wrzosek (1-0-0)
 END:VEVENT
 END:VCALENDAR

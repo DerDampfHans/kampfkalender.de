@@ -4,6 +4,27 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220820T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221102T090944Z
+X-KAMPFKALENDER-HASH:b63c39eb4c54dc5d03de5c133fb2560be1d11a30
+BEGIN:VEVENT
+DTSTAMP:20221102T090944Z
+UID:2022-11-aka-24@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 24
+DTSTART:20221105T000000Z
+DTEND:20221105T030000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-24/2pc89/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/94698-aka-24\n\n---\n\nMai
+ n Event: Carlton Lofton (2-3-0) vs. Jesse Roberts (4-0-0)\nCo-Main Event
+ : Joel Sanchez (2-1-0) vs. John Garza (5-3-0)\nMain Card: Maria Jose Fav
+ ela (3-2-0) vs. Dario Garcia (0-0-0)\nMain Card: Willie Sims (1-1-0) vs.
+  Brandon Hill (2-2-0)\nMain Card: J. Acosta Ruiz (1-0-0) vs. Jody Hill (
+ 0-1-0)\nMain Card: Jonathan Sandoval (0-0-0) vs. Anthony Jones (1-0-0)\n
+ Main Card: Bryce Farmer (2-4-0) vs. Jordan Mays (2-2-0)\nMain Card: Siph
+ o Nkosi (0-2-0) vs. Darrian Hayes (1-1-0)\nMain Card: Nadia Sandoval (0-
+ 0-0) vs. Jastine Juan (0-1-0)\nMain Card: Antione Lister (0-0-0) vs. Pau
+ l Perdue (0-0-0)\nMain Card: Shane Wright (0-0-0) vs. Patrick Oliver (0-
+ 0-0)
+END:VEVENT
 END:VCALENDAR
