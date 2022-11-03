@@ -13,13 +13,35 @@
       "time": "2022-11-04T02:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
-          "url": "https://www.youtube.com/watch?v=3sNlSLlgxw0"
         }
       },
       "fightPass": {
         "id": 228078,
         "time": "2022-11-04T02:00:00Z",
         "title": "Hollywood Fight Night: Walsh vs Parsley"
+      }
+    }
+  },
+  {
+    "id": "giengener-boxnacht-2022-11-05",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Giengen"
+    ],
+    "links": [
+      "https://www.instagram.com/boxclubgiengen/"
+    ],
+    "mainCard": {
+      "title": "Giengener Boxnacht 2022",
+      "time": "2022-11-05T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "hthttps://www.fight24.tv/fightpasses/fight24-giengener-boxnacht-2022-542",
+          "freeAfter": 48
+        }
       }
     }
   },
@@ -57,6 +79,56 @@
           "#Fighting",
           "#Kampfsport"
         ]
+      }
+    }
+  },
+  {
+    "id": "fightpass-227491",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#Shooto",
+      "#Shooto112",
+      "@shooto_brasil"
+    ],
+    "mainCard": {
+      "title": "Shooto Brasil 112",
+      "time": "2022-11-11T23:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 228790,
+        "time": "2022-11-11T23:00:00Z",
+        "title": "Shooto Brazil 112"
+      }
+    }
+  },
+  {
+    "id": "phinn-belujsky-2022-11-13",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#PhinnBelujsky"
+    ],
+    "mainCard": {
+      "title": "Phinn vs Belujsky",
+      "time": "2022-11-13T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1ls4ck1d8dvra1vtq5bwbxveol",
+        "time": "2022-11-13T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Phinn vs Belujsky"
       }
     }
   },

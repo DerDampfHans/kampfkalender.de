@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221031T230304Z
-X-KAMPFKALENDER-HASH:d4bd4e55e89555022ad37fe80dbc15b94c18ce2e
+DTSTAMP:20221103T044213Z
+X-KAMPFKALENDER-HASH:081892fa82f9ac61895e760a2c2fb51d60fe5ba1
 BEGIN:VEVENT
-DTSTAMP:20221031T230305Z
+DTSTAMP:20221103T044214Z
 UID:2022-10-shooto-brasil-111@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 111
@@ -28,7 +28,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Wanderley Silva (0-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221031T230305Z
+DTSTAMP:20221103T044214Z
 UID:2022-11-polaris-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris 22
@@ -44,7 +44,28 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Ben Robson vs. Claudio Brudny
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221031T230305Z
+DTSTAMP:20221103T044214Z
+UID:2022-11-battle-at-bragg@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Battle At Bragg
+DTSTART:20221111T210000Z
+DTEND:20221112T000000Z
+CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://gocamels.com/news/2022/1
+ 0/29/wrestling-campbell-to-host-battle-at-bragg-on-veterans-day.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
+UID:2022-11-shooto-brasil-112@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shooto Brasil 112
+DTSTART:20221111T230000Z
+DTEND:20221112T020000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series

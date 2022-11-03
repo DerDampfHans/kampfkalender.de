@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221102T090944Z
-X-KAMPFKALENDER-HASH:7604fae214a83e0849365c312997fef4c075d166
+DTSTAMP:20221103T044213Z
+X-KAMPFKALENDER-HASH:b3adfba97cf45d861cfedc9486a444dc8d7948fe
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
 UID:2022-10-shooto-brasil-111@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 111
@@ -28,7 +28,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Wanderley Silva (0-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
 UID:2022-10-battle-of-barock-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Battle of Barock 2: Prelims
@@ -39,7 +39,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
  ttle-of-barock-ii-540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
 UID:2022-10-get-in-the-ring-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Get In The Ring 21
@@ -50,7 +50,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ge
  t-in-the-ring-21-541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
 UID:2022-10-battle-of-barock-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Battle of Barock 2
@@ -61,18 +61,29 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
  ttle-of-barock-ii-540\nvia SPORT1 Extra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
 UID:2022-11-walsh-vs-parsley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs Parsley
 DTSTART:20221104T020000Z
 DTEND:20221104T050000Z
 CATEGORIES:Other,Boxen,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass: https://www.youtube.com/watch?v=3sNlSLlgx
- w0
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
+UID:2022-11-giengener-boxnacht-2022@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Giengener Boxnacht 2022
+DTSTART:20221105T170000Z
+DTEND:20221105T200000Z
+CATEGORIES:Other,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: hthttps://www.fight24.tv/fightpasses/fight24-
+ giengener-boxnacht-2022-542\n\n---\n\nhttps://www.instagram.com/boxclubg
+ iengen/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
 UID:2022-11-the-cage@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Cage
@@ -83,7 +94,27 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
  nvia fight24.tv
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
+UID:2022-11-shooto-brasil-112@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shooto Brasil 112
+DTSTART:20221111T230000Z
+DTEND:20221112T020000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
+UID:2022-11-phinn-vs-belujsky@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Phinn vs Belujsky
+DTSTART:20221113T000000Z
+DTEND:20221113T030000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
 UID:2022-11-zepeda-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis
@@ -102,7 +133,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis/2pc
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090944Z
+DTSTAMP:20221103T044214Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series

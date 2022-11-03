@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221028T074640Z
-X-KAMPFKALENDER-HASH:53d98358df22b1b9a9ababcfcc0cf3f4f7d6e0a8
+DTSTAMP:20221103T044213Z
+X-KAMPFKALENDER-HASH:bb046575818c49a58ee889ef22eea9d035b5de60
 BEGIN:VEVENT
-DTSTAMP:20221028T074641Z
+DTSTAMP:20221103T044214Z
 UID:2022-10-battle-of-barock-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Battle of Barock 2
@@ -16,5 +16,17 @@ DTEND:20221029T230000Z
 CATEGORIES:Other,Boxen,Kickboxen,fight24.tv,SPORT1 Extra,live
 DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ba
  ttle-of-barock-ii-540\nvia SPORT1 Extra
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
+UID:2022-11-integra-fc-16@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Integra FC 16
+DTSTART:20221105T220000Z
+DTEND:20221106T010000Z
+CATEGORIES:Integra,MMA,fight24.tv,SPORT1 Extra,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-in
+ tegra-fc-16-543\nvia SPORT1 Extra\n\n---\n\nhttps://ifc-mma.de/ifc-16/\n
+ https://www.fightevents.de/event/integra-fc-16/
 END:VEVENT
 END:VCALENDAR

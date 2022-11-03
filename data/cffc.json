@@ -49,6 +49,32 @@
     }
   },
   {
+    "id": "fightpass-228789",
+    "promotion": "CFFC",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#BattleAtBragg"
+    ],
+    "links": [
+      "https://gocamels.com/news/2022/10/29/wrestling-campbell-to-host-battle-at-bragg-on-veterans-day.aspx"
+    ],
+    "mainCard": {
+      "title": "Battle At Bragg",
+      "time": "2022-11-11T21:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 228789,
+        "time": "2022-11-11T21:00:00Z",
+        "title": "Battle At Bragg: Campbell, Michigan, UNC"
+      }
+    }
+  },
+  {
     "id": "tapology-93910",
     "promotion": "CFFC",
     "sports": [
@@ -90,6 +116,40 @@
         "Main Card: Kevin Pease (1-0-0) vs. Mike Anderson (0-1-0)",
         "Main Card: Nathan Gilmore (1-4-0) vs. Kris Williams (1-0-0)",
         "Main Card: Taylor Samarco (1-1-0) vs. Rebekah Rotenberry (3-4-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-94763",
+    "promotion": "CFFC",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#CFFC116",
+      "#CageFury116"
+    ],
+    "mainCard": {
+      "title": "CFFC 116: Torres vs. Mathison",
+      "time": "2022-12-17T00:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 94763,
+      "time": "2022-12-17T00:00:00Z",
+      "title": "CFFC 116: Torres vs. Mathison",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94763-cffc-116",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Eddy Torres (4-0-0) vs. Tyler Mathison (3-2-0)",
+        "Main Card: Luke Fernandez (0-0-0) vs. O. Alvarez (0-0-0)",
+        "Main Card: Eric Nolan (2-1-0) vs. Joey Hart (1-0-0)"
       ]
     }
   }

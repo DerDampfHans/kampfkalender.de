@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221028T224442Z
-X-KAMPFKALENDER-HASH:c87272e7d4f4490fbc2584b44d2ecf4ec4c72281
+DTSTAMP:20221103T044213Z
+X-KAMPFKALENDER-HASH:3989a15d73eaa3ab028c492b42fa06f02eb1c8c2
 BEGIN:VEVENT
-DTSTAMP:20221028T224443Z
+DTSTAMP:20221103T044214Z
 UID:2022-11-cage-fury-fc-114-st-louis-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Fury FC 114: St. Louis vs. Smith
@@ -29,7 +29,18 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Mauricio Gomez (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221028T224443Z
+DTSTAMP:20221103T044214Z
+UID:2022-11-battle-at-bragg@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Battle At Bragg
+DTSTART:20221111T210000Z
+DTEND:20221112T000000Z
+CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://gocamels.com/news/2022/1
+ 0/29/wrestling-campbell-to-host-battle-at-bragg-on-veterans-day.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
 UID:2022-11-cffc-115@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 115
@@ -46,5 +57,18 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Mike Anderson (0-1-0)\nMain Card: Nathan Gilmore (1-4-0) vs. Kri
  s Williams (1-0-0)\nMain Card: Taylor Samarco (1-1-0) vs. Rebekah Rotenb
  erry (3-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221103T044214Z
+UID:2022-12-cffc-116-torres-vs-mathison@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 116: Torres vs. Mathison
+DTSTART:20221217T000000Z
+DTEND:20221217T030000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/94763-cffc-116\n\n---\n\nMain Card: Eddy Torres (4-0-0) vs. 
+ Tyler Mathison (3-2-0)\nMain Card: Luke Fernandez (0-0-0) vs. O. Alvarez
+  (0-0-0)\nMain Card: Eric Nolan (2-1-0) vs. Joey Hart (1-0-0)
 END:VEVENT
 END:VCALENDAR
