@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221102T090944Z
-X-KAMPFKALENDER-HASH:5c2df32eedc27a5499bf03b09e396ebc91d0b9d3
+DTSTAMP:20221104T110531Z
+X-KAMPFKALENDER-HASH:152acb667a70ae41bb9b7307a35fb3b46133ae28
 BEGIN:VEVENT
-DTSTAMP:20221102T090945Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-bkfc-32-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32-orlando-prelim
   Fortt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090945Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-bkfc-32-barnett-vs-herrera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Barnett vs. Herrera
@@ -46,7 +46,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32/2pc6u/\n\n---\
  rphy vs. Shane Stapp\nPrelim: Chris Cornelius vs. Ja'Far Fortt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090945Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-bkfc-33-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Prelims
@@ -65,7 +65,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-33/2pc80/\n\n---\
  r vs. Shaine Moffitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090945Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-bkfc-33-beltran-vs-alexander@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Beltran vs. Alexander
@@ -84,7 +84,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-33/2pc7z/\n\n---\
  r vs. Shaine Moffitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090945Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks
@@ -102,7 +102,20 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  s. Wain Morgan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090945Z
+DTSTAMP:20221104T110532Z
+UID:2022-12-bkb-29@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 29
+DTSTART:20221203T150000Z
+DTEND:20221203T180000Z
+CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fite.tv\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/94820-bkb-29\n\n---\n\nMain Card: Brad Scott vs. J
+ amie Procter\nMain Card: Paul Hilz vs. Nathan Leeson\nMain Card: John Co
+ llier vs. Aaron McCallum
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221104T110532Z
 UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Palomino vs. Shoaff
@@ -114,7 +127,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  o vs. Tom Shoaff\nCo-Main Event: Francesco Ricchi vs. David Mundell
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221102T090945Z
+DTSTAMP:20221104T110532Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai

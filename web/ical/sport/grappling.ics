@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221103T044213Z
-X-KAMPFKALENDER-HASH:081892fa82f9ac61895e760a2c2fb51d60fe5ba1
+DTSTAMP:20221104T110531Z
+X-KAMPFKALENDER-HASH:9516f3465ea53c5f37d8d38adb5577e6b6d39aa3
 BEGIN:VEVENT
-DTSTAMP:20221103T044214Z
+DTSTAMP:20221104T110532Z
 UID:2022-10-shooto-brasil-111@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 111
@@ -28,7 +28,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Wanderley Silva (0-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221103T044214Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-polaris-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris 22
@@ -44,7 +44,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Ben Robson vs. Claudio Brudny
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221103T044214Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-battle-at-bragg@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Battle At Bragg
@@ -55,7 +55,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://gocamels.com/news/2022/1
  0/29/wrestling-campbell-to-host-battle-at-bragg-on-veterans-day.aspx
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221103T044214Z
+DTSTAMP:20221104T110532Z
 UID:2022-11-shooto-brasil-112@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 112
@@ -65,7 +65,25 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221103T044214Z
+DTSTAMP:20221104T110532Z
+UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
+DTSTART:20221119T020000Z
+DTEND:20221119T050000Z
+CATEGORIES:ONE,MMA,Muay Thai,Grappling,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/91425-one-on-prime-video-4\n\n---\n\nMain Event: Kiamrian Abbasov (
+ 23-5-0) vs. Christian Lee (16-4-0)\nCo-Main Event: Rodtang Jitmuangnon v
+ s. Joseph Lasiri\nMain Card: Bibiano Fernandes (24-5-0) vs. Stephen Loma
+ n (16-2-0)\nMain Card: Cosmo Alexandre vs. Juan Cervantes\nMain Card: Ke
+ vin Belingon (20-9-0) vs. Jae Woong Kim (12-6-0)\nPrelim: Jonathan Hagge
+ rty vs. Vladimir Kuzmin\nPrelim: Ruslan Emilbek (19-3-0) vs. Isi Fitikef
+ u (7-0-0)\nPrelim: Danielle Kelly vs. Mariia Molchanova\nPrelim: Liam No
+ lan vs. Eddie Abasolo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221104T110532Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series

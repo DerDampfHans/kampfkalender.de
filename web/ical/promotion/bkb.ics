@@ -4,6 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220910T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221104T110531Z
+X-KAMPFKALENDER-HASH:631924db2d2d06fc932d3dec8d2f00a195681db0
+BEGIN:VEVENT
+DTSTAMP:20221104T110532Z
+UID:2022-12-bkb-29@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 29
+DTSTART:20221203T150000Z
+DTEND:20221203T180000Z
+CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fite.tv\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/94820-bkb-29\n\n---\n\nMain Card: Brad Scott vs. J
+ amie Procter\nMain Card: Paul Hilz vs. Nathan Leeson\nMain Card: John Co
+ llier vs. Aaron McCallum
+END:VEVENT
 END:VCALENDAR
