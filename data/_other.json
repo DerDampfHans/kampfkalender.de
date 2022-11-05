@@ -1,5 +1,27 @@
 [
   {
+    "id": "lichtenfels-2022-11-05",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "BOXING"
+    ],
+    "tags": [
+      "#Lichtenfels"
+    ],
+    "mainCard": {
+      "title": "Lichtenfelsener Fight Night 22",
+      "time": "2022-11-05T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-lichtenfelser-fight-night-22-545",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
     "id": "the-cage-2022-11-05",
     "promotion": "_OTHER",
     "sports": [
@@ -19,6 +41,9 @@
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=3sNlSLlgxw0"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-the-cage-544"
         }
       },
       "youTube": {
@@ -40,6 +65,9 @@
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=PRhAKkOnVi4",
           "free": true
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-the-cage-544"
         }
       },
       "youTube": {
