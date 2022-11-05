@@ -4,16 +4,18 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221028T074409Z
-X-KAMPFKALENDER-HASH:67af157deaa379b63204b274741a940f5030e113
+DTSTAMP:20221105T045958Z
+X-KAMPFKALENDER-HASH:414905bbb51f1ff924ddf5aef83cc9caf14efaee
 BEGIN:VEVENT
-DTSTAMP:20221028T074410Z
+DTSTAMP:20221105T045958Z
 UID:2022-11-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
 DTSTART:20221126T110000Z
 DTEND:20221126T180000Z
 CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=8YJE12SgCBE
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=8YJE12SgCBE\
+ n\n---\n\nhttps://fighting.de/events/gemmaf-deutsche-meisterschaften-202
+ 2/
 END:VEVENT
 END:VCALENDAR
