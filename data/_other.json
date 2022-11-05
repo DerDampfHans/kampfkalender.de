@@ -1,28 +1,5 @@
 [
   {
-    "id": "giengener-boxnacht-2022-11-05",
-    "promotion": "_OTHER",
-    "sports": [
-      "BOXING"
-    ],
-    "tags": [
-      "#Giengen"
-    ],
-    "links": [
-      "https://www.instagram.com/boxclubgiengen/"
-    ],
-    "mainCard": {
-      "title": "Giengener Boxnacht 2022",
-      "time": "2022-11-05T17:00:00Z",
-      "broadcasters": {
-        "FIGHT24_TV": {
-          "url": "hthttps://www.fight24.tv/fightpasses/fight24-giengener-boxnacht-2022-542",
-          "freeAfter": 48
-        }
-      }
-    }
-  },
-  {
     "id": "the-cage-2022-11-05",
     "promotion": "_OTHER",
     "sports": [
@@ -38,7 +15,7 @@
     ],
     "mainCard": {
       "title": "The Cage",
-      "time": "2022-11-05T17:00:00Z",
+      "time": "2022-11-05T18:15:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=3sNlSLlgxw0"
@@ -49,6 +26,27 @@
         "time": "2022-11-05T17:00:00Z",
         "title": "The Cage 05.11.2022 ab 18 Uhr LIVE aus Magdeburg",
         "url": "https://www.youtube.com/watch?v=3sNlSLlgxw0",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "The Cage: Prelims",
+      "time": "2022-11-05T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=PRhAKkOnVi4",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "PRhAKkOnVi4",
+        "time": "2022-11-05T17:00:00Z",
+        "title": "FREE: THE CAGE | UNDERCARD | 5.11. | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=PRhAKkOnVi4",
         "tags": [
           "#MMA",
           "#Fighting",
@@ -108,6 +106,31 @@
     }
   },
   {
+    "id": "fightpass-229184",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#Shooto",
+      "#Shooto113",
+      "@shooto_brasil"
+    ],
+    "mainCard": {
+      "title": "Shooto Brasil 113",
+      "time": "2022-11-26T00:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 229184,
+        "time": "2022-11-26T00:00:00Z",
+        "title": "Shooto Brazil 113"
+      }
+    }
+  },
+  {
     "id": "fite-2pc6z",
     "promotion": "_OTHER",
     "sports": [
@@ -156,6 +179,35 @@
       "links": [
         "http://www.boxrec.com/en/event/863038"
       ]
+    }
+  },
+  {
+    "id": "fite-2pc97",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Senshi14"
+    ],
+    "mainCard": {
+      "title": "Senshi 14",
+      "time": "2022-12-03T17:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/senshi-14/2pc97/"
+        }
+      },
+      "fite": {
+        "id": "2pc97",
+        "time": "2022-12-03T17:00:00Z",
+        "title": "Senshi 14",
+        "url": "https://www.fite.tv/watch/senshi-14/2pc97/",
+        "price": "FREE",
+        "sports": [
+          "MMA"
+        ]
+      }
     }
   },
   {

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221104T110531Z
-X-KAMPFKALENDER-HASH:4c88275d88dbf01ac79716367bf6515f121b3c52
+DTSTAMP:20221105T041214Z
+X-KAMPFKALENDER-HASH:f8b6be9acee9563e49cd4cf323390a69e1331476
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-10-lomachenko-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lomachenko vs. Ortiz
@@ -29,7 +29,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-rank-lomachenko-vs
  n Garcia (15-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-10-paul-vs-silva-pre-show@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva: Pre Show
@@ -50,7 +50,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva-preshow/
  nthony Hannah (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-10-paul-vs-silva@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva
@@ -71,7 +71,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva/2pbx1/\n
  annah (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-aka-24@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 24
@@ -92,7 +92,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-24/2pc89/\n\n---\n
  ck Oliver (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-bkfc-32-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Prelims
@@ -112,7 +112,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32-orlando-prelim
   Fortt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-bkfc-32-barnett-vs-herrera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 32: Barnett vs. Herrera
@@ -131,7 +131,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-32/2pc6u/\n\n---\
  rphy vs. Shane Stapp\nPrelim: Chris Cornelius vs. Ja'Far Fortt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-rizin-landmark-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN Landmark 4
@@ -155,7 +155,23 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-landmark-4/2pc63
   vs. Hideyoshi Okamoto (3-2-0)\nPrelim: Shuto Sato vs. KAZUNORI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
+UID:2022-11-edwards-vs-alvarado@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Edwards vs. Alvarado
+DTSTART:20221111T173000Z
+DTEND:20221111T203000Z
+CATEGORIES:PB,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/probellum-edwards-vs-a
+ lvarado/2pc8q/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/933
+ 65-edwards-vs-alvarado\nhttp://www.boxrec.com/en/event/862938\n\n---\n\n
+ Main Event: Sunny Edwards (18-0-0) vs. Felix Alvarado (38-2-0)\nMain Car
+ d: Jack Bateson (17-0-0) vs. Shabaz Masoud (10-0-0)\nMain Card: Thomas E
+ ssomba (11-7-1) vs. Marcel Braithwaite (6-2-0)\nMain Card: Kyle Lomotey 
+ (11-1-0) vs. Hebert Souza (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221105T041215Z
 UID:2022-11-mayweather-vs-deji@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs Deji
@@ -174,7 +190,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-jr-vs-deji/
  (0-0-0) vs. Tomasz Działowy (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-bkfc-33-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Prelims
@@ -193,7 +209,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-33/2pc80/\n\n---\
  r vs. Shaine Moffitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-bkfc-33-beltran-vs-alexander@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Beltran vs. Alexander
@@ -212,7 +228,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-33/2pc7z/\n\n---\
  r vs. Shaine Moffitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks
@@ -230,7 +246,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  s. Wain Morgan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-zepeda-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis
@@ -249,7 +265,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis/2pc
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-12-bkb-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 29
@@ -262,7 +278,17 @@ DESCRIPTION:via fighting.de\nvia fite.tv\n\n---\n\nhttps://www.tapology.c
  llier vs. Aaron McCallum
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
+UID:2022-12-senshi-14@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 14
+DTSTART:20221203T170000Z
+DTEND:20221203T200000Z
+CATEGORIES:Other,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-14/2pc97/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221105T041215Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
@@ -273,7 +299,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Palomino vs. Shoaff
@@ -285,7 +311,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  o vs. Tom Shoaff\nCo-Main Event: Francesco Ricchi vs. David Mundell
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221104T110531Z
-X-KAMPFKALENDER-HASH:a339e73e5018b7a24321c535ec8096ab6a5ca89c
+DTSTAMP:20221105T041214Z
+X-KAMPFKALENDER-HASH:ceba2afad611010417c09a9a18cc61594ecfae91
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-lfa-146-barbosa-vs-santos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 146: Barbosa vs. Santos
@@ -32,7 +32,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ujimoto (0-0-0) vs. Gabrielle Campelo (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-budo-sento-championship-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Budo Sento Championship 11
@@ -49,7 +49,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-lfa-147-melo-vs-costa@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 147: Melo vs. Costa
@@ -68,5 +68,23 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Jasmine Pouncy (1-2-0)\nPrelim: Jasmine Montoya (0-0-0) vs. Aman
  da Macioce (0-0-0)\nPrelim: Cameron Raines (4-0-0) vs. Anteze Howard (4-
  1-0)\nPrelim: Liz Goodman (3-9-0) vs. Shalie Lipp (3-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221105T041215Z
+UID:2022-12-lfa-148-leyva-vs-brown@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 148: Leyva vs. Brown
+DTSTART:20221210T030000Z
+DTEND:20221210T060000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/94842-lfa-148-leyva-vs-brown\n\n---\n\nMain Event: Alfonso L
+ eyva (6-0-0) vs. Chris Brown (9-4-0)\nCo-Main Event: J. Horth Wessels (5
+ -0-0) vs. Sabina Mazo (9-4-0)\nMain Card: Chase Gibson (11-6-0) vs. Jess
+  Martinez (6-0-0)\nMain Card: Richie Miranda (5-0-0) vs. James Wilson (4
+ -1-0)\nPrelim: Jeffrey Craig (3-0-0) vs. Ernesto Rodriguez (4-1-0)\nPrel
+ im: Dione Barbosa (3-2-0) vs. Mariana Piccolo (1-1-0)\nPrelim: Joseph Do
+ rado (3-0-0) vs. Eduardo Penha (1-0-0)\nPrelim: Ethyn Ewing (0-2-0) vs. 
+ Xavier Moreno (0-0-0)
 END:VEVENT
 END:VCALENDAR

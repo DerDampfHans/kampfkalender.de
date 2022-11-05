@@ -4,6 +4,22 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220429T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221105T041214Z
+X-KAMPFKALENDER-HASH:4619756d14eb7c0907097fe17ad50fb8036846a9
+BEGIN:VEVENT
+DTSTAMP:20221105T041215Z
+UID:2022-11-edwards-vs-alvarado@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Edwards vs. Alvarado
+DTSTART:20221111T173000Z
+DTEND:20221111T203000Z
+CATEGORIES:PB,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/probellum-edwards-vs-a
+ lvarado/2pc8q/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/933
+ 65-edwards-vs-alvarado\nhttp://www.boxrec.com/en/event/862938\n\n---\n\n
+ Main Event: Sunny Edwards (18-0-0) vs. Felix Alvarado (38-2-0)\nMain Car
+ d: Jack Bateson (17-0-0) vs. Shabaz Masoud (10-0-0)\nMain Card: Thomas E
+ ssomba (11-7-1) vs. Marcel Braithwaite (6-2-0)\nMain Card: Kyle Lomotey 
+ (11-1-0) vs. Hebert Souza (0-0-0)
+END:VEVENT
 END:VCALENDAR

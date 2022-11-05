@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221015T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221105T041214Z
+X-KAMPFKALENDER-HASH:f998e338199bb3a2c033b45af95230e88167da1a
+BEGIN:VEVENT
+DTSTAMP:20221105T041215Z
+UID:2022-11-giengener-boxnacht-2022@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Giengener Boxnacht 2022
+DTSTART:20221105T170000Z
+DTEND:20221105T200000Z
+CATEGORIES:BDB,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gi
+ engener-boxnacht-2022-542\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/94848-boxen-live-giengener-boxnacht\nhttp://www.boxrec.com/en/ev
+ ent/863783\n\n---\n\nMain Event: Altin Zogaj (9-0-0) vs. Kenan Catic (0-
+ 0-0)\nMain Card: Ardian Krasniqi (0-0-0) vs. Edis Dzambas (4-46-0)
+END:VEVENT
 END:VCALENDAR

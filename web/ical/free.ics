@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221104T121843Z
-X-KAMPFKALENDER-HASH:ae0aacda3fbc6d1faddbf08f72984e105225ff1b
+DTSTAMP:20221105T041214Z
+X-KAMPFKALENDER-HASH:f0c796e703e12cf6bf7d61a3736b58bb15d40cdf
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-10-emc-talents@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:EMC Talents
@@ -32,7 +32,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/EMCELITEMMACHAMPIONSHI
  in Card: Berkant Eryteli (0-0-0) vs. Fatih Altundag (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-10-paul-vs-silva-pre-show@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Silva: Pre Show
@@ -53,7 +53,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/paul-vs-silva-preshow/
  nthony Hannah (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-10-ksw-32-road-to-wembley-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 32: Road to Wembley (Re-Live)
@@ -72,7 +72,17 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=f8PlUSPzZrQ\n\n-
   Brett Cooper\nPrelim: Leszek Krakowski vs. Andre Winner
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
+UID:2022-11-the-cage-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Cage: Prelims
+DTSTART:20221105T170000Z
+DTEND:20221105T181500Z
+CATEGORIES:Other,MMA,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=PRhAKkOnVi4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221105T041215Z
 UID:2022-11-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -93,7 +103,23 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  Bujar Tahiri (11-0-0) vs. Ivan Matute (30-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
+UID:2022-11-edwards-vs-alvarado@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Edwards vs. Alvarado
+DTSTART:20221111T173000Z
+DTEND:20221111T203000Z
+CATEGORIES:PB,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/probellum-edwards-vs-a
+ lvarado/2pc8q/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/933
+ 65-edwards-vs-alvarado\nhttp://www.boxrec.com/en/event/862938\n\n---\n\n
+ Main Event: Sunny Edwards (18-0-0) vs. Felix Alvarado (38-2-0)\nMain Car
+ d: Jack Bateson (17-0-0) vs. Shabaz Masoud (10-0-0)\nMain Card: Thomas E
+ ssomba (11-7-1) vs. Marcel Braithwaite (6-2-0)\nMain Card: Kyle Lomotey 
+ (11-1-0) vs. Hebert Souza (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221105T041215Z
 UID:2022-11-invicta-fc-50-strawweight-title-tournament@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 50: Strawweight Title Tournament
@@ -108,7 +134,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  e (2-0-0) vs. Danni McCormack (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-one-163-akimoto-vs-petchtanong@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 163: Akimoto vs. Petchtanong
@@ -123,7 +149,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nMain Card: Yuya Wakamatsu (15-5-0) vs. Sung Hoon Woo (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-bkfc-33-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 33: Prelims
@@ -142,7 +168,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-33/2pc80/\n\n---\
  r vs. Shaine Moffitt
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -160,7 +186,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  lan vs. Eddie Abasolo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-11-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -170,7 +196,7 @@ CATEGORIES:GEMMAF,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=8YJE12SgCBE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-12-one-on-prime-video-5-de-ridder-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5: De Ridder vs. Malykhin
@@ -184,7 +210,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  hingiz Allazov\nMain Card: A. Rodrigues vs. Janet Todd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-12-one-164-pacio-vs-brooks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 164: Pacio vs. Brooks
@@ -196,7 +222,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Jarred Brooks (19-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-12-nfc-contenders-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders 2
@@ -206,7 +232,7 @@ CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=w-68jCgTttI
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -225,7 +251,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.fightev
  Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -244,7 +270,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  (2-1-1) vs. Joel Batobo (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -256,7 +282,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nissa Meksen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-02-one-on-prime-video-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 7
@@ -267,7 +293,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94524-one-on-prime-video-7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -278,7 +304,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -289,7 +315,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8
@@ -300,7 +326,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94525-one-on-prime-video-8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -312,7 +338,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  rim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -324,7 +350,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  Mert Özyildirim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -335,7 +361,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -346,7 +372,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -357,7 +383,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -368,7 +394,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -379,7 +405,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -390,7 +416,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -401,7 +427,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221104T121844Z
+DTSTAMP:20221105T041215Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

@@ -5,10 +5,28 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#EdwardsAlvarado"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Edwards vs. Alvarado",
-      "time": "2022-11-11T19:00:00Z"
+      "time": "2022-11-11T17:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/probellum-edwards-vs-alvarado/2pc8q/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pc8q",
+        "time": "2022-11-11T17:30:00Z",
+        "title": "Probellum: Sunny Edwards vs Felix Alvarado",
+        "url": "https://www.fite.tv/watch/probellum-edwards-vs-alvarado/2pc8q/",
+        "price": "FREE",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 93365,
