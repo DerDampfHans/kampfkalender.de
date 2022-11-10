@@ -4,10 +4,29 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221104T110531Z
-X-KAMPFKALENDER-HASH:8dee3b94af5d65c69afb01ccb0ef13f608ef7f23
+DTSTAMP:20221110T105935Z
+X-KAMPFKALENDER-HASH:5cd6bd143bf2dbbb68386512e9f06a2722e85143
 BEGIN:VEVENT
-DTSTAMP:20221104T110532Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-mayweather-vs-deji-preshow@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Mayweather vs Deji: Preshow
+DTSTART:20221113T160000Z
+DTEND:20221113T180000Z
+CATEGORIES:MP$,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-jr-vs-deji-
+ preshow/2pc9i/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/932
+ 39-mayweather-vs-deji\nhttps://www.global-titans.com/\n\n---\n\nMain Eve
+ nt: Floyd Mayweather Jr. (50-0-0) vs. O. Olatunji (0-0-0)\nMain Card: To
+ mmy Fury (8-0-0) vs. Paul Bamba (5-1-0)\nMain Card: Bobby Fish (0-0-0) v
+ s. B. Prempeh (0-3-0)\nMain Card: Harley Benn (9-1-0) vs. Faizan Anwar (
+ 13-0-0)\nMain Card: Jack Fincham (0-0-0) vs. Anthony Taylor (2-3-0)\nMai
+ n Card: Delfine Persoon (47-3-0) vs. Ikram Kerwat (11-3-0)\nMain Card: J
+ adier Herrera (0-0-0) vs. Franklin Manzanilla (21-8-0)\nMain Card: J'hon
+  Ingram (0-0-0) vs. Koji Tanaka (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-mayweather-vs-deji@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs Deji
@@ -22,7 +41,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-jr-vs-deji/
  empeh (0-3-0)\nMain Card: Harley Benn (9-1-0) vs. Faizan Anwar (13-0-0)\
  nMain Card: Jack Fincham (0-0-0) vs. Anthony Taylor (2-3-0)\nMain Card: 
  Delfine Persoon (47-3-0) vs. Ikram Kerwat (11-3-0)\nMain Card: Jadier He
- rrera (0-0-0) vs. Franklin Manzanilla (21-8-0)\nMain Card: Amir Fotoohi 
- (0-0-0) vs. Tomasz Działowy (0-0-0)
+ rrera (0-0-0) vs. Franklin Manzanilla (21-8-0)\nMain Card: J'hon Ingram 
+ (0-0-0) vs. Koji Tanaka (0-0-0)
 END:VEVENT
 END:VCALENDAR

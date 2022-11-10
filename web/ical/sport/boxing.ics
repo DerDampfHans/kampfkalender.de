@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221108T230304Z
-X-KAMPFKALENDER-HASH:e753183d4902449c96261313ef1583829ff2a9d4
+DTSTAMP:20221110T105935Z
+X-KAMPFKALENDER-HASH:1cbf74291a3d5610ab333b2985fb203d15dbb3e5
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-walsh-vs-parsley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs Parsley
@@ -17,7 +17,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-giengener-boxnacht-2022@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Giengener Boxnacht 2022
@@ -31,7 +31,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gi
  0-0)\nMain Card: Ardian Krasniqi (0-0-0) vs. Edis Dzambas (4-46-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-lichtenfelsener-fight-night-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lichtenfelsener Fight Night 22
@@ -42,7 +42,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-li
  chtenfelser-fight-night-22-545
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -63,7 +63,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  Bujar Tahiri (11-0-0) vs. Ivan Matute (30-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-bivol-vs-ramirez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bivol vs. Ramirez
@@ -83,7 +83,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  oushi (10-1-0) vs. Irakli Shariashvili (7-10-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-edwards-vs-alvarado@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Edwards vs. Alvarado
@@ -93,13 +93,56 @@ CATEGORIES:PB,Boxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/probellum-edwards-vs-a
  lvarado/2pc8q/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/933
  65-edwards-vs-alvarado\nhttp://www.boxrec.com/en/event/862938\n\n---\n\n
- Main Event: Sunny Edwards (18-0-0) vs. Felix Alvarado (38-2-0)\nMain Car
- d: Jack Bateson (17-0-0) vs. Shabaz Masoud (10-0-0)\nMain Card: Thomas E
- ssomba (11-7-1) vs. Marcel Braithwaite (6-2-0)\nMain Card: Kyle Lomotey 
- (11-1-0) vs. Hebert Souza (0-0-0)
+ Main Event: Sunny Edwards (18-0-0) vs. Felix Alvarado (38-2-0)\nCo-Main 
+ Event: Jack Bateson (17-0-0) vs. Shabaz Masoud (10-0-0)\nMain Card: Thom
+ as Essomba (11-7-1) vs. Marcel Braithwaite (6-2-0)\nMain Card: Gideon Jo
+ nas (0-0-0) vs. Hebert Souza (0-0-0)\nMain Card: Ishmael Davis (9-0-0) v
+ s. Dustin Amman (7-7-0)\nMain Card: Nicolie Campbell (9-1-0) vs. Frane R
+ adnic (11-33-0)\nMain Card: Lisa Whiteside (4-0-0) vs. Eva Cantos (0-0-0
+ )\nMain Card: Levi Kinsiona (9-2-0) vs. Alin Florin (16-3-0)\nMain Card:
+  Khalid Ayub (0-0-0) vs. Danail Stoyanov (3-8-0)\nMain Card: Brad Cousin
+ s (0-0-0) vs. Genadij Krajevski (0-41-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-escobedo-vs-cabrera-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Escobedo vs. Cabrera: Prelims
+DTSTART:20221112T000000Z
+DTEND:20221112T030000Z
+CATEGORIES:TFC,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/tfc-escobedo-vs-cabrer
+ a-prelims/2pc9u/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9
+ 4931-60th-annual-wbc-convention-official-event\nhttp://www.boxrec.com/en
+ /event/864805\n\n---\n\nMain Event: Jonathan Escobedo (10-3-1) vs. Misae
+ l Cabrera (12-1-0)\nMain Card: Lester Martinez (13-0-0) vs. Cristian Fab
+ ian Rios (23-15-3)\nMain Card: Saulo Morales (10-1-0) vs. Romario Ovalle
+  (10-4-0)\nMain Card: Valery Oganisyan (5-0-0) vs. Mahatma Garcia Avalos
+  (1-1-0)\nMain Card: David Alaverdian (6-0-0) vs. A. Morales (2-0-1)\nMa
+ in Card: Maria Salinas (23-8-5) vs. Esmeralda Gaona (7-4-0)\nMain Card: 
+ Juan Tozcano (9-3-0) vs. Jesus Aaron Reyes (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
+UID:2022-11-escobedo-vs-cabrera@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Escobedo vs. Cabrera
+DTSTART:20221112T030000Z
+DTEND:20221112T060000Z
+CATEGORIES:TFC,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/tfc-escobedo-vs-cabrer
+ a/2pc92/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/94931-60t
+ h-annual-wbc-convention-official-event\nhttp://www.boxrec.com/en/event/8
+ 64805\n\n---\n\nMain Event: Jonathan Escobedo (10-3-1) vs. Misael Cabrer
+ a (12-1-0)\nMain Card: Lester Martinez (13-0-0) vs. Cristian Fabian Rios
+  (23-15-3)\nMain Card: Saulo Morales (10-1-0) vs. Romario Ovalle (10-4-0
+ )\nMain Card: Valery Oganisyan (5-0-0) vs. Mahatma Garcia Avalos (1-1-0)
+ \nMain Card: David Alaverdian (6-0-0) vs. A. Morales (2-0-1)\nMain Card:
+  Maria Salinas (23-8-5) vs. Esmeralda Gaona (7-4-0)\nMain Card: Juan Toz
+ cano (9-3-0) vs. Jesus Aaron Reyes (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-phinn-vs-belujsky@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phinn vs Belujsky
@@ -109,7 +152,7 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-love-vs-spark@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Love vs. Spark
@@ -128,7 +171,26 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-mayweather-vs-deji-preshow@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Mayweather vs Deji: Preshow
+DTSTART:20221113T160000Z
+DTEND:20221113T180000Z
+CATEGORIES:MP$,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-jr-vs-deji-
+ preshow/2pc9i/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/932
+ 39-mayweather-vs-deji\nhttps://www.global-titans.com/\n\n---\n\nMain Eve
+ nt: Floyd Mayweather Jr. (50-0-0) vs. O. Olatunji (0-0-0)\nMain Card: To
+ mmy Fury (8-0-0) vs. Paul Bamba (5-1-0)\nMain Card: Bobby Fish (0-0-0) v
+ s. B. Prempeh (0-3-0)\nMain Card: Harley Benn (9-1-0) vs. Faizan Anwar (
+ 13-0-0)\nMain Card: Jack Fincham (0-0-0) vs. Anthony Taylor (2-3-0)\nMai
+ n Card: Delfine Persoon (47-3-0) vs. Ikram Kerwat (11-3-0)\nMain Card: J
+ adier Herrera (0-0-0) vs. Franklin Manzanilla (21-8-0)\nMain Card: J'hon
+  Ingram (0-0-0) vs. Koji Tanaka (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-mayweather-vs-deji@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Mayweather vs Deji
@@ -143,11 +205,29 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/mayweather-jr-vs-deji/
  empeh (0-3-0)\nMain Card: Harley Benn (9-1-0) vs. Faizan Anwar (13-0-0)\
  nMain Card: Jack Fincham (0-0-0) vs. Anthony Taylor (2-3-0)\nMain Card: 
  Delfine Persoon (47-3-0) vs. Ikram Kerwat (11-3-0)\nMain Card: Jadier He
- rrera (0-0-0) vs. Franklin Manzanilla (21-8-0)\nMain Card: Amir Fotoohi 
- (0-0-0) vs. Tomasz Działowy (0-0-0)
+ rrera (0-0-0) vs. Franklin Manzanilla (21-8-0)\nMain Card: J'hon Ingram 
+ (0-0-0) vs. Koji Tanaka (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-rahman-jr-vs-belfort@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rahman Jr. vs Belfort
+DTSTART:20221120T010000Z
+DTEND:20221120T040000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/93053-mf-dazn-x-series-3-rahman-jr-vs-belfort\nhttp://www.boxrec.com/e
+ n/event/862035\n\n---\n\nMain Event: Hasim Rahman Jr (12-1-0) vs. Vitor 
+ Belfort (1-0-0)\nCo-Main Event: Josh Brueckner (1-0-0) vs. Chase DeMoor 
+ (0-0-0)\nMain Card: Kenny Ojuederie (0-0-0) vs. DK Money (0-0-0)\nMain C
+ ard: Deen Bean (0-0-0) vs. Walid Muhsein (0-0-0)\nMain Card: Jessica Dub
+ an (0-0-0) vs. Avery Pongracz (0-0-0)\nMain Card: Paul Denino (0-0-0) vs
+ . Brandon Buckingham (0-0-0)\nMain Card: Malcolm Minikon (0-0-0) vs. Nic
+ k Joseph (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-whyte-vs-franklin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Whyte vs. Franklin
@@ -162,7 +242,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Rodriguez (0-0-0) vs. Sandy Ryan (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-zepeda-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis
@@ -181,7 +261,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis/2pc
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Chocolatito 3
@@ -191,11 +271,12 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/92728-estrada-vs-chocolatito-3\nhttp://www.boxrec.com/en/event/863036\
  n\n---\n\nMain Event: Juan Francisco Estrada (43-3-0) vs. Roman Gonzalez
-  (51-3-0)\nCo-Main Event: Julio Cesar Martinez (18-2-0) vs. McWilliams A
- rroyo (21-4-0)
+  (51-3-0)\nMain Card: Joselito Velazquez (14-0-1) vs. Cristofer Rosales 
+ (34-6-0)\nMain Card: Julio Cesar Martinez (18-2-0) vs. Angel Ayala (15-0
+ -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez

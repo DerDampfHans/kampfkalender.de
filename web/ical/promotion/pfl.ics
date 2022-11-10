@@ -4,10 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221105T045958Z
-X-KAMPFKALENDER-HASH:044fe231cd9706b29a38ced70cbdf9ca4816ee75
+DTSTAMP:20221110T105935Z
+X-KAMPFKALENDER-HASH:0ae697413a17884644e0f6e944a499fc9db0081b
 BEGIN:VEVENT
-DTSTAMP:20221105T045958Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-pfl-international-qualifier-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL International Qualifier Series
+DTSTART:20221112T000000Z
+DTEND:20221112T030000Z
+CATEGORIES:PFL,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=XiKY3r3Kucw\
+ n\n---\n\nhttps://fighting.de/events/pfl-2022-international-qualifiers-1
+ /\nhttps://www.tapology.com/fightcenter/events/94421-sft-pfl-internation
+ al-qualifier-series-brazil
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -19,14 +32,14 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Pobo9hiszr4\
  ogy.com/fightcenter/events/87841-pfl-2022-10-championships\n\n---\n\nMai
  n Event: Kayla Harrison (15-0-0) vs. Larissa Pacheco (18-4-0)\nCo-Main E
  vent: Brendan Loughnane (25-4-0) vs. Bubba Jenkins (19-5-0)\nMain Card: 
- Stevie Ray (25-10-0) vs. Olivier Aubin-Mercier (16-5-0)\nMain Card: Omar
- i Akhmedov (24-7-1) vs. Rob Wilkinson (16-2-0)\nMain Card: Ante Delija (
- 22-5-0) vs. Matheus Scheffel (17-8-0)\nMain Card: Dilano Taylor (10-2-0)
-  vs. Sadibou Sy (12-6-2)\nMain Card: Shane Burgos (15-3-0) vs. Marlon Mo
- raes (23-10-1)\nPrelim: Dakota Ditcheva (6-0-0) vs. Katherine Corogenes 
- (2-0-0)\nPrelim: Natan Schulte (22-5-1) vs. Jeremy Stephens (29-20-0)\nP
- relim: Julia Budd (16-4-0) vs. Aspen Ladd (9-3-0)\nPrelim: Magomed Magom
- edkerimov (30-6-0) vs. Gleison Tibau (36-16-0)\nPrelim: Biaggio Ali Wals
- h (1-1-0) vs. Tom Graesser (0-0-0)
+ Ante Delija (22-5-0) vs. Matheus Scheffel (17-8-0)\nMain Card: Stevie Ra
+ y (25-10-0) vs. Olivier Aubin-Mercier (16-5-0)\nMain Card: Dilano Taylor
+  (10-2-0) vs. Sadibou Sy (12-6-2)\nMain Card: Omari Akhmedov (24-7-1) vs
+ . Rob Wilkinson (16-2-0)\nMain Card: Julia Budd (16-4-0) vs. Aspen Ladd 
+ (9-3-0)\nPrelim: Sheymon Moraes (14-6-0) vs. Marlon Moraes (23-10-1)\nPr
+ elim: Natan Schulte (22-5-1) vs. Jeremy Stephens (29-20-0)\nPrelim: Mago
+ med Magomedkerimov (30-6-0) vs. Gleison Tibau (36-16-0)\nPrelim: Dakota 
+ Ditcheva (6-0-0) vs. Katherine Corogenes (2-0-0)\nPrelim: Biaggio Ali Wa
+ lsh (1-1-0) vs. Tom Graesser (0-0-0)
 END:VEVENT
 END:VCALENDAR

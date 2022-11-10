@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221105T041214Z
-X-KAMPFKALENDER-HASH:88d3c4c4c090cd76cb61555098aebf6a60c9b4e4
+DTSTAMP:20221110T105935Z
+X-KAMPFKALENDER-HASH:7e3a82bd3833f7b5e3d1cf3dd3e92601a1f45baa
 BEGIN:VEVENT
-DTSTAMP:20221105T041215Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-polaris-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris 22
@@ -23,18 +23,18 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Ben Robson vs. Claudio Brudny
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T041215Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-battle-at-bragg@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Battle At Bragg
-DTSTART:20221111T210000Z
-DTEND:20221112T000000Z
+DTSTART:20221111T220000Z
+DTEND:20221112T010000Z
 CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://gocamels.com/news/2022/1
  0/29/wrestling-campbell-to-host-battle-at-bragg-on-veterans-day.aspx
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T041215Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-shooto-brasil-112@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 112
@@ -44,7 +44,18 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T041215Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20221112T110000Z
+DTEND:20221112T140000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221112-olympix-g
+ rappling-no-117
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -62,7 +73,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  lan vs. Eddie Abasolo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T041215Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-shooto-brasil-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 113
@@ -72,7 +83,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T041215Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series

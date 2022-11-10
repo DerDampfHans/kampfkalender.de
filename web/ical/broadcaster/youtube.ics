@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221107T230304Z
-X-KAMPFKALENDER-HASH:a2468ad3de843d35416809aad2cc4d772ab8a93f
+DTSTAMP:20221110T105935Z
+X-KAMPFKALENDER-HASH:3dd3ebeafb7604fcb18397358ecc32046a42c0e4
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  Bujar Tahiri (11-0-0) vs. Ivan Matute (30-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-schlagwort-podcast-187@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 187
@@ -38,7 +38,17 @@ CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-schlagwort-podcast-187-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast 187
+DTSTART:20221113T170000Z
+DTEND:20221113T190000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-invicta-fc-50-strawweight-title-tournament@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 50: Strawweight Title Tournament
@@ -53,7 +63,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  e (2-0-0) vs. Danni McCormack (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-one-163-akimoto-vs-petchtanong@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 163: Akimoto vs. Petchtanong
@@ -68,7 +78,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nMain Card: Yuya Wakamatsu (15-5-0) vs. Sung Hoon Woo (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -86,7 +96,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  lan vs. Eddie Abasolo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-one-on-prime-video-5-de-ridder-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5: De Ridder vs. Malykhin
@@ -100,7 +110,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  hingiz Allazov\nMain Card: A. Rodrigues vs. Janet Todd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-one-164-pacio-vs-brooks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 164: Pacio vs. Brooks
@@ -112,7 +122,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Jarred Brooks (19-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -124,7 +134,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nissa Meksen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2023-02-one-on-prime-video-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 7
@@ -135,7 +145,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94524-one-on-prime-video-7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221107T230305Z
+DTSTAMP:20221110T105936Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8

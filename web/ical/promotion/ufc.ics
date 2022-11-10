@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221106T230305Z
-X-KAMPFKALENDER-HASH:ce4289eac8989964382c32454deb9431096cc79e
+DTSTAMP:20221110T105935Z
+X-KAMPFKALENDER-HASH:0b725191dd8adaf5dd47517f4630c41ff42acc79
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-ufc-vegas-64-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 64: Prelims
@@ -34,7 +34,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -2-0)\nPrelim: Ramona Pascual (6-4-0) vs. Tamires Vidal (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-ufc-vegas-64-rodriguez-vs-lemos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 64: Rodriguez vs. Lemos
@@ -62,7 +62,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-ufc-281-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281: Early Prelims
@@ -70,22 +70,27 @@ DTSTART:20221112T230000Z
 DTEND:20221113T010000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/91828-ufc-281\n\n---\n\nMain Event: Israel Adesanya (23-1-0)
-  vs. Alex Pereira (6-1-0)\nCo-Main Event: Carla Esparza (19-6-0) vs. Wei
- li Zhang (22-3-0)\nMain Card: Dustin Poirier (28-7-0) vs. Michael Chandl
- er (23-7-0)\nMain Card: Frankie Edgar (24-10-1) vs. Chris Gutierrez (18-
- 3-2)\nMain Card: Dan Hooker (21-12-0) vs. Claudio Puelles (12-2-0)\nPrel
- im: Renato Moicano (16-5-1) vs. Brad Riddell (10-3-0)\nPrelim: Dominick 
- Reyes (12-3-0) vs. Ryan Spann (20-7-0)\nPrelim: Erin Blanchfield (9-1-0)
-  vs. Molly McCann (13-4-0)\nPrelim: Andre Petroski (8-1-0) vs. Wellingto
- n Turman (18-5-0)\nPrelim: Ottman Azaitar (13-0-0) vs. Matt Frevola (9-3
- -1)\nPrelim: Karolina Kowalkiewicz (13-7-0) vs. Silvana Gómez Juárez (11
- -4-0)\nPrelim: Mike Trizano (9-3-0) vs. Seung Woo Choi (10-5-0)\nPrelim:
-  Julio Arce (18-5-0) vs. Montel Jackson (11-2-0)\nPrelim: Carlos Ulberg 
- (6-1-0) vs. Nicolae Negumereanu (13-1-0)
+ nter/events/91828-ufc-281\nhttp://www.sherdog.com/events/ufc-281-adesany
+ a-vs-pereira-94041\nhttp://en.wikipedia.org/wiki/UFC_281\nhttps://events
+ .mixedmartialarts.com/ufc-281:72e85907-79c8-4b8a-8e36-9ea3a7cddf17\nhttp
+ s://www.ufc.com/event/ufc-281\nhttp://www.ufcstats.com/event-details/b3b
+ 6e80b7d5f8f0d\nhttps://www.bestfightodds.com/events/ufc-2529\n\n---\n\nM
+ ain Event: Israel Adesanya (23-1-0) vs. Alex Pereira (6-1-0)\nCo-Main Ev
+ ent: Carla Esparza (19-6-0) vs. Weili Zhang (22-3-0)\nMain Card: Dustin 
+ Poirier (28-7-0) vs. Michael Chandler (23-7-0)\nMain Card: Frankie Edgar
+  (24-10-1) vs. Chris Gutierrez (18-3-2)\nMain Card: Dan Hooker (21-12-0)
+  vs. Claudio Puelles (12-2-0)\nPrelim: Renato Moicano (16-5-1) vs. Brad 
+ Riddell (10-3-0)\nPrelim: Dominick Reyes (12-3-0) vs. Ryan Spann (20-7-0
+ )\nPrelim: Erin Blanchfield (9-1-0) vs. Molly McCann (13-4-0)\nPrelim: A
+ ndre Petroski (8-1-0) vs. Wellington Turman (18-5-0)\nPrelim: Ottman Aza
+ itar (13-0-0) vs. Matt Frevola (9-3-1)\nPrelim: Karolina Kowalkiewicz (1
+ 3-7-0) vs. Silvana Gómez Juárez (11-4-0)\nPrelim: Mike Trizano (9-3-0) v
+ s. Seung Woo Choi (10-5-0)\nPrelim: Julio Arce (18-5-0) vs. Montel Jacks
+ on (11-2-0)\nPrelim: Carlos Ulberg (6-1-0) vs. Nicolae Negumereanu (13-1
+ -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-ufc-281-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281: Prelims
@@ -93,22 +98,27 @@ DTSTART:20221113T010000Z
 DTEND:20221113T030000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/91828-ufc-281\n\n---\n\nMain Event: Israel Adesany
- a (23-1-0) vs. Alex Pereira (6-1-0)\nCo-Main Event: Carla Esparza (19-6-
- 0) vs. Weili Zhang (22-3-0)\nMain Card: Dustin Poirier (28-7-0) vs. Mich
- ael Chandler (23-7-0)\nMain Card: Frankie Edgar (24-10-1) vs. Chris Guti
- errez (18-3-2)\nMain Card: Dan Hooker (21-12-0) vs. Claudio Puelles (12-
- 2-0)\nPrelim: Renato Moicano (16-5-1) vs. Brad Riddell (10-3-0)\nPrelim:
-  Dominick Reyes (12-3-0) vs. Ryan Spann (20-7-0)\nPrelim: Erin Blanchfie
- ld (9-1-0) vs. Molly McCann (13-4-0)\nPrelim: Andre Petroski (8-1-0) vs.
-  Wellington Turman (18-5-0)\nPrelim: Ottman Azaitar (13-0-0) vs. Matt Fr
- evola (9-3-1)\nPrelim: Karolina Kowalkiewicz (13-7-0) vs. Silvana Gómez 
- Juárez (11-4-0)\nPrelim: Mike Trizano (9-3-0) vs. Seung Woo Choi (10-5-0
- )\nPrelim: Julio Arce (18-5-0) vs. Montel Jackson (11-2-0)\nPrelim: Carl
- os Ulberg (6-1-0) vs. Nicolae Negumereanu (13-1-0)
+ om/fightcenter/events/91828-ufc-281\nhttp://www.sherdog.com/events/ufc-2
+ 81-adesanya-vs-pereira-94041\nhttp://en.wikipedia.org/wiki/UFC_281\nhttp
+ s://events.mixedmartialarts.com/ufc-281:72e85907-79c8-4b8a-8e36-9ea3a7cd
+ df17\nhttps://www.ufc.com/event/ufc-281\nhttp://www.ufcstats.com/event-d
+ etails/b3b6e80b7d5f8f0d\nhttps://www.bestfightodds.com/events/ufc-2529\n
+ \n---\n\nMain Event: Israel Adesanya (23-1-0) vs. Alex Pereira (6-1-0)\n
+ Co-Main Event: Carla Esparza (19-6-0) vs. Weili Zhang (22-3-0)\nMain Car
+ d: Dustin Poirier (28-7-0) vs. Michael Chandler (23-7-0)\nMain Card: Fra
+ nkie Edgar (24-10-1) vs. Chris Gutierrez (18-3-2)\nMain Card: Dan Hooker
+  (21-12-0) vs. Claudio Puelles (12-2-0)\nPrelim: Renato Moicano (16-5-1)
+  vs. Brad Riddell (10-3-0)\nPrelim: Dominick Reyes (12-3-0) vs. Ryan Spa
+ nn (20-7-0)\nPrelim: Erin Blanchfield (9-1-0) vs. Molly McCann (13-4-0)\
+ nPrelim: Andre Petroski (8-1-0) vs. Wellington Turman (18-5-0)\nPrelim: 
+ Ottman Azaitar (13-0-0) vs. Matt Frevola (9-3-1)\nPrelim: Karolina Kowal
+ kiewicz (13-7-0) vs. Silvana Gómez Juárez (11-4-0)\nPrelim: Mike Trizano
+  (9-3-0) vs. Seung Woo Choi (10-5-0)\nPrelim: Julio Arce (18-5-0) vs. Mo
+ ntel Jackson (11-2-0)\nPrelim: Carlos Ulberg (6-1-0) vs. Nicolae Negumer
+ eanu (13-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-ufc-281-adesanya-vs-pereira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281: Adesanya vs. Pereira
@@ -116,22 +126,27 @@ DTSTART:20221113T030000Z
 DTEND:20221113T060000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/91828-ufc-281\n\n---\n\nMain Event: Israel Adesany
- a (23-1-0) vs. Alex Pereira (6-1-0)\nCo-Main Event: Carla Esparza (19-6-
- 0) vs. Weili Zhang (22-3-0)\nMain Card: Dustin Poirier (28-7-0) vs. Mich
- ael Chandler (23-7-0)\nMain Card: Frankie Edgar (24-10-1) vs. Chris Guti
- errez (18-3-2)\nMain Card: Dan Hooker (21-12-0) vs. Claudio Puelles (12-
- 2-0)\nPrelim: Renato Moicano (16-5-1) vs. Brad Riddell (10-3-0)\nPrelim:
-  Dominick Reyes (12-3-0) vs. Ryan Spann (20-7-0)\nPrelim: Erin Blanchfie
- ld (9-1-0) vs. Molly McCann (13-4-0)\nPrelim: Andre Petroski (8-1-0) vs.
-  Wellington Turman (18-5-0)\nPrelim: Ottman Azaitar (13-0-0) vs. Matt Fr
- evola (9-3-1)\nPrelim: Karolina Kowalkiewicz (13-7-0) vs. Silvana Gómez 
- Juárez (11-4-0)\nPrelim: Mike Trizano (9-3-0) vs. Seung Woo Choi (10-5-0
- )\nPrelim: Julio Arce (18-5-0) vs. Montel Jackson (11-2-0)\nPrelim: Carl
- os Ulberg (6-1-0) vs. Nicolae Negumereanu (13-1-0)
+ om/fightcenter/events/91828-ufc-281\nhttp://www.sherdog.com/events/ufc-2
+ 81-adesanya-vs-pereira-94041\nhttp://en.wikipedia.org/wiki/UFC_281\nhttp
+ s://events.mixedmartialarts.com/ufc-281:72e85907-79c8-4b8a-8e36-9ea3a7cd
+ df17\nhttps://www.ufc.com/event/ufc-281\nhttp://www.ufcstats.com/event-d
+ etails/b3b6e80b7d5f8f0d\nhttps://www.bestfightodds.com/events/ufc-2529\n
+ \n---\n\nMain Event: Israel Adesanya (23-1-0) vs. Alex Pereira (6-1-0)\n
+ Co-Main Event: Carla Esparza (19-6-0) vs. Weili Zhang (22-3-0)\nMain Car
+ d: Dustin Poirier (28-7-0) vs. Michael Chandler (23-7-0)\nMain Card: Fra
+ nkie Edgar (24-10-1) vs. Chris Gutierrez (18-3-2)\nMain Card: Dan Hooker
+  (21-12-0) vs. Claudio Puelles (12-2-0)\nPrelim: Renato Moicano (16-5-1)
+  vs. Brad Riddell (10-3-0)\nPrelim: Dominick Reyes (12-3-0) vs. Ryan Spa
+ nn (20-7-0)\nPrelim: Erin Blanchfield (9-1-0) vs. Molly McCann (13-4-0)\
+ nPrelim: Andre Petroski (8-1-0) vs. Wellington Turman (18-5-0)\nPrelim: 
+ Ottman Azaitar (13-0-0) vs. Matt Frevola (9-3-1)\nPrelim: Karolina Kowal
+ kiewicz (13-7-0) vs. Silvana Gómez Juárez (11-4-0)\nPrelim: Mike Trizano
+  (9-3-0) vs. Seung Woo Choi (10-5-0)\nPrelim: Julio Arce (18-5-0) vs. Mo
+ ntel Jackson (11-2-0)\nPrelim: Carlos Ulberg (6-1-0) vs. Nicolae Negumer
+ eanu (13-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-ufc-vegas-65-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 65: Prelims
@@ -144,17 +159,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  vs. Andre Fialho (16-5-0)\nMain Card: Ion Cutelaba (16-8-1) vs. Kennedy 
  Nzechukwu (10-3-0)\nPrelim: Ricky Turcios (11-3-0) vs. Kevin Natividad (
  9-3-0)\nPrelim: Maria Oliveira (13-5-0) vs. Vanessa Demopoulos (8-4-0)\n
- Prelim: Jack Shore (16-1-0) vs. Kyler Phillips (10-2-0)\nPrelim: Cody Br
- undage (8-2-0) vs. Rodolfo Vieira (8-2-0)\nPrelim: Zhalgas Zhumagulov (1
- 4-7-0) vs. Charles Johnson (11-3-0)\nPrelim: Jennifer Maia (19-9-1) vs. 
- Maryna Moroz (11-3-0)\nPrelim: Fernie Garcia (10-2-0) vs. Brady Hiestand
-  (5-2-0)\nPrelim: Jose Johnson (15-7-0) vs. Vince Morales (11-6-0)\nPrel
- im: Natália Silva (13-5-1) vs. Tereza Bledá (6-0-0)\nPrelim: William Kni
- ght (11-4-0) vs. Marcin Prachnio (15-6-0)\nPrelim: Jack Della Maddalena 
- (12-2-0) vs. Danny Roberts (18-6-0)
+ Prelim: Cody Brundage (8-2-0) vs. Rodolfo Vieira (8-2-0)\nPrelim: Zhalga
+ s Zhumagulov (14-7-0) vs. Charles Johnson (11-3-0)\nPrelim: Jennifer Mai
+ a (19-9-1) vs. Maryna Moroz (11-3-0)\nPrelim: Fernie Garcia (10-2-0) vs.
+  Brady Hiestand (5-2-0)\nPrelim: Natália Silva (13-5-1) vs. Tereza Bledá
+  (6-0-0)\nPrelim: William Knight (11-4-0) vs. Marcin Prachnio (15-6-0)\n
+ Prelim: Jack Della Maddalena (12-2-0) vs. Danny Roberts (18-6-0)\nPrelim
+ : Chase Sherman (16-10-0) vs. Waldo Cortes-Acosta (8-0-0)\nPrelim: Miles
+  Johns (12-2-0) vs. Vince Morales (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-ufc-vegas-65-lewis-vs-spivak@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 65: Lewis vs. Spivak
@@ -167,17 +182,17 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (18-3-0) vs. Andre Fialho (16-5-0)\nMain Card: Ion Cutelaba (16-8-1) vs
  . Kennedy Nzechukwu (10-3-0)\nPrelim: Ricky Turcios (11-3-0) vs. Kevin N
  atividad (9-3-0)\nPrelim: Maria Oliveira (13-5-0) vs. Vanessa Demopoulos
-  (8-4-0)\nPrelim: Jack Shore (16-1-0) vs. Kyler Phillips (10-2-0)\nPreli
- m: Cody Brundage (8-2-0) vs. Rodolfo Vieira (8-2-0)\nPrelim: Zhalgas Zhu
- magulov (14-7-0) vs. Charles Johnson (11-3-0)\nPrelim: Jennifer Maia (19
- -9-1) vs. Maryna Moroz (11-3-0)\nPrelim: Fernie Garcia (10-2-0) vs. Brad
- y Hiestand (5-2-0)\nPrelim: Jose Johnson (15-7-0) vs. Vince Morales (11-
- 6-0)\nPrelim: Natália Silva (13-5-1) vs. Tereza Bledá (6-0-0)\nPrelim: W
- illiam Knight (11-4-0) vs. Marcin Prachnio (15-6-0)\nPrelim: Jack Della 
- Maddalena (12-2-0) vs. Danny Roberts (18-6-0)
+  (8-4-0)\nPrelim: Cody Brundage (8-2-0) vs. Rodolfo Vieira (8-2-0)\nPrel
+ im: Zhalgas Zhumagulov (14-7-0) vs. Charles Johnson (11-3-0)\nPrelim: Je
+ nnifer Maia (19-9-1) vs. Maryna Moroz (11-3-0)\nPrelim: Fernie Garcia (1
+ 0-2-0) vs. Brady Hiestand (5-2-0)\nPrelim: Natália Silva (13-5-1) vs. Te
+ reza Bledá (6-0-0)\nPrelim: William Knight (11-4-0) vs. Marcin Prachnio 
+ (15-6-0)\nPrelim: Jack Della Maddalena (12-2-0) vs. Danny Roberts (18-6-
+ 0)\nPrelim: Chase Sherman (16-10-0) vs. Waldo Cortes-Acosta (8-0-0)\nPre
+ lim: Miles Johns (12-2-0) vs. Vince Morales (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-ufc-orlando-thompson-vs-holland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Orlando: Thompson vs. Holland
@@ -201,12 +216,12 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ) vs. Philip Rowe (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-ufc-282-prochazka-vs-teixeira-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Procházka vs. Teixeira 2
-DTSTART:20221210T230000Z
-DTEND:20221211T020000Z
+DTSTART:20221211T030000Z
+DTEND:20221211T060000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/92214-ufc-282\n\n---\n\nMain Event: Jiří Procházka
@@ -225,7 +240,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  26-16-0)\nPrelim: Jay Perrin (10-6-0) vs. Raul Rosas Jr. (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-ufc-vegas-66-cannonier-vs-strickland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 66: Cannonier vs. Strickland
@@ -246,7 +261,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ino (7-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2023-01-ufc-fight-night-gastelum-vs-imavov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Gastelum vs. Imavov
@@ -264,7 +279,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ales (11-3-0) vs. Mateusz Rębecki (16-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2023-01-ufc-283@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 283
@@ -281,10 +296,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ica Andrade (23-9-0) vs. Lauren Murphy (16-5-0)\nPrelim: Terrance McKinn
  ey (13-4-0) vs. Ismael Bonfim (18-3-0)\nPrelim: Jailton Almeida (17-2-0)
   vs. Shamil Abdurakhimov (20-7-0)\nPrelim: Thiago Moisés (16-6-0) vs. Gu
- ram Kutateladze (12-3-0)
+ ram Kutateladze (12-3-0)\nPrelim: Warlley Alves (14-5-0) vs. Nicolas Dal
+ by (20-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2023-02-ufc-seoul@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Seoul
@@ -293,12 +309,14 @@ DTEND:20230205T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/93977-ufc-fight-night\n\n---\n\nMain Card: Da Un J
- ung (15-3-1) vs. Devin Clark (13-7-0)\nPrelim: Ji Yeon Kim (9-6-2) vs. M
- andy Böhm (7-2-0)\nPrelim: Yusaku Kinoshita (6-1-0) vs. Adam Fugitt (8-3
- -0)\nPrelim: Tatsuro Taira (12-0-0) vs. Jesus Santos Aguilar (8-1-0)
+ ung (15-3-1) vs. Devin Clark (13-7-0)\nMain Card: Doo Ho Choi (14-4-0) v
+ s. Kyle Nelson (13-5-0)\nPrelim: Ji Yeon Kim (9-6-2) vs. Mandy Böhm (7-2
+ -0)\nPrelim: Yusaku Kinoshita (6-1-0) vs. Adam Fugitt (8-3-0)\nPrelim: T
+ atsuro Taira (12-0-0) vs. Jesus Santos Aguilar (8-1-0)\nPrelim: Loma Loo
+ kboonmee (7-3-0) vs. Elise Reed (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2023-02-ufc-284@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 284
@@ -314,7 +332,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  elim: Joshua Culibao (10-1-1) vs. Melsik Baghdasaryan (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2023-02-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -322,14 +340,15 @@ DTSTART:20230218T230000Z
 DTEND:20230219T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/94589-ufc-fight-night\n\n---\n\nPrelim: Themba Gor
- imbo (10-3-0) vs. Billy Goff (8-2-0)\nPrelim: Nazim Sadykhov (7-1-0) vs.
-  Evan Elder (7-1-0)\nPrelim: Joe Solecki (12-3-0) vs. Benoit Saint-Denis
-  (10-1-0)\nPrelim: Juancamilo Ronderos (4-1-0) vs. Clayton Carpenter (6-
- 0-0)\nPrelim: Gerald Meerschaert (35-15-0) vs. Abus Magomedov (25-4-1)
+ om/fightcenter/events/94589-ufc-fight-night\n\n---\n\nMain Card: Jim Mil
+ ler (35-16-0) vs. Gabriel Benítez (23-10-0)\nPrelim: Themba Gorimbo (10-
+ 3-0) vs. Billy Goff (8-2-0)\nPrelim: Nazim Sadykhov (7-1-0) vs. Evan Eld
+ er (7-1-0)\nPrelim: Joe Solecki (12-3-0) vs. Benoit Saint-Denis (10-1-0)
+ \nPrelim: Juancamilo Ronderos (4-1-0) vs. Clayton Carpenter (6-0-0)\nPre
+ lim: Gerald Meerschaert (35-15-0) vs. Abus Magomedov (25-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221106T230306Z
+DTSTAMP:20221110T105936Z
 UID:2023-03-ufc-285@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 285

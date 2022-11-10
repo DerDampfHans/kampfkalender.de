@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221105T230304Z
-X-KAMPFKALENDER-HASH:99d9ede8e4240f17fceb02e835ef53f4ed3b81b9
+DTSTAMP:20221110T105935Z
+X-KAMPFKALENDER-HASH:61a2e5dba529e6940f1619e4dd65c7d217aa4940
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-walsh-vs-parsley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs Parsley
@@ -17,7 +17,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-lichtenfelsener-fight-night-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lichtenfelsener Fight Night 22
@@ -28,7 +28,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-li
  chtenfelser-fight-night-22-545
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-the-cage-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Cage: Prelims
@@ -40,7 +40,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=PRhAKkOnVi4\
  \n\n---\n\nhttps://fighting.de/events/the-cage-1/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-the-cage@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Cage
@@ -52,7 +52,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3sNlSLlgxw0\
  \n\n---\n\nhttps://fighting.de/events/the-cage-1/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-shooto-brasil-112@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 112
@@ -62,7 +62,19 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-1-biker-fight-day@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:1. Biker Fight Day
+DTSTART:20221112T160000Z
+DTEND:20221112T190000Z
+CATEGORIES:Other,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-1-
+ biker-fight-day-546\n\n---\n\nhttps://www.facebook.com/profile.php?id=10
+ 0057040766327
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-phinn-vs-belujsky@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phinn vs Belujsky
@@ -72,7 +84,25 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
+UID:2022-11-rahman-jr-vs-belfort@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rahman Jr. vs Belfort
+DTSTART:20221120T010000Z
+DTEND:20221120T040000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/93053-mf-dazn-x-series-3-rahman-jr-vs-belfort\nhttp://www.boxrec.com/e
+ n/event/862035\n\n---\n\nMain Event: Hasim Rahman Jr (12-1-0) vs. Vitor 
+ Belfort (1-0-0)\nCo-Main Event: Josh Brueckner (1-0-0) vs. Chase DeMoor 
+ (0-0-0)\nMain Card: Kenny Ojuederie (0-0-0) vs. DK Money (0-0-0)\nMain C
+ ard: Deen Bean (0-0-0) vs. Walid Muhsein (0-0-0)\nMain Card: Jessica Dub
+ an (0-0-0) vs. Avery Pongracz (0-0-0)\nMain Card: Paul Denino (0-0-0) vs
+ . Brandon Buckingham (0-0-0)\nMain Card: Malcolm Minikon (0-0-0) vs. Nic
+ k Joseph (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221110T105936Z
 UID:2022-11-shooto-brasil-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 113
@@ -82,7 +112,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-11-zepeda-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis
@@ -101,7 +131,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis/2pc
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-senshi-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 14
@@ -111,7 +141,7 @@ CATEGORIES:Other,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-14/2pc97/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T230304Z
+DTSTAMP:20221110T105936Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
