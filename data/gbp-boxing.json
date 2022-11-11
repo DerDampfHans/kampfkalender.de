@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#MunguiaCoria"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Munguia vs. Coria",
-      "time": "2022-11-20T02:00:00Z"
+      "time": "2022-11-20T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "10y9z5t7c08gu1ljnk1rlov8r4",
+        "time": "2022-11-20T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Munguia vs Coria"
+      }
     },
     "tapology": {
       "id": 94587,

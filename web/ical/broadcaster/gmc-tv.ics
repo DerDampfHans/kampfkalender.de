@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221110T105935Z
-X-KAMPFKALENDER-HASH:52b12d21fdd7004a8adfd5e46aad50f888bbfc25
+DTSTAMP:20221111T134633Z
+X-KAMPFKALENDER-HASH:0a55b5e8ce19afe16aaf0da1192415cf33d26b69
 BEGIN:VEVENT
-DTSTAMP:20221110T105936Z
+DTSTAMP:20221111T134635Z
 UID:2022-11-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,19 +18,20 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221112-olympix-g
  rappling-no-117
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T105936Z
-UID:2022-12-gmc-31@kampfkalender.de
+DTSTAMP:20221111T134635Z
+UID:2022-12-gmc-31-romanov-vs-smolik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GMC 31
+SUMMARY:GMC 31: Romanov vs. Smolik
 DTSTART:20221203T180000Z
 DTEND:20221203T210000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221203-gmc-31\n\
  n---\n\nhttps://www.tapology.com/fightcenter/events/90354-gmc-fight-nigh
- t\n\n---\n\nCo-Main Event: Sergej Kramer (5-5-0) vs. Muhammed Celebi (8-
- 7-1)\nMain Card: Sebastian Heil (6-2-0) vs. Michael Smolik (4-1-0)\nMain
-  Card: Joseph Donkor (2-1-0) vs. Saman Mozafar (2-2-0)\nMain Card: Peter
-  Nyari (2-4-0) vs. Emanuel Stenaj (2-0-0)\nMain Card: Roberto Miras (1-1
- -0) vs. Benny Bajrami (5-1-0)
+ t\n\n---\n\nMain Event: Stanislav Romanov (2-9-0) vs. Michael Smolik (4-
+ 1-0)\nCo-Main Event: Sergej Kramer (5-5-0) vs. Muhammed Celebi (8-7-1)\n
+ Main Card: Sebastian Heil (6-2-0) vs. Michael Smolik (4-1-0)\nMain Card:
+  Joseph Donkor (2-1-0) vs. Saman Mozafar (2-2-0)\nMain Card: Peter Nyari
+  (2-4-0) vs. Emanuel Stenaj (2-0-0)\nMain Card: Roberto Miras (1-1-0) vs
+ . Benny Bajrami (5-1-0)
 END:VEVENT
 END:VCALENDAR

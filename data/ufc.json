@@ -30,7 +30,7 @@
         "title": "UFC 281: Adesanya vs Pereira (Vor- & Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
-        "description": "Kommentator: Andreas Kraniotakes / Experte: Peter Sobotta"
+        "description": "Israel Adesanya setzt im Hauptkampf von UFC 281 seinen Mittelgewichtstitel aufs Spiel. Gegen Alex Pereira will Adesanya seinen Gürtel zum sechsten Mal verteidigen. Zweimal kämpften Adesanya und Pereira bereits gegeneinander, der kommende Herausforderer konnte beide Fights gewinnen – einmal sogar per Knockout. Wer überzeugt diesmal? // Kommentator: Andreas Kraniotakes / Experte: Peter Sobotta"
       }
     },
     "prelims": {
@@ -53,7 +53,7 @@
         "title": "UFC 281: Adesanya vs Pereira (Vor- & Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
-        "description": "Kommentator: Andreas Kraniotakes / Experte: Peter Sobotta"
+        "description": "Israel Adesanya setzt im Hauptkampf von UFC 281 seinen Mittelgewichtstitel aufs Spiel. Gegen Alex Pereira will Adesanya seinen Gürtel zum sechsten Mal verteidigen. Zweimal kämpften Adesanya und Pereira bereits gegeneinander, der kommende Herausforderer konnte beide Fights gewinnen – einmal sogar per Knockout. Wer überzeugt diesmal? // Kommentator: Andreas Kraniotakes / Experte: Peter Sobotta"
       }
     },
     "earlyPrelims": {
@@ -76,7 +76,7 @@
         "title": "UFC 281: Adesanya vs Pereira (Vor- & Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
-        "description": "Kommentator: Andreas Kraniotakes / Experte: Peter Sobotta"
+        "description": "Israel Adesanya setzt im Hauptkampf von UFC 281 seinen Mittelgewichtstitel aufs Spiel. Gegen Alex Pereira will Adesanya seinen Gürtel zum sechsten Mal verteidigen. Zweimal kämpften Adesanya und Pereira bereits gegeneinander, der kommende Herausforderer konnte beide Fights gewinnen – einmal sogar per Knockout. Wer überzeugt diesmal? // Kommentator: Andreas Kraniotakes / Experte: Peter Sobotta"
       }
     },
     "tapology": {
@@ -126,6 +126,9 @@
     "mainCard": {
       "title": "UFC Vegas 65: Lewis vs. Spivak",
       "time": "2022-11-19T21:00:00Z",
+      "tags": [
+        "🎙@SebastianHackl"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -142,7 +145,8 @@
         "time": "2022-11-19T21:00:00Z",
         "title": "UFC Fight Night: Lewis vs Spivac (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Sebastian Hackl"
       }
     },
     "prelims": {
@@ -178,7 +182,6 @@
         "Prelim: Jennifer Maia (19-9-1) vs. Maryna Moroz (11-3-0)",
         "Prelim: Fernie Garcia (10-2-0) vs. Brady Hiestand (5-2-0)",
         "Prelim: Natália Silva (13-5-1) vs. Tereza Bledá (6-0-0)",
-        "Prelim: William Knight (11-4-0) vs. Marcin Prachnio (15-6-0)",
         "Prelim: Jack Della Maddalena (12-2-0) vs. Danny Roberts (18-6-0)",
         "Prelim: Chase Sherman (16-10-0) vs. Waldo Cortes-Acosta (8-0-0)",
         "Prelim: Miles Johns (12-2-0) vs. Vince Morales (11-6-0)"
@@ -592,13 +595,6 @@
         }
       }
     },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
     "tapology": {
       "id": 94589,
       "time": "2023-02-18T23:00:00Z",
@@ -615,6 +611,43 @@
         "Prelim: Joe Solecki (12-3-0) vs. Benoit Saint-Denis (10-1-0)",
         "Prelim: Juancamilo Ronderos (4-1-0) vs. Clayton Carpenter (6-0-0)",
         "Prelim: Gerald Meerschaert (35-15-0) vs. Abus Magomedov (25-4-1)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-95023",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2023-02-24T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 95023,
+      "time": "2023-02-24T23:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/95023-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Prelim: Jordan Leavitt (10-2-0) vs. Victor Martinez (13-4-0)"
       ]
     }
   },
