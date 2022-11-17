@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221112T230305Z
-X-KAMPFKALENDER-HASH:26a0f66c288cc529f3b0d7b2d94924f6f9f559e2
+DTSTAMP:20221117T132206Z
+X-KAMPFKALENDER-HASH:abb6f8f1c26b9ee35e57e2d6db3df346873dbbdf
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-pfl-international-qualifier-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL International Qualifier Series
@@ -26,7 +26,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=XiKY3r3Kucw\
  ain Card: Magnus Conrado (15-3-0) vs. Fabricio Martins (16-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-enfusion-115@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 115
@@ -44,25 +44,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=OI900rDqF90\
   Bakkali vs. Mustafa Karboosh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
-UID:2022-11-glory-82@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory 82
-DTSTART:20221119T170000Z
-DTEND:20221119T200000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=l51FTyTAbcY\
- n\n---\n\nhttps://fighting.de/events/glory-82/\nhttps://www.tapology.com
- /fightcenter/events/94974-glory-82\n\n---\n\nMain Event: Antonio Plaziba
- t vs. Raul Cătinaş\nCo-Main Event: Alim Nabiev vs. Endy Semeleer\nMain C
- ard: Joilton Lutterbach vs. Mark Trijsburg\nMain Card: Itay Gershon vs. 
- Cihad Akipa\nMain Card: Jahfarr Wilnis vs. Michał Bławdziewicz\nMain Car
- d: Serkan Özçağlayan vs. Juri de Sousa\nPrelim: Imad Hadar vs. Brice Kom
- bou\nPrelim: Dennis Wosik vs. Mohamed El Mesbahi\nPrelim: Ahmad Chikh Mo
- usa vs. Mohamed el Hammouti
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-enfusion-116@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 116
@@ -81,7 +63,42 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9S50rjfNSRA\
  relim: Nina van Dalum vs. Kelly Danioko
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
+UID:2022-11-glory-82-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 82: Prelims
+DTSTART:20221119T180000Z
+DTEND:20221119T190000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/events/glory-82
+ /\nhttps://www.tapology.com/fightcenter/events/94974-glory-82\n\n---\n\n
+ Main Event: Antonio Plazibat vs. Raul Cătinaş\nCo-Main Event: Alim Nabie
+ v vs. Endy Semeleer\nMain Card: Joilton Lutterbach vs. Mark Trijsburg\nM
+ ain Card: Itay Gershon vs. Cihad Akipa\nMain Card: Jahfarr Wilnis vs. Mi
+ chał Bławdziewicz\nMain Card: Serkan Özçağlayan vs. Juri de Sousa\nPreli
+ m: Imad Hadar vs. Brice Kombou\nPrelim: Dennis Wosik vs. Mohamed El Mesb
+ ahi\nPrelim: Ahmad Chikh Mousa vs. Mohamed el Hammouti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
+UID:2022-11-glory-82@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 82
+DTSTART:20221119T190000Z
+DTEND:20221119T220000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=l51FTyTAbcY\
+ n\n---\n\nhttps://fighting.de/events/glory-82/\nhttps://www.tapology.com
+ /fightcenter/events/94974-glory-82\n\n---\n\nMain Event: Antonio Plaziba
+ t vs. Raul Cătinaş\nCo-Main Event: Alim Nabiev vs. Endy Semeleer\nMain C
+ ard: Joilton Lutterbach vs. Mark Trijsburg\nMain Card: Itay Gershon vs. 
+ Cihad Akipa\nMain Card: Jahfarr Wilnis vs. Michał Bławdziewicz\nMain Car
+ d: Serkan Özçağlayan vs. Juri de Sousa\nPrelim: Imad Hadar vs. Brice Kom
+ bou\nPrelim: Dennis Wosik vs. Mohamed El Mesbahi\nPrelim: Ahmad Chikh Mo
+ usa vs. Mohamed el Hammouti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
 UID:2022-11-pfl-finals-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Finals 1
@@ -93,18 +110,18 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Pobo9hiszr4\
  ogy.com/fightcenter/events/87841-pfl-2022-10-championships\n\n---\n\nMai
  n Event: Kayla Harrison (15-0-0) vs. Larissa Pacheco (18-4-0)\nCo-Main E
  vent: Brendan Loughnane (25-4-0) vs. Bubba Jenkins (19-5-0)\nMain Card: 
- Ante Delija (22-5-0) vs. Matheus Scheffel (17-8-0)\nMain Card: Stevie Ra
- y (25-10-0) vs. Olivier Aubin-Mercier (16-5-0)\nMain Card: Dilano Taylor
-  (10-2-0) vs. Sadibou Sy (12-6-2)\nMain Card: Omari Akhmedov (24-7-1) vs
- . Rob Wilkinson (16-2-0)\nMain Card: Julia Budd (16-4-0) vs. Aspen Ladd 
- (9-3-0)\nPrelim: Sheymon Moraes (14-6-0) vs. Marlon Moraes (23-10-1)\nPr
+ Ante Delija (22-5-0) vs. Matheus Scheffel (17-8-0)\nMain Card: Julia Bud
+ d (16-4-0) vs. Aspen Ladd (9-3-0)\nMain Card: Stevie Ray (25-10-0) vs. O
+ livier Aubin-Mercier (16-5-0)\nMain Card: Dilano Taylor (10-2-0) vs. Sad
+ ibou Sy (12-6-2)\nMain Card: Omari Akhmedov (24-7-1) vs. Rob Wilkinson (
+ 16-2-0)\nPrelim: Sheymon Moraes (14-6-0) vs. Marlon Moraes (23-10-1)\nPr
  elim: Natan Schulte (22-5-1) vs. Jeremy Stephens (29-20-0)\nPrelim: Mago
  med Magomedkerimov (30-6-0) vs. Gleison Tibau (36-16-0)\nPrelim: Dakota 
  Ditcheva (6-0-0) vs. Katherine Corogenes (2-0-0)\nPrelim: Biaggio Ali Wa
  lsh (1-1-0) vs. Tom Graesser (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-brave-cf-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 66
@@ -112,10 +129,19 @@ DTSTART:20221126T093000Z
 DTEND:20221126T123000Z
 CATEGORIES:Brave,MMA,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=QVBtFvbKquw\
- n\n---\n\nhttps://fighting.de/events/brave-cf-66/
+ n\n---\n\nhttps://fighting.de/events/brave-cf-66/\nhttps://www.tapology.
+ com/fightcenter/events/95134-brave-cf-66\n\n---\n\nMain Event: Chad Hane
+ kom (8-2-0) vs. In Jae La (11-1-1)\nMain Card: Nkosi Ndebele (5-1-0) vs.
+  Fajar (4-1-0)\nMain Card: Junior Tafa (2-0-0) vs. Nicolas Djurdjević (4
+ -3-0)\nMain Card: Zagid Gaidarov (3-1-0) vs. Abel Brites (13-7-0)\nPreli
+ m: Mohammad Farhad (12-4-0) vs. Ruel Pañales (4-0-0)\nPrelim: Dansheel M
+ oodley (7-3-0) vs. Jenel Lausa (7-7-0)\nPrelim: Gillian Goh (0-1-0) vs. 
+ Shiyin Tan (1-0-0)\nPrelim: Oloan Silalahi (1-1-0) vs. Wilem Natalex Mun
+ ster (6-2-0)\nPrelim: Achterson Rumainum (0-0-0) vs. Randi Febian (0-0-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-gemmaf-deutsche-meisterschaften@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GEMMAF Deutsche Meisterschaften
@@ -127,20 +153,20 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=8YJE12SgCBE\
  2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-bkb-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 29
-DTSTART:20221203T150000Z
-DTEND:20221203T180000Z
+DTSTART:20221203T190000Z
+DTEND:20221203T220000Z
 CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fite.tv\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/94820-bkb-29\n\n---\n\nMain Card: Brad Scott vs. J
- amie Procter\nMain Card: Paul Hilz vs. Nathan Leeson\nMain Card: John Co
- llier vs. Aaron McCallum
+DESCRIPTION:via fighting.de\nvia fite.tv: https://www.fite.tv/watch/bkb-2
+ 9/2pc9y/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/94820-bkb
+ -29\n\n---\n\nMain Card: Brad Scott vs. Jamie Procter\nMain Card: Paul H
+ ilz vs. Nathan Leeson\nMain Card: John Collier vs. Aaron McCallum
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-cage-56@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CAGE 56
@@ -151,14 +177,13 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/93597-cage-56\n\n---\n\nMain Event: Markus Rytohonka (8-4-1) vs
  . Konmon Deh (12-9-0)\nCo-Main Event: Eemil Kurhela (3-0-0) vs. Gleison 
  Macario (6-3-1)\nMain Card: Edward Walls (11-8-0) vs. Anthony Riggio (9-
- 5-0)\nMain Card: Niko Skonbäck (5-2-0) vs. Bruno Ramos (4-2-0)\nPrelim: 
- Riku Urholin (1-1-0) vs. Michele Mirabella (5-5-0)\nPrelim: Henri Lintul
- a (6-1-0) vs. Quinten DeVreught (6-4-0)\nPrelim: Ville Mankinen (4-2-0) 
- vs. PK Zadeh (3-0-0)\nPrelim: Alexander Lindgren (4-2-0) vs. Chad Griffi
- ths (6-0-0)
+ 5-0)\nMain Card: Niko Skonbäck (5-2-0) vs. Bruno Ramos (4-2-0)\nMain Car
+ d: Mikko Ahmala (7-6-0) vs. A. Gustafsson (6-1-0)\nPrelim: Henri Lintula
+  (6-1-0) vs. Quinten DeVreught (6-4-0)\nPrelim: Ville Mankinen (4-2-0) v
+ s. Rafael Hudson (6-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-nfc-contenders-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC Contenders 2
@@ -169,7 +194,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=w-68jCgTttI\
  n\n---\n\nhttps://fighting.de/events/nfc-contenders-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-enfusion-117@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 117
@@ -179,17 +204,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
-UID:2022-12-brave-cf-67@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BRAVE CF 67
-DTSTART:20221217T170000Z
-DTEND:20221217T200000Z
-CATEGORIES:Brave,MMA,fighting.de,live
-DESCRIPTION:via fighting.de
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -200,16 +215,20 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://fighting.de
  /events/nfc-11/\nhttps://www.fightevents.de/event/nfc-11/\nhttps://www.t
  apology.com/fightcenter/events/90361-nfc-11\nhttp://www.sherdog.com/even
  ts/nfc-11-national-fighting-championship-94462\n\n---\n\nMain Event: Isl
- am Dulatov (7-1-0) vs. Florim Zendeli (6-1-0)\nMain Card: Max Holzer (5-
- 0-0) vs. Mohammed Walid (6-2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. 
- Maurice Adorf (5-1-0)\nMain Card: Christian Mach (6-3-0) vs. Gökhan Aksu
-  (7-6-1)\nMain Card: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)
- \nMain Card: M. Trabelsi (11-6-0) vs. Chakir Haj Haddou (8-1-0)\nMain Ca
- rd: A. Chatzigeorgiadis (2-1-1) vs. Joel Batobo (3-0-0)\nMain Card: Pant
- elei Taran (5-4-0) vs. Davlet Karataev (2-1-0)
+ am Dulatov (7-1-0) vs. Florim Zendeli (6-1-0)\nCo-Main Event: Joilton Lu
+ tterbach (36-10-0) vs. Mihail Kotruţă (14-2-0)\nMain Card: Max Holzer (5
+ -0-0) vs. Mohammed Walid (6-2-0)\nMain Card: Arijan Topallaj (3-0-1) vs.
+  Maurice Adorf (5-1-0)\nMain Card: Christian Mach (6-3-0) vs. Gökhan Aks
+ u (7-6-1)\nMain Card: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0
+ )\nMain Card: M. Trabelsi (11-6-0) vs. Chakir Haj Haddou (8-1-0)\nMain C
+ ard: A. Chatzigeorgiadis (2-1-1) vs. Joel Batobo (3-0-0)\nMain Card: Pan
+ telei Taran (5-4-0) vs. Davlet Karataev (2-1-0)\nMain Card: Husein Kadim
+ agomaev (9-1-0) vs. Agshin Babaev (22-7-0)\nMain Card: Abubakar Sobirov 
+ (6-1-0) vs. Ali Guliev (6-0-0)\nMain Card: Issa Isakov (9-2-0) vs. Axel 
+ Sola (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -221,16 +240,19 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=1IdEZCty6Vk\
  w.fightevents.de/event/nfc-11/\nhttps://www.tapology.com/fightcenter/eve
  nts/90361-nfc-11\nhttp://www.sherdog.com/events/nfc-11-national-fighting
  -championship-94462\n\n---\n\nMain Event: Islam Dulatov (7-1-0) vs. Flor
- im Zendeli (6-1-0)\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6-
- 2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMain
-  Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain Card: Julian
-  Pennant (5-2-0) vs. Alexander Djukic (6-3-0)\nMain Card: M. Trabelsi (1
- 1-6-0) vs. Chakir Haj Haddou (8-1-0)\nMain Card: A. Chatzigeorgiadis (2-
- 1-1) vs. Joel Batobo (3-0-0)\nMain Card: Pantelei Taran (5-4-0) vs. Davl
- et Karataev (2-1-0)
+ im Zendeli (6-1-0)\nCo-Main Event: Joilton Lutterbach (36-10-0) vs. Miha
+ il Kotruţă (14-2-0)\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (6
+ -2-0)\nMain Card: Arijan Topallaj (3-0-1) vs. Maurice Adorf (5-1-0)\nMai
+ n Card: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)\nMain Card: Julia
+ n Pennant (5-2-0) vs. Alexander Djukic (6-3-0)\nMain Card: M. Trabelsi (
+ 11-6-0) vs. Chakir Haj Haddou (8-1-0)\nMain Card: A. Chatzigeorgiadis (2
+ -1-1) vs. Joel Batobo (3-0-0)\nMain Card: Pantelei Taran (5-4-0) vs. Dav
+ let Karataev (2-1-0)\nMain Card: Husein Kadimagomaev (9-1-0) vs. Agshin 
+ Babaev (22-7-0)\nMain Card: Abubakar Sobirov (6-1-0) vs. Ali Guliev (6-0
+ -0)\nMain Card: Issa Isakov (9-2-0) vs. Axel Sola (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -241,16 +263,20 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /fighting.de/events/nfc-11/\nhttps://www.fightevents.de/event/nfc-11/\nh
  ttps://www.tapology.com/fightcenter/events/90361-nfc-11\nhttp://www.sher
  dog.com/events/nfc-11-national-fighting-championship-94462\n\n---\n\nMai
- n Event: Islam Dulatov (7-1-0) vs. Florim Zendeli (6-1-0)\nMain Card: Ma
- x Holzer (5-0-0) vs. Mohammed Walid (6-2-0)\nMain Card: Arijan Topallaj 
- (3-0-1) vs. Maurice Adorf (5-1-0)\nMain Card: Christian Mach (6-3-0) vs.
-  Gökhan Aksu (7-6-1)\nMain Card: Julian Pennant (5-2-0) vs. Alexander Dj
- ukic (6-3-0)\nMain Card: M. Trabelsi (11-6-0) vs. Chakir Haj Haddou (8-1
- -0)\nMain Card: A. Chatzigeorgiadis (2-1-1) vs. Joel Batobo (3-0-0)\nMai
- n Card: Pantelei Taran (5-4-0) vs. Davlet Karataev (2-1-0)
+ n Event: Islam Dulatov (7-1-0) vs. Florim Zendeli (6-1-0)\nCo-Main Event
+ : Joilton Lutterbach (36-10-0) vs. Mihail Kotruţă (14-2-0)\nMain Card: M
+ ax Holzer (5-0-0) vs. Mohammed Walid (6-2-0)\nMain Card: Arijan Topallaj
+  (3-0-1) vs. Maurice Adorf (5-1-0)\nMain Card: Christian Mach (6-3-0) vs
+ . Gökhan Aksu (7-6-1)\nMain Card: Julian Pennant (5-2-0) vs. Alexander D
+ jukic (6-3-0)\nMain Card: M. Trabelsi (11-6-0) vs. Chakir Haj Haddou (8-
+ 1-0)\nMain Card: A. Chatzigeorgiadis (2-1-1) vs. Joel Batobo (3-0-0)\nMa
+ in Card: Pantelei Taran (5-4-0) vs. Davlet Karataev (2-1-0)\nMain Card: 
+ Husein Kadimagomaev (9-1-0) vs. Agshin Babaev (22-7-0)\nMain Card: Abuba
+ kar Sobirov (6-1-0) vs. Ali Guliev (6-0-0)\nMain Card: Issa Isakov (9-2-
+ 0) vs. Axel Sola (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -261,7 +287,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-02-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -272,7 +298,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -283,7 +309,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -295,7 +321,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  rim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-03-nfc-13-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
@@ -307,7 +333,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  rim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -319,7 +345,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  Mert Özyildirim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -330,7 +356,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-05-nfc-14-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Main Card
@@ -341,7 +367,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -352,7 +378,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -363,7 +389,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -374,7 +400,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -385,7 +411,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -396,7 +422,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -407,7 +433,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -418,7 +444,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -429,7 +455,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -440,7 +466,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

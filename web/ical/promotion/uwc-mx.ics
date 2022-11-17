@@ -4,6 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221105T041214Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221117T132206Z
+X-KAMPFKALENDER-HASH:f04d14c397c2702f6a0e7528fdf72385305f0546
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
+UID:2022-11-uwc-40-sabori-vs-sanchez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UWC 40: Sabori vs Sánchez
+DTSTART:20221125T200000Z
+DTEND:20221125T230000Z
+CATEGORIES:UWCM,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/95189-uwc-40\n\n---\n\nMain Event: Pablo Sabori (13-6-1) vs.
+  Alberto Sánchez (8-10-1)\nCo-Main Event: Adrian Luna Martinetti (10-1-0
+ ) vs. Donny Matos (25-10-0)
+END:VEVENT
 END:VCALENDAR

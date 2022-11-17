@@ -70,6 +70,9 @@
         "Prelim: Justin Grizzard vs. Andrew Potter",
         "Prelim: Sarah Shell vs. Audra Cummings",
         "Prelim: Brandon Meyer vs. Shaine Moffitt"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-33:4c1357b2-b97b-44ae-b7e9-a6f824765d42"
       ]
     }
   },
@@ -84,10 +87,44 @@
     ],
     "mainCard": {
       "title": "BKFC Newcastle: Terrill vs. Banks",
-      "time": "2022-11-26T17:00:00Z",
+      "time": "2022-11-26T20:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-uk-newcastle/2pcab/"
         }
+      },
+      "fite": {
+        "id": "2pcab",
+        "time": "2022-11-26T20:00:00Z",
+        "title": "BKFC UK, Newcastle: Mick Terrill vs Steve Banks",
+        "url": "https://www.fite.tv/watch/bkfc-uk-newcastle/2pcab/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC Newcastle: Prelims",
+      "time": "2022-11-26T19:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-uk-newcastle-prelims/2pcac/"
+        }
+      },
+      "fite": {
+        "id": "2pcac",
+        "time": "2022-11-26T19:00:00Z",
+        "title": "BKFC UK, Newcastle: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-uk-newcastle-prelims/2pcac/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -118,14 +155,49 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC34"
+      "#BKFC34",
+      "#BKFCHollywood"
     ],
     "mainCard": {
       "title": "BKFC 34: Palomino vs. Shoaff",
       "time": "2022-12-04T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-34/2pcad/"
         }
+      },
+      "fite": {
+        "id": "2pcad",
+        "time": "2022-12-04T01:00:00Z",
+        "title": "BKFC 34 Hollywood: Luis Palomino vs Tom Shoaff",
+        "url": "https://www.fite.tv/watch/bkfc-34/2pcad/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 34: Prelims",
+      "time": "2022-12-04T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-34-hollywood/2pcae/"
+        }
+      },
+      "fite": {
+        "id": "2pcae",
+        "time": "2022-12-04T00:00:00Z",
+        "title": "BKFC 34 Hollywood: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-34-hollywood/2pcae/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {

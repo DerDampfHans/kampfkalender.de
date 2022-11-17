@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221110T105935Z
-X-KAMPFKALENDER-HASH:4b93323ae538a3845a16585a8ff59bee85edf076
+DTSTAMP:20221117T132206Z
+X-KAMPFKALENDER-HASH:cc748fad034231eec9050e98783e58d0068128ca
 BEGIN:VEVENT
-DTSTAMP:20221110T105936Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-ksw-76-parnasse-vs-rajewski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 76: Parnasse vs. Rajewski
@@ -27,7 +27,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  (26-8-1)\nPrelim: Marek Samociuk (4-2-0) vs. Kamil Gawryjołek (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T105936Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-ksw-77-mamed-vs-pudzian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 77: Mamed vs. Pudzian
@@ -44,7 +44,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  0)\nPrelim: Shamad Erzanukaev (1-0-0) vs. Carl McNally (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T105936Z
+DTSTAMP:20221117T132207Z
 UID:2023-01-ksw-78-szpilka-vs-wrzosek@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 78: Szpilka vs. Wrzosek
@@ -53,6 +53,7 @@ DTEND:20230128T210000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/94030-ksw-78\n\n---\n\nMain Event: Artur Szpilka (2-0-0) vs. Arka
- diusz Wrzosek (1-0-0)
+ diusz Wrzosek (1-0-0)\nCo-Main Event: Tomasz Romanowski (17-8-0) vs. Rad
+ osław Paczuski (5-0-0)
 END:VEVENT
 END:VCALENDAR

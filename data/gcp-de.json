@@ -10,7 +10,13 @@
     ],
     "mainCard": {
       "title": "GCP 7",
-      "time": "2022-11-19T17:00:00Z"
+      "time": "2022-11-19T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gcp-7-549",
+          "freeAfter": 48
+        }
+      }
     },
     "tapology": {
       "id": 93725,
@@ -28,6 +34,9 @@
         "Main Card: Quincy Dwamena (2-2-0) vs. Aleksandar Aleksic (0-6-0)",
         "Main Card: Sene Sangone (1-0-0) vs. Dzhambulat Ustaev (1-0-0)",
         "Main Card: Enes Temiz (1-0-0) vs. Steffen Siri Breisch (0-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/gcp-7-german-cage-pioneer-7-95149"
       ]
     }
   }

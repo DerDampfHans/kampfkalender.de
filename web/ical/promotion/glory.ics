@@ -4,15 +4,32 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221112T230305Z
-X-KAMPFKALENDER-HASH:1aa18dd29c021210e64251725b2d5d968ae92c82
+DTSTAMP:20221117T132206Z
+X-KAMPFKALENDER-HASH:87b590ecc6af9138741a81b14004030643900fab
 BEGIN:VEVENT
-DTSTAMP:20221112T230305Z
+DTSTAMP:20221117T132207Z
+UID:2022-11-glory-82-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 82: Prelims
+DTSTART:20221119T180000Z
+DTEND:20221119T190000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/events/glory-82
+ /\nhttps://www.tapology.com/fightcenter/events/94974-glory-82\n\n---\n\n
+ Main Event: Antonio Plazibat vs. Raul Cătinaş\nCo-Main Event: Alim Nabie
+ v vs. Endy Semeleer\nMain Card: Joilton Lutterbach vs. Mark Trijsburg\nM
+ ain Card: Itay Gershon vs. Cihad Akipa\nMain Card: Jahfarr Wilnis vs. Mi
+ chał Bławdziewicz\nMain Card: Serkan Özçağlayan vs. Juri de Sousa\nPreli
+ m: Imad Hadar vs. Brice Kombou\nPrelim: Dennis Wosik vs. Mohamed El Mesb
+ ahi\nPrelim: Ahmad Chikh Mousa vs. Mohamed el Hammouti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
 UID:2022-11-glory-82@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 82
-DTSTART:20221119T170000Z
-DTEND:20221119T200000Z
+DTSTART:20221119T190000Z
+DTEND:20221119T220000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=l51FTyTAbcY\
  n\n---\n\nhttps://fighting.de/events/glory-82/\nhttps://www.tapology.com

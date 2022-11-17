@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221113T230305Z
-X-KAMPFKALENDER-HASH:6f19103c243a4507d880549e1019a354fb5fe9ff
+DTSTAMP:20221117T132206Z
+X-KAMPFKALENDER-HASH:69aa64ed4b1eb42a96dfe4cd97c643ad8b959fc0
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-1-biker-fight-day@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:1. Biker Fight Day
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-1-
  0057040766327
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-enfusion-115@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 115
@@ -37,40 +37,62 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=OI900rDqF90\
   Bakkali vs. Mustafa Karboosh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-one-163-akimoto-vs-petchtanong@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 163: Akimoto vs. Petchtanong
-DTSTART:20221118T113000Z
-DTEND:20221118T143000Z
+DTSTART:20221119T100000Z
+DTEND:20221119T130000Z
 CATEGORIES:ONE,MMA,Kickboxen,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91287-one-championship-163\n\n---\n\nMain Event: Hiroki Akimoto vs.
-  Petchtanong Banchamek\nCo-Main Event: Yushin Okami (37-14-0) vs. Aung L
- a N Sang (27-13-0)\nMain Card: Shinya Aoki (47-10-0) vs. Saygid Izagakhm
- aev (21-2-0)\nMain Card: Itsuki Hirata (6-1-0) vs. Seo Hee Ham (25-8-0)\
- nMain Card: Yuya Wakamatsu (15-5-0) vs. Sung Hoon Woo (9-3-0)
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=pVZnO5agCjc\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/91287-one-championship
+ -163\nhttp://www.sherdog.com/events/one-championship-one-163-akimoto-vs-
+ petchtanong-95203\nhttps://events.mixedmartialarts.com/one-championship-
+ 163:dc117d58-9e4f-4b23-aa56-e2a982706212\nhttps://www.onefc.com/events/o
+ ne163/\n\n---\n\nMain Event: Hiroki Akimoto vs. Petchtanong Banchamek\nC
+ o-Main Event: Roman Kryklya vs. Iraj Azizpour\nMain Card: Shinya Aoki (4
+ 7-10-0) vs. Saygid Izagakhmaev (21-2-0)\nMain Card: Yushin Okami (37-14-
+ 0) vs. Aung La N Sang (27-13-0)\nMain Card: Itsuki Hirata (6-1-0) vs. Se
+ o Hee Ham (25-8-0)\nMain Card: Won Il Kwon (11-4-0) vs. Mark Abelardo (2
+ 0-9-0)\nPrelim: Yuya Wakamatsu (15-5-0) vs. Sung Hoon Woo (9-3-0)\nPreli
+ m: Ahmed Mujtaba (9-2-0) vs. Abraão Amorim (9-3-0)\nPrelim: Asahi Shinag
+ awa vs. Rui Botelho\nPrelim: Bruno Chaves vs. Ahmed Krnjić\nPrelim: Mile
+ na Kaori vs. Bianca Basilio\nPrelim: Kiril Gorobets (11-2-0) vs. Bruno P
+ ucci (7-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
-UID:2022-11-glory-82@kampfkalender.de
+DTSTAMP:20221117T132207Z
+UID:2022-11-enfusion-116-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory 82
+SUMMARY:Enfusion 116: Prelims
+DTSTART:20221119T130000Z
+DTEND:20221119T180000Z
+CATEGORIES:Enfusion,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-en
+ fusion-groningen-rookies-550\n\n---\n\nhttps://fighting.de/events/enfusi
+ on-116/\nhttps://www.tapology.com/fightcenter/events/93892-enfusion-116\
+ n\n---\n\nMain Event: Sarel De Jong vs. Vittoria di Mauro\nMain Card: Ma
+ rtin Terpstra vs. Perry Reichling\nMain Card: Jorina Baars vs. Erica Bjö
+ rnestrand\nMain Card: Lorenzo Geurink vs. Seif Harnafi\nMain Card: Darry
+ l Verdonk vs. Nawid Tahoeni\nMain Card: Piet van den Berg vs. Regy Janss
+ en\nPrelim: Peter Verhaegh vs. Clayton Raven\nPrelim: Rida Bellahcen vs.
+  Cengizhan Lale\nPrelim: Dwayne Panka vs. Cwainy Sebregts\nPrelim: Anwar
+  Dira vs. Jimi Van Oeveren\nPrelim: Nina van Dalum vs. Kelly Danioko
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
+UID:2022-11-infinite-fight-night-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Infinite Fight Night 3
 DTSTART:20221119T170000Z
 DTEND:20221119T200000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=l51FTyTAbcY\
- n\n---\n\nhttps://fighting.de/events/glory-82/\nhttps://www.tapology.com
- /fightcenter/events/94974-glory-82\n\n---\n\nMain Event: Antonio Plaziba
- t vs. Raul Cătinaş\nCo-Main Event: Alim Nabiev vs. Endy Semeleer\nMain C
- ard: Joilton Lutterbach vs. Mark Trijsburg\nMain Card: Itay Gershon vs. 
- Cihad Akipa\nMain Card: Jahfarr Wilnis vs. Michał Bławdziewicz\nMain Car
- d: Serkan Özçağlayan vs. Juri de Sousa\nPrelim: Imad Hadar vs. Brice Kom
- bou\nPrelim: Dennis Wosik vs. Mohamed El Mesbahi\nPrelim: Ahmad Chikh Mo
- usa vs. Mohamed el Hammouti
+CATEGORIES:Other,Kickboxen,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-in
+ finite-fight-night-3-548\n\n---\n\nhttps://www.infinite-gala.com/event/i
+ nfinite-fight-night-no-3/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-enfusion-116@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 116
@@ -89,7 +111,58 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9S50rjfNSRA\
  relim: Nina van Dalum vs. Kelly Danioko
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
+UID:2022-11-glory-82-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 82: Prelims
+DTSTART:20221119T180000Z
+DTEND:20221119T190000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/events/glory-82
+ /\nhttps://www.tapology.com/fightcenter/events/94974-glory-82\n\n---\n\n
+ Main Event: Antonio Plazibat vs. Raul Cătinaş\nCo-Main Event: Alim Nabie
+ v vs. Endy Semeleer\nMain Card: Joilton Lutterbach vs. Mark Trijsburg\nM
+ ain Card: Itay Gershon vs. Cihad Akipa\nMain Card: Jahfarr Wilnis vs. Mi
+ chał Bławdziewicz\nMain Card: Serkan Özçağlayan vs. Juri de Sousa\nPreli
+ m: Imad Hadar vs. Brice Kombou\nPrelim: Dennis Wosik vs. Mohamed El Mesb
+ ahi\nPrelim: Ahmad Chikh Mousa vs. Mohamed el Hammouti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
+UID:2022-11-glory-82@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 82
+DTSTART:20221119T190000Z
+DTEND:20221119T220000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=l51FTyTAbcY\
+ n\n---\n\nhttps://fighting.de/events/glory-82/\nhttps://www.tapology.com
+ /fightcenter/events/94974-glory-82\n\n---\n\nMain Event: Antonio Plaziba
+ t vs. Raul Cătinaş\nCo-Main Event: Alim Nabiev vs. Endy Semeleer\nMain C
+ ard: Joilton Lutterbach vs. Mark Trijsburg\nMain Card: Itay Gershon vs. 
+ Cihad Akipa\nMain Card: Jahfarr Wilnis vs. Michał Bławdziewicz\nMain Car
+ d: Serkan Özçağlayan vs. Juri de Sousa\nPrelim: Imad Hadar vs. Brice Kom
+ bou\nPrelim: Dennis Wosik vs. Mohamed El Mesbahi\nPrelim: Ahmad Chikh Mo
+ usa vs. Mohamed el Hammouti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
+UID:2022-11-kok-world-series-riga@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KOK World Series: Riga
+DTSTART:20221126T190000Z
+DTEND:20221126T220000Z
+CATEGORIES:KOK,MMA,Kickboxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/94713-kok-world-series-in-riga\n\n---\n\nMain Event: Michał Walczak vs
+ . Kristaps Zile\nCo-Main Event: Rytis Lekys vs. Einars Goldbergs\nMain C
+ ard: Guillermo Blokland vs. Vjaceslavs Teless\nMain Card: Farshad Dereke
+ h (0-0-0) vs. Juris Zundovskis (5-2-0)\nMain Card: Jakub Kwaśniewski vs.
+  Eduards Misins\nMain Event: Farrukh Gafurov vs. Davit Faroiani\nMain Ca
+ rd: Arturs Bode (0-1-0) vs. Ilya Belski (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
 UID:2022-12-one-on-prime-video-5-de-ridder-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5: De Ridder vs. Malykhin
@@ -98,12 +171,16 @@ DTEND:20221203T050000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/91426-one-on-prime-video-5\n\n---\n\nMain Event: Reinier de Ridder 
- (16-0-0) vs. Anatoly Malykhin (11-0-0)\nMain Card: Roberto Soldić (20-3-
- 0) vs. Murad Ramazanov (11-0-0)\nMain Card: Superbon Singha Mawynn vs. C
- hingiz Allazov\nMain Card: A. Rodrigues vs. Janet Todd
+ (16-0-0) vs. Anatoly Malykhin (11-0-0)\nCo-Main Event: Superbon Singha M
+ awynn vs. Chingiz Allazov\nMain Card: Kade Ruotolo vs. Matheus Gabriel\n
+ Main Card: A. Rodrigues vs. Janet Todd\nMain Card: Roberto Soldić (20-3-
+ 0) vs. Murad Ramazanov (11-0-0)\nPrelim: Eduard Folayang (22-12-0) vs. E
+ dson Marques (10-2-0)\nPrelim: Dae Sung Park (11-3-0) vs. Lowen Tynanes 
+ (10-1-0)\nPrelim: Amber Kitchen vs. Jackie Buntan\nPrelim: Heqin Lin (15
+ -4-1) vs. Denice Zamboanga (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-enfusion-117@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 117
@@ -113,7 +190,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2022-12-oktagon-38-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38: Kincl vs. Vemola 2
@@ -128,30 +205,22 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  úš Juráček (9-2-0) vs. Alex Lohore (21-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
 DTSTART:20230114T010000Z
 DTEND:20230114T040000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+CATEGORIES:ONE,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/93660-one-on-prime-video-6\n\n---\n\nMain Card: Stamp Fairtex vs. A
- nissa Meksen
+ ents/93660-one-on-prime-video-6\n\n---\n\nMain Event: Nong-O Gaiyanghada
+ o vs. Alaverdi Ramazanov\nCo-Main Event: Stamp Fairtex vs. Anissa Meksen
+ \nMain Card: Ilias Ennahachi vs. Superlek Kiatmoo9\nMain Card: Liam Harr
+ ison vs. Pongsiri PK. Saenchai\nMain Card: Supergirl Jaroonsak vs. Ekate
+ rina Vandaryeva
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
-UID:2023-02-one-on-prime-video-7@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE on Prime Video 7
-DTSTART:20230211T010000Z
-DTEND:20230211T040000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/94524-one-on-prime-video-7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2023-02-oktagon-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 39
@@ -162,7 +231,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/94070-oktagon-39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221113T230307Z
+DTSTAMP:20221117T132207Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8

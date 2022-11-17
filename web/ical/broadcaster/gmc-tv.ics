@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221111T134633Z
-X-KAMPFKALENDER-HASH:0a55b5e8ce19afe16aaf0da1192415cf33d26b69
+DTSTAMP:20221117T132206Z
+X-KAMPFKALENDER-HASH:c0ff7096c4aa1d919da0306450703e2ed9a1818d
 BEGIN:VEVENT
-DTSTAMP:20221111T134635Z
+DTSTAMP:20221117T132207Z
 UID:2022-11-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,7 +18,18 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221112-olympix-g
  rappling-no-117
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221111T134635Z
+DTSTAMP:20221117T132207Z
+UID:2022-11-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20221119T160000Z
+DTEND:20221119T190000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220820-olympix-k
+ 1-boxen-mma-no-118
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
 UID:2022-12-gmc-31-romanov-vs-smolik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 31: Romanov vs. Smolik
@@ -32,6 +43,20 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221203-gmc-31\n\
  Main Card: Sebastian Heil (6-2-0) vs. Michael Smolik (4-1-0)\nMain Card:
   Joseph Donkor (2-1-0) vs. Saman Mozafar (2-2-0)\nMain Card: Peter Nyari
   (2-4-0) vs. Emanuel Stenaj (2-0-0)\nMain Card: Roberto Miras (1-1-0) vs
- . Benny Bajrami (5-1-0)
+ . Benny Bajrami (5-1-0)\nMain Card: Tolga Atik (0-0-0) vs. Georg Bilogre
+ vic (2-3-0)\nMain Card: Mervan Gencer (0-0-0) vs. Aria Azarnoosh (0-0-0)
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221117T132207Z
+UID:2023-05-gmc-34@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC 34
+DTSTART:20230520T160000Z
+DTEND:20230520T190000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/95172-gmc-34\n\n---\n\nMain Event: Christian Draxler (17-7-0) vs. An
+ atolij Baal (9-3-1)
 END:VEVENT
 END:VCALENDAR

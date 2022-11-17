@@ -1,5 +1,32 @@
 [
   {
+    "id": "gmc-2022-11-19",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#K1",
+      "#Kickboxen",
+      "#Boxen"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2022-11-19T16:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220820-olympix-k1-boxen-mma-no-118"
+        }
+      },
+      "gmc": {
+        "id": "220820-olympix-k1-boxen-mma-no-118",
+        "time": "2022-11-19T16:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 118)",
+        "url": "https://www.german-mma.de/events/220820-olympix-k1-boxen-mma-no-118"
+      }
+    }
+  },
+  {
     "id": "gmc-2022-12-03",
     "promotion": "GMC_DE",
     "sports": [
@@ -38,7 +65,40 @@
         "Main Card: Sebastian Heil (6-2-0) vs. Michael Smolik (4-1-0)",
         "Main Card: Joseph Donkor (2-1-0) vs. Saman Mozafar (2-2-0)",
         "Main Card: Peter Nyari (2-4-0) vs. Emanuel Stenaj (2-0-0)",
-        "Main Card: Roberto Miras (1-1-0) vs. Benny Bajrami (5-1-0)"
+        "Main Card: Roberto Miras (1-1-0) vs. Benny Bajrami (5-1-0)",
+        "Main Card: Tolga Atik (0-0-0) vs. Georg Bilogrevic (2-3-0)",
+        "Main Card: Mervan Gencer (0-0-0) vs. Aria Azarnoosh (0-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-95172",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#GMC34"
+    ],
+    "mainCard": {
+      "title": "GMC 34",
+      "time": "2023-05-20T16:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 95172,
+      "time": "2023-05-20T16:00:00Z",
+      "title": "GMC 34",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/95172-gmc-34",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Christian Draxler (17-7-0) vs. Anatolij Baal (9-3-1)"
       ]
     }
   }
