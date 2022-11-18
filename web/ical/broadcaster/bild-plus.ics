@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221111T140009Z
-X-KAMPFKALENDER-HASH:a0f3f4b8e000bd4ae48c8776c5822bc48c83c889
+DTSTAMP:20221118T112858Z
+X-KAMPFKALENDER-HASH:df34e130e78aee51bbf26a254c71d5f0175bae0d
 BEGIN:VEVENT
-DTSTAMP:20221111T140010Z
+DTSTAMP:20221118T112859Z
 UID:2022-11-ball-vs-rubio@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ball vs. Rubio
@@ -25,5 +25,21 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  0) vs. Paweł Strykowski (3-20-1)\nMain Card: Umar Khan (4-0-0) vs. Alexa
  nder Taylor (20-38-2)\nMain Card: Sean Noakes (0-0-0) vs. Petar Alexandr
  ov (4-22-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221118T112859Z
+UID:2022-11-we-love-mma-62-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 62 (Re-Live)
+DTSTART:20221119T210000Z
+DTEND:20221120T000000Z
+CATEGORIES:WLMMA,MMA,Bild+
+DESCRIPTION:via Bild+: https://www.bild.de/sport/mehr-sport/boxen/fightin
+ g-80399960.bild.html\n\n---\n\nhttps://www.tapology.com/fightcenter/even
+ ts/94264-we-love-mma-62\nhttp://www.sherdog.com/events/wlmma-we-love-mma
+ -62-92894\n\n---\n\nMain Card: Davlet Karataev (2-1-0) vs. Till Fiedler 
+ (0-0-0)\nMain Card: Nikolas Wilemski (1-1-0) vs. Bajtulav Mejerbek (0-1-
+ 0)\nMain Card: Ken Masters (0-0-0) vs. Adnan Omar (1-2-0)\nMain Card: Sa
+ jad Sharifi (1-2-0) vs. Yunus Emre Genciz (2-3-0)
 END:VEVENT
 END:VCALENDAR
