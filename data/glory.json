@@ -1,5 +1,32 @@
 [
   {
+    "id": "glory-82-weigh-ins",
+    "promo": true,
+    "promotion": "GLORY",
+    "tags": [
+      "#Glory82"
+    ],
+    "links": [
+      "https://fighting.de/events/glory-82/"
+    ],
+    "mainCard": {
+      "title": "Glory 82: Weigh Ins",
+      "time": "2022-11-18T11:00:00Z",
+      "until": "2022-11-18T12:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=OB-EHKLyIV4"
+        }
+      },
+      "youTube": {
+        "id": "OB-EHKLyIV4",
+        "time": "2022-11-18T11:00:00Z",
+        "title": "GLORY 82 Official Weigh-In",
+        "url": "https://www.youtube.com/watch?v=OB-EHKLyIV4"
+      }
+    }
+  },
+  {
     "id": "glory-82",
     "promotion": "GLORY",
     "sports": [
@@ -13,7 +40,7 @@
     ],
     "mainCard": {
       "title": "Glory 82",
-      "time": "2022-11-19T19:00:00Z",
+      "time": "2022-11-19T18:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=l51FTyTAbcY"
@@ -36,8 +63,20 @@
       "time": "2022-11-19T18:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=nPg9MbgAZyE",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "nPg9MbgAZyE",
+        "time": "2022-11-19T18:00:00Z",
+        "title": "FREE: Glory 82 Prelims | 19.11. | Bonn - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=nPg9MbgAZyE",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
       }
     },
     "tapology": {

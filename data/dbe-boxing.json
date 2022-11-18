@@ -5,10 +5,27 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#WilliamsBooth"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Broadway Boxing",
-      "time": "2022-11-23T01:00:00Z"
+      "title": "Williams vs. Booth",
+      "time": "2022-11-23T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/williams-vs-lespierre/2pcb6/"
+        }
+      },
+      "fite": {
+        "id": "2pcb6",
+        "time": "2022-11-23T00:00:00Z",
+        "title": "Broadway Boxing: Mykquan Williams vs Clarence Booth",
+        "url": "https://www.fite.tv/watch/williams-vs-lespierre/2pcb6/",
+        "price": "$19.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 94415,

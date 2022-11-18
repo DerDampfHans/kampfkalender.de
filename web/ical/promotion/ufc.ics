@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221117T132206Z
-X-KAMPFKALENDER-HASH:8325db5c9c426875084afc795502cf142764522a
+DTSTAMP:20221118T104617Z
+X-KAMPFKALENDER-HASH:f9d24f3dfd70902fcff01d883d9474d84d5296c0
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-11-ufc-281-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281: Early Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  eanu (13-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-11-ufc-281-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281: Prelims
@@ -63,7 +63,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  eanu (13-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-11-ufc-281-adesanya-vs-pereira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 281: Adesanya vs. Pereira
@@ -91,7 +91,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  eanu (13-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-11-ufc-vegas-65-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 65: Prelims
@@ -118,7 +118,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  m: Natália Silva (13-5-1) vs. Tereza Bledá (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-11-ufc-vegas-65-lewis-vs-spivak@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 65: Lewis vs. Spivak
@@ -145,12 +145,36 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)\nPrelim: Natália Silva (13-5-1) vs. Tereza Bledá (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
+UID:2022-12-ufc-orlando-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Orlando: Prelims
+DTSTART:20221204T000000Z
+DTEND:20221204T030000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/91801-ufc-fight-night\n\n---\n\nMain Event: Stephen Thompson
+  (16-6-1) vs. Kevin Holland (23-8-0)\nCo-Main Event: Rafael dos Anjos (3
+ 1-14-0) vs. Bryan Barberena (18-8-0)\nMain Card: Matheus Nicolau (18-2-1
+ ) vs. Matt Schnell (16-7-0)\nMain Card: Eryk Anders (14-7-0) vs. Kyle Da
+ ukaus (11-3-0)\nMain Card: Derek Brunson (23-8-0) vs. Jack Hermansson (2
+ 3-7-0)\nMain Card: Tai Tuivasa (15-4-0) vs. Sergei Pavlovich (16-1-0)\nP
+ relim: Tracy Cortez (10-1-0) vs. Amanda Ribas (11-3-0)\nPrelim: Francis 
+ Marshall (6-0-0) vs. Marcelo Rojo (16-8-0)\nPrelim: Natan Levy (7-1-0) v
+ s. Genaro Valdéz (10-1-0)\nPrelim: Michael Johnson (20-18-0) vs. Marc Di
+ akiese (16-5-0)\nPrelim: Clay Guida (37-22-0) vs. Scott Holtzman (14-5-0
+ )\nPrelim: Angela Hill (14-12-0) vs. Emily Ducote (12-6-0)\nPrelim: Darr
+ en Elkins (27-10-0) vs. Jonathan Pearce (13-4-0)\nPrelim: Yazmin Jauregu
+ i (9-0-0) vs. Istela Nunes (6-3-0)\nPrelim: Niko Price (15-5-0) vs. Phil
+ ip Rowe (9-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221118T104618Z
 UID:2022-12-ufc-orlando-thompson-vs-holland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Orlando: Thompson vs. Holland
-DTSTART:20221204T020000Z
-DTEND:20221204T050000Z
+DTSTART:20221204T030000Z
+DTEND:20221204T060000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/91801-ufc-fight-night\n\n---\n\nMain Event: Stephe
@@ -169,7 +193,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ) vs. Philip Rowe (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-12-ufc-282-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Early Prelims
@@ -193,7 +217,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   St. Preux (26-16-0) vs. Philipe Lins (15-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-12-ufc-282-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Prelims
@@ -217,7 +241,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   St. Preux (26-16-0) vs. Philipe Lins (15-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-12-ufc-282-prochazka-vs-teixeira-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Procházka vs. Teixeira 2
@@ -241,12 +265,12 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  im: Ovince St. Preux (26-16-0) vs. Philipe Lins (15-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-12-ufc-fight-night-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Prelims
-DTSTART:20221217T200000Z
-DTEND:20221217T230000Z
+DTSTART:20221217T210000Z
+DTEND:20221218T000000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/92365-ufc-fight-night\n\n---\n\nMain Event: Jared Cannonier 
@@ -259,15 +283,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  9-1-0) vs. Rafa García (14-3-0)\nPrelim: Said Nurmagomedov (16-2-0) vs. 
  Saidyokub Kakhramonov (10-2-0)\nPrelim: Alex Caceres (19-13-0) vs. Julia
  n Erosa (28-9-0)\nPrelim: Tafon Nchukwi (6-3-0) vs. Vitor Petrino (7-0-0
- )
+ )\nPrelim: David Dvořák (20-4-0) vs. Manel Kape (17-6-0)\nPrelim: Jake M
+ atthews (18-5-0) vs. Matt Semelsberger (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-12-ufc-vegas-66-cannonier-vs-strickland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 66: Cannonier vs. Strickland
-DTSTART:20221217T230000Z
-DTEND:20221218T020000Z
+DTSTART:20221218T000000Z
+DTEND:20221218T030000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/92365-ufc-fight-night\n\n---\n\nMain Event: Jared 
@@ -280,10 +305,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  aheshate (9-1-0) vs. Rafa García (14-3-0)\nPrelim: Said Nurmagomedov (16
  -2-0) vs. Saidyokub Kakhramonov (10-2-0)\nPrelim: Alex Caceres (19-13-0)
   vs. Julian Erosa (28-9-0)\nPrelim: Tafon Nchukwi (6-3-0) vs. Vitor Petr
- ino (7-0-0)
+ ino (7-0-0)\nPrelim: David Dvořák (20-4-0) vs. Manel Kape (17-6-0)\nPrel
+ im: Jake Matthews (18-5-0) vs. Matt Semelsberger (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-01-ufc-fight-night-gastelum-vs-imavov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Gastelum vs. Imavov
@@ -298,10 +324,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  mmy Flick (16-5-0)\nPrelim: Allan Nascimento (19-6-0) vs. Carlos Hernand
  ez (8-1-0)\nPrelim: David Onama (10-2-0) vs. Jarno Errens (13-4-1)\nPrel
  im: Daniel Argueta (8-1-0) vs. Isaac Dulgarian (5-0-0)\nPrelim: Omar Mor
- ales (11-3-0) vs. Mateusz Rębecki (16-1-0)
+ ales (11-3-0) vs. Mateusz Rębecki (16-1-0)\nPrelim: Punahele Soriano (9-
+ 2-0) vs. Roman Kopylov (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-01-ufc-283@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 283
@@ -322,7 +349,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  by (20-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-02-ufc-seoul@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Seoul
@@ -335,10 +362,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s. Kyle Nelson (13-5-0)\nPrelim: Ji Yeon Kim (9-6-2) vs. Mandy Böhm (7-2
  -0)\nPrelim: Yusaku Kinoshita (6-1-0) vs. Adam Fugitt (8-3-0)\nPrelim: T
  atsuro Taira (12-0-0) vs. Jesus Santos Aguilar (8-1-0)\nPrelim: Loma Loo
- kboonmee (7-3-0) vs. Elise Reed (6-2-0)
+ kboonmee (7-3-0) vs. Elise Reed (6-2-0)\nPrelim: Jun Yong Park (15-5-0) 
+ vs. Denis Tiuliulin (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-02-ufc-284@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 284
@@ -358,7 +386,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  nnon Ross (13-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-02-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -374,7 +402,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  lim: Gerald Meerschaert (35-15-0) vs. Abus Magomedov (25-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-02-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -386,7 +414,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vitt (10-2-0) vs. Victor Martinez (13-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-03-ufc-285@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 285

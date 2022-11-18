@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221117T132206Z
-X-KAMPFKALENDER-HASH:c0ff7096c4aa1d919da0306450703e2ed9a1818d
+DTSTAMP:20221118T104617Z
+X-KAMPFKALENDER-HASH:f4e2d818f1dcf18882bfbfc9cfdab92079b222b2
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-11-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221112-olympix-g
  rappling-no-117
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2022-11-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -29,7 +29,17 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220820-olympix-k
  1-boxen-mma-no-118
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
+UID:2022-11-olympix-k1-boxen-mma-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA: Prelims
+DTSTART:20221119T160000Z
+DTEND:20221119T160000Z
+CATEGORIES:GMC,MMA,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=h2YKr6PlLFM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221118T104618Z
 UID:2022-12-gmc-31-romanov-vs-smolik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 31: Romanov vs. Smolik
@@ -48,7 +58,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221203-gmc-31\n\
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T132207Z
+DTSTAMP:20221118T104618Z
 UID:2023-05-gmc-34@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 34
