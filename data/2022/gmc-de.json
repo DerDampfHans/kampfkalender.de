@@ -833,5 +833,51 @@
         "url": "https://www.german-mma.de/events/221112-olympix-grappling-no-117"
       }
     }
+  },
+  {
+    "id": "gmc-2022-11-19",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#K1",
+      "#Kickboxen",
+      "#Boxen"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2022-11-19T17:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220820-olympix-k1-boxen-mma-no-118"
+        }
+      },
+      "gmc": {
+        "id": "220820-olympix-k1-boxen-mma-no-118",
+        "time": "2022-11-19T16:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 118)",
+        "url": "https://www.german-mma.de/events/220820-olympix-k1-boxen-mma-no-118"
+      }
+    },
+    "prelims": {
+      "title": "OlympiX K1 / Boxen / MMA: Prelims",
+      "time": "2022-11-19T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=h2YKr6PlLFM",
+          "free": true
+        },
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220820-olympix-k1-boxen-mma-no-118"
+        }
+      },
+      "youTube": {
+        "id": "h2YKr6PlLFM",
+        "time": "2022-11-19T16:00:00Z",
+        "title": "GMC OlympiX 118 | K1 / MMA / Boxen | Prelims FREE",
+        "url": "https://www.youtube.com/watch?v=h2YKr6PlLFM"
+      }
+    }
   }
 ]
