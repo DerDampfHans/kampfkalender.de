@@ -5,12 +5,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#WhyteFranklin"
+    ],
     "mainCard": {
       "title": "Whyte vs. Franklin",
       "time": "2022-11-26T19:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "zvcv3dl1lxv514n33w8bdz3k6",
+        "time": "2022-11-26T19:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Whyte vs Franklin"
       }
     },
     "tapology": {
@@ -24,15 +34,17 @@
       ],
       "card": [
         "Main Event: Dillian Whyte (28-3-0) vs. Jermaine Franklin (21-0-0)",
-        "Main Card: Fabio Wardley (14-0-0) vs. Nathan Gorman (19-1-0)",
+        "Co-Main Event: Fabio Wardley (14-0-0) vs. Nathan Gorman (19-1-0)",
         "Main Card: Craig Richards (17-3-1) vs. Ricards Bolotniks (19-6-1)",
         "Main Card: Sandy Ryan (4-1-0) vs. Anahi Esther Sanchez (21-5-0)",
         "Main Card: Cheavon Clarke (0-0-0) vs. Jose Gregorio Ulrich (17-5-0)",
         "Main Card: Pat McCormack (0-0-0) vs. Nicolas Andino (16-5-2)",
         "Main Card: Mark Dickinson (0-0-0) vs. Gideon Jonas (0-0-0)",
-        "Main Card: George Liddard (0-0-0) vs. Nikola Matic (18-50-0)"
+        "Main Card: George Liddard (0-0-0) vs. Nikola Matic (18-50-0)",
+        "Prelim: Thomas Carty (3-0-0) vs. Pavlo Krolenko (3-9-1)"
       ],
       "links": [
+        "https://www.matchroomboxing.com/events/whyte-vs-franklin/",
         "http://www.boxrec.com/en/event/863909"
       ]
     }
@@ -44,6 +56,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Estrada vs. Chocolatito 3",
       "time": "2022-12-04T03:00:00Z",
       "broadcasters": {
@@ -65,7 +78,10 @@
         "Main Event: Juan Francisco Estrada (43-3-0) vs. Roman Gonzalez (51-3-0)",
         "Co-Main Event: Julio Cesar Martinez (18-2-0) vs. Samuel Carmona (8-0-0)",
         "Main Card: Joselito Velazquez (14-0-1) vs. Cristofer Rosales (34-6-0)",
-        "Main Card: Diego Pacheco (16-0-0) vs. Timur Kerefov (13-0-0)"
+        "Main Card: Diego Pacheco (16-0-0) vs. Ricardo Adrian Luna (23-8-2)",
+        "Main Card: Austin Williams (12-0-0) vs. Simon Madsen (11-0-0)",
+        "Main Card: Beatriz Ferreira (0-0-0) vs. Carisse Brown (7-2-0)",
+        "Prelim: Anthony Herrera (0-0-0) vs. Juan Sequeira (0-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/863036"
@@ -79,6 +95,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Warrington vs. Lopez",
       "time": "2022-12-10T19:00:00Z",
       "broadcasters": {

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221110T105935Z
-X-KAMPFKALENDER-HASH:d597b5d80b307e20f0dc1ecf0bcd1d1516b90650
+DTSTAMP:20221124T231809Z
+X-KAMPFKALENDER-HASH:ca4b497c7a9e78ec27dadcf29cae7fb0ec69a453
 BEGIN:VEVENT
-DTSTAMP:20221110T105936Z
+DTSTAMP:20221124T231809Z
 UID:2023-01-urijah-faber-s-a1-combat-7-coyne-vs-cornell@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Urijah Faber's A1 Combat 7: Coyne vs. Cornell
@@ -20,10 +20,25 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  zzie Alvarez (9-9-0) vs. Jeff Creighton (6-2-1)\nMain Card: Abdikabyl Ka
  ldar (3-1-0) vs. Joshua Dillon (4-2-0)\nMain Card: Cesar Gonzalez (4-5-0
  ) vs. Adrian Guzman (6-4-0)\nMain Card: Obadiah Johnson (1-1-0) vs. Anth
- ony Figueroa (2-0-0)\nMain Card: Randall Wallace (18-9-1) vs. Ryan Loder
-  (4-0-0)\nPrelim: James Porter (1-1-0) vs. Adam Wamsley (2-2-0)\nPrelim:
-  Chris Inocencio (2-4-0) vs. Brennon Crow (3-5-0)\nPrelim: Joseph Lee (1
- -1-0) vs. Sal Bruno (1-1-0)\nPrelim: Ignacio Ortiz (2-1-1) vs. Ernie Jua
- rez (1-1-0)
+ ony Figueroa (2-0-0)\nMain Card: Ryan Loder (4-0-0) vs. Troy Green (5-1-
+ 0)\nPrelim: James Porter (1-1-0) vs. Adam Wamsley (2-2-0)\nPrelim: Chris
+  Inocencio (2-4-0) vs. Brennon Crow (3-6-0)\nPrelim: Joseph Lee (1-1-0) 
+ vs. Sal Bruno (1-1-0)\nPrelim: Ignacio Ortiz (2-1-1) vs. Ernie Juarez (1
+ -1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221124T231809Z
+UID:2023-02-urijah-faber-s-a1-combat-8-tachi-palace@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 8: Tachi Palace
+DTSTART:20230204T020000Z
+DTEND:20230204T050000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/95463-urijah-faber-s-a1-combat-8-tachi-palace\n\n---\n\nMain
+  Card: Art Arciniega (16-7-0) vs. Sergio Quinones (14-24-0)\nMain Card: 
+ Erick Sánchez (11-6-0) vs. Salvador Becerra (8-3-1)\nMain Card: AJ Perez
+  (0-0-0) vs. Kail Melton (0-0-0)\nMain Card: Arturo Burgos (0-0-0) vs. B
+ randon Dwyer (0-0-0)
 END:VEVENT
 END:VCALENDAR

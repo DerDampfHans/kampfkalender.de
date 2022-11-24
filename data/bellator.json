@@ -14,7 +14,7 @@
     },
     "tapology": {
       "id": 92561,
-      "time": "2022-12-10T00:00:00Z",
+      "time": "2022-12-09T22:00:00Z",
       "title": "Bellator 289: Stots vs. Sabatello",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/92561-bellator-289",
@@ -26,13 +26,15 @@
         "Co-Main Event: Liz Carmouche (17-7-0) vs. Juliana Velasquez (12-1-0)",
         "Main Card: Magomed Magomedov (19-2-0) vs. Patchy Mix (16-1-0)",
         "Main Card: Dalton Rosta (7-0-0) vs. Anthony Adams (9-2-0)",
+        "Prelim: Denise Kielholtz (6-4-0) vs. Ilara Joanne (10-6-0)",
         "Prelim: Cody Law (6-1-0) vs. Cris Lencioni (9-3-0)",
-        "Prelim: Mark Lemminger (12-5-0) vs. Michael Lombardo (12-3-0)",
-        "Prelim: Chris Gonzalez (7-2-0) vs. Shamil Nikaev (10-0-0)",
-        "Prelim: Cass Bell (5-2-0) vs. Jared Scoggins (10-2-0)",
+        "Prelim: Kyle Crutchmer (9-1-0) vs. Jaleel Willis (15-4-0)",
         "Prelim: Kevin Boehm (9-5-0) vs. Kai Kamaka III (9-5-1)",
-        "Prelim: Theo Haig (1-0-0) vs. Kareem Kline (1-2-0)",
-        "Prelim: Randi Field (3-1-0) vs. Kristina Katsikis (1-2-0)"
+        "Prelim: Mark Lemminger (12-5-0) vs. Michael Lombardo (12-3-0)",
+        "Prelim: Patrick Downey (1-0-0) vs. Christian Echols (2-2-0)",
+        "Prelim: Cass Bell (5-2-0) vs. Jared Scoggins (10-2-0)",
+        "Prelim: Randi Field (3-1-0) vs. Kristina Katsikis (1-2-0)",
+        "Prelim: Theo Haig (1-0-0) vs. Kareem Kline (1-2-0)"
       ]
     }
   },
@@ -46,14 +48,13 @@
       "#BellatorVsRizin"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Bellator MMA vs. RIZIN",
       "time": "2023-01-01T01:00:00Z"
     },
     "tapology": {
       "id": 94478,
       "time": "2023-01-01T01:00:00Z",
-      "title": "Bellator MMA vs. RIZIN",
+      "title": "Bellator MMA vs. RIZIN FF",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/94478-bellator-mma-vs-rizin",
       "sports": [
@@ -69,30 +70,71 @@
     }
   },
   {
+    "id": "tapology-95280",
+    "promotion": "BELLATOR",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Bellator290"
+    ],
+    "mainCard": {
+      "title": "Bellator 290: Bader vs. Emelianenko 2",
+      "time": "2023-02-04T23:00:00Z"
+    },
+    "tapology": {
+      "id": 95280,
+      "time": "2023-02-04T23:00:00Z",
+      "title": "Bellator 290: Bader vs. Emelianenko 2",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/95280-bellator-290-bader-vs-emelianenko-2",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Ryan Bader (30-7-0) vs. Fedor Emelianenko (40-6-0)",
+        "Co-Main Event: Vadim Nemkov (16-2-0) vs. Yoel Romero (15-6-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-93271",
     "promotion": "BELLATOR",
     "sports": [
       "MMA"
     ],
     "tags": [
+      "#Bellator291",
       "#BellatorDublin"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "Bellator Dublin",
+      "title": "Bellator 291: Amosov vs. Storley",
       "time": "2023-02-24T18:00:00Z"
     },
     "tapology": {
       "id": 93271,
-      "time": "2023-02-24T18:00:00Z",
-      "title": "Bellator Dublin",
+      "time": "2023-02-25T16:30:00Z",
+      "title": "Bellator 291: Amosov vs. Storley",
+      "titleAlt": "Bellator Dublin",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/93271-bellator-dublin",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Prelim: Asaël Adjoudj (4-1-0) vs. Calum Murrie (5-3-0)"
+        "Main Event: Yaroslav Amosov (26-0-0) vs. Logan Storley (14-1-0)",
+        "Co-Main Event: Pedro Carvalho (13-6-0) vs. Jeremy Kennedy (18-3-0)",
+        "Main Card: Sinead Kavanagh (8-5-0) vs. Janay Harding (6-6-0)",
+        "Prelim: Asaël Adjoudj (4-1-0) vs. Calum Murrie (5-3-0)",
+        "Prelim: Kenny Mokhonoana (4-0-0) vs. Craig McIntosh (3-4-0)",
+        "Prelim: Oliver Enkamp (11-3-0) vs. Luca Poclit (8-1-0)",
+        "Prelim: Karl Moore (10-2-0) vs. Maciej Różański (14-3-0)",
+        "Prelim: Brian Moore (15-9-0) vs. Luca Iovine (18-8-0)",
+        "Prelim: Daniele Scatizzi (12-6-0) vs. Dmytrii Hrytsenko (7-0-0)",
+        "Prelim: Piotr Niedzielski (17-4-0) vs. Richie Smullen (9-2-1)",
+        "Prelim: Charlie Ward (10-5-0) vs. Mike Shipman (14-4-0)",
+        "Prelim: Norbert Novenyi Jr. (5-0-0) vs. Andy Manzolo (26-9-0)",
+        "Prelim: Elina Kallionidou (9-4-0) vs. Jena Bishop (4-0-0)"
       ]
     }
   }

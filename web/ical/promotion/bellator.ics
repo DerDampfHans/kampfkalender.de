@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221118T104617Z
-X-KAMPFKALENDER-HASH:f5a6033fe38650112c138e066c78c79f6e151569
+DTSTAMP:20221124T231809Z
+X-KAMPFKALENDER-HASH:fb0706fbb9259edb61a1fe23407e01861338a89c
 BEGIN:VEVENT
-DTSTAMP:20221118T104618Z
+DTSTAMP:20221124T231809Z
 UID:2022-11-bellator-288-nemkov-vs-anderson-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 288: Nemkov vs. Anderson 2
@@ -33,7 +33,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/92067-bellator-28
   (0-0-0) vs. Kory Moegenburg (2-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221118T104618Z
+DTSTAMP:20221124T231809Z
 UID:2022-12-bellator-289-stots-vs-sabatello@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 289: Stots vs. Sabatello
@@ -44,12 +44,63 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/92561-bellator-28
  9\n\n---\n\nMain Event: Raufeon Stots (18-1-0) vs. Danny Sabatello (13-1
  -0)\nCo-Main Event: Liz Carmouche (17-7-0) vs. Juliana Velasquez (12-1-0
  )\nMain Card: Magomed Magomedov (19-2-0) vs. Patchy Mix (16-1-0)\nMain C
- ard: Dalton Rosta (7-0-0) vs. Anthony Adams (9-2-0)\nPrelim: Cody Law (6
- -1-0) vs. Cris Lencioni (9-3-0)\nPrelim: Mark Lemminger (12-5-0) vs. Mic
- hael Lombardo (12-3-0)\nPrelim: Chris Gonzalez (7-2-0) vs. Shamil Nikaev
-  (10-0-0)\nPrelim: Cass Bell (5-2-0) vs. Jared Scoggins (10-2-0)\nPrelim
- : Kevin Boehm (9-5-0) vs. Kai Kamaka III (9-5-1)\nPrelim: Theo Haig (1-0
- -0) vs. Kareem Kline (1-2-0)\nPrelim: Randi Field (3-1-0) vs. Kristina K
- atsikis (1-2-0)
+ ard: Dalton Rosta (7-0-0) vs. Anthony Adams (9-2-0)\nPrelim: Denise Kiel
+ holtz (6-4-0) vs. Ilara Joanne (10-6-0)\nPrelim: Cody Law (6-1-0) vs. Cr
+ is Lencioni (9-3-0)\nPrelim: Kyle Crutchmer (9-1-0) vs. Jaleel Willis (1
+ 5-4-0)\nPrelim: Kevin Boehm (9-5-0) vs. Kai Kamaka III (9-5-1)\nPrelim: 
+ Mark Lemminger (12-5-0) vs. Michael Lombardo (12-3-0)\nPrelim: Patrick D
+ owney (1-0-0) vs. Christian Echols (2-2-0)\nPrelim: Cass Bell (5-2-0) vs
+ . Jared Scoggins (10-2-0)\nPrelim: Randi Field (3-1-0) vs. Kristina Kats
+ ikis (1-2-0)\nPrelim: Theo Haig (1-0-0) vs. Kareem Kline (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221124T231809Z
+UID:2023-01-bellator-mma-vs-rizin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator MMA vs. RIZIN
+DTSTART:20230101T010000Z
+DTEND:20230101T040000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/94478-bellator-mm
+ a-vs-rizin\n\n---\n\nMain Event: Patricio Pitbull (34-5-0) vs. Kleber Ko
+ ike Erbst (31-5-1)\nCo-Main Event: AJ McKee Jr. (19-1-0) vs. Roberto de 
+ Souza (14-1-0)\nMain Card: Juan Archuleta (26-4-0) vs. Soo Chul Kim (18-
+ 6-1)\nMain Card: Kyoji Horiguchi (30-5-0) vs. Hiromasa Ougikubo (25-6-2)
+ \nMain Card: Koji Takeda (15-3-0) vs. Gadzhi Rabadanov (18-4-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221124T231809Z
+UID:2023-02-bellator-290-bader-vs-emelianenko-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 290: Bader vs. Emelianenko 2
+DTSTART:20230204T230000Z
+DTEND:20230205T020000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/95280-bellator-29
+ 0-bader-vs-emelianenko-2\n\n---\n\nMain Event: Ryan Bader (30-7-0) vs. F
+ edor Emelianenko (40-6-0)\nCo-Main Event: Vadim Nemkov (16-2-0) vs. Yoel
+  Romero (15-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221124T231809Z
+UID:2023-02-bellator-291-amosov-vs-storley@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 291: Amosov vs. Storley
+DTSTART:20230224T180000Z
+DTEND:20230224T210000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/93271-bellator-du
+ blin\n\n---\n\nMain Event: Yaroslav Amosov (26-0-0) vs. Logan Storley (1
+ 4-1-0)\nCo-Main Event: Pedro Carvalho (13-6-0) vs. Jeremy Kennedy (18-3-
+ 0)\nMain Card: Sinead Kavanagh (8-5-0) vs. Janay Harding (6-6-0)\nPrelim
+ : Asaël Adjoudj (4-1-0) vs. Calum Murrie (5-3-0)\nPrelim: Kenny Mokhonoa
+ na (4-0-0) vs. Craig McIntosh (3-4-0)\nPrelim: Oliver Enkamp (11-3-0) vs
+ . Luca Poclit (8-1-0)\nPrelim: Karl Moore (10-2-0) vs. Maciej Różański (
+ 14-3-0)\nPrelim: Brian Moore (15-9-0) vs. Luca Iovine (18-8-0)\nPrelim: 
+ Daniele Scatizzi (12-6-0) vs. Dmytrii Hrytsenko (7-0-0)\nPrelim: Piotr N
+ iedzielski (17-4-0) vs. Richie Smullen (9-2-1)\nPrelim: Charlie Ward (10
+ -5-0) vs. Mike Shipman (14-4-0)\nPrelim: Norbert Novenyi Jr. (5-0-0) vs.
+  Andy Manzolo (26-9-0)\nPrelim: Elina Kallionidou (9-4-0) vs. Jena Bisho
+ p (4-0-0)
 END:VEVENT
 END:VCALENDAR

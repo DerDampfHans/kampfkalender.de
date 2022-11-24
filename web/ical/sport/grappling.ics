@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221119T230305Z
-X-KAMPFKALENDER-HASH:7a2e387af0989d452534d03ba8eeaeb4bb59f504
+DTSTAMP:20221124T231809Z
+X-KAMPFKALENDER-HASH:966012e0585e11167ad449bd4177f835dca16c49
 BEGIN:VEVENT
-DTSTAMP:20221119T230305Z
+DTSTAMP:20221124T231810Z
 UID:2022-11-ces-71-ghareeb-vs-castillo-jr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CES 71: Ghareeb vs. Castillo Jr.
@@ -26,7 +26,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nteith\nPrelim: Reese Aubin vs. Kyle Pavao
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221119T230305Z
+DTSTAMP:20221124T231810Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -48,7 +48,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=HGSLD-dryRw\n\n-
  lle Kelly vs. Mariia Molchanova\nPrelim: Liam Nolan vs. Eddie Abasolo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221119T230305Z
+DTSTAMP:20221124T231810Z
 UID:2022-11-shooto-brasil-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 113
@@ -58,7 +58,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221119T230305Z
+DTSTAMP:20221124T231810Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
@@ -67,5 +67,15 @@ DTEND:20221204T010000Z
 CATEGORIES:Other,Grappling,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
  
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221124T231810Z
+UID:2022-12-ufc-fight-pass-invitational-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Fight Pass Invitational 3
+DTSTART:20221216T010000Z
+DTEND:20221216T040000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR
