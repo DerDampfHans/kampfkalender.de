@@ -4,21 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221124T232720Z
-X-KAMPFKALENDER-HASH:43a34d757ba9f5bbfaf48832fe23006304f54ed2
+DTSTAMP:20221125T113627Z
+X-KAMPFKALENDER-HASH:574341474c22813b5e7ca0c6a2c7da6638ca4a50
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
-UID:2022-11-glory-82-weigh-ins@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory 82: Weigh Ins
-DTSTART:20221118T110000Z
-DTEND:20221118T120000Z
-CATEGORIES:Glory,YouTube,PR,live
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OB-EHKLyIV4\n\n-
- --\n\nhttps://fighting.de/events/glory-82/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2022-11-stekos-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Stekos Fight Night
@@ -30,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=bD3h3MqI8og\n\n-
  r/events/94979-stekos-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2022-11-one-on-prime-video-4-abbasov-vs-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 4: Abbasov vs. Lee
@@ -52,7 +41,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=HGSLD-dryRw\n\n-
  lle Kelly vs. Mariia Molchanova\nPrelim: Liam Nolan vs. Eddie Abasolo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2022-11-one-163-akimoto-vs-petchtanong@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 163: Akimoto vs. Petchtanong
@@ -76,7 +65,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=pVZnO5agCjc\n\n-
  ucci (7-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2022-11-olympix-k1-boxen-mma-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA: Prelims
@@ -88,7 +77,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=h2YKr6PlLFM\nvia
  -118
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2022-11-schlagwort-podcast-189@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 189
@@ -98,17 +87,27 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
+UID:2022-11-black-friday-show@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Black Friday Show
+DTSTART:20221125T170000Z
+DTEND:20221125T190000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=XwWpKSAGAJk
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221125T113627Z
 UID:2022-11-schlagwort-podcast-190@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast 190
 DTSTART:20221127T170000Z
 DTEND:20221127T190000Z
-CATEGORIES:Schlagwort,YouTube,kostenlos
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2022-12-one-on-prime-video-5-de-ridder-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5: De Ridder vs. Malykhin
@@ -126,7 +125,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -4-1) vs. Denice Zamboanga (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2022-12-one-164-pacio-vs-brooks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 164: Pacio vs. Brooks
@@ -144,7 +143,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  m: Jenelyn Olsim (6-3-0) vs. Bo Meng (19-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2023-01-one-on-prime-video-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6
@@ -159,7 +158,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rina Vandaryeva
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2023-02-one-on-prime-video-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 7
@@ -171,7 +170,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Fabricio de Andrade (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T232721Z
+DTSTAMP:20221125T113627Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8
