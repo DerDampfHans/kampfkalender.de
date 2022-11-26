@@ -3873,5 +3873,56 @@
         "http://www.boxrec.com/en/event/862035"
       ]
     }
+  },
+  {
+    "id": "fight-night-mannheim-2022-11-26",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#GerMMAny",
+      "#Mannheim",
+      "#HANUMANMA",
+      "#FIGHTNIGHTMA"
+    ],
+    "links": [
+      "https://fight-night-mannheim.com/"
+    ],
+    "mainCard": {
+      "title": "Fight Night Mannheim",
+      "time": "2022-11-26T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-fight-night-mannheim-xv-551"
+        }
+      }
+    }
+  },
+  {
+    "id": "fightpass-229184",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#Shooto",
+      "#Shooto113",
+      "@shooto_brasil"
+    ],
+    "mainCard": {
+      "title": "Shooto Brasil 113",
+      "time": "2022-11-26T23:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 229184,
+        "time": "2022-11-26T23:00:00Z",
+        "title": "Shooto Brazil 113"
+      }
+    }
   }
 ]
