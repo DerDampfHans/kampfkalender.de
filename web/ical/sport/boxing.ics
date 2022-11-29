@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221127T230305Z
-X-KAMPFKALENDER-HASH:7d8a091a2394d1575aeac35c45b483345ce4e61f
+DTSTAMP:20221129T150621Z
+X-KAMPFKALENDER-HASH:500c88ac2de6273c01670dce3c4ec40699777435
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-williams-vs-booth@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Williams vs. Booth
@@ -24,7 +24,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/williams-vs-lespierre/
   (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-whyte-vs-franklin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Whyte vs. Franklin
@@ -43,7 +43,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  8-50-0)\nPrelim: Thomas Carty (3-0-0) vs. Pavlo Krolenko (3-9-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-zepeda-vs-prograis-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis: Prelims
@@ -67,7 +67,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis-pre
  Osmar Olmos Hernandez (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-zepeda-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Prograis
@@ -89,5 +89,43 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/zepeda-vs-prograis/2pc
  ooy (3-0-0) vs. Terrance Jarmon (3-1-0)\nPrelim: Alejandro Reyes (9-0-0)
   vs. Daniel Perales (12-24-2)\nPrelim: Amado Vargas (4-0-0) vs. Osmar Ol
  mos Hernandez (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221129T150622Z
+UID:2022-12-fury-vs-chisora@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury vs. Chisora
+DTSTART:20221203T190000Z
+DTEND:20221203T220000Z
+CATEGORIES:Other,Boxen,Bild+,live
+DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
+ en/tyson-fury-gegen-dereck-chisora-boxen-im-live-stream-hier-sehen-82010
+ 884.bild.html\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9426
+ 2-fury-vs-chisora\nhttp://www.boxrec.com/en/event/863847\n\n---\n\nMain 
+ Event: Tyson Fury (32-0-1) vs. Dereck Chisora (33-12-0)\nCo-Main Event: 
+ Daniel Dubois (18-1-0) vs. Kevin Lerena (28-1-0)\nMain Card: Yvan Mendy 
+ (47-5-1) vs. Denis Berinchyk (16-0-0)\nPrelim: Karol Itauma (8-0-0) vs. 
+ Vladimir Belujsky (12-5-1)\nPrelim: Isaac Lowe (21-2-3) vs. Sandeep Sing
+ h Bhatti (8-4-0)\nPrelim: Royston Barney Smith (0-0-0) vs. Cruz Perez (3
+ -2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221129T150622Z
+UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Estrada vs. Chocolatito 3
+DTSTART:20221204T010000Z
+DTEND:20221204T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92728-estrada-vs-chocolatito-3\nhttp://www.boxrec.com/en/event/863036\
+ n\n---\n\nMain Event: Juan Francisco Estrada (43-3-0) vs. Roman Gonzalez
+  (51-3-0)\nCo-Main Event: Julio Cesar Martinez (18-2-0) vs. Samuel Carmo
+ na (8-0-0)\nMain Card: Joselito Velazquez (14-0-1) vs. Cristofer Rosales
+  (34-6-0)\nMain Card: Diego Pacheco (16-0-0) vs. Ricardo Adrian Luna (23
+ -8-2)\nMain Card: Austin Williams (12-0-0) vs. Simon Madsen (11-0-0)\nMa
+ in Card: Beatriz Ferreira (0-0-0) vs. Carisse Brown (7-2-0)\nMain Card: 
+ Marc Castro (8-0-0) vs. Maikol Lopez (14-3-0)\nPrelim: Anthony Herrera (
+ 0-0-0) vs. Juan Sequeira (0-0-0)
 END:VEVENT
 END:VCALENDAR

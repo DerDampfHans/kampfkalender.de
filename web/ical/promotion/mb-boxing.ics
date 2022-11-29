@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221125T113627Z
-X-KAMPFKALENDER-HASH:1e39893937fb36a4990d3c71a1e3d63710fcc08f
+DTSTAMP:20221129T150621Z
+X-KAMPFKALENDER-HASH:d52c124d84f57df9d92423ee76433041147c0d0c
 BEGIN:VEVENT
-DTSTAMP:20221125T113627Z
+DTSTAMP:20221129T150621Z
 UID:2022-11-whyte-vs-franklin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Whyte vs. Franklin
@@ -24,5 +24,24 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ) vs. Nicolas Andino (16-5-2)\nMain Card: Mark Dickinson (0-0-0) vs. Gid
  eon Jonas (0-0-0)\nMain Card: George Liddard (0-0-0) vs. Nikola Matic (1
  8-50-0)\nPrelim: Thomas Carty (3-0-0) vs. Pavlo Krolenko (3-9-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221129T150621Z
+UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Estrada vs. Chocolatito 3
+DTSTART:20221204T010000Z
+DTEND:20221204T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92728-estrada-vs-chocolatito-3\nhttp://www.boxrec.com/en/event/863036\
+ n\n---\n\nMain Event: Juan Francisco Estrada (43-3-0) vs. Roman Gonzalez
+  (51-3-0)\nCo-Main Event: Julio Cesar Martinez (18-2-0) vs. Samuel Carmo
+ na (8-0-0)\nMain Card: Joselito Velazquez (14-0-1) vs. Cristofer Rosales
+  (34-6-0)\nMain Card: Diego Pacheco (16-0-0) vs. Ricardo Adrian Luna (23
+ -8-2)\nMain Card: Austin Williams (12-0-0) vs. Simon Madsen (11-0-0)\nMa
+ in Card: Beatriz Ferreira (0-0-0) vs. Carisse Brown (7-2-0)\nMain Card: 
+ Marc Castro (8-0-0) vs. Maikol Lopez (14-3-0)\nPrelim: Anthony Herrera (
+ 0-0-0) vs. Juan Sequeira (0-0-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221126T230304Z
-X-KAMPFKALENDER-HASH:54cd34daa3722df803e9c86d5f469eca3d78c4ae
+DTSTAMP:20221129T150621Z
+X-KAMPFKALENDER-HASH:31227c61f9097c57c6841e160980ba127068285b
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-fight-night-mannheim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Night Mannheim
@@ -18,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fi
  ght-night-mannheim-xv-551\n\n---\n\nhttps://fight-night-mannheim.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-kok-world-series-riga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK World Series: Riga
@@ -34,25 +34,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  rd: Arturs Bode (0-1-0) vs. Ilya Belski (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
-UID:2022-12-one-on-prime-video-5-de-ridder-vs-malykhin@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE on Prime Video 5: De Ridder vs. Malykhin
-DTSTART:20221203T020000Z
-DTEND:20221203T050000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/91426-one-on-prime-video-5\n\n---\n\nMain Event: Reinier de Ridder 
- (16-0-0) vs. Anatoly Malykhin (11-0-0)\nCo-Main Event: Superbon Singha M
- awynn vs. Chingiz Allazov\nMain Card: Kade Ruotolo vs. Matheus Gabriel\n
- Main Card: A. Rodrigues vs. Janet Todd\nMain Card: Roberto Soldić (20-3-
- 0) vs. Murad Ramazanov (11-0-0)\nPrelim: Eduard Folayang (22-12-0) vs. E
- dson Marques (10-2-0)\nPrelim: Dae Sung Park (11-3-0) vs. Lowen Tynanes 
- (10-1-0)\nPrelim: Amber Kitchen vs. Jackie Buntan\nPrelim: Heqin Lin (15
- -4-1) vs. Denice Zamboanga (8-2-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2022-12-enfusion-117@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 117
@@ -62,7 +44,7 @@ CATEGORIES:Enfusion,Kickboxen,fighting.de,live
 DESCRIPTION:via fighting.de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2022-12-oktagon-38-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38: Kincl vs. Vemola 2
@@ -78,22 +60,22 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  -5-0) vs. Jan Malach (14-12-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
-UID:2023-01-one-on-prime-video-6@kampfkalender.de
+DTSTAMP:20221129T150622Z
+UID:2023-01-one-on-prime-video-6-superbon-vs-allazov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE on Prime Video 6
+SUMMARY:ONE on Prime Video 6: Superbon vs. Allazov
 DTSTART:20230114T010000Z
 DTEND:20230114T040000Z
 CATEGORIES:ONE,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/93660-one-on-prime-video-6\n\n---\n\nMain Event: Nong-O Gaiyanghada
- o vs. Alaverdi Ramazanov\nCo-Main Event: Stamp Fairtex vs. Anissa Meksen
- \nMain Card: Ilias Ennahachi vs. Superlek Kiatmoo9\nMain Card: Liam Harr
- ison vs. Pongsiri PK. Saenchai\nMain Card: Supergirl Jaroonsak vs. Ekate
- rina Vandaryeva
+ ents/93660-one-on-prime-video-6\n\n---\n\nMain Event: Superbon Singha Ma
+ wynn vs. Chingiz Allazov\nCo-Main Event: Ilias Ennahachi vs. Superlek Ki
+ atmoo9\nMain Card: Stamp Fairtex vs. Anissa Meksen\nMain Card: Liam Harr
+ ison vs. Pongsiri PK. Saenchai\nMain Card: Anna Jaroonsak vs. Ekaterina 
+ Vandaryeva\nMain Card: Rodtang Jitmuangnon vs. Daniel Puertas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2023-02-oktagon-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 39
@@ -104,7 +86,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/94070-oktagon-39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8

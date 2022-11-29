@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221118T104617Z
-X-KAMPFKALENDER-HASH:ed990a6ea9528e20dd7f14fe343a1c8c52b6a70a
+DTSTAMP:20221129T150621Z
+X-KAMPFKALENDER-HASH:53ecdcafabfd344c5e7ff09607f47110bda46387
 BEGIN:VEVENT
-DTSTAMP:20221118T104618Z
+DTSTAMP:20221129T150621Z
 UID:2022-12-eternal-mma-72@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 72
@@ -25,5 +25,27 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (0-1-0)\nPrelim: Luker Herman (0-0-0) vs. Victor Khuu (0-0-0)\nPrelim: J
  esse Ukich (2-0-0) vs. Justin Woods (2-0-0)\nPrelim: Tate Kenna (0-0-0) 
  vs. Dan Smith (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221129T150621Z
+UID:2023-02-eternal-mma-73@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 73
+DTSTART:20230211T090000Z
+DTEND:20230211T120000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/95618-eternal-mma-73
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221129T150621Z
+UID:2023-03-eternal-mma-74@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 74
+DTSTART:20230318T060000Z
+DTEND:20230318T090000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/95619-eternal-mma-74
 END:VEVENT
 END:VCALENDAR

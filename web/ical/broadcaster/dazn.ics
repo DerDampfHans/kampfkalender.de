@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221127T230305Z
-X-KAMPFKALENDER-HASH:0f9a390b57abf064f79f7db7855d6fc17edd2c68
+DTSTAMP:20221129T150621Z
+X-KAMPFKALENDER-HASH:bb2894e614d97eb3fbb158b1663978bcf68ba990
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-kok-world-series-riga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK World Series: Riga
@@ -23,7 +23,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  rd: Arturs Bode (0-1-0) vs. Ilya Belski (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-whyte-vs-franklin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Whyte vs. Franklin
@@ -42,7 +42,26 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  8-50-0)\nPrelim: Thomas Carty (3-0-0) vs. Pavlo Krolenko (3-9-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
+UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Estrada vs. Chocolatito 3
+DTSTART:20221204T010000Z
+DTEND:20221204T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/92728-estrada-vs-chocolatito-3\nhttp://www.boxrec.com/en/event/863036\
+ n\n---\n\nMain Event: Juan Francisco Estrada (43-3-0) vs. Roman Gonzalez
+  (51-3-0)\nCo-Main Event: Julio Cesar Martinez (18-2-0) vs. Samuel Carmo
+ na (8-0-0)\nMain Card: Joselito Velazquez (14-0-1) vs. Cristofer Rosales
+  (34-6-0)\nMain Card: Diego Pacheco (16-0-0) vs. Ricardo Adrian Luna (23
+ -8-2)\nMain Card: Austin Williams (12-0-0) vs. Simon Madsen (11-0-0)\nMa
+ in Card: Beatriz Ferreira (0-0-0) vs. Carisse Brown (7-2-0)\nMain Card: 
+ Marc Castro (8-0-0) vs. Maikol Lopez (14-3-0)\nPrelim: Anthony Herrera (
+ 0-0-0) vs. Juan Sequeira (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221129T150622Z
 UID:2022-12-ufc-orlando-thompson-vs-holland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Orlando: Thompson vs. Holland
@@ -71,7 +90,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ojo (16-8-0)\nPrelim: Yazmin Jauregui (9-0-0) vs. Istela Nunes (6-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-12-ufc-282-b-achowicz-vs-ankalaev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Błachowicz vs. Ankalaev
@@ -82,19 +101,19 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/92214-ufc-282\n\n---\n\nMain Event: Jan Błachowicz
   (29-9-0) vs. Magomed Ankalaev (18-1-0)\nCo-Main Event: Paddy Pimblett (
  19-3-0) vs. Jared Gordon (19-5-0)\nMain Card: Santiago Ponzinibbio (28-6
- -0) vs. Robbie Lawler (29-16-0)\nMain Card: Bryce Mitchell (15-0-0) vs. 
- Ilia Topuria (12-0-0)\nPrelim: Edmen Shahbazyan (11-3-0) vs. Dalcha Lung
- iambula (11-5-0)\nPrelim: Billy Quarantillo (16-4-0) vs. Alexander Herna
- ndez (13-5-0)\nPrelim: Darren Till (18-4-1) vs. Dricus Du Plessis (17-2-
- 0)\nPrelim: Erik Silva (9-1-0) vs. TJ Brown (16-9-0)\nPrelim: Jairzinho 
- Rozenstruik (12-4-0) vs. Chris Daukaus (12-5-0)\nPrelim: Chris Curtis (2
- 9-9-0) vs. Joaquin Buckley (15-5-0)\nPrelim: Daniel da Silva (11-4-0) vs
- . Vinicius Salvador (14-4-0)\nPrelim: Jay Perrin (10-6-0) vs. Raul Rosas
-  Jr. (6-0-0)\nPrelim: Ovince St. Preux (26-16-0) vs. Antonio Trócoli (12
- -3-0)
+ -0) vs. Robbie Lawler (29-16-0)\nMain Card: Darren Till (18-4-1) vs. Dri
+ cus Du Plessis (17-2-0)\nMain Card: Bryce Mitchell (15-0-0) vs. Ilia Top
+ uria (12-0-0)\nPrelim: Edmen Shahbazyan (11-3-0) vs. Dalcha Lungiambula 
+ (11-5-0)\nPrelim: Billy Quarantillo (16-4-0) vs. Alexander Hernandez (13
+ -5-0)\nPrelim: Erik Silva (9-1-0) vs. TJ Brown (16-9-0)\nPrelim: Jairzin
+ ho Rozenstruik (12-4-0) vs. Chris Daukaus (12-5-0)\nPrelim: Chris Curtis
+  (29-9-0) vs. Joaquin Buckley (15-5-0)\nPrelim: Daniel da Silva (11-4-0)
+  vs. Vinicius Salvador (14-4-0)\nPrelim: Jay Perrin (10-6-0) vs. Raul Ro
+ sas Jr. (6-0-0)\nPrelim: Ovince St. Preux (26-16-0) vs. Antonio Trócoli 
+ (12-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2022-12-ufc-vegas-66-cannonier-vs-strickland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 66: Cannonier vs. Strickland
@@ -117,7 +136,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  nPrelim: Cheyanne Vlismas (7-2-0) vs. Cory McKenna (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-01-ufc-vegas-67-gastelum-vs-imavov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 67: Gastelum vs. Imavov
@@ -138,7 +157,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  v (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-01-ufc-283@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 283
@@ -159,7 +178,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ze (12-3-0)\nPrelim: Warlley Alves (14-5-0) vs. Nicolas Dalby (20-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-02-ufc-seoul@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Seoul
@@ -176,7 +195,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Denis Tiuliulin (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-02-ufc-284@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 284
@@ -196,7 +215,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  nnon Ross (13-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-02-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -213,7 +232,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  rald Meerschaert (35-15-0) vs. Abus Magomedov (25-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-02-ufc-fight-night-krylov-vs-spann@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Krylov vs. Spann
@@ -227,7 +246,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  erez (7-2-0)\nPrelim: Ode Osbourne (11-5-0) vs. Denys Bondar (16-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-03-ufc-285@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 285
@@ -240,7 +259,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  icci (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-03-ufc-fight-night-smith-vs-hill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Smith vs. Hill
@@ -252,7 +271,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Event: Anthony Smith (36-17-0) vs. Jamahal Hill (11-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221127T230307Z
+DTSTAMP:20221129T150622Z
 UID:2023-03-ufc-286@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 286

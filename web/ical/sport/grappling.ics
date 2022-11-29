@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221126T230304Z
-X-KAMPFKALENDER-HASH:050f371bdb6b8de44e0b9420338b735fa712d8f9
+DTSTAMP:20221129T150621Z
+X-KAMPFKALENDER-HASH:fed782972d93299afbbb590eec929319d7af5aec
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2022-11-shooto-brasil-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 113
@@ -17,7 +17,28 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
+UID:2022-12-one-on-prime-video-5-de-ridder-vs-malykhin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE on Prime Video 5: De Ridder vs. Malykhin
+DTSTART:20221203T010000Z
+DTEND:20221203T040000Z
+CATEGORIES:ONE,MMA,Muay Thai,Grappling,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=TbCqowbofCI\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/91426-one-on-prime-vid
+ eo-5\nhttp://www.sherdog.com/events/one-championship-one-on-prime-video-
+ 5-de-ridder-vs-malykhin-94094\nhttps://events.mixedmartialarts.com/one-o
+ n-prime-video-5:7a86f91d-38d6-4a20-8754-47468b970945\nhttps://www.onefc.
+ com/events/oneonprimevideo5/\n\n---\n\nMain Event: Reinier de Ridder (16
+ -0-0) vs. Anatoly Malykhin (11-0-0)\nMain Card: Kade Ruotolo vs. Matheus
+  Gabriel\nMain Card: A. Rodrigues vs. Janet Todd\nMain Card: Roberto Sol
+ dić (20-3-0) vs. Murad Ramazanov (11-0-0)\nPrelim: Eduard Folayang (22-1
+ 2-0) vs. Edson Marques (10-2-0)\nPrelim: Dae Sung Park (11-3-0) vs. Lowe
+ n Tynanes (10-1-0)\nPrelim: Amber Kitchen vs. Jackie Buntan\nPrelim: Heq
+ in Lin (15-4-1) vs. Denice Zamboanga (8-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221129T150622Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
@@ -28,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T230305Z
+DTSTAMP:20221129T150622Z
 UID:2022-12-ufc-fight-pass-invitational-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 3
