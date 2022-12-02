@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221129T150621Z
-X-KAMPFKALENDER-HASH:fed782972d93299afbbb590eec929319d7af5aec
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:08ed59f0b6862a37e4d4cc4f75340eab61b6dd2a
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-11-shooto-brasil-113@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brasil 113
@@ -17,7 +17,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-one-on-prime-video-5-de-ridder-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 5: De Ridder vs. Malykhin
@@ -31,14 +31,15 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=TbCqowbofCI\n\n-
  n-prime-video-5:7a86f91d-38d6-4a20-8754-47468b970945\nhttps://www.onefc.
  com/events/oneonprimevideo5/\n\n---\n\nMain Event: Reinier de Ridder (16
  -0-0) vs. Anatoly Malykhin (11-0-0)\nMain Card: Kade Ruotolo vs. Matheus
-  Gabriel\nMain Card: A. Rodrigues vs. Janet Todd\nMain Card: Roberto Sol
- dić (20-3-0) vs. Murad Ramazanov (11-0-0)\nPrelim: Eduard Folayang (22-1
- 2-0) vs. Edson Marques (10-2-0)\nPrelim: Dae Sung Park (11-3-0) vs. Lowe
- n Tynanes (10-1-0)\nPrelim: Amber Kitchen vs. Jackie Buntan\nPrelim: Heq
- in Lin (15-4-1) vs. Denice Zamboanga (8-2-0)
+  Gabriel\nMain Card: Roberto Soldić (20-3-0) vs. Murad Ramazanov (11-0-0
+ )\nMain Card: Amber Kitchen vs. Jackie Buntan\nMain Card: Dae Sung Park 
+ (11-3-0) vs. Lowen Tynanes (10-1-0)\nPrelim: Eduard Folayang (22-12-0) v
+ s. Edson Marques (10-2-0)\nPrelim: Tye Ruotolo vs. Marat Gafurov\nPrelim
+ : Oumar Kane (4-1-0) vs. Zhasur Mirzamukhamedov (6-0-0)\nPrelim: Heqin L
+ in (15-4-1) vs. Denice Zamboanga (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
@@ -49,13 +50,54 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
+UID:2022-12-nfc-grappling-kraniotakes-vs-doussis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC Grappling: Kraniotakes vs. Doussis
+DTSTART:20221210T080000Z
+DTEND:20221210T160000Z
+CATEGORIES:NFC,Grappling,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=bOqUB3NPt20\
+ n\n---\n\nhttps://fighting.de/events/nfc-grappling-1/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
 UID:2022-12-ufc-fight-pass-invitational-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 3
 DTSTART:20221216T010000Z
 DTEND:20221216T040000Z
 CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-shooto-brasil-114@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shooto Brasil 114
+DTSTART:20221216T230000Z
+DTEND:20221217T020000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-cjjw-anderson-vs-faber@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CJJW: Anderson vs Faber
+DTSTART:20221218T220000Z
+DTEND:20221219T010000Z
+CATEGORIES:EBI,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-fury-pro-grappling-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury Pro Grappling 6
+DTSTART:20221230T010000Z
+DTEND:20221230T040000Z
+CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

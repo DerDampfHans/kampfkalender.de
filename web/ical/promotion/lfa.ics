@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221129T150621Z
-X-KAMPFKALENDER-HASH:939733ae20f418992e8175060fbcba3dce502a61
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:a4fca14cf41e125d1608fb1afce00650f2760a00
 BEGIN:VEVENT
-DTSTAMP:20221129T150621Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-lfa-148-leyva-vs-brown@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 148: Leyva vs. Brown
@@ -16,13 +16,23 @@ DTEND:20221210T060000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/94842-lfa-148-leyva-vs-brown\n\n---\n\nMain Event: Alfonso L
- eyva (6-0-0) vs. Chris Brown (9-4-0)\nCo-Main Event: J. Horth Wessels (5
- -0-0) vs. Sabina Mazo (9-4-0)\nMain Card: Chase Gibson (11-6-0) vs. Jess
-  Martinez (6-0-0)\nMain Card: Richie Miranda (5-0-0) vs. James Wilson (4
- -1-0)\nMain Card: Jeffrey Craig (3-0-0) vs. Ernesto Rodriguez (4-1-0)\nM
- ain Card: Danny Silva (6-0-0) vs. Canaan Kawaihae (6-2-0)\nPrelim: Dione
-  Barbosa (3-2-0) vs. Mariana Piccolo (1-1-0)\nPrelim: Joseph Dorado (3-0
- -0) vs. Eduardo Penha (1-0-0)\nPrelim: Ethyn Ewing (0-2-0) vs. Xavier Mo
- reno (0-0-0)\nPrelim: Cody Davis (5-1-0) vs. Alvaro Prado (5-1-0)
+ eyva (6-0-0) vs. Chris Brown (9-4-0)\nCo-Main Event: Jamey-Lyn Horth (5-
+ 0-0) vs. Sabina Mazo (9-4-0)\nMain Card: Chase Gibson (11-6-0) vs. Jess 
+ Martinez (6-0-0)\nMain Card: Richie Miranda (5-0-0) vs. James Wilson (4-
+ 1-0)\nMain Card: Jeffrey Craig (3-0-0) vs. Ernesto Rodriguez (4-1-0)\nMa
+ in Card: Dione Barbosa (3-2-0) vs. Mariana Piccolo (1-1-0)\nMain Card: D
+ anny Silva (6-0-0) vs. Canaan Kawaihae (6-2-0)\nPrelim: Joseph Dorado (3
+ -0-0) vs. Eduardo Penha (1-0-0)\nPrelim: Ethyn Ewing (0-2-0) vs. Xavier 
+ Moreno (0-0-0)\nPrelim: Cody Davis (5-1-0) vs. Alvaro Prado (5-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2023-01-lfa-149@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 149
+DTSTART:20230107T020000Z
+DTEND:20230107T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

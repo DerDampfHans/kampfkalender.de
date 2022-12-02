@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221124T231809Z
-X-KAMPFKALENDER-HASH:235e7ca1f4ff9476d5707cb23c158bd32bb4a23f
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:ceb742c905833b36a0868e6f17ddd13286a8ad8f
 BEGIN:VEVENT
-DTSTAMP:20221124T231810Z
+DTSTAMP:20221202T224108Z
 UID:2022-11-kok-world-series-riga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK World Series: Riga
@@ -21,5 +21,27 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  h (0-0-0) vs. Juris Zundovskis (5-3-0)\nMain Card: Jakub Kwaśniewski vs.
   Eduards Misins\nMain Event: Farrukh Gafurov vs. Davit Faroiani\nMain Ca
  rd: Arturs Bode (0-1-0) vs. Ilya Belski (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-kok-106-in-germany@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KOK 106 in Germany
+DTSTART:20221204T160000Z
+DTEND:20221204T190000Z
+CATEGORIES:KOK,MMA,Kickboxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/95738-kok-106-in-germany
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-kok-dynamite@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KOK Dynamite
+DTSTART:20221222T050000Z
+DTEND:20221222T080000Z
+CATEGORIES:KOK,MMA,Kickboxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/95737-kok-dynamite
 END:VEVENT
 END:VCALENDAR

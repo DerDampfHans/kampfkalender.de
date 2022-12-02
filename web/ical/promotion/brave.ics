@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221124T231809Z
-X-KAMPFKALENDER-HASH:59e21394085a082b4cb2f90b7296a89074c89221
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:97047ff41db055e081b283a325d8f42855965f52
 BEGIN:VEVENT
-DTSTAMP:20221124T231809Z
+DTSTAMP:20221202T224108Z
 UID:2022-11-brave-cf-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 66
@@ -30,14 +30,18 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=QVBtFvbKquw\
  Febian (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221124T231809Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-brave-cf-67@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BRAVE CF 67
-DTSTART:20221212T150000Z
-DTEND:20221212T180000Z
+DTSTART:20221212T143000Z
+DTEND:20221212T173000Z
 CATEGORIES:Brave,MMA,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/95459-brave-cf-67
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=sWIQfMDZlRM\
+ n\n---\n\nhttps://fighting.de/events/brave-cf-67/\nhttps://www.tapology.
+ com/fightcenter/events/95459-brave-cf-67\n\n---\n\nMain Event: Eldar Eld
+ arov (13-1-0) vs. Denis Maher (8-0-0)\nMain Card: Yanis Ghemmouri (10-1-
+ 0) vs. Bair Shtepin (10-5-0)\nMain Card: Mahmoud Fawzy Sebie (2-2-0) vs.
+  Wajdi Missaoui (2-0-0)
 END:VEVENT
 END:VCALENDAR

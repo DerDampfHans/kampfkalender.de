@@ -4,6 +4,24 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:d74ef955ee1fed7012b4882bc619244aa9e50a0a
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-fighting-force-10@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fighting Force 10
+DTSTART:20221210T010000Z
+DTEND:20221210T040000Z
+CATEGORIES:FFP,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/94151-fighting-force-10\n\n---\n\nMain Event: Lex McMahon (1
+ -0-0) vs. L. Garcia Diaz (1-2-0)\nCo-Main Event: Ty Johnson (10-6-0) vs.
+  Jefry Roy (6-4-0)\nCo-Main Event: Miguel Angel Sosa (5-1-0) vs. Frankli
+ n Mireles (2-6-0)\nMain Card: Luis Peralta (5-3-0) vs. Vincent Van Gogh 
+ (2-2-0)\nMain Card: Lucas Marte (6-3-0) vs. Roggan Gracie (0-0-0)\nMain 
+ Card: Micaias Ureña (7-3-0) vs. Andres Cordero Cordova (14-12-0)\nPrelim
+ : Yancarlos Toribio (2-3-0) vs. Andre Bermudez (1-0-0)\nPrelim: Varoni N
+ uñez (2-1-0) vs. Rafi Peralta (2-0-0)
+END:VEVENT
 END:VCALENDAR

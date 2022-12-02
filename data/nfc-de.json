@@ -1,5 +1,41 @@
 [
   {
+    "id": "nfc-2022-12-10",
+    "promotion": "NFC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#NFCGrappling",
+      "#Krefeld"
+    ],
+    "links": [
+      "https://fighting.de/events/nfc-grappling-1/"
+    ],
+    "mainCard": {
+      "title": "NFC Grappling: Kraniotakes vs. Doussis",
+      "time": "2022-12-10T08:00:00Z",
+      "until": "2022-12-10T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=bOqUB3NPt20",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "bOqUB3NPt20",
+        "time": "2022-12-10T08:00:00Z",
+        "title": "FREE: NFC GRAPPLING | Kraniotakes vs Doussis | 10.12. - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=bOqUB3NPt20",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    }
+  },
+  {
     "id": "nfc-2022-12-16",
     "promotion": "NFC_DE",
     "sports": [
@@ -29,9 +65,39 @@
         "tags": [
           "#MMA",
           "#Fighting",
-          "#free"
+          "#Kampfsport"
         ]
       }
+    }
+  },
+  {
+    "id": "tapology-95643",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "NFC Contenders",
+      "time": "2022-12-16T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC Contenders: Prelims",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 95643,
+      "time": "2022-12-16T17:00:00Z",
+      "title": "NFC Contenders",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/95643-nfc-contenders"
     }
   },
   {

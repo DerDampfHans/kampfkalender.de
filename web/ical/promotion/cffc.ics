@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221129T150621Z
-X-KAMPFKALENDER-HASH:f6e7e6daefa4c5e1a1da8aab228ed256fecbd3c9
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:f2ed66018021769095d5885049d6d9d5a7491d8c
 BEGIN:VEVENT
-DTSTAMP:20221129T150621Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-cffc-116-torres-vs-mathison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 116: Torres vs. Mathison
-DTSTART:20221217T000000Z
-DTEND:20221217T030000Z
+DTSTART:20221217T020000Z
+DTEND:20221217T050000Z
 CATEGORIES:CFFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/94763-cffc-116\n\n---\n\nMain Card: Eddy Torres (4-0-0) vs. 
@@ -23,5 +23,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ) vs. Chris Vasil (5-3-0)\nMain Card: Kyle Kahler (0-0-0) vs. Mat Caraca
  ppa (0-1-0)\nMain Card: John Douma (7-2-0) vs. Vilson Ndregjoni (5-3-0)\
  nMain Card: BJ Young (5-3-0) vs. Keith Speed (5-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-fury-pro-grappling-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury Pro Grappling 6
+DTSTART:20221230T010000Z
+DTEND:20221230T040000Z
+CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

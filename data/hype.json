@@ -3,12 +3,23 @@
     "id": "tapology-95365",
     "promotion": "HYPE",
     "sports": [
-      "MMA"
+      "MMA",
+      "MUAY_THAI",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#RumbleInTheCage",
+      "#Bremen"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Hype FC: Rumble in The Cage",
-      "time": "2022-12-03T17:00:00Z"
+      "time": "2022-12-03T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-hype-fc-2022-554",
+          "freeAfter": 48
+        }
+      }
     },
     "tapology": {
       "id": 95365,

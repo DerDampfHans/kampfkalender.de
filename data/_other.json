@@ -1,5 +1,24 @@
 [
   {
+    "id": "fight24-555",
+    "promotion": "_OTHER",
+    "tags": [
+      "#Griesheim",
+      "#K1",
+      "#Kickboxen"
+    ],
+    "mainCard": {
+      "title": "It's Fight Time 10",
+      "time": "2022-12-03T17:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-its-fight-time-10-555",
+          "freeAfter": 48
+        }
+      }
+    }
+  },
+  {
     "id": "fite-2pc97",
     "promotion": "_OTHER",
     "sports": [
@@ -40,7 +59,8 @@
     ],
     "mainCard": {
       "title": "Fury vs. Chisora 3",
-      "time": "2022-12-03T19:00:00Z",
+      "time": "2022-12-03T18:00:00Z",
+      "until": "2022-12-03T23:00:00Z",
       "broadcasters": {
         "BILD_PLUS": {
           "url": "https://www.bild.de/bild-plus/sport/mehr-sport/boxen/tyson-fury-gegen-dereck-chisora-boxen-im-live-stream-hier-sehen-82010884.bild.html"
@@ -49,7 +69,7 @@
     },
     "tapology": {
       "id": 94262,
-      "time": "2022-12-03T20:00:00Z",
+      "time": "2022-12-03T18:00:00Z",
       "title": "Fury vs. Chisora",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/94262-fury-vs-chisora",
@@ -62,7 +82,7 @@
         "Main Card: Yvan Mendy (47-5-1) vs. Denis Berinchyk (16-0-0)",
         "Prelim: Karol Itauma (8-0-0) vs. Vladimir Belujsky (12-5-1)",
         "Prelim: Isaac Lowe (21-2-3) vs. Sandeep Singh Bhatti (8-4-0)",
-        "Prelim: Royston Barney Smith (0-0-0) vs. Cruz Perez (3-2-0)"
+        "Prelim: Royston Barney Smith (0-0-0) vs. Cruz Perez (3-3-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/863847"
@@ -120,6 +140,55 @@
         "id": 230112,
         "time": "2022-12-16T01:00:00Z",
         "title": "UFC FIGHT PASS INVITATIONAL 3"
+      }
+    }
+  },
+  {
+    "id": "fightpass-230899",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#Shooto",
+      "#Shooto114",
+      "@shooto_brasil"
+    ],
+    "mainCard": {
+      "title": "Shooto Brasil 114",
+      "time": "2022-12-16T23:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 230899,
+        "time": "2022-12-16T23:00:00Z",
+        "title": "SHOOTO BRAZIL 114"
+      }
+    }
+  },
+  {
+    "id": "fightpass-230903",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#FCC32",
+      "@fccmma"
+    ],
+    "mainCard": {
+      "title": "Full Contact Contender 32",
+      "time": "2022-12-17T18:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 230903,
+        "time": "2022-12-17T18:00:00Z",
+        "title": "FCC 32"
       }
     }
   }

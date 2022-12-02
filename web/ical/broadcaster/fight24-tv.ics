@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221129T150621Z
-X-KAMPFKALENDER-HASH:d796257986e2d20b206b4ef768e69c6d121ea4a3
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:1ad8d1c946c33c672a1f1841a3fee7a5e7c64677
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-11-fight-night-mannheim@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Night Mannheim
@@ -18,7 +18,70 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fi
  ght-night-mannheim-xv-551\n\n---\n\nhttps://fight-night-mannheim.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
+UID:2022-12-fair-fc-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fair FC 13
+DTSTART:20221203T170000Z
+DTEND:20221203T200000Z
+CATEGORIES:Fair,MMA,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
+ ir-fc-13-556
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-hype-fc-rumble-in-the-cage@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hype FC: Rumble in The Cage
+DTSTART:20221203T170000Z
+DTEND:20221203T200000Z
+CATEGORIES:Hype,MMA,Muay Thai,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-hy
+ pe-fc-2022-554\n\n---\n\nhttps://www.tapology.com/fightcenter/events/953
+ 65-hype-fc-rumble-in-the-cage\n\n---\n\nMain Card: Alireza Rasuli (1-0-0
+ ) vs. Tobias Balzer (3-1-0)\nMain Card: Ramzan Bakis (0-0-0) vs. Javed T
+ aimoor (0-0-0)\nMain Card: Sultanov Sirac (0-0-0) vs. Azad Tuncel (1-0-0
+ )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-it-s-fight-time-10@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:It's Fight Time 10
+DTSTART:20221203T170000Z
+DTEND:20221203T200000Z
+CATEGORIES:Other,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-it
+ s-fight-time-10-555
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-vendetta-fight-night-31@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vendetta Fight Night 31
+DTSTART:20221203T170000Z
+DTEND:20221203T200000Z
+CATEGORIES:Vendetta,MMA,Kickboxen,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ve
+ ndetta-31-553\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9296
+ 6-vendetta-fight-night-32\nhttp://www.sherdog.com/events/iron-fist-gym-v
+ ienna-vendetta-fight-nights-32-94805\n\n---\n\nMain Event: Ahmet Şimşek 
+ vs. Manuel Bilić\nCo-Main Event: Sado Ucar (17-7-0) vs. Kirill Medvedovs
+ ki (13-11-0)\nMain Card: Vahit Ipek vs. Vaggelis Soumpakas\nMain Card: W
+ esam Alhajjo Alhamada (1-3-0) vs. Komron Rafiew (2-1-0)\nMain Card: Erig
+ lent Prizreni (1-0-0) vs. Alex Lupcșa (0-0-0)\nMain Card: Emir-Can Al (0
+ -4-0) vs. Benjamin Begić (0-0-0)\nMain Card: Saša Jovanović vs. Miroslav
+  Dubova\nMain Card: Marc Reifberger (5-1-0) vs. Veselin Dimitrov (11-19-
+ 0)\nMain Card: Dejan Bubic vs. Patryk Sztorc\nMain Card: Patrick Spirk (
+ 4-2-0) vs. Srdan Zaric (0-0-0)\nMain Card: Adrian Babela vs. Mario Marin
+ ković\nMain Card: Ali Delawarzada (2-1-0) vs. Súveges Bánk (0-0-0)\nMain
+  Card: Andrei Varga (0-0-0) vs. Andi Gorchkanov (0-0-0)\nMain Card: Alex
+ ander Angerer (0-0-0) vs. Nikola Ugarković (0-6-0)\nMain Card: Taulant B
+ ektashi vs. Vladimir Vujadinov\nMain Card: Marawan Elkholy vs. Mihajlo R
+ ajic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
 UID:2022-12-nfc-11-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Prelims
@@ -41,7 +104,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://fighting.de
  ) vs. Davlet Karataev (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-nfc-11-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11: Main Card
@@ -65,7 +128,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=1IdEZCty6Vk\
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-nfc-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 11
@@ -88,7 +151,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  Taran (5-4-0) vs. Davlet Karataev (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -99,7 +162,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-02-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -110,7 +173,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-02-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12
@@ -121,7 +184,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94571-nfc-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -133,7 +196,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  rim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-03-nfc-13-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
@@ -145,7 +208,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  rim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -157,7 +220,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  Mert Özyildirim (10-4-0) vs. Max Coga (24-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -168,7 +231,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-05-nfc-14-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Main Card
@@ -179,7 +242,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -190,7 +253,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -201,7 +264,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -212,7 +275,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -223,7 +286,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -234,7 +297,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -245,7 +308,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -256,7 +319,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\nvia fight24.tv\n\n---\n\nhttps:/
  /www.tapology.com/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -267,7 +330,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -278,7 +341,7 @@ DESCRIPTION:via fighting.de\nvia fight24.tv\n\n---\n\nhttps://www.tapolog
  y.com/fightcenter/events/94584-nfc-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

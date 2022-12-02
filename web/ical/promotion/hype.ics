@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220412T054306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:67954493e5759032f8d6f0ebc15b5a7891476587
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-hype-fc-rumble-in-the-cage@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hype FC: Rumble in The Cage
+DTSTART:20221203T170000Z
+DTEND:20221203T200000Z
+CATEGORIES:Hype,MMA,Muay Thai,Kickboxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-hy
+ pe-fc-2022-554\n\n---\n\nhttps://www.tapology.com/fightcenter/events/953
+ 65-hype-fc-rumble-in-the-cage\n\n---\n\nMain Card: Alireza Rasuli (1-0-0
+ ) vs. Tobias Balzer (3-1-0)\nMain Card: Ramzan Bakis (0-0-0) vs. Javed T
+ aimoor (0-0-0)\nMain Card: Sultanov Sirac (0-0-0) vs. Azad Tuncel (1-0-0
+ )
+END:VEVENT
 END:VCALENDAR

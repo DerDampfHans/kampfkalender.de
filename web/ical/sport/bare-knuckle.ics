@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221129T150621Z
-X-KAMPFKALENDER-HASH:08aec4eeaa496eb24ed215abdf59cea26d076eb3
+DTSTAMP:20221202T224108Z
+X-KAMPFKALENDER-HASH:c636fc7a1c394e6d5a6718017fa57707013c006d
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-11-bkfc-newcastle-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-uk-newcastle-prel
  unningham
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-11-bkfc-newcastle-terrill-vs-banks@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Newcastle: Terrill vs. Banks
@@ -47,85 +47,109 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-uk-newcastle/2pca
  m
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-bkb-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 29
 DTSTART:20221203T190000Z
 DTEND:20221203T220000Z
 CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fite.tv: https://www.fite.tv/watch/bkb-2
- 9/2pc9y/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/94820-bkb
- -29\n\n---\n\nMain Card: Brad Scott vs. Jamie Procter\nMain Card: Paul H
- ilz vs. Nathan Leeson\nMain Card: John Collier vs. Aaron McCallum\nMain 
- Card: Reece Murray vs. Tony Lafferty\nMain Card: Chad Kelly vs. Marko Ma
- rtinjak\nMain Card: Mark Tiffen vs. Zdeněk Pernica\nMain Card: Gavin Cur
- ragh vs. Luke Nevin\nMain Card: Will Cairns vs. George Hillyard\nMain Ca
- rd: Sandy Robb vs. Mpampis Klados\nMain Card: Smudger Smith vs. Garrett 
- Hutchin\nMain Card: Daniel Lerwell vs. Simon Szynkiewicz\nMain Card: Jod
- y Meikle vs. Richie Leak
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=SixusygGAio\
+ nvia fite.tv: https://www.fite.tv/watch/bkb-29/2pc9y/\n\n---\n\nhttps://
+ fighting.de/events/bkb-29/\nhttps://www.tapology.com/fightcenter/events/
+ 94820-bkb-29\n\n---\n\nMain Card: Brad Scott vs. Jamie Procter\nMain Car
+ d: Paul Hilz vs. Nathan Leeson\nMain Card: John Collier vs. Aaron McCall
+ um\nMain Card: Reece Murray vs. Tony Lafferty\nMain Card: Chad Kelly vs.
+  Marko Martinjak\nMain Card: Mark Tiffen vs. Zdeněk Pernica\nMain Card: 
+ Gavin Curragh vs. Luke Nevin\nMain Card: Will Cairns vs. George Hillyard
+ \nMain Card: Sandy Robb vs. Mpampis Klados\nMain Card: Smudger Smith vs.
+  Garrett Hutchin\nMain Card: Daniel Lerwell vs. Simon Szynkiewicz\nMain 
+ Card: Jody Meikle vs. Richie Leak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-bkfc-34-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Prelims
 DTSTART:20221204T000000Z
-DTEND:20221204T010000Z
+DTEND:20221204T020000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-34-hollywood/2pca
  e/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/94156-bkfc-34-p
- alomino-vs-shoaff\n\n---\n\nMain Event: Luis Palomino vs. Tom Shoaff\nCo
+ alomino-vs-shoaff\nhttps://events.mixedmartialarts.com/bkfc-34:4c838a7e-
+ e183-4407-bc82-21fa5b31da93\n\n---\n\nMain Event: Luis Palomino vs. Tom 
+ Shoaff\nCo-Main Event: Francesco Ricchi vs. David Mundell\nMain Card: Ho
+ ward Davis vs. Louie Lopez\nMain Card: Blake Davis vs. William Dunkle\nM
+ ain Card: Chris Sarro vs. Stephen Townsel\nMain Card: Freddy Masabo vs. 
+ Shawn Moffett\nMain Card: Bryan Duran vs. Kobe Bowen\nMain Card: Jake Yo
+ ung vs. Rene Rodriguez\nMain Card: Jeremy Smith vs. Leo Valdivia\nMain C
+ ard: Christine Vicens vs. Jocelyn Jones-Lybarger\nMain Card: Guillermo P
+ erez vs. John Parker\nPrelim: Matt Russo vs. Brett Lowry\nPrelim: Joshua
+ h Alvarez vs. Glendel Futrell\nPrelim: Alberto Blas vs. Jeremiah Potts
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221202T224108Z
+UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 34: Palomino vs. Shoaff
+DTSTART:20221204T020000Z
+DTEND:20221204T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-34/2pcad/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/94156-bkfc-34-palomino-vs
+ -shoaff\nhttps://events.mixedmartialarts.com/bkfc-34:4c838a7e-e183-4407-
+ bc82-21fa5b31da93\n\n---\n\nMain Event: Luis Palomino vs. Tom Shoaff\nCo
  -Main Event: Francesco Ricchi vs. David Mundell\nMain Card: Howard Davis
   vs. Louie Lopez\nMain Card: Blake Davis vs. William Dunkle\nMain Card: 
  Chris Sarro vs. Stephen Townsel\nMain Card: Freddy Masabo vs. Shawn Moff
  ett\nMain Card: Bryan Duran vs. Kobe Bowen\nMain Card: Jake Young vs. Re
  ne Rodriguez\nMain Card: Jeremy Smith vs. Leo Valdivia\nMain Card: Chris
- tine Vicens vs. Jocelyn Jones-Lybarger\nPrelim: Matt Russo vs. Brett Low
- ry\nPrelim: Joshuah Alvarez vs. Glendel Futrell\nPrelim: Alberto Blas vs
- . Jeremiah Potts
+ tine Vicens vs. Jocelyn Jones-Lybarger\nMain Card: Guillermo Perez vs. J
+ ohn Parker\nPrelim: Matt Russo vs. Brett Lowry\nPrelim: Joshuah Alvarez 
+ vs. Glendel Futrell\nPrelim: Alberto Blas vs. Jeremiah Potts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
-UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
+DTSTAMP:20221202T224108Z
+UID:2022-12-bkfc-thailand-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC 34: Palomino vs. Shoaff
-DTSTART:20221204T010000Z
-DTEND:20221204T040000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-34/2pcad/\n\n---\
- n\nhttps://www.tapology.com/fightcenter/events/94156-bkfc-34-palomino-vs
- -shoaff\n\n---\n\nMain Event: Luis Palomino vs. Tom Shoaff\nCo-Main Even
- t: Francesco Ricchi vs. David Mundell\nMain Card: Howard Davis vs. Louie
-  Lopez\nMain Card: Blake Davis vs. William Dunkle\nMain Card: Chris Sarr
- o vs. Stephen Townsel\nMain Card: Freddy Masabo vs. Shawn Moffett\nMain 
- Card: Bryan Duran vs. Kobe Bowen\nMain Card: Jake Young vs. Rene Rodrigu
- ez\nMain Card: Jeremy Smith vs. Leo Valdivia\nMain Card: Christine Vicen
- s vs. Jocelyn Jones-Lybarger\nPrelim: Matt Russo vs. Brett Lowry\nPrelim
- : Joshuah Alvarez vs. Glendel Futrell\nPrelim: Alberto Blas vs. Jeremiah
-  Potts
+SUMMARY:BKFC Thailand 4: Prelims
+DTSTART:20221210T093000Z
+DTEND:20221210T103000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-4-prelim
+ s/2pcd9/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/95431-bkf
+ c-thailand-4\nhttps://events.mixedmartialarts.com/bkfc:49049373-ad8b-443
+ f-9ad2-7a979762dad3\n\n---\n\nMain Event: Rolando Dy vs. Apisit Sangmuan
+ g\nCo-Main Event: Tai Emery vs. Chisakan Ariphipat\nMain Card: Gligor St
+ ojanov vs. Gilbert Patrocinio\nMain Card: Watcharin Sae-be vs. Saw Htoo 
+ Aung\nMain Card: Gustaf Cedermalm vs. Alex Castro\nMain Card: Sohanne Be
+ ngana vs. Krisana Sirsang\nMain Card: Poorya Mokhtari vs. Joemil Miado\n
+ Main Card: Aem Ratha vs. Rithi Chaichit\nPrelim: Sarun Srioumboo vs. Vic
+ tor Booty\nPrelim: Partho Ghosh vs. Pov Chor\nPrelim: Anubhav Verma vs. 
+ Thearith Ouch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2022-12-bkfc-thailand-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC: Thailand 4
-DTSTART:20221210T093000Z
-DTEND:20221210T123000Z
+SUMMARY:BKFC Thailand 4
+DTSTART:20221210T103000Z
+DTEND:20221210T133000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/95431-bkfc-thailand-4\nhttps://events.mixedmartialarts.com/bkfc:490
- 49373-ad8b-443f-9ad2-7a979762dad3\n\n---\n\nMain Event: Rolando Dy vs. A
- pisit Sangmuang\nCo-Main Event: Tai Emery vs. Chisakan Ariphipat\nMain C
- ard: Gligor Stojanov vs. Gilbert Patrocinio\nMain Card: Watcharin Sae-be
-  vs. Saw Htoo Aung\nMain Card: Gustaf Cedermalm vs. Alex Castro\nMain Ca
- rd: Sohanne Bengana vs. Krisana Sirsang\nMain Card: Poorya Mokhtari vs. 
- Joemil Miado\nMain Card: Aem Ratha vs. Rithi Chaichit\nPrelim: Sarun Sri
- oumboo vs. Victor Booty\nPrelim: Partho Ghosh vs. Pov Chor\nPrelim: Anub
- hav Verma vs. Thearith Ouch
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-4/2pcd8/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/95431-bkfc-thaila
+ nd-4\nhttps://events.mixedmartialarts.com/bkfc:49049373-ad8b-443f-9ad2-7
+ a979762dad3\n\n---\n\nMain Event: Rolando Dy vs. Apisit Sangmuang\nCo-Ma
+ in Event: Tai Emery vs. Chisakan Ariphipat\nMain Card: Gligor Stojanov v
+ s. Gilbert Patrocinio\nMain Card: Watcharin Sae-be vs. Saw Htoo Aung\nMa
+ in Card: Gustaf Cedermalm vs. Alex Castro\nMain Card: Sohanne Bengana vs
+ . Krisana Sirsang\nMain Card: Poorya Mokhtari vs. Joemil Miado\nMain Car
+ d: Aem Ratha vs. Rithi Chaichit\nPrelim: Sarun Srioumboo vs. Victor Boot
+ y\nPrelim: Partho Ghosh vs. Pov Chor\nPrelim: Anubhav Verma vs. Thearith
+  Ouch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221129T150622Z
+DTSTAMP:20221202T224108Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai

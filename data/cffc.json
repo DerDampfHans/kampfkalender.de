@@ -11,10 +11,15 @@
     ],
     "mainCard": {
       "title": "CFFC 116: Torres vs. Mathison",
-      "time": "2022-12-17T00:00:00Z",
+      "time": "2022-12-17T02:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 230901,
+        "time": "2022-12-17T02:00:00Z",
+        "title": "CAGE FURY FC 116"
       }
     },
     "tapology": {
@@ -37,6 +42,26 @@
         "Main Card: John Douma (7-2-0) vs. Vilson Ndregjoni (5-3-0)",
         "Main Card: BJ Young (5-3-0) vs. Keith Speed (5-5-0)"
       ]
+    }
+  },
+  {
+    "id": "fightpass-230907",
+    "promotion": "CFFC",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "Fury Pro Grappling 6",
+      "time": "2022-12-30T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 230907,
+        "time": "2022-12-30T01:00:00Z",
+        "title": "FURY PRO GRAPPLING 6"
+      }
     }
   }
 ]

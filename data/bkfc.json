@@ -11,7 +11,7 @@
     ],
     "mainCard": {
       "title": "BKFC 34: Palomino vs. Shoaff",
-      "time": "2022-12-04T01:00:00Z",
+      "time": "2022-12-04T02:00:00Z",
       "broadcasters": {
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-34/2pcad/"
@@ -19,7 +19,7 @@
       },
       "fite": {
         "id": "2pcad",
-        "time": "2022-12-04T01:00:00Z",
+        "time": "2022-12-04T02:00:00Z",
         "title": "BKFC 34 Hollywood: Luis Palomino vs Tom Shoaff",
         "url": "https://www.fite.tv/watch/bkfc-34/2pcad/",
         "price": "$19.99",
@@ -53,7 +53,7 @@
     },
     "tapology": {
       "id": 94156,
-      "time": "2022-12-03T20:00:00Z",
+      "time": "2022-12-04T00:00:00Z",
       "title": "BKFC 34: Palomino vs. Shoaff",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/94156-bkfc-34-palomino-vs-shoaff",
@@ -68,9 +68,13 @@
         "Main Card: Jake Young vs. Rene Rodriguez",
         "Main Card: Jeremy Smith vs. Leo Valdivia",
         "Main Card: Christine Vicens vs. Jocelyn Jones-Lybarger",
+        "Main Card: Guillermo Perez vs. John Parker",
         "Prelim: Matt Russo vs. Brett Lowry",
         "Prelim: Joshuah Alvarez vs. Glendel Futrell",
         "Prelim: Alberto Blas vs. Jeremiah Potts"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-34:4c838a7e-e183-4407-bc82-21fa5b31da93"
       ]
     }
   },
@@ -84,11 +88,46 @@
       "#BKFCThailand4"
     ],
     "mainCard": {
-      "title": "BKFC: Thailand 4",
+      "title": "BKFC Thailand 4",
+      "time": "2022-12-10T10:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-thailand-4/2pcd8/"
+        }
+      },
+      "fite": {
+        "id": "2pcd8",
+        "time": "2022-12-10T10:30:00Z",
+        "title": "BKFC Thailand 4",
+        "url": "https://www.fite.tv/watch/bkfc-thailand-4/2pcd8/",
+        "price": "$9.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC Thailand 4: Prelims",
       "time": "2022-12-10T09:30:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-thailand-4-prelims/2pcd9/",
+          "free": true
         }
+      },
+      "fite": {
+        "id": "2pcd9",
+        "time": "2022-12-10T09:30:00Z",
+        "title": "BKFC Thailand 4: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-thailand-4-prelims/2pcd9/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
