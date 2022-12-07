@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221204T230305Z
-X-KAMPFKALENDER-HASH:2693a4e34ca8b8d3dde4ae1060ec0b645ed40337
+DTSTAMP:20221207T030930Z
+X-KAMPFKALENDER-HASH:80abecc5fc9ec979360eb40a330fa080693c2f3a
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-senshi-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 14
@@ -17,7 +17,7 @@ CATEGORIES:Other,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-14/2pc97/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-bkb-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 29
@@ -37,7 +37,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=SixusygGAio\
  Card: Jody Meikle vs. Richie Leak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
@@ -48,7 +48,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-bkfc-34-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Prelims
@@ -69,7 +69,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-34-hollywood/2pca
  h Alvarez vs. Glendel Futrell\nPrelim: Alberto Blas vs. Jeremiah Potts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-bkfc-34-palomino-vs-shoaff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 34: Palomino vs. Shoaff
@@ -90,7 +90,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-34/2pcad/\n\n---\
  vs. Glendel Futrell\nPrelim: Alberto Blas vs. Jeremiah Potts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-bkfc-thailand-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 4: Prelims
@@ -110,7 +110,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-4-prelim
  Thearith Ouch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-bkfc-thailand-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 4
@@ -130,7 +130,25 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-4/2pcd8/
   Ouch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
+UID:2022-12-conlan-vs-guerfi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Conlan vs. Guerfi
+DTSTART:20221210T181500Z
+DTEND:20221210T211500Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/conlan-vs-guerfi/2pcdo
+ /\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93905-conlan-vs-
+ guerfi\nhttp://www.boxrec.com/en/event/863445\n\n---\n\nMain Event: Mich
+ ael Conlan (17-1-0) vs. Karim Guerfi (31-6-0)\nCo-Main Event: Tyrone McK
+ enna (23-3-1) vs. Liam Taylor (25-2-1)\nMain Card: Graham McCormack (8-1
+ -0) vs. Fearghus Quinn (4-0-0)\nMain Card: Kurt Walker (0-0-0) vs. Yader
+  Cardoza (26-20-1)\nMain Card: Mark McKeown (8-0-0) vs. Brayan Mairena (
+ 12-30-1)\nMain Card: Conor Quinn (2-0-1) vs. Stephen Jackson (1-27-1)\nM
+ ain Card: Sean McComb (14-1-0) vs. Zsolt Osadan (21-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221207T030931Z
 UID:2022-12-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
@@ -152,7 +170,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-seasons-beatings-2
  nMain Card: Isidro Ponce (0-0-0) vs. Daniel Bonner (1-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230307Z
+DTSTAMP:20221207T030931Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai

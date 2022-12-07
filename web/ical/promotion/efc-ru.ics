@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221124T231809Z
-X-KAMPFKALENDER-HASH:8cd48ef493e81156e5da7a82c0e58225d6d721f1
+DTSTAMP:20221207T030930Z
+X-KAMPFKALENDER-HASH:a0a66d172e2306c9bbc7c5def452353572c88acd
 BEGIN:VEVENT
-DTSTAMP:20221124T231810Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-eagle-fc-selection-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eagle FC: Selection 6
@@ -19,19 +19,5 @@ DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0) vs. Ruslan Sariev (13-1-0)\nCo-Main Event: Magomed Zakriev (7-4-0) v
  s. Shamil Yamilov (2-0-0)\nMain Card: Isomidin Abdullazhonov (3-1-0) vs.
   Kunni Kunniev (2-1-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221124T231810Z
-UID:2022-12-eagle-fc-51@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Eagle FC 51
-DTSTART:20221210T160000Z
-DTEND:20221210T190000Z
-CATEGORIES:EFC,MMA,FLXcast,live,kostenlos
-DESCRIPTION:via FLXcast\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/95402-eagle-fc-51\n\n---\n\nMain Event: Faridun Odilov (14-2-2) vs.
-  Dauren Ermekov (17-5-0)\nCo-Main Event: Denis Izmodenov (11-8-2) vs. Im
- am-Shapi Mukhtarov (11-0-0)\nCo-Main Event: Renat Ondar (10-3-0) vs. Ren
- at Khavalov (6-0-0)
 END:VEVENT
 END:VCALENDAR

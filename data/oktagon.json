@@ -27,11 +27,14 @@
         "MMA"
       ],
       "card": [
-        "Main Event: Patrik Kincl (26-10-0) vs. Karlos Vémola (33-6-0)",
         "Main Card: Jonas Mågård (14-5-0) vs. Filip Macek (27-16-1)",
-        "Main Card: Losene Keita (9-0-0) vs. Ahmed Vila (9-4-1)",
         "Main Card: Matúš Juráček (9-2-0) vs. Alex Lohore (21-8-0)",
-        "Main Card: Matouš Kohout (7-5-0) vs. Jan Malach (14-12-0)"
+        "Main Card: Matouš Kohout (7-5-0) vs. Jan Malach (14-12-0)",
+        "Main Card: Jakub Dohnal (11-2-0) vs. Ahmed Vila (9-4-1)",
+        "Prelim: Jorick Montagnac (3-1-0) vs. Daniel Škvor (5-1-0)",
+        "Prelim: Max Handanagić (8-6-1) vs. David Jacobsson (11-3-0)",
+        "Prelim: Jaroslav Pokorný (14-10-0) vs. Ozan Aslaner (8-5-1)",
+        "Prelim: Martin Pipek (1-0-0) vs. Hassan Shaaban (0-1-0)"
       ],
       "links": [
         "http://www.sherdog.com/events/oktagon-mma-oktagon-38-94398"
@@ -68,7 +71,8 @@
         "MMA"
       ],
       "card": [
-        "Main Card: Christian Jungwirth (12-6-0) vs. Denilson Neves (16-9-0)"
+        "Main Card: Christian Jungwirth (12-6-0) vs. Denilson Neves (16-9-0)",
+        "Main Card: Alexander Poppeck (15-4-0) vs. Martin Zawada (29-17-1)"
       ]
     }
   },
@@ -78,6 +82,9 @@
     "sports": [
       "MMA",
       "KICKBOXING"
+    ],
+    "tags": [
+      "#OKTAGON40"
     ],
     "mainCard": {
       "title": "OKTAGON 40",
@@ -96,15 +103,47 @@
     }
   },
   {
+    "id": "tapology-95854",
+    "promotion": "OKTAGON",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#OKTAGON41"
+    ],
+    "mainCard": {
+      "title": "OKTAGON 41",
+      "time": "2023-04-15T17:00:00Z",
+      "broadcasters": {
+        "OKTAGON_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 95854,
+      "time": "2023-04-15T17:00:00Z",
+      "title": "OKTAGON 41",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/95854-oktagon-41",
+      "links": [
+        "https://www.facebook.com/events/1065689577432834"
+      ]
+    }
+  },
+  {
     "id": "tapology-93085",
     "promotion": "OKTAGON",
     "sports": [
       "MMA",
       "KICKBOXING"
     ],
+    "tags": [
+      "#OKTAGON42"
+    ],
     "mainCard": {
       "hidden": true,
-      "title": "OKTAGON: V Bratislave",
+      "title": "OKTAGON 42",
       "time": "2023-04-29T18:00:00Z",
       "broadcasters": {
         "OKTAGON_TV": {
@@ -114,7 +153,7 @@
     "tapology": {
       "id": 93085,
       "time": "2023-04-29T18:00:00Z",
-      "title": "OKTAGON: V Bratislave",
+      "title": "OKTAGON 42: V Bratislave",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/93085-oktagon-v-bratislave",
       "links": [

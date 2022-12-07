@@ -1,5 +1,56 @@
 [
   {
+    "id": "tapology-93905",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#ConlanGuerfi"
+    ],
+    "mainCard": {
+      "title": "Conlan vs. Guerfi",
+      "time": "2022-12-10T18:15:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/conlan-vs-guerfi/2pcdo/"
+        }
+      },
+      "fite": {
+        "id": "2pcdo",
+        "time": "2022-12-10T18:15:00Z",
+        "title": "Conlan Boxing: Michael Conlan vs Karim Guerfi",
+        "url": "https://www.fite.tv/watch/conlan-vs-guerfi/2pcdo/",
+        "price": "WATCH WITH FITE+",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 93905,
+      "time": "2022-12-10T20:00:00Z",
+      "title": "Conlan vs. Guerfi",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/93905-conlan-vs-guerfi",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Michael Conlan (17-1-0) vs. Karim Guerfi (31-6-0)",
+        "Co-Main Event: Tyrone McKenna (23-3-1) vs. Liam Taylor (25-2-1)",
+        "Main Card: Graham McCormack (8-1-0) vs. Fearghus Quinn (4-0-0)",
+        "Main Card: Kurt Walker (0-0-0) vs. Yader Cardoza (26-20-1)",
+        "Main Card: Mark McKeown (8-0-0) vs. Brayan Mairena (12-30-1)",
+        "Main Card: Conor Quinn (2-0-1) vs. Stephen Jackson (1-27-1)",
+        "Main Card: Sean McComb (14-1-0) vs. Zsolt Osadan (21-0-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/863445"
+      ]
+    }
+  },
+  {
     "id": "fightpass-230112",
     "promotion": "_OTHER",
     "sports": [
@@ -19,7 +70,7 @@
       "fightPass": {
         "id": 230112,
         "time": "2022-12-16T01:00:00Z",
-        "title": "UFC FIGHT PASS INVITATIONAL 3"
+        "title": "UFC Fight Pass Invitational 3"
       }
     }
   }

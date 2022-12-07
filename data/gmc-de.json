@@ -1,5 +1,55 @@
 [
   {
+    "id": "gmc-2022-12-10",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "OlympiX Grappling",
+      "time": "2022-12-10T11:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/221210-olympix-grappling-no-119"
+        }
+      },
+      "gmc": {
+        "id": "221210-olympix-grappling-no-119",
+        "time": "2022-12-10T11:00:00Z",
+        "title": "OlympiX Grappling (No. 119)",
+        "url": "https://www.german-mma.de/events/221210-olympix-grappling-no-119"
+      }
+    }
+  },
+  {
+    "id": "tapology-95929",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "GMC 32",
+      "time": "2023-02-04T17:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 95929,
+      "time": "2023-02-04T17:00:00Z",
+      "title": "GMC 32",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/95929-gmc-32",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Oemer Cankardesler (12-13-2) vs. Alexander Luster (7-1-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-95172",
     "promotion": "GMC_DE",
     "sports": [

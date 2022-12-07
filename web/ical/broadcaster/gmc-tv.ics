@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221202T224108Z
-X-KAMPFKALENDER-HASH:0125cdf21811d7e3db288222fde306b11a32e952
+DTSTAMP:20221207T030930Z
+X-KAMPFKALENDER-HASH:e6ab783b3b0e72732ff16ffb94bc275ffb4d93cb
 BEGIN:VEVENT
-DTSTAMP:20221202T224108Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-gmc-31-romanov-vs-smolik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 31: Romanov vs. Smolik
@@ -26,7 +26,30 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221203-gmc-31\n\
  noosh (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T224108Z
+DTSTAMP:20221207T030931Z
+UID:2022-12-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20221210T110000Z
+DTEND:20221210T140000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221210-olympix-g
+ rappling-no-119
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221207T030931Z
+UID:2023-02-gmc-32@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC 32
+DTSTART:20230204T170000Z
+DTEND:20230204T200000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/95929-gmc-32\n\n---\n\nMain Card: Oemer Cankardesler (12-13-2) vs. A
+ lexander Luster (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221207T030931Z
 UID:2023-05-gmc-34@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 34

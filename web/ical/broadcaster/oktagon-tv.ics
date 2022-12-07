@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221202T224108Z
-X-KAMPFKALENDER-HASH:7cff73223f5d59f6b9e8e7cef964ca7dca262a86
+DTSTAMP:20221207T030930Z
+X-KAMPFKALENDER-HASH:13c61849ed7ce2bc6d4f6ab240981bedb1072d88
 BEGIN:VEVENT
-DTSTAMP:20221202T224108Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-oktagon-37-kozma-vs-brito@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 37: Kozma vs. Brito
@@ -30,7 +30,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  -0) vs. Ozan Aslaner (8-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T224108Z
+DTSTAMP:20221207T030931Z
 UID:2022-12-oktagon-38-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38: Kincl vs. Vemola 2
@@ -39,14 +39,16 @@ DTEND:20221230T190000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/91582-oktagon-38\nhttp://www.sherdog.com/events/oktagon-mma-okta
- gon-38-94398\n\n---\n\nMain Event: Patrik Kincl (26-10-0) vs. Karlos Vém
- ola (33-6-0)\nMain Card: Jonas Mågård (14-5-0) vs. Filip Macek (27-16-1)
- \nMain Card: Losene Keita (9-0-0) vs. Ahmed Vila (9-4-1)\nMain Card: Mat
- úš Juráček (9-2-0) vs. Alex Lohore (21-8-0)\nMain Card: Matouš Kohout (7
- -5-0) vs. Jan Malach (14-12-0)
+ gon-38-94398\n\n---\n\nMain Card: Jonas Mågård (14-5-0) vs. Filip Macek 
+ (27-16-1)\nMain Card: Matúš Juráček (9-2-0) vs. Alex Lohore (21-8-0)\nMa
+ in Card: Matouš Kohout (7-5-0) vs. Jan Malach (14-12-0)\nMain Card: Jaku
+ b Dohnal (11-2-0) vs. Ahmed Vila (9-4-1)\nPrelim: Jorick Montagnac (3-1-
+ 0) vs. Daniel Škvor (5-1-0)\nPrelim: Max Handanagić (8-6-1) vs. David Ja
+ cobsson (11-3-0)\nPrelim: Jaroslav Pokorný (14-10-0) vs. Ozan Aslaner (8
+ -5-1)\nPrelim: Martin Pipek (1-0-0) vs. Hassan Shaaban (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T224108Z
+DTSTAMP:20221207T030931Z
 UID:2023-02-oktagon-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 39
@@ -55,10 +57,11 @@ DTEND:20230212T030000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/94070-oktagon-39\n\n---\n\nMain Card: Christian Jungwirth (12-6-
- 0) vs. Denilson Neves (16-9-0)
+ 0) vs. Denilson Neves (16-9-0)\nMain Card: Alexander Poppeck (15-4-0) vs
+ . Martin Zawada (29-17-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T224108Z
+DTSTAMP:20221207T030931Z
 UID:2023-03-oktagon-40@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 40
@@ -67,5 +70,17 @@ DTEND:20230304T210000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/95799-oktagon-40
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221207T030931Z
+UID:2023-04-oktagon-41@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 41
+DTSTART:20230415T170000Z
+DTEND:20230415T200000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/95854-oktagon-41\nhttps://www.facebook.com/events/10656895774328
+ 34
 END:VEVENT
 END:VCALENDAR

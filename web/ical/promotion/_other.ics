@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221204T230305Z
-X-KAMPFKALENDER-HASH:80f1352932404101deb16be370e03e410d5ba8ab
+DTSTAMP:20221207T030930Z
+X-KAMPFKALENDER-HASH:38edb98f652a1d54f1c466885925e949444a64d8
 BEGIN:VEVENT
-DTSTAMP:20221204T230306Z
+DTSTAMP:20221207T030930Z
 UID:2022-12-it-s-fight-time-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:It's Fight Time 10
@@ -18,7 +18,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-it
  s-fight-time-10-555
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230306Z
+DTSTAMP:20221207T030930Z
 UID:2022-12-senshi-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 14
@@ -28,7 +28,7 @@ CATEGORIES:Other,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-14/2pc97/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230306Z
+DTSTAMP:20221207T030930Z
 UID:2022-12-top-level-pro-9-grappling-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Top Level Pro 9: Grappling Series
@@ -39,7 +39,25 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/top-level-pro-9/2pc57/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T230306Z
+DTSTAMP:20221207T030930Z
+UID:2022-12-conlan-vs-guerfi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Conlan vs. Guerfi
+DTSTART:20221210T181500Z
+DTEND:20221210T211500Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/conlan-vs-guerfi/2pcdo
+ /\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93905-conlan-vs-
+ guerfi\nhttp://www.boxrec.com/en/event/863445\n\n---\n\nMain Event: Mich
+ ael Conlan (17-1-0) vs. Karim Guerfi (31-6-0)\nCo-Main Event: Tyrone McK
+ enna (23-3-1) vs. Liam Taylor (25-2-1)\nMain Card: Graham McCormack (8-1
+ -0) vs. Fearghus Quinn (4-0-0)\nMain Card: Kurt Walker (0-0-0) vs. Yader
+  Cardoza (26-20-1)\nMain Card: Mark McKeown (8-0-0) vs. Brayan Mairena (
+ 12-30-1)\nMain Card: Conor Quinn (2-0-1) vs. Stephen Jackson (1-27-1)\nM
+ ain Card: Sean McComb (14-1-0) vs. Zsolt Osadan (21-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221207T030930Z
 UID:2022-12-ufc-fight-pass-invitational-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 3
