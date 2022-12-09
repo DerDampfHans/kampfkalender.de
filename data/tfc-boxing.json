@@ -6,9 +6,43 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Pacquiao vs. Yoo",
-      "time": "2022-12-11T01:00:00Z"
+      "time": "2022-12-11T03:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/manny-pacquiao-vs-dk-yoo/2pc5b/"
+        }
+      },
+      "fite": {
+        "id": "2pc5b",
+        "time": "2022-12-11T03:00:00Z",
+        "title": "Manny Pacquiao vs DK Yoo",
+        "url": "https://www.fite.tv/watch/manny-pacquiao-vs-dk-yoo/2pc5b/",
+        "price": "$19.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "Pacquiao vs. Yoo: Prelims",
+      "time": "2022-12-11T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/pacquiao-vs-dk-yoo-prelims/2pcde/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcde",
+        "time": "2022-12-11T01:00:00Z",
+        "title": "Manny Pacquiao vs DK Yoo: Prelims",
+        "url": "https://www.fite.tv/watch/pacquiao-vs-dk-yoo-prelims/2pcde/",
+        "price": "FREE",
+        "sports": [
+          "BOXING"
+        ]
+      }
     },
     "tapology": {
       "id": 95800,

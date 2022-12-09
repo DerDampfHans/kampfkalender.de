@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221207T030930Z
-X-KAMPFKALENDER-HASH:da66d31becbd998957b5d6bca2b6b906f044c767
+DTSTAMP:20221209T191142Z
+X-KAMPFKALENDER-HASH:25ec86a93a8182ba541ac3497c7d1f5e1e7da3f5
 BEGIN:VEVENT
-DTSTAMP:20221207T030930Z
+DTSTAMP:20221209T191142Z
 UID:2022-12-ares-fc-10-lebout-vs-amoussou@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 10: Lebout vs. Amoussou
@@ -29,5 +29,20 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Badr Medkouri (4-0-0) vs. Benjamin Šehić (4-2-0)\nPrelim: Aboubakar Youn
  ousov (1-0-0) vs. Tom Wright (0-0-0)\nPrelim: Mohamed Ramdane (4-1-0) vs
  . Anthony Laurent (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221209T191142Z
+UID:2023-01-ares-fc-11-abdoul-vs-haratyk@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ares FC 11: Abdoul vs. Haratyk
+DTSTART:20230123T170000Z
+DTEND:20230123T200000Z
+CATEGORIES:ARES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96005-ares-fc-11\n\n---\n\nMain Event: Abdoul Abdouraguimov 
+ (15-1-0) vs. Rafał Haratyk (16-4-2)\nCo-Main Event: Ivana Petrović (5-0-
+ 0) vs. Ewelina Woźniak (7-1-0)\nMain Card: Felipe Colares (10-4-0) vs. D
+ aguir Imavov (14-3-1)\nMain Card: Ghiles Oudelha (14-5-0) vs. Amin Ayoub
+  (16-6-1)\nMain Card: Mickaël Groguhe (1-1-0) vs. Freddy Kemayo (1-0-0)
 END:VEVENT
 END:VCALENDAR

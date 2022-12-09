@@ -5,10 +5,28 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#Heilbronn",
+      "#SpomerMaliqaj"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Rupprecht vs. Gaspar",
-      "time": "2022-12-10T19:00:00Z"
+      "title": "Spomer vs. Maliqaj",
+      "time": "2022-12-10T19:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-titelnacht-heilbronn-557",
+          "freeAfter": 48
+        }
+      }
+    },
+    "prelims": {
+      "title": "Spomer vs. Maliqaj: Prelims",
+      "time": "2022-12-10T17:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=BBtfSMHeE0g"
+        }
+      }
     },
     "tapology": {
       "id": 95940,
@@ -33,6 +51,34 @@
       ],
       "links": [
         "http://www.boxrec.com/en/event/865209"
+      ]
+    }
+  },
+  {
+    "id": "tapology-95997",
+    "promotion": "SES_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Kabayel vs. Smakici",
+      "time": "2023-01-28T19:00:00Z"
+    },
+    "tapology": {
+      "id": 95997,
+      "time": "2023-01-28T19:00:00Z",
+      "title": "Kabayel vs. Smakici",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/95997-kabayel-vs-smakici",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Agit Kabayel (22-0-0) vs. Agron Smakici (19-1-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/864541"
       ]
     }
   }

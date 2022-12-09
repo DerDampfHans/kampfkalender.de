@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221207T030930Z
-X-KAMPFKALENDER-HASH:4cce44efcf1a21a78bda2b4d5a8b5845addfb142
+DTSTAMP:20221209T191142Z
+X-KAMPFKALENDER-HASH:ba521851c437a954318132a9cb3b10cdb8e85b63
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221209T191143Z
 UID:2022-12-vendetta-fight-night-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Vendetta Fight Night 31
@@ -33,7 +33,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ve
  ajic
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221209T191143Z
 UID:2022-12-fury-vs-chisora-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury vs. Chisora 3
@@ -52,7 +52,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/box
  -3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221209T191143Z
 UID:2022-12-estrada-vs-chocolatito-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Estrada vs. Chocolatito 3
@@ -71,25 +71,69 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  . Christian Sullivan (8-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221209T191143Z
 UID:2022-12-conlan-vs-guerfi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Guerfi
-DTSTART:20221210T181500Z
-DTEND:20221210T211500Z
+DTSTART:20221210T170000Z
+DTEND:20221210T200000Z
 CATEGORIES:Other,Boxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/conlan-vs-guerfi/2pcdo
  /\n\n---\n\nhttps://www.tapology.com/fightcenter/events/93905-conlan-vs-
  guerfi\nhttp://www.boxrec.com/en/event/863445\n\n---\n\nMain Event: Mich
- ael Conlan (17-1-0) vs. Karim Guerfi (31-6-0)\nCo-Main Event: Tyrone McK
- enna (23-3-1) vs. Liam Taylor (25-2-1)\nMain Card: Graham McCormack (8-1
- -0) vs. Fearghus Quinn (4-0-0)\nMain Card: Kurt Walker (0-0-0) vs. Yader
-  Cardoza (26-20-1)\nMain Card: Mark McKeown (8-0-0) vs. Brayan Mairena (
- 12-30-1)\nMain Card: Conor Quinn (2-0-1) vs. Stephen Jackson (1-27-1)\nM
- ain Card: Sean McComb (14-1-0) vs. Zsolt Osadan (21-0-1)
+ ael Conlan (17-1-0) vs. Karim Guerfi (31-6-0)\nMain Card: Graham McCorma
+ ck (8-1-0) vs. Fearghus Quinn (4-0-0)\nMain Card: Kurt Walker (0-0-0) vs
+ . Yader Cardoza (26-20-1)\nMain Card: Mark McKeown (8-0-0) vs. Brayan Ma
+ irena (12-30-1)\nMain Card: Conor Quinn (2-0-1) vs. Stephen Jackson (1-2
+ 7-1)\nMain Card: Sean McComb (14-1-0) vs. Zsolt Osadan (21-0-1)\nMain Ca
+ rd: Paul Ryan (5-0-0) vs. Roy Fernandez (1-5-1)\nMain Card: Padraig McCr
+ ory (15-0-0) vs. Dmytro Fedas (0-0-0)\nMain Card: Paddy Donovan (9-0-0) 
+ vs. J. Romero (4-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221209T191143Z
+UID:2022-12-spomer-vs-maliqaj-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Spomer vs. Maliqaj: Prelims
+DTSTART:20221210T173000Z
+DTEND:20221210T190000Z
+CATEGORIES:SES,Boxen,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BBtfSMHeE0g\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/95940-rupprecht-vs-gas
+ par\nhttp://www.boxrec.com/en/event/865209\n\n---\n\nMain Event: Tina Ru
+ pprecht (11-0-1) vs. Rocio Gaspar (0-0-0)\nMain Card: Slawa Spomer (15-0
+ -0) vs. Egzon Maliqaj (11-0-1)\nMain Card: Alexander Rigas (17-2-0) vs. 
+ Tomas Bezvoda (13-20-0)\nMain Card: Anatoli Muratov (25-2-1) vs. Ondřej 
+ Budera (17-28-1)\nMain Card: Kastriot Sopa (5-0-0) vs. Ramiro Blanco (18
+ -17-3)\nMain Card: Maurice Morio (8-3-0) vs. Gergo Vari (22-30-1)\nMain 
+ Card: Michael Rigas (0-0-0) vs. Norbert Szekeres (19-89-4)\nMain Card: H
+ akan Tosun (0-0-0) vs. Bazargur Jugder (6-12-2)\nMain Card: Alex Hoffman
+ n (7-0-0) vs. Artemii Pikulin (0-0-0)\nMain Card: Rudolf Hoffmann (5-0-1
+ ) vs. Istvan Bela Orban (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221209T191143Z
+UID:2022-12-spomer-vs-maliqaj@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Spomer vs. Maliqaj
+DTSTART:20221210T190000Z
+DTEND:20221210T220000Z
+CATEGORIES:SES,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ti
+ telnacht-heilbronn-557\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/95940-rupprecht-vs-gaspar\nhttp://www.boxrec.com/en/event/865209\n\
+ n---\n\nMain Event: Tina Rupprecht (11-0-1) vs. Rocio Gaspar (0-0-0)\nMa
+ in Card: Slawa Spomer (15-0-0) vs. Egzon Maliqaj (11-0-1)\nMain Card: Al
+ exander Rigas (17-2-0) vs. Tomas Bezvoda (13-20-0)\nMain Card: Anatoli M
+ uratov (25-2-1) vs. Ondřej Budera (17-28-1)\nMain Card: Kastriot Sopa (5
+ -0-0) vs. Ramiro Blanco (18-17-3)\nMain Card: Maurice Morio (8-3-0) vs. 
+ Gergo Vari (22-30-1)\nMain Card: Michael Rigas (0-0-0) vs. Norbert Szeke
+ res (19-89-4)\nMain Card: Hakan Tosun (0-0-0) vs. Bazargur Jugder (6-12-
+ 2)\nMain Card: Alex Hoffmann (7-0-0) vs. Artemii Pikulin (0-0-0)\nMain C
+ ard: Rudolf Hoffmann (5-0-1) vs. Istvan Bela Orban (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221209T191143Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez
@@ -101,16 +145,53 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -\n\nMain Event: Josh Warrington (31-1-1) vs. Luis Alberto Lopez (26-2-0
  )\nCo-Main Event: Ebanie Bridges (8-1-0) vs. Shannon O'Connell (23-6-1)\
  nMain Card: James Metcalf (23-2-0) vs. Courtney Pennington (16-5-3)\nMai
- n Card: Calum French (0-0-0) vs. Kurt Jackson (0-0-0)\nMain Card: Hopey 
- Price (8-0-0) vs. Nano Santana (9-3-1)\nMain Card: Felix Cash (15-0-0) v
- s. Celso Neves (9-2-2)\nMain Card: Shannon Courtenay (7-2-0) vs. Gemma R
- uegg (0-0-0)\nMain Card: Rhiannon Dixon (6-0-0) vs. Kristine Shergold (7
- -6-1)\nMain Card: Cory O'Regan (8-0-0) vs. Shaun Cooper (13-4-0)\nMain C
- ard: Koby McNamara (0-0-0) vs. Nabil Ahmed (1-12-2)\nMain Card: Junaid B
- ostan (0-0-0) vs. Athanasios Glynos (0-0-0)
+ n Card: Hopey Price (8-0-0) vs. Nano Santana (9-3-1)\nMain Card: Felix C
+ ash (15-0-0) vs. Celso Neves (9-2-2)\nMain Card: Shannon Courtenay (7-2-
+ 0) vs. Gemma Ruegg (0-0-0)\nMain Card: Rhiannon Dixon (6-0-0) vs. Kristi
+ ne Shergold (7-6-1)\nMain Card: Cory O'Regan (8-0-0) vs. Shaun Cooper (1
+ 3-4-0)\nMain Card: Koby McNamara (0-0-0) vs. Nabil Ahmed (1-12-2)\nMain 
+ Card: Junaid Bostan (0-0-0) vs. Athanasios Glynos (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221209T191143Z
+UID:2022-12-pacquiao-vs-yoo-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Pacquiao vs. Yoo: Prelims
+DTSTART:20221211T010000Z
+DTEND:20221211T030000Z
+CATEGORIES:TFC,Boxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pacquiao-vs-dk-yoo-pre
+ lims/2pcde/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/95800-
+ pacquiao-vs-yoo\n\n---\n\nMain Event: Manny Pacquiao (62-8-2) vs. DK Yoo
+  (0-0-0)\nCo-Main Event: Jose Luis Castillo Jr. (25-3-0) vs. Min Guk Ju 
+ (0-0-0)\nMain Card: Min Wook Kim (16-1-0) vs. Marcus Davidson (0-0-0)\nM
+ ain Card: Abel Mendoza (32-0-0) vs. Cristian Ruben Mino (22-7-2)\nMain C
+ ard: Nico Hernandez (8-0-0) vs. Jae Young Kim (0-0-0)\nMain Card: Mauric
+ e Lee (13-1-2) vs. Shin Yong Kim (0-0-0)\nMain Card: Marcell Davidson (0
+ -0-0) vs. Yoon Bin Han (0-0-0)\nMain Card: Sean Garcia (6-0-0) vs. Seung
+  Ho Yang (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221209T191143Z
+UID:2022-12-pacquiao-vs-yoo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Pacquiao vs. Yoo
+DTSTART:20221211T030000Z
+DTEND:20221211T060000Z
+CATEGORIES:TFC,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/manny-pacquiao-vs-dk-y
+ oo/2pc5b/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/95800-pa
+ cquiao-vs-yoo\n\n---\n\nMain Event: Manny Pacquiao (62-8-2) vs. DK Yoo (
+ 0-0-0)\nCo-Main Event: Jose Luis Castillo Jr. (25-3-0) vs. Min Guk Ju (0
+ -0-0)\nMain Card: Min Wook Kim (16-1-0) vs. Marcus Davidson (0-0-0)\nMai
+ n Card: Abel Mendoza (32-0-0) vs. Cristian Ruben Mino (22-7-2)\nMain Car
+ d: Nico Hernandez (8-0-0) vs. Jae Young Kim (0-0-0)\nMain Card: Maurice 
+ Lee (13-1-2) vs. Shin Yong Kim (0-0-0)\nMain Card: Marcell Davidson (0-0
+ -0) vs. Yoon Bin Han (0-0-0)\nMain Card: Sean Garcia (6-0-0) vs. Seung H
+ o Yang (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221209T191143Z
 UID:2022-12-curiel-vs-solomon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Curiel vs. Solomon
@@ -123,5 +204,17 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  . Jose Gonzalez (23-10-1)\nMain Card: Aaron Silva (10-0-0) vs. Alan Camp
  a (18-6-0)\nMain Card: Jousce Gonzalez (13-0-1) vs. Ivan Cano (26-10-2)\
  nMain Card: Alexis Eduardo Molina (8-1-1) vs. Gregory Morales (12-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221209T191143Z
+UID:2023-02-serrano-vs-cruz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Serrano vs. Cruz
+DTSTART:20230205T000000Z
+DTEND:20230205T030000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/96075-serrano-vs-cruz\n\n---\n\nMain Event: Amanda Serrano (43-2-1) vs
+ . Erika Cruz (15-1-0)
 END:VEVENT
 END:VCALENDAR
