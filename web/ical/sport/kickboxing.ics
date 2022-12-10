@@ -4,62 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221207T030930Z
-X-KAMPFKALENDER-HASH:4d407e2bd6dacb881f7564f4146d58bb7d1250bf
+DTSTAMP:20221210T230304Z
+X-KAMPFKALENDER-HASH:9efdf2c5f6f9c65fe7a2f358c4f6af1977d69860
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
-UID:2022-12-fair-fc-13@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Fair FC 13
-DTSTART:20221203T170000Z
-DTEND:20221203T200000Z
-CATEGORIES:Fair,MMA,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-fa
- ir-fc-13-556
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
-UID:2022-12-hype-fc-rumble-in-the-cage@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Hype FC: Rumble in The Cage
-DTSTART:20221203T170000Z
-DTEND:20221203T200000Z
-CATEGORIES:Hype,MMA,Muay Thai,Kickboxen,fight24.tv,live
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-hy
- pe-fc-2022-554\n\n---\n\nhttps://www.tapology.com/fightcenter/events/953
- 65-hype-fc-rumble-in-the-cage\n\n---\n\nMain Card: Alireza Rasuli (1-0-0
- ) vs. Tobias Balzer (3-1-0)\nMain Card: Ramzan Bakis (0-0-0) vs. Javed T
- aimoor (0-0-0)\nMain Card: Sultanov Sirac (0-0-0) vs. Azad Tuncel (1-0-0
- )
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
-UID:2022-12-vendetta-fight-night-31@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Vendetta Fight Night 31
-DTSTART:20221203T170000Z
-DTEND:20221203T200000Z
-CATEGORIES:Vendetta,MMA,Kickboxen,Boxen,fight24.tv,live
-DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ve
- ndetta-31-553\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9296
- 6-vendetta-fight-night-32\nhttp://www.sherdog.com/events/iron-fist-gym-v
- ienna-vendetta-fight-nights-32-94805\n\n---\n\nMain Event: Ahmet Şimşek 
- vs. Manuel Bilić\nCo-Main Event: Sado Ucar (17-7-0) vs. Kirill Medvedovs
- ki (13-11-0)\nMain Card: Vahit Ipek vs. Vaggelis Soumpakas\nMain Card: W
- esam Alhajjo Alhamada (1-3-0) vs. Komron Rafiew (2-1-0)\nMain Card: Erig
- lent Prizreni (1-0-0) vs. Alex Lupcșa (0-0-0)\nMain Card: Emir-Can Al (0
- -4-0) vs. Benjamin Begić (0-0-0)\nMain Card: Saša Jovanović vs. Miroslav
-  Dubova\nMain Card: Marc Reifberger (5-1-0) vs. Veselin Dimitrov (11-19-
- 0)\nMain Card: Dejan Bubic vs. Patryk Sztorc\nMain Card: Patrick Spirk (
- 4-2-0) vs. Srdan Zaric (0-0-0)\nMain Card: Adrian Babela vs. Mario Marin
- ković\nMain Card: Ali Delawarzada (2-1-0) vs. Súveges Bánk (0-0-0)\nMain
-  Card: Andrei Varga (0-0-0) vs. Andi Gorchkanov (0-0-0)\nMain Card: Alex
- ander Angerer (0-0-0) vs. Nikola Ugarković (0-6-0)\nMain Card: Taulant B
- ektashi vs. Vladimir Vujadinov\nMain Card: Marawan Elkholy vs. Mihajlo R
- ajic
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2022-12-kok-106-krefeld@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK 106: Krefeld
@@ -70,7 +18,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/95738-kok-106-in-germany
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2022-12-enfusion-117@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 117
@@ -81,7 +29,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=-6PLIBpyy1M\
  n\n---\n\nhttps://fighting.de/events/enfusion-117/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2022-12-kok-dynamite@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK Dynamite
@@ -92,7 +40,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/95737-kok-dynamite
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2022-12-oktagon-38-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38: Kincl vs. Vemola 2
@@ -110,7 +58,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  -5-1)\nPrelim: Martin Pipek (1-0-0) vs. Hassan Shaaban (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2023-01-one-on-prime-video-6-superbon-vs-allazov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6: Superbon vs. Allazov
@@ -125,7 +73,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Vandaryeva\nMain Card: Rodtang Jitmuangnon vs. Daniel Puertas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2023-02-oktagon-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 39
@@ -138,7 +86,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  . Martin Zawada (29-17-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8
@@ -149,7 +97,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94525-one-on-prime-video-8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2023-03-oktagon-40@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 40
@@ -160,7 +108,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/95799-oktagon-40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221207T030931Z
+DTSTAMP:20221210T230305Z
 UID:2023-04-oktagon-41@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 41

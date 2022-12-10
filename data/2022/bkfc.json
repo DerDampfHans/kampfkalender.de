@@ -1606,5 +1606,81 @@
         "https://events.mixedmartialarts.com/bkfc-34:4c838a7e-e183-4407-bc82-21fa5b31da93"
       ]
     }
+  },
+  {
+    "id": "tapology-95431",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFCThailand4"
+    ],
+    "mainCard": {
+      "title": "BKFC Thailand 4",
+      "time": "2022-12-10T10:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-thailand-4/2pcd8/"
+        }
+      },
+      "fite": {
+        "id": "2pcd8",
+        "time": "2022-12-10T10:30:00Z",
+        "title": "BKFC Thailand 4",
+        "url": "https://www.fite.tv/watch/bkfc-thailand-4/2pcd8/",
+        "price": "$9.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC Thailand 4: Prelims",
+      "time": "2022-12-10T09:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-thailand-4-prelims/2pcd9/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcd9",
+        "time": "2022-12-10T09:30:00Z",
+        "title": "BKFC Thailand 4: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-thailand-4-prelims/2pcd9/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 95431,
+      "time": "2022-12-10T09:30:00Z",
+      "title": "BKFC: Thailand 4",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/95431-bkfc-thailand-4",
+      "card": [
+        "Main Event: Rolando Dy vs. Apisit Sangmuang",
+        "Co-Main Event: Tai Emery vs. Chisakan Ariphipat",
+        "Main Card: Gligor Stojanov vs. Gilbert Patrocinio",
+        "Main Card: Watcharin Sae-be vs. Saw Htoo Aung",
+        "Main Card: Gustaf Cedermalm vs. Alex Castro",
+        "Main Card: Sohanne Bengana vs. Krisana Sirsang",
+        "Main Card: Poorya Mokhtari vs. Joemil Miado",
+        "Main Card: Aem Ratha vs. Rithi Chaichit",
+        "Prelim: Sarun Srioumboo vs. Victor Booty",
+        "Prelim: Partho Ghosh vs. Pov Chor",
+        "Prelim: Anubhav Verma vs. Thearith Ouch"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc:49049373-ad8b-443f-9ad2-7a979762dad3"
+      ]
+    }
   }
 ]
