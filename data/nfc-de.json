@@ -37,8 +37,21 @@
       "id": 95643,
       "time": "2022-12-16T17:00:00Z",
       "title": "NFC Contenders",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/95643-nfc-contenders"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/95643-nfc-contenders",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Altin Zenuni (7-1-0) vs. Broosk Hussein (3-4-0)",
+        "Co-Main Event: Firas Daud (0-0-0) vs. Batuhan Aksan (3-2-0)",
+        "Main Card: Kefayatullah Ali (0-0-0) vs. Oktay Isin (2-1-0)",
+        "Main Card: Erkan Ercin (0-0-0) vs. Ross Weyzen (0-0-0)",
+        "Main Card: Harun Kurt (0-1-0) vs. Ahmed Fidan (2-0-0)",
+        "Main Card: Jason Lindecker (0-0-0) vs. Osman Sediq (0-0-0)",
+        "Main Card: Azeddine Barghouti (0-1-0) vs. Emre Dinc (0-1-0)",
+        "Main Card: Aslan Bagaev (3-2-0) vs. Iwan Tagner (1-0-0)"
+      ]
     }
   },
   {
@@ -56,27 +69,12 @@
       "https://fighting.de/events/nfc-11/"
     ],
     "mainCard": {
-      "title": "NFC 11",
-      "time": "2022-12-17T22:00:00Z",
-      "until": "2022-12-17T23:30:00Z",
-      "broadcasters": {
-        "SPORT1": {
-          "free": true
-        },
-        "FIGHTING_DE": {
-        },
-        "FIGHT24_TV": {
-        }
-      }
-    },
-    "prelims": {
       "title": "NFC 11: Main Card",
       "time": "2022-12-17T19:00:00Z",
+      "until": "2022-12-17T22:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=1IdEZCty6Vk"
-        },
-        "FIGHT24_TV": {
         }
       },
       "youTube": {
@@ -91,14 +89,12 @@
         ]
       }
     },
-    "earlyPrelims": {
+    "prelims": {
       "title": "NFC 11: Prelims",
       "time": "2022-12-17T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "free": true
-        },
-        "FIGHT24_TV": {
         }
       }
     },
@@ -113,20 +109,20 @@
         "MMA"
       ],
       "card": [
-        "Main Event: Islam Dulatov (7-1-0) vs. Florim Zendeli (6-1-0)",
         "Co-Main Event: Joilton Lutterbach (36-10-0) vs. Mihail Kotruţă (14-2-0)",
         "Main Card: Ismail Naurdiev (22-6-0) vs. Vadim Kutsy (16-1-0)",
         "Main Card: Maurice Adorf (5-1-0) vs. A. Chatzigeorgiadis (2-1-1)",
         "Main Card: Husein Kadimagomaev (9-1-0) vs. Agshin Babaev (22-7-0)",
-        "Main Card: Issa Isakov (9-2-0) vs. Axel Sola (4-0-0)",
         "Prelim: Julian Pennant (5-2-0) vs. Alexander Djukic (6-3-0)",
         "Prelim: Christian Mach (6-3-0) vs. Gökhan Aksu (7-6-1)",
         "Prelim: Abubakar Sobirov (6-1-0) vs. Ali Guliev (6-0-0)",
         "Prelim: Max Holzer (5-0-0) vs. Andrey Tyshchenko (5-2-0)",
-        "Main Card: M. Trabelsi (11-6-0) vs. Pantelei Taran (5-4-0)"
+        "Main Card: M. Trabelsi (11-6-0) vs. Pantelei Taran (5-4-0)",
+        "Main Card: Axel Sola (4-0-0) vs. Matheus Miranda (4-0-0)"
       ],
       "links": [
-        "http://www.sherdog.com/events/nfc-11-national-fighting-championship-94462"
+        "http://www.sherdog.com/events/nfc-11-national-fighting-championship-94462",
+        "https://events.mixedmartialarts.com/brave-cf-68:995c8b78-1b5f-478b-8ea6-935ead7ba77a"
       ]
     }
   },
@@ -179,8 +175,14 @@
       "id": 94571,
       "time": "2023-02-18T17:00:00Z",
       "title": "NFC 12",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/94571-nfc-12"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94571-nfc-12",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Khurshed Kakhorov (8-1-0) vs. Darko Banović (17-9-0)"
+      ]
     }
   },
   {
@@ -451,7 +453,10 @@
       "time": "2023-12-16T17:00:00Z",
       "title": "NFC 17",
       "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/94584-nfc-17"
+      "url": "https://www.tapology.com/fightcenter/events/94584-nfc-17",
+      "links": [
+        "http://www.sherdog.com/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463"
+      ]
     }
   }
 ]

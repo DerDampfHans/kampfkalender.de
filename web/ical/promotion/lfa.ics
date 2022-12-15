@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221209T191142Z
-X-KAMPFKALENDER-HASH:df6636bd31667b43d198725ee2ac7bad2a53fe80
+DTSTAMP:20221215T013800Z
+X-KAMPFKALENDER-HASH:48e1a0454c01cbb45f8a88f3dd54f5e1249da601
 BEGIN:VEVENT
-DTSTAMP:20221209T191142Z
+DTSTAMP:20221215T013800Z
 UID:2022-12-lfa-148-leyva-vs-brown@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 148: Leyva vs. Brown
@@ -28,22 +28,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0)\nPrelim: Xavier Moreno (0-0-0) vs. Marcelino Silva (0-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221209T191142Z
+DTSTAMP:20221215T013800Z
 UID:2023-01-lfa-149@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 149
 DTSTART:20230107T020000Z
 DTEND:20230107T050000Z
-CATEGORIES:LFA,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221209T191142Z
-UID:2023-01-lfa-149-bunes-vs-horiuchi@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:LFA 149: Bunes vs. Horiuchi
-DTSTART:20230107T030000Z
-DTEND:20230107T060000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/95845-lfa-149-bunes-vs-horiuchi\n\n---\n\nMain Event: Felipe
@@ -52,5 +42,28 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  s Santos (2-1-0)\nPrelim: Eric McConico (5-2-1) vs. Billy Elekana (4-1-0
  )\nPrelim: Eric Fimbres (1-0-0) vs. Tony Charles (2-1-0)\nPrelim: Cedric
   Katambwa (2-0-0) vs. Adam Garcia (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013800Z
+UID:2023-01-lfa-150-farias-vs-sweeney@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 150: Farias vs. Sweeney
+DTSTART:20230114T020000Z
+DTEND:20230114T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96178-lfa-150-farias-vs-sweeney\n\n---\n\nMain Event: Ary Fa
+ rias (12-3-0) vs. John Sweeney (11-3-0)\nCo-Main Event: Thomas Petersen 
+ (6-1-0) vs. Richard Foster (6-4-0)\nMain Card: Miguel Sanson (4-0-0) vs.
+  Mark Climaco (7-1-0)\nMain Card: Scott Writz (6-2-0) vs. Jalin Fuller (
+ 6-2-0)\nMain Card: Wes Schultz (3-0-0) vs. Dylan Budka (4-1-0)\nMain Car
+ d: Quang Le (4-0-0) vs. Henry Huff (4-3-0)\nPrelim: Santos Verdinez (1-0
+ -0) vs. Darius Miller (0-0-0)\nPrelim: Kyle Zimick (0-0-0) vs. Emanuel P
+ ugh (0-2-0)\nPrelim: Dominic St. George (1-0-0) vs. Dominic Dagostino (1
+ -1-0)\nPrelim: Shamar Williams (4-1-0) vs. Saw Dah (4-1-0)\nPrelim: Mitc
+ hell Wilson (3-0-0) vs. Tyler Jones (4-2-0)\nPrelim: Noah Gasho (1-0-0) 
+ vs. Moy Medina (0-0-0)\nPrelim: Blake Moreland (0-0-0) vs. Freddy Rivera
+  (0-1-0)\nPrelim: Scott Zeller (1-1-0) vs. Brady Steinhorst (1-1-0)\nPre
+ lim: Zach Gehl (3-0-0) vs. Darren Coleman (4-0-0)
 END:VEVENT
 END:VCALENDAR

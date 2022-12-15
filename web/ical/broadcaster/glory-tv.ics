@@ -4,6 +4,30 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221015T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221215T013800Z
+X-KAMPFKALENDER-HASH:1f6df6ca2c1694b7705030063ef6c7bfc962abc0
+BEGIN:VEVENT
+DTSTAMP:20221215T013801Z
+UID:2023-01-glory-rivals-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Rivals 5
+DTSTART:20230128T050000Z
+DTEND:20230128T080000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/96127-glory-rivals-5\n\n---\n\nMain Card: Abraham
+  Vidales vs. Tomás Aquirre\nMain Card: Ivan Galaz vs. R. da Silva
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013801Z
+UID:2023-02-glory-83@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 83
+DTSTART:20230211T190000Z
+DTEND:20230211T220000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/96249-glory-83\n\n---\n\nMain Card: Sergej Maslob
+ ojev vs. Donegi Abena\nMain Card: Donovan Wisse vs. César Almeida
+END:VEVENT
 END:VCALENDAR

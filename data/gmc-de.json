@@ -1,5 +1,28 @@
 [
   {
+    "id": "gmc-2022-12-17",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "Watch OlympiX",
+      "time": "2022-12-17T16:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/221217-olympix-no-120"
+        }
+      },
+      "gmc": {
+        "id": "221217-olympix-no-120",
+        "time": "2022-12-17T16:00:00Z",
+        "title": "Watch OlympiX (No. 120)",
+        "url": "https://www.german-mma.de/events/221217-olympix-no-120"
+      }
+    }
+  },
+  {
     "id": "tapology-95929",
     "promotion": "GMC_DE",
     "sports": [
@@ -26,7 +49,10 @@
         "MMA"
       ],
       "card": [
-        "Main Card: Oemer Cankardesler (12-13-2) vs. Alexander Luster (7-1-0)"
+        "Main Card: Oemer Cankardesler (12-13-2) vs. Alexander Luster (7-1-0)",
+        "Main Card: Simon Schuster (0-1-0) vs. Quincy Dwamena (3-2-0)",
+        "Main Card: Tanja Huth (0-2-0) vs. Lorena Cubero (1-0-0)",
+        "Main Card: Georg Bilogrevic (2-3-0) vs. Stanislav Romanov (3-10-0)"
       ]
     }
   },

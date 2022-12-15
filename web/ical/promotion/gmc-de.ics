@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221210T230304Z
-X-KAMPFKALENDER-HASH:69a0986b1f515f69dffdba73ca0d7af8789c927e
+DTSTAMP:20221215T013800Z
+X-KAMPFKALENDER-HASH:fd9f932e5c1cd3c8733458187ada79ca603f71ce
 BEGIN:VEVENT
-DTSTAMP:20221210T230305Z
+DTSTAMP:20221215T013800Z
 UID:2022-12-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,7 +18,18 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221210-olympix-g
  rappling-no-119
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221210T230305Z
+DTSTAMP:20221215T013800Z
+UID:2022-12-watch-olympix@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Watch OlympiX
+DTSTART:20221217T160000Z
+DTEND:20221217T190000Z
+CATEGORIES:GMC,MMA,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221217-olympix-n
+ o-120
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013800Z
 UID:2023-02-gmc-32@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 32
@@ -27,10 +38,12 @@ DTEND:20230204T200000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  nts/95929-gmc-32\n\n---\n\nMain Card: Oemer Cankardesler (12-13-2) vs. A
- lexander Luster (7-1-0)
+ lexander Luster (7-1-0)\nMain Card: Simon Schuster (0-1-0) vs. Quincy Dw
+ amena (3-2-0)\nMain Card: Tanja Huth (0-2-0) vs. Lorena Cubero (1-0-0)\n
+ Main Card: Georg Bilogrevic (2-3-0) vs. Stanislav Romanov (3-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221210T230305Z
+DTSTAMP:20221215T013800Z
 UID:2023-03-gmc-33@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 33
@@ -42,7 +55,7 @@ DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  hiffarth (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221210T230305Z
+DTSTAMP:20221215T013800Z
 UID:2023-05-gmc-34@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 34

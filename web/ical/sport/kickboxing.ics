@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221211T230305Z
-X-KAMPFKALENDER-HASH:e2b920541de85281c7a5deaa4e25b451ca514443
+DTSTAMP:20221215T013800Z
+X-KAMPFKALENDER-HASH:3799e27abbb61d286c5d70e0a1175d5ff1eea521
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-enfusion-117@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion 117
@@ -18,18 +18,20 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=-6PLIBpyy1M\
  n\n---\n\nhttps://fighting.de/events/enfusion-117/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-kok-dynamite@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK Dynamite
 DTSTART:20221222T050000Z
 DTEND:20221222T080000Z
-CATEGORIES:KOK,MMA,Kickboxen,DAZN,live
+CATEGORIES:KOK,Kickboxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/95737-kok-dynamite
+ s/95737-kok-dynamite\n\n---\n\nMain Card: Volodymyr Hynzhu vs. Henrikas 
+ Viksraitis\nMain Card: Guillermo Blokland vs. Raimondas Avlasevičius\nMa
+ in Card: Wojciech Kosowski vs. Mindaugas Narauskas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-oktagon-38-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 38: Kincl vs. Vemola 2
@@ -41,13 +43,15 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  gon-38-94398\n\n---\n\nMain Card: Jonas Mågård (14-5-0) vs. Filip Macek 
  (27-16-1)\nMain Card: Matúš Juráček (9-2-0) vs. Alex Lohore (21-8-0)\nMa
  in Card: Matouš Kohout (7-5-0) vs. Jan Malach (14-12-0)\nMain Card: Jaku
- b Dohnal (11-2-0) vs. Ahmed Vila (9-4-1)\nPrelim: Jorick Montagnac (3-1-
- 0) vs. Daniel Škvor (5-1-0)\nPrelim: Max Handanagić (8-6-1) vs. David Ja
- cobsson (11-3-0)\nPrelim: Jaroslav Pokorný (14-10-0) vs. Ozan Aslaner (8
- -5-1)\nPrelim: Martin Pipek (1-0-0) vs. Hassan Shaaban (0-1-0)
+ b Dohnal (11-2-0) vs. Ahmed Vila (9-4-1)\nMain Card: Matěj Peňáz (6-1-0)
+  vs. Joel dos Santos (16-7-0)\nMain Card: Václav Mikulášek vs. Gábor Bor
+ áros\nPrelim: Jorick Montagnac (3-1-0) vs. Daniel Škvor (5-1-0)\nPrelim:
+  Max Handanagić (8-6-1) vs. David Jacobsson (11-3-0)\nPrelim: Jaroslav P
+ okorný (14-10-0) vs. Ozan Aslaner (8-5-1)\nPrelim: Martin Pipek (1-0-0) 
+ vs. Hassan Shaaban (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2023-01-one-on-prime-video-6-superbon-vs-allazov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6: Superbon vs. Allazov
@@ -62,7 +66,31 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Vandaryeva\nMain Card: Rodtang Jitmuangnon vs. Daniel Puertas
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
+UID:2023-01-glory-rivals-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory Rivals 5
+DTSTART:20230128T050000Z
+DTEND:20230128T080000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/96127-glory-rivals-5\n\n---\n\nMain Card: Abraham
+  Vidales vs. Tomás Aquirre\nMain Card: Ivan Galaz vs. R. da Silva
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013801Z
+UID:2023-02-glory-83@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 83
+DTSTART:20230211T190000Z
+DTEND:20230211T220000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/96249-glory-83\n\n---\n\nMain Card: Sergej Maslob
+ ojev vs. Donegi Abena\nMain Card: Donovan Wisse vs. César Almeida
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013801Z
 UID:2023-02-oktagon-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 39
@@ -75,7 +103,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  . Martin Zawada (29-17-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8
@@ -86,7 +114,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94525-one-on-prime-video-8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2023-03-oktagon-40@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 40
@@ -97,7 +125,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/95799-oktagon-40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2023-04-oktagon-41@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 41

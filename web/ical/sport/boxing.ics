@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221211T230305Z
-X-KAMPFKALENDER-HASH:e6e118e0188a9e48de7dc386e237888e5652627a
+DTSTAMP:20221215T013800Z
+X-KAMPFKALENDER-HASH:380d80c7d077e4abce76d6bea7d8a806942087c9
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-conlan-vs-guerfi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Guerfi
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/conlan-vs-guerfi/2pcdo
  vs. J. Romero (4-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-spomer-vs-maliqaj-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Spomer vs. Maliqaj: Prelims
@@ -48,7 +48,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BBtfSMHeE0g\n\n-
  ) vs. Istvan Bela Orban (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-spomer-vs-maliqaj@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Spomer vs. Maliqaj
@@ -69,7 +69,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ti
  ard: Rudolf Hoffmann (5-0-1) vs. Istvan Bela Orban (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-warrington-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Warrington vs. Lopez
@@ -89,7 +89,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Card: Junaid Bostan (0-0-0) vs. Athanasios Glynos (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-pacquiao-vs-yoo-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pacquiao vs. Yoo: Prelims
@@ -108,7 +108,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/pacquiao-vs-dk-yoo-pre
   Ho Yang (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2022-12-pacquiao-vs-yoo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pacquiao vs. Yoo
@@ -127,7 +127,63 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/manny-pacquiao-vs-dk-y
  o Yang (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
+UID:2022-12-watts-vs-russell-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Watts vs. Russell 2
+DTSTART:20221216T080000Z
+DTEND:20221216T110000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/btb-watts-vs-russell/2
+ pcbb/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96185-watts-
+ vs-russell-2\nhttp://www.boxrec.com/en/event/863985\n\n---\n\nMain Event
+ : Kane Watts (21-5-0) vs. Daniel Russell (8-3-2)\nMain Card: Josh Nesbit
+ t (4-0-0) vs. Flin Makeham (3-2-2)\nMain Card: Ibrahim Balla (14-2-0) vs
+ . Shiva Mishra (8-7-0)\nMain Card: Kha Lu (0-0-0) vs. Gerttipong Kumsahw
+ at (5-11-0)\nMain Card: Shane Carlin (1-1-0) vs. Waikato Falefehi (3-19-
+ 0)\nMain Card: Ahmed Elomar (0-0-0) vs. Vachayan Khamon (12-32-1)\nMain 
+ Card: Sonni Michael Angelo (16-14-2) vs. Vinni Graziani (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013801Z
+UID:2022-12-charr-vs-browne@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Charr vs. Browne
+DTSTART:20221217T140000Z
+DTEND:20221217T170000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/iconic-prom-dubai-brow
+ ne-vs-charr/2pcei/\n\n---\n\nhttps://www.tapology.com/fightcenter/events
+ /96069-charr-vs-browne\nhttp://www.boxrec.com/en/event/865896\n\n---\n\n
+ Main Event: Mahmoud Charr (33-4-0) vs. Lucas Browne (31-3-0)\nMain Card:
+  Paul Fleming (28-0-1) vs. Samir Ziani (33-3-1)\nMain Card: Renold Quinl
+ an (15-10-0) vs. Mose Auimatagi Jr. (14-2-2)\nMain Card: Alex Winwood (0
+ -0-0) vs. Tibo Monabesa (21-1-2)\nMain Card: Fahad Al-Bloushi (11-1-0) v
+ s. Arief Blader (24-35-3)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013801Z
+UID:2022-12-billam-smith-vs-xhoxhaj@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Billam Smith vs. Xhoxhaj
+DTSTART:20221217T190000Z
+DTEND:20221217T220000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/billam-smith-vs-xhoxha
+ j/2pcel/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/95178-bil
+ lam-smith-vs-xhoxhaj\nhttp://www.boxrec.com/en/event/865026\n\n---\n\nMa
+ in Event: Chris Billam-Smith (16-1-0) vs. Armend Xhoxhaj (14-2-0)\nCo-Ma
+ in Event: Dan Azeez (17-0-0) vs. Rocky Fielding (30-2-0)\nMain Card: Ste
+ ve Robinson (5-1-0) vs. Nick Campbell (5-0-0)\nMain Card: Caroline Duboi
+ s (0-0-0) vs. Sofia Rodriguez (4-7-0)\nMain Card: Viddal Riley (7-0-0) v
+ s. Amine Boucetta (7-5-0)\nMain Card: Mikey McKinson (22-1-0) vs. Robert
+ o Arriaza (19-4-0)\nMain Card: Lee Cutler (11-1-0) vs. Joel Julio (39-13
+ -0)\nMain Card: Cori Gibbs (17-0-0) vs. Jimmy First (13-0-0)\nMain Card:
+  Harvey Lambert (0-0-0) vs. Sebastian Wojtan (1-6-0)\nMain Card: Mace Ru
+ egg (7-0-0) vs. Jahfibus Faure (1-9-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221215T013801Z
 UID:2022-12-curiel-vs-solomon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Curiel vs. Solomon
@@ -135,14 +191,18 @@ DTSTART:20221218T020000Z
 DTEND:20221218T050000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/95798-golden-boy-fight-night\n\n---\n\nMain Event: Raul Curiel (11-0-0
- ) vs. Brad Solomon (29-5-0)\nCo-Main Event: Diego De La Hoya (23-1-0) vs
- . Jose Gonzalez (23-10-1)\nMain Card: Aaron Silva (10-0-0) vs. Alan Camp
- a (18-6-0)\nMain Card: Jousce Gonzalez (13-0-1) vs. Ivan Cano (26-10-2)\
- nMain Card: Alexis Eduardo Molina (8-1-1) vs. Gregory Morales (12-1-0)
+ s/95798-golden-boy-fight-night\nhttp://www.boxrec.com/en/event/864518\n\
+ n---\n\nMain Event: Raul Curiel (11-0-0) vs. Brad Solomon (29-5-0)\nCo-M
+ ain Event: Diego De La Hoya (23-1-0) vs. Jose Gonzalez (23-10-1)\nMain C
+ ard: Aaron Silva (10-0-0) vs. Alan Campa (18-6-0)\nMain Card: Jousce Gon
+ zalez (13-0-1) vs. Ivan Cano (26-10-2)\nMain Card: Martin Leon (15-1-0) 
+ vs. Ricardo Quiroz (11-1-0)\nMain Card: Nick Sullivan (6-0-0) vs. Angel 
+ Vazquez (0-0-0)\nMain Card: Cecilia Braekhus (36-2-0) vs. Marisa Portill
+ o (0-0-0)\nMain Card: Gregory Morales (12-1-0) vs. Diuhl Olguin (15-28-5
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013801Z
 UID:2023-02-serrano-vs-cruz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Serrano vs. Cruz

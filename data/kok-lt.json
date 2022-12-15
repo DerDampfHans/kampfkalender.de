@@ -3,7 +3,6 @@
     "id": "tapology-95737",
     "promotion": "KOK_LT",
     "sports": [
-      "MMA",
       "KICKBOXING"
     ],
     "mainCard": {
@@ -18,8 +17,16 @@
       "id": 95737,
       "time": "2022-12-22T05:00:00Z",
       "title": "KOK Dynamite",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/95737-kok-dynamite"
+      "info": "Confirmed Upcoming Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/95737-kok-dynamite",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Card: Volodymyr Hynzhu vs. Henrikas Viksraitis",
+        "Main Card: Guillermo Blokland vs. Raimondas Avlasevičius",
+        "Main Card: Wojciech Kosowski vs. Mindaugas Narauskas"
+      ]
     }
   }
 ]

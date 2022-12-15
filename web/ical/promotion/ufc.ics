@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221211T230305Z
-X-KAMPFKALENDER-HASH:e02b6bdec93db4ccf28249536957aad6ea1aedac
+DTSTAMP:20221215T013800Z
+X-KAMPFKALENDER-HASH:be483c4ae7fb8bfef0dcfa5b90831f660b35caf4
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2022-12-ufc-282-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Early Prelims
@@ -34,7 +34,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Prelim: Cameron Saaiman (6-0-0) vs. Steven Koslow (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2022-12-ufc-282-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Prelims
@@ -61,7 +61,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Prelim: Cameron Saaiman (6-0-0) vs. Steven Koslow (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2022-12-ufc-282-b-achowicz-vs-ankalaev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 282: Błachowicz vs. Ankalaev
@@ -88,7 +88,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (14-4-0)\nPrelim: Cameron Saaiman (6-0-0) vs. Steven Koslow (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2022-12-ufc-vegas-66-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 66: Prelims
@@ -96,22 +96,28 @@ DTSTART:20221217T210000Z
 DTEND:20221218T000000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/92365-ufc-fight-night\n\n---\n\nMain Event: Jared Cannonier 
- (15-6-0) vs. Sean Strickland (25-4-0)\nCo-Main Event: Arman Tsarukyan (1
- 8-3-0) vs. Damir Ismagulov (24-1-0)\nMain Card: Alex Caceres (19-13-0) v
- s. Julian Erosa (28-9-0)\nMain Card: Drew Dober (25-11-0) vs. Bobby Gree
- n (29-13-1)\nMain Card: Amir Albazi (15-1-0) vs. Alessandro Costa (12-2-
- 0)\nPrelim: Julian Marquez (9-3-0) vs. Deron Winn (7-3-0)\nPrelim: Serge
- y Morozov (18-5-0) vs. Journey Newson (10-3-0)\nPrelim: Maheshate (9-1-0
- ) vs. Rafa García (14-3-0)\nPrelim: Said Nurmagomedov (16-2-0) vs. Saidy
- okub Kakhramonov (10-2-0)\nPrelim: David Dvořák (20-4-0) vs. Manel Kape 
- (17-6-0)\nPrelim: Jake Matthews (18-5-0) vs. Matt Semelsberger (10-4-0)\
- nPrelim: Cheyanne Vlismas (7-2-0) vs. Cory McKenna (7-2-0)\nPrelim: Brya
- n Battle (8-1-0) vs. Rinat Fakhretdinov (20-2-0)\nPrelim: Cody Brundage 
- (8-2-0) vs. Michał Oleksiejczuk (17-5-0)
+ nter/events/92365-ufc-fight-night\nhttp://www.sherdog.com/events/ufc-fig
+ ht-night-216-cannonier-vs-strickland-94047\nhttp://en.wikipedia.org/wiki
+ /UFC_Fight_Night:_Cannonier_vs._Strickland\nhttps://events.mixedmartiala
+ rts.com/ufc-fight-night:6418dfe4-cb34-4651-9f88-890028d4fff0\nhttps://ww
+ w.ufc.com/event/ufc-fight-night-december-17-2022\nhttp://www.ufcstats.co
+ m/event-details/56ec58954158966a\nhttps://www.bestfightodds.com/events/u
+ fc-fight-night-217-2632\n\n---\n\nMain Event: Jared Cannonier (15-6-0) v
+ s. Sean Strickland (25-4-0)\nCo-Main Event: Arman Tsarukyan (18-3-0) vs.
+  Damir Ismagulov (24-1-0)\nMain Card: Amir Albazi (15-1-0) vs. Alessandr
+ o Costa (12-2-0)\nMain Card: Alex Caceres (19-13-0) vs. Julian Erosa (28
+ -9-0)\nMain Card: Drew Dober (25-11-0) vs. Bobby Green (29-13-1)\nMain C
+ ard: Cody Brundage (8-2-0) vs. Michał Oleksiejczuk (17-5-0)\nPrelim: Che
+ yanne Vlismas (7-2-0) vs. Cory McKenna (7-2-0)\nPrelim: Jake Matthews (1
+ 8-5-0) vs. Matt Semelsberger (10-4-0)\nPrelim: Julian Marquez (9-3-0) vs
+ . Deron Winn (7-3-0)\nPrelim: Said Nurmagomedov (16-2-0) vs. Saidyokub K
+ akhramonov (10-2-0)\nPrelim: Maheshate (9-1-0) vs. Rafa García (14-3-0)\
+ nPrelim: Bryan Battle (8-1-0) vs. Rinat Fakhretdinov (20-2-0)\nPrelim: D
+ avid Dvořák (20-4-0) vs. Manel Kape (17-6-0)\nPrelim: Sergey Morozov (18
+ -5-0) vs. Journey Newson (10-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2022-12-ufc-vegas-66-cannonier-vs-strickland@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 66: Cannonier vs. Strickland
@@ -119,22 +125,28 @@ DTSTART:20221218T000000Z
 DTEND:20221218T030000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/92365-ufc-fight-night\n\n---\n\nMain Event: Jared 
- Cannonier (15-6-0) vs. Sean Strickland (25-4-0)\nCo-Main Event: Arman Ts
- arukyan (18-3-0) vs. Damir Ismagulov (24-1-0)\nMain Card: Alex Caceres (
- 19-13-0) vs. Julian Erosa (28-9-0)\nMain Card: Drew Dober (25-11-0) vs. 
- Bobby Green (29-13-1)\nMain Card: Amir Albazi (15-1-0) vs. Alessandro Co
- sta (12-2-0)\nPrelim: Julian Marquez (9-3-0) vs. Deron Winn (7-3-0)\nPre
- lim: Sergey Morozov (18-5-0) vs. Journey Newson (10-3-0)\nPrelim: Mahesh
- ate (9-1-0) vs. Rafa García (14-3-0)\nPrelim: Said Nurmagomedov (16-2-0)
-  vs. Saidyokub Kakhramonov (10-2-0)\nPrelim: David Dvořák (20-4-0) vs. M
- anel Kape (17-6-0)\nPrelim: Jake Matthews (18-5-0) vs. Matt Semelsberger
-  (10-4-0)\nPrelim: Cheyanne Vlismas (7-2-0) vs. Cory McKenna (7-2-0)\nPr
- elim: Bryan Battle (8-1-0) vs. Rinat Fakhretdinov (20-2-0)\nPrelim: Cody
-  Brundage (8-2-0) vs. Michał Oleksiejczuk (17-5-0)
+ om/fightcenter/events/92365-ufc-fight-night\nhttp://www.sherdog.com/even
+ ts/ufc-fight-night-216-cannonier-vs-strickland-94047\nhttp://en.wikipedi
+ a.org/wiki/UFC_Fight_Night:_Cannonier_vs._Strickland\nhttps://events.mix
+ edmartialarts.com/ufc-fight-night:6418dfe4-cb34-4651-9f88-890028d4fff0\n
+ https://www.ufc.com/event/ufc-fight-night-december-17-2022\nhttp://www.u
+ fcstats.com/event-details/56ec58954158966a\nhttps://www.bestfightodds.co
+ m/events/ufc-fight-night-217-2632\n\n---\n\nMain Event: Jared Cannonier 
+ (15-6-0) vs. Sean Strickland (25-4-0)\nCo-Main Event: Arman Tsarukyan (1
+ 8-3-0) vs. Damir Ismagulov (24-1-0)\nMain Card: Amir Albazi (15-1-0) vs.
+  Alessandro Costa (12-2-0)\nMain Card: Alex Caceres (19-13-0) vs. Julian
+  Erosa (28-9-0)\nMain Card: Drew Dober (25-11-0) vs. Bobby Green (29-13-
+ 1)\nMain Card: Cody Brundage (8-2-0) vs. Michał Oleksiejczuk (17-5-0)\nP
+ relim: Cheyanne Vlismas (7-2-0) vs. Cory McKenna (7-2-0)\nPrelim: Jake M
+ atthews (18-5-0) vs. Matt Semelsberger (10-4-0)\nPrelim: Julian Marquez 
+ (9-3-0) vs. Deron Winn (7-3-0)\nPrelim: Said Nurmagomedov (16-2-0) vs. S
+ aidyokub Kakhramonov (10-2-0)\nPrelim: Maheshate (9-1-0) vs. Rafa García
+  (14-3-0)\nPrelim: Bryan Battle (8-1-0) vs. Rinat Fakhretdinov (20-2-0)\
+ nPrelim: David Dvořák (20-4-0) vs. Manel Kape (17-6-0)\nPrelim: Sergey M
+ orozov (18-5-0) vs. Journey Newson (10-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-01-ufc-vegas-67-gastelum-vs-imavov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 67: Gastelum vs. Imavov
@@ -152,32 +164,35 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  im: Omar Morales (11-3-0) vs. Mateusz Rębecki (16-1-0)\nPrelim: Punahele
   Soriano (9-2-0) vs. Roman Kopylov (9-2-0)\nPrelim: Abdul Razak Alhassan
   (11-5-0) vs. Claudio Ribeiro (10-2-0)\nPrelim: Jimmy Flick (16-5-0) vs.
-  Charles Johnson (12-3-0)
+  Charles Johnson (12-3-0)\nPrelim: Mateus Mendonça (10-0-0) vs. Javid Ba
+ sharat (13-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
-UID:2023-01-ufc-283-figueiredo-vs-moreno-4@kampfkalender.de
+DTSTAMP:20221215T013800Z
+UID:2023-01-ufc-283-teixeira-vs-hill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC 283: Figueiredo vs. Moreno 4
+SUMMARY:UFC 283: Teixeira vs. Hill
 DTSTART:20230121T230000Z
 DTEND:20230122T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/92055-ufc-283\n\n---\n\nMain Event: Deiveson Figue
- iredo (21-2-1) vs. Brandon Moreno (20-6-2)\nMain Card: Brad Tavares (19-
- 7-0) vs. Gregory Rodrigues (13-4-0)\nMain Card: Maurício Rua (27-13-1) v
- s. Ihor Potieria (18-3-0)\nMain Card: Paul Craig (16-5-1) vs. Johnny Wal
- ker (19-7-0)\nMain Card: Gilbert Burns (20-5-0) vs. Neil Magny (27-9-0)\
- nPrelim: Gabriel Bonfim (13-0-0) vs. Mounir Lazzez (11-2-0)\nPrelim: Jos
- iane Nunes (9-1-0) vs. Zarah Fairn (6-4-0)\nPrelim: Jéssica Andrade (23-
- 9-0) vs. Lauren Murphy (16-5-0)\nPrelim: Terrance McKinney (13-4-0) vs. 
- Ismael Bonfim (18-3-0)\nPrelim: Jailton Almeida (17-2-0) vs. Shamil Abdu
- rakhimov (20-7-0)\nPrelim: Thiago Moisés (16-6-0) vs. Guram Kutateladze 
- (12-3-0)\nPrelim: Warlley Alves (14-5-0) vs. Nicolas Dalby (20-4-1)\nPre
- lim: Luan Luiz Lacerda (12-1-0) vs. Cody Stamann (20-5-1)
+ om/fightcenter/events/92055-ufc-283\n\n---\n\nMain Event: Glover Teixeir
+ a (33-8-0) vs. Jamahal Hill (11-1-0)\nCo-Main Event: Deiveson Figueiredo
+  (21-2-1) vs. Brandon Moreno (20-6-2)\nMain Card: Paul Craig (16-5-1) vs
+ . Johnny Walker (19-7-0)\nMain Card: Jéssica Andrade (23-9-0) vs. Lauren
+  Murphy (16-5-0)\nMain Card: Gilbert Burns (20-5-0) vs. Neil Magny (27-9
+ -0)\nPrelim: Gabriel Bonfim (13-0-0) vs. Mounir Lazzez (11-2-0)\nPrelim:
+  Josiane Nunes (9-1-0) vs. Zarah Fairn (6-4-0)\nPrelim: Brad Tavares (19
+ -7-0) vs. Gregory Rodrigues (13-4-0)\nPrelim: Maurício Rua (27-13-1) vs.
+  Ihor Potieria (18-3-0)\nPrelim: Terrance McKinney (13-4-0) vs. Ismael B
+ onfim (18-3-0)\nPrelim: Jailton Almeida (17-2-0) vs. Shamil Abdurakhimov
+  (20-7-0)\nPrelim: Thiago Moisés (16-6-0) vs. Guram Kutateladze (12-3-0)
+ \nPrelim: Warlley Alves (14-5-0) vs. Nicolas Dalby (20-4-1)\nPrelim: Lua
+ n Luiz Lacerda (12-1-0) vs. Cody Stamann (20-5-1)\nPrelim: Daniel Marcos
+  (13-0-0) vs. Saimon Oliveira (18-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-02-ufc-seoul@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Seoul
@@ -194,7 +209,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Denis Tiuliulin (11-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-02-ufc-284@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 284
@@ -212,10 +227,10 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (10-1-1) vs. Melsik Baghdasaryan (7-1-0)\nPrelim: Jimmy Crute (12-3-0) v
  s. Alonzo Menifield (13-3-0)\nPrelim: Kleydson Rodrigues (7-2-0) vs. Sha
  nnon Ross (13-6-0)\nPrelim: Nasrat Haqparast (14-5-0) vs. Jamie Mullarke
- y (15-5-0)
+ y (15-5-0)\nPrelim: Joel Alvarez (19-3-0) vs. Zubaira Tukhugov (20-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-02-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -232,7 +247,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  rald Meerschaert (35-15-0) vs. Abus Magomedov (25-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-02-ufc-fight-night-krylov-vs-spann@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Krylov vs. Spann
@@ -244,10 +259,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Krylov (29-9-0) vs. Ryan Spann (21-7-0)\nPrelim: Jordan Leavitt (10-2-0
  ) vs. Victor Martinez (13-4-0)\nPrelim: Hailey Cowan (7-2-0) vs. Ailin P
  erez (7-2-0)\nPrelim: Ode Osbourne (11-5-0) vs. Denys Bondar (16-4-0)\nP
- relim: Jasmine Jasudavicius (7-2-0) vs. Cortney Casey (10-10-0)
+ relim: Jasmine Jasudavicius (7-2-0) vs. Cortney Casey (10-10-0)\nPrelim:
+  Erick Gonzalez (14-7-0) vs. Darrius Flowers (12-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-03-ufc-285@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 285
@@ -255,27 +271,27 @@ DTSTART:20230304T230000Z
 DTEND:20230305T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/94418-ufc-285\n\n---\n\nPrelim: Jamie Pickett (13-
- 8-0) vs. Bo Nickal (3-0-0)\nPrelim: Jessica Penne (14-6-0) vs. Tabatha R
- icci (7-1-0)\nPrelim: Farid Basharat (9-0-0) vs. Da'Mon Blackshear (12-4
- -1)
+ om/fightcenter/events/94418-ufc-285\n\n---\n\nMain Card: Viviane Araujo 
+ (11-4-0) vs. Amanda Ribas (11-3-0)\nPrelim: Jamie Pickett (13-8-0) vs. B
+ o Nickal (3-0-0)\nPrelim: Jessica Penne (14-6-0) vs. Tabatha Ricci (7-1-
+ 0)\nPrelim: Farid Basharat (9-0-0) vs. Da'Mon Blackshear (12-4-1)\nPreli
+ m: Cody Garbrandt (12-5-0) vs. Julio Arce (18-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
-UID:2023-03-ufc-fight-night-smith-vs-hill@kampfkalender.de
+DTSTAMP:20221215T013800Z
+UID:2023-03-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night: Smith vs. Hill
+SUMMARY:UFC Fight Night
 DTSTART:20230311T230000Z
 DTEND:20230312T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/95455-ufc-fight-night-smith-vs-hill\n\n---\n\nMain
-  Event: Anthony Smith (36-17-0) vs. Jamahal Hill (11-1-0)\nPrelim: Sedri
- ques Dumas (7-0-0) vs. Abu Azaitar (14-3-1)\nPrelim: Łukasz Brzeski (8-2
- -1) vs. Karl Williams (7-1-0)
+ om/fightcenter/events/95455-ufc-fight-night-smith-vs-hill\n\n---\n\nPrel
+ im: Sedriques Dumas (7-0-0) vs. Abu Azaitar (14-3-1)\nPrelim: Łukasz Brz
+ eski (8-2-1) vs. Karl Williams (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-03-ufc-286@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 286
@@ -286,7 +302,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/95408-ufc-286
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221215T013800Z
 UID:2023-03-ufc-san-antonio@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC San Antonio
