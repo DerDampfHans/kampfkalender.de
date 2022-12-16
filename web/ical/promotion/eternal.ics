@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221209T191142Z
-X-KAMPFKALENDER-HASH:b8fff0a7f471b4004eb28f5d86f54fec9e4aeca7
+DTSTAMP:20221216T095701Z
+X-KAMPFKALENDER-HASH:eab0812c162209959b75c4b94ef8410435c6866a
 BEGIN:VEVENT
-DTSTAMP:20221209T191142Z
+DTSTAMP:20221216T095701Z
 UID:2023-02-eternal-mma-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 73
@@ -15,10 +15,14 @@ DTSTART:20230211T090000Z
 DTEND:20230211T120000Z
 CATEGORIES:EMMA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/95618-eternal-mma-73
+ nter/events/95618-eternal-mma-73\n\n---\n\nMain Event: Justin Van Heerde
+ n (11-5-0) vs. Rod Costa (7-4-0)\nMain Card: Quillan Salkilld (2-1-0) vs
+ . Niam Stephen (3-1-0)\nMain Card: Abdullah Biayda (6-1-0) vs. Alan Phil
+ pott (19-14-0)\nPrelim: Ashby Tink (1-1-0) vs. Brock Hunter (1-0-0)\nPre
+ lim: Liam Hoskin (3-3-0) vs. Moses Deng (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221209T191142Z
+DTSTAMP:20221216T095701Z
 UID:2023-03-eternal-mma-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 74
@@ -26,6 +30,8 @@ DTSTART:20230318T060000Z
 DTEND:20230318T090000Z
 CATEGORIES:EMMA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/95619-eternal-mma-74
+ nter/events/95619-eternal-mma-74\n\n---\n\nMain Card: David Martinez (9-
+ 4-0) vs. Blake Donnelly (6-1-0)\nMain Card: Brentin Mumford (11-8-0) vs.
+  Aidan Aguilera (9-6-0)
 END:VEVENT
 END:VCALENDAR

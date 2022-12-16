@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221211T230305Z
-X-KAMPFKALENDER-HASH:3a31c10c687f005cc2738fb9aeed83bf0ddd4a52
+DTSTAMP:20221216T095701Z
+X-KAMPFKALENDER-HASH:7598dc67977b87b7c19d5ae1e65cf390648e41b0
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221216T095701Z
 UID:2022-12-bkfc-thailand-4-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 4: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-4-prelim
  Thearith Ouch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221216T095701Z
 UID:2022-12-bkfc-thailand-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Thailand 4
@@ -47,7 +47,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-thailand-4/2pcd8/
   Ouch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221211T230307Z
+DTSTAMP:20221216T095701Z
+UID:2023-01-bkfc-35@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 35
+DTSTART:20230127T210000Z
+DTEND:20230128T000000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96303-bkfc-35\nhttps://events.mixedmartialarts.com/bkfc-35:e63bb894
+ -eb3f-47f4-aecb-c706d2dd43bb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221216T095701Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
