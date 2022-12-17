@@ -4,32 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221216T095701Z
-X-KAMPFKALENDER-HASH:4c2342f4ad22dd4a6b91aa9fcc9cb8a038229ce8
+DTSTAMP:20221217T230305Z
+X-KAMPFKALENDER-HASH:b82741357f2475b4c6ee2fc2649df906d5b4eae7
 BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
-UID:2022-12-nfc-grappling@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC Grappling
-DTSTART:20221210T080000Z
-DTEND:20221210T160000Z
-CATEGORIES:NFC,Grappling,fighting.de,live,kostenlos
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=bOqUB3NPt20\
- n\n---\n\nhttps://fighting.de/events/nfc-grappling-1/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
-UID:2022-12-olympix-grappling@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:OlympiX Grappling
-DTSTART:20221210T110000Z
-DTEND:20221210T140000Z
-CATEGORIES:GMC,Grappling,gmc.tv,live
-DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221210-olympix-g
- rappling-no-119
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
+DTSTAMP:20221217T230306Z
 UID:2022-12-ufc-fight-pass-invitational-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 3
@@ -39,7 +17,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
+DTSTAMP:20221217T230306Z
 UID:2022-12-watch-olympix@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Watch OlympiX
@@ -50,7 +28,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221217-olympix-n
  o-120
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
+DTSTAMP:20221217T230306Z
 UID:2022-12-cjjw-team-duel-anderson-vs-faber@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CJJW Team Duel: Anderson vs. Faber
@@ -60,7 +38,7 @@ CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
+DTSTAMP:20221217T230306Z
 UID:2022-12-fury-pro-grappling-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury Pro Grappling 6
