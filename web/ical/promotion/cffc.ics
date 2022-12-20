@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221215T013800Z
-X-KAMPFKALENDER-HASH:d04b721fd9592128c3ed42b5992ae8fb6cb6011a
+DTSTAMP:20221220T182358Z
+X-KAMPFKALENDER-HASH:7ee5df4a76d04d180e26b75ccf7ee346c4c3bd15
 BEGIN:VEVENT
-DTSTAMP:20221215T013800Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-cffc-116-torres-vs-mathison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 116: Torres vs. Mathison
@@ -27,16 +27,5 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Kahler (0-0-0) vs. Mat Caracappa (0-1-0)\nPrelim: John Douma (7-2-0) vs
  . Vilson Ndregjoni (5-3-0)\nPrelim: Mark Grey (3-0-0) vs. Keith Speed (5
  -5-0)\nPrelim: Bill Markle (1-0-0) vs. Hector Iglesias (0-1-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221215T013800Z
-UID:2022-12-fury-pro-grappling-6@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Fury Pro Grappling 6
-DTSTART:20221230T010000Z
-DTEND:20221230T040000Z
-CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/96088-fury-pro-grappling-6
 END:VEVENT
 END:VCALENDAR

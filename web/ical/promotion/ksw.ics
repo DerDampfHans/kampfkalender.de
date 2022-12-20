@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221216T095701Z
-X-KAMPFKALENDER-HASH:79da046d0f262310cb54ca8963dbe6fc40787d8a
+DTSTAMP:20221220T182358Z
+X-KAMPFKALENDER-HASH:795514427cc8308974bc50d47e2321243e004a1c
 BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-ksw-77-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 77: Prelims
@@ -31,7 +31,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-ksw-77-mamed-vs-pudzian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 77: Mamed vs. Pudzian
@@ -57,15 +57,27 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/spo
  ewska (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221216T095701Z
-UID:2023-01-ksw-78@kampfkalender.de
+DTSTAMP:20221220T182358Z
+UID:2023-01-ksw-78-materla-vs-grove-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 78
+SUMMARY:KSW 78: Materla vs. Grove 2
 DTSTART:20230128T180000Z
 DTEND:20230128T210000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/94030-ksw-78\n\n---\n\nCo-Main Event: Tomasz Romanowski (17-8-0) 
- vs. Radosław Paczuski (5-0-0)
+ events/94030-ksw-78\n\n---\n\nMain Event: Michał Materla (31-9-0) vs. Ke
+ ndall Grove (24-18-0)\nCo-Main Event: Tomasz Romanowski (17-8-0) vs. Rad
+ osław Paczuski (5-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
+UID:2023-02-ksw-79@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 79
+DTSTART:20230225T150000Z
+DTEND:20230225T180000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/96391-ksw-79
 END:VEVENT
 END:VCALENDAR

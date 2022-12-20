@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221217T230305Z
-X-KAMPFKALENDER-HASH:b82741357f2475b4c6ee2fc2649df906d5b4eae7
+DTSTAMP:20221220T182358Z
+X-KAMPFKALENDER-HASH:3a0d85c4d92c14af261f26cfb9130f2f18e1e42f
 BEGIN:VEVENT
-DTSTAMP:20221217T230306Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-ufc-fight-pass-invitational-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 3
@@ -17,7 +17,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221217T230306Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-watch-olympix@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Watch OlympiX
@@ -28,7 +28,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/221217-olympix-n
  o-120
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221217T230306Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-cjjw-team-duel-anderson-vs-faber@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CJJW Team Duel: Anderson vs. Faber
@@ -36,16 +36,5 @@ DTSTART:20221218T230000Z
 DTEND:20221219T020000Z
 CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221217T230306Z
-UID:2022-12-fury-pro-grappling-6@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Fury Pro Grappling 6
-DTSTART:20221230T010000Z
-DTEND:20221230T040000Z
-CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/96088-fury-pro-grappling-6
 END:VEVENT
 END:VCALENDAR

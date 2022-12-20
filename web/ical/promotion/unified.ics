@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221215T013800Z
-X-KAMPFKALENDER-HASH:52c297d8e3f18f1850ea24b6cedc69ca3040296a
+DTSTAMP:20221220T182358Z
+X-KAMPFKALENDER-HASH:f4d002054e745bd40b9583a2de3c12d0f1d29bdd
 BEGIN:VEVENT
-DTSTAMP:20221215T013800Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-unified-mma-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Unified MMA 48
@@ -28,7 +28,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  an Bouchard (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221215T013800Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-unified-mma-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Unified MMA 49
@@ -45,5 +45,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Smith (16-12-0)\nPrelim: Jake Craig (3-0-0) vs. Terell Jonasson (2-0-0)\
  nPrelim: Gabriel Brown (1-2-0) vs. Kulbir Singh (0-0-0)\nPrelim: Tony Ro
  jas (2-1-0) vs. Edwin Ssekibuule (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
+UID:2023-03-unified-mma-50@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Unified MMA 50
+DTSTART:20230304T030000Z
+DTEND:20230304T060000Z
+CATEGORIES:UMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96525-unified-mma-50
 END:VEVENT
 END:VCALENDAR

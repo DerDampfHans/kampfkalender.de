@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221217T230305Z
-X-KAMPFKALENDER-HASH:9ae8ad02bd4c3e252d683fc921983794c4e339c5
+DTSTAMP:20221220T182358Z
+X-KAMPFKALENDER-HASH:2509790ae076cf0bbe6a4ee7aae90b306c07c19f
 BEGIN:VEVENT
-DTSTAMP:20221217T230306Z
+DTSTAMP:20221220T182358Z
 UID:2023-01-lfa-149-bunes-vs-horiuchi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 149: Bunes vs. Horiuchi
@@ -23,7 +23,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Katambwa (2-0-0) vs. Adam Garcia (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221217T230306Z
+DTSTAMP:20221220T182358Z
 UID:2023-01-lfa-150-farias-vs-sweeney@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 150: Farias vs. Sweeney
@@ -44,5 +44,20 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  vs. Moy Medina (0-0-0)\nPrelim: Blake Moreland (0-0-0) vs. Freddy Rivera
   (0-1-0)\nPrelim: Scott Zeller (1-1-0) vs. Brady Steinhorst (1-1-0)\nPre
  lim: Zach Gehl (3-0-0) vs. Darren Coleman (4-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
+UID:2023-01-lfa-151-delano-vs-santos@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 151: Delano vs. Santos
+DTSTART:20230129T010000Z
+DTEND:20230129T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96398-lfa-151-delano-vs-santos\n\n---\n\nMain Event: José De
+ lano (12-2-0) vs. Gabriel Santos (9-0-0)\nCo-Main Event: Julia Polastri 
+ (10-3-0) vs. Brenda Gottig (6-0-0)\nMain Card: Milson Castro (14-3-0) vs
+ . Roosevelt Roberts (12-3-0)\nMain Card: Jonas Bilharinho (10-2-1) vs. C
+ aio Machado (16-7-0)
 END:VEVENT
 END:VCALENDAR

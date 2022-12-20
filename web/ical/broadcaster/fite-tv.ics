@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221218T230306Z
-X-KAMPFKALENDER-HASH:65c8eaacee08c6fdd046de1d0041b87a7a61a6d4
+DTSTAMP:20221220T182358Z
+X-KAMPFKALENDER-HASH:f650ca00c3cbf02258579cdb6e29c4e40c69523a
 BEGIN:VEVENT
-DTSTAMP:20221218T230307Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-watts-vs-russell-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Watts vs. Russell 2
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/btb-watts-vs-russell/2
  l Watson (0-0-0) vs. Johnny Lesu (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221218T230307Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-charr-vs-browne@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Charr vs. Browne
@@ -39,7 +39,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/iconic-prom-dubai-brow
  /96069-charr-vs-browne\nhttp://www.boxrec.com/en/event/865896
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221218T230307Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-billam-smith-vs-xhoxhaj@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Billam Smith vs. Xhoxhaj
@@ -60,7 +60,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/billam-smith-vs-xhoxha
  egg (7-0-0) vs. Jahfibus Faure (1-9-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221218T230307Z
+DTSTAMP:20221220T182358Z
 UID:2022-12-bellator-vs-rizin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator vs. RIZIN
@@ -69,15 +69,16 @@ DTEND:20221231T130000Z
 CATEGORIES:Bellator,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-40-and-rizin-vs-
  bellator/2pcey/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/94
- 478-bellator-mma-vs-rizin\n\n---\n\nMain Event: Patricio Pitbull (34-5-0
- ) vs. Kleber Koike Erbst (31-5-1)\nCo-Main Event: AJ McKee Jr. (19-1-0) 
- vs. Roberto de Souza (14-1-0)\nMain Card: Juan Archuleta (26-4-0) vs. So
- o Chul Kim (18-6-1)\nMain Card: Kyoji Horiguchi (30-5-0) vs. Hiromasa Ou
- gikubo (25-6-2)\nMain Card: Koji Takeda (15-3-0) vs. Gadzhi Rabadanov (1
- 8-4-2)
+ 478-bellator-mma-vs-rizin\nhttps://events.mixedmartialarts.com/bellator-
+ mma-vs-rizin-ff:da18c0fd-ec1e-4562-84a2-4a02a7ef113b\n\n---\n\nMain Even
+ t: Patricio Pitbull (34-5-0) vs. Kleber Koike Erbst (31-5-1)\nCo-Main Ev
+ ent: AJ McKee Jr. (19-1-0) vs. Roberto de Souza (14-1-0)\nMain Card: Jua
+ n Archuleta (26-4-0) vs. Soo Chul Kim (18-6-1)\nMain Card: Kyoji Horiguc
+ hi (30-5-0) vs. Hiromasa Ougikubo (25-6-2)\nMain Card: Koji Takeda (15-3
+ -0) vs. Gadzhi Rabadanov (18-4-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221218T230307Z
+DTSTAMP:20221220T182358Z
 UID:2023-01-bkfc-35@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35
@@ -89,7 +90,29 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -eb3f-47f4-aecb-c706d2dd43bb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221218T230307Z
+DTSTAMP:20221220T182358Z
+UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Knuckle Mania 3
+DTSTART:20230218T010000Z
+DTEND:20230218T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96439-bkfc-knuckle-mania-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
+UID:2023-02-bkfc-36@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 36
+DTSTART:20230224T020000Z
+DTEND:20230224T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96440-bkfc-36
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -99,5 +122,16 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94482-bkfc-fight-night-buakaw-vs-saenchai\n\n---\n\nMain Event: Bua
  kaw Banchamek vs. Saenchai Saenpong
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
+UID:2023-03-bkfc-37@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 37
+DTSTART:20230325T000000Z
+DTEND:20230325T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96441-bkfc-37
 END:VEVENT
 END:VCALENDAR

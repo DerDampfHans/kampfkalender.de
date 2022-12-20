@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221217T230305Z
-X-KAMPFKALENDER-HASH:f287f0fd0554b9a31af8c3e3659267ae686e718f
+DTSTAMP:20221220T182358Z
+X-KAMPFKALENDER-HASH:7526438fb9fa55953eb303912df870a35044305d
 BEGIN:VEVENT
-DTSTAMP:20221217T230305Z
+DTSTAMP:20221220T182358Z
 UID:2023-01-bkfc-35@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35
@@ -19,7 +19,29 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -eb3f-47f4-aecb-c706d2dd43bb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221217T230305Z
+DTSTAMP:20221220T182358Z
+UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Knuckle Mania 3
+DTSTART:20230218T010000Z
+DTEND:20230218T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96439-bkfc-knuckle-mania-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
+UID:2023-02-bkfc-36@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 36
+DTSTART:20230224T020000Z
+DTEND:20230224T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96440-bkfc-36
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -29,5 +51,16 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94482-bkfc-fight-night-buakaw-vs-saenchai\n\n---\n\nMain Event: Bua
  kaw Banchamek vs. Saenchai Saenpong
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221220T182358Z
+UID:2023-03-bkfc-37@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 37
+DTSTART:20230325T000000Z
+DTEND:20230325T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96441-bkfc-37
 END:VEVENT
 END:VCALENDAR
