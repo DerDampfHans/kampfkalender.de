@@ -1356,8 +1356,8 @@
       "until": "2022-12-04T19:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
-          "free": true,
-          "url": "https://www.youtube.com/watch?v=R_Z4x1s6LK8"
+          "url": "https://www.youtube.com/watch?v=R_Z4x1s6LK8",
+          "free": true
         }
       }
     }
@@ -1377,8 +1377,8 @@
       "until": "2022-12-11T19:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
-          "free": true,
-          "url": "https://www.youtube.com/watch?v=JcneqNCV8YE"
+          "url": "https://www.youtube.com/watch?v=JcneqNCV8YE",
+          "free": true
         }
       }
     }
@@ -1397,8 +1397,27 @@
       "until": "2022-12-18T00:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
-          "free": true,
-          "url": "https://www.youtube.com/watch?v=l-3Nl6O2KTQ"
+          "url": "https://www.youtube.com/watch?v=l-3Nl6O2KTQ",
+          "free": true
+        }
+      }
+    }
+  },
+  {
+    "id": "schlagwort-2022-12-25",
+    "live": false,
+    "promotion": "SCHLAGWORT",
+    "tags": [
+      "🎙@BDKraniotakes",
+      "🎙@MarkBergmann"
+    ],
+    "mainCard": {
+      "title": "Schlagwort: Matchmaking Special",
+      "time": "2022-12-25T17:00:00Z",
+      "until": "2022-12-25T18:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
         }
       }
     }
