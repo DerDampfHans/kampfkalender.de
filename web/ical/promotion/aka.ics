@@ -4,16 +4,25 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221223T171851Z
-X-KAMPFKALENDER-HASH:eaea61c145a73ea2d57bb571794ef633aead7ac9
+DTSTAMP:20221226T120743Z
+X-KAMPFKALENDER-HASH:5022489f09faa28939cf97ba08bbb7f090715ef0
 BEGIN:VEVENT
-DTSTAMP:20221223T171851Z
+DTSTAMP:20221226T120743Z
 UID:2023-01-aka-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 25
 DTSTART:20230107T010000Z
 DTEND:20230107T040000Z
-CATEGORIES:AKA,MMA,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-25/2pcfa/
+CATEGORIES:AKA,MMA,Grappling,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-25/2pcfa/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/96715-aka-25\n\n---\n\nMai
+ n Event: Christopher Anthony (10-12-0) vs. Jacob Capelli (7-9-0)\nCo-Mai
+ n Event: John Garza (5-3-0) vs. Elgie Borinaga (2-0-0)\nMain Card: Alex 
+ Barrientos vs. Nate Blundell\nMain Card: Tony Ortiz (0-0-0) vs. Bryce Ri
+ chard (0-0-0)\nMain Card: Chris Reed (3-3-0) vs. Chris Roppolo (2-2-0)\n
+ Main Card: Willie Davis (0-0-0) vs. Van Stuart (1-0-0)\nMain Card: Shane
+  Wright (1-0-0) vs. Jose Castro Duran (1-2-0)\nMain Card: Dorian Jones (
+ 0-1-0) vs. Clark Gunter (0-1-0)\nMain Card: Fabian Reyna (1-1-0) vs. Dar
+ io Garcia (0-0-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221225T230305Z
-X-KAMPFKALENDER-HASH:8c127db05ec79b24f489ecac113a7ebc9d9b35c5
+DTSTAMP:20221226T120743Z
+X-KAMPFKALENDER-HASH:3914bcd276df83c938632a0caa29fa06b1c863fd
 BEGIN:VEVENT
-DTSTAMP:20221225T230307Z
+DTSTAMP:20221226T120744Z
 UID:2022-12-fury-pro-grappling-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury Pro Grappling 6
@@ -20,5 +20,24 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Card: Joseph Pyfer vs. Eryk Anders\nMain Card: Andre Petroski vs. Ovince
   St. Preux\nMain Card: Pat Sabatini vs. Alex Caceres\nMain Card: Trevin 
  Giles vs. Mike Malott\nMain Card: Philip Rowe vs. Nick Galanti
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221226T120744Z
+UID:2023-01-aka-25@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 25
+DTSTART:20230107T010000Z
+DTEND:20230107T040000Z
+CATEGORIES:AKA,MMA,Grappling,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-25/2pcfa/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/96715-aka-25\n\n---\n\nMai
+ n Event: Christopher Anthony (10-12-0) vs. Jacob Capelli (7-9-0)\nCo-Mai
+ n Event: John Garza (5-3-0) vs. Elgie Borinaga (2-0-0)\nMain Card: Alex 
+ Barrientos vs. Nate Blundell\nMain Card: Tony Ortiz (0-0-0) vs. Bryce Ri
+ chard (0-0-0)\nMain Card: Chris Reed (3-3-0) vs. Chris Roppolo (2-2-0)\n
+ Main Card: Willie Davis (0-0-0) vs. Van Stuart (1-0-0)\nMain Card: Shane
+  Wright (1-0-0) vs. Jose Castro Duran (1-2-0)\nMain Card: Dorian Jones (
+ 0-1-0) vs. Clark Gunter (0-1-0)\nMain Card: Fabian Reyna (1-1-0) vs. Dar
+ io Garcia (0-0-0)
 END:VEVENT
 END:VCALENDAR
