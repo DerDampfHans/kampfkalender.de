@@ -6,14 +6,50 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC35"
+      "#BKFC35",
+      "#BKFCMyrtleBeach"
     ],
     "mainCard": {
       "title": "BKFC 35: Cedeno vs. Slaveski",
-      "time": "2023-01-27T21:00:00Z",
+      "time": "2023-01-28T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-35/2pcg6/"
         }
+      },
+      "fite": {
+        "id": "2pcg6",
+        "time": "2023-01-28T01:00:00Z",
+        "title": "BKFC 35 Myrtle Beach: Yosdenis Cedeno vs Gorjan Slaveski",
+        "url": "https://www.fite.tv/watch/bkfc-35/2pcg6/",
+        "price": "$19.99",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 35: Prelims",
+      "time": "2023-01-28T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-35-prelims/2pcg7/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcg7",
+        "time": "2023-01-28T00:00:00Z",
+        "title": "BKFC 35 Myrtle Beach: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-35-prelims/2pcg7/",
+        "price": "FREE",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {

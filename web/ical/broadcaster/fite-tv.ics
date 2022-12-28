@@ -4,28 +4,50 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221226T120743Z
-X-KAMPFKALENDER-HASH:64bc43d0e16165903a81aaa7c628bd741699fee2
+DTSTAMP:20221228T205454Z
+X-KAMPFKALENDER-HASH:dbbd23947b65796950805d0391e447638008f183
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
+UID:2022-12-rizin-40@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:RIZIN 40
+DTSTART:20221231T100000Z
+DTEND:20221231T130000Z
+CATEGORIES:RIZIN,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-40-and-rizin-vs-
+ bellator/2pcey/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/94
+ 453-rizin-40\nhttp://www.sherdog.com/events/rizin-ff-rizin-40-bellator-m
+ ma-vs-rizin-95290\nhttps://events.mixedmartialarts.com/rizin-40:e30d1a61
+ -618d-40c4-9e76-7d17122b330f\n\n---\n\nMain Event: Seika Izawa (8-0-0) v
+ s. Si Woo Park (9-4-0)\nMain Card: Tsuyoshi Sudario (6-1-0) vs. Junior T
+ afa (3-0-0)\nMain Card: Naoki Inoue (15-3-0) vs. Kenta Takizawa (13-8-0)
+ \nMain Card: Yuki Motoya (32-10-0) vs. Rogério Bontorin (17-4-0)\nMain C
+ ard: Luiz Gustavo (12-2-0) vs. Johnny Case (27-9-1)\nMain Card: Hideo To
+ koro (35-31-2) vs. John Dodson (22-13-0)\nMain Card: Noah Bey (1-2-0) vs
+ . Sho Patrick Usami (5-1-0)\nMain Card: Yoshiki Nakahara (17-5-0) vs. Ch
+ ihiro Suzuki (9-3-0)\nMain Card: Yushi (2-1-0) vs. Tatsuya Nakazawa (1-0
+ -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221228T205455Z
 UID:2022-12-bellator-vs-rizin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator vs. RIZIN
-DTSTART:20221231T100000Z
-DTEND:20221231T130000Z
+DTSTART:20221231T160000Z
+DTEND:20221231T190000Z
 CATEGORIES:Bellator,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-40-and-rizin-vs-
  bellator/2pcey/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/94
  478-bellator-mma-vs-rizin\nhttps://events.mixedmartialarts.com/bellator-
  mma-vs-rizin-ff:da18c0fd-ec1e-4562-84a2-4a02a7ef113b\n\n---\n\nMain Even
  t: AJ McKee Jr. (19-1-0) vs. Roberto de Souza (14-1-0)\nCo-Main Event: P
- atricio Pitbull (34-5-0) vs. Kleber Koike Erbst (31-5-1)\nMain Card: Jua
- n Archuleta (26-4-0) vs. Soo Chul Kim (18-6-1)\nMain Card: Kyoji Horiguc
- hi (30-5-0) vs. Hiromasa Ougikubo (25-6-2)\nMain Card: Koji Takeda (15-3
+ atricio Pitbull (34-5-0) vs. Kleber Koike Erbst (31-5-1)\nMain Card: Kyo
+ ji Horiguchi (30-5-0) vs. Hiromasa Ougikubo (25-6-2)\nMain Card: Juan Ar
+ chuleta (26-4-0) vs. Soo Chul Kim (18-6-1)\nMain Card: Koji Takeda (15-3
  -0) vs. Gadzhi Rabadanov (18-4-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
 UID:2023-01-aka-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 25
@@ -44,24 +66,43 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-25/2pcfa/\n\n---\n
  io Garcia (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
+UID:2023-01-bkfc-35-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 35: Prelims
+DTSTART:20230128T000000Z
+DTEND:20230128T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35-prelims/2pcg7/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/96303-bkfc-35\nht
+ tps://events.mixedmartialarts.com/bkfc-35:e63bb894-eb3f-47f4-aecb-c706d2
+ dd43bb\n\n---\n\nMain Event: Yosdenis Cedeno vs. Gorjan Slaveski\nMain C
+ ard: Andy Nguyen vs. Nekah Dmitriyeva\nMain Card: Donterry Woods vs. Jon
+ athan Miller\nMain Card: Brandon Bushaw vs. Paul Teague\nMain Card: Marc
+ us Brimage vs. Trevor Loken\nMain Card: Tony Soto vs. Joshua Marer\nMain
+  Card: Devin Gibson vs. Albert Inclan\nPrelim: Robert Armas vs. Jakobi L
+ owery\nPrelim: James Brown vs. Stevo Morris
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221228T205455Z
 UID:2023-01-bkfc-35-cedeno-vs-slaveski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Cedeno vs. Slaveski
-DTSTART:20230127T210000Z
-DTEND:20230128T000000Z
+DTSTART:20230128T010000Z
+DTEND:20230128T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96303-bkfc-35\nhttps://events.mixedmartialarts.com/bkfc-35:e63bb894
- -eb3f-47f4-aecb-c706d2dd43bb\n\n---\n\nMain Event: Yosdenis Cedeno vs. G
- orjan Slaveski\nMain Card: Andy Nguyen vs. Nekah Dmitriyeva\nMain Card: 
- Donterry Woods vs. Jonathan Miller\nMain Card: Brandon Bushaw vs. Paul T
- eague\nMain Card: Marcus Brimage vs. Trevor Loken\nMain Card: Tony Soto 
- vs. Joshua Marer\nMain Card: Devin Gibson vs. Albert Inclan\nPrelim: Rob
- ert Armas vs. Jakobi Lowery\nPrelim: James Brown vs. Stevo Morris
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35/2pcg6/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/96303-bkfc-35\nhttps://ev
+ ents.mixedmartialarts.com/bkfc-35:e63bb894-eb3f-47f4-aecb-c706d2dd43bb\n
+ \n---\n\nMain Event: Yosdenis Cedeno vs. Gorjan Slaveski\nMain Card: And
+ y Nguyen vs. Nekah Dmitriyeva\nMain Card: Donterry Woods vs. Jonathan Mi
+ ller\nMain Card: Brandon Bushaw vs. Paul Teague\nMain Card: Marcus Brima
+ ge vs. Trevor Loken\nMain Card: Tony Soto vs. Joshua Marer\nMain Card: D
+ evin Gibson vs. Albert Inclan\nPrelim: Robert Armas vs. Jakobi Lowery\nP
+ relim: James Brown vs. Stevo Morris
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
 UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Knuckle Mania 3
@@ -73,7 +114,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ike Richman
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
 UID:2023-02-bkfc-36-adams-vs-belcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Adams vs. Belcher
@@ -84,7 +125,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96440-bkfc-36\n\n---\n\nMain Event: Arnold Adams vs. Alan Belcher
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -96,7 +137,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
 UID:2023-03-bkfc-37@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37

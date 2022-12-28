@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221226T120743Z
-X-KAMPFKALENDER-HASH:3914bcd276df83c938632a0caa29fa06b1c863fd
+DTSTAMP:20221228T205454Z
+X-KAMPFKALENDER-HASH:fc8e6676fcb451cff2c6b1484c2f25dd3e204302
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
 UID:2022-12-fury-pro-grappling-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury Pro Grappling 6
@@ -19,10 +19,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nas vs. Gillian Robertson\nMain Card: Clay Guida vs. Chase Hooper\nMain 
  Card: Joseph Pyfer vs. Eryk Anders\nMain Card: Andre Petroski vs. Ovince
   St. Preux\nMain Card: Pat Sabatini vs. Alex Caceres\nMain Card: Trevin 
- Giles vs. Mike Malott\nMain Card: Philip Rowe vs. Nick Galanti
+ Giles vs. Mike Malott\nMain Card: Philip Rowe vs. Nick Galanti\nMain Car
+ d: Pat Barry vs. Jon Pellot\nMain Card: Christos Giagos vs. Z. Kamchybek
+ ov\nMain Card: Denis Gunic vs. Elijah Ezucar\nMain Card: Andrew Kochel v
+ s. Richie Lewis\nPrelim: Connor Dixon vs. James Hardeman\nPrelim: Kevin 
+ Dantzler vs. Dennis Pressey Jr.\nPrelim: Amanda Mazza vs. Sandy Chheng\n
+ Prelim: Jonathan Pecyna vs. Josh Hammaker\nPrelim: Freddy Boasi vs. Max 
+ Livingston\nPrelim: Jonna Wood vs. Molli Zborowski\nPrelim: Kevin Stilo 
+ vs. Charlie Livingston
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T120744Z
+DTSTAMP:20221228T205455Z
 UID:2023-01-aka-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 25
@@ -39,5 +46,17 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-25/2pcfa/\n\n---\n
   Wright (1-0-0) vs. Jose Castro Duran (1-2-0)\nMain Card: Dorian Jones (
  0-1-0) vs. Clark Gunter (0-1-0)\nMain Card: Fabian Reyna (1-1-0) vs. Dar
  io Garcia (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221228T205455Z
+UID:2023-03-brave-cf-70@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Brave CF 70
+DTSTART:20230318T190000Z
+DTEND:20230318T220000Z
+CATEGORIES:BRAVE,Grappling,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/96793-brave-cf-70\n\n---\n\nMain Card: Antônio Silva vs. Haim G
+ ozali
 END:VEVENT
 END:VCALENDAR

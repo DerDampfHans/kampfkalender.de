@@ -5,8 +5,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#JCK19"
+    ],
     "mainCard": {
-      "title": "JCK Fight Night 2022: Week 19",
+      "title": "JCK 19",
       "time": "2022-12-31T11:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
@@ -25,8 +28,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#JCK20"
+    ],
     "mainCard": {
-      "title": "JCK Fight Night 2022: Week 20",
+      "title": "JCK 20",
       "time": "2023-01-07T11:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
@@ -44,6 +50,29 @@
       "title": "JCK Fight Night 2022: Week 19",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/96613-jck-fight-night-2022-week-20"
+    }
+  },
+  {
+    "id": "fightpass-232098",
+    "promotion": "JCK_CN",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#JCK21"
+    ],
+    "mainCard": {
+      "title": "JCK 21",
+      "time": "2023-01-14T11:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 232098,
+        "time": "2023-01-14T11:00:00Z",
+        "title": "JCK MMA: 21"
+      }
     }
   }
 ]

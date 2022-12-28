@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221225T230305Z
-X-KAMPFKALENDER-HASH:beb34e08e91ffdf1f7461192f8dcc69831d45c49
+DTSTAMP:20221228T205454Z
+X-KAMPFKALENDER-HASH:7e361ed124b68459a66951cb2c99e2139dfdab01
 BEGIN:VEVENT
-DTSTAMP:20221225T230306Z
+DTSTAMP:20221228T205455Z
 UID:2023-01-fury-fc-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 73
@@ -19,5 +19,49 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  vs. Andrés Quintana (19-5-0)\nCo-Main Event: Eric Shelton (15-8-0) vs. G
  ianni Vazquez (8-4-0)\nMain Card: Eddie Fraire (4-2-0) vs. Josh Walker (
  6-1-0)\nMain Card: Anthony Ivy (8-7-0) vs. Austin Jones (12-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221228T205455Z
+UID:2023-02-fury-fc-74@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 74
+DTSTART:20230205T210000Z
+DTEND:20230206T000000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96722-fury-fc-7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221228T205455Z
+UID:2023-02-fury-fc-75@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 75
+DTSTART:20230218T010000Z
+DTEND:20230218T040000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96723-fury-fc-75
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221228T205455Z
+UID:2023-03-fury-fc-76@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 76
+DTSTART:20230318T000000Z
+DTEND:20230318T030000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96724-fury-fc-76
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221228T205455Z
+UID:2023-03-fury-fc-77@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 77
+DTSTART:20230325T000000Z
+DTEND:20230325T030000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/96725-fury-fc-77
 END:VEVENT
 END:VCALENDAR
