@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221210T230304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20221230T152356Z
+X-KAMPFKALENDER-HASH:3cef3c9a2cc99e9dab066f30bec688dfdb83eb8c
+BEGIN:VEVENT
+DTSTAMP:20221230T152357Z
+UID:2023-01-bkb-30@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 30
+DTSTART:20230121T130000Z
+DTEND:20230121T160000Z
+CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
+DESCRIPTION:via fighting.de\nvia fite.tv\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/96803-bkb-30\n\n---\n\nMain Card: Barrie Jones vs.
+  Jonny Tello\nMain Card: Dan Podmore vs. Randall Rayment\nMain Card: Leo
+  Pla vs. Mikhail Vertrila\nMain Card: Chisakan Ariphipat vs. Nong Noey S
+ or Sunrum
+END:VEVENT
 END:VCALENDAR
