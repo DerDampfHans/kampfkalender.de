@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221226T120743Z
-X-KAMPFKALENDER-HASH:5022489f09faa28939cf97ba08bbb7f090715ef0
+DTSTAMP:20230110T033333Z
+X-KAMPFKALENDER-HASH:d2c6b7b9e03d8c10bc034858a334e45ba9e80b5d
 BEGIN:VEVENT
-DTSTAMP:20221226T120743Z
+DTSTAMP:20230110T033333Z
 UID:2023-01-aka-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 25
@@ -24,5 +24,27 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-25/2pcfa/\n\n---\n
   Wright (1-0-0) vs. Jose Castro Duran (1-2-0)\nMain Card: Dorian Jones (
  0-1-0) vs. Clark Gunter (0-1-0)\nMain Card: Fabian Reyna (1-1-0) vs. Dar
  io Garcia (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T033333Z
+UID:2023-01-aka-26@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 26
+DTSTART:20230121T010000Z
+DTEND:20230121T040000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-26/2pcgz/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/97137-aka-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T033333Z
+UID:2023-01-aka-27@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 27
+DTSTART:20230128T010000Z
+DTEND:20230128T040000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-27/2pcha/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/97138-aka-27
 END:VEVENT
 END:VCALENDAR

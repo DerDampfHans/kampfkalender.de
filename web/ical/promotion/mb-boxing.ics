@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221230T152356Z
-X-KAMPFKALENDER-HASH:47e0dbfd813dc67250c85b8d0c0663a78841efac
+DTSTAMP:20230110T033333Z
+X-KAMPFKALENDER-HASH:d6493c768d0bf0b9d03bd96636c5072e26745b59
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-02-serrano-vs-cruz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Serrano vs. Cruz
@@ -15,8 +15,38 @@ DTSTART:20230205T000000Z
 DTEND:20230205T030000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/96075-serrano-vs-cruz\n\n---\n\nMain Event: Amanda Serrano (43-2-1) vs
- . Erika Cruz (15-1-0)\nMain Card: Alycia Baumgardner (13-1-0) vs. Elhem 
- Mekhaled (15-1-0)
+ s/96075-serrano-vs-cruz\nhttp://www.boxrec.com/en/event/867048\n\n---\n\
+ nMain Event: Amanda Serrano (43-2-1) vs. Erika Cruz (15-1-0)\nMain Card:
+  Alycia Baumgardner (13-1-0) vs. Elhem Mekhaled (15-1-0)\nMain Card: Ric
+ hardson Hitchins (15-0-0) vs. John Bauza (17-0-0)\nMain Card: Cletus Sel
+ din (26-1-0) vs. Reshat Mati (13-0-0)\nMain Card: Skye Nicolson (0-0-0) 
+ vs. Tania Alvarez (0-0-0)\nMain Card: Ramla Ali (7-0-0) vs. Avril Mathie
+  (8-0-1)\nMain Card: Aaron Aponte (6-0-1) vs. Joshua David Rivera (8-1-0
+ )\nMain Card: Harley Mederos (0-0-0) vs. Julio Madera (4-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T033334Z
+UID:2023-02-wood-vs-lara@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wood vs. Lara
+DTSTART:20230218T190000Z
+DTEND:20230218T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97014-wood-vs-lara\n\n---\n\nMain Event: Leigh Wood (26-2-0) vs. Mauri
+ cio Lara (24-2-1)\nMain Card: Cheavon Clarke (0-0-0) vs. Dec Spelman (19
+ -6-0)\nMain Card: Solomon Dacres (5-0-0) vs. Emir Ahmatovic (12-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T033334Z
+UID:2023-04-rodriguez-vs-gonzalez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rodriguez vs. Gonzalez
+DTSTART:20230409T000000Z
+DTEND:20230409T030000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97008-rodriguez-vs-gonzalez\n\n---\n\nMain Event: Jesse Rodriguez (17-
+ 0-0) vs. Cristian Gonzalez (15-1-0)
 END:VEVENT
 END:VCALENDAR

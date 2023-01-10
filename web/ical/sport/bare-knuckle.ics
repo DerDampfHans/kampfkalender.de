@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221230T152356Z
-X-KAMPFKALENDER-HASH:2037a0175005e1077e6d7fd064304cc61734c427
+DTSTAMP:20230110T033333Z
+X-KAMPFKALENDER-HASH:ad1110de8835452e7049eda3e789b3ea88d961fb
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-01-bkb-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 30
@@ -18,10 +18,10 @@ DESCRIPTION:via fighting.de\nvia fite.tv\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/96803-bkb-30\n\n---\n\nMain Card: Barrie Jones vs.
   Jonny Tello\nMain Card: Dan Podmore vs. Randall Rayment\nMain Card: Leo
   Pla vs. Mikhail Vertrila\nMain Card: Chisakan Ariphipat vs. Nong Noey S
- or Sunrum
+ or Sunrum\nMain Card: Will Chope vs. Petzilla
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-01-bkfc-35-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Prelims
@@ -35,11 +35,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35-prelims/2pcg7/
  ard: Andy Nguyen vs. Nekah Dmitriyeva\nMain Card: Donterry Woods vs. Jon
  athan Miller\nMain Card: Brandon Bushaw vs. Paul Teague\nMain Card: Marc
  us Brimage vs. Trevor Loken\nMain Card: Tony Soto vs. Joshua Marer\nMain
-  Card: Devin Gibson vs. Albert Inclan\nPrelim: Robert Armas vs. Jakobi L
- owery\nPrelim: James Brown vs. Stevo Morris
+  Card: Devin Gibson vs. Albert Inclan\nMain Card: Jordan Weeks vs. Murat
+  Kazgan\nMain Card: Tomar Washington vs. Willie Sears\nPrelim: Robert Ar
+ mas vs. Jakobi Lowery\nPrelim: James Brown vs. Stevo Morris\nPrelim: Dou
+ g Coltrane vs. Brian Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-01-bkfc-35-cedeno-vs-slaveski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Cedeno vs. Slaveski
@@ -53,11 +55,13 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35/2pcg6/\n\n---\
  y Nguyen vs. Nekah Dmitriyeva\nMain Card: Donterry Woods vs. Jonathan Mi
  ller\nMain Card: Brandon Bushaw vs. Paul Teague\nMain Card: Marcus Brima
  ge vs. Trevor Loken\nMain Card: Tony Soto vs. Joshua Marer\nMain Card: D
- evin Gibson vs. Albert Inclan\nPrelim: Robert Armas vs. Jakobi Lowery\nP
- relim: James Brown vs. Stevo Morris
+ evin Gibson vs. Albert Inclan\nMain Card: Jordan Weeks vs. Murat Kazgan\
+ nMain Card: Tomar Washington vs. Willie Sears\nPrelim: Robert Armas vs. 
+ Jakobi Lowery\nPrelim: James Brown vs. Stevo Morris\nPrelim: Doug Coltra
+ ne vs. Brian Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Knuckle Mania 3
@@ -69,7 +73,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ike Richman
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-02-bkfc-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Prelims
@@ -81,7 +85,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/
  ---\n\nMain Event: Arnold Adams vs. Alan Belcher
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-02-bkfc-36-adams-vs-belcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Adams vs. Belcher
@@ -93,7 +97,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36/2pcgq/\n\n---\
  ain Event: Arnold Adams vs. Alan Belcher
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -105,14 +109,15 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
-UID:2023-03-bkfc-37@kampfkalender.de
+DTSTAMP:20230110T033334Z
+UID:2023-03-bkfc-37-tierney-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC 37
+SUMMARY:BKFC 37: Tierney vs. Lindsey
 DTSTART:20230325T000000Z
 DTEND:20230325T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96441-bkfc-37
+ ents/96441-bkfc-37\n\n---\n\nMain Event: Connor Tierney vs. Jake Lindsey
+ 
 END:VEVENT
 END:VCALENDAR

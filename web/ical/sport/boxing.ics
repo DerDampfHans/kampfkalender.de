@@ -4,27 +4,46 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221230T152356Z
-X-KAMPFKALENDER-HASH:0fbf173a20ff17d206bf9b4a6793cda6e8602e02
+DTSTAMP:20230110T033333Z
+X-KAMPFKALENDER-HASH:1f72a377fd7fb22f7f28a12c3431753ae9477fe0
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
-UID:2023-01-walsh-vs-strickland@kampfkalender.de
+DTSTAMP:20230110T033334Z
+UID:2023-01-ksi-vs-faze-temperrr@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Walsh vs. Strickland
+SUMMARY:KSI vs FaZe Temperrr
+DTSTART:20230114T190000Z
+DTEND:20230114T220000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/95235-mf-dazn-x-series-4\n\n---\n\nMain Event: Olajide Olatunji (1-0-0
+ ) vs. Thomas Oliveira (0-0-0)\nMain Card: Sulieman Albaher (0-0-0) vs. T
+ om Zanetti (0-0-0)\nMain Card: Busta Breezie (0-0-0) vs. Josh Brueckner 
+ (2-0-0)\nMain Card: Ryan Taylor (0-0-0) vs. Brandon Scott (0-0-0)\nMain 
+ Card: Faith Ordway (0-0-0) vs. Elle Brooke (0-0-0)\nMain Card: Anthony T
+ aylor (2-3-0) vs. Idris Virgo (12-0-1)\nMain Card: Bdave (0-0-0) vs. Ale
+ x Burriss (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T033334Z
+UID:2023-01-bohachuk-vs-gallimore@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bohachuk vs. Gallimore
 DTSTART:20230128T030000Z
 DTEND:20230128T060000Z
 CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/96485-hollywood-fight-nights\nhttp://www.boxrec.com/en/event
- /862014\n\n---\n\nMain Card: Callum Walsh (0-0-0) vs. Jimmie Strickland 
- II (10-0-0)\nMain Card: Serhii Bohachuk (21-1-0) vs. Nathaniel Gallimore
-  (22-6-1)\nMain Card: Eric Priest (9-0-0) vs. Joeshon James (7-0-0)\nMai
- n Card: Tayden Beltran (4-0-1) vs. Andres Gerardo (0-0-0)\nMain Card: Da
- vid Romero (0-0-0) vs. Michael De la Cruz (0-0-0)\nMain Card: Gloria Mun
- guilla (0-0-0) vs. JoAnna Espinoza (0-0-0)
+ /862014\n\n---\n\nMain Card: Serhii Bohachuk (21-1-0) vs. Nathaniel Gall
+ imore (22-6-1)\nMain Card: Eric Priest (9-0-0) vs. Joeshon James (7-0-0)
+ \nMain Card: David Romero (0-0-0) vs. Michael De la Cruz (0-0-0)\nMain C
+ ard: Gloria Munguilla (0-0-0) vs. JoAnna Espinoza (0-0-0)\nMain Card: Om
+ ar Cande Trinidad (10-0-1) vs. Jose Ramirez (28-8-0)\nMain Card: Stefani
+ e Cohen (2-1-1) vs. Kedra Bradley (1-5-1)\nMain Card: Umar Dzambekov (0-
+ 0-0) vs. Anthony Fleming (2-0-0)\nMain Card: Steve Von Euw (0-0-0) vs. A
+ donis Marmolejo (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221230T152357Z
+DTSTAMP:20230110T033334Z
 UID:2023-02-serrano-vs-cruz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Serrano vs. Cruz
@@ -32,8 +51,38 @@ DTSTART:20230205T000000Z
 DTEND:20230205T030000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/96075-serrano-vs-cruz\n\n---\n\nMain Event: Amanda Serrano (43-2-1) vs
- . Erika Cruz (15-1-0)\nMain Card: Alycia Baumgardner (13-1-0) vs. Elhem 
- Mekhaled (15-1-0)
+ s/96075-serrano-vs-cruz\nhttp://www.boxrec.com/en/event/867048\n\n---\n\
+ nMain Event: Amanda Serrano (43-2-1) vs. Erika Cruz (15-1-0)\nMain Card:
+  Alycia Baumgardner (13-1-0) vs. Elhem Mekhaled (15-1-0)\nMain Card: Ric
+ hardson Hitchins (15-0-0) vs. John Bauza (17-0-0)\nMain Card: Cletus Sel
+ din (26-1-0) vs. Reshat Mati (13-0-0)\nMain Card: Skye Nicolson (0-0-0) 
+ vs. Tania Alvarez (0-0-0)\nMain Card: Ramla Ali (7-0-0) vs. Avril Mathie
+  (8-0-1)\nMain Card: Aaron Aponte (6-0-1) vs. Joshua David Rivera (8-1-0
+ )\nMain Card: Harley Mederos (0-0-0) vs. Julio Madera (4-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T033334Z
+UID:2023-02-wood-vs-lara@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wood vs. Lara
+DTSTART:20230218T190000Z
+DTEND:20230218T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97014-wood-vs-lara\n\n---\n\nMain Event: Leigh Wood (26-2-0) vs. Mauri
+ cio Lara (24-2-1)\nMain Card: Cheavon Clarke (0-0-0) vs. Dec Spelman (19
+ -6-0)\nMain Card: Solomon Dacres (5-0-0) vs. Emir Ahmatovic (12-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T033334Z
+UID:2023-04-rodriguez-vs-gonzalez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rodriguez vs. Gonzalez
+DTSTART:20230409T000000Z
+DTEND:20230409T030000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97008-rodriguez-vs-gonzalez\n\n---\n\nMain Event: Jesse Rodriguez (17-
+ 0-0) vs. Cristian Gonzalez (15-1-0)
 END:VEVENT
 END:VCALENDAR
