@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230110T033333Z
-X-KAMPFKALENDER-HASH:ed67a07faffaa8dd8cc3e1852b64177b8e5de8f3
+DTSTAMP:20230111T053030Z
+X-KAMPFKALENDER-HASH:1c21eb68b7b39c852fa9a0f856865770d9516b7c
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-01-aka-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 25
@@ -26,7 +26,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-25/2pcfa/\n\n---\n
  io Garcia (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-01-aka-26@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 26
@@ -37,21 +37,22 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-26/2pcgz/\n\n---\n
  \nhttps://www.tapology.com/fightcenter/events/97137-aka-26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
-UID:2023-01-bkb-30@kampfkalender.de
+DTSTAMP:20230111T053031Z
+UID:2023-01-bkb-30-thailand@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKB 30
-DTSTART:20230121T130000Z
-DTEND:20230121T160000Z
+SUMMARY:BKB 30: Thailand
+DTSTART:20230121T190000Z
+DTEND:20230121T220000Z
 CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fite.tv\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/96803-bkb-30\n\n---\n\nMain Card: Barrie Jones vs.
-  Jonny Tello\nMain Card: Dan Podmore vs. Randall Rayment\nMain Card: Leo
-  Pla vs. Mikhail Vertrila\nMain Card: Chisakan Ariphipat vs. Nong Noey S
- or Sunrum\nMain Card: Will Chope vs. Petzilla
+DESCRIPTION:via fighting.de\nvia fite.tv: https://www.fite.tv/watch/bkb-3
+ 0/2pcib/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96803-bkb
+ -30\n\n---\n\nMain Card: Barrie Jones vs. Jonny Tello\nMain Card: Dan Po
+ dmore vs. Randall Rayment\nMain Card: Leo Pla vs. Mikhail Vertrila\nMain
+  Card: Chisakan Ariphipat vs. Nong Noey Sor Sunrum\nMain Card: Will Chop
+ e vs. Petzilla
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-01-bkfc-35-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Prelims
@@ -71,7 +72,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35-prelims/2pcg7/
  g Coltrane vs. Brian Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-01-aka-27@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 27
@@ -82,7 +83,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-27/2pcha/\n\n---\n
  \nhttps://www.tapology.com/fightcenter/events/97138-aka-27
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-01-bkfc-35-cedeno-vs-slaveski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Cedeno vs. Slaveski
@@ -102,7 +103,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35/2pcg6/\n\n---\
  ne vs. Brian Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Knuckle Mania 3
@@ -111,10 +112,14 @@ DTEND:20230218T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96439-bkfc-knuckle-mania-3\n\n---\n\nMain Event: Lorenzo Hunt vs. M
- ike Richman
+ ike Richman\nCo-Main Event: Diego Sanchez vs. Austin Trout\nMain Card: W
+ ill Santiago vs. Noah Cutter\nMain Card: Jayme Hinshaw vs. Charisa Sigal
+ a\nMain Card: Nick Gonzalez vs. Lardy Navarro\nMain Card: Joshua Moreno 
+ vs. Christian Torres\nMain Card: Charles Bridges vs. Kevin Croom\nPrelim
+ : Eric Dodson vs. Gene Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-02-bkfc-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Prelims
@@ -123,10 +128,11 @@ DTEND:20230225T010000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/
  \n\n---\n\nhttps://www.tapology.com/fightcenter/events/96440-bkfc-36\n\n
- ---\n\nMain Event: Arnold Adams vs. Alan Belcher
+ ---\n\nMain Event: Arnold Adams vs. Alan Belcher\nMain Card: Dennis LaBr
+ uzza vs. Stephon Reese
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-02-bkfc-36-adams-vs-belcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Adams vs. Belcher
@@ -135,10 +141,11 @@ DTEND:20230225T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36/2pcgq/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/96440-bkfc-36\n\n---\n\nM
- ain Event: Arnold Adams vs. Alan Belcher
+ ain Event: Arnold Adams vs. Alan Belcher\nMain Card: Dennis LaBruzza vs.
+  Stephon Reese
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -150,7 +157,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230111T053031Z
 UID:2023-03-bkfc-37-tierney-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37: Tierney vs. Lindsey
@@ -159,6 +166,7 @@ DTEND:20230325T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96441-bkfc-37\n\n---\n\nMain Event: Connor Tierney vs. Jake Lindsey
- 
+ \nMain Card: Lee Browne vs. Mason Shaw\nMain Card: Brad Watchorn vs. Geo
+ rge Thorpe\nMain Card: Luke Haigh vs. Darren Godfrey
 END:VEVENT
 END:VCALENDAR

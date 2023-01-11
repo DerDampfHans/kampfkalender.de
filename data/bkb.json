@@ -6,16 +6,30 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKB30"
+      "#BKB30",
+      "#BKBThailand"
     ],
     "mainCard": {
-      "title": "BKB 30",
-      "time": "2023-01-21T13:00:00Z",
+      "title": "BKB 30: Thailand",
+      "time": "2023-01-21T19:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
         },
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkb-30/2pcib/"
         }
+      },
+      "fite": {
+        "id": "2pcib",
+        "time": "2023-01-21T19:00:00Z",
+        "title": "BKB 30: Thailand",
+        "url": "https://www.fite.tv/watch/bkb-30/2pcib/",
+        "price": "WATCH WITH FITE+",
+        "sports": [
+          "BARE_KNUCKLE",
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {

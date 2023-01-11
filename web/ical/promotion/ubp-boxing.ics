@@ -4,6 +4,18 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221112T230305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230111T053030Z
+X-KAMPFKALENDER-HASH:18baede35247270fbabd87faedd9e7efc7031217
+BEGIN:VEVENT
+DTSTAMP:20230111T053030Z
+UID:2023-02-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20230204T190000Z
+DTEND:20230204T220000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/97246-universum-boxing-night\n\n---\n\nMain Event: Mourad Aliev (0-
+ 0-0) vs. Ali Kiydin (15-1-0)
+END:VEVENT
 END:VCALENDAR
