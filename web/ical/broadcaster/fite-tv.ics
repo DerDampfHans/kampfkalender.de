@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230114T230305Z
-X-KAMPFKALENDER-HASH:5d6a5285ec8009c0a556b3d3a5fd926fd8f761c4
+DTSTAMP:20230119T184628Z
+X-KAMPFKALENDER-HASH:67dfe49a40e478dbfea0ca8b07033e88bba51f07
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-01-aka-26@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 26
@@ -15,25 +15,55 @@ DTSTART:20230121T010000Z
 DTEND:20230121T040000Z
 CATEGORIES:AKA,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-26/2pcgz/\n\n---\n
- \nhttps://www.tapology.com/fightcenter/events/97137-aka-26
+ \nhttps://www.tapology.com/fightcenter/events/97137-aka-26\nhttp://www.s
+ herdog.com/events/aka-26-american-kombat-alliance-96159\n\n---\n\nMain E
+ vent: Tony Jenkins (3-2-0) vs. Jamahl Tatum (4-0-0)\nCo-Main Event: Hawn
+ ee Kim (1-1-0) vs. Austin Pearson (2-0-0)\nMain Card: Deyshaun Holmes (0
+ -0-0) vs. Juan Carlos (0-0-0)\nMain Card: Mirad Almas vs. Jamal Miller\n
+ Main Card: Darius Kennedy (1-2-0) vs. Michael Sullivan (4-1-0)\nMain Car
+ d: Josh Douglas (1-0-0) vs. Benton Mitchell (4-2-0)\nMain Card: Keinon D
+ ouglas (0-0-0) vs. Jordan Mays (2-2-0)\nMain Card: Robert Link vs. Jack 
+ Miller\nMain Card: Paul Arevalo (0-0-0) vs. Alex Konnero (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-01-bkb-30-thailand@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 30: Thailand
-DTSTART:20230121T190000Z
-DTEND:20230121T220000Z
-CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fite.tv: https://www.fite.tv/watch/bkb-3
- 0/2pcib/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96803-bkb
- -30\n\n---\n\nMain Card: Barrie Jones vs. Jonny Tello\nMain Card: Dan Po
- dmore vs. Randall Rayment\nMain Card: Leo Pla vs. Mikhail Vertrila\nMain
-  Card: Chisakan Ariphipat vs. Nong Noey Sor Sunrum\nMain Card: Will Chop
- e vs. Petzilla
+DTSTART:20230121T090000Z
+DTEND:20230121T120000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkb-30/2pcib/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/96803-bkb-30\nhttps://even
+ ts.mixedmartialarts.com/bkb-30:7edd0fd6-bdf7-40b8-b52d-c5564a276435\n\n-
+ --\n\nMain Card: Barrie Jones vs. Jonny Tello\nMain Card: Dan Podmore vs
+ . Randall Rayment\nMain Card: Leo Pla vs. Mikhail Vertrila\nMain Card: C
+ hisakan Ariphipat vs. Nong Noey Sor Sunrum\nMain Card: Will Chope vs. Pe
+ tzilla\nMain Card: Kesorn Saenlakhon vs. Pat Lernitiwongsakul\nMain Card
+ : Bunlaigun Bundasuk vs. Daro Toeur
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
+UID:2023-01-guidry-vs-stiverne@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Guidry vs. Stiverne
+DTSTART:20230122T000000Z
+DTEND:20230122T030000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/don-king-guidry-vs-sti
+ verne/2pcig/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96104
+ -makabu-vs-mikaelyan\nhttp://www.boxrec.com/en/event/866295\n\n---\n\nMa
+ in Card: Jonathan Guidry (18-1-2) vs. Bermane Stiverne (25-5-1)\nMain Ca
+ rd: Tre'Sean Wiggins (14-5-3) vs. Nigel Fennell (12-1-0)\nMain Card: Ian
+  Green (16-2-0) vs. Alexander Castro (11-0-0)\nMain Card: Neslan Machado
+  (19-0-0) vs. Walter Santibanes (0-0-0)\nMain Card: Raynel Mederos (7-0-
+ 0) vs. Nelson Morales (0-0-0)\nMain Card: Kenmon Evans (9-0-1) vs. Cleot
+ is Pendarvis (21-13-2)\nMain Card: Brayan Leon (0-0-0) vs. Salome Flores
+  Torres (1-7-0)\nMain Card: Darian Castro (0-0-0) vs. Ryan Schwartzberg 
+ (1-8-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
 UID:2023-01-bkfc-35-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Prelims
@@ -43,17 +73,18 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35-prelims/2pcg7/
  \n\n---\n\nhttps://www.tapology.com/fightcenter/events/96303-bkfc-35\nht
  tps://events.mixedmartialarts.com/bkfc-35:e63bb894-eb3f-47f4-aecb-c706d2
- dd43bb\n\n---\n\nMain Event: Yosdenis Cedeno vs. Gorjan Slaveski\nMain C
- ard: Andy Nguyen vs. Nekah Dmitriyeva\nMain Card: Donterry Woods vs. Jon
- athan Miller\nMain Card: Brandon Bushaw vs. Paul Teague\nMain Card: Marc
- us Brimage vs. Trevor Loken\nMain Card: Tony Soto vs. Joshua Marer\nMain
-  Card: Devin Gibson vs. Albert Inclan\nMain Card: Jordan Weeks vs. Murat
-  Kazgan\nMain Card: Tomar Washington vs. Willie Sears\nPrelim: Robert Ar
- mas vs. Jakobi Lowery\nPrelim: James Brown vs. Stevo Morris\nPrelim: Dou
- g Coltrane vs. Brian Jackson
+ dd43bb\n\n---\n\nMain Event: Yosdenis Cedeno vs. Gorjan Slaveski\nCo-Mai
+ n Event: Keith Richardson vs. Justin Scoggins\nMain Card: Andy Nguyen vs
+ . Nekah Dmitriyeva\nMain Card: Donterry Woods vs. Jonathan Miller\nMain 
+ Card: Brandon Bushaw vs. Paul Teague\nMain Card: Marcus Brimage vs. Trev
+ or Loken\nMain Card: Tony Soto vs. Joshua Marer\nMain Card: Devin Gibson
+  vs. Albert Inclan\nMain Card: Jordan Weeks vs. Murat Kazgan\nMain Card:
+  Tomar Washington vs. Willie Sears\nPrelim: Robert Armas vs. Jakobi Lowe
+ ry\nPrelim: James Brown vs. Stevo Morris\nPrelim: Doug Coltrane vs. Bria
+ n Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-01-aka-27@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 27
@@ -61,10 +92,11 @@ DTSTART:20230128T010000Z
 DTEND:20230128T040000Z
 CATEGORIES:AKA,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-27/2pcha/\n\n---\n
- \nhttps://www.tapology.com/fightcenter/events/97138-aka-27
+ \nhttps://www.tapology.com/fightcenter/events/97138-aka-27\n\n---\n\nMai
+ n Event: David Bosnick (11-6-0) vs. Justice Lamparez (8-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-01-bkfc-35-cedeno-vs-slaveski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Cedeno vs. Slaveski
@@ -74,33 +106,52 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35/2pcg6/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/96303-bkfc-35\nhttps://ev
  ents.mixedmartialarts.com/bkfc-35:e63bb894-eb3f-47f4-aecb-c706d2dd43bb\n
- \n---\n\nMain Event: Yosdenis Cedeno vs. Gorjan Slaveski\nMain Card: And
- y Nguyen vs. Nekah Dmitriyeva\nMain Card: Donterry Woods vs. Jonathan Mi
- ller\nMain Card: Brandon Bushaw vs. Paul Teague\nMain Card: Marcus Brima
- ge vs. Trevor Loken\nMain Card: Tony Soto vs. Joshua Marer\nMain Card: D
- evin Gibson vs. Albert Inclan\nMain Card: Jordan Weeks vs. Murat Kazgan\
- nMain Card: Tomar Washington vs. Willie Sears\nPrelim: Robert Armas vs. 
- Jakobi Lowery\nPrelim: James Brown vs. Stevo Morris\nPrelim: Doug Coltra
- ne vs. Brian Jackson
+ \n---\n\nMain Event: Yosdenis Cedeno vs. Gorjan Slaveski\nCo-Main Event:
+  Keith Richardson vs. Justin Scoggins\nMain Card: Andy Nguyen vs. Nekah 
+ Dmitriyeva\nMain Card: Donterry Woods vs. Jonathan Miller\nMain Card: Br
+ andon Bushaw vs. Paul Teague\nMain Card: Marcus Brimage vs. Trevor Loken
+ \nMain Card: Tony Soto vs. Joshua Marer\nMain Card: Devin Gibson vs. Alb
+ ert Inclan\nMain Card: Jordan Weeks vs. Murat Kazgan\nMain Card: Tomar W
+ ashington vs. Willie Sears\nPrelim: Robert Armas vs. Jakobi Lowery\nPrel
+ im: James Brown vs. Stevo Morris\nPrelim: Doug Coltrane vs. Brian Jackso
+ n
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
+UID:2023-02-bkfc-knuckle-mania-3-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Knuckle Mania 3: Prelims
+DTSTART:20230218T010000Z
+DTEND:20230218T020000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-3-pr
+ elims/2pcjh/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96439
+ -bkfc-knuckle-mania-3\n\n---\n\nMain Event: Lorenzo Hunt vs. Mike Richma
+ n\nCo-Main Event: Diego Sanchez vs. Austin Trout\nMain Card: Will Santia
+ go vs. Noah Cutter\nMain Card: Jayme Hinshaw vs. Charisa Sigala\nMain Ca
+ rd: Nick Gonzalez vs. Lardy Navarro\nMain Card: Joshua Moreno vs. Christ
+ ian Torres\nMain Card: Charles Bridges vs. Kevin Croom\nMain Card: John 
+ Dodson vs. Jarod Grant\nPrelim: Eric Dodson vs. Gene Perez
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
 UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC: Knuckle Mania 3
-DTSTART:20230218T010000Z
-DTEND:20230218T040000Z
+SUMMARY:BKFC Knuckle Mania 3
+DTSTART:20230218T020000Z
+DTEND:20230218T050000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96439-bkfc-knuckle-mania-3\n\n---\n\nMain Event: Lorenzo Hunt vs. M
- ike Richman\nCo-Main Event: Diego Sanchez vs. Austin Trout\nMain Card: W
- ill Santiago vs. Noah Cutter\nMain Card: Jayme Hinshaw vs. Charisa Sigal
- a\nMain Card: Nick Gonzalez vs. Lardy Navarro\nMain Card: Joshua Moreno 
- vs. Christian Torres\nMain Card: Charles Bridges vs. Kevin Croom\nPrelim
- : Eric Dodson vs. Gene Perez
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-3/2p
+ cjg/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96439-bkfc-kn
+ uckle-mania-3\n\n---\n\nMain Event: Lorenzo Hunt vs. Mike Richman\nCo-Ma
+ in Event: Diego Sanchez vs. Austin Trout\nMain Card: Will Santiago vs. N
+ oah Cutter\nMain Card: Jayme Hinshaw vs. Charisa Sigala\nMain Card: Nick
+  Gonzalez vs. Lardy Navarro\nMain Card: Joshua Moreno vs. Christian Torr
+ es\nMain Card: Charles Bridges vs. Kevin Croom\nMain Card: John Dodson v
+ s. Jarod Grant\nPrelim: Eric Dodson vs. Gene Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-02-bkfc-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Prelims
@@ -110,10 +161,16 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/
  \n\n---\n\nhttps://www.tapology.com/fightcenter/events/96440-bkfc-36\n\n
  ---\n\nMain Event: Arnold Adams vs. Alan Belcher\nMain Card: Dennis LaBr
- uzza vs. Stephon Reese
+ uzza vs. Stephon Reese\nMain Card: Kaleb Harris vs. Brad Kelly\nMain Car
+ d: Idrees Wasi vs. Quentin Henry\nMain Card: Joseph Creer vs. Duke Sensl
+ ey\nMain Card: Dillion Winemiller vs. Tony Jenkins\nMain Card: Blake LaC
+ aze vs. Joseph Brett Williams\nMain Card: Bobby Taylor vs. James Lilley\
+ nMain Card: Brandon Shavers vs. Bryce Henry\nMain Card: Andrew Angelcor 
+ vs. David Bosnick\nPrelim: Cody Schieve vs. Tyler Sammis\nPrelim: Quenti
+ n Gaskins vs. Hunter Boone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-02-bkfc-36-adams-vs-belcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Adams vs. Belcher
@@ -123,10 +180,16 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36/2pcgq/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/96440-bkfc-36\n\n---\n\nM
  ain Event: Arnold Adams vs. Alan Belcher\nMain Card: Dennis LaBruzza vs.
-  Stephon Reese
+  Stephon Reese\nMain Card: Kaleb Harris vs. Brad Kelly\nMain Card: Idree
+ s Wasi vs. Quentin Henry\nMain Card: Joseph Creer vs. Duke Sensley\nMain
+  Card: Dillion Winemiller vs. Tony Jenkins\nMain Card: Blake LaCaze vs. 
+ Joseph Brett Williams\nMain Card: Bobby Taylor vs. James Lilley\nMain Ca
+ rd: Brandon Shavers vs. Bryce Henry\nMain Card: Andrew Angelcor vs. Davi
+ d Bosnick\nPrelim: Cody Schieve vs. Tyler Sammis\nPrelim: Quentin Gaskin
+ s vs. Hunter Boone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -138,7 +201,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
+DTSTAMP:20230119T184629Z
 UID:2023-03-bkfc-37-tierney-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37: Tierney vs. Lindsey
@@ -149,5 +212,32 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96441-bkfc-37\n\n---\n\nMain Event: Connor Tierney vs. Jake Lindsey
  \nMain Card: Lee Browne vs. Mason Shaw\nMain Card: Brad Watchorn vs. Geo
  rge Thorpe\nMain Card: Luke Haigh vs. Darren Godfrey
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-03-bkfc-norfolk@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Norfolk
+DTSTART:20230325T000000Z
+DTEND:20230325T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/97261-bkfc-fight-night-norfolk\nhttps://events.mixedmartialarts.com
+ /bkfc-fight-night:138d7b96-1777-44dd-b5da-0691ec20c8d4\n\n---\n\nMain Ca
+ rd: Fani Peloumpi vs. Britain Hart\nMain Card: Ryan Shough vs. Zachary C
+ almus
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-03-bkb-31@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 31
+DTSTART:20230326T170000Z
+DTEND:20230326T200000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/97331-bkb-31\n\n---\n\nMain Card: James Connelly vs. Marley Churche
+ r\nMain Card: Paul Hilz vs. Nathan Leeson\nMain Card: Nathan Decastro vs
+ . Mattia Loi-Fonda
 END:VEVENT
 END:VCALENDAR

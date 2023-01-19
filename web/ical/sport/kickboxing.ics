@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230111T053030Z
-X-KAMPFKALENDER-HASH:0b6cafb34bff993c6b9adb3f3e463041ec0e0784
+DTSTAMP:20230119T184628Z
+X-KAMPFKALENDER-HASH:5774e2a500f73fa5174cf43f0b4fe9e6494c9120
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
 UID:2023-01-one-on-prime-video-6-superbon-vs-allazov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 6: Superbon vs. Allazov
@@ -29,7 +29,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UtbJJzbwEfk\n\n-
   (33-15-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
 UID:2023-01-glory-rivals-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory Rivals 5
@@ -44,7 +44,19 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
   De Kom vs. Giuliana Cosnard
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
+UID:2023-01-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20230128T160000Z
+DTEND:20230128T190000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230128-olympix-b
+ remen-mma-k1-boxen-no-123\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/97465-gmc-olympix-123
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
 UID:2023-02-glory-83@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 83
@@ -56,7 +68,18 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  ojev vs. Donegi Abena\nMain Card: Donovan Wisse vs. César Almeida
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
+UID:2023-02-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20230218T160000Z
+DTEND:20230218T190000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230218-olympix-m
+ ma-k1-boxen-no-125
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
 UID:2023-02-one-on-prime-video-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 8
@@ -64,10 +87,11 @@ DTSTART:20230225T010000Z
 DTEND:20230225T040000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/94525-one-on-prime-video-8
+ ents/94525-one-on-prime-video-8\n\n---\n\nMain Event: Arjan Bhullar (11-
+ 1-0) vs. Anatoly Malykhin (12-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
 UID:2023-03-oktagon-40@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 40
@@ -78,7 +102,29 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/95799-oktagon-40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
+UID:2023-03-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20230325T160000Z
+DTEND:20230325T190000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230325-olympix-m
+ ma-k1-boxen-no-127
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-04-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20230401T150000Z
+DTEND:20230401T180000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230401-olympix-m
+ agdeburg-mma-k1-boxen-no-128
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
 UID:2023-04-one-on-prime-video-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE on Prime Video 9
@@ -89,7 +135,18 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96959-one-on-prime-video-9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
+UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20230422T150000Z
+DTEND:20230422T180000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
+ ma-k1-boxen-no-130
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
 UID:2023-05-oktagon-43@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 43
@@ -100,7 +157,29 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/96604-oktagon-43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230111T053031Z
+DTSTAMP:20230119T184629Z
+UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20230527T150000Z
+DTEND:20230527T180000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
+ ma-k1-boxen-no-132
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA
+DTSTART:20230617T150000Z
+DTEND:20230617T180000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
+ ma-k1-boxen-no-134
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
 UID:2023-06-oktagon-44@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44

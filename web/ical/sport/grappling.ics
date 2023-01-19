@@ -4,18 +4,83 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230114T230305Z
-X-KAMPFKALENDER-HASH:62a0209601ae2aa6b097d263057e5b861453a72e
+DTSTAMP:20230119T184628Z
+X-KAMPFKALENDER-HASH:75e049b77b47a18ed7a195788be541c833afd9be
 BEGIN:VEVENT
-DTSTAMP:20230114T230305Z
-UID:2023-03-brave-cf-70@kampfkalender.de
+DTSTAMP:20230119T184629Z
+UID:2023-02-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Brave CF 70
-DTSTART:20230318T190000Z
-DTEND:20230318T220000Z
-CATEGORIES:BRAVE,Grappling,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/96793-brave-cf-70\n\n---\n\nMain Card: Antônio Silva vs. Haim G
- ozali
+SUMMARY:OlympiX Grappling
+DTSTART:20230211T110000Z
+DTEND:20230211T140000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230211-olympix-g
+ rappling-no-124
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-03-grappling-team-challenge-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Grappling Team Challenge 3
+DTSTART:20230304T110000Z
+DTEND:20230304T140000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/220903-grappling
+ -team-challenge-vol-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-03-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20230311T110000Z
+DTEND:20230311T140000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230311olympix-gr
+ appling-no-126
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-03-medusa-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Medusa 4
+DTSTART:20230326T000000Z
+DTEND:20230326T030000Z
+CATEGORIES:EBI,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97314-medusa-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-04-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20230415T100000Z
+DTEND:20230415T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230415-olympix-g
+ rappling-no-129
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-05-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20230513T100000Z
+DTEND:20230513T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230513-olympix-g
+ rappling-no-131
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184629Z
+UID:2023-06-olympix-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX Grappling
+DTSTART:20230610T100000Z
+DTEND:20230610T130000Z
+CATEGORIES:GMC,Grappling,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230610-olympix-g
+ rappling-no-133
 END:VEVENT
 END:VCALENDAR

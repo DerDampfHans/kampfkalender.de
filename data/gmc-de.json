@@ -1,5 +1,36 @@
 [
   {
+    "id": "tapology-97465",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-01-28T16:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230128-olympix-bremen-mma-k1-boxen-no-123"
+        }
+      },
+      "gmc": {
+        "id": "230128-olympix-bremen-mma-k1-boxen-no-123",
+        "time": "2023-01-28T16:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 123)",
+        "url": "https://www.german-mma.de/events/230128-olympix-bremen-mma-k1-boxen-no-123"
+      }
+    },
+    "tapology": {
+      "id": 97465,
+      "time": "2023-01-28T16:00:00Z",
+      "title": "GMC Olympix 123",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/97465-gmc-olympix-123"
+    }
+  },
+  {
     "id": "tapology-95929",
     "promotion": "GMC_DE",
     "sports": [
@@ -10,10 +41,17 @@
     ],
     "mainCard": {
       "title": "GMC 32",
-      "time": "2023-02-04T17:00:00Z",
+      "time": "2023-02-04T18:00:00Z",
       "broadcasters": {
         "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230204-gmc-32"
         }
+      },
+      "gmc": {
+        "id": "230204-gmc-32",
+        "time": "2023-02-04T18:00:00Z",
+        "title": "GMC 32",
+        "url": "https://www.german-mma.de/events/230204-gmc-32"
       }
     },
     "tapology": {
@@ -26,15 +64,106 @@
         "MMA"
       ],
       "card": [
+        "Main Event: Joelson Nascimento (11-8-0) vs. Adrian Zeitner (10-3-0)",
         "Main Card: Oemer Cankardesler (12-13-2) vs. Alexander Luster (7-1-0)",
         "Main Card: Simon Schuster (0-1-0) vs. Quincy Dwamena (3-2-0)",
         "Main Card: Tanja Huth (0-3-0) vs. Lorena Cubero (1-0-0)",
         "Main Card: Georg Bilogrevic (2-3-0) vs. Stanislav Romanov (3-10-0)",
-        "Main Card: Alisson Marreira (5-4-0) vs. Osama El Zein (7-3-0)",
         "Main Card: Anuar Gharrad (0-0-0) vs. Tobias Balzer (3-2-0)",
         "Main Card: Muhammed Dabanli (0-0-0) vs. Ronny Zesna (0-0-0)",
-        "Main Card: Sami Zarabi (2-0-0) vs. Benny Bajrami (5-1-0)"
+        "Main Card: Sami Zarabi (2-0-0) vs. Benny Bajrami (5-1-0)",
+        "Main Card: Timur Bagljarov (1-3-0) vs. Jamal Majidi (2-2-0)"
       ]
+    }
+  },
+  {
+    "id": "gmc-230211",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "OlympiX Grappling",
+      "time": "2023-02-11T11:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230211-olympix-grappling-no-124"
+        }
+      },
+      "gmc": {
+        "id": "230211-olympix-grappling-no-124",
+        "time": "2023-02-11T11:00:00Z",
+        "title": "OlympiX Grappling (No. 124)",
+        "url": "https://www.german-mma.de/events/230211-olympix-grappling-no-124"
+      }
+    }
+  },
+  {
+    "id": "gmc-230218",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-02-18T16:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230218-olympix-mma-k1-boxen-no-125"
+        }
+      },
+      "gmc": {
+        "id": "230218-olympix-mma-k1-boxen-no-125",
+        "time": "2023-02-18T16:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 125)",
+        "url": "https://www.german-mma.de/events/230218-olympix-mma-k1-boxen-no-125"
+      }
+    }
+  },
+  {
+    "id": "gmc-220903",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "Grappling Team Challenge 3",
+      "time": "2023-03-04T11:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/220903-grappling-team-challenge-vol-3"
+        }
+      },
+      "gmc": {
+        "id": "220903-grappling-team-challenge-vol-3",
+        "time": "2023-03-04T11:00:00Z",
+        "title": "Grappling [Team Challenge]",
+        "url": "https://www.german-mma.de/events/220903-grappling-team-challenge-vol-3"
+      }
+    }
+  },
+  {
+    "id": "gmc-230311",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "OlympiX Grappling",
+      "time": "2023-03-11T11:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230311olympix-grappling-no-126"
+        }
+      },
+      "gmc": {
+        "id": "230311olympix-grappling-no-126",
+        "time": "2023-03-11T11:00:00Z",
+        "title": "OlympiX Grappling (No. 126)",
+        "url": "https://www.german-mma.de/events/230311olympix-grappling-no-126"
+      }
     }
   },
   {
@@ -48,10 +177,17 @@
     ],
     "mainCard": {
       "title": "GMC 33",
-      "time": "2023-03-18T16:00:00Z",
+      "time": "2023-03-18T18:00:00Z",
       "broadcasters": {
         "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230318-gmc-33"
         }
+      },
+      "gmc": {
+        "id": "230318-gmc-33",
+        "time": "2023-03-18T18:00:00Z",
+        "title": "GMC 33",
+        "url": "https://www.german-mma.de/events/230318-gmc-33"
       }
     },
     "tapology": {
@@ -64,11 +200,129 @@
         "MMA"
       ],
       "card": [
+        "Main Event: Hojat Khajevand (6-3-0) vs. Alexander Wesner (9-5-0)",
         "Main Card: Dominik Vetek (3-2-0) vs. Felix Schiffarth (4-2-0)",
         "Main Card: Katarzyna Wróblewska (0-1-0) vs. Christina Breuer (0-0-0)",
-        "Main Card: T. Paulino Dos Santos (5-3-0) vs. Emanuel Stenaj (3-0-0)",
-        "Main Card: Kris Scheufen (0-0-0) vs. Jens Oberleuck (0-2-0)"
+        "Main Card: Tresor Dos Santos (5-3-0) vs. Emanuel Stenaj (3-0-0)",
+        "Main Card: Kris Scheufen (0-0-0) vs. Jens Oberleuck (0-2-0)",
+        "Main Card: Alex Quilez (8-9-0) vs. Anatolij Baal (9-3-1)"
       ]
+    }
+  },
+  {
+    "id": "gmc-230325",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-03-25T16:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230325-olympix-mma-k1-boxen-no-127"
+        }
+      },
+      "gmc": {
+        "id": "230325-olympix-mma-k1-boxen-no-127",
+        "time": "2023-03-25T16:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 127)",
+        "url": "https://www.german-mma.de/events/230325-olympix-mma-k1-boxen-no-127"
+      }
+    }
+  },
+  {
+    "id": "gmc-230401",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-04-01T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230401-olympix-magdeburg-mma-k1-boxen-no-128"
+        }
+      },
+      "gmc": {
+        "id": "230401-olympix-magdeburg-mma-k1-boxen-no-128",
+        "time": "2023-04-01T15:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 128)",
+        "url": "https://www.german-mma.de/events/230401-olympix-magdeburg-mma-k1-boxen-no-128"
+      }
+    }
+  },
+  {
+    "id": "gmc-230415",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "OlympiX Grappling",
+      "time": "2023-04-15T10:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230415-olympix-grappling-no-129"
+        }
+      },
+      "gmc": {
+        "id": "230415-olympix-grappling-no-129",
+        "time": "2023-04-15T10:00:00Z",
+        "title": "OlympiX Grappling (No. 129)",
+        "url": "https://www.german-mma.de/events/230415-olympix-grappling-no-129"
+      }
+    }
+  },
+  {
+    "id": "gmc-230422",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-04-22T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230422-olympix-mma-k1-boxen-no-130"
+        }
+      },
+      "gmc": {
+        "id": "230422-olympix-mma-k1-boxen-no-130",
+        "time": "2023-04-22T15:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 130)",
+        "url": "https://www.german-mma.de/events/230422-olympix-mma-k1-boxen-no-130"
+      }
+    }
+  },
+  {
+    "id": "gmc-230513",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "OlympiX Grappling",
+      "time": "2023-05-13T10:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230513-olympix-grappling-no-131"
+        }
+      },
+      "gmc": {
+        "id": "230513-olympix-grappling-no-131",
+        "time": "2023-05-13T10:00:00Z",
+        "title": "OlympiX Grappling (No. 131)",
+        "url": "https://www.german-mma.de/events/230513-olympix-grappling-no-131"
+      }
     }
   },
   {
@@ -82,10 +336,17 @@
     ],
     "mainCard": {
       "title": "GMC 34",
-      "time": "2023-05-20T16:00:00Z",
+      "time": "2023-05-20T17:00:00Z",
       "broadcasters": {
         "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230520-gmc-34"
         }
+      },
+      "gmc": {
+        "id": "230520-gmc-34",
+        "time": "2023-05-20T17:00:00Z",
+        "title": "GMC 34",
+        "url": "https://www.german-mma.de/events/230520-gmc-34"
       }
     },
     "tapology": {
@@ -100,6 +361,76 @@
       "card": [
         "Main Event: Christian Draxler (17-7-0) vs. Anatolij Baal (9-3-1)"
       ]
+    }
+  },
+  {
+    "id": "gmc-230527",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-05-27T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230527-olympix-mma-k1-boxen-no-132"
+        }
+      },
+      "gmc": {
+        "id": "230527-olympix-mma-k1-boxen-no-132",
+        "time": "2023-05-27T15:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 132)",
+        "url": "https://www.german-mma.de/events/230527-olympix-mma-k1-boxen-no-132"
+      }
+    }
+  },
+  {
+    "id": "gmc-230610",
+    "promotion": "GMC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "OlympiX Grappling",
+      "time": "2023-06-10T10:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230610-olympix-grappling-no-133"
+        }
+      },
+      "gmc": {
+        "id": "230610-olympix-grappling-no-133",
+        "time": "2023-06-10T10:00:00Z",
+        "title": "OlympiX Grappling (No. 133)",
+        "url": "https://www.german-mma.de/events/230610-olympix-grappling-no-133"
+      }
+    }
+  },
+  {
+    "id": "gmc-230617",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-06-17T15:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230617-olympix-mma-k1-boxen-no-134"
+        }
+      },
+      "gmc": {
+        "id": "230617-olympix-mma-k1-boxen-no-134",
+        "time": "2023-06-17T15:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 134)",
+        "url": "https://www.german-mma.de/events/230617-olympix-mma-k1-boxen-no-134"
+      }
     }
   }
 ]

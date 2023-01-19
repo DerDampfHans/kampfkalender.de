@@ -4,16 +4,53 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230110T033333Z
-X-KAMPFKALENDER-HASH:38413d03a01b4e9e79b2634919822b14aae53f06
+DTSTAMP:20230119T184628Z
+X-KAMPFKALENDER-HASH:a059672aad0b361fb4ac97d22fecfb4f1d726769
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
-UID:2023-03-cage-warriors-149@kampfkalender.de
+DTSTAMP:20230119T184628Z
+UID:2023-03-cage-warriors-149-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors 149
+SUMMARY:Cage Warriors 149: San Diego
 DTSTART:20230304T020000Z
 DTEND:20230304T050000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97401-cage-warriors-149-san-diego
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184628Z
+UID:2023-03-cage-warriors-150-london@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 150: London
+DTSTART:20230317T200000Z
+DTEND:20230317T230000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97402-cage-warriors-150-london\n\n---\n\nMain Card: Harry Ha
+ rdwick (9-3-1) vs. Shoaib Yousaf (9-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184628Z
+UID:2023-04-cage-warriors-152-manchester@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 152: Manchester
+DTSTART:20230415T200000Z
+DTEND:20230415T230000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97498-cage-warriors-152-manchester\n\n---\n\nMain Card: Chri
+ s Bungard (17-8-0) vs. Gavin Hughes (10-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184628Z
+UID:2023-04-cage-warriors-153-dublin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 153: Dublin
+DTSTART:20230429T200000Z
+DTEND:20230429T230000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97499-cage-warriors-153-dublin\n\n---\n\nMain Event: Rhys Mc
+ Kee (12-4-1) vs. Jim Wallhead (33-11-0)
 END:VEVENT
 END:VCALENDAR

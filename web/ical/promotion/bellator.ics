@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230110T033333Z
-X-KAMPFKALENDER-HASH:b5f51b71e42356b35f7be01c55294eff06734082
+DTSTAMP:20230119T184628Z
+X-KAMPFKALENDER-HASH:68bd7859a931b6d114912de61ecedc57dd43110f
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230119T184628Z
 UID:2023-02-bellator-290-bader-vs-emelianenko-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 290: Bader vs. Emelianenko 2
@@ -22,15 +22,15 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/95280-bellator-29
  : Diana Avsaragova (5-0-0) vs. Alejandra Lara (9-6-0)\nPrelim: Chris Gon
  zalez (7-2-0) vs. Max Rohskopf (7-1-0)\nPrelim: Grant Neal (7-1-0) vs. K
  arl Albrektsson (13-4-0)\nPrelim: Jaylon Bates (6-0-0) vs. Jornel Lugo (
- 8-1-0)\nPrelim: Neiman Gracie (11-4-0) vs. Michael Lombardo (13-3-0)\nPr
- elim: Henry Corrales (20-6-0) vs. Akhmed Magomedov (10-0-0)\nPrelim: Ste
- ve Mowry (10-0-0) vs. Ali Isaev (9-0-0)\nPrelim: Isaiah Hokit (2-1-0) vs
- . Peter Ishiguro (2-1-0)\nPrelim: Darrion Caldwell (14-6-0) vs. Nikita M
- ikhailov (9-2-0)\nPrelim: Lorenz Larkin (24-7-0) vs. Mukhamed Berkhamov 
- (15-1-0)
+ 8-1-0)\nPrelim: Henry Corrales (20-6-0) vs. Akhmed Magomedov (10-0-0)\nP
+ relim: Steve Mowry (10-0-0) vs. Ali Isaev (9-0-0)\nPrelim: Isaiah Hokit 
+ (2-1-0) vs. Peter Ishiguro (2-1-0)\nPrelim: Darrion Caldwell (14-6-0) vs
+ . Nikita Mikhailov (9-2-0)\nPrelim: Lorenz Larkin (24-7-0) vs. Mukhamed 
+ Berkhamov (15-1-0)\nPrelim: Neiman Gracie (11-4-0) vs. Dante Schiro (9-4
+ -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230110T033334Z
+DTSTAMP:20230119T184628Z
 UID:2023-02-bellator-291-amosov-vs-storley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 291: Amosov vs. Storley
@@ -53,5 +53,25 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/93271-bellator-du
  relim: Steven Hill (6-0-0) vs. Youcef Ouabbas (3-0-0)\nPrelim: Lucie Ber
  taud (4-3-0) vs. Sabriye Sengül (2-3-0)\nPrelim: Darragh Kelly (2-0-0) v
  s. Dorval Jordan (2-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184628Z
+UID:2023-03-bellator-292-nurmagomedov-vs-henderson@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 292: Nurmagomedov vs. Henderson
+DTSTART:20230311T000000Z
+DTEND:20230311T030000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/97266-bellator-29
+ 2-nurmagomedov-vs-henderson\n\n---\n\nMain Event: Usman Nurmagomedov (16
+ -0-0) vs. Benson Henderson (30-11-0)\nCo-Main Event: Tofiq Musayev (20-4
+ -0) vs. Alexander Shabliy (22-3-0)\nMain Card: Valentin Moldavsky (11-2-
+ 0) vs. Linton Vassell (23-8-0)\nPrelim: Josh Hill (21-5-0) vs. Cass Bell
+  (6-2-0)\nPrelim: Wladmir Gouvea (1-0-0) vs. Sean Tucker (1-3-0)\nPrelim
+ : Theo Haig (1-0-0) vs. Adam Wamsley (2-2-0)\nPrelim: Enrique Barzola (1
+ 8-7-2) vs. Erik Perez (20-8-0)\nPrelim: James Gallagher (11-2-0) vs. Lea
+ ndro Higo (21-6-0)\nPrelim: Keri Taylor-Melendez (5-0-0) vs. Bruna Ellen
+  (6-4-0)\nPrelim: Laird Anderson (3-0-0) vs. Rogelio Luna (1-0-0)\nPreli
+ m: Dupree Stewart (0-0-0) vs. Demetri Georgiades (0-0-0)
 END:VEVENT
 END:VCALENDAR

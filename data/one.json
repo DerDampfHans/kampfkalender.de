@@ -3,6 +3,7 @@
     "id": "tapology-95515",
     "promotion": "ONE",
     "sports": [
+      "MMA",
       "MUAY_THAI"
     ],
     "tags": [
@@ -10,24 +11,38 @@
     ],
     "mainCard": {
       "title": "ONE Lumpinee 1: Nong-O vs. Ramazanov",
-      "time": "2023-01-20T10:30:00Z",
+      "time": "2023-01-20T12:30:00Z",
       "broadcasters": {
         "YOUTUBE": {
-          "free": true
+          "free": true,
+          "url": "https://www.youtube.com/watch?v=cpDrwYAUOlg"
         }
       }
     },
     "tapology": {
       "id": 95515,
       "time": "2023-01-20T10:30:00Z",
-      "title": "ONE Lumpinee 1: Nong-O vs. Ramazanov",
-      "info": "Confirmed Upcoming Muay Thai Event",
+      "title": "ONE Lumpinee 1",
+      "titleAlt": "ONE Friday Fights 1",
+      "info": "Confirmed Upcoming Muay Thai & MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/95515-one-lumpinee-1-nong-o-vs-ramazanov",
       "sports": [
+        "MMA",
         "MUAY_THAI"
       ],
       "card": [
-        "Main Event: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov"
+        "Main Event: Nong-O Gaiyanghadao vs. Alaverdi Ramazanov",
+        "Co-Main Event: Prajanchai PK Saenchai vs. K. Sitsarawatseur",
+        "Main Card: Petchbanrai Singmawynn vs. K. UFAboomdeksian",
+        "Main Card: S. Petch Por.Tor.Or vs. Khomarwut F.A.Group",
+        "Main Card: Tai SorJor Piek-U-Thai vs. Sonrak Fairtex",
+        "Main Card: Sakaengam Jitmuangnon vs. Suayai Chor.Hapayak",
+        "Prelim: Seksan Or Kwanmuang vs. Tyson Harrison",
+        "Prelim: Richard Godoy (14-4-0) vs. Alexey Lyapunov (10-3-0)",
+        "Prelim: Muangthai PK Saenchai vs. Mavlud Tupiev",
+        "Prelim: Josh Hill vs. Keivan Soleimani",
+        "Prelim: Akihiro Fujisawa (6-3-0) vs. Colton Kielbasa (4-1-0)",
+        "Prelim: Angelos Giakoumis vs. Mohammad Sadeghi"
       ]
     }
   },
@@ -53,7 +68,8 @@
     "tapology": {
       "id": 94524,
       "time": "2023-02-11T01:00:00Z",
-      "title": "ONE on Prime Video 7: Lineker vs. Andrade 2",
+      "title": "ONE Fight Night 7: Lineker vs. Andrade 2",
+      "titleAlt": "ONE on Prime Video 7",
       "info": "Confirmed Upcoming Combat Sports Event",
       "url": "https://www.tapology.com/fightcenter/events/94524-one-on-prime-video-7",
       "card": [
@@ -93,9 +109,16 @@
     "tapology": {
       "id": 94525,
       "time": "2023-03-25T00:00:00Z",
-      "title": "ONE on Prime Video 8",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/94525-one-on-prime-video-8"
+      "title": "ONE Fight Night 8: Bhullar vs. Malykhin",
+      "titleAlt": "ONE on Prime Video 8",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94525-one-on-prime-video-8",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (12-0-0)"
+      ]
     }
   },
   {
@@ -118,7 +141,8 @@
     "tapology": {
       "id": 96959,
       "time": "2023-04-22T00:00:00Z",
-      "title": "ONE on Prime Video 9",
+      "title": "ONE Fight Night 9",
+      "titleAlt": "ONE on Prime Video 9",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/96959-one-on-prime-video-9"
     }
@@ -144,7 +168,8 @@
     "tapology": {
       "id": 95948,
       "time": "2023-05-06T00:00:00Z",
-      "title": "ONE on Prime Video 10: Johnson vs. Moraes 3",
+      "title": "ONE Fight Night 10: Johnson vs. Moraes 3",
+      "titleAlt": "ONE on Prime Video 10",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/95948-one-on-prime-video-10-johnson-vs-moraes-3",
       "sports": [

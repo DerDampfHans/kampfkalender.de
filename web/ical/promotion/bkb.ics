@@ -4,21 +4,36 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230111T053030Z
-X-KAMPFKALENDER-HASH:276ed9d968a798fb6c53ecdcd8551464935cf05b
+DTSTAMP:20230119T184628Z
+X-KAMPFKALENDER-HASH:6fd587621786c9534c1da645112f2ba656e9cac1
 BEGIN:VEVENT
-DTSTAMP:20230111T053030Z
+DTSTAMP:20230119T184628Z
 UID:2023-01-bkb-30-thailand@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 30: Thailand
-DTSTART:20230121T190000Z
-DTEND:20230121T220000Z
-CATEGORIES:BKB,Bare Knuckle,fighting.de,fite.tv,live
-DESCRIPTION:via fighting.de\nvia fite.tv: https://www.fite.tv/watch/bkb-3
- 0/2pcib/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96803-bkb
- -30\n\n---\n\nMain Card: Barrie Jones vs. Jonny Tello\nMain Card: Dan Po
- dmore vs. Randall Rayment\nMain Card: Leo Pla vs. Mikhail Vertrila\nMain
-  Card: Chisakan Ariphipat vs. Nong Noey Sor Sunrum\nMain Card: Will Chop
- e vs. Petzilla
+DTSTART:20230121T090000Z
+DTEND:20230121T120000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkb-30/2pcib/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/96803-bkb-30\nhttps://even
+ ts.mixedmartialarts.com/bkb-30:7edd0fd6-bdf7-40b8-b52d-c5564a276435\n\n-
+ --\n\nMain Card: Barrie Jones vs. Jonny Tello\nMain Card: Dan Podmore vs
+ . Randall Rayment\nMain Card: Leo Pla vs. Mikhail Vertrila\nMain Card: C
+ hisakan Ariphipat vs. Nong Noey Sor Sunrum\nMain Card: Will Chope vs. Pe
+ tzilla\nMain Card: Kesorn Saenlakhon vs. Pat Lernitiwongsakul\nMain Card
+ : Bunlaigun Bundasuk vs. Daro Toeur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230119T184628Z
+UID:2023-03-bkb-31@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 31
+DTSTART:20230326T170000Z
+DTEND:20230326T200000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/97331-bkb-31\n\n---\n\nMain Card: James Connelly vs. Marley Churche
+ r\nMain Card: Paul Hilz vs. Nathan Leeson\nMain Card: Nathan Decastro vs
+ . Mattia Loi-Fonda
 END:VEVENT
 END:VCALENDAR

@@ -6,6 +6,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Serrano vs. Cruz",
       "time": "2023-02-05T00:00:00Z",
       "broadcasters": {
@@ -26,11 +27,11 @@
         "Main Event: Amanda Serrano (43-2-1) vs. Erika Cruz (15-1-0)",
         "Co-Main Event: Alycia Baumgardner (13-1-0) vs. Elhem Mekhaled (15-1-0)",
         "Main Card: Richardson Hitchins (15-0-0) vs. John Bauza (17-0-0)",
-        "Main Card: Cletus Seldin (26-1-0) vs. Reshat Mati (13-0-0)",
         "Main Card: Skye Nicolson (0-0-0) vs. Tania Alvarez (0-0-0)",
         "Main Card: Ramla Ali (7-0-0) vs. Avril Mathie (8-0-1)",
         "Main Card: Aaron Aponte (6-0-1) vs. Joshua David Rivera (8-1-0)",
-        "Main Card: Harley Mederos (0-0-0) vs. Julio Madera (4-2-0)"
+        "Main Card: Harley Mederos (0-0-0) vs. Julio Madera (4-2-0)",
+        "Main Card: Reshat Mati (13-0-0) vs. Keith Hunter (15-1-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/867048"
@@ -43,12 +44,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#WoodLara"
+    ],
     "mainCard": {
       "title": "Wood vs. Lara",
       "time": "2023-02-18T19:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "v6z0l5q1ycx21elahmtwjhoe2",
+        "time": "2023-02-18T19:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Wood vs Lara"
       }
     },
     "tapology": {
@@ -63,7 +74,12 @@
       "card": [
         "Main Event: Leigh Wood (26-2-0) vs. Mauricio Lara (24-2-1)",
         "Main Card: Cheavon Clarke (0-0-0) vs. Dec Spelman (19-6-0)",
-        "Main Card: Solomon Dacres (5-0-0) vs. Emir Ahmatovic (12-1-0)"
+        "Main Card: Solomon Dacres (5-0-0) vs. Emir Ahmatovic (12-1-0)",
+        "Main Card: Dalton Smith (13-0-0) vs. Billy Allington (10-1-4)",
+        "Main Card: Gary Cully (15-0-0) vs. Wilfredo Flores (10-0-1)",
+        "Main Card: Gamal Yafai (19-2-0) vs. Diego Alberto Ruiz (23-6-1)",
+        "Main Card: Kieron Conway (18-3-1) vs. Jorge Silva (21-7-0)",
+        "Main Card: Nico Leivars (0-0-0) vs. Alberto Motos (0-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/867286"
@@ -77,6 +93,7 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Rodriguez vs. Gonzalez",
       "time": "2023-04-09T00:00:00Z",
       "broadcasters": {
@@ -95,6 +112,36 @@
       ],
       "card": [
         "Main Event: Jesse Rodriguez (17-0-0) vs. Cristian Gonzalez (15-1-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-97336",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Rakhimov vs. Cordina",
+      "time": "2023-04-22T18:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 97336,
+      "time": "2023-04-22T18:00:00Z",
+      "title": "Rakhimov vs. Cordina",
+      "info": "Rumored Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97336-rakhimov-vs-cordina",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Shavkatdzhon Rakhimov (17-0-1) vs. Joe Cordina (15-0-0)",
+        "Main Card: Matteo Signani (32-6-3) vs. Felix Cash (16-0-0)"
       ]
     }
   }

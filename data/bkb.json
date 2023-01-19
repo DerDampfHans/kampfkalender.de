@@ -11,17 +11,15 @@
     ],
     "mainCard": {
       "title": "BKB 30: Thailand",
-      "time": "2023-01-21T19:00:00Z",
+      "time": "2023-01-21T09:00:00Z",
       "broadcasters": {
-        "FIGHTING_DE": {
-        },
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkb-30/2pcib/"
         }
       },
       "fite": {
         "id": "2pcib",
-        "time": "2023-01-21T19:00:00Z",
+        "time": "2023-01-21T09:00:00Z",
         "title": "BKB 30: Thailand",
         "url": "https://www.fite.tv/watch/bkb-30/2pcib/",
         "price": "WATCH WITH FITE+",
@@ -34,7 +32,7 @@
     },
     "tapology": {
       "id": 96803,
-      "time": "2023-01-21T13:00:00Z",
+      "time": "2023-01-21T09:00:00Z",
       "title": "BKB 30",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/96803-bkb-30",
@@ -43,7 +41,42 @@
         "Main Card: Dan Podmore vs. Randall Rayment",
         "Main Card: Leo Pla vs. Mikhail Vertrila",
         "Main Card: Chisakan Ariphipat vs. Nong Noey Sor Sunrum",
-        "Main Card: Will Chope vs. Petzilla"
+        "Main Card: Will Chope vs. Petzilla",
+        "Main Card: Kesorn Saenlakhon vs. Pat Lernitiwongsakul",
+        "Main Card: Bunlaigun Bundasuk vs. Daro Toeur"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkb-30:7edd0fd6-bdf7-40b8-b52d-c5564a276435"
+      ]
+    }
+  },
+  {
+    "id": "tapology-97331",
+    "promotion": "BKB",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKB31"
+    ],
+    "mainCard": {
+      "title": "BKB 31",
+      "time": "2023-03-26T17:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 97331,
+      "time": "2023-03-26T17:00:00Z",
+      "title": "BKB 31",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/97331-bkb-31",
+      "card": [
+        "Main Card: James Connelly vs. Marley Churcher",
+        "Main Card: Paul Hilz vs. Nathan Leeson",
+        "Main Card: Nathan Decastro vs. Mattia Loi-Fonda"
       ]
     }
   }
