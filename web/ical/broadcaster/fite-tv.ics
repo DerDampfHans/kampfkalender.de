@@ -4,13 +4,13 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230119T184628Z
-X-KAMPFKALENDER-HASH:67dfe49a40e478dbfea0ca8b07033e88bba51f07
+DTSTAMP:20230120T081637Z
+X-KAMPFKALENDER-HASH:7c5a8c801b02ee3213b0dcae77482e3a723958f9
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
-UID:2023-01-aka-26@kampfkalender.de
+DTSTAMP:20230120T081638Z
+UID:2023-01-aka-26-jenkins-vs-tatum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:AKA 26
+SUMMARY:AKA 26: Jenkins vs. Tatum
 DTSTART:20230121T010000Z
 DTEND:20230121T040000Z
 CATEGORIES:AKA,MMA,fite.tv,live
@@ -26,10 +26,10 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-26/2pcgz/\n\n---\n
  Miller\nMain Card: Paul Arevalo (0-0-0) vs. Alex Konnero (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
-UID:2023-01-bkb-30-thailand@kampfkalender.de
+DTSTAMP:20230120T081638Z
+UID:2023-01-bkb-30-jones-vs-tello@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKB 30: Thailand
+SUMMARY:BKB 30: Jones vs. Tello
 DTSTART:20230121T090000Z
 DTEND:20230121T120000Z
 CATEGORIES:BKB,Bare Knuckle,fite.tv,live
@@ -43,7 +43,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkb-30/2pcib/\n\n---\n
  : Bunlaigun Bundasuk vs. Daro Toeur
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-01-guidry-vs-stiverne@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Guidry vs. Stiverne
@@ -63,7 +63,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/don-king-guidry-vs-sti
  (1-8-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-01-bkfc-35-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Prelims
@@ -84,10 +84,10 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35-prelims/2pcg7/
  n Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
-UID:2023-01-aka-27@kampfkalender.de
+DTSTAMP:20230120T081638Z
+UID:2023-01-aka-27-bosnick-vs-lamparez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:AKA 27
+SUMMARY:AKA 27: Bosnick vs. Lamparez
 DTSTART:20230128T010000Z
 DTEND:20230128T040000Z
 CATEGORIES:AKA,MMA,fite.tv,live
@@ -96,7 +96,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-27/2pcha/\n\n---\n
  n Event: David Bosnick (11-6-0) vs. Justice Lamparez (8-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-01-bkfc-35-cedeno-vs-slaveski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 35: Cedeno vs. Slaveski
@@ -117,7 +117,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-35/2pcg6/\n\n---\
  n
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-02-bkfc-knuckle-mania-3-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Knuckle Mania 3: Prelims
@@ -134,7 +134,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-3-pr
  Dodson vs. Jarod Grant\nPrelim: Eric Dodson vs. Gene Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Knuckle Mania 3
@@ -151,7 +151,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-3/2p
  s. Jarod Grant\nPrelim: Eric Dodson vs. Gene Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-02-bkfc-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Prelims
@@ -170,7 +170,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/
  n Gaskins vs. Hunter Boone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-02-bkfc-36-adams-vs-belcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Adams vs. Belcher
@@ -189,7 +189,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36/2pcgq/\n\n---\
  s vs. Hunter Boone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -201,7 +201,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-03-bkfc-37-tierney-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37: Tierney vs. Lindsey
@@ -214,7 +214,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rge Thorpe\nMain Card: Luke Haigh vs. Darren Godfrey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-03-bkfc-norfolk@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Norfolk
@@ -228,7 +228,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  almus
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230120T081638Z
 UID:2023-03-bkb-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 31
