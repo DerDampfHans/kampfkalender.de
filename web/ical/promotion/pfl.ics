@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230119T184628Z
-X-KAMPFKALENDER-HASH:fc7a6e40b6af651fd0a452420c8c4f4aaf9664b1
+DTSTAMP:20230127T102121Z
+X-KAMPFKALENDER-HASH:8bfbe5c12fcd8fca3ab6f39223248471d7671f80
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230127T102122Z
 UID:2023-01-pfl-challenger-series-2023-week-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2023: Week 1
@@ -15,14 +15,17 @@ DTSTART:20230128T020000Z
 DTEND:20230128T050000Z
 CATEGORIES:PFL,MMA,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/95439-pfl-challenger-series-9\n\n---\n\nMain Event: Lucas Barbosa (2-1
- -0) vs. Itso Babulaidze (2-0-0)\nCo-Main Event: Eric Alequin (7-0-0) vs.
-  Thad Jean (4-0-0)\nMain Card: Quemuel Ottoni (12-3-0) vs. Jozef Wittner
-  (16-2-0)\nMain Card: Mostafa Rashed Neda (7-3-0) vs. Nick Alley (7-5-0)
- 
+ s/95439-pfl-challenger-series-9\nhttp://www.sherdog.com/events/professio
+ nal-fighters-league-pfl-challenger-series-2023-week-1-welterweights-9593
+ 0\nhttps://events.mixedmartialarts.com/pfl-challenger-series-2023:74c2ad
+ 2d-054b-4959-b69b-009984b85ab9\nhttps://www.bestfightodds.com/events/pfl
+ -challenger-series-week-1-2775\n\n---\n\nMain Event: Lucas Barbosa (2-1-
+ 0) vs. Itso Babulaidze (2-0-0)\nCo-Main Event: Eric Alequin (7-0-0) vs. 
+ Thad Jean (4-0-0)\nMain Card: Jozef Wittner (16-2-0) vs. Zach Juusola (1
+ 2-9-0)\nMain Card: Kendly St. Louis (7-4-0) vs. Nick Alley (7-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230127T102122Z
 UID:2023-02-pfl-challenger-series-2023-week-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2023: Week 2
@@ -37,7 +40,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Shaquita Amador Woods (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230127T102122Z
 UID:2023-03-pfl-europe-2023-regular-season@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe: 2023 Regular Season
@@ -45,10 +48,44 @@ DTSTART:20230325T160000Z
 DTEND:20230325T190000Z
 CATEGORIES:PFL,MMA,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/97296-pfl-europe-2023-regular-season
+ s/97296-pfl-europe-2023-regular-season\n\n---\n\nMain Card: Dakota Ditch
+ eva (7-0-0) vs. Clara Ricignuolo (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230127T102122Z
+UID:2023-04-pfl-1-2023-regular-season@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 1: 2023 Regular Season
+DTSTART:20230401T220000Z
+DTEND:20230402T010000Z
+CATEGORIES:PFL,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/97677-pfl-1-2023-
+ regular-season
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
+UID:2023-04-pfl-2-2023-regular-season@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 2: 2023 Regular Season
+DTSTART:20230407T220000Z
+DTEND:20230408T010000Z
+CATEGORIES:PFL,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/97678-pfl-2-2023-
+ regular-season
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
+UID:2023-04-pfl-3-2023-regular-season@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 3: 2023 Regular Season
+DTSTART:20230414T220000Z
+DTEND:20230415T010000Z
+CATEGORIES:PFL,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/97679-pfl-3-2023-
+ regular-season
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
 UID:2023-07-pfl-europe-2023-regular-season@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe: 2023 Regular Season
@@ -59,7 +96,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97297-pfl-europe-2023-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230127T102122Z
 UID:2023-09-pfl-europe-2023-playoffs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe: 2023 Playoffs
@@ -70,7 +107,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97298-pfl-europe-2023-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230127T102122Z
 UID:2023-12-pfl-europe-2023-championships@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe: 2023 Championships

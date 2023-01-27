@@ -5,30 +5,69 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#RochaAshie"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Golden Boy Fight Night: Rocha vs. Young",
-      "time": "2023-01-29T02:00:00Z"
+      "title": "Rocha vs. Ashie",
+      "time": "2023-01-29T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "yq5qsdpk5ewl1v7aoecop1ozs",
+        "time": "2023-01-29T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Rocha vs Ashie"
+      }
     },
     "tapology": {
       "id": 97010,
-      "time": "2023-01-29T02:00:00Z",
-      "title": "Golden Boy Fight Night: Rocha vs. Young",
+      "time": "2023-01-29T01:00:00Z",
+      "title": "Golden Boy Fight Night: Rocha vs. Ashie",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/97010-golden-boy-fight-night",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Alexis Rocha (21-1-0) vs. Anthony Young (24-2-0)",
+        "Main Event: Alexis Rocha (21-1-0) vs. George Ashie (33-5-1)",
         "Co-Main Event: Floyd Schofield (12-0-0) vs. Alberto Mercado (17-4-1)",
         "Main Card: Oscar Collazo (5-0-0) vs. Yudel Reyes (15-1-0)",
         "Main Card: Alejandro Reyes (9-0-0) vs. Jose Zaragoza (9-6-1)",
         "Main Card: Pedro Salome (3-1-2) vs. Adan Palma (0-0-0)",
-        "Main Card: Bektemir Melikuziev (10-1-0) vs. Ulises Sierra (15-2-2)"
+        "Main Card: Bektemir Melikuziev (10-1-0) vs. Ulises Sierra (15-2-2)",
+        "Main Card: Daniel Garcia (3-0-0) vs. Jonathan Perez (40-32-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/867049"
+      ]
+    }
+  },
+  {
+    "id": "tapology-97793",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Nery vs. Hovhannisyan",
+      "time": "2023-02-19T02:00:00Z"
+    },
+    "tapology": {
+      "id": 97793,
+      "time": "2023-02-19T02:00:00Z",
+      "title": "Nery vs. Hovhannisyan",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97793-nery-vs-hovhannisyan",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Luis Nery (33-1-0) vs. Azat Hovhannisyan (21-3-0)"
       ]
     }
   },
@@ -45,10 +84,16 @@
     },
     "tapology": {
       "id": 97003,
-      "time": "2023-03-19T00:00:00Z",
-      "title": "Stanionis vs. Ortiz (Postponed)",
-      "info": "Cancelled Event",
-      "url": "https://www.tapology.com/fightcenter/events/97003-ortiz-vs-stanionis"
+      "time": "2023-04-29T20:00:00Z",
+      "title": "Stanionis vs. Ortiz",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97003-ortiz-vs-stanionis",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Eimantas Stanionis (14-0-0) vs. Vergil Ortiz Jr. (19-0-0)"
+      ]
     }
   }
 ]

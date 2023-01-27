@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230121T085855Z
-X-KAMPFKALENDER-HASH:50e9e57d832d1223924d7b10576c90c823a9d336
+DTSTAMP:20230127T102121Z
+X-KAMPFKALENDER-HASH:af37383f70a62933e596eb74f13365c3c0ac8119
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-01-one-lumpinee-1-nong-o-vs-ramazanov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Lumpinee 1: Nong-O vs. Ramazanov
@@ -28,7 +28,27 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cpDrwYAUOlg\n\n-
  iakoumis vs. Mohammad Sadeghi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
+UID:2023-01-one-friday-fights-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 2
+DTSTART:20230127T123000Z
+DTEND:20230127T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=H3HOW91IucQ\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/97790-one-friday-fight
+ s-2\n\n---\n\nMain Event: Sangmanee PK.Saenchai vs. K. Sor Jor Piek-U-Th
+ ai\nCo-Main Event: Chalamkhao PK.Saenchai vs. Pettong Kiatsongrit\nMain 
+ Card: Avatar PK.Saenchai vs. Mohammed Siasarani\nMain Card: Sherzod Kabu
+ tov vs. Nakrob Fairtex\nMain Card: Yoddoi Kaewsamrit vs. S. Kiatsongrit\
+ nMain Card: Yodlekpet Or.Pitisak vs. Silviu Vitez\nMain Card: Pongsiri P
+ K. Saenchai vs. Ferzan Çiçek\nMain Card: Harry Grech (3-0-0) vs. Arash M
+ ardani (0-1-0)\nMain Card: Elias Ghazali vs. Ayad Albadr\nMain Card: Mar
+ ie Ruumet vs. Thai-Ngan Lee\nMain Card: Jakub Wayman (1-0-0) vs. R. Cati
+ ndig-Stagg (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
 UID:2023-02-one-fight-night-7-lineker-vs-andrade-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 7: Lineker vs. Andrade 2
@@ -47,7 +67,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ancesco Xhaja
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-02-one-fight-night-8-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 8: Bhullar vs. Malykhin
@@ -59,7 +79,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  1-0) vs. Anatoly Malykhin (12-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9

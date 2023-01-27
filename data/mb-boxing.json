@@ -5,13 +5,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#SerranoCruz"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Serrano vs. Cruz",
-      "time": "2023-02-05T00:00:00Z",
+      "time": "2023-02-05T01:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "188c94o8lgpfc1wbx4o1mnhd5h",
+        "time": "2023-02-05T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Serrano vs Cruz"
       }
     },
     "tapology": {
@@ -31,9 +40,11 @@
         "Main Card: Ramla Ali (7-0-0) vs. Avril Mathie (8-0-1)",
         "Main Card: Aaron Aponte (6-0-1) vs. Joshua David Rivera (8-1-0)",
         "Main Card: Harley Mederos (0-0-0) vs. Julio Madera (4-2-0)",
-        "Main Card: Reshat Mati (13-0-0) vs. Keith Hunter (15-1-0)"
+        "Main Card: Shadasia Green (11-0-0) vs. Elin Cederroos (8-1-0)",
+        "Main Card: Yankiel Rivera (0-0-0) vs. Fernando Diaz (10-2-1)"
       ],
       "links": [
+        "https://www.matchroomboxing.com/events/serrano-vs-cruz/",
         "http://www.boxrec.com/en/event/867048"
       ]
     }
@@ -87,13 +98,42 @@
     }
   },
   {
+    "id": "tapology-97814",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Fierro vs. Estela",
+      "time": "2023-03-05T02:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 97814,
+      "time": "2023-03-05T02:00:00Z",
+      "title": "Fierro vs. Estela",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97814-fierro-vs-estela",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Angel Fierro (20-1-2) vs. Eduardo Estela (13-1-0)",
+        "Main Card: Eduardo Nunez (23-1-0) vs. Rodolfo Bustamante (17-1-1)",
+        "Main Card: Misael Rodriguez (12-0-0) vs. Rafael Ortiz (16-5-1)"
+      ]
+    }
+  },
+  {
     "id": "tapology-97535",
     "promotion": "MB_BOXING",
     "sports": [
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Matchroom Liverpool",
       "time": "2023-03-11T19:00:00Z",
       "broadcasters": {
@@ -123,7 +163,6 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "NextGen Newcastle",
       "time": "2023-03-18T18:00:00Z",
       "broadcasters": {
@@ -147,13 +186,40 @@
     }
   },
   {
+    "id": "tapology-97748",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Joshua vs. Franklin",
+      "time": "2023-04-01T18:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 97748,
+      "time": "2023-04-01T18:00:00Z",
+      "title": "Joshua vs. Franklin",
+      "info": "Rumored Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97748-joshua-vs-franklin",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Anthony Joshua (24-3-0) vs. Jermaine Franklin (21-1-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-97008",
     "promotion": "MB_BOXING",
     "sports": [
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Rodriguez vs. Gonzalez",
       "time": "2023-04-09T00:00:00Z",
       "broadcasters": {
@@ -182,7 +248,6 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Rakhimov vs. Cordina",
       "time": "2023-04-22T18:00:00Z",
       "broadcasters": {

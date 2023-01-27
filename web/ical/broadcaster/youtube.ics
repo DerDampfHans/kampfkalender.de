@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230126T230304Z
-X-KAMPFKALENDER-HASH:cffe6542aca3cbd40cf3345ac8352b7f2844cc06
+DTSTAMP:20230127T102121Z
+X-KAMPFKALENDER-HASH:b2cb94d9bcad489bedb2d824084087654339b6c2
 BEGIN:VEVENT
-DTSTAMP:20230126T230305Z
+DTSTAMP:20230127T102122Z
 UID:2023-01-one-lumpinee-1-nong-o-vs-ramazanov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Lumpinee 1: Nong-O vs. Ramazanov
@@ -28,17 +28,47 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cpDrwYAUOlg\n\n-
  iakoumis vs. Mohammad Sadeghi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T230305Z
-UID:2023-01-schlagwort-special@kampfkalender.de
+DTSTAMP:20230127T102122Z
+UID:2023-01-schlagwort-special-nfc-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Special
-DTSTART:20230122T170000Z
-DTEND:20230122T180000Z
+SUMMARY:Schlagwort Special: NFC 12
+DTSTART:20230122T190000Z
+DTEND:20230122T200000Z
 CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GO-XeLtubbM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
+UID:2023-01-one-friday-fights-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 2
+DTSTART:20230127T123000Z
+DTEND:20230127T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=H3HOW91IucQ\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/97790-one-friday-fight
+ s-2\n\n---\n\nMain Event: Sangmanee PK.Saenchai vs. K. Sor Jor Piek-U-Th
+ ai\nCo-Main Event: Chalamkhao PK.Saenchai vs. Pettong Kiatsongrit\nMain 
+ Card: Avatar PK.Saenchai vs. Mohammed Siasarani\nMain Card: Sherzod Kabu
+ tov vs. Nakrob Fairtex\nMain Card: Yoddoi Kaewsamrit vs. S. Kiatsongrit\
+ nMain Card: Yodlekpet Or.Pitisak vs. Silviu Vitez\nMain Card: Pongsiri P
+ K. Saenchai vs. Ferzan Çiçek\nMain Card: Harry Grech (3-0-0) vs. Arash M
+ ardani (0-1-0)\nMain Card: Elias Ghazali vs. Ayad Albadr\nMain Card: Mar
+ ie Ruumet vs. Thai-Ngan Lee\nMain Card: Jakub Wayman (1-0-0) vs. R. Cati
+ ndig-Stagg (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
+UID:2023-01-schlagwort-podcast@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast
+DTSTART:20230129T170000Z
+DTEND:20230129T190000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T230305Z
+DTSTAMP:20230127T102122Z
 UID:2023-02-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -50,7 +80,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  0-0) vs. Ali Kiydin (15-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T230305Z
+DTSTAMP:20230127T102122Z
 UID:2023-02-one-fight-night-7-lineker-vs-andrade-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 7: Lineker vs. Andrade 2
@@ -69,7 +99,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ancesco Xhaja
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T230305Z
+DTSTAMP:20230127T102122Z
 UID:2023-02-one-fight-night-8-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 8: Bhullar vs. Malykhin
@@ -81,7 +111,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  1-0) vs. Anatoly Malykhin (12-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T230305Z
+DTSTAMP:20230127T102122Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -92,7 +122,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96959-one-on-prime-video-9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230126T230305Z
+DTSTAMP:20230127T102122Z
 UID:2023-05-one-fight-night-10-johnson-vs-moraes-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 10: Johnson vs. Moraes 3
@@ -101,6 +131,7 @@ DTEND:20230506T030000Z
 CATEGORIES:ONE,MMA,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/95948-one-on-prime-video-10-johnson-vs-moraes-3\n\n---\n\nMain Even
- t: Demetrious Johnson (24-4-1) vs. Adriano Moraes (20-4-0)
+ t: Demetrious Johnson (24-4-1) vs. Adriano Moraes (20-4-0)\nMain Card: S
+ age Northcutt (11-3-0) vs. Ahmed Mujtaba (10-2-0)
 END:VEVENT
 END:VCALENDAR

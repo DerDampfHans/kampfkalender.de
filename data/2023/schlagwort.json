@@ -43,6 +43,27 @@
   },
   {
     "id": "schlagwort-2023-01-15",
+    "promotion": "SCHLAGWORT",
+    "tags": [
+      "🎙@BDKraniotakes",
+      "🎙@MarkBergmann",
+      "#NFC12",
+      "#NFC13"
+    ],
+    "mainCard": {
+      "title": "Schlagwort Podcast 195",
+      "time": "2023-01-15T17:00:00Z",
+      "until": "2023-01-15T19:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=GhkUL8ihPYM",
+          "free": true
+        }
+      }
+    }
+  },
+  {
+    "id": "schlagwort-2023-01-22",
     "live": false,
     "promotion": "SCHLAGWORT",
     "tags": [
@@ -52,11 +73,12 @@
       "#NFC13"
     ],
     "mainCard": {
-      "title": "Schlagwort Special",
-      "time": "2023-01-22T17:00:00Z",
-      "until": "2023-01-22T18:00:00Z",
+      "title": "Schlagwort Special: NFC 12",
+      "time": "2023-01-22T19:00:00Z",
+      "until": "2023-01-22T20:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=GO-XeLtubbM",
           "free": true
         }
       }

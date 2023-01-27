@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230120T081637Z
-X-KAMPFKALENDER-HASH:087a0c83c429bc7a68ddca2045a74b4cec6a975c
+DTSTAMP:20230127T102121Z
+X-KAMPFKALENDER-HASH:78efd41417e626f10fdfc71aa25fd65bf39dec15
 BEGIN:VEVENT
-DTSTAMP:20230120T081638Z
+DTSTAMP:20230127T102122Z
 UID:2023-01-aka-26-jenkins-vs-tatum@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 26: Jenkins vs. Tatum
@@ -26,7 +26,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-26/2pcgz/\n\n---\n
  Miller\nMain Card: Paul Arevalo (0-0-0) vs. Alex Konnero (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230120T081638Z
+DTSTAMP:20230127T102122Z
 UID:2023-01-aka-27-bosnick-vs-lamparez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 27: Bosnick vs. Lamparez
@@ -34,7 +34,20 @@ DTSTART:20230128T010000Z
 DTEND:20230128T040000Z
 CATEGORIES:AKA,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-27/2pcha/\n\n---\n
- \nhttps://www.tapology.com/fightcenter/events/97138-aka-27\n\n---\n\nMai
- n Event: David Bosnick (11-6-0) vs. Justice Lamparez (8-5-0)
+ \nhttps://www.tapology.com/fightcenter/events/97138-aka-27\nhttp://www.s
+ herdog.com/events/aka-27-american-kombat-alliance-96164\n\n---\n\nMain E
+ vent: David Bosnick (11-6-0) vs. Justice Lamparez (8-5-0)\nCo-Main Event
+ : Braxton King (0-1-0) vs. CJ Henny (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
+UID:2023-04-aka-29@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 29
+DTSTART:20230429T010000Z
+DTEND:20230429T040000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/97711-aka-29
 END:VEVENT
 END:VCALENDAR

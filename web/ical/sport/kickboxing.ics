@@ -4,25 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230121T085855Z
-X-KAMPFKALENDER-HASH:97a033ef4f5d898759cb12b998681f236aa53bb6
+DTSTAMP:20230127T102121Z
+X-KAMPFKALENDER-HASH:62ddaf450c494ec6b8fd89289ff5f68ba99e2678
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
-UID:2023-01-glory-rivals-5@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory Rivals 5
-DTSTART:20230128T050000Z
-DTEND:20230128T080000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/96127-glory-rivals-5\n\n---\n\nMain Event: Abraha
- m Vidales vs. Tomás Aquirre\nCo-Main Event: Ivan Galaz vs. R. da Silva\n
- Main Card: Jonas Julio vs. Javier Aparicio\nMain Card: Dennis Wosik vs. 
- Marcos Ríos\nMain Card: Bruno Gazani vs. Nick Chasteen\nMain Card: Tessa
-  De Kom vs. Giuliana Cosnard
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-01-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -34,19 +19,41 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230128-olympix-b
  /events/97465-gmc-olympix-123
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
+UID:2023-01-glory-rivals-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY Rivals 5
+DTSTART:20230129T010000Z
+DTEND:20230129T040000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=3Ll1EFv8mJo\
+ nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-rivals-5/\nhttp
+ s://www.tapology.com/fightcenter/events/96127-glory-rivals-5\n\n---\n\nM
+ ain Event: Abraham Vidales vs. Tomás Aquirre\nCo-Main Event: Ivan Galaz 
+ vs. R. da Silva\nMain Card: Jonas Julio vs. Javier Aparicio\nMain Card: 
+ Dennis Wosik vs. Marcos Ríos\nMain Card: Bruno Gazani vs. Nick Chasteen\
+ nMain Card: Tessa De Kom vs. Giuliana Cosnard
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
 UID:2023-02-glory-83@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory 83
+SUMMARY:GLORY 83
 DTSTART:20230211T190000Z
 DTEND:20230211T220000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/96249-glory-83\n\n---\n\nMain Card: Sergej Maslob
- ojev vs. Donegi Abena\nMain Card: Donovan Wisse vs. César Almeida
+ com/fightcenter/events/96249-glory-83\n\n---\n\nMain Event: Sergej Maslo
+ bojev vs. Donegi Abena\nCo-Main Event: Donovan Wisse vs. César Almeida\n
+ Main Card: Serkan Özçağlayan vs. Sergej Braun\nMain Card: Mohammed Jaray
+ a vs. Chris Wunn\nMain Card: Guerric Billet vs. Cihad Akipa\nMain Card: 
+ Uku Jürjendal vs. Nabil Khachab\nMain Card: Ahmad Chikh Mousa vs. Berjan
+  Peposhi\nPrelim: Joilton Lutterbach vs. Diaguely Camara\nPrelim: Sorin 
+ Mihai Căliniuc vs. Arman Hambaryan\nPrelim: Jos van Belzen vs. Robin Cir
+ ic
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-02-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -57,7 +64,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230218-olympix-m
  ma-k1-boxen-no-125
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-02-one-fight-night-8-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 8: Bhullar vs. Malykhin
@@ -69,7 +76,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  1-0) vs. Anatoly Malykhin (12-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-03-oktagon-40@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 40
@@ -80,7 +87,21 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/95799-oktagon-40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
+UID:2023-03-glory-84@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 84
+DTSTART:20230311T070000Z
+DTEND:20230311T100000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/97766-glory-84\n\n---\n\nMain Event: Tyjani Bezta
+ ti vs. P. Kiatmoo9\nMain Card: Jay Overmeer vs. Jamie Bates\nMain Card: 
+ Nordine Mahieddine vs. Felipe Micheletti\nMain Card: Ertugrul Bayrak vs.
+  Michael Boapeah\nMain Card: Imad Hadar vs. Brice Kombou
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
 UID:2023-03-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -91,7 +112,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230325-olympix-m
  ma-k1-boxen-no-127
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-04-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -102,7 +123,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230401-olympix-m
  agdeburg-mma-k1-boxen-no-128
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -113,7 +134,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96959-one-on-prime-video-9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -124,7 +145,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
  ma-k1-boxen-no-130
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-05-oktagon-43@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 43
@@ -132,10 +153,11 @@ DTSTART:20230520T170000Z
 DTEND:20230520T200000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/96604-oktagon-43
+ /events/96604-oktagon-43\n\n---\n\nMain Event: Patrik Kincl (26-10-0) vs
+ . Karlos Vémola (33-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -146,7 +168,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
  ma-k1-boxen-no-132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -157,7 +179,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
  ma-k1-boxen-no-134
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230121T085856Z
+DTSTAMP:20230127T102122Z
 UID:2023-06-oktagon-44@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44

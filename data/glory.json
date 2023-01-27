@@ -8,26 +8,35 @@
     "tags": [
       "#GloryRivals5"
     ],
+    "links": [
+      "https://fighting.de/events/glory-rivals-5/"
+    ],
     "mainCard": {
-      "title": "Glory Rivals 5",
-      "time": "2023-01-28T05:00:00Z",
+      "title": "GLORY Rivals 5",
+      "time": "2023-01-29T01:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=3Ll1EFv8mJo",
+          "free": true
         },
         "GLORY_TV": {
         }
-      }
-    },
-    "prelims": {
-      "title": "Glory Rivals 5: Prelims",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
+      },
+      "youTube": {
+        "id": "3Ll1EFv8mJo",
+        "time": "2023-01-29T01:00:00Z",
+        "title": "GLORY RIVALS 5 - Live aus Tulum, Mexiko - In der Nacht von Samstag auf Sonntag um 02:00 Uhr",
+        "url": "https://www.youtube.com/watch?v=3Ll1EFv8mJo",
+        "tags": [
+          "#UFC",
+          "#NFC",
+          "#Fighting"
+        ]
       }
     },
     "tapology": {
       "id": 96127,
-      "time": "2023-01-28T05:00:00Z",
+      "time": "2023-01-29T01:00:00Z",
       "title": "Glory Rivals 5",
       "info": "Confirmed Upcoming Kickboxing Event",
       "url": "https://www.tapology.com/fightcenter/events/96127-glory-rivals-5",
@@ -54,7 +63,7 @@
       "#Glory83"
     ],
     "mainCard": {
-      "title": "Glory 83",
+      "title": "GLORY 83",
       "time": "2023-02-11T19:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
@@ -80,8 +89,57 @@
         "KICKBOXING"
       ],
       "card": [
-        "Main Card: Sergej Maslobojev vs. Donegi Abena",
-        "Main Card: Donovan Wisse vs. César Almeida"
+        "Main Event: Sergej Maslobojev vs. Donegi Abena",
+        "Co-Main Event: Donovan Wisse vs. César Almeida",
+        "Main Card: Serkan Özçağlayan vs. Sergej Braun",
+        "Main Card: Mohammed Jaraya vs. Chris Wunn",
+        "Main Card: Guerric Billet vs. Cihad Akipa",
+        "Main Card: Uku Jürjendal vs. Nabil Khachab",
+        "Main Card: Ahmad Chikh Mousa vs. Berjan Peposhi",
+        "Prelim: Joilton Lutterbach vs. Diaguely Camara",
+        "Prelim: Sorin Mihai Căliniuc vs. Arman Hambaryan",
+        "Prelim: Jos van Belzen vs. Robin Ciric"
+      ]
+    }
+  },
+  {
+    "id": "tapology-97766",
+    "promotion": "GLORY",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "GLORY 84",
+      "time": "2023-03-11T07:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "GLORY_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "GLORY 84: Prelims",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 97766,
+      "time": "2023-03-11T07:00:00Z",
+      "title": "Glory 84",
+      "info": "Confirmed Upcoming Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97766-glory-84",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Event: Tyjani Beztati vs. P. Kiatmoo9",
+        "Main Card: Jay Overmeer vs. Jamie Bates",
+        "Main Card: Nordine Mahieddine vs. Felipe Micheletti",
+        "Main Card: Ertugrul Bayrak vs. Michael Boapeah",
+        "Main Card: Imad Hadar vs. Brice Kombou"
       ]
     }
   }

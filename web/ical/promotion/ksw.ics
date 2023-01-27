@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230119T184628Z
-X-KAMPFKALENDER-HASH:bc01efaae09e71b6da41f97a2fbd73e9803b868f
+DTSTAMP:20230127T102121Z
+X-KAMPFKALENDER-HASH:ca4ba5b9bfe115ae8ea3903833ff9515dacff1dd
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230127T102122Z
 UID:2023-01-ksw-78-materla-vs-grove-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 78: Materla vs. Grove 2
@@ -29,16 +29,41 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  en (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
-UID:2023-02-ksw-79@kampfkalender.de
+DTSTAMP:20230127T102122Z
+UID:2023-02-ksw-79-de-fries-vs-duffee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 79
+SUMMARY:KSW 79: De Fries vs. Duffee
 DTSTART:20230225T150000Z
 DTEND:20230225T180000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/96391-ksw-79\n\n---\n\nMain Card: Tomáš Možný (1-1-0) vs. Arkadiu
- sz Wrzosek (1-0-0)\nMain Card: Viktor Pešta (18-8-0) vs. Daniel Omielańc
- zuk (26-13-1)
+ events/96391-ksw-79\n\n---\n\nMain Event: Phil De Fries (22-6-0) vs. Tod
+ d Duffee (9-3-0)\nMain Card: Tomáš Možný (1-1-0) vs. Arkadiusz Wrzosek (
+ 1-0-0)\nMain Card: Viktor Pešta (18-8-0) vs. Daniel Omielańczuk (26-13-1
+ )\nMain Card: Brian Hooi (18-9-0) vs. Jivko Stoimenov (13-5-0)\nPrelim: 
+ Frederico Komuenha (2-0-0) vs. Matyas Viszlay (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
+UID:2023-03-ksw-80@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 80
+DTSTART:20230317T170000Z
+DTEND:20230317T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/97604-ksw-80\n\n---\n\nMain Card: Izuagbe Ugonoh (1-2-0) vs. Toma
+ sz Sarara (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230127T102122Z
+UID:2023-04-ksw-81@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 81
+DTSTART:20230422T170000Z
+DTEND:20230422T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/97605-ksw-81
 END:VEVENT
 END:VCALENDAR
