@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230203T164858Z
-X-KAMPFKALENDER-HASH:570927f896bfaece837ea263640fa598be92b6ce
+DTSTAMP:20230203T170145Z
+X-KAMPFKALENDER-HASH:25208a0666bdeda7f7fba717d818e62f4e7a5b69
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-01-pfl-challenger-series-2023-week-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2023: Week 1
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  2-9-0)\nMain Card: Kendly St. Louis (7-4-0) vs. Nick Alley (7-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-01-rocha-vs-ashie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rocha vs. Ashie
@@ -43,7 +43,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  rez (40-32-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-02-pfl-challenger-series-2023-week-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2023: Week 2
@@ -62,7 +62,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0-0) vs. Shaquita Amador Woods (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-02-serrano-vs-cruz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Serrano vs. Cruz
@@ -82,7 +82,34 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  l Rivera (0-0-0) vs. Fernando Diaz (10-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
+UID:2023-02-ufc-vegas-68-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 68: Prelims
+DTSTART:20230205T030000Z
+DTEND:20230205T060000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/93977-ufc-fight-night\nhttp://www.sherdog.com/even
+ ts/ufc-fight-night-218-lewis-vs-spivak-95166\nhttp://en.wikipedia.org/wi
+ ki/UFC_Fight_Night:_Lewis_vs._Spivak\nhttps://events.mixedmartialarts.co
+ m/ufc-fight-night:9aeade18-72de-42dc-ad77-e29cd2bdf5f2\nhttps://www.ufc.
+ com/event/ufc-fight-night-february-04-2023\nhttp://www.ufcstats.com/even
+ t-details/d26394fc0e8e880a\nhttps://www.bestfightodds.com/events/ufc-fig
+ ht-night-lewis-vs-spivak-2747\n\n---\n\nMain Event: Derrick Lewis (26-10
+ -0) vs. Serghei Spivac (15-3-0)\nCo-Main Event: Da Un Jung (15-3-1) vs. 
+ Devin Clark (13-7-0)\nMain Card: Marcin Tybura (23-7-0) vs. Blagoy Ivano
+ v (19-4-0)\nMain Card: Doo Ho Choi (14-4-0) vs. Kyle Nelson (13-5-0)\nMa
+ in Card: Yusaku Kinoshita (6-1-0) vs. Adam Fugitt (8-3-0)\nPrelim: Anshu
+ l Jubli (6-0-0) vs. Jeka Saragih (13-2-0)\nPrelim: Zha Yi (21-3-0) vs. J
+ eong Yeong Lee (9-1-0)\nPrelim: Rinya Nakamura (6-0-0) vs. Toshiomi Kaza
+ ma (10-2-0)\nPrelim: Hyun Sung Park (7-0-0) vs. Seung Guk Choi (6-1-0)\n
+ Prelim: Ji Yeon Kim (9-6-2) vs. Mandy Böhm (7-2-0)\nPrelim: Jun Yong Par
+ k (15-5-0) vs. Denis Tiuliulin (11-6-0)\nPrelim: Tatsuro Taira (12-0-0) 
+ vs. Jesus Aguilar (8-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230203T170146Z
 UID:2023-02-ufc-vegas-68-lewis-vs-spivac@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 68: Lewis vs. Spivac
@@ -109,7 +136,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Jesus Aguilar (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-02-ufc-284-makhachev-vs-volkanovski@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 284: Makhachev vs. Volkanovski
@@ -136,7 +163,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  elim: Tyson Pedro (9-3-0) vs. Modestas Bukauskas (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-02-wood-vs-lara@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Lara
@@ -154,7 +181,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  \nMain Card: Nico Leivars (0-0-0) vs. Alberto Motos (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-02-ufc-vegas-69@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 69
@@ -175,7 +202,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-02-ufc-vegas-70-krylov-vs-spann@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 70: Krylov vs. Spann
@@ -198,7 +225,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  asudavicius (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-ufc-285-jones-vs-gane@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 285: Jones vs. Gane
@@ -222,7 +249,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  n Song (19-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-fierro-vs-estela@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fierro vs. Estela
@@ -236,7 +263,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  iz (16-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-matchroom-liverpool@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Matchroom Liverpool
@@ -249,7 +276,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s Jr. (23-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-ufc-vegas-71-yan-vs-dvalishvili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 71: Yan vs. Dvalishvili
@@ -271,7 +298,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Ricardo Ramos (16-4-0) vs. Austin Lingo (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-nextgen-newcastle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NextGen Newcastle
@@ -284,7 +311,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Ismay (11-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-ufc-286-edwards-vs-usman-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 286: Edwards vs. Usman 3
@@ -307,7 +334,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  0-1-1) vs. Yanal Ashmoz (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-pfl-europe-2023-regular-season-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023:  Regular Season 1
@@ -319,7 +346,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  eva (7-0-0) vs. Clara Ricignuolo (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-03-ufc-san-antonio-vera-vs-sandhagen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC San Antonio: Vera vs. Sandhagen
@@ -340,7 +367,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  lim: Steven Peterson (19-10-0) vs. Lucas Alexander (7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-04-joshua-vs-franklin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Joshua vs. Franklin
@@ -352,7 +379,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   vs. Jermaine Franklin (21-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-04-ufc-287-pereira-vs-adesanya-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 287: Pereira vs. Adesanya 2
@@ -373,7 +400,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  15-0) vs. Joseph Pyfer (10-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-04-rodriguez-vs-gonzalez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Gonzalez
@@ -385,7 +412,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0-0) vs. Cristian Gonzalez (15-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-04-ufc-vegas-72-holloway-vs-allen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 72: Holloway vs. Allen
@@ -406,7 +433,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Gaston Bolaños (6-3-0) vs. Aaron Phillips (12-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-04-rakhimov-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rakhimov vs. Cordina
@@ -419,7 +446,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  . Felix Cash (16-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-04-ufc-vegas-73@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 73
@@ -435,7 +462,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  scila Cachoeira (12-4-0) vs. Karine Silva (15-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -448,7 +475,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  . Journey Newson (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-05-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -461,7 +488,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  ) vs. Johnny Munoz Jr. (12-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-07-pfl-europe-2023-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Regular Season 2
@@ -472,7 +499,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97297-pfl-europe-2023-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-09-pfl-europe-2023-playoffs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Playoffs
@@ -483,7 +510,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97298-pfl-europe-2023-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230203T170146Z
 UID:2023-12-pfl-europe-2023-championships@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Championships
