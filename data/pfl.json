@@ -15,6 +15,9 @@
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "cibw1arwsow41kos9ovo5w6dc"
       }
     },
     "tapology": {
@@ -29,8 +32,13 @@
       "card": [
         "Main Event: Amanda Leve (1-0-0) vs. Naranjargal Tsendayush (2-0-0)",
         "Co-Main Event: Jeslen Mishelle (2-0-0) vs. Evelyn Martins (2-0-0)",
-        "Main Card: Karolina Sobek (4-0-0) vs. Senna van der Veerdonk (3-1-0)",
+        "Main Card: Jackie Cataline (2-1-0) vs. Senna van der Veerdonk (3-1-0)",
         "Main Card: Michelle Montague (2-0-0) vs. Shaquita Amador Woods (0-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/professional-fighters-league-pfl-challenger-series-2023-week-2-womens-featherweights-95931",
+        "https://events.mixedmartialarts.com/pfl-challenger-series-2023:b24797bd-4a67-42dd-b2e5-41f47ee7fa49",
+        "https://www.bestfightodds.com/events/pfl-challenger-series-week-2-2787"
       ]
     }
   },
@@ -51,6 +59,9 @@
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "pccxlmagueqi1qq4jru6bhffh"
       }
     },
     "tapology": {
@@ -253,7 +264,7 @@
       "@PFLEuropeMMA"
     ],
     "mainCard": {
-      "title": "PFL Europe: 2023 Regular Season",
+      "title": "PFL Europe 2023:  Regular Season 1",
       "time": "2023-03-25T16:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -280,8 +291,12 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#PFL2023"
+    ],
     "mainCard": {
-      "title": "PFL 1: 2023 Regular Season",
+      "hidden": true,
+      "title": "PFL 2023 Regular Season 1",
       "time": "2023-04-01T22:00:00Z"
     },
     "tapology": {
@@ -293,13 +308,49 @@
     }
   },
   {
+    "id": "tapology-98041",
+    "promotion": "PFL",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#PFL2023"
+    ],
+    "mainCard": {
+      "title": "PFL 2023 Regular Season 1",
+      "time": "2023-04-01T22:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 98041,
+      "time": "2023-04-01T22:00:00Z",
+      "title": "PFL 1: 2023 Regular Season",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/98041-pfl-1-2023-regular-season",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Brendan Loughnane (26-4-0) vs. Marlon Moraes (23-11-1)",
+        "Co-Main Event: Rob Wilkinson (17-2-0) vs. Thiago Santos (22-11-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-97678",
     "promotion": "PFL",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#PFL2023"
+    ],
     "mainCard": {
-      "title": "PFL 2: 2023 Regular Season",
+      "hidden": true,
+      "title": "PFL 2023 Regular Season 2",
       "time": "2023-04-07T22:00:00Z"
     },
     "tapology": {
@@ -311,13 +362,49 @@
     }
   },
   {
+    "id": "tapology-98042",
+    "promotion": "PFL",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#PFL2023"
+    ],
+    "mainCard": {
+      "title": "PFL 2023 Regular Season 2",
+      "time": "2023-04-07T22:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 98042,
+      "time": "2023-04-07T22:00:00Z",
+      "title": "PFL 2: 2023 Regular Season",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/98042-pfl-2-2023-regular-season",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Ante Delija (23-5-0) vs. Yorgan De Castro (9-3-0)",
+        "Co-Main Event: Larissa Pacheco (19-4-0) vs. Julia Budd (16-5-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-97679",
     "promotion": "PFL",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#PFL2023"
+    ],
     "mainCard": {
-      "title": "PFL 3: 2023 Regular Season",
+      "hidden": true,
+      "title": "PFL 2023 Regular Season 3",
       "time": "2023-04-14T22:00:00Z"
     },
     "tapology": {
@@ -326,6 +413,38 @@
       "title": "PFL 3: 2023 Regular Season",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/97679-pfl-3-2023-regular-season"
+    }
+  },
+  {
+    "id": "tapology-98044",
+    "promotion": "PFL",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#PFL2023"
+    ],
+    "mainCard": {
+      "title": "PFL 2023 Regular Season 3",
+      "time": "2023-04-14T22:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 98044,
+      "time": "2023-04-14T22:00:00Z",
+      "title": "PFL 3: 2023 Regular Season",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/98044-pfl-3-2023-regular-season",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Olivier Aubin-Mercier (17-5-0) vs. Shane Burgos (15-3-0)",
+        "Co-Main Event: Sadibou Sy (13-6-2) vs. J. Al-Silawi (18-4-0)"
+      ]
     }
   },
   {
@@ -340,7 +459,7 @@
       "@PFLEuropeMMA"
     ],
     "mainCard": {
-      "title": "PFL Europe: 2023 Regular Season",
+      "title": "PFL Europe 2023: Regular Season 2",
       "time": "2023-07-08T16:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -367,7 +486,7 @@
       "@PFLEuropeMMA"
     ],
     "mainCard": {
-      "title": "PFL Europe: 2023 Playoffs",
+      "title": "PFL Europe 2023: Playoffs",
       "time": "2023-09-30T16:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -394,7 +513,7 @@
       "@PFLEuropeMMA"
     ],
     "mainCard": {
-      "title": "PFL Europe: 2023 Championships",
+      "title": "PFL Europe 2023: Championships",
       "time": "2023-12-08T17:00:00Z",
       "broadcasters": {
         "DAZN": {

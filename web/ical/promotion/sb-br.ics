@@ -4,26 +4,39 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230119T184628Z
-X-KAMPFKALENDER-HASH:b77405deea5f8a88f90d702905e348acc529c62a
+DTSTAMP:20230203T164858Z
+X-KAMPFKALENDER-HASH:1d21274b7b172f4c7b7cff12e96eec03440dbdff
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
+DTSTAMP:20230203T164859Z
 UID:2023-02-shooto-brazil-115@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brazil 115
 DTSTART:20230203T230000Z
 DTEND:20230204T020000Z
 CATEGORIES:SB,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97886-shooto-brasil-115\nhttp://www.sherdog.com/events/shoot
+ o-brazil-shooto-brazil-115-96375\n\n---\n\nMain Event: Kleberson Tavares
+  (9-7-0) vs. André Vieira (7-1-0)\nCo-Main Event: Mauricio Almeida (11-5
+ -0) vs. Cleiver Fernandes (7-1-0)\nMain Card: Marcel Adur (16-6-0) vs. R
+ odrigo de Moura (13-7-0)\nMain Card: Samuel Silva (8-3-1) vs. Guilherme 
+ Doin (11-7-0)\nMain Card: Alan Silva (10-5-1) vs. José Henrique Souza (5
+ -1-0)\nMain Card: Heraldo Souza (6-1-0) vs. Martin Camilo (5-2-0)\nMain 
+ Card: Jarlilson Maia (4-2-0) vs. Marcos Novais (6-1-0)\nPrelim: Leonardo
+  Cerboni (2-0-0) vs. Sirnande Júnior (1-0-0)\nPrelim: Matheus Fonseca (1
+ -1-0) vs. Júlio César (1-0-0)\nPrelim: Roberto Andrade (0-0-0) vs. Marti
+ n Blanco (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230119T184629Z
-UID:2023-02-shooto-brazil-boxing@kampfkalender.de
+DTSTAMP:20230203T164859Z
+UID:2023-02-aldo-vs-zambrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Shooto Brazil Boxing
+SUMMARY:Aldo vs. Zambrano
 DTSTART:20230210T230000Z
 DTEND:20230211T020000Z
 CATEGORIES:SB,Boxen,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97881-shooto-brazil-boxing-aldo-vs-zambrano\n\n---\n\nMain E
+ vent: José Aldo (0-0-0) vs. A. Zambrano (0-2-0)
 END:VEVENT
 END:VCALENDAR

@@ -9,9 +9,17 @@
       "#GCP8"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "GCP 8",
-      "time": "2023-02-04T17:00:00Z"
+      "title": "German Cage Pioneer 8",
+      "time": "2023-02-04T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/@fight24tv",
+          "freeAfter": 48
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gcp-8-563"
+        }
+      }
     },
     "tapology": {
       "id": 96499,
@@ -32,7 +40,11 @@
         "Main Card: Denis Calinoiu (0-4-0) vs. Karo Shavershyan (0-0-0)",
         "Main Card: Ibrahim Ipek (0-0-0) vs. Zuhair Safsaf (0-1-0)",
         "Main Card: Sene Sangone (2-0-0) vs. Mateusz Kepczynski (0-0-0)",
-        "Main Card: Valik Ialama (0-0-0) vs. Enes Temiz (2-0-0)"
+        "Main Card: Valik Ialama (0-0-0) vs. Enes Temiz (2-0-0)",
+        "Main Card: Paolo D'Antoni (0-0-0) vs. Paul Pap (0-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/gcp-8-german-cage-pioneer-8-96093"
       ]
     }
   }

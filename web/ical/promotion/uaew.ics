@@ -4,6 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221027T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230203T164858Z
+X-KAMPFKALENDER-HASH:de3f788ab97746e9a09079566ed592fc4be77239
+BEGIN:VEVENT
+DTSTAMP:20230203T164859Z
+UID:2023-02-uae-warriors-35@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors 35
+DTSTART:20230225T170000Z
+DTEND:20230225T200000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97926-uae-warriors-35\n\n---\n\nMain Card: J. Knutsson (4-0-
+ 0) vs. Jacinta Austin (4-0-0)\nMain Card: Emiliano Sordi (23-11-1) vs. A
+ sylzhan Bakhytzhanuly (13-4-1)
+END:VEVENT
 END:VCALENDAR

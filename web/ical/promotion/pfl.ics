@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230127T102121Z
-X-KAMPFKALENDER-HASH:8bfbe5c12fcd8fca3ab6f39223248471d7671f80
+DTSTAMP:20230203T164858Z
+X-KAMPFKALENDER-HASH:d33325793066999f4591ab2adf237d650794fd92
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
+DTSTAMP:20230203T164859Z
 UID:2023-01-pfl-challenger-series-2023-week-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2023: Week 1
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  2-9-0)\nMain Card: Kendly St. Louis (7-4-0) vs. Nick Alley (7-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
+DTSTAMP:20230203T164859Z
 UID:2023-02-pfl-challenger-series-2023-week-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Challenger Series 2023: Week 2
@@ -33,17 +33,21 @@ DTSTART:20230204T020000Z
 DTEND:20230204T050000Z
 CATEGORIES:PFL,MMA,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/95440-pfl-challenger-series-10\n\n---\n\nMain Event: Amanda Leve (1-0-
- 0) vs. Naranjargal Tsendayush (2-0-0)\nCo-Main Event: Jeslen Mishelle (2
- -0-0) vs. Evelyn Martins (2-0-0)\nMain Card: Karolina Sobek (4-0-0) vs. 
- Senna van der Veerdonk (3-1-0)\nMain Card: Michelle Montague (2-0-0) vs.
-  Shaquita Amador Woods (0-0-0)
+ s/95440-pfl-challenger-series-10\nhttp://www.sherdog.com/events/professi
+ onal-fighters-league-pfl-challenger-series-2023-week-2-womens-featherwei
+ ghts-95931\nhttps://events.mixedmartialarts.com/pfl-challenger-series-20
+ 23:b24797bd-4a67-42dd-b2e5-41f47ee7fa49\nhttps://www.bestfightodds.com/e
+ vents/pfl-challenger-series-week-2-2787\n\n---\n\nMain Event: Amanda Lev
+ e (1-0-0) vs. Naranjargal Tsendayush (2-0-0)\nCo-Main Event: Jeslen Mish
+ elle (2-0-0) vs. Evelyn Martins (2-0-0)\nMain Card: Jackie Cataline (2-1
+ -0) vs. Senna van der Veerdonk (3-1-0)\nMain Card: Michelle Montague (2-
+ 0-0) vs. Shaquita Amador Woods (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
-UID:2023-03-pfl-europe-2023-regular-season@kampfkalender.de
+DTSTAMP:20230203T164859Z
+UID:2023-03-pfl-europe-2023-regular-season-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL Europe: 2023 Regular Season
+SUMMARY:PFL Europe 2023:  Regular Season 1
 DTSTART:20230325T160000Z
 DTEND:20230325T190000Z
 CATEGORIES:PFL,MMA,DAZN,live
@@ -52,43 +56,49 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  eva (7-0-0) vs. Clara Ricignuolo (3-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
-UID:2023-04-pfl-1-2023-regular-season@kampfkalender.de
+DTSTAMP:20230203T164859Z
+UID:2023-04-pfl-2023-regular-season-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL 1: 2023 Regular Season
+SUMMARY:PFL 2023 Regular Season 1
 DTSTART:20230401T220000Z
 DTEND:20230402T010000Z
-CATEGORIES:PFL,MMA,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/97677-pfl-1-2023-
- regular-season
+CATEGORIES:PFL,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/98041-pfl-1-2023-regular-season\n\n---\n\nMain Event: Brendan L
+ oughnane (26-4-0) vs. Marlon Moraes (23-11-1)\nCo-Main Event: Rob Wilkin
+ son (17-2-0) vs. Thiago Santos (22-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
-UID:2023-04-pfl-2-2023-regular-season@kampfkalender.de
+DTSTAMP:20230203T164859Z
+UID:2023-04-pfl-2023-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL 2: 2023 Regular Season
+SUMMARY:PFL 2023 Regular Season 2
 DTSTART:20230407T220000Z
 DTEND:20230408T010000Z
-CATEGORIES:PFL,MMA,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/97678-pfl-2-2023-
- regular-season
+CATEGORIES:PFL,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/98042-pfl-2-2023-regular-season\n\n---\n\nMain Event: Ante Deli
+ ja (23-5-0) vs. Yorgan De Castro (9-3-0)\nCo-Main Event: Larissa Pacheco
+  (19-4-0) vs. Julia Budd (16-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
-UID:2023-04-pfl-3-2023-regular-season@kampfkalender.de
+DTSTAMP:20230203T164859Z
+UID:2023-04-pfl-2023-regular-season-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL 3: 2023 Regular Season
+SUMMARY:PFL 2023 Regular Season 3
 DTSTART:20230414T220000Z
 DTEND:20230415T010000Z
-CATEGORIES:PFL,MMA,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/97679-pfl-3-2023-
- regular-season
+CATEGORIES:PFL,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/98044-pfl-3-2023-regular-season\n\n---\n\nMain Event: Olivier A
+ ubin-Mercier (17-5-0) vs. Shane Burgos (15-3-0)\nCo-Main Event: Sadibou 
+ Sy (13-6-2) vs. J. Al-Silawi (18-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
-UID:2023-07-pfl-europe-2023-regular-season@kampfkalender.de
+DTSTAMP:20230203T164859Z
+UID:2023-07-pfl-europe-2023-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL Europe: 2023 Regular Season
+SUMMARY:PFL Europe 2023: Regular Season 2
 DTSTART:20230708T160000Z
 DTEND:20230708T190000Z
 CATEGORIES:PFL,MMA,DAZN,live
@@ -96,10 +106,10 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97297-pfl-europe-2023-regular-season
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
+DTSTAMP:20230203T164859Z
 UID:2023-09-pfl-europe-2023-playoffs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL Europe: 2023 Playoffs
+SUMMARY:PFL Europe 2023: Playoffs
 DTSTART:20230930T160000Z
 DTEND:20230930T190000Z
 CATEGORIES:PFL,MMA,DAZN,live
@@ -107,10 +117,10 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97298-pfl-europe-2023-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
+DTSTAMP:20230203T164859Z
 UID:2023-12-pfl-europe-2023-championships@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL Europe: 2023 Championships
+SUMMARY:PFL Europe 2023: Championships
 DTSTART:20231208T170000Z
 DTEND:20231208T200000Z
 CATEGORIES:PFL,MMA,DAZN,live

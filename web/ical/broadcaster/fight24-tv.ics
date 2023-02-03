@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230127T102121Z
-X-KAMPFKALENDER-HASH:96b774f43ffb267e0cf6735c83bfee78b8f0ecfb
+DTSTAMP:20230203T164858Z
+X-KAMPFKALENDER-HASH:3367471ca3c49654dda49b7f9527becb0bb40842
 BEGIN:VEVENT
-DTSTAMP:20230127T102122Z
+DTSTAMP:20230203T164859Z
 UID:2023-01-hard-fighting-championship-39@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hard Fighting Championship 39
@@ -18,5 +18,28 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-hf
  c-39-560\n\n---\n\nhttps://www.tapology.com/fightcenter/events/97716-har
  d-fighting-championship-39\nhttp://www.sherdog.com/events/hfc-39-hard-fi
  ghting-championship-39-96241
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230203T164859Z
+UID:2023-02-german-cage-pioneer-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:German Cage Pioneer 8
+DTSTART:20230204T170000Z
+DTEND:20230204T200000Z
+CATEGORIES:GCP,MMA,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-gcp-8-563\n\n---\n\nhttps
+ ://www.tapology.com/fightcenter/events/96499-gcp-8\nhttp://www.sherdog.c
+ om/events/gcp-8-german-cage-pioneer-8-96093\n\n---\n\nMain Event: Karoma
+ tullo Sufiev (7-1-0) vs. Antônio Paulo (10-4-0)\nCo-Main Event: Zafar Mo
+ hsen (10-4-0) vs. William Valentim (9-7-0)\nMain Card: Marcel Stenner (0
+ -1-0) vs. Dumitru Macarenco (1-1-0)\nMain Card: Kerim Cakin (0-1-0) vs. 
+ Lukas Brunzel (0-0-0)\nMain Card: Umut Birdal (0-0-0) vs. Hans Krueger (
+ 0-0-0)\nMain Card: Dzhambulat Ustaev (1-1-0) vs. Loki Gläser (1-3-0)\nMa
+ in Card: Denis Calinoiu (0-4-0) vs. Karo Shavershyan (0-0-0)\nMain Card:
+  Ibrahim Ipek (0-0-0) vs. Zuhair Safsaf (0-1-0)\nMain Card: Sene Sangone
+  (2-0-0) vs. Mateusz Kepczynski (0-0-0)\nMain Card: Valik Ialama (0-0-0)
+  vs. Enes Temiz (2-0-0)\nMain Card: Paolo D'Antoni (0-0-0) vs. Paul Pap 
+ (0-0-0)
 END:VEVENT
 END:VCALENDAR
