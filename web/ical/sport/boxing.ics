@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230205T230305Z
-X-KAMPFKALENDER-HASH:4fcb0308bcbf711e887edc77ce2b625273fc9403
+DTSTAMP:20230210T024617Z
+X-KAMPFKALENDER-HASH:c43ddbafc2bb8f915c1bff805e84ed7e6c818ca5
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -19,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  ight\n\n---\n\nMain Event: Mourad Aliev (0-0-0) vs. Ali Kiydin (15-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-serrano-vs-cruz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Serrano vs. Cruz
@@ -39,19 +39,51 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  l Rivera (0-0-0) vs. Fernando Diaz (10-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-aldo-vs-zambrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Aldo vs. Zambrano
-DTSTART:20230210T230000Z
-DTEND:20230211T020000Z
+DTSTART:20230211T000000Z
+DTEND:20230211T030000Z
 CATEGORIES:SB,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/97881-shooto-brazil-boxing-aldo-vs-zambrano\n\n---\n\nMain E
- vent: José Aldo (0-0-0) vs. A. Zambrano (0-2-0)
+ vent: José Aldo (0-0-0) vs. Emmanuel Zambrano (0-2-0)\nCo-Main Event: He
+ rnani Perpétuo (0-0-0) vs. Ildemar Alcântara (0-0-0)\nMain Card: Johnny 
+ Eduardo (0-0-0) vs. Iuri Alcântara (0-0-0)\nMain Card: Marlon Sandro (0-
+ 0-0) vs. Marcos Vinicius (0-0-0)\nMain Card: A. da Silva (0-0-0) vs. E. 
+ da Costa (0-0-0)\nMain Card: Daniel Brum (0-0-0) vs. Guidson Matias (0-0
+ -0)\nPrelim: William Umpierre (0-0-0) vs. Felipe Sanches (0-0-0)\nPrelim
+ : Diego Paixão (0-0-0) vs. Kalil Paiva (0-0-0)\nPrelim: Willian Ricardo 
+ (0-0-0) vs. Douglas Andrade (0-0-0)\nPrelim: Filippi Oliveira (0-0-0) vs
+ . Alisson Monte (0-0-0)\nPrelim: Pedro Ribeiro (0-0-0) vs. Edson Araujo 
+ (0-0-0)\nMain Card: Charles Oliveira (0-0-0) vs. Pedro Figueiredo (0-0-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
+UID:2023-02-oktagon-39-jungwirth-vs-neves@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 39: Jungwirth vs. Neves
+DTSTART:20230211T161500Z
+DTEND:20230211T191500Z
+CATEGORIES:Oktagon,MMA,Boxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/94070-oktagon-39\nhttp://www.sherdog.com/events/oktagon-mma-okta
+ gon-39-95657\nhttps://events.mixedmartialarts.com/oktagon-39:b38b883d-f9
+ 3b-4386-a20d-b8cbad3ad630\n\n---\n\nMain Event: Christian Jungwirth (12-
+ 6-0) vs. Denilson Neves (16-9-0)\nCo-Main Event: Alexander Poppeck (15-4
+ -0) vs. Martin Zawada (29-17-1)\nMain Card: Ronald Paradeiser (15-8-0) v
+ s. Vladimir Šikić (12-1-1)\nMain Card: Losene Keita (9-0-0) vs. Samuel B
+ ark (8-1-0)\nMain Card: Hatef Moeil (13-4-0) vs. Wallyson Carvalho (13-7
+ -0)\nMain Card: Rafael Xavier (11-6-0) vs. Pavol Langer (10-9-0)\nMain C
+ ard: Vlasto Čepo (6-1-0) vs. Hector Lombard (0-0-0)\nPrelim: Robert Puka
+ č (16-10-1) vs. Dominic Schober (13-10-0)\nPrelim: Marek Bartl (10-12-0)
+  vs. Kevin Hangs (8-6-0)\nPrelim: Tayo Odunjo (4-2-0) vs. Lukas Cruz (7-
+ 2-0)\nPrelim: Vladimír Lengál (4-2-0) vs. Cem Kuyumcuoglu (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
 UID:2023-02-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -62,7 +94,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230218-olympix-m
  ma-k1-boxen-no-125
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-wood-vs-lara@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Lara
@@ -73,14 +105,28 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97014-wood-vs-lara\nhttp://www.boxrec.com/en/event/867286\n\n---\n\nMa
  in Event: Leigh Wood (26-2-0) vs. Mauricio Lara (24-2-1)\nCo-Main Event:
   Dalton Smith (13-0-0) vs. Billy Allington (10-1-4)\nMain Card: Cheavon 
- Clarke (0-0-0) vs. Dec Spelman (19-6-0)\nMain Card: Solomon Dacres (5-0-
- 0) vs. Emir Ahmatovic (12-1-0)\nMain Card: Gary Cully (15-0-0) vs. Wilfr
- edo Flores (10-0-1)\nMain Card: Gamal Yafai (19-2-0) vs. Diego Alberto R
- uiz (23-6-1)\nMain Card: Kieron Conway (18-3-1) vs. Jorge Silva (21-7-0)
- \nMain Card: Nico Leivars (0-0-0) vs. Alberto Motos (0-0-0)
+ Clarke (0-0-0) vs. Dec Spelman (19-6-0)\nMain Card: Gary Cully (15-0-0) 
+ vs. Wilfredo Flores (10-0-1)\nMain Card: Gamal Yafai (19-2-0) vs. Diego 
+ Alberto Ruiz (23-6-1)\nMain Card: Kieron Conway (18-3-1) vs. Jorge Silva
+  (21-7-0)\nMain Card: Nico Leivars (0-0-0) vs. Alberto Motos (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
+UID:2023-02-nery-vs-hovhannisyan@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nery vs. Hovhannisyan
+DTSTART:20230219T010000Z
+DTEND:20230219T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97793-nery-vs-hovhannisyan\n\n---\n\nMain Event: Luis Nery (33-1-0) vs
+ . Azat Hovhannisyan (21-3-0)\nMain Card: Shane Mosley Jr. (18-4-0) vs. M
+ ario Alberto Lozano (33-10-0)\nMain Card: Aaron Silva (11-0-0) vs. Crist
+ ian Olivas (20-8-0)\nMain Card: Ricardo Sandoval (20-2-0) vs. Jerson Ort
+ iz (17-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
 UID:2023-02-paul-vs-fury@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Fury
@@ -94,12 +140,12 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/97489-paul-vs-fur
  u (48-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-03-fierro-vs-estela@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fierro vs. Estela
-DTSTART:20230305T020000Z
-DTEND:20230305T050000Z
+DTSTART:20230305T010000Z
+DTEND:20230305T040000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97814-fierro-vs-estela\n\n---\n\nMain Event: Angel Fierro (20-1-2) vs.
@@ -108,20 +154,25 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  iz (16-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
-UID:2023-03-matchroom-liverpool@kampfkalender.de
+DTSTAMP:20230210T024619Z
+UID:2023-03-smith-vs-stepien@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Matchroom Liverpool
+SUMMARY:Smith vs\, Stepien
 DTSTART:20230311T190000Z
 DTEND:20230311T220000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/97535-matchroom-liverpool\n\n---\n\nMain Card: Diego Pacheco (17-0-0) 
- vs. Jack Cullen (21-3-1)\nMain Card: Liam Paro (23-0-0) vs. Robbie Davie
- s Jr. (23-3-0)
+ s/97535-matchroom-liverpool\nhttp://www.boxrec.com/en/event/868486\n\n--
+ -\n\nMain Event: Callum Smith (29-1-0) vs. Pawel Stepien (18-0-1)\nMain 
+ Card: Diego Pacheco (17-0-0) vs. Jack Cullen (21-3-1)\nMain Card: Liam P
+ aro (23-0-0) vs. Robbie Davies Jr. (23-3-0)\nMain Card: Mickey Ellison (
+ 14-4-0) vs. Thomas Whittaker Hart (7-1-0)\nMain Card: Rhiannon Dixon (7-
+ 0-0) vs. Vicky Wilkinson (0-0-0)\nMain Card: Johnny Fisher (7-0-0) vs. A
+ lfonso Damiani (6-2-0)\nMain Card: Aqib Fiaz (10-0-0) vs. Dean Dodge (9-
+ 2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-03-nextgen-newcastle@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NextGen Newcastle
@@ -129,12 +180,16 @@ DTSTART:20230318T180000Z
 DTEND:20230318T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/97534-nextgen-newcastle\n\n---\n\nMain Card: Cyrus Pattinson (5-0-0) v
- s. Chris Jenkins (23-6-3)\nMain Card: Solomon Dacres (5-0-0) vs. Robert 
- Ismay (11-0-0)
+ s/97534-nextgen-newcastle\nhttp://www.boxrec.com/en/event/868489\n\n---\
+ n\nMain Card: Cyrus Pattinson (5-0-0) vs. Chris Jenkins (23-6-3)\nMain C
+ ard: Solomon Dacres (5-0-0) vs. Robert Ismay (11-0-0)\nMain Card: Hopey 
+ Price (9-0-0) vs. Thomas Masson (20-5-1)\nMain Card: Pat McCormack (0-0-
+ 0) vs. Dario Socci (14-7-2)\nMain Card: Mark Dickinson (0-0-0) vs. Ben R
+ idings (5-3-0)\nMain Card: Calum French (0-0-0) vs. Jordan Ellison (14-4
+ 2-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-03-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -145,7 +200,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230325-olympix-m
  ma-k1-boxen-no-127
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -156,7 +211,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230401-olympix-m
  agdeburg-mma-k1-boxen-no-128
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-joshua-vs-franklin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Joshua vs. Franklin
@@ -165,10 +220,12 @@ DTEND:20230401T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97748-joshua-vs-franklin\n\n---\n\nMain Event: Anthony Joshua (24-3-0)
-  vs. Jermaine Franklin (21-1-0)
+  vs. Jermaine Franklin (21-1-0)\nMain Card: Matteo Signani (32-6-3) vs. 
+ Felix Cash (16-0-0)\nMain Card: Craig Richards (17-3-1) vs. Ricards Bolo
+ tniks (19-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-rodriguez-vs-gonzalez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Gonzalez
@@ -176,11 +233,14 @@ DTSTART:20230409T000000Z
 DTEND:20230409T030000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/97008-rodriguez-vs-gonzalez\n\n---\n\nMain Event: Jesse Rodriguez (17-
- 0-0) vs. Cristian Gonzalez (15-1-0)
+ s/97008-rodriguez-vs-gonzalez\nhttp://www.boxrec.com/en/event/868492\n\n
+ ---\n\nMain Event: Jesse Rodriguez (17-0-0) vs. Cristian Gonzalez (15-1-
+ 0)\nCo-Main Event: Murodjon Akhmadaliev (11-0-0) vs. Marlon Tapales (36-
+ 3-0)\nMain Card: Ray Ford (13-0-1) vs. Jessie Magdaleno (29-1-0)\nMain C
+ ard: Thomas Mattice (20-3-1) vs. Ramiro Cesena (16-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -191,7 +251,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
  ma-k1-boxen-no-130
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-rakhimov-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rakhimov vs. Cordina
@@ -199,12 +259,24 @@ DTSTART:20230422T180000Z
 DTEND:20230422T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/97336-rakhimov-vs-cordina\n\n---\n\nMain Event: Shavkatdzhon Rakhimov 
- (17-0-1) vs. Joe Cordina (15-0-0)\nMain Card: Matteo Signani (32-6-3) vs
- . Felix Cash (16-0-0)
+ s/97336-rakhimov-vs-cordina\nhttp://www.boxrec.com/en/event/868494\n\n--
+ -\n\nMain Event: Shavkatdzhon Rakhimov (17-0-1) vs. Joe Cordina (15-0-0)
+ \nMain Card: Gavin Gwynne (15-2-1) vs. Craig Woodruff (12-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
+UID:2023-05-taylor-vs-serrano-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Taylor vs. Serrano 2
+DTSTART:20230520T190000Z
+DTEND:20230520T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98165-taylor-serrano-2\nhttp://www.boxrec.com/en/event/868405\n\n---\n
+ \nMain Event: Katie Taylor (22-0-0) vs. Amanda Serrano (44-2-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -215,7 +287,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
  ma-k1-boxen-no-132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA

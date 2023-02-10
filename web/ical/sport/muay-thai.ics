@@ -4,10 +4,29 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230203T164858Z
-X-KAMPFKALENDER-HASH:10fcfd545da9094b751e84ca8319166d3527d5d6
+DTSTAMP:20230210T024617Z
+X-KAMPFKALENDER-HASH:bba03e8af28669ea5944393b9553a0af5ffe10fe
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230210T024619Z
+UID:2023-02-one-friday-fights-4-duangsompong-vs-batman@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 4: Duangsompong vs. Batman
+DTSTART:20230210T123000Z
+DTEND:20230210T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/channel/UCiormkBf3jm6mfb
+ 7k0yPbKA\n\n---\n\nhttps://www.tapology.com/fightcenter/events/98209-one
+ -friday-night-fights-4\n\n---\n\nMain Event: D. Jitmuangnon vs. Batman O
+ r.Atchariya\nCo-Main Event: Mongkolkaew Sor Sommai vs. P. Aodtukdaeng\nM
+ ain Card: Alessandro Sara vs. Erdem Taha Dincer\nMain Card: Gusjung Fair
+ tex vs. F. Vera Lizama\nMain Card: Chaongoh Jitmuangnon vs. An Bunhour\n
+ Main Card: Ferrari Fairtex vs. Fabio Reis\nMain Card: Bruno Azevedo (17-
+ 3-0) vs. Talekh Gamidov (5-0-0)\nMain Card: Hiroki Suzuki vs. Fariya Ami
+ nipour\nMain Card: Awan Aqib (3-0-0) vs. Peter Danasoe (4-2-0)\nMain Car
+ d: Judy Humber vs. Malena Garcia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
 UID:2023-02-one-fight-night-7-lineker-vs-andrade-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 7: Lineker vs. Andrade 2
@@ -26,7 +45,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ancesco Xhaja
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-one-fight-night-8-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 8: Bhullar vs. Malykhin
@@ -39,7 +58,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  t Todd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -47,6 +66,7 @@ DTSTART:20230422T000000Z
 DTEND:20230422T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96959-one-on-prime-video-9
+ ents/96959-one-on-prime-video-9\n\n---\n\nMain Event: Nong-O Gaiyanghada
+ o vs. Jonathan Haggerty
 END:VEVENT
 END:VCALENDAR

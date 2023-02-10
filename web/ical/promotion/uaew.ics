@@ -4,19 +4,46 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230203T164858Z
-X-KAMPFKALENDER-HASH:de3f788ab97746e9a09079566ed592fc4be77239
+DTSTAMP:20230210T024617Z
+X-KAMPFKALENDER-HASH:9fa8ce67f0c19f1b9019012904cc2351a3e92938
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
-UID:2023-02-uae-warriors-35@kampfkalender.de
+DTSTAMP:20230210T024619Z
+UID:2023-02-uae-warriors-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UAE Warriors 35
+SUMMARY:UAE Warriors 36
+DTSTART:20230225T140000Z
+DTEND:20230225T170000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98071-uae-warriors-36\n\n---\n\nMain Event: Bruno Azeredo (1
+ 5-9-0) vs. Martun Mezhlumyan (14-3-0)\nCo-Main Event: Emiliano Sordi (23
+ -11-1) vs. Asylzhan Bakhytzhanuly (13-4-1)\nMain Card: Xavier Alaoui (13
+ -4-0) vs. Jayson Margallo (11-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
+UID:2023-02-uae-warriors-africa-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors: Africa 4
 DTSTART:20230225T170000Z
 DTEND:20230225T200000Z
 CATEGORIES:UAEW,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/97926-uae-warriors-35\n\n---\n\nMain Card: J. Knutsson (4-0-
- 0) vs. Jacinta Austin (4-0-0)\nMain Card: Emiliano Sordi (23-11-1) vs. A
- sylzhan Bakhytzhanuly (13-4-1)
+ nter/events/97926-uae-warriors-35\n\n---\n\nMain Event: Jaures Dea Gomez
+  (9-5-0) vs. Mohamed Camara (5-1-0)\nCo-Main Event: Ahmed Faress (16-7-0
+ ) vs. Cedric Doyle (10-5-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
+UID:2023-02-uae-warriors-arabia-9@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors: Arabia 9
+DTSTART:20230226T140000Z
+DTEND:20230226T170000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98072-uae-warriors-37-arabia-9\n\n---\n\nMain Event: Mohamma
+ d Yahya (11-3-0) vs. Souhil Tahiri (5-3-1)\nCo-Main Event: Nawras Abzakh
+  (10-4-0) vs. Jonny Touma (5-1-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,28 +4,65 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230205T230305Z
-X-KAMPFKALENDER-HASH:fb809cf183596ad349d224c005d9f3d4386d26df
+DTSTAMP:20230210T024617Z
+X-KAMPFKALENDER-HASH:f7dab03906102ec62d21fcaad3162772ff1eef94
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
+UID:2023-02-one-friday-fights-4-duangsompong-vs-batman@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 4: Duangsompong vs. Batman
+DTSTART:20230210T123000Z
+DTEND:20230210T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/channel/UCiormkBf3jm6mfb
+ 7k0yPbKA\n\n---\n\nhttps://www.tapology.com/fightcenter/events/98209-one
+ -friday-night-fights-4\n\n---\n\nMain Event: D. Jitmuangnon vs. Batman O
+ r.Atchariya\nCo-Main Event: Mongkolkaew Sor Sommai vs. P. Aodtukdaeng\nM
+ ain Card: Alessandro Sara vs. Erdem Taha Dincer\nMain Card: Gusjung Fair
+ tex vs. F. Vera Lizama\nMain Card: Chaongoh Jitmuangnon vs. An Bunhour\n
+ Main Card: Ferrari Fairtex vs. Fabio Reis\nMain Card: Bruno Azevedo (17-
+ 3-0) vs. Talekh Gamidov (5-0-0)\nMain Card: Hiroki Suzuki vs. Fariya Ami
+ nipour\nMain Card: Awan Aqib (3-0-0) vs. Peter Danasoe (4-2-0)\nMain Car
+ d: Judy Humber vs. Malena Garcia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
+UID:2023-02-glory-83-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 83: Prelims
+DTSTART:20230211T173000Z
+DTEND:20230211T190000Z
+CATEGORIES:Glory,Kickboxen,YouTube,glory.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=We0jdQ6n5MI\nvia
+  glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/96249-gl
+ ory-83\n\n---\n\nMain Event: Sergej Maslobojev vs. Donegi Abena\nCo-Main
+  Event: Donovan Wisse vs. César Almeida\nMain Card: Serkan Özçağlayan vs
+ . Sergej Braun\nMain Card: Mohammed Jaraya vs. Chris Wunn\nMain Card: Gu
+ erric Billet vs. Cihad Akipa\nMain Card: Uku Jürjendal vs. Nabil Khachab
+ \nMain Card: Ahmad Chikh Mousa vs. Berjan Peposhi\nPrelim: Joilton Lutte
+ rbach vs. Diaguely Camara\nPrelim: Sorin Mihai Căliniuc vs. Arman Hambar
+ yan\nPrelim: Jos van Belzen vs. Robin Ciric
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T024619Z
 UID:2023-02-glory-83@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 83
 DTSTART:20230211T190000Z
 DTEND:20230211T220000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/96249-glory-83\n\n---\n\nMain Event: Sergej Maslo
- bojev vs. Donegi Abena\nCo-Main Event: Donovan Wisse vs. César Almeida\n
- Main Card: Serkan Özçağlayan vs. Sergej Braun\nMain Card: Mohammed Jaray
- a vs. Chris Wunn\nMain Card: Guerric Billet vs. Cihad Akipa\nMain Card: 
- Uku Jürjendal vs. Nabil Khachab\nMain Card: Ahmad Chikh Mousa vs. Berjan
-  Peposhi\nPrelim: Joilton Lutterbach vs. Diaguely Camara\nPrelim: Sorin 
- Mihai Căliniuc vs. Arman Hambaryan\nPrelim: Jos van Belzen vs. Robin Cir
- ic
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=lL6CG4sCu_E\
+ nvia glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9624
+ 9-glory-83\n\n---\n\nMain Event: Sergej Maslobojev vs. Donegi Abena\nCo-
+ Main Event: Donovan Wisse vs. César Almeida\nMain Card: Serkan Özçağlaya
+ n vs. Sergej Braun\nMain Card: Mohammed Jaraya vs. Chris Wunn\nMain Card
+ : Guerric Billet vs. Cihad Akipa\nMain Card: Uku Jürjendal vs. Nabil Kha
+ chab\nMain Card: Ahmad Chikh Mousa vs. Berjan Peposhi\nPrelim: Joilton L
+ utterbach vs. Diaguely Camara\nPrelim: Sorin Mihai Căliniuc vs. Arman Ha
+ mbaryan\nPrelim: Jos van Belzen vs. Robin Ciric
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -36,7 +73,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230218-olympix-m
  ma-k1-boxen-no-125
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-03-oktagon-40@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 40
@@ -51,10 +88,12 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  )\nMain Card: Bojan Veličković (21-12-2) vs. Ion Surdu (12-4-0)\nMain Ca
  rd: Christian Jungwirth (12-6-0) vs. Tato Primera (18-12-0)\nMain Card: 
  Leandro Silva (26-10-1) vs. Andreas Michailidis (13-6-0)\nMain Card: Lou
- is Glismann (9-2-0) vs. Amiran Gogoladze (14-3-0)
+ is Glismann (9-2-0) vs. Amiran Gogoladze (14-3-0)\nMain Card: Radovan Úš
+ krt (7-3-0) vs. John Palaiologos (18-11-1)\nMain Card: Andrej Kalašnik (
+ 10-3-0) vs. Matúš Juráček (9-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-03-glory-84@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 84
@@ -68,7 +107,7 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
   Michael Boapeah\nMain Card: Imad Hadar vs. Brice Kombou
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-03-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -79,7 +118,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230325-olympix-m
  ma-k1-boxen-no-127
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -90,7 +129,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230401-olympix-m
  agdeburg-mma-k1-boxen-no-128
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -98,10 +137,11 @@ DTSTART:20230422T000000Z
 DTEND:20230422T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96959-one-on-prime-video-9
+ ents/96959-one-on-prime-video-9\n\n---\n\nMain Event: Nong-O Gaiyanghada
+ o vs. Jonathan Haggerty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -112,7 +152,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
  ma-k1-boxen-no-130
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-05-oktagon-43@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 43
@@ -124,7 +164,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  . Karlos Vémola (33-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -135,7 +175,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
  ma-k1-boxen-no-132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -146,7 +186,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
  ma-k1-boxen-no-134
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T230307Z
+DTSTAMP:20230210T024619Z
 UID:2023-06-oktagon-44@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44

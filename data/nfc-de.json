@@ -15,12 +15,13 @@
     "mainCard": {
       "title": "NFC 12: Kakhorov vs. Abramishvili",
       "time": "2023-02-18T22:00:00Z",
-      "until": "2023-02-18T23:30:00Z",
+      "until": "2023-02-18T00:00:00Z",
       "broadcasters": {
         "SPORT1": {
           "free": true
         },
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=4oshYvVYP6Q"
         }
       }
     },
@@ -29,6 +30,7 @@
       "time": "2023-02-18T19:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=4oshYvVYP6Q"
         }
       }
     },
@@ -37,8 +39,20 @@
       "time": "2023-02-18T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=cgGda5zPVRo",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "cgGda5zPVRo",
+        "time": "2023-02-18T17:00:00Z",
+        "title": "FREE: NFC 12 Prelims | 18.2. | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=cgGda5zPVRo",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
       }
     },
     "tapology": {
@@ -123,7 +137,8 @@
         "Main Card: Pantelei Taran (6-4-0) vs. Alisher Abdullaev (7-3-0)",
         "Main Card: Florim Zendeli (6-1-0) vs. Wladimir Holodenko (4-1-1)",
         "Main Card: Max Heine (4-1-0) vs. Tobias Eylitz (4-1-0)",
-        "Main Card: Abubakar Sabirov (6-1-0) vs. Eduard Kexel (7-1-0)"
+        "Main Card: Abubakar Sabirov (6-1-0) vs. Eduard Kexel (7-1-0)",
+        "Main Card: Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)"
       ]
     }
   },

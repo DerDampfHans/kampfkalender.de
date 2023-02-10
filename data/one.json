@@ -1,5 +1,86 @@
 [
   {
+    "id": "tapology-98209",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#ONEFridayFights4",
+      "#ONELumpinee4"
+    ],
+    "mainCard": {
+      "title": "ONE Friday Fights 4: Duangsompong vs. Batman",
+      "time": "2023-02-10T12:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true,
+          "url": "https://www.youtube.com/channel/UCiormkBf3jm6mfb7k0yPbKA"
+        }
+      }
+    },
+    "tapology": {
+      "id": 98209,
+      "time": "2023-02-10T12:30:00Z",
+      "title": "One Friday Fights 4",
+      "titleAlt": "ONE Lumpinee 4",
+      "info": "Confirmed Upcoming Muay Thai, MMA, & Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/98209-one-friday-night-fights-4",
+      "sports": [
+        "MMA",
+        "KICKBOXING",
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Event: D. Jitmuangnon vs. Batman Or.Atchariya",
+        "Co-Main Event: Mongkolkaew Sor Sommai vs. P. Aodtukdaeng",
+        "Main Card: Alessandro Sara vs. Erdem Taha Dincer",
+        "Main Card: Gusjung Fairtex vs. F. Vera Lizama",
+        "Main Card: Chaongoh Jitmuangnon vs. An Bunhour",
+        "Main Card: Ferrari Fairtex vs. Fabio Reis",
+        "Main Card: Bruno Azevedo (17-3-0) vs. Talekh Gamidov (5-0-0)",
+        "Main Card: Hiroki Suzuki vs. Fariya Aminipour",
+        "Main Card: Awan Aqib (3-0-0) vs. Peter Danasoe (4-2-0)",
+        "Main Card: Judy Humber vs. Malena Garcia"
+      ]
+    }
+  },
+  {
+    "id": "tapology-98210",
+    "promotion": "ONE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#ONEFridayFights5",
+      "#ONELumpinee5"
+    ],
+    "mainCard": {
+      "title": "ONE Friday Fights 5",
+      "time": "2023-02-17T12:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 98210,
+      "time": "2023-02-17T12:30:00Z",
+      "title": "One Friday Fights 5",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/98210-one-friday-fights-5",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Chihiro Sawada (3-0-1) vs. Sanaz Fayazmanesh (1-0-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-94524",
     "promotion": "ONE",
     "sports": [
@@ -21,7 +102,7 @@
     },
     "tapology": {
       "id": 94524,
-      "time": "2023-02-24T20:00:00Z",
+      "time": "2023-02-25T01:00:00Z",
       "title": "ONE Fight Night 7: Lineker vs. Andrade 2",
       "titleAlt": "ONE on Prime Video 7",
       "info": "Confirmed Upcoming Combat Sports Event",
@@ -101,10 +182,16 @@
     "tapology": {
       "id": 96959,
       "time": "2023-04-22T00:00:00Z",
-      "title": "ONE Fight Night 9",
+      "title": "ONE Fight Night 9: Nong-O vs. Haggerty",
       "titleAlt": "ONE on Prime Video 9",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/96959-one-on-prime-video-9"
+      "info": "Confirmed Upcoming Muay Thai Event",
+      "url": "https://www.tapology.com/fightcenter/events/96959-one-on-prime-video-9",
+      "sports": [
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Event: Nong-O Gaiyanghadao vs. Jonathan Haggerty"
+      ]
     }
   },
   {
@@ -131,16 +218,18 @@
       "time": "2023-05-06T00:00:00Z",
       "title": "ONE Fight Night 10: Johnson vs. Moraes 3",
       "titleAlt": "ONE on Prime Video 10",
-      "info": "Confirmed Upcoming MMA Event",
+      "info": "Confirmed Upcoming MMA & Grappling Event",
       "url": "https://www.tapology.com/fightcenter/events/95948-one-on-prime-video-10-johnson-vs-moraes-3",
       "sports": [
-        "MMA"
+        "MMA",
+        "GRAPPLING"
       ],
       "card": [
         "Main Event: Demetrious Johnson (24-4-1) vs. Adriano Moraes (20-4-0)",
         "Co-Main Event: Sage Northcutt (11-3-0) vs. Ahmed Mujtaba (10-2-0)",
         "Main Card: Aung La N Sang (29-13-0) vs. Rong Fan (19-3-0)",
-        "Main Card: Stamp Fairtex (9-2-0) vs. Alyse Anderson (6-2-0)"
+        "Main Card: Stamp Fairtex (9-2-0) vs. Alyse Anderson (6-2-0)",
+        "Main Card: Reinier de Ridder vs. Tye Ruotolo"
       ]
     }
   }

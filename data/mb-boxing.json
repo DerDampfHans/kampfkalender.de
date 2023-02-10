@@ -36,7 +36,6 @@
         "Main Event: Leigh Wood (26-2-0) vs. Mauricio Lara (24-2-1)",
         "Co-Main Event: Dalton Smith (13-0-0) vs. Billy Allington (10-1-4)",
         "Main Card: Cheavon Clarke (0-0-0) vs. Dec Spelman (19-6-0)",
-        "Main Card: Solomon Dacres (5-0-0) vs. Emir Ahmatovic (12-1-0)",
         "Main Card: Gary Cully (15-0-0) vs. Wilfredo Flores (10-0-1)",
         "Main Card: Gamal Yafai (19-2-0) vs. Diego Alberto Ruiz (23-6-1)",
         "Main Card: Kieron Conway (18-3-1) vs. Jorge Silva (21-7-0)",
@@ -53,12 +52,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#FierroEstela"
+    ],
     "mainCard": {
       "title": "Fierro vs. Estela",
-      "time": "2023-03-05T02:00:00Z",
+      "time": "2023-03-05T01:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "1kv8egy8729fc10087hvra59il",
+        "time": "2023-03-05T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Fierro v Estela"
       }
     },
     "tapology": {
@@ -84,7 +93,7 @@
       "BOXING"
     ],
     "mainCard": {
-      "title": "Matchroom Liverpool",
+      "title": "Smith vs, Stepien",
       "time": "2023-03-11T19:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -94,15 +103,23 @@
     "tapology": {
       "id": 97535,
       "time": "2023-03-11T19:00:00Z",
-      "title": "Matchroom Liverpool",
+      "title": "Smith vs, Stepien",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/97535-matchroom-liverpool",
       "sports": [
         "BOXING"
       ],
       "card": [
+        "Main Event: Callum Smith (29-1-0) vs. Pawel Stepien (18-0-1)",
         "Main Card: Diego Pacheco (17-0-0) vs. Jack Cullen (21-3-1)",
-        "Main Card: Liam Paro (23-0-0) vs. Robbie Davies Jr. (23-3-0)"
+        "Main Card: Liam Paro (23-0-0) vs. Robbie Davies Jr. (23-3-0)",
+        "Main Card: Mickey Ellison (14-4-0) vs. Thomas Whittaker Hart (7-1-0)",
+        "Main Card: Rhiannon Dixon (7-0-0) vs. Vicky Wilkinson (0-0-0)",
+        "Main Card: Johnny Fisher (7-0-0) vs. Alfonso Damiani (6-2-0)",
+        "Main Card: Aqib Fiaz (10-0-0) vs. Dean Dodge (9-2-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/868486"
       ]
     }
   },
@@ -131,7 +148,14 @@
       ],
       "card": [
         "Main Card: Cyrus Pattinson (5-0-0) vs. Chris Jenkins (23-6-3)",
-        "Main Card: Solomon Dacres (5-0-0) vs. Robert Ismay (11-0-0)"
+        "Main Card: Solomon Dacres (5-0-0) vs. Robert Ismay (11-0-0)",
+        "Main Card: Hopey Price (9-0-0) vs. Thomas Masson (20-5-1)",
+        "Main Card: Pat McCormack (0-0-0) vs. Dario Socci (14-7-2)",
+        "Main Card: Mark Dickinson (0-0-0) vs. Ben Ridings (5-3-0)",
+        "Main Card: Calum French (0-0-0) vs. Jordan Ellison (14-42-3)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/868489"
       ]
     }
   },
@@ -153,13 +177,15 @@
       "id": 97748,
       "time": "2023-04-01T18:00:00Z",
       "title": "Joshua vs. Franklin",
-      "info": "Rumored Upcoming Boxing Event",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/97748-joshua-vs-franklin",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Anthony Joshua (24-3-0) vs. Jermaine Franklin (21-1-0)"
+        "Main Event: Anthony Joshua (24-3-0) vs. Jermaine Franklin (21-1-0)",
+        "Main Card: Matteo Signani (32-6-3) vs. Felix Cash (16-0-0)",
+        "Main Card: Craig Richards (17-3-1) vs. Ricards Bolotniks (19-6-1)"
       ]
     }
   },
@@ -187,7 +213,13 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Jesse Rodriguez (17-0-0) vs. Cristian Gonzalez (15-1-0)"
+        "Main Event: Jesse Rodriguez (17-0-0) vs. Cristian Gonzalez (15-1-0)",
+        "Co-Main Event: Murodjon Akhmadaliev (11-0-0) vs. Marlon Tapales (36-3-0)",
+        "Main Card: Ray Ford (13-0-1) vs. Jessie Magdaleno (29-1-0)",
+        "Main Card: Thomas Mattice (20-3-1) vs. Ramiro Cesena (16-0-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/868492"
       ]
     }
   },
@@ -209,14 +241,48 @@
       "id": 97336,
       "time": "2023-04-22T18:00:00Z",
       "title": "Rakhimov vs. Cordina",
-      "info": "Rumored Upcoming Boxing Event",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/97336-rakhimov-vs-cordina",
       "sports": [
         "BOXING"
       ],
       "card": [
         "Main Event: Shavkatdzhon Rakhimov (17-0-1) vs. Joe Cordina (15-0-0)",
-        "Main Card: Matteo Signani (32-6-3) vs. Felix Cash (16-0-0)"
+        "Main Card: Gavin Gwynne (15-2-1) vs. Craig Woodruff (12-6-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/868494"
+      ]
+    }
+  },
+  {
+    "id": "tapology-98165",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Taylor vs. Serrano 2",
+      "time": "2023-05-20T19:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 98165,
+      "time": "2023-05-20T19:00:00Z",
+      "title": "Taylor Serrano 2",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/98165-taylor-serrano-2",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Katie Taylor (22-0-0) vs. Amanda Serrano (44-2-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/868405"
       ]
     }
   }

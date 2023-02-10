@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230203T164858Z
-X-KAMPFKALENDER-HASH:1d21274b7b172f4c7b7cff12e96eec03440dbdff
+DTSTAMP:20230210T024617Z
+X-KAMPFKALENDER-HASH:5cbd11b51a4132ebe8a74cf6435689b5d7f8756d
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-shooto-brazil-115@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shooto Brazil 115
@@ -28,15 +28,25 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  n Blanco (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230210T024619Z
 UID:2023-02-aldo-vs-zambrano@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Aldo vs. Zambrano
-DTSTART:20230210T230000Z
-DTEND:20230211T020000Z
+DTSTART:20230211T000000Z
+DTEND:20230211T030000Z
 CATEGORIES:SB,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/97881-shooto-brazil-boxing-aldo-vs-zambrano\n\n---\n\nMain E
- vent: José Aldo (0-0-0) vs. A. Zambrano (0-2-0)
+ vent: José Aldo (0-0-0) vs. Emmanuel Zambrano (0-2-0)\nCo-Main Event: He
+ rnani Perpétuo (0-0-0) vs. Ildemar Alcântara (0-0-0)\nMain Card: Johnny 
+ Eduardo (0-0-0) vs. Iuri Alcântara (0-0-0)\nMain Card: Marlon Sandro (0-
+ 0-0) vs. Marcos Vinicius (0-0-0)\nMain Card: A. da Silva (0-0-0) vs. E. 
+ da Costa (0-0-0)\nMain Card: Daniel Brum (0-0-0) vs. Guidson Matias (0-0
+ -0)\nPrelim: William Umpierre (0-0-0) vs. Felipe Sanches (0-0-0)\nPrelim
+ : Diego Paixão (0-0-0) vs. Kalil Paiva (0-0-0)\nPrelim: Willian Ricardo 
+ (0-0-0) vs. Douglas Andrade (0-0-0)\nPrelim: Filippi Oliveira (0-0-0) vs
+ . Alisson Monte (0-0-0)\nPrelim: Pedro Ribeiro (0-0-0) vs. Edson Araujo 
+ (0-0-0)\nMain Card: Charles Oliveira (0-0-0) vs. Pedro Figueiredo (0-0-0
+ )
 END:VEVENT
 END:VCALENDAR
