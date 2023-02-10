@@ -4,20 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230203T164858Z
-X-KAMPFKALENDER-HASH:f2f3b1609a219f8ca6dc0e637fc421180164f589
+DTSTAMP:20230210T042524Z
+X-KAMPFKALENDER-HASH:ca0863cb442ce84f4ccfa1c022897641b831f289
 BEGIN:VEVENT
-DTSTAMP:20230203T164859Z
+DTSTAMP:20230210T042525Z
 UID:2023-02-paul-vs-fury@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Fury
 DTSTART:20230225T170000Z
 DTEND:20230225T200000Z
-CATEGORIES:MVP,Boxen,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/97489-paul-vs-fur
- y\nhttp://www.boxrec.com/en/event/868032\n\n---\n\nMain Event: Jake Paul
-  (6-0-0) vs. Tommy Fury (8-0-0)\nCo-Main Event: Ilunga Makabu (29-2-0) v
- s. Badou Jack (27-3-3)\nMain Card: Ashton Sylve (8-0-0) vs. Maxwell Awuk
- u (48-5-1)
+CATEGORIES:MVP,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/97489-paul-vs-fury\nhttp://www.boxrec.com/en/event/868032\n\n---\n\
+ nMain Event: Jake Paul (6-0-0) vs. Tommy Fury (8-0-0)\nCo-Main Event: Il
+ unga Makabu (29-2-0) vs. Badou Jack (27-3-3)\nMain Card: Ashton Sylve (8
+ -0-0) vs. Maxwell Awuku (48-5-1)
 END:VEVENT
 END:VCALENDAR

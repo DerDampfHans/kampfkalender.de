@@ -81,7 +81,8 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC36"
+      "#BKFC36",
+      "#BKFCNewOrleans"
     ],
     "mainCard": {
       "title": "BKFC 36: Adams vs. Belcher",
@@ -146,6 +147,39 @@
         "Prelim: Cody Schieve vs. Tyler Sammis",
         "Prelim: Quentin Gaskins vs. Hunter Boone"
       ]
+    }
+  },
+  {
+    "id": "bkfc-2023-03-04",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC37",
+      "#BKFCLondon"
+    ],
+    "mainCard": {
+      "title": "BKFC 37",
+      "time": "2023-03-18T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      },
+      "fite": {
+        "id": "2pclm"
+      }
+    },
+    "prelims": {
+      "title": "BKFC 37: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcln"
+      }
     }
   },
   {

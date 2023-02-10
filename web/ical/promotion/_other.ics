@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T024617Z
-X-KAMPFKALENDER-HASH:7147479aaaa8453cd906d47447373fede77bbe76
+DTSTAMP:20230210T042524Z
+X-KAMPFKALENDER-HASH:7e2fadd2247b263f3bf38b61316a54ea5b122e15
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T042525Z
 UID:2023-02-combat-fc-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 3
@@ -33,5 +33,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  . Jean (2-0-0) vs. Saheeb Jackson (1-0-0)\nMain Card: Nestor Yuja (4-3-0
  ) vs. Mike Jolicoeur (1-1-0)\nMain Card: Conor Hews (1-0-0) vs. Matthew 
  Heller (3-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042525Z
+UID:2023-02-senshi-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 15
+DTSTART:20230211T020000Z
+DTEND:20230211T050000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv
 END:VEVENT
 END:VCALENDAR

@@ -5,10 +5,19 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#VargasFoster"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Vargas vs. Foster",
-      "time": "2023-02-12T02:00:00Z"
+      "time": "2023-02-12T02:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      },
+      "fite": {
+        "id": "2pcmc"
+      }
     },
     "tapology": {
       "id": 96758,

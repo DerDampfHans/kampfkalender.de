@@ -4,10 +4,40 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T024617Z
-X-KAMPFKALENDER-HASH:4abdbdbd0d6b4190a8bdc9953942476c87c7b9de
+DTSTAMP:20230210T042524Z
+X-KAMPFKALENDER-HASH:1d2597a6e7edbf1acfbd26d93f7b4c34cd2a8896
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
+UID:2023-02-senshi-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 15
+DTSTART:20230211T020000Z
+DTEND:20230211T050000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042526Z
+UID:2023-02-vargas-vs-foster@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vargas vs. Foster
+DTSTART:20230212T020000Z
+DTEND:20230212T050000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/96758-vargas-vs-foster\nhttp://www.boxrec.com/en/event/866825\n\n--
+ -\n\nMain Event: Rey Vargas (36-0-0) vs. O'Shaquie Foster (19-2-0)\nCo-M
+ ain Event: Mario Barrios (26-2-0) vs. Jovanie Santiago (14-2-1)\nMain Ca
+ rd: Lenier Pero (8-0-0) vs. Viktor Faust (11-0-0)\nPrelim: Claudio Marre
+ ro (26-5-0) vs. Gonzalo Fuenzalida (12-1-0)\nPrelim: Eumir Marcial (70-1
+ 7-0) vs. Ricardo Villalba (20-7-1)\nPrelim: Dainier Pero (0-0-0) vs. Dan
+ iel Zavala (0-0-0)\nPrelim: Keith Foreman (0-0-0) vs. David Whitmire (0-
+ 0-0)\nPrelim: Manuel Sifuentes (0-0-0) vs. Jesus Ponce Aguilar (0-0-0)\n
+ Prelim: Fabian Diaz (0-0-0) vs. Eleazar Mendietta (0-0-0)\nPrelim: Danie
+ l Heinen (0-0-0) vs. James Wohlschlegel (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042526Z
 UID:2023-02-bkfc-knuckle-mania-3-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Knuckle Mania 3: Prelims
@@ -26,7 +56,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-3-pr
  lim: Anthony Sanchez vs. Derek Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-02-bkfc-knuckle-mania-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Knuckle Mania 3
@@ -45,7 +75,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-3/2p
  hony Sanchez vs. Derek Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-02-bkfc-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Prelims
@@ -64,7 +94,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/
  entin Gaskins vs. Hunter Boone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-02-bkfc-36-adams-vs-belcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Adams vs. Belcher
@@ -83,7 +113,31 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36/2pcgq/\n\n---\
  skins vs. Hunter Boone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
+UID:2023-02-paul-vs-fury@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paul vs. Fury
+DTSTART:20230225T170000Z
+DTEND:20230225T200000Z
+CATEGORIES:MVP,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/97489-paul-vs-fury\nhttp://www.boxrec.com/en/event/868032\n\n---\n\
+ nMain Event: Jake Paul (6-0-0) vs. Tommy Fury (8-0-0)\nCo-Main Event: Il
+ unga Makabu (29-2-0) vs. Badou Jack (27-3-3)\nMain Card: Ashton Sylve (8
+ -0-0) vs. Maxwell Awuku (48-5-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042526Z
+UID:2023-03-bkfc-37@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 37
+DTSTART:20230318T000000Z
+DTEND:20230318T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042526Z
 UID:2023-03-bkfc-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38
@@ -96,7 +150,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  lberto Aguilar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -108,7 +162,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-03-bkfc-37-tierney-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37: Tierney vs. Lindsey
@@ -126,7 +180,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Millar vs. Kyle Cassidy
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-03-bkfc-norfolk@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Norfolk
@@ -140,7 +194,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  almus
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-03-bkb-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 31
@@ -153,7 +207,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  . Mattia Loi-Fonda\nMain Card: Ryan Barrett vs. Brad Scott
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T042526Z
 UID:2023-04-aka-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 29
