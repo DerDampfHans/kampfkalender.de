@@ -4,10 +4,30 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T024617Z
-X-KAMPFKALENDER-HASH:9fa8ce67f0c19f1b9019012904cc2351a3e92938
+DTSTAMP:20230210T235746Z
+X-KAMPFKALENDER-HASH:16e008d311d79499dad5c3e50c328685be13deb9
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
+UID:2023-02-uae-warriors-africa-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors: Africa 4
+DTSTART:20230224T140000Z
+DTEND:20230224T170000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97926-uae-warriors-35\n\n---\n\nMain Event: Jaures Dea Gomez
+  (9-5-0) vs. Mohamed Camara (5-1-0)\nCo-Main Event: Ahmed Faress (16-7-0
+ ) vs. Cedric Doyle (10-5-1)\nMain Card: S. Soto Esperanca (6-1-0) vs. Ma
+ rtin van Staden (21-12-0)\nMain Card: Laïd Zerhouni (9-8-0) vs. Pupanga 
+ Tresor (4-5-0)\nMain Card: Eslam Abdul Baset (13-2-0) vs. Zaakir Badat (
+ 4-1-0)\nMain Card: Nora Cornolle (4-1-0) vs. Alice Ngom (2-2-0)\nPrelim:
+  Taha Bendaoud (1-0-0) vs. Sthembiso Hadebe (1-0-0)\nPrelim: Justin Smit
+ h (3-1-0) vs. Jaco Du Plessis (3-0-0)\nPrelim: Ramadan Noaman (9-7-0) vs
+ . Tapiwa Katikati (5-0-0)\nPrelim: Babacar Niang (2-1-0) vs. Denis Frimp
+ ong (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T235747Z
 UID:2023-02-uae-warriors-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UAE Warriors 36
@@ -18,23 +38,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/98071-uae-warriors-36\n\n---\n\nMain Event: Bruno Azeredo (1
  5-9-0) vs. Martun Mezhlumyan (14-3-0)\nCo-Main Event: Emiliano Sordi (23
  -11-1) vs. Asylzhan Bakhytzhanuly (13-4-1)\nMain Card: Xavier Alaoui (13
- -4-0) vs. Jayson Margallo (11-5-0)
+ -4-0) vs. Jayson Margallo (11-5-0)\nMain Card: Xavier Alaoui (13-4-0) vs
+ . Jayson Margallo (11-5-0)\nMain Card: J. Knutsson (4-0-0) vs. Jacinta A
+ ustin (4-0-0)\nMain Card: Mauro Mastromarini (14-1-0) vs. Bekzat Almakha
+ n (14-1-0)\nMain Card: Sofiane Boukichou (9-5-0) vs. Stefan Vojcak (5-0-
+ 0)\nPrelim: O. Mandt Johnsen (5-1-0) vs. Abdullo Khodzhaev (2-0-0)\nPrel
+ im: Furkatbek Yokubov (5-3-0) vs. Topnoi Kiwram (8-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
-UID:2023-02-uae-warriors-africa-4@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UAE Warriors: Africa 4
-DTSTART:20230225T170000Z
-DTEND:20230225T200000Z
-CATEGORIES:UAEW,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/97926-uae-warriors-35\n\n---\n\nMain Event: Jaures Dea Gomez
-  (9-5-0) vs. Mohamed Camara (5-1-0)\nCo-Main Event: Ahmed Faress (16-7-0
- ) vs. Cedric Doyle (10-5-1)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-02-uae-warriors-arabia-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UAE Warriors: Arabia 9
@@ -44,6 +56,10 @@ CATEGORIES:UAEW,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/98072-uae-warriors-37-arabia-9\n\n---\n\nMain Event: Mohamma
  d Yahya (11-3-0) vs. Souhil Tahiri (5-3-1)\nCo-Main Event: Nawras Abzakh
-  (10-4-0) vs. Jonny Touma (5-1-0)
+  (10-4-0) vs. Jonny Touma (5-1-0)\nMain Card: Adel Ibrahim (3-0-0) vs. M
+ ohammad Basem (2-1-0)\nMain Card: Charbel Diab (5-1-0) vs. A. Jabbar Al 
+ Rubaye (7-4-0)\nPrelim: B. Al Salkhadi (0-0-0) vs. Issam Azelhad (0-0-0)
+ \nPrelim: Karar Rahim Ali (3-1-0) vs. Khaled Laallam (1-0-0)\nPrelim: Ha
+ rda Karim (0-0-0) vs. Abdalrahman Alhyasat (0-0-0)
 END:VEVENT
 END:VCALENDAR

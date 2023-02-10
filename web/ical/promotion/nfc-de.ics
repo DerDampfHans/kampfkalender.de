@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T024617Z
-X-KAMPFKALENDER-HASH:f7cdfb198c4c0970d058819107769998a4eb0a3b
+DTSTAMP:20230210T235746Z
+X-KAMPFKALENDER-HASH:a0938c44b16e24cb1e4e5a5e58df93a76262a548
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
+UID:2023-02-nfc-12-face-offs@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 12: Face-Offs
+DTSTART:20230217T170000Z
+DTEND:20230217T173000Z
+CATEGORIES:NFC,fighting.de,PR,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=UuMj_vUIePU\
+ n\n---\n\nhttps://fighting.de/nfc-12/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T235747Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -28,7 +39,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=cgGda5zPVRo\
   Card: Chequina Noso Pedro (6-2-0) vs. Rasul Magomedov (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-02-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -49,7 +60,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=4oshYvVYP6Q\
   Card: Chequina Noso Pedro (6-2-0) vs. Rasul Magomedov (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-02-nfc-12-kakhorov-vs-abramishvili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Kakhorov vs. Abramishvili
@@ -71,7 +82,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -89,7 +100,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-13/\nhttps:
   Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-03-nfc-13-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
@@ -107,7 +118,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-13/\nhttps:
   Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -125,7 +136,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://fighting.de/nfc
  \nMain Card: Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -136,7 +147,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-05-nfc-14-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Main Card
@@ -147,7 +158,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -158,7 +169,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -169,7 +180,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -180,7 +191,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -191,7 +202,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -202,7 +213,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -213,7 +224,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -224,7 +235,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -236,7 +247,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -248,7 +259,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

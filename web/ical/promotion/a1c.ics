@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230203T164858Z
-X-KAMPFKALENDER-HASH:b3c5a0a62a59c21a2f275fefaf91a3867ae302e5
+DTSTAMP:20230210T235746Z
+X-KAMPFKALENDER-HASH:36ffbff37fe4214df35204d0b91baff1b5655831
 BEGIN:VEVENT
-DTSTAMP:20230203T164858Z
+DTSTAMP:20230210T235746Z
 UID:2023-02-urijah-faber-s-a1-combat-8-tachi-palace@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Urijah Faber's A1 Combat 8: Tachi Palace
@@ -27,5 +27,20 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  arron (0-0-0)\nMain Card: Arturo Burgos (0-0-0) vs. Dominic Pasquale (0-
  0-0)\nPrelim: Racelis Cardenas (0-1-0) vs. Elijah Ozuna (0-0-0)\nPrelim:
   Oseyiomon Oiyemhonlan (1-0-0) vs. Adrian Silva (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T235746Z
+UID:2023-03-urijah-faber-s-a1-combat-9@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 9
+DTSTART:20230319T020000Z
+DTEND:20230319T050000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98284-urijah-faber-s-a1-combat-9\n\n---\n\nMain Card: Eimar 
+ Hernandez (4-0-0) vs. Gilbert Nakatani (4-0-0)\nMain Card: Eddie Bernal 
+ (1-0-0) vs. Tim Riscen (7-6-0)\nMain Card: Kody Vogels (3-0-0) vs. Chris
+  Pena (3-3-0)\nMain Card: Eugene Correa (4-2-0) vs. Owen Craugh (2-0-0)\
+ nPrelim: Carlos Elizarraraz (0-2-1) vs. Christopher Cruz (1-0-1)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,29 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T024617Z
-X-KAMPFKALENDER-HASH:c7ee522089d6946b7122d176a7c550b65af51241
+DTSTAMP:20230210T235746Z
+X-KAMPFKALENDER-HASH:0e784a9467b4e680a41e14e423d0426a61885cb8
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
+UID:2023-02-glory-83-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 83: Prelims
+DTSTART:20230211T180000Z
+DTEND:20230211T190000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=I9MsGZhwC4Y\
+ nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-83/\nhttps://ww
+ w.tapology.com/fightcenter/events/96249-glory-83\n\n---\n\nMain Event: S
+ ergej Maslobojev vs. Donegi Abena\nCo-Main Event: Donovan Wisse vs. Césa
+ r Almeida\nMain Card: Serkan Özçağlayan vs. Sergej Braun\nMain Card: Moh
+ ammed Jaraya vs. Chris Wunn\nMain Card: Guerric Billet vs. Cihad Akipa\n
+ Main Card: Uku Jürjendal vs. Nabil Khachab\nMain Card: Ahmad Chikh Mousa
+  vs. Berjan Peposhi\nPrelim: Joilton Lutterbach vs. Diaguely Camara\nPre
+ lim: Sorin Mihai Căliniuc vs. Arman Hambaryan\nPrelim: Jos van Belzen vs
+ . Robin Ciric
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T235747Z
 UID:2023-02-glory-83@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 83
@@ -15,17 +34,29 @@ DTSTART:20230211T190000Z
 DTEND:20230211T220000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=lL6CG4sCu_E\
- nvia glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/9624
- 9-glory-83\n\n---\n\nMain Event: Sergej Maslobojev vs. Donegi Abena\nCo-
- Main Event: Donovan Wisse vs. César Almeida\nMain Card: Serkan Özçağlaya
- n vs. Sergej Braun\nMain Card: Mohammed Jaraya vs. Chris Wunn\nMain Card
- : Guerric Billet vs. Cihad Akipa\nMain Card: Uku Jürjendal vs. Nabil Kha
- chab\nMain Card: Ahmad Chikh Mousa vs. Berjan Peposhi\nPrelim: Joilton L
- utterbach vs. Diaguely Camara\nPrelim: Sorin Mihai Căliniuc vs. Arman Ha
- mbaryan\nPrelim: Jos van Belzen vs. Robin Ciric
+ nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-83/\nhttps://ww
+ w.tapology.com/fightcenter/events/96249-glory-83\n\n---\n\nMain Event: S
+ ergej Maslobojev vs. Donegi Abena\nCo-Main Event: Donovan Wisse vs. Césa
+ r Almeida\nMain Card: Serkan Özçağlayan vs. Sergej Braun\nMain Card: Moh
+ ammed Jaraya vs. Chris Wunn\nMain Card: Guerric Billet vs. Cihad Akipa\n
+ Main Card: Uku Jürjendal vs. Nabil Khachab\nMain Card: Ahmad Chikh Mousa
+  vs. Berjan Peposhi\nPrelim: Joilton Lutterbach vs. Diaguely Camara\nPre
+ lim: Sorin Mihai Căliniuc vs. Arman Hambaryan\nPrelim: Jos van Belzen vs
+ . Robin Ciric
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
+UID:2023-02-nfc-12-face-offs@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 12: Face-Offs
+DTSTART:20230217T170000Z
+DTEND:20230217T173000Z
+CATEGORIES:NFC,fighting.de,PR,live,kostenlos
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=UuMj_vUIePU\
+ n\n---\n\nhttps://fighting.de/nfc-12/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T235747Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -46,7 +77,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=cgGda5zPVRo\
   Card: Chequina Noso Pedro (6-2-0) vs. Rasul Magomedov (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-02-nfc-12-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Main Card
@@ -67,7 +98,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=4oshYvVYP6Q\
   Card: Chequina Noso Pedro (6-2-0) vs. Rasul Magomedov (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-02-nfc-12-kakhorov-vs-abramishvili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Kakhorov vs. Abramishvili
@@ -89,7 +120,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-03-glory-84@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 84
@@ -103,7 +134,7 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
   Michael Boapeah\nMain Card: Imad Hadar vs. Brice Kombou
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -121,7 +152,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-13/\nhttps:
   Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-03-nfc-13-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
@@ -139,7 +170,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-13/\nhttps:
   Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -157,7 +188,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://fighting.de/nfc
  \nMain Card: Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-04-pfl-2023-regular-season-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL 2023 Regular Season 1
@@ -170,7 +201,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  son (17-2-0) vs. Thiago Santos (22-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-04-pfl-2023-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL 2023 Regular Season 2
@@ -183,7 +214,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
   (19-4-0) vs. Julia Budd (16-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-04-pfl-2023-regular-season-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL 2023 Regular Season 3
@@ -196,7 +227,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  Sy (13-6-2) vs. J. Al-Silawi (18-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -207,7 +238,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-05-nfc-14-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Main Card
@@ -218,7 +249,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -229,7 +260,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-06-innferno-fighting-championship-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO Fighting Championship 6
@@ -240,7 +271,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/98112-innferno-fighting-championship-6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -251,7 +282,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -262,7 +293,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -273,7 +304,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -284,7 +315,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -295,7 +326,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -306,7 +337,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -318,7 +349,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -330,7 +361,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024619Z
+DTSTAMP:20230210T235747Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

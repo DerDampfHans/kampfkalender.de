@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T024617Z
-X-KAMPFKALENDER-HASH:94e620c42518b9674db47f7e0c76940238c665f4
+DTSTAMP:20230210T235746Z
+X-KAMPFKALENDER-HASH:40818958c10ec2dc875fa0bf69f7ffd1e5683a2c
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-02-schlagwort-special-fabio-schafer@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Special: Fabio Schäfer
@@ -17,13 +17,25 @@ CATEGORIES:Schlagwort,YouTube,kostenlos
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T024618Z
+DTSTAMP:20230210T235747Z
 UID:2023-02-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
 DTSTART:20230212T170000Z
 DTEND:20230212T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=k8hsM1PAARs\n\n-
+ --\n\nhttps://fighting.de/schlagwort/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T235747Z
+UID:2023-02-schlagwort-podcast-nfc-12-reaction@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast: NFC 12 Reaction
+DTSTART:20230218T223000Z
+DTEND:20230218T233000Z
+CATEGORIES:Schlagwort,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=dMKPrd5QgmU\n\n-
+ --\n\nhttps://fighting.de/schlagwort/
 END:VEVENT
 END:VCALENDAR
