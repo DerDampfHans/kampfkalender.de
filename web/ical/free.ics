@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T042524Z
-X-KAMPFKALENDER-HASH:493eefe1400cb48b0639a0a17b949301ed980699
+DTSTAMP:20230210T042950Z
+X-KAMPFKALENDER-HASH:46d6228a8983ddb2d056663464b8d8d6b922d114
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
@@ -19,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/c/UniversumBoxing\n\n---
  ight\n\n---\n\nMain Event: Mourad Aliev (0-0-0) vs. Ali Kiydin (15-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-one-friday-fights-4-duangsompong-vs-batman@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 4: Duangsompong vs. Batman
@@ -38,17 +38,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/channel/UCiormkBf3jm6mfb
  d: Judy Humber vs. Malena Garcia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
-UID:2023-02-senshi-15@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Senshi 15
-DTSTART:20230211T020000Z
-DTEND:20230211T050000Z
-CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
-DESCRIPTION:via fite.tv
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-glory-83-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 83: Prelims
@@ -66,7 +56,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=We0jdQ6n5MI\nvia
  yan\nPrelim: Jos van Belzen vs. Robin Ciric
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-one-friday-fights-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 5
@@ -78,7 +68,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  1) vs. Sanaz Fayazmanesh (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-bkfc-knuckle-mania-3-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Knuckle Mania 3: Prelims
@@ -97,7 +87,17 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-knucklemania-3-pr
  lim: Anthony Sanchez vs. Derek Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
+UID:2023-02-senshi-15@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 15
+DTSTART:20230218T163000Z
+DTEND:20230218T193000Z
+CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-15/2pckg/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042950Z
 UID:2023-02-nfc-12-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Prelims
@@ -118,7 +118,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=cgGda5zPVRo\
   Card: Chequina Noso Pedro (6-2-0) vs. Rasul Magomedov (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-nfc-12-kakhorov-vs-abramishvili@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 12: Kakhorov vs. Abramishvili
@@ -140,7 +140,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-one-fight-night-7-lineker-vs-andrade-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 7: Lineker vs. Andrade 2
@@ -159,7 +159,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ancesco Xhaja
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-bkfc-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Prelims
@@ -178,7 +178,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/
  entin Gaskins vs. Hunter Boone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-one-fight-night-8-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 8: Bhullar vs. Malykhin
@@ -191,7 +191,18 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  t Todd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
+UID:2023-03-bkfc-37-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 37: Prelims
+DTSTART:20230304T200000Z
+DTEND:20230304T210000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-37-prelims/2pcln/
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042950Z
 UID:2023-03-invicta-fc-52-machado-vs-mccormack@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Invicta FC 52: Machado vs. McCormack
@@ -207,7 +218,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  e (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -225,7 +236,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-13/\nhttps:
   Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -243,7 +254,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://fighting.de/nfc
  \nMain Card: Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -255,7 +266,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  o vs. Jonathan Haggerty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-05-one-fight-night-10-johnson-vs-moraes-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 10: Johnson vs. Moraes 3
@@ -271,7 +282,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  olo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -282,7 +293,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -293,7 +304,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -304,7 +315,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -315,7 +326,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -326,7 +337,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -337,7 +348,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -349,7 +360,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

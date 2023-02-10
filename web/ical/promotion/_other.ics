@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T042524Z
-X-KAMPFKALENDER-HASH:7e2fadd2247b263f3bf38b61316a54ea5b122e15
+DTSTAMP:20230210T042950Z
+X-KAMPFKALENDER-HASH:b62a2fd9efac8bf282c3471f0c20feda88270fd9
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
 UID:2023-02-combat-fc-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 3
@@ -35,13 +35,33 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Heller (3-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T042525Z
+DTSTAMP:20230210T042950Z
+UID:2023-02-azim-vs-reyes@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Azim vs. Reyes
+DTSTART:20230211T200000Z
+DTEND:20230211T230000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/azim-vs-reyes/2pcm0/\n
+ \n---\n\nhttps://www.tapology.com/fightcenter/events/97206-azim-vs-reyes
+ \nhttp://www.boxrec.com/en/event/867271\n\n---\n\nMain Event: Adam Azim 
+ (7-0-0) vs. Santos Reyes (12-0-0)\nMain Card: Tyler Denny (14-2-3) vs. B
+ rad Pauls (16-0-0)\nMain Card: Viddal Riley (7-0-0) vs. Anees Taj (7-2-0
+ )\nMain Card: Zak Chelli (12-1-1) vs. Anthony Sims Jr. (23-1-0)\nMain Ca
+ rd: Caroline Dubois (0-0-0) vs. Feriche Mashauri (8-7-0)\nMain Card: Jor
+ dan Reynolds (4-0-0) vs. M. Benchadi (4-20-2)\nMain Card: Jeamie Tshikev
+ a (0-0-0) vs. Harry Armstrong (5-0-1)\nMain Card: Hassan Azim (9-2-0) vs
+ . Abdallah Luanja (13-8-2)\nMain Card: Alireza Ghadiri (6-0-0) vs. Hecto
+ r Avila Lozano (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230210T042950Z
 UID:2023-02-senshi-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 15
-DTSTART:20230211T020000Z
-DTEND:20230211T050000Z
+DTSTART:20230218T163000Z
+DTEND:20230218T193000Z
 CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
-DESCRIPTION:via fite.tv
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-15/2pckg/
 END:VEVENT
 END:VCALENDAR
