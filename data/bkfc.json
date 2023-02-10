@@ -22,9 +22,8 @@
         "time": "2023-02-18T02:00:00Z",
         "title": "BKFC: KnuckleMania 3",
         "url": "https://www.fite.tv/watch/bkfc-knucklemania-3/2pcjg/",
-        "price": "$29.99",
+        "price": "PPV",
         "sports": [
-          "BARE_KNUCKLE",
           "BOXING",
           "MMA"
         ]
@@ -46,7 +45,6 @@
         "url": "https://www.fite.tv/watch/bkfc-knucklemania-3-prelims/2pcjh/",
         "price": "FREE",
         "sports": [
-          "BARE_KNUCKLE",
           "BOXING",
           "MMA"
         ]
@@ -97,9 +95,8 @@
         "time": "2023-02-25T01:00:00Z",
         "title": "BKFC 36 New Orleans: Arnold Adams vs Alan Belcher",
         "url": "https://www.fite.tv/watch/bkfc-36/2pcgq/",
-        "price": "$19.99",
+        "price": "PPV",
         "sports": [
-          "BARE_KNUCKLE",
           "BOXING",
           "MMA"
         ]
@@ -121,7 +118,6 @@
         "url": "https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/",
         "price": "FREE",
         "sports": [
-          "BARE_KNUCKLE",
           "BOXING",
           "MMA"
         ]
@@ -161,24 +157,43 @@
     ],
     "mainCard": {
       "title": "BKFC 37",
-      "time": "2023-03-18T00:00:00Z",
+      "time": "2023-03-04T21:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-37/2pclm/"
         }
       },
       "fite": {
-        "id": "2pclm"
+        "id": "2pclm",
+        "time": "2023-03-04T21:00:00Z",
+        "title": "BKFC 37 London: Connor Tierney vs Jake Lindsey",
+        "url": "https://www.fite.tv/watch/bkfc-37/2pclm/",
+        "price": "PPV",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
       "title": "BKFC 37: Prelims",
+      "time": "2023-03-04T20:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-37-prelims/2pcln/",
           "free": true
         }
       },
       "fite": {
-        "id": "2pcln"
+        "id": "2pcln",
+        "time": "2023-03-04T20:00:00Z",
+        "title": "BKFC 37 London: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-37-prelims/2pcln/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     }
   },
