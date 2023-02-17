@@ -4,6 +4,25 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20221112T230305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230217T004652Z
+X-KAMPFKALENDER-HASH:9a92f090f8214242bc69b70be5c555936a3388cb
+BEGIN:VEVENT
+DTSTAMP:20230217T004653Z
+UID:2023-02-sturm-vs-altay@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Sturm vs. Altay
+DTSTART:20230218T155000Z
+DTEND:20230218T185000Z
+CATEGORIES:BDB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97902-the-return\nhttp://www.boxrec.com/en/event/867825\n\n---\n\nMain
+  Event: Felix Sturm (42-6-3) vs. Sukru Altay (15-2-0)\nMain Card: Anas E
+ l Abid (0-0-0) vs. Siarhei Huliakevich (45-19-2)\nMain Card: Tyron Zeuge
+  (24-1-1) vs. Michal Ryba (9-9-1)\nMain Card: Ilias Kallouch (8-2-0) vs.
+  Artem Ayvazidi (12-24-2)\nMain Card: Ikram Kerwat (11-3-0) vs. Nana Dok
+ adze (2-15-0)\nMain Card: Howig Grigorjan (6-1-0) vs. Mario Katic (2-10-
+ 0)\nMain Card: Tahir Kahrovic (19-0-0) vs. Slaviša Simeunović (40-55-0)\
+ nMain Card: Daniel Dietz (0-0-0) vs. Marko Vucevic (0-0-0)\nMain Card: I
+ brahima Diallo (10-0-0) vs. Bato Berkatsashvili (9-12-0)
+END:VEVENT
 END:VCALENDAR

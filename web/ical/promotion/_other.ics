@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230210T235746Z
-X-KAMPFKALENDER-HASH:67eb80539bedea9c1d0d175da3ac2b8a74bc673b
+DTSTAMP:20230217T004652Z
+X-KAMPFKALENDER-HASH:a86b7510670f9863d8c1d59af27d91bc7d703e2c
 BEGIN:VEVENT
-DTSTAMP:20230210T235746Z
+DTSTAMP:20230217T004653Z
 UID:2023-02-combat-fc-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 3
@@ -35,7 +35,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Heller (3-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T235746Z
+DTSTAMP:20230217T004653Z
 UID:2023-02-azim-vs-reyes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Azim vs. Reyes
@@ -56,7 +56,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/azim-vs-reyes/2pcm0/\n
  enes (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T235746Z
+DTSTAMP:20230217T004653Z
 UID:2023-02-senshi-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 15
@@ -66,7 +66,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-15/2pckg/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230210T235746Z
+DTSTAMP:20230217T004653Z
 UID:2023-03-swingler-vs-perrett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swingler vs. Perrett
@@ -81,5 +81,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Astrid Wett (0-0-0) vs. Andrea-Jane Bunker (0-0-0)\nMain Card: Ginty (0
  -0-0) vs. Hamad Khan (0-0-0)\nMain Card: Tempo Arts (0-0-0) vs. Mansa Go
  dson (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T004653Z
+UID:2023-03-walsh-vs-ruiz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Walsh vs. Ruiz
+DTSTART:20230317T000000Z
+DTEND:20230317T030000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98343-hollywood-fight-nights-boston\n\n---\n\nMain Event: Ca
+ llum Walsh (0-0-0) vs. Leonardo Di Stefano (10-1-0)\nMain Card: Jonathan
+  De Pina (11-1-0) vs. Andrew Cancio (21-5-2)\nMain Card: Francis Hogan (
+ 13-0-0) vs. Jimmy Williams (18-10-2)
 END:VEVENT
 END:VCALENDAR
