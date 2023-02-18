@@ -301,5 +301,35 @@
         "http://www.boxrec.com/en/event/867271"
       ]
     }
+  },
+  {
+    "id": "senshi-2023-02-18",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Senshi15"
+    ],
+    "mainCard": {
+      "title": "Senshi 15",
+      "time": "2023-02-18T16:30:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/senshi-15/2pckg/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pckg",
+        "time": "2023-02-18T16:30:00Z",
+        "title": "Senshi 15",
+        "url": "https://www.fite.tv/watch/senshi-15/2pckg/",
+        "price": "FREE",
+        "sports": [
+          "MMA"
+        ]
+      }
+    }
   }
 ]

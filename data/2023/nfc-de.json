@@ -32,5 +32,87 @@
         ]
       }
     }
+  },
+  {
+    "id": "nfc-2023-02-18",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Bonn",
+      "#NFC12"
+    ],
+    "links": [
+      "https://fighting.de/nfc-12/"
+    ],
+    "mainCard": {
+      "title": "NFC 12: Kakhorov vs. Abramishvili",
+      "time": "2023-02-18T22:00:00Z",
+      "until": "2023-02-18T00:00:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "free": true
+        },
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=4oshYvVYP6Q"
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 12: Main Card",
+      "time": "2023-02-18T19:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=4oshYvVYP6Q"
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 12: Prelims",
+      "time": "2023-02-18T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=cgGda5zPVRo",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "cgGda5zPVRo",
+        "time": "2023-02-18T17:00:00Z",
+        "title": "FREE: NFC 12 Prelims | 18.2. | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=cgGda5zPVRo",
+        "tags": [
+          "#MMA",
+          "#Fighting",
+          "#Kampfsport"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 94571,
+      "time": "2023-02-18T17:00:00Z",
+      "title": "NFC 12",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94571-nfc-12",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Khurshed Kakhorov (8-1-0) vs. Lasha Abramishvili (4-1-1)",
+        "Co-Main Event: Cagri Ucar (5-0-0) vs. Deniz Ilbay (3-0-0)",
+        "Main Card: Kennedy Rayomba (4-2-0) vs. Selim Agaev (14-6-0)",
+        "Main Card: Chequina Noso Pedro (6-2-0) vs. Rasul Magomedov (4-0-0)",
+        "Main Card: Fabio Schafer (0-0-0) vs. Timo Ernst (1-0-0)",
+        "Main Card: Mohamad Issa (4-1-0) vs. Magomed Schuaipov (2-0-0)",
+        "Main Card: Raul Lemberanskij (0-0-0) vs. Habibullah Noori (1-0-0)",
+        "Main Card: Ali Isajew (1-0-0) vs. Ibrahim Benmalek (2-1-0)",
+        "Main Card: Tony Sipos (3-1-0) vs. Dana Aghaie (0-0-0)",
+        "Main Card: Timo Kuchelmeister (1-1-0) vs. Fedor Duric (1-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/nfc-12-national-fighting-championship-96338"
+      ]
+    }
   }
 ]
