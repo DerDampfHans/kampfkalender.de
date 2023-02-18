@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230212T230306Z
-X-KAMPFKALENDER-HASH:e81dc2c932f1aa2a3005e1bf95a898baa3cc8c21
+DTSTAMP:20230218T105522Z
+X-KAMPFKALENDER-HASH:06e82414f75095fd10e0c39ed89631c1b66eecd3
 BEGIN:VEVENT
-DTSTAMP:20230212T230307Z
+DTSTAMP:20230218T105522Z
 UID:2023-02-schlagwort-podcast@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Schlagwort Podcast
@@ -15,17 +15,6 @@ DTSTART:20230212T170000Z
 DTEND:20230212T190000Z
 CATEGORIES:Schlagwort,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=k8hsM1PAARs\n\n-
- --\n\nhttps://fighting.de/schlagwort/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230212T230307Z
-UID:2023-02-schlagwort-podcast-nfc-12-reaction@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Schlagwort Podcast: NFC 12 Reaction
-DTSTART:20230218T223000Z
-DTEND:20230218T233000Z
-CATEGORIES:Schlagwort,YouTube,live,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=dMKPrd5QgmU\n\n-
  --\n\nhttps://fighting.de/schlagwort/
 END:VEVENT
 END:VCALENDAR
