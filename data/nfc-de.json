@@ -1,5 +1,29 @@
 [
   {
+    "id": "nfc-2023-02-25",
+    "promotion": "NFC_DE",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#NFCGrappling",
+      "#Krefeld"
+    ],
+    "links": [
+      "https://fighting.de/events/nfc-grappling-2/"
+    ],
+    "mainCard": {
+      "title": "NFC Grappling 2",
+      "time": "2023-02-25T08:00:00Z",
+      "until": "2023-02-25T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    }
+  },
+  {
     "id": "nfc-2023-03-25",
     "promotion": "NFC_DE",
     "sports": [
