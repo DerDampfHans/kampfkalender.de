@@ -4,6 +4,38 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20220709T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230224T134623Z
+X-KAMPFKALENDER-HASH:8a5ecdde6900cc16fb9d48d3244fc51b657b1bfa
+BEGIN:VEVENT
+DTSTAMP:20230224T134624Z
+UID:2023-02-shala-vs-mulowayi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shala vs. Mulowayi
+DTSTART:20230224T180000Z
+DTEND:20230224T210000Z
+CATEGORIES:ASE,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Jdjvg3lNfQw\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-agon-shala-vs-mu
+ lowayi-566\n\n---\n\nhttps://www.tapology.com/fightcenter/events/98611-a
+ gon-boxgala\nhttp://www.boxrec.com/en/event/866076\n\n---\n\nMain Card: 
+ Granit Shala (13-0-0) vs. Jack Mulowayi (13-3-1)\nMain Card: Haro Matevo
+ syan (16-0-0) vs. Alejandro Davila (23-4-2)\nMain Card: Farlin Condori (
+ 5-1-0) vs. Yuri Zanoli (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230224T134624Z
+UID:2023-02-schicke-vs-alamos@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schicke vs. Alamos
+DTSTART:20230224T190000Z
+DTEND:20230224T220000Z
+CATEGORIES:ASE,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/98605-agon-boxgal
+ a\nhttp://www.boxrec.com/en/event/868280\n\n---\n\nMain Event: Bjoern Sc
+ hicke (20-1-1) vs. Julio Alamos (0-0-0)\nMain Card: Etinosa Oliha (16-0-
+ 0) vs. Rafael Ortiz (16-5-1)\nMain Card: Nathanael Lukoki (7-0-0) vs. Mi
+ rko Marchetti (8-3-0)\nMain Card: Thomas Piccirillo (11-0-4) vs. Kevin B
+ ertogal (7-40-4)\nMain Card: Pavel Sour (17-14-0) vs. Dusan Veletic (5-1
+ -1)
+END:VEVENT
 END:VCALENDAR

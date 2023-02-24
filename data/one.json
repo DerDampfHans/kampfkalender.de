@@ -1,5 +1,54 @@
 [
   {
+    "id": "tapology-98463",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "One Friday Fights 6",
+      "time": "2023-02-24T12:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=_H3r-MfHrls",
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 98463,
+      "time": "2023-02-24T12:30:00Z",
+      "title": "One Friday Fights 6",
+      "titleAlt": "ONE Lumpinee 6",
+      "info": "Confirmed Upcoming Muay Thai, MMA, & Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/98463-one-friday-fights-6",
+      "sports": [
+        "MMA",
+        "KICKBOXING",
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Event: G. Tor Laksong vs. K. Sor.Sommai",
+        "Co-Main Event: Petchmanee Por Lakboon vs. Khunhanlek Singmawynn",
+        "Main Card: K. UFAboomdeksian vs. Koko Sor. Sommai",
+        "Main Card: P. Sitnayoktang vs. Y. Sor. Nilthai",
+        "Main Card: Padetsuek Fairtex vs. Muhammad Johan Ghazali",
+        "Main Card: Yoddoi Kaewsamrit vs. Chokdee Macjandee",
+        "Main Card: Ilias Ennahachi vs. A. Ghodratisaraskan",
+        "Main Card: Anzor Chakaev (6-0-0) vs. Leonardo Casotti (9-2-0)",
+        "Main Card: Bogdan Shumarov vs. Marwin Houli",
+        "Main Card: Brogan Stewart-Ng (1-0-0) vs. R. Catindig-Stagg (0-1-0)",
+        "Main Card: Hercules Wor Jakrawut vs. Shingo Shibata",
+        "Main Card: Celest Hansen vs. Angela Chang"
+      ],
+      "links": [
+        "http://en.wikipedia.org/wiki/ONE_Friday_Fights_6"
+      ]
+    }
+  },
+  {
     "id": "tapology-94524",
     "promotion": "ONE",
     "sports": [
@@ -12,11 +61,44 @@
     ],
     "mainCard": {
       "title": "ONE Fight Night 7: Lineker vs. Andrade 2",
-      "time": "2023-02-24T20:00:00Z",
+      "time": "2023-02-25T01:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=uBfIL1Wr5RQ",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "uBfIL1Wr5RQ",
+        "time": "2023-02-25T01:00:00Z",
+        "title": "🔴 [Live In HD] ONE Fight Night 7: Lineker vs. Andrade II",
+        "url": "https://www.youtube.com/watch?v=uBfIL1Wr5RQ",
+        "tags": [
+          "#ONEChampionship",
+          "#ONEFightNight7",
+          "#WeAreONE"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "ONE Fight Night 7: Prelims",
+      "time": "2023-02-25T00:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=OMGTguDprXA",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "OMGTguDprXA",
+        "time": "2023-02-25T00:00:00Z",
+        "title": "🔴 [Live In HD] ONE Fight Night 7: Lineker vs. Andrade II | Bonus Bouts",
+        "url": "https://www.youtube.com/watch?v=OMGTguDprXA",
+        "tags": [
+          "#ONEChampionship",
+          "#ONEFightNight7",
+          "#WeAreONE"
+        ]
       }
     },
     "tapology": {
@@ -32,11 +114,17 @@
         "Postlim: Adrian Mattheis (10-6-0) vs. Zelangzhaxi (16-7-1)",
         "Main Event: John Lineker (35-9-0) vs. Fabricio de Andrade (8-2-0)",
         "Co-Main Event: Tawanchai PK Saenchai vs. Jamal Yusupov",
-        "Main Card: Martin Nguyen (14-6-0) vs. Shamil Gasanov (13-0-0)",
-        "Main Card: Danielle Kelly vs. Ayaka Miura",
-        "Main Card: Eko Roni Saputra (7-1-0) vs. Danny Kingad (14-3-0)",
+        "Main Card: Martin Nguyen (14-6-0) vs. Razhabali Shaydullaev (6-0-0)",
         "Main Card: Saemapetch Fairtex vs. ChengLong Zhang",
+        "Main Card: Eko Roni Saputra (7-1-0) vs. Danny Kingad (14-3-0)",
+        "Main Card: Danielle Kelly vs. Ayaka Miura",
         "Main Card: Andrei Stoica vs. Francesco Xhaja"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/one-championship-one-on-prime-video-7-lineker-vs-andrade-2-95477",
+        "https://events.mixedmartialarts.com/one-fight-night-7:02ea2071-abbd-4b10-9ee4-0f42648f6a19",
+        "https://www.onefc.com/events/onefightnight7/",
+        "https://www.bestfightodds.com/events/one-on-prime-7-2806"
       ]
     }
   },
@@ -65,15 +153,110 @@
       "time": "2023-03-25T00:00:00Z",
       "title": "ONE Fight Night 8: Bhullar vs. Malykhin",
       "titleAlt": "ONE on Prime Video 8",
-      "info": "Confirmed Upcoming MMA & Muay Thai Event",
+      "info": "Confirmed Upcoming MMA, Kickboxing, & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/94525-one-on-prime-video-8",
+      "sports": [
+        "MMA",
+        "KICKBOXING",
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Event: Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (12-0-0)",
+        "Co-Main Event: Superlek Kiatmoo9 vs. Rodtang Jitmuangnon",
+        "Main Card: A. Rodrigues vs. Janet Todd",
+        "Main Card: Seo Hee Ham (25-8-0) vs. Itsuki Hirata (6-1-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-98464",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "One Friday Fights 7",
+      "time": "2023-03-03T12:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 98464,
+      "time": "2023-03-03T12:30:00Z",
+      "title": "One Friday Fights 7",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/98464-one-friday-fights-7"
+    }
+  },
+  {
+    "id": "tapology-98465",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "One Friday Fights 8",
+      "time": "2023-03-10T12:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 98465,
+      "time": "2023-03-10T12:30:00Z",
+      "title": "One Friday Fights 8",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/98465-one-friday-fights-8"
+    }
+  },
+  {
+    "id": "tapology-98462",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "One Friday Fights 9",
+      "time": "2023-03-17T11:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 98462,
+      "time": "2023-03-17T11:30:00Z",
+      "title": "One Friday Fights 9",
+      "titleAlt": "ONE Lumpinee 9",
+      "info": "Confirmed Upcoming Muay Thai & MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/98462-one-friday-fights-9",
       "sports": [
         "MMA",
         "MUAY_THAI"
       ],
       "card": [
-        "Main Event: Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (12-0-0)",
-        "Co-Main Event: A. Rodrigues vs. Janet Todd"
+        "Main Event: Regian Eersel vs. Sinsamut Klinmee",
+        "Co-Main Event: K. Sor.Jor.Piek Uthai vs. Muangthai PK Saenchai",
+        "Main Card: Sam-A Gaiyanghadao vs. Ryan Sheehan",
+        "Main Card: Nakrob Fairtex vs. P. Petchsimuen",
+        "Main Card: Chaongoh Jitmuangnon vs. Sulaiman Looksuan",
+        "Main Card: Seksan Or Kwanmuang vs. Silviu Vitez",
+        "Main Card: Panpayak Jitmuangnon vs. Nabil Anane",
+        "Main Card: Yodlekpet Or.Pitisak vs. Saman Ashouri",
+        "Main Card: Chang Min Yoon (6-2-0) vs. Kiril Gorobets (12-2-0)",
+        "Main Card: Tatsumitsu Wada (24-12-2) vs. Ernesto Montilla Jr. (10-4-0)",
+        "Main Card: Black Panther vs. Tagir Khalilov"
       ]
     }
   },
@@ -137,18 +320,21 @@
       "time": "2023-05-06T00:00:00Z",
       "title": "ONE Fight Night 10: Johnson vs. Moraes 3",
       "titleAlt": "ONE on Prime Video 10",
-      "info": "Confirmed Upcoming MMA & Grappling Event",
+      "info": "Confirmed Upcoming MMA, Grappling, & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/95948-one-on-prime-video-10-johnson-vs-moraes-3",
       "sports": [
         "MMA",
+        "MUAY_THAI",
         "GRAPPLING"
       ],
       "card": [
         "Main Event: Demetrious Johnson (24-4-1) vs. Adriano Moraes (20-4-0)",
-        "Co-Main Event: Sage Northcutt (11-3-0) vs. Ahmed Mujtaba (10-2-0)",
+        "Co-Main Event: Stamp Fairtex (9-2-0) vs. Alyse Anderson (6-2-0)",
+        "Co-Main Event: Rodtang Jitmuangnon vs. Edgar Juarez Tabares",
+        "Main Card: Sage Northcutt (11-3-0) vs. Ahmed Mujtaba (10-2-0)",
         "Main Card: Aung La N Sang (29-13-0) vs. Rong Fan (19-3-0)",
-        "Main Card: Stamp Fairtex (9-2-0) vs. Alyse Anderson (6-2-0)",
-        "Main Card: Reinier de Ridder vs. Tye Ruotolo"
+        "Main Card: Reinier de Ridder vs. Tye Ruotolo",
+        "Main Card: Mikey Musumeci vs. Osamah Almarwai"
       ]
     }
   }
