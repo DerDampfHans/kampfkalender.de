@@ -6,9 +6,40 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "No Limit Fight Night",
-      "time": "2023-02-25T19:00:00Z"
+      "time": "2023-02-25T19:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=rNC003Tbu5k",
+          "freeAfter": 48
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-no-limit-fight-night-567",
+          "freeAfter": 48
+        }
+      },
+      "youTube": {
+        "id": "rNC003Tbu5k",
+        "time": "2023-02-25T17:00:00Z",
+        "title": "LIVESTREAM: NO LIMIT FIGHT NIGHT",
+        "url": "https://www.youtube.com/watch?v=rNC003Tbu5k"
+      }
+    },
+    "prelims": {
+      "title": "No Limit Fight Night: Prelims",
+      "time": "2023-02-25T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=AUVSUex8YLc",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "AUVSUex8YLc",
+        "time": "2023-02-25T17:00:00Z",
+        "title": "LIVESTREAM: NO LIMIT FIGHT NIGHT | UNDERCARD",
+        "url": "https://www.youtube.com/watch?v=AUVSUex8YLc"
+      }
     },
     "tapology": {
       "id": 98612,
@@ -40,10 +71,45 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#Landau",
+      "#DabschahMusa"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Dabschah vs. Musa",
-      "time": "2023-02-25T19:00:00Z"
+      "time": "2023-02-25T19:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=mdkZ2ZH55WQ",
+          "freeAfter": 48
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-3boxnacht-landau-572",
+          "freeAfter": 48
+        }
+      },
+      "youTube": {
+        "id": "mdkZ2ZH55WQ",
+        "time": "2023-02-25T17:00:00Z",
+        "title": "LIVESTREAM: BOXNACHT LANDAU",
+        "url": "https://www.youtube.com/watch?v=mdkZ2ZH55WQ"
+      }
+    },
+    "prelims": {
+      "title": "Dabschah vs. Musa: Prelims",
+      "time": "2023-02-25T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=Yd2JDd4QHMI",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "Yd2JDd4QHMI",
+        "time": "2023-02-25T17:00:00Z",
+        "title": "LIVESTREAM: BOXNACHT LANDAU | UNDERCARD",
+        "url": "https://www.youtube.com/watch?v=Yd2JDd4QHMI"
+      }
     },
     "tapology": {
       "id": 98613,

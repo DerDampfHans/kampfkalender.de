@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230224T134623Z
-X-KAMPFKALENDER-HASH:548b07d3aeecc509fe1b0b42179b6357094839f9
+DTSTAMP:20230224T141145Z
+X-KAMPFKALENDER-HASH:e17360ea5e7173cc0e2517262fd9c818aab2aa6b
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
+DTSTAMP:20230224T141145Z
 UID:2023-02-senshi-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 15
@@ -17,7 +17,7 @@ CATEGORIES:Other,Kickboxen,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-15/2pckg/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
+DTSTAMP:20230224T141145Z
 UID:2023-02-ab-in-den-ring@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ab in den Ring
@@ -29,7 +29,50 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=2gcBXdm9zFA\nvia
  68
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
+DTSTAMP:20230224T141145Z
+UID:2023-02-supercup-kickboxing-2023@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Supercup Kickboxing 2023
+DTSTART:20230225T160000Z
+DTEND:20230225T190000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=85kDZDhBigY\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-supercup-kickbox
+ ing-2023-571
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230224T141145Z
+UID:2023-02-vukshinaj-vs-rivera-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vukshinaj vs. Rivera: Prelims
+DTSTART:20230225T180000Z
+DTEND:20230225T200000Z
+CATEGORIES:Other,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cNqzPNta_Ys\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98615-boxing-night\nht
+ tp://www.boxrec.com/en/event/869424\n\n---\n\nMain Event: Faton Vukshina
+ j (14-0-2) vs. Evander Rivera (7-1-1)\nMain Card: Behar Sadiku (0-0-0) v
+ s. Vasile Negara (0-0-0)\nMain Card: Alfred Kqira (0-0-0) vs. Zoltan Sza
+ bo (26-29-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230224T141145Z
+UID:2023-02-vukshinaj-vs-rivera@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vukshinaj vs. Rivera
+DTSTART:20230225T200000Z
+DTEND:20230225T230000Z
+CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-iFJDlFM4gA\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-a-night-of-boxin
+ g-570\n\n---\n\nhttps://www.tapology.com/fightcenter/events/98615-boxing
+ -night\nhttp://www.boxrec.com/en/event/869424\n\n---\n\nMain Event: Fato
+ n Vukshinaj (14-0-2) vs. Evander Rivera (7-1-1)\nMain Card: Behar Sadiku
+  (0-0-0) vs. Vasile Negara (0-0-0)\nMain Card: Alfred Kqira (0-0-0) vs. 
+ Zoltan Szabo (26-29-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230224T141145Z
 UID:2023-02-wagner-vs-vrenozi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wagner vs. Vrenozi
@@ -48,7 +91,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0)\nMain Card: Daniel Roach (2-1-1) vs. Antonio Scaringi (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
+DTSTAMP:20230224T141145Z
 UID:2023-03-swingler-vs-perrett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swingler vs. Perrett
@@ -65,7 +108,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  dson (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
+DTSTAMP:20230224T141145Z
 UID:2023-03-walsh-vs-ruiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Ruiz
