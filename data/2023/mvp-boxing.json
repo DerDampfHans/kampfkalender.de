@@ -1,0 +1,69 @@
+[
+  {
+    "id": "tapology-97489",
+    "promotion": "MVP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Paul vs. Fury",
+      "time": "2023-02-26T19:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/paul-vs-fury/2pclv/"
+        }
+      },
+      "fite": {
+        "id": "2pclv",
+        "time": "2023-02-26T19:00:00Z",
+        "title": "Jake Paul vs Tommy Fury",
+        "url": "https://www.fite.tv/watch/paul-vs-fury/2pclv/",
+        "price": "PPV",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "Paul vs. Fury: Preshow",
+      "time": "2023-02-26T18:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/paul-vs-fury-preshow/2pcn7/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcn7",
+        "time": "2023-02-26T18:00:00Z",
+        "title": "Paul vs Fury: PreShow",
+        "url": "https://www.fite.tv/watch/paul-vs-fury-preshow/2pcn7/",
+        "price": "FREE",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 97489,
+      "time": "2023-02-26T19:00:00Z",
+      "title": "Paul vs. Fury",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97489-paul-vs-fury",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Jake Paul (6-0-0) vs. Tommy Fury (8-0-0)",
+        "Co-Main Event: Ilunga Makabu (29-2-0) vs. Badou Jack (27-3-3)",
+        "Main Card: Bader Al Samreen (7-0-0) vs. Viorel Simion (22-9-0)",
+        "Main Card: Muhsin Cason (10-0-0) vs. Taryel Jafarov (12-5-0)",
+        "Main Card: Adam Saleh (0-0-0) vs. Stuart Kellogg (0-0-0)",
+        "Main Card: Ziyad Al Maayouf (0-0-0) vs. Ronnald Martinez (0-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/868990"
+      ]
+    }
+  }
+]
