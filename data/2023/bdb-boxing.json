@@ -183,5 +183,68 @@
         "http://www.boxrec.com/en/event/868561"
       ]
     }
+  },
+  {
+    "id": "tapology-98820",
+    "promotion": "BDB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#BoxGala",
+      "#Gütersloh"
+    ],
+    "mainCard": {
+      "title": "Box Gala Gütersloh",
+      "time": "2023-03-03T19:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=4jZ2nZYd4rI",
+          "freeAfter": 48
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxgala-gutersloh-573",
+          "freeAfter": 48
+        }
+      }
+    },
+    "prelims": {
+      "title": "Box Gala Gütersloh: Prelims",
+      "time": "2023-03-03T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=zwfNqPyBL44",
+          "free": true
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxgala-gutersloh-573",
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 98820,
+      "time": "2023-03-03T19:00:00Z",
+      "title": "Profi Box Gala",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/98820-profi-box-gala",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Ilyas Can Kali (7-0-0) vs. Nukri Gamgebeli (12-16-0)",
+        "Main Card: Serhat Parlak (0-0-0) vs. Gary Abajyan (17-46-1)",
+        "Main Card: Kevin Knuetter (0-0-0) vs. Nerdin Fejzovic (5-19-1)",
+        "Main Card: Adam Amkhadov (7-2-0) vs. Mirko Jovic (2-25-0)",
+        "Main Card: Emre Sayili (0-0-0) vs. Vladimer Janezashvili (13-17-1)",
+        "Main Card: Gian Luca Dragotta (4-0-0) vs. Vanja Dumitrov (2-23-0)",
+        "Main Card: Karam Kalaschjan (0-0-0) vs. Nikoloz Berkatsashvili (26-38-0)",
+        "Main Card: Sefer Ajvazovski (0-0-0) vs. Aleksandar Kuvac (12-91-0)",
+        "Main Card: Stefani Koykov (11-2-0) vs. Edis Dzambas (4-49-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/867585"
+      ]
+    }
   }
 ]
