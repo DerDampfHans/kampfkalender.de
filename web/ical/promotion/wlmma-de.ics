@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230303T152921Z
-X-KAMPFKALENDER-HASH:19ff469c0736027ee61075ac64605bd3cbb12d23
+DTSTAMP:20230303T153809Z
+X-KAMPFKALENDER-HASH:7e8f01c1abc124ebdc3f83ecaec4e595b0203d8d
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230303T153810Z
 UID:2023-03-we-love-mma-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 64
@@ -30,7 +30,31 @@ DESCRIPTION:https://welovemma.de/we-love-mma-64/\nhttps://www.tapology.co
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230303T153810Z
+UID:2023-03-we-love-mma-64-re-live@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 64: Re-Live
+DTSTART:20230304T210000Z
+DTEND:20230305T000000Z
+CATEGORIES:WLMMA,MMA,Bild+,live
+DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/spo
+ rt-mix/gzsz-boesewicht-steigt-in-mma-kaefig-hier-anmelden-fuer-den-fight
+ -des-tv-fieslin-82899398.bild.html\n\n---\n\nhttps://www.tapology.com/fi
+ ghtcenter/events/97776-we-love-mma-64\nhttp://www.sherdog.com/events/wlm
+ ma-we-love-mma-64-95071\nhttps://events.mixedmartialarts.com/we-love-mma
+ -64:daea3d0b-6142-49d0-afdd-92e1508f5516\n\n---\n\nMain Event: Rene Rung
+ e (11-4-1) vs. Ali Sarwari (5-4-0)\nMain Card: Mario Wittmann (10-10-0) 
+ vs. David Depannemaecker (4-10-0)\nMain Card: Shota Gvasalia (11-9-0) vs
+ . Tim Richter (11-4-0)\nMain Card: Alyamin Okhirov (0-0-0) vs. Rahman Ma
+ gamschapiev (3-4-0)\nMain Card: Garcia Matadore (2-3-1) vs. Elias Jakobi
+  (2-0-0)\nMain Card: Kevin Enz (0-0-0) vs. Robert Dimitrus (0-1-0)\nMain
+  Card: Andreas Rasumny (0-0-0) vs. Ruslan Malsam (3-7-0)\nPrelim: Sebast
+ ian Mandlinger (0-0-0) vs. Simon Schurger (1-0-0)\nPrelim: Khamzat Akhma
+ dov (0-0-0) vs. Max Grieger (0-0-0)\nPrelim: Martin Horsch (3-0-0) vs. P
+ aul Braun (1-2-1)\nPrelim: Rabi Azizi (2-0-0) vs. Mihail Lapp (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230303T153810Z
 UID:2023-05-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -41,7 +65,7 @@ DESCRIPTION:https://welovemma.de/we-love-mma-66/\nhttps://www.tapology.co
  m/fightcenter/events/98872-we-love-mma-65
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230303T153810Z
 UID:2023-09-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
@@ -51,7 +75,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-66-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230303T153810Z
 UID:2023-11-we-love-mma-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 68
@@ -61,7 +85,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-68/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230303T153810Z
 UID:2023-12-we-love-mma-69@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 69
@@ -71,7 +95,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-69/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230303T153810Z
 UID:2024-06-we-love-mma-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 74
