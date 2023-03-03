@@ -11,27 +11,16 @@
     ],
     "mainCard": {
       "title": "BKFC 37",
-      "time": "2023-03-04T21:00:00Z",
+      "time": "2023-03-04T20:00:00Z",
       "broadcasters": {
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-37/2pclm/"
         }
-      },
-      "fite": {
-        "id": "2pclm",
-        "time": "2023-03-04T21:00:00Z",
-        "title": "BKFC 37 London: Connor Tierney vs Jake Lindsey",
-        "url": "https://www.fite.tv/watch/bkfc-37/2pclm/",
-        "price": "FITE+",
-        "sports": [
-          "BOXING",
-          "MMA"
-        ]
       }
     },
     "prelims": {
       "title": "BKFC 37: Prelims",
-      "time": "2023-03-04T20:00:00Z",
+      "time": "2023-03-04T19:00:00Z",
       "broadcasters": {
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-37-prelims/2pcln/",
@@ -40,7 +29,7 @@
       },
       "fite": {
         "id": "2pcln",
-        "time": "2023-03-04T20:00:00Z",
+        "time": "2023-03-04T19:00:00Z",
         "title": "BKFC 37 London: Prelims",
         "url": "https://www.fite.tv/watch/bkfc-37-prelims/2pcln/",
         "price": "FREE",
@@ -62,18 +51,43 @@
     ],
     "mainCard": {
       "title": "BKFC 38",
-      "time": "2023-03-18T00:00:00Z",
+      "time": "2023-03-18T03:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-nguyen-vs-straus/2pcpy/"
         }
+      },
+      "fite": {
+        "id": "2pcpy",
+        "time": "2023-03-18T03:00:00Z",
+        "title": "BKFC 38 Delray Beach: Dat Nguyen vs Daniel Straus",
+        "url": "https://www.fite.tv/watch/bkfc-nguyen-vs-straus/2pcpy/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
       "title": "BKFC 38: Prelims",
+      "time": "2023-03-18T02:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-38-prelims/2pcpz/",
           "free": true
         }
+      },
+      "fite": {
+        "id": "2pcpz",
+        "time": "2023-03-18T02:00:00Z",
+        "title": "BKFC 38 Delray Beach: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-38-prelims/2pcpz/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -143,7 +157,7 @@
     },
     "tapology": {
       "id": 96441,
-      "time": "2023-03-04T21:00:00Z",
+      "time": "2023-03-04T20:00:00Z",
       "title": "BKFC 37: Tierney vs. Lindsey",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/96441-bkfc-37",
@@ -161,6 +175,9 @@
         "Prelim: Jimmy Millar vs. Kyle Cassidy",
         "Prelim: Franco Tenaglia vs. Jamie Hendry",
         "Prelim: Ryan Carmichael vs. Will Cairns"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-37:b80ee338-0f02-4469-9c26-ba84c12ea780"
       ]
     }
   },
@@ -199,7 +216,9 @@
       "card": [
         "Main Event: Reginald Barnett, Jr. vs. Gustaf Cedermalm",
         "Co-Main Event: Britain Hart vs. Jenny Clausius",
-        "Main Card: Ryan Shough vs. Zachary Calmus"
+        "Main Card: Ryan Shough vs. Zachary Calmus",
+        "Main Card: Dustin Pague vs. James Dennis",
+        "Main Card: Ka'Sim Ruffin vs. Trai Santos"
       ],
       "links": [
         "https://events.mixedmartialarts.com/bkfc-39:138d7b96-1777-44dd-b5da-0691ec20c8d4"
@@ -212,8 +231,11 @@
     "sports": [
       "BARE_KNUCKLE"
     ],
+    "tags": [
+      "#BKFC41"
+    ],
     "mainCard": {
-      "title": "BKFC",
+      "title": "BKFC 41: Perry vs. Rockhold",
       "time": "2023-04-29T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
@@ -221,7 +243,7 @@
       }
     },
     "prelims": {
-      "title": "BKFC: Prelims",
+      "title": "BKFC 41: Prelims",
       "broadcasters": {
         "FITE_TV": {
           "free": true
@@ -231,9 +253,14 @@
     "tapology": {
       "id": 98423,
       "time": "2023-04-29T01:00:00Z",
-      "title": "BKFC",
+      "title": "BKFC 41: Perry vs. Rockhold",
       "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/98423-bkfc"
+      "url": "https://www.tapology.com/fightcenter/events/98423-bkfc",
+      "card": [
+        "Main Event: Mike Perry vs. Luke Rockhold",
+        "Co-Main Event: Eddie Alvarez vs. Chad Mendes",
+        "Main Card: Bec Rawlings vs. Christine Ferea"
+      ]
     }
   }
 ]

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230225T230304Z
-X-KAMPFKALENDER-HASH:e0b30f7725f7591b66b319ff7289c27b4e834270
+DTSTAMP:20230303T152921Z
+X-KAMPFKALENDER-HASH:1b8381928634027766257a31c8aee16379de35de
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-02-bkfc-36-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36-prelims/2pcgr/
  nPrelim: Michael Manno vs. Frankie Shugart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-02-bkfc-36-adams-vs-belcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 36: Adams vs. Belcher
@@ -47,45 +47,64 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-36/2pcgq/\n\n---\
   Michael Manno vs. Frankie Shugart
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-03-bkfc-37-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37: Prelims
-DTSTART:20230304T200000Z
-DTEND:20230304T210000Z
+DTSTART:20230304T190000Z
+DTEND:20230304T200000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-37-prelims/2pcln/
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-03-bkfc-37@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37
-DTSTART:20230304T210000Z
-DTEND:20230305T000000Z
+DTSTART:20230304T200000Z
+DTEND:20230304T230000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-37/2pclm/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
+UID:2023-03-bkfc-38-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 38: Prelims
+DTSTART:20230318T020000Z
+DTEND:20230318T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-38-prelims/2pcpz/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/97929-bkfc-38\n\n
+ ---\n\nMain Event: Dat Nguyen vs. Daniel Straus\nCo-Main Event: Jake Bos
+ twick vs. Isaac Doolittle\nMain Card: Tyler Randall vs. Chance Wilson\nM
+ ain Card: Stephen Townsel vs. Chris Sarro\nMain Card: Chris Garcia vs. P
+ hilip Ryan Carroll\nMain Card: Howard Davis vs. Trevor Morris\nMain Card
+ : Gee Perez vs. Joshua Richey\nPrelim: Justin Sanchez vs. Gilberto Aguil
+ ar\nPrelim: Justin Sanchez vs. Gilberto Aguilar\nPrelim: Freddy Masabo v
+ s. Bovar Khanakov
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230303T152923Z
 UID:2023-03-bkfc-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38
-DTSTART:20230318T000000Z
-DTEND:20230318T030000Z
+DTSTART:20230318T030000Z
+DTEND:20230318T060000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/97929-bkfc-38\n\n---\n\nMain Event: Dat Nguyen vs. Daniel Straus\nC
- o-Main Event: Jake Bostwick vs. Isaac Doolittle\nMain Card: Tyler Randal
- l vs. Chance Wilson\nMain Card: Stephen Townsel vs. Chris Sarro\nMain Ca
- rd: Chris Garcia vs. Philip Ryan Carroll\nMain Card: Howard Davis vs. Tr
- evor Morris\nMain Card: Gee Perez vs. Joshua Richey\nPrelim: Justin Sanc
- hez vs. Gilberto Aguilar\nPrelim: Justin Sanchez vs. Gilberto Aguilar\nP
- relim: Freddy Masabo vs. Bovar Khanakov
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-nguyen-vs-straus/
+ 2pcpy/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/97929-bkfc-
+ 38\n\n---\n\nMain Event: Dat Nguyen vs. Daniel Straus\nCo-Main Event: Ja
+ ke Bostwick vs. Isaac Doolittle\nMain Card: Tyler Randall vs. Chance Wil
+ son\nMain Card: Stephen Townsel vs. Chris Sarro\nMain Card: Chris Garcia
+  vs. Philip Ryan Carroll\nMain Card: Howard Davis vs. Trevor Morris\nMai
+ n Card: Gee Perez vs. Joshua Richey\nPrelim: Justin Sanchez vs. Gilberto
+  Aguilar\nPrelim: Justin Sanchez vs. Gilberto Aguilar\nPrelim: Freddy Ma
+ sabo vs. Bovar Khanakov
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -97,7 +116,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  kaw Banchamek vs. Saenchai Saenpong
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-03-bkfc-37-tierney-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37: Tierney vs. Lindsey
@@ -105,17 +124,18 @@ DTSTART:20230325T000000Z
 DTEND:20230325T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96441-bkfc-37\n\n---\n\nMain Event: Connor Tierney vs. Jake Lindsey
- \nMain Card: Lee Browne vs. Mason Shaw\nMain Card: Terry Brazier vs. Dav
- id Round\nMain Card: Rico Franco vs. Dan Breeze\nMain Card: Darren Hendr
- y vs. Corey Harrison\nMain Card: Gary Fox vs. Nathan Hind\nMain Card: Ch
- az Wasserman vs. Cédric Severac\nMain Card: Jack Draper vs. Bryon Woodge
- r\nPrelim: Brad Watchorn vs. George Thorpe\nPrelim: Ben Bonner vs. Jay C
- ucciniello\nPrelim: Jimmy Millar vs. Kyle Cassidy\nPrelim: Franco Tenagl
- ia vs. Jamie Hendry\nPrelim: Ryan Carmichael vs. Will Cairns
+ ents/96441-bkfc-37\nhttps://events.mixedmartialarts.com/bkfc-37:b80ee338
+ -0f02-4469-9c26-ba84c12ea780\n\n---\n\nMain Event: Connor Tierney vs. Ja
+ ke Lindsey\nMain Card: Lee Browne vs. Mason Shaw\nMain Card: Terry Brazi
+ er vs. David Round\nMain Card: Rico Franco vs. Dan Breeze\nMain Card: Da
+ rren Hendry vs. Corey Harrison\nMain Card: Gary Fox vs. Nathan Hind\nMai
+ n Card: Chaz Wasserman vs. Cédric Severac\nMain Card: Jack Draper vs. Br
+ yon Woodger\nPrelim: Brad Watchorn vs. George Thorpe\nPrelim: Ben Bonner
+  vs. Jay Cucciniello\nPrelim: Jimmy Millar vs. Kyle Cassidy\nPrelim: Fra
+ nco Tenaglia vs. Jamie Hendry\nPrelim: Ryan Carmichael vs. Will Cairns
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-03-bkfc-39-barnett-jr-vs-cedermalm@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 39: Barnett Jr. vs. Cedermalm
@@ -126,10 +146,11 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/97261-bkfc-fight-night-norfolk\nhttps://events.mixedmartialarts.com
  /bkfc-39:138d7b96-1777-44dd-b5da-0691ec20c8d4\n\n---\n\nMain Event: Regi
  nald Barnett\, Jr. vs. Gustaf Cedermalm\nCo-Main Event: Britain Hart vs.
-  Jenny Clausius\nMain Card: Ryan Shough vs. Zachary Calmus
+  Jenny Clausius\nMain Card: Ryan Shough vs. Zachary Calmus\nMain Card: D
+ ustin Pague vs. James Dennis\nMain Card: Ka'Sim Ruffin vs. Trai Santos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152923Z
 UID:2023-03-bkb-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 31
@@ -142,14 +163,16 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rad Scott\nMain Card: Nathan Decastro vs. Alan Arzeno
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
-UID:2023-04-bkfc@kampfkalender.de
+DTSTAMP:20230303T152923Z
+UID:2023-04-bkfc-41-perry-vs-rockhold@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC
+SUMMARY:BKFC 41: Perry vs. Rockhold
 DTSTART:20230429T010000Z
 DTEND:20230429T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/98423-bkfc
+ ents/98423-bkfc\n\n---\n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-M
+ ain Event: Eddie Alvarez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Ch
+ ristine Ferea
 END:VEVENT
 END:VCALENDAR

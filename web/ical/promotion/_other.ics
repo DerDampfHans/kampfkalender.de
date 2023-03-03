@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230225T230304Z
-X-KAMPFKALENDER-HASH:67b97c72f3d36a68512676a7375d24efa4cf58ad
+DTSTAMP:20230303T152921Z
+X-KAMPFKALENDER-HASH:77c6425fb42b978a0285a21082c09a7386e7abc3
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152922Z
 UID:2023-02-ab-in-den-ring@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ab in den Ring
@@ -19,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=2gcBXdm9zFA\nvia
  68
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152922Z
 UID:2023-02-supercup-kickboxing-2023@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Supercup Kickboxing 2023
@@ -31,7 +31,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=85kDZDhBigY\nvia
  ing-2023-571
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152922Z
 UID:2023-02-vukshinaj-vs-rivera-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Vukshinaj vs. Rivera: Prelims
@@ -46,7 +46,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cNqzPNta_Ys\n\n-
  bo (26-29-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152922Z
 UID:2023-02-vukshinaj-vs-rivera@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Vukshinaj vs. Rivera
@@ -62,7 +62,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-iFJDlFM4gA\nvia
  Zoltan Szabo (26-29-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152922Z
 UID:2023-02-wagner-vs-vrenozi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wagner vs. Vrenozi
@@ -81,7 +81,41 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0)\nMain Card: Daniel Roach (2-1-1) vs. Antonio Scaringi (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152922Z
+UID:2023-03-ritson-vs-davies@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ritson vs. Davies
+DTSTART:20230304T170000Z
+DTEND:20230304T200000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ritson-vs-davies/2pcqd
+ /\n\n---\n\nhttps://www.tapology.com/fightcenter/events/97682-ritson-vs-
+ davies\nhttp://www.boxrec.com/en/event/867729\n\n---\n\nMain Event: Lewi
+ s Ritson (23-2-0) vs. Ohara Davies (24-2-0)\nCo-Main Event: Thomas Patri
+ ck Ward (34-0-1) vs. Otabek Kholmatov (0-0-0)\nMain Card: Lee McGregor (
+ 11-0-1) vs. Alexis Kabore (29-7-0)\nMain Card: Adam Cope (0-0-0) vs. Bra
+ yan Mairena (12-31-1)\nMain Card: Steven Cairns (4-0-0) vs. Jakub Laskow
+ ski (4-21-1)\nMain Card: Ben Rees (0-0-0) vs. Konstantin Alexandrov (8-5
+ 9-4)\nMain Card: Nathan Forrest (0-0-0) vs. Liam Fox (0-0-0)\nMain Card:
+  Syed Shear (0-0-0) vs. Cristian Narvaez (17-51-5)\nMain Card: Ewan MacK
+ enzie (0-0-0) vs. Serge Ambomo (9-37-3)\nMain Card: Callum Walton (0-0-0
+ ) vs. Zdenko Bule (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230303T152922Z
+UID:2023-03-m47-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:M47 Fight Night
+DTSTART:20230304T180000Z
+DTEND:20230304T210000Z
+CATEGORIES:Other,Boxen,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube\nvia fight24.tv: https://www.fight24.tv/fightpass
+ es/fight24-mk47-fight-night-vol-3-574\n\n---\n\nhttps://fightcamp-benshe
+ im.de/aktuelles/am-04-maerz-veranstaltet-der-fightclub-m47-die-fight-nig
+ ht-in-hassloch/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230303T152922Z
 UID:2023-03-swingler-vs-perrett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swingler vs. Perrett
@@ -89,16 +123,27 @@ DTSTART:20230304T190000Z
 DTEND:20230304T220000Z
 CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/97225-mf-dazn-x-series-5\n\n---\n\nMain Card: Jay Swingler (0-0-0) vs.
-  Nicholai Perrett (0-0-0)\nMain Card: Walid Muhsein (0-0-0) vs. Amir Fot
- oohi (0-0-0)\nMain Card: Nurideen Shabazz (0-0-0) vs. Pully Arif (0-0-0)
- \nMain Card: Kenny Ojuederie (0-0-0) vs. Ashley Tebi (0-0-0)\nMain Card:
-  Astrid Wett (0-0-0) vs. Andrea-Jane Bunker (0-0-0)\nMain Card: Ginty (0
- -0-0) vs. Hamad Khan (0-0-0)\nMain Card: Tempo Arts (0-0-0) vs. Mansa Go
- dson (0-0-0)
+ s/97225-mf-dazn-x-series-5\n\n---\n\nMain Event: Jay Swingler (0-0-0) vs
+ . Nicholai Perrett (0-0-0)\nMain Card: Nurideen Shabazz (0-0-0) vs. Pull
+ y Arif (0-0-0)\nMain Card: Kenny Ojuederie (0-0-0) vs. Ashley Tebi (0-0-
+ 0)\nMain Card: Luis Alcaraz Pineda vs. Paul Denino\nMain Card: Brendon D
+ avis vs. Anthony Vargas\nMain Card: Astrid Wett (0-0-0) vs. Andrea-Jane 
+ Bunker (0-0-0)\nMain Card: Ginty (0-0-0) vs. Hamad Khan (0-0-0)\nMain Ca
+ rd: Walid Muhsein (0-0-0) vs. Musa Hassan (0-0-0)\nMain Card: Tempo Arts
+  (0-0-0) vs. Godson Umeh (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230225T230304Z
+DTSTAMP:20230303T152922Z
+UID:2023-03-mma-bushido@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MMA Bushido
+DTSTART:20230311T190000Z
+DTEND:20230311T220000Z
+CATEGORIES:Other,MMA,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230303T152922Z
 UID:2023-03-walsh-vs-ruiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Ruiz
@@ -106,9 +151,15 @@ DTSTART:20230317T000000Z
 DTEND:20230317T030000Z
 CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/98343-hollywood-fight-nights-boston\n\n---\n\nMain Event: Ca
- llum Walsh (0-0-0) vs. Leonardo Di Stefano (10-1-0)\nMain Card: Jonathan
-  De Pina (11-1-0) vs. Andrew Cancio (21-5-2)\nMain Card: Francis Hogan (
- 13-0-0) vs. Jimmy Williams (18-10-2)
+ nter/events/98343-hollywood-fight-nights-boston\nhttp://www.boxrec.com/e
+ n/event/865408\n\n---\n\nMain Event: Callum Walsh (0-0-0) vs. Leonardo D
+ i Stefano (10-1-0)\nMain Card: Jonathan De Pina (11-1-0) vs. Andrew Canc
+ io (21-5-2)\nMain Card: Francis Hogan (13-0-0) vs. Jimmy Williams (18-10
+ -2)\nMain Card: Danny O'Connor (0-0-0) vs. Luis Garcia (0-0-0)\nMain Car
+ d: Hegly Mosqueda (22-0-0) vs. Jose Edgardo Garcia (13-3-3)\nMain Card: 
+ Kendrick Ball Jr (19-1-3) vs. Mike Stegall (7-0-3)\nMain Card: Kevin Wal
+ sh (7-0-0) vs. Andrew Bentley (5-6-0)\nMain Card: Jaydell Pazmino (0-0-0
+ ) vs. Kyle Massoth (0-3-0)\nMain Card: Nicky Tejada (0-0-0) vs. W. Harri
+ ngton (0-0-0)
 END:VEVENT
 END:VCALENDAR

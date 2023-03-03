@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230224T134623Z
-X-KAMPFKALENDER-HASH:488de2d7146c4bed9cde064ba051c9e3082235fa
+DTSTAMP:20230303T152921Z
+X-KAMPFKALENDER-HASH:122de61444e1330ef6604080e2e2d2774a0eefe3
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
+DTSTAMP:20230303T152922Z
 UID:2023-02-ksw-79-de-fries-vs-duffee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 79: De Fries vs. Duffee
@@ -28,22 +28,23 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  zyńska-Krawiec (6-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
-UID:2023-03-ksw-80@kampfkalender.de
+DTSTAMP:20230303T152922Z
+UID:2023-03-ksw-80-rucha-a-vs-eskijev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 80
+SUMMARY:KSW 80: Ruchała vs. Eskijev
 DTSTART:20230317T170000Z
 DTEND:20230317T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/97604-ksw-80\n\n---\n\nMain Event: Robert Ruchała (8-0-0) vs. Daw
- id Śmiełowski (10-0-0)\nMain Card: Luis Henrique da Silva (19-8-0) vs. O
- umar Sy (7-0-0)\nMain Card: Damian Piwowarczyk (5-2-0) vs. Bartłomiej Gł
- adkowicz (9-3-0)\nPrelim: Mateusz Janur (6-5-0) vs. Andi Vrtačić (3-1-0)
- 
+ events/97604-ksw-80\n\n---\n\nMain Event: Robert Ruchała (8-0-0) vs. Lom
+ -Ali Eskijew (20-6-0)\nCo-Main Event: Bartosz Leśko (12-2-2) vs. Tom Bre
+ ese (15-4-0)\nMain Card: Luis Henrique da Silva (19-8-0) vs. Oumar Sy (7
+ -0-0)\nMain Card: Damian Piwowarczyk (5-2-0) vs. Bartłomiej Gładkowicz (
+ 9-3-0)\nPrelim: Mateusz Janur (6-5-0) vs. Andi Vrtačić (3-1-0)\nPrelim: 
+ Kacper Koziorzębski (8-5-0) vs. Borys Borkowski (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230224T134624Z
+DTSTAMP:20230303T152922Z
 UID:2023-04-ksw-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 81
@@ -51,6 +52,30 @@ DTSTART:20230422T170000Z
 DTEND:20230422T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/97605-ksw-81
+ events/97605-ksw-81\n\n---\n\nMain Event: Adrian Bartosiński (13-0-0) vs
+ . Artur Szczepaniak (9-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230303T152922Z
+UID:2023-05-ksw-82@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 82
+DTSTART:20230513T160000Z
+DTEND:20230513T190000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/98672-ksw-82
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230303T152922Z
+UID:2023-06-ksw-83-colosseum-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 83: Colosseum 2
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/98636-ksw-83-colosseum-2\n\n---\n\nMain Card: Artur Szpilka (2-0-
+ 0) vs. Mariusz Pudzianowski (17-8-0)
 END:VEVENT
 END:VCALENDAR

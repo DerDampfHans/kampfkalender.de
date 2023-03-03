@@ -9,7 +9,7 @@
       "#KSW80"
     ],
     "mainCard": {
-      "title": "KSW 80",
+      "title": "KSW 80: Ruchała vs. Eskijev",
       "time": "2023-03-17T17:00:00Z",
       "broadcasters": {
         "KSW_TV": {
@@ -19,17 +19,19 @@
     "tapology": {
       "id": 97604,
       "time": "2023-03-17T17:00:00Z",
-      "title": "KSW 80: Ruchała vs. Śmiełowski",
+      "title": "KSW 80: Ruchała vs. Eskijev",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/97604-ksw-80",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Robert Ruchała (8-0-0) vs. Dawid Śmiełowski (10-0-0)",
+        "Main Event: Robert Ruchała (8-0-0) vs. Lom-Ali Eskijew (20-6-0)",
+        "Co-Main Event: Bartosz Leśko (12-2-2) vs. Tom Breese (15-4-0)",
         "Main Card: Luis Henrique da Silva (19-8-0) vs. Oumar Sy (7-0-0)",
         "Main Card: Damian Piwowarczyk (5-2-0) vs. Bartłomiej Gładkowicz (9-3-0)",
-        "Prelim: Mateusz Janur (6-5-0) vs. Andi Vrtačić (3-1-0)"
+        "Prelim: Mateusz Janur (6-5-0) vs. Andi Vrtačić (3-1-0)",
+        "Prelim: Kacper Koziorzębski (8-5-0) vs. Borys Borkowski (4-2-0)"
       ]
     }
   },
@@ -53,9 +55,71 @@
     "tapology": {
       "id": 97605,
       "time": "2023-04-22T17:00:00Z",
-      "title": "KSW 81",
+      "title": "KSW 81: Bartosiński vs. Szczepaniak",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/97605-ksw-81",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Adrian Bartosiński (13-0-0) vs. Artur Szczepaniak (9-1-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-98672",
+    "promotion": "KSW",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#KSW82"
+    ],
+    "mainCard": {
+      "title": "KSW 82",
+      "time": "2023-05-13T16:00:00Z",
+      "broadcasters": {
+        "KSW_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 98672,
+      "time": "2023-05-13T16:00:00Z",
+      "title": "KSW 82",
       "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/97605-ksw-81"
+      "url": "https://www.tapology.com/fightcenter/events/98672-ksw-82"
+    }
+  },
+  {
+    "id": "tapology-98636",
+    "promotion": "KSW",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#KSW83"
+    ],
+    "mainCard": {
+      "title": "KSW 83: Colosseum 2",
+      "time": "2023-06-03T16:00:00Z",
+      "broadcasters": {
+        "KSW_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 98636,
+      "time": "2023-06-03T16:00:00Z",
+      "title": "KSW 83: Colosseum 2",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/98636-ksw-83-colosseum-2",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Artur Szpilka (2-0-0) vs. Mariusz Pudzianowski (17-8-0)"
+      ]
     }
   }
 ]
