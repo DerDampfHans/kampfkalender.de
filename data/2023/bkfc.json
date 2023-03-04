@@ -238,5 +238,46 @@
         "https://events.mixedmartialarts.com/bkfc-36:42288a4e-6d72-4d3b-9d14-42593c0000a4"
       ]
     }
+  },
+  {
+    "id": "bkfc-2023-03-04",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC37",
+      "#BKFCLondon"
+    ],
+    "mainCard": {
+      "title": "BKFC 37",
+      "time": "2023-03-04T20:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-37/2pclm/"
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 37: Prelims",
+      "time": "2023-03-04T19:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-37-prelims/2pcln/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcln",
+        "time": "2023-03-04T19:00:00Z",
+        "title": "BKFC 37 London: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-37-prelims/2pcln/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      }
+    }
   }
 ]

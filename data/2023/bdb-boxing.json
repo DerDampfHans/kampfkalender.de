@@ -246,5 +246,43 @@
         "http://www.boxrec.com/en/event/867585"
       ]
     }
+  },
+  {
+    "id": "tapology-98871",
+    "promotion": "BDB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Fight In Tübingen",
+      "time": "2023-03-04T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-fight-in-tubingen-vol2-575",
+          "freeAfter": 48
+        }
+      }
+    },
+    "tapology": {
+      "id": 98871,
+      "time": "2023-03-04T17:00:00Z",
+      "title": "Profiboxen",
+      "titleAlt": "Fight in Tübingen 2",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/98871-profiboxen",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Ardian Krasniqi (0-0-0) vs. Mirnes Denadic (15-21-3)",
+        "Main Card: Dimitar Tilev (10-1-0) vs. Mazen Girke (15-137-6)",
+        "Main Card: Fredi Knorpp (0-0-0) vs. Milos Janjanin (16-40-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/867699"
+      ]
+    }
   }
 ]
