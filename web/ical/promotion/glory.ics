@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230307T213925Z
-X-KAMPFKALENDER-HASH:3e18b0f6d5daa1ad0afe5eba55b574a159724bc7
+DTSTAMP:20230307T214155Z
+X-KAMPFKALENDER-HASH:531639b61917739f9111cdf2a80970560ff29395
 BEGIN:VEVENT
-DTSTAMP:20230307T213925Z
+DTSTAMP:20230307T214155Z
 UID:2023-03-glory-84-weigh-ins@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 84: Weigh Ins
@@ -17,29 +17,12 @@ CATEGORIES:Glory,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-qBmeb9D73A
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213925Z
-UID:2023-03-glory-84@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GLORY 84
-DTSTART:20230311T173000Z
-DTEND:20230311T203000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=lWZAnk0s_2g\
- nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-84/\nhttps://ww
- w.tapology.com/fightcenter/events/97766-glory-84\n\n---\n\nMain Event: T
- yjani Beztati vs. P. Kiatmoo9\nCo-Main Event: Tarik Khbabez vs. J. Toled
- o Canellas\nMain Card: Jay Overmeer vs. Jamie Bates\nMain Card: Nordine 
- Mahieddine vs. Felipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael
-  Boapeah\nMain Card: Nabil Khachab vs. Sofian Laïdouni\nPrelim: Chico Kw
- asi vs. Ștefan Orza\nPrelim: David Tuitupou vs. Strahinja Mitrič
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230307T213925Z
+DTSTAMP:20230307T214155Z
 UID:2023-03-glory-84-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 84: Prelims
 DTSTART:20230311T180000Z
-DTEND:20230311T173000Z
+DTEND:20230311T190000Z
 CATEGORIES:Glory,Kickboxen,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=X2F9a4yHebQ\n\n-
  --\n\nhttps://fighting.de/events/glory-84/\nhttps://www.tapology.com/fig
@@ -49,5 +32,22 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=X2F9a4yHebQ\n\n-
  ipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael Boapeah\nMain Car
  d: Nabil Khachab vs. Sofian Laïdouni\nPrelim: Chico Kwasi vs. Ștefan Orz
  a\nPrelim: David Tuitupou vs. Strahinja Mitrič
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230307T214155Z
+UID:2023-03-glory-84@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 84
+DTSTART:20230311T190000Z
+DTEND:20230311T220000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=lWZAnk0s_2g\
+ nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-84/\nhttps://ww
+ w.tapology.com/fightcenter/events/97766-glory-84\n\n---\n\nMain Event: T
+ yjani Beztati vs. P. Kiatmoo9\nCo-Main Event: Tarik Khbabez vs. J. Toled
+ o Canellas\nMain Card: Jay Overmeer vs. Jamie Bates\nMain Card: Nordine 
+ Mahieddine vs. Felipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael
+  Boapeah\nMain Card: Nabil Khachab vs. Sofian Laïdouni\nPrelim: Chico Kw
+ asi vs. Ștefan Orza\nPrelim: David Tuitupou vs. Strahinja Mitrič
 END:VEVENT
 END:VCALENDAR

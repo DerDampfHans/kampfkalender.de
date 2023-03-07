@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230307T213925Z
-X-KAMPFKALENDER-HASH:b0fb96b0ddc8e64489074989267fd3c2ecab93ff
+DTSTAMP:20230307T214155Z
+X-KAMPFKALENDER-HASH:e663a0329c9aeb3b73e3a0647a5786c76b61f6d4
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-03-m47-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:M47 Fight Night
@@ -20,7 +20,7 @@ DESCRIPTION:via YouTube\nvia fight24.tv: https://www.fight24.tv/fightpass
  ht-in-hassloch/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-03-one-friday-fights-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Friday Fights 8
@@ -31,29 +31,12 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/98465-one-friday-fights-8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
-UID:2023-03-glory-84@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GLORY 84
-DTSTART:20230311T173000Z
-DTEND:20230311T203000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=lWZAnk0s_2g\
- nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-84/\nhttps://ww
- w.tapology.com/fightcenter/events/97766-glory-84\n\n---\n\nMain Event: T
- yjani Beztati vs. P. Kiatmoo9\nCo-Main Event: Tarik Khbabez vs. J. Toled
- o Canellas\nMain Card: Jay Overmeer vs. Jamie Bates\nMain Card: Nordine 
- Mahieddine vs. Felipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael
-  Boapeah\nMain Card: Nabil Khachab vs. Sofian Laïdouni\nPrelim: Chico Kw
- asi vs. Ștefan Orza\nPrelim: David Tuitupou vs. Strahinja Mitrič
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-03-glory-84-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 84: Prelims
 DTSTART:20230311T180000Z
-DTEND:20230311T173000Z
+DTEND:20230311T190000Z
 CATEGORIES:Glory,Kickboxen,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=X2F9a4yHebQ\n\n-
  --\n\nhttps://fighting.de/events/glory-84/\nhttps://www.tapology.com/fig
@@ -65,7 +48,24 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=X2F9a4yHebQ\n\n-
  a\nPrelim: David Tuitupou vs. Strahinja Mitrič
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
+UID:2023-03-glory-84@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 84
+DTSTART:20230311T190000Z
+DTEND:20230311T220000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=lWZAnk0s_2g\
+ nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-84/\nhttps://ww
+ w.tapology.com/fightcenter/events/97766-glory-84\n\n---\n\nMain Event: T
+ yjani Beztati vs. P. Kiatmoo9\nCo-Main Event: Tarik Khbabez vs. J. Toled
+ o Canellas\nMain Card: Jay Overmeer vs. Jamie Bates\nMain Card: Nordine 
+ Mahieddine vs. Felipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael
+  Boapeah\nMain Card: Nabil Khachab vs. Sofian Laïdouni\nPrelim: Chico Kw
+ asi vs. Ștefan Orza\nPrelim: David Tuitupou vs. Strahinja Mitrič
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230307T214155Z
 UID:2023-03-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -76,7 +76,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230325-olympix-m
  ma-k1-boxen-no-127
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-03-trinity-kings-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Trinity Kings 12
@@ -99,7 +99,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trinity-kings-12/2pcnk
   Card: Cole Heanu (1-2-0) vs. Marjim Valerie (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-04-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -110,7 +110,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230401-olympix-m
  agdeburg-mma-k1-boxen-no-128
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -122,7 +122,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  o vs. Jonathan Haggerty
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -133,7 +133,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
  ma-k1-boxen-no-130
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-05-oktagon-43-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 43: Kincl vs. Vemola 2
@@ -146,7 +146,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
   Brož (15-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -157,7 +157,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
  ma-k1-boxen-no-132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -168,7 +168,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
  ma-k1-boxen-no-134
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-06-oktagon-44@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44
@@ -183,7 +183,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ngwirth (14-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230307T213926Z
+DTSTAMP:20230307T214155Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
