@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230305T230306Z
-X-KAMPFKALENDER-HASH:bd0e3c832d627eac64485adf4d187934a51c2dbb
+DTSTAMP:20230307T213925Z
+X-KAMPFKALENDER-HASH:565b89517957a9012550d8ab576217405ef8d9b1
 BEGIN:VEVENT
-DTSTAMP:20230305T230306Z
+DTSTAMP:20230307T213925Z
 UID:2023-03-ritson-vs-davies@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ritson vs. Davies
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ritson-vs-davies/2pcqd
  ) vs. Zdenko Bule (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230305T230306Z
+DTSTAMP:20230307T213925Z
 UID:2023-03-m47-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:M47 Fight Night
@@ -41,7 +41,7 @@ DESCRIPTION:via YouTube\nvia fight24.tv: https://www.fight24.tv/fightpass
  ht-in-hassloch/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230305T230306Z
+DTSTAMP:20230307T213925Z
 UID:2023-03-swingler-vs-perrett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Swingler vs. Perrett
@@ -59,7 +59,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (0-0-0) vs. Godson Umeh (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230305T230306Z
+DTSTAMP:20230307T213925Z
 UID:2023-03-mma-bushido@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MMA Bushido
@@ -69,7 +69,23 @@ CATEGORIES:Other,MMA,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230305T230306Z
+DTSTAMP:20230307T213925Z
+UID:2023-03-daranyi-jr-vs-navarrete@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Daranyi Jr. vs Navarrete
+DTSTART:20230311T230000Z
+DTEND:20230312T020000Z
+CATEGORIES:Other,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98970-box-fest-iii\nhttp://www.boxrec.com/en/event/866480\n\n---\n\nMa
+ in Event: Zsolt Daranyi Jr (18-1-0) vs. Johnny Navarrete (34-18-2)\nMain
+  Card: Nick Fantauzzi (11-1-0) vs. Kenny Chery (3-6-1)\nMain Card: Moham
+ ed Zawadi (5-1-0) vs. Jesus Arriaga (3-2-0)\nMain Card: Mathusan Mahinda
+ s (0-0-0) vs. Arturo Avila Moreno (0-0-0)\nMain Card: Emzar Iashvili (0-
+ 0-0) vs. Justin Grant (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230307T213925Z
 UID:2023-03-walsh-vs-ruiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Ruiz

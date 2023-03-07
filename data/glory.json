@@ -1,5 +1,26 @@
 [
   {
+    "id": "glory-84-weigh-ins",
+    "promo": true,
+    "promotion": "GLORY",
+    "mainCard": {
+      "title": "GLORY 84: Weigh Ins",
+      "time": "2023-03-10T11:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=-qBmeb9D73A",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "-qBmeb9D73A",
+        "time": "2023-03-10T11:30:00Z",
+        "title": "GLORY 84 Official Weigh-Ins",
+        "url": "https://www.youtube.com/watch?v=-qBmeb9D73A"
+      }
+    }
+  },
+  {
     "id": "tapology-97766",
     "promotion": "GLORY",
     "sports": [
@@ -24,17 +45,26 @@
         "title": "GLORY 84 - LIVE aus Rotterdam",
         "url": "https://www.youtube.com/watch?v=lWZAnk0s_2g",
         "tags": [
-          "#Nr",
           "#Fighting",
+          "#Nr",
           "#MMA"
         ]
       }
     },
     "prelims": {
       "title": "GLORY 84: Prelims",
+      "time": "2023-03-11T18:00:00Z",
       "broadcasters": {
-        "FIGHTING_DE": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=X2F9a4yHebQ",
+          "free": true
         }
+      },
+      "youTube": {
+        "id": "X2F9a4yHebQ",
+        "time": "2023-03-11T18:00:00Z",
+        "title": "GLORY 84 Prelims",
+        "url": "https://www.youtube.com/watch?v=X2F9a4yHebQ"
       }
     },
     "tapology": {
@@ -48,14 +78,13 @@
       ],
       "card": [
         "Main Event: Tyjani Beztati vs. P. Kiatmoo9",
-        "Co-Main Event: Tarik Khbabez vs. Kristaps Zile",
+        "Co-Main Event: Tarik Khbabez vs. J. Toledo Canellas",
         "Main Card: Jay Overmeer vs. Jamie Bates",
         "Main Card: Nordine Mahieddine vs. Felipe Micheletti",
         "Main Card: Ertugrul Bayrak vs. Michael Boapeah",
-        "Main Card: Chico Kwasi vs. Ștefan Orza",
-        "Prelim: David Tuitupou vs. Strahinja Mitrič",
-        "Prelim: Michał Bławdziewicz vs. Sofian Laïdouni",
-        "Prelim: Iliass Hammouche vs. Brice Kombou"
+        "Main Card: Nabil Khachab vs. Sofian Laïdouni",
+        "Prelim: Chico Kwasi vs. Ștefan Orza",
+        "Prelim: David Tuitupou vs. Strahinja Mitrič"
       ]
     }
   }

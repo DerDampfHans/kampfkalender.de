@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230303T154106Z
-X-KAMPFKALENDER-HASH:e841540d27f326aef4f5ef03a6b1cc283ae5d59a
+DTSTAMP:20230307T213925Z
+X-KAMPFKALENDER-HASH:004890b2804ec2e3b2bf32802e1607afddd17351
 BEGIN:VEVENT
-DTSTAMP:20230303T154107Z
+DTSTAMP:20230307T213926Z
 UID:2023-03-we-love-mma-64@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 64
@@ -30,7 +30,7 @@ DESCRIPTION:https://welovemma.de/we-love-mma-64/\nhttps://www.tapology.co
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T154107Z
+DTSTAMP:20230307T213926Z
 UID:2023-03-we-love-mma-64-re-live@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 64: Re-Live
@@ -54,7 +54,7 @@ DESCRIPTION:via Bild+: https://www.bild.de/bild-plus/sport/mehr-sport/spo
  aul Braun (1-2-1)\nPrelim: Rabi Azizi (2-0-0) vs. Mihail Lapp (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T154107Z
+DTSTAMP:20230307T213926Z
 UID:2023-05-we-love-mma-65@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 65
@@ -65,7 +65,7 @@ DESCRIPTION:https://welovemma.de/we-love-mma-66/\nhttps://www.tapology.co
  m/fightcenter/events/98872-we-love-mma-65
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T154107Z
+DTSTAMP:20230307T213926Z
 UID:2023-09-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
@@ -75,7 +75,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-66-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T154107Z
+DTSTAMP:20230307T213926Z
 UID:2023-11-we-love-mma-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 68
@@ -85,7 +85,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-68/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T154107Z
+DTSTAMP:20230307T213926Z
 UID:2023-12-we-love-mma-69@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 69
@@ -95,7 +95,17 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-69/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230303T154107Z
+DTSTAMP:20230307T213926Z
+UID:2024-03-we-love-mma-71@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 71
+DTSTART:20240309T180000Z
+DTEND:20240309T210000Z
+CATEGORIES:WLMMA,MMA,live
+DESCRIPTION:https://welovemma.de/we-love-mma-71/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230307T213926Z
 UID:2024-06-we-love-mma-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 74

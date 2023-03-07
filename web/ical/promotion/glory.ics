@@ -4,10 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230303T152921Z
-X-KAMPFKALENDER-HASH:ad91c409b805c78822d9c6a424d3d911829c7f2b
+DTSTAMP:20230307T213925Z
+X-KAMPFKALENDER-HASH:3e18b0f6d5daa1ad0afe5eba55b574a159724bc7
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230307T213925Z
+UID:2023-03-glory-84-weigh-ins@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 84: Weigh Ins
+DTSTART:20230310T113000Z
+DTEND:20230310T143000Z
+CATEGORIES:Glory,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-qBmeb9D73A
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230307T213925Z
 UID:2023-03-glory-84@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 84
@@ -17,11 +27,27 @@ CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=lWZAnk0s_2g\
  nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-84/\nhttps://ww
  w.tapology.com/fightcenter/events/97766-glory-84\n\n---\n\nMain Event: T
- yjani Beztati vs. P. Kiatmoo9\nCo-Main Event: Tarik Khbabez vs. Kristaps
-  Zile\nMain Card: Jay Overmeer vs. Jamie Bates\nMain Card: Nordine Mahie
- ddine vs. Felipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael Boap
- eah\nMain Card: Chico Kwasi vs. Ștefan Orza\nPrelim: David Tuitupou vs. 
- Strahinja Mitrič\nPrelim: Michał Bławdziewicz vs. Sofian Laïdouni\nPreli
- m: Iliass Hammouche vs. Brice Kombou
+ yjani Beztati vs. P. Kiatmoo9\nCo-Main Event: Tarik Khbabez vs. J. Toled
+ o Canellas\nMain Card: Jay Overmeer vs. Jamie Bates\nMain Card: Nordine 
+ Mahieddine vs. Felipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael
+  Boapeah\nMain Card: Nabil Khachab vs. Sofian Laïdouni\nPrelim: Chico Kw
+ asi vs. Ștefan Orza\nPrelim: David Tuitupou vs. Strahinja Mitrič
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230307T213925Z
+UID:2023-03-glory-84-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 84: Prelims
+DTSTART:20230311T180000Z
+DTEND:20230311T173000Z
+CATEGORIES:Glory,Kickboxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=X2F9a4yHebQ\n\n-
+ --\n\nhttps://fighting.de/events/glory-84/\nhttps://www.tapology.com/fig
+ htcenter/events/97766-glory-84\n\n---\n\nMain Event: Tyjani Beztati vs. 
+ P. Kiatmoo9\nCo-Main Event: Tarik Khbabez vs. J. Toledo Canellas\nMain C
+ ard: Jay Overmeer vs. Jamie Bates\nMain Card: Nordine Mahieddine vs. Fel
+ ipe Micheletti\nMain Card: Ertugrul Bayrak vs. Michael Boapeah\nMain Car
+ d: Nabil Khachab vs. Sofian Laïdouni\nPrelim: Chico Kwasi vs. Ștefan Orz
+ a\nPrelim: David Tuitupou vs. Strahinja Mitrič
 END:VEVENT
 END:VCALENDAR

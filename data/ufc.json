@@ -11,6 +11,9 @@
     "mainCard": {
       "title": "UFC Vegas 71: Yan vs. Dvalishvili",
       "time": "2023-03-11T23:00:00Z",
+      "tags": [
+        "🎙@SebastianHackl"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -24,10 +27,11 @@
       },
       "dazn": {
         "id": "1dfohlf2uelyr1xpja3fv8ro9k",
-        "time": "2023-03-12T03:00:00Z",
+        "time": "2023-03-11T23:00:00Z",
         "title": "UFC Fight Night: Yan vs Dvalishvili (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Bei der UFC Fight Night steht am Samstag der Fight zwischen dem ehemaligen UFC-Bantamgewichts-Champion Petr Yan und Merab Dvalishvili im Mittelpunkt. Wer wird das Oktagon als Sieger verlassen? // Kommentator: Sebastian Hackl"
       }
     },
     "prelims": {
@@ -55,18 +59,25 @@
       "card": [
         "Main Event: Petr Yan (16-4-0) vs. Merab Dvalishvili (15-4-0)",
         "Co-Main Event: Alexander Volkov (35-10-0) vs. Alexandr Romanov (16-1-0)",
+        "Main Card: Nikita Krylov (29-9-0) vs. Ryan Spann (21-7-0)",
+        "Main Card: Ricardo Ramos (16-4-0) vs. Austin Lingo (9-1-0)",
         "Main Card: Said Nurmagomedov (17-2-0) vs. Jonathan Martinez (17-4-0)",
         "Main Card: Vitor Petrino (7-0-0) vs. Anton Turkalj (8-1-0)",
-        "Main Card: Ricardo Ramos (16-4-0) vs. Austin Lingo (9-1-0)",
-        "Main Card: Nikita Krylov (29-9-0) vs. Ryan Spann (21-7-0)",
         "Prelim: Łukasz Brzeski (8-2-1) vs. Karl Williams (7-1-0)",
-        "Prelim: JJ Aldrich (11-5-0) vs. Ariane Lipski (14-8-0)",
-        "Prelim: Mario Bautista (11-2-0) vs. Guido Cannetti (10-6-0)",
-        "Prelim: Tyson Nam (21-12-1) vs. Bruno Silva (12-5-2)",
-        "Prelim: Tony Gravely (23-8-0) vs. Victor Henry (22-6-0)",
-        "Prelim: Carlston Harris (17-5-0) vs. Abubakar Nurmagomedov (17-3-1)",
         "Prelim: Raphael Assunção (27-9-0) vs. Davey Grant (12-6-0)",
-        "Prelim: Sedriques Dumas (7-0-0) vs. Josh Fremd (9-4-0)"
+        "Prelim: Sedriques Dumas (7-0-0) vs. Josh Fremd (9-4-0)",
+        "Prelim: Mario Bautista (11-2-0) vs. Guido Cannetti (10-6-0)",
+        "Prelim: JJ Aldrich (11-5-0) vs. Ariane Lipski (14-8-0)",
+        "Prelim: Tony Gravely (23-8-0) vs. Victor Henry (22-6-0)",
+        "Prelim: Tyson Nam (21-12-1) vs. Bruno Silva (12-5-2)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-fight-night-221-yan-vs-dvalishvili-95615",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Yan_vs._Dvalishvili",
+        "https://events.mixedmartialarts.com/ufc-fight-night:8ff7afef-8f84-42ce-9df6-c2f273c26971",
+        "https://www.ufc.com/event/ufc-fight-night-march-11-2023",
+        "http://www.ufcstats.com/event-details/35080a7f406f9ab3",
+        "https://www.bestfightodds.com/events/ufc-fight-night-221-2719"
       ]
     }
   },
@@ -82,6 +93,10 @@
     "mainCard": {
       "title": "UFC 286: Edwards vs. Usman 3",
       "time": "2023-03-18T21:00:00Z",
+      "tags": [
+        "🎙@MarkBergmann",
+        "🎙@PeterSobotta"
+      ],
       "broadcasters": {
         "DAZN": {
         },
@@ -98,21 +113,34 @@
         "time": "2023-03-18T21:00:00Z",
         "title": "UFC 286: Edwards vs Usman 3 (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Mark Bergmann / Peter Sobotta"
       }
     },
     "prelims": {
       "title": "UFC 286: Prelims",
+      "time": "2023-03-18T19:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 236719,
+        "time": "2023-03-18T19:00:00Z",
+        "title": "UFC 286: PRELIMS"
       }
     },
     "earlyPrelims": {
       "title": "UFC 286: Early Prelims",
+      "time": "2023-03-18T17:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 236718,
+        "time": "2023-03-18T17:00:00Z",
+        "title": "UFC 286: FIGHT PASS PRELIMS"
       }
     },
     "tapology": {
@@ -403,7 +431,8 @@
         "Prelim: Martin Buday (11-1-0) vs. Jake Collier (13-8-0)",
         "Prelim: Cody Brundage (8-3-0) vs. Rodolfo Vieira (8-2-0)",
         "Prelim: Josh Quinlan (6-0-0) vs. Ange Loosa (9-3-0)",
-        "Prelim: Cody Durden (14-4-1) vs. Charles Johnson (13-4-0)"
+        "Prelim: Cody Durden (14-4-1) vs. Charles Johnson (13-4-0)",
+        "Prelim: Julian Erosa (28-10-0) vs. Fernando Padilla (14-4-0)"
       ]
     }
   },
@@ -413,8 +442,11 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFC288"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night",
+      "title": "UFC 288: Sterling vs. Cejudo",
       "time": "2023-05-06T22:00:00Z",
       "broadcasters": {
         "DAZN": {
@@ -424,14 +456,14 @@
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC 288: Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       }
     },
     "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
+      "title": "UFC 288: Early Prelims",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
@@ -440,7 +472,7 @@
     "tapology": {
       "id": 97782,
       "time": "2023-05-06T22:00:00Z",
-      "title": "UFC 288",
+      "title": "UFC 288: Sterling vs. Cejudo",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/97782-ufc-fight-night",
       "sports": [
@@ -450,11 +482,14 @@
         "Main Event: Aljamain Sterling (22-3-0) vs. Henry Cejudo (16-2-0)",
         "Co-Main Event: Charles Oliveira (33-9-0) vs. Beneil Dariush (22-4-1)",
         "Main Card: Bryce Mitchell (15-1-0) vs. Jonathan Pearce (14-4-0)",
+        "Main Card: Jéssica Andrade (24-10-0) vs. Xiaonan Yan (16-3-0)",
         "Prelim: Khaos Williams (13-3-0) vs. Rolando Bedoya (14-1-0)",
         "Prelim: Daniel Santos (10-2-0) vs. Johnny Munoz Jr. (12-2-0)",
         "Prelim: Marina Rodriguez (16-2-2) vs. Virna Jandiroba (18-3-0)",
         "Prelim: Andre Petroski (9-1-0) vs. Armen Petrosyan (7-2-0)",
-        "Prelim: Devin Clark (14-7-0) vs. Kennedy Nzechukwu (11-3-0)"
+        "Prelim: Devin Clark (14-7-0) vs. Kennedy Nzechukwu (11-3-0)",
+        "Prelim: Kron Gracie (5-1-0) vs. Charles Jourdain (13-6-1)",
+        "Prelim: Nate Maness (14-3-0) vs. Zhalgas Zhumagulov (14-8-0)"
       ]
     }
   },
