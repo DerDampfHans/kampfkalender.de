@@ -10,10 +10,22 @@
     ],
     "mainCard": {
       "title": "BKB 31",
-      "time": "2023-03-26T17:00:00Z",
+      "time": "2023-03-26T18:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkb-31/2pcre/"
         }
+      },
+      "fite": {
+        "id": "2pcre",
+        "time": "2023-03-26T18:00:00Z",
+        "title": "BKB 31",
+        "url": "https://www.fite.tv/watch/bkb-31/2pcre/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -23,10 +35,17 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/97331-bkb-31",
       "card": [
-        "Main Card: James Connelly vs. Marley Churcher",
-        "Main Card: Paul Hilz vs. Nathan Leeson",
+        "Main Event: James Connelly vs. Marley Churcher",
+        "Co-Main Event: Paul Hilz vs. Nathan Leeson",
         "Main Card: Ryan Barrett vs. Brad Scott",
-        "Main Card: Nathan Decastro vs. Alan Arzeno"
+        "Main Card: Nathan Decastro vs. Alan Arzeno",
+        "Main Card: Dan Chapman vs. Tito Martins",
+        "Main Card: Smudger Smith vs. Liam Rees",
+        "Main Card: Callan Harley vs. Johnny Jones",
+        "Main Card: Jonny Lawson vs. Martin Reffell",
+        "Main Card: Harvey Dossett vs. Danny Fletcher",
+        "Main Card: George Hillyard vs. Jack McLean",
+        "Main Card: Daniel Lerwell vs. Stuart Maddox"
       ]
     }
   }

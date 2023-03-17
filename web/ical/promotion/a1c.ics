@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230303T152921Z
-X-KAMPFKALENDER-HASH:bc8ea4cd3662452963edf55409257dc8527bde7e
+DTSTAMP:20230317T211325Z
+X-KAMPFKALENDER-HASH:10c6518837853c19a344ab8c1a6158c6ebc88670
 BEGIN:VEVENT
-DTSTAMP:20230303T152922Z
+DTSTAMP:20230317T211325Z
 UID:2023-03-urijah-faber-s-a1-combat-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Urijah Faber's A1 Combat 9
@@ -15,13 +15,40 @@ DTSTART:20230319T020000Z
 DTEND:20230319T050000Z
 CATEGORIES:A1C,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/98284-urijah-faber-s-a1-combat-9\n\n---\n\nMain Card: Eimar 
- Hernandez (4-0-0) vs. Gilbert Nakatani (4-0-0)\nMain Card: Kody Vogels (
- 3-0-0) vs. Chris Pena (3-3-0)\nMain Card: Eugene Correa (4-2-0) vs. Owen
-  Craugh (2-0-0)\nMain Card: Payton Talbott (4-0-0) vs. Cristhian Rivas (
- 8-1-1)\nMain Card: Eddie Bernal (1-0-0) vs. Billy Brand (2-1-0)\nMain Ca
- rd: Teruto Ishihara (12-10-3) vs. Willie Gates (12-12-0)\nMain Card: Ste
- ve Mora (1-1-0) vs. Nick Patea (2-2-0)\nPrelim: Carlos Elizarraraz (0-2-
- 1) vs. Christopher Cruz (1-0-1)
+ nter/events/98284-urijah-faber-s-a1-combat-9\nhttp://www.sherdog.com/eve
+ nts/urijah-fabers-a1-combat-9-long-beach-95957\nhttps://events.mixedmart
+ ialarts.com/urijah-faber-s-a1-combat-9:03f606a2-2607-4f3e-bfd0-d9cb6d0d9
+ a40\n\n---\n\nMain Card: Eimar Hernandez (4-0-0) vs. Gilbert Nakatani (4
+ -0-0)\nMain Card: Kody Vogels (3-0-0) vs. Chris Pena (3-3-0)\nMain Card:
+  Eugene Correa (4-2-0) vs. Owen Craugh (2-0-0)\nMain Card: Payton Talbot
+ t (4-0-0) vs. Cristhian Rivas (8-1-1)\nMain Card: Eddie Bernal (1-0-0) v
+ s. Billy Brand (2-1-0)\nMain Card: Teruto Ishihara (12-10-3) vs. Willie 
+ Gates (12-12-0)\nMain Card: Steve Mora (1-1-0) vs. Nick Patea (2-2-0)\nP
+ relim: Carlos Elizarraraz (0-2-1) vs. Christopher Cruz (1-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230317T211325Z
+UID:2023-04-urijah-faber-s-a1-combat-10-sanchez-vs-jenkins@kampfkalender.
+ de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 10: Sanchez vs. Jenkins
+DTSTART:20230429T010000Z
+DTEND:20230429T040000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99263-urijah-faber-s-a1-combat-10-tachi-palace-sanchez-vs-je
+ nkins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230317T211325Z
+UID:2023-05-urijah-faber-s-a1-combat-11-alvarez-vs-wallace@kampfkalender.
+ de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 11: Alvarez vs. Wallace
+DTSTART:20230528T010000Z
+DTEND:20230528T040000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99264-urijah-faber-s-a1-combat-11-alvarez-vs-wallace
 END:VEVENT
 END:VCALENDAR

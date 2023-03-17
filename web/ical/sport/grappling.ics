@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230311T230304Z
-X-KAMPFKALENDER-HASH:a33408405768e94965256bfe6da9862bdf2b4d3b
+DTSTAMP:20230317T211325Z
+X-KAMPFKALENDER-HASH:fac8482b9d790f8e2fdefc13d1e6f4ab4680b31c
 BEGIN:VEVENT
-DTSTAMP:20230311T230305Z
+DTSTAMP:20230317T211326Z
 UID:2023-03-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230311olympix-gr
  appling-no-126
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230311T230305Z
+DTSTAMP:20230317T211326Z
 UID:2023-03-polaris-23-weidman-vs-livesey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris 23: Weidman vs. Livesey
@@ -28,18 +28,28 @@ CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230311T230305Z
+DTSTAMP:20230317T211326Z
 UID:2023-03-medusa-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Medusa 4
-DTSTART:20230326T000000Z
-DTEND:20230326T030000Z
+DTSTART:20230326T020000Z
+DTEND:20230326T050000Z
 CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/97314-medusa-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230311T230305Z
+DTSTAMP:20230317T211326Z
+UID:2023-03-cjjw-2023-the-welterweights@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CJJW 2023: The Welterweights
+DTSTART:20230327T000000Z
+DTEND:20230327T030000Z
+CATEGORIES:EBI,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230317T211326Z
 UID:2023-04-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -50,7 +60,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230415-olympix-g
  rappling-no-129
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230311T230305Z
+DTSTAMP:20230317T211326Z
 UID:2023-05-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -61,7 +71,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230513-olympix-g
  rappling-no-131
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230311T230305Z
+DTSTAMP:20230317T211326Z
 UID:2023-06-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling

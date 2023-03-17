@@ -1,5 +1,28 @@
 [
   {
+    "id": "nfc-2023-03-24",
+    "promotion": "NFC_DE",
+    "promo": true,
+    "tags": [
+      "#Dortmund",
+      "#NFC13"
+    ],
+    "links": [
+      "https://fighting.de/nfc-13/"
+    ],
+    "mainCard": {
+      "title": "NFC 13: Face-Offs",
+      "time": "2023-03-24T17:00:00Z",
+      "until": "2023-03-24T17:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=oZ4gdHFlkg4",
+          "free": true
+        }
+      }
+    }
+  },
+  {
     "id": "nfc-2023-03-25",
     "promotion": "NFC_DE",
     "sports": [
@@ -21,6 +44,7 @@
           "free": true
         },
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=QLrUAkEuheQ"
         }
       }
     },
@@ -29,6 +53,7 @@
       "time": "2023-03-25T19:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=QLrUAkEuheQ"
         }
       }
     },
@@ -37,6 +62,7 @@
       "time": "2023-03-25T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=SK1F-zBy918",
           "free": true
         }
       }
@@ -61,7 +87,9 @@
         "Main Card: Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)",
         "Main Card: Murat Tüysüz (2-0-0) vs. Sali Azam (4-2-0)",
         "Main Card: Deni Mirnić (2-2-0) vs. Mraz Avdoyan (3-1-0)",
-        "Main Card: Alperen Bulut (0-1-0) vs. Zenel Krasniqi (0-1-0)"
+        "Main Card: Alperen Bulut (0-1-0) vs. Zenel Krasniqi (0-1-0)",
+        "Main Card: Hugo Vach (3-0-0) vs. Miljan Zdravkovic (4-0-0)",
+        "Main Card: David Balevski (0-0-0) vs. Jim Toma (0-0-0)"
       ]
     }
   },

@@ -25,7 +25,7 @@
     },
     "tapology": {
       "id": 97534,
-      "time": "2023-03-18T18:00:00Z",
+      "time": "2023-03-18T17:30:00Z",
       "title": "NextGen Newcastle",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/97534-nextgen-newcastle",
@@ -33,14 +33,15 @@
         "BOXING"
       ],
       "card": [
-        "Main Card: Cyrus Pattinson (5-0-0) vs. Chris Jenkins (23-6-3)",
+        "Main Event: Cyrus Pattinson (5-0-0) vs. Chris Jenkins (23-6-3)",
         "Main Card: Solomon Dacres (5-0-0) vs. Robert Ismay (11-0-0)",
         "Main Card: Hopey Price (9-0-0) vs. Thomas Masson (20-5-1)",
         "Main Card: Pat McCormack (0-0-0) vs. Dario Socci (14-7-2)",
         "Main Card: Mark Dickinson (0-0-0) vs. Ben Ridings (5-3-0)",
         "Main Card: Calum French (0-0-0) vs. Jordan Ellison (14-42-3)",
         "Main Card: Maisey Rose Courtney (0-0-0) vs. Buchra El Quaissi (2-4-3)",
-        "Main Card: Adam Reichard (0-0-0) vs. Jahfibus Faure (1-10-1)"
+        "Main Card: Adam Reichard (0-0-0) vs. Jahfibus Faure (1-11-1)",
+        "Main Card: Muhammad Ali (0-0-0) vs. Sean Jackson (0-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/868489"
@@ -83,7 +84,8 @@
       "card": [
         "Main Event: Anthony Joshua (24-3-0) vs. Jermaine Franklin (21-1-0)",
         "Main Card: Matteo Signani (32-6-3) vs. Felix Cash (16-0-0)",
-        "Main Card: Craig Richards (17-3-1) vs. Ricards Bolotniks (19-6-1)"
+        "Main Card: Craig Richards (17-3-1) vs. Ricards Bolotniks (19-6-1)",
+        "Prelim: Peter Kadiru (14-1-0) vs. Hueseyin Akdemir (12-3-0)"
       ]
     }
   },
@@ -116,7 +118,8 @@
         "Main Card: Ray Ford (13-0-1) vs. Jessie Magdaleno (29-1-0)",
         "Main Card: Thomas Mattice (20-3-1) vs. Ramiro Cesena (16-0-1)",
         "Main Card: Galal Yafai (0-0-0) vs. Moises Calleros (34-10-1)",
-        "Main Card: Khalil Coe (4-0-1) vs. Aaron Casper (7-4-2)"
+        "Main Card: Khalil Coe (4-0-1) vs. Aaron Casper (7-4-2)",
+        "Main Card: Marc Castro (9-0-0) vs. Ricardo Lopez (14-6-3)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/868492"
@@ -151,7 +154,8 @@
         "Main Card: Gavin Gwynne (15-2-1) vs. Craig Woodruff (12-6-1)",
         "Main Card: Jordan Thompson (14-0-0) vs. Luke Watkins (16-2-0)",
         "Main Card: Zelfa Barrett (28-2-0) vs. Alex Dilmaghani (21-2-1)",
-        "Main Card: Sandy Ryan (5-1-0) vs. Marie-Pier Houle (8-0-1)"
+        "Main Card: Sandy Ryan (5-1-0) vs. Marie-Pier Houle (8-0-1)",
+        "Prelim: Miles Gordon Darby (3-0-0) vs. Phil Williams (5-41-1)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/868494"
@@ -176,14 +180,8 @@
       "id": 98517,
       "time": "2023-04-29T18:00:00Z",
       "title": "Harper vs. Braekhus",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/98517-harper-vs-braekhus",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Card: Terri Harper (13-1-1) vs. Cecilia Braekhus (37-2-0)"
-      ]
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/98517-harper-vs-braekhus"
     }
   },
   {
@@ -208,6 +206,39 @@
       "url": "https://www.tapology.com/fightcenter/events/98165-taylor-serrano-2",
       "links": [
         "http://www.boxrec.com/en/event/868405"
+      ]
+    }
+  },
+  {
+    "id": "tapology-99223",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Taylor vs. Cameron",
+      "time": "2023-05-20T19:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 99223,
+      "time": "2023-05-20T19:00:00Z",
+      "title": "Taylor vs. Cameron",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/99223-taylor-vs-cameron",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)",
+        "Main Card: Dennis Hogan (31-4-1) vs. James Metcalf (24-2-0)",
+        "Main Card: Terri Harper (13-1-1) vs. Cecilia Braekhus (37-2-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/870571"
       ]
     }
   }
