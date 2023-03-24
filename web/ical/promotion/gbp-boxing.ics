@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230317T211325Z
-X-KAMPFKALENDER-HASH:50f8341b90eca83fb6921a81f018bc54f60d6856
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:093b763a11aab71c027c9143d9e40eb691b1d1c7
 BEGIN:VEVENT
-DTSTAMP:20230317T211325Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-ramirez-vs-rosado@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ramirez vs. Rosado
@@ -23,5 +23,34 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  . Bryan Perez (12-15-1)\nMain Card: Patricio Manuel (1-0-0) vs. Hien Huy
  nh (0-0-0)\nMain Card: Dalis Kaleiopu (3-0-0) vs. Jonathan Perez (40-33-
  0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-03-zepeda-vs-goyat@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zepeda vs. Goyat
+DTSTART:20230325T230000Z
+DTEND:20230326T020000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/99411-golden-boy-fight-night\nhttp://www.boxrec.com/en/event/870576\n\
+ n---\n\nMain Event: Jose Zepeda (36-3-0) vs. Neeraj Goyat (19-3-2)\nMain
+  Card: Aaron Silva (11-0-0) vs. Jaime Hernandez (9-8-0)\nMain Card: Migu
+ el Angel Torres (12-1-0) vs. Kevin Montiel (7-2-2)\nMain Card: Diego Tor
+ res (15-0-0) vs. Jonathan Escobedo (11-4-1)\nMain Card: Rashib Martinez 
+ (17-2-1) vs. Bralton Munoz (3-6-0)\nMain Card: Irving Turrubiartes (24-0
+ -1) vs. Benito Garcia (14-6-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-04-acosta-vs-cordova@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Acosta vs. Cordova
+DTSTART:20230407T010000Z
+DTEND:20230407T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/99211-golden-boy-fight-night\n\n---\n\nMain Event: Angel Acosta (23-3-
+ 0) vs. Angelino Cordova (17-0-1)
 END:VEVENT
 END:VCALENDAR

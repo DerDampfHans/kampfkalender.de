@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230318T230305Z
-X-KAMPFKALENDER-HASH:fdf91bcd16a7b4355431b7ee1bcc9192321a7ba8
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:64f3e4b0f7daf1e105eddbbe120a47fe732f35f4
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-kok-world-series-vilnius@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK World Series: Vilnius
@@ -17,7 +17,7 @@ CATEGORIES:KOK,Kickboxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-big-game-5-finest-mma-kickboxing-gala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Big Game 5: Finest MMA & Kickboxing Gala
@@ -31,18 +31,30 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Y7QujFIbgRw\nvia
  deh (1-2-0) vs. Hristian Konradi (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
+UID:2023-03-olympix-k1-boxen-mma-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA: Prelims
+DTSTART:20230325T160000Z
+DTEND:20230325T180000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,YouTube,gmc.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nKXSgZeZNEo\nvia
+  gmc.tv: https://www.german-mma.de/events/230325-olympix-mma-k1-boxen-no
+ -127
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
 UID:2023-03-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
-DTSTART:20230325T160000Z
-DTEND:20230325T190000Z
+DTSTART:20230325T180000Z
+DTEND:20230325T210000Z
 CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230325-olympix-m
  ma-k1-boxen-no-127
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-trinity-kings-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Trinity Kings 12
@@ -51,21 +63,22 @@ DTEND:20230326T063000Z
 CATEGORIES:TSC,MMA,Kickboxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trinity-kings-12/2pcnk
  /\n\n---\n\nhttps://www.tapology.com/fightcenter/events/97536-trinity-ki
- ngs-12\n\n---\n\nMain Event: Chris Cisneros (18-12-0) vs. Sergio Quinone
- s (14-24-0)\nCo-Main Event: Horlando Monteiro (0-0-0) vs. Chase Emener (
- 1-0-0)\nMain Card: Sydney Smith (0-0-0) vs. Sarah Keener (0-0-0)\nMain C
- ard: Greyson Lee (0-0-0) vs. Gerardo Alvarado (0-0-0)\nMain Card: Kaeoli
- ko Burley (1-0-0) vs. Ryan Sutter (0-0-0)\nMain Card: CJ Kahepuu (2-2-0)
-  vs. Elias Goley (0-0-0)\nMain Card: Jordan Sellers (0-1-0) vs. Karl Ste
- phany (0-0-0)\nMain Card: Licia Scanlan vs. Ebony Ayers\nMain Card: Tayl
- or Wong (1-0-0) vs. Davion Blount (0-0-0)\nMain Card: Ross Wu (0-1-0) vs
- . Eddie Cardenas (0-0-0)\nMain Card: Keikilani Hussey vs. Shania Caspino
- \nMain Card: Thor Soder vs. Tayden Sua\nMain Card: Alika Alip vs. Elijah
-  Sugata\nMain Card: Justin Aquino (0-2-0) vs. Josiah Pires (0-0-0)\nMain
-  Card: Cole Heanu (1-2-0) vs. Marjim Valerie (0-0-0)
+ ngs-12\nhttp://www.sherdog.com/events/trinity-sport-combat-trinity-kings
+ -12-96820\n\n---\n\nMain Event: Chris Cisneros (18-12-0) vs. Sergio Quin
+ ones (14-24-0)\nCo-Main Event: Horlando Monteiro (0-0-0) vs. Chase Emene
+ r (1-0-0)\nMain Card: Sydney Smith (0-0-0) vs. Sarah Keener (0-0-0)\nMai
+ n Card: Greyson Lee (0-0-0) vs. Gerardo Alvarado (0-0-0)\nMain Card: Kae
+ oliko Burley (1-0-0) vs. Ryan Sutter (0-0-0)\nMain Card: CJ Kahepuu (2-2
+ -0) vs. Elias Goley (0-0-0)\nMain Card: Jordan Sellers (0-1-0) vs. Karl 
+ Stephany (0-0-0)\nMain Card: Licia Scanlan vs. Ebony Ayers\nMain Card: T
+ aylor Wong (1-0-0) vs. Davion Blount (0-0-0)\nMain Card: Ross Wu (0-1-0)
+  vs. Eddie Cardenas (0-0-0)\nMain Card: Keikilani Hussey vs. Shania Casp
+ ino\nMain Card: Thor Soder vs. Tayden Sua\nMain Card: Alika Alip vs. Eli
+ jah Sugata\nMain Card: Justin Aquino (0-2-0) vs. Josiah Pires (0-0-0)\nM
+ ain Card: Cole Heanu (1-2-0) vs. Marjim Valerie (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -76,7 +89,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230401-olympix-m
  agdeburg-mma-k1-boxen-no-128
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -85,10 +98,13 @@ DTEND:20230422T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96959-one-on-prime-video-9\n\n---\n\nMain Event: Nong-O Gaiyanghada
- o vs. Jonathan Haggerty
+ o vs. Jonathan Haggerty\nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba 
+ Minowa (13-3-0)\nMain Card: Denice Zamboanga (9-2-0) vs. Julie Mezabarba
+  (9-4-1)\nMain Card: Ferrari Fairtex vs. Felipe Lobo\nMain Card: Jhanlo 
+ Mark Sangiao (5-0-0) vs. Matias Farinelli (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -99,7 +115,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
  ma-k1-boxen-no-130
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-oktagon-43-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 43: Kincl vs. Vemola 2
@@ -111,10 +127,12 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  . Karlos Vémola (33-6-0)\nMain Card: Robert Pukač (16-10-1) vs. Miroslav
   Brož (15-3-1)\nMain Card: David Kozma (31-12-0) vs. Alex Lohoré (23-8-0
  )\nMain Card: Louis Glismann (10-2-0) vs. Melvin van Suijdam (14-5-0)\nM
- ain Card: Mateusz Legierski (8-1-0) vs. Matěj Kuzník (18-7-0)
+ ain Card: Mateusz Legierski (8-1-0) vs. Matěj Kuzník (18-7-0)\nMain Card
+ : Robert Bryczek (15-5-0) vs. Lee Chadwick (28-17-1)\nMain Card: Jakub T
+ ichota (5-1-0) vs. Ahmed Vila (10-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -125,7 +143,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
  ma-k1-boxen-no-132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -136,7 +154,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
  ma-k1-boxen-no-134
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-06-oktagon-44@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44
@@ -149,7 +167,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
   vs. Christian Jungwirth (14-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON

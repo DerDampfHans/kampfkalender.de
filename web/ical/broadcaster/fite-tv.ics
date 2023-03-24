@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230318T230305Z
-X-KAMPFKALENDER-HASH:b762da6ee5e8a307aaaef8b8c5b70b6b6d7ed18e
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:5f475dcd98e4e4603ed001b4526ab5e1ebc2ea89
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-bkfc-fight-night-buakaw-vs-saenchai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Fight Night: Buakaw vs. Saenchai
@@ -18,7 +18,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/94482-bkfc-fight-night-buakaw-vs-saenchai
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
@@ -41,7 +41,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-great-falls-vs-eve
  Main Card: Jay Kruljac (0-0-0) vs. Joe Brings Plenty (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-bkfc-37-tierney-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 37: Tierney vs. Lindsey
@@ -60,7 +60,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Prelim: George Thorpe vs. Jamie Hendry
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-bkfc-39-barnett-jr-vs-cedermalm@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 39: Barnett Jr. vs. Cedermalm
@@ -71,15 +71,35 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/97261-bkfc-fight-night-norfolk\nhttps://events.mixedmartialarts.com
  /bkfc-39:138d7b96-1777-44dd-b5da-0691ec20c8d4\n\n---\n\nMain Event: Regi
  nald Barnett\, Jr. vs. Frank Alvarez\nCo-Main Event: Britain Hart vs. Je
- nny Clausius\nMain Card: Dustin Pague vs. James Dennis\nMain Card: Ka'Si
- m Ruffin vs. Trai Santos\nMain Card: Will Worley vs. Dimitri Angelini\nM
- ain Card: Brian Maxwell vs. Dan Bunyan\nMain Card: Stanislav Grosu vs. Q
- uartus Stitt\nMain Card: David Simpson vs. Jay Jackson\nPrelim: Zachary 
- Calmus vs. Mikey Furnier\nPrelim: Kyle Wright vs. Pat Casey\nPrelim: Cod
- y Vidal vs. Idrees Wasi
+ nny Clausius\nMain Card: Dustin Pague vs. James Dennis\nMain Card: Will 
+ Worley vs. Dimitri Angelini\nMain Card: David Simpson vs. Jay Jackson\nM
+ ain Card: Ka'Sim Ruffin vs. Trai Santos\nMain Card: Stanislav Grosu vs. 
+ Quartus Stitt\nMain Card: Kyle Wright vs. Pat Casey\nPrelim: Cody Jenkin
+ s vs. Anthony Foye\nPrelim: Zachary Calmus vs. Mikey Furnier\nPrelim: Br
+ ian Maxwell vs. Dan Bunyan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
+UID:2023-03-benavidez-vs-plant@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Benavidez vs. Plant
+DTSTART:20230326T010000Z
+DTEND:20230326T040000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/benavidez-vs-plant/2pc
+ ri/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/97520-benavide
+ z-vs-plant\nhttp://www.boxrec.com/en/event/869031\n\n---\n\nMain Event: 
+ David Benavidez (26-0-0) vs. Caleb Plant (22-1-0)\nCo-Main Event: Cody C
+ rowley (21-0-0) vs. Abel Ramos (27-5-2)\nMain Card: Chris Colbert (16-1-
+ 0) vs. Jose Valenzuela (12-1-0)\nMain Card: Joey Spencer (16-0-0) vs. Je
+ sus Ramos (19-0-0)\nPrelim: Kevin Gonzalez (24-0-1) vs. Jose Sanmartin (
+ 34-6-1)\nPrelim: Marcelino Lopez (37-2-1) vs. Orestes Velazquez (6-0-0)\
+ nPrelim: Demler Zamora (10-0-0) vs. Jesus Ibarra (15-0-0)\nPrelim: Rober
+ t Meriweather (0-0-0) vs. Jesus Perez (15-15-1)\nPrelim: Daniel Blancas 
+ (0-0-0) vs. Nicholas Molina (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
 UID:2023-03-trinity-kings-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Trinity Kings 12
@@ -88,39 +108,41 @@ DTEND:20230326T063000Z
 CATEGORIES:TSC,MMA,Kickboxen,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/trinity-kings-12/2pcnk
  /\n\n---\n\nhttps://www.tapology.com/fightcenter/events/97536-trinity-ki
- ngs-12\n\n---\n\nMain Event: Chris Cisneros (18-12-0) vs. Sergio Quinone
- s (14-24-0)\nCo-Main Event: Horlando Monteiro (0-0-0) vs. Chase Emener (
- 1-0-0)\nMain Card: Sydney Smith (0-0-0) vs. Sarah Keener (0-0-0)\nMain C
- ard: Greyson Lee (0-0-0) vs. Gerardo Alvarado (0-0-0)\nMain Card: Kaeoli
- ko Burley (1-0-0) vs. Ryan Sutter (0-0-0)\nMain Card: CJ Kahepuu (2-2-0)
-  vs. Elias Goley (0-0-0)\nMain Card: Jordan Sellers (0-1-0) vs. Karl Ste
- phany (0-0-0)\nMain Card: Licia Scanlan vs. Ebony Ayers\nMain Card: Tayl
- or Wong (1-0-0) vs. Davion Blount (0-0-0)\nMain Card: Ross Wu (0-1-0) vs
- . Eddie Cardenas (0-0-0)\nMain Card: Keikilani Hussey vs. Shania Caspino
- \nMain Card: Thor Soder vs. Tayden Sua\nMain Card: Alika Alip vs. Elijah
-  Sugata\nMain Card: Justin Aquino (0-2-0) vs. Josiah Pires (0-0-0)\nMain
-  Card: Cole Heanu (1-2-0) vs. Marjim Valerie (0-0-0)
+ ngs-12\nhttp://www.sherdog.com/events/trinity-sport-combat-trinity-kings
+ -12-96820\n\n---\n\nMain Event: Chris Cisneros (18-12-0) vs. Sergio Quin
+ ones (14-24-0)\nCo-Main Event: Horlando Monteiro (0-0-0) vs. Chase Emene
+ r (1-0-0)\nMain Card: Sydney Smith (0-0-0) vs. Sarah Keener (0-0-0)\nMai
+ n Card: Greyson Lee (0-0-0) vs. Gerardo Alvarado (0-0-0)\nMain Card: Kae
+ oliko Burley (1-0-0) vs. Ryan Sutter (0-0-0)\nMain Card: CJ Kahepuu (2-2
+ -0) vs. Elias Goley (0-0-0)\nMain Card: Jordan Sellers (0-1-0) vs. Karl 
+ Stephany (0-0-0)\nMain Card: Licia Scanlan vs. Ebony Ayers\nMain Card: T
+ aylor Wong (1-0-0) vs. Davion Blount (0-0-0)\nMain Card: Ross Wu (0-1-0)
+  vs. Eddie Cardenas (0-0-0)\nMain Card: Keikilani Hussey vs. Shania Casp
+ ino\nMain Card: Thor Soder vs. Tayden Sua\nMain Card: Alika Alip vs. Eli
+ jah Sugata\nMain Card: Justin Aquino (0-2-0) vs. Josiah Pires (0-0-0)\nM
+ ain Card: Cole Heanu (1-2-0) vs. Marjim Valerie (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
-UID:2023-03-bkb-31@kampfkalender.de
+DTSTAMP:20230324T083014Z
+UID:2023-03-bkb-31-connelly-vs-churcher@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKB 31
-DTSTART:20230326T180000Z
-DTEND:20230326T210000Z
+SUMMARY:BKB 31: Connelly vs. Churcher
+DTSTART:20230326T160000Z
+DTEND:20230326T190000Z
 CATEGORIES:BKB,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkb-31/2pcre/\n\n---\n
- \nhttps://www.tapology.com/fightcenter/events/97331-bkb-31\n\n---\n\nMai
- n Event: James Connelly vs. Marley Churcher\nCo-Main Event: Paul Hilz vs
- . Nathan Leeson\nMain Card: Ryan Barrett vs. Brad Scott\nMain Card: Nath
- an Decastro vs. Alan Arzeno\nMain Card: Dan Chapman vs. Tito Martins\nMa
- in Card: Smudger Smith vs. Liam Rees\nMain Card: Callan Harley vs. Johnn
- y Jones\nMain Card: Jonny Lawson vs. Martin Reffell\nMain Card: Harvey D
- ossett vs. Danny Fletcher\nMain Card: George Hillyard vs. Jack McLean\nM
- ain Card: Daniel Lerwell vs. Stuart Maddox
+ \nhttps://www.tapology.com/fightcenter/events/97331-bkb-31\nhttps://even
+ ts.mixedmartialarts.com/bkb-31:a888ce0a-c044-489e-97df-2173a744b5b3\n\n-
+ --\n\nMain Event: James Connelly vs. Marley Churcher\nCo-Main Event: Pau
+ l Hilz vs. Nathan Leeson\nMain Card: Ryan Barrett vs. Brad Scott\nMain C
+ ard: Nathan Decastro vs. Alan Arzeno\nMain Card: Dan Chapman vs. Tito Ma
+ rtins\nMain Card: Smudger Smith vs. Liam Rees\nMain Card: Callan Harley 
+ vs. Johnny Jones\nMain Card: Jonny Lawson vs. Martin Reffell\nMain Card:
+  Harvey Dossett vs. Danny Fletcher\nMain Card: George Hillyard vs. Jack 
+ McLean\nMain Card: Daniel Lerwell vs. Stuart Maddox
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-bkfc-38-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38: Prelims
@@ -133,7 +155,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-38-prelims/2pcpz/
  9746cf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-bkfc-38@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38
@@ -146,7 +168,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-nguyen-vs-straus/
  37456b9746cf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-bkfc-40-brito-vs-cox@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 40: Brito vs. Cox
@@ -158,19 +180,39 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  s. Jamie Cox\nCo-Main Event: Anthony Holmes vs. Danny Christie
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
-UID:2023-04-aka-29@kampfkalender.de
+DTSTAMP:20230324T083014Z
+UID:2023-04-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:AKA 29
-DTSTART:20230429T010000Z
-DTEND:20230429T040000Z
-CATEGORIES:AKA,MMA,fite.tv,live
+SUMMARY:Fusion Fight League
+DTSTART:20230423T010000Z
+DTEND:20230423T040000Z
+CATEGORIES:FFL,MMA,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/97711-aka-29\n\n---\n\nMain Card: Don Doyle (4-0-0) vs. Michael Man
- no (2-1-0)
+ ents/99587-fusion-fight-league\nhttps://events.mixedmartialarts.com/fusi
+ on-fight-league:a53ff16f-482b-4ef4-b563-cc89d3fe14e0\n\n---\n\nMain Even
+ t: Gage Saunders (11-5-0) vs. Michael Garcia (6-3-0)\nMain Card: Erik Te
+ er (0-2-0) vs. JorDan Christensen (0-3-0)\nMain Card: Brandon Brisbo (1-
+ 0-0) vs. Cameron Williamson (0-1-0)\nMain Card: Christian Wallace (3-1-0
+ ) vs. Kieran Hernandez (0-1-0)\nMain Card: Cormac O'Hagan (1-0-0) vs. Br
+ ady Meister (2-3-0)\nMain Card: Colton Rue-Zindeel (2-0-0) vs. Aspen Nay
+ lor (1-0-0)\nMain Card: Justin Harbison (1-0-0) vs. Kody Papasan (0-0-0)
+ \nMain Card: Hudson Kettengring (2-1-0) vs. Artis Lyles (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
+UID:2023-04-aka-28-doyle-vs-manno@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 28: Doyle vs. Manno
+DTSTART:20230429T000000Z
+DTEND:20230429T030000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-28/2pctd/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/97711-aka-29\n\n---\n\nMai
+ n Card: Don Doyle (4-0-0) vs. Michael Manno (2-1-0)\nMain Card: Michael 
+ Sullivan (4-1-0) vs. Coby Bradford (5-8-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
 UID:2023-04-bkfc-41-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 41: Prelims
@@ -178,12 +220,15 @@ DTSTART:20230430T010000Z
 DTEND:20230430T020000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41-prelims/2pcr5/
- \n\n---\n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\n\n---
- \n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: Eddie Alvar
- ez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Ferea
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\nhttps
+ ://events.mixedmartialarts.com/bkfc-41:66495f38-b5b2-4d77-a39f-68f077f2a
+ 5f5\n\n---\n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: E
+ ddie Alvarez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Fere
+ a\nMain Card: Ben Rothwell vs. Josh Watson\nMain Card: Steve Herelius vs
+ . Josh Copeland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-bkfc-41-perry-vs-rockhold@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 41: Perry vs. Rockhold
@@ -191,12 +236,15 @@ DTSTART:20230430T020000Z
 DTEND:20230430T050000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41/2pcr4/\n\n---\
- n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\n\n---\n\nMain
-  Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: Eddie Alvarez vs. C
- had Mendes\nMain Card: Bec Rawlings vs. Christine Ferea
+ n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\nhttps://event
+ s.mixedmartialarts.com/bkfc-41:66495f38-b5b2-4d77-a39f-68f077f2a5f5\n\n-
+ --\n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: Eddie Alv
+ arez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Ferea\nMain 
+ Card: Ben Rothwell vs. Josh Watson\nMain Card: Steve Herelius vs. Josh C
+ opeland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-bkfc-42-soto-vs-goodjohn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 42: Soto vs. Goodjohn
@@ -204,7 +252,23 @@ DTSTART:20230513T010000Z
 DTEND:20230513T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/99434-bkfc-42-soto-vs-goodjohn\n\n---\n\nMain Event: Tony Soto vs. 
- Tyler Goodjohn
+ ents/99434-bkfc-42-soto-vs-goodjohn\nhttps://events.mixedmartialarts.com
+ /bkfc-42:ce6b1243-c477-4f8d-afd2-370216f3e691\n\n---\n\nMain Event: Tony
+  Soto vs. Tyler Goodjohn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-05-bkfc-43-alexander-vs-smith@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 43: Alexander vs. Smith
+DTSTART:20230520T010000Z
+DTEND:20230520T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/99663-bkfc-43-alexander-vs-smith\n\n---\n\nMain Event: Houston Alex
+ ander vs. Jeremy Smith\nMain Card: Sean Wilson vs. Brandon Meyer\nMain C
+ ard: Ryan Braun vs. Andrew Potter\nMain Card: Alonzo Martinez vs. Joey M
+ unoz\nMain Card: Tommy Strydom vs. Josh Krejci\nPrelim: TJ Benson vs. Co
+ rey Roberts
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230317T211325Z
-X-KAMPFKALENDER-HASH:433f4c59042cd0572fcf4791121e92b660170a41
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:9ddbe7ef6f50533b64e3914ca9221abed44294f1
 BEGIN:VEVENT
-DTSTAMP:20230317T211325Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-eternal-mma-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 74
@@ -29,5 +29,31 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Cole Smith (0-0-0) vs. Brutus Pendergast (0-0-0)\nPrelim: Jimi Edwards 
  (0-0-0) vs. Ellis Brown (1-0-0)\nPrelim: Jesse Murray (3-2-0) vs. Ashton
   Johnston (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-05-eternal-mma-75@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 75
+DTSTART:20230506T080000Z
+DTEND:20230506T110000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99483-eternal-mma-75\n\n---\n\nMain Card: Lachlan Stitt (2-0
+ -0) vs. Peter Templer (1-2-0)\nMain Card: Coby Porter (1-2-0) vs. Niam S
+ tephen (3-2-0)\nMain Card: Diego Pereira (8-7-0) vs. Jesse Medina (16-11
+ -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-06-eternal-mma-76@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 76
+DTSTART:20230610T080000Z
+DTEND:20230610T110000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99484-eternal-mma-76\n\n---\n\nMain Event: Justin Van Heerde
+ n (11-5-0) vs. Rod Costa (7-4-0)
 END:VEVENT
 END:VCALENDAR

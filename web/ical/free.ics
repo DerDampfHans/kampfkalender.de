@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230323T230304Z
-X-KAMPFKALENDER-HASH:c0c03fe0574dc9409ab8890ae6e896ed20b3571e
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:4b13ba4d5bc8f9c6a9f7399499aef3e7fcd3c735
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-one-friday-fights-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Friday Fights 9
@@ -29,7 +29,27 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  vs. Jaiyi Chen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
+UID:2023-03-one-friday-fights-10@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 10
+DTSTART:20230324T123000Z
+DTEND:20230324T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=t2qZyam_uOQ\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/99639-one-friday-fight
+ s-10\n\n---\n\nMain Card: Yodkritsada Sor Sommai vs. T. Sor Sornsing\nCo
+ -Main Event: Paedsanlek PK.Saenchai vs. P. Lukjaomaesaiwaree\nMain Card:
+  Rak Erawan vs. Chusap Sor.Salacheep\nMain Card: Teeyai PK Saenchai vs. 
+ Manolis Kallistis\nMain Card: Superlek Jitmuangnon vs. Sonrak Fairtex\nM
+ ain Card: T. Petchportoror vs. Tomorrow Elite\nPrelim: C. Tor.Sangtianno
+ i vs. Sherzod Kabutov\nMain Card: YodIQ Or.Pimonsri vs. Samuel Bielen\nM
+ ain Card: Yu Karino (8-2-0) vs. Ivan Parshikov (9-3-0)\nMain Card: Lawre
+ nce Phillips (2-0-0) vs. Akhmed Baguzhaev (1-0-0)\nMain Card: Anton Petr
+ ov vs. Luca Lombardo\nMain Card: P. SitPhuyaiNiran vs. Shingo Shibata
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
 UID:2023-03-nfc-13-face-offs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Face-Offs
@@ -40,7 +60,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=oZ4gdHFlkg4\
  n\n---\n\nhttps://fighting.de/nfc-13/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-one-fight-night-8-superlek-vs-rodtang@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 8: Superlek vs. Rodtang
@@ -49,17 +69,31 @@ DTEND:20230325T020000Z
 CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=SwsCDmW1Pnc\n\n-
  --\n\nhttps://www.tapology.com/fightcenter/events/94525-one-on-prime-vid
- eo-8\n\n---\n\nMain Event: Superlek Kiatmoo9 vs. Rodtang Jitmuangnon\nCo
- -Main Event: A. Rodrigues vs. Janet Todd\nMain Card: Seo Hee Ham (25-8-0
- ) vs. Itsuki Hirata (6-1-0)\nMain Card: Ho Taek Oh (9-2-1) vs. Akbar Abd
- ullaev (8-0-0)\nMain Card: Peimian Zhang vs. Torepchi Dogak\nMain Card: 
- Danial Williams vs. Rui Botelho\nMain Card: Alex Silva (12-8-0) vs. Keit
- o Yamakita (7-0-0)\nPrelim: Niclas Larsen vs. Eddie Abasolo\nPrelim: Eka
- terina Vandaryeva vs. Iman Barlow\nPrelim: Bianca Basilio vs. Tammi Musu
- meci
+ eo-8\nhttp://www.sherdog.com/events/one-championship-one-on-prime-video-
+ 8-superlek-vs-rodtang-95478\nhttps://events.mixedmartialarts.com/one-fig
+ ht-night-8:f73d00f7-9ca1-4e18-b907-2a34c7514e55\n\n---\n\nMain Event: Su
+ perlek Kiatmoo9 vs. Rodtang Jitmuangnon\nCo-Main Event: A. Rodrigues vs.
+  Janet Todd\nMain Card: Seo Hee Ham (25-8-0) vs. Itsuki Hirata (6-1-0)\n
+ Main Card: Ho Taek Oh (9-2-1) vs. Akbar Abdullaev (8-0-0)\nMain Card: Pe
+ imian Zhang vs. Torepchi Dogak\nMain Card: Danial Williams vs. Rui Botel
+ ho\nMain Card: Alex Silva (12-8-0) vs. Keito Yamakita (7-0-0)\nPrelim: N
+ iclas Larsen vs. Eddie Abasolo\nPrelim: Ekaterina Vandaryeva vs. Iman Ba
+ rlow\nPrelim: Bianca Basilio vs. Tammi Musumeci
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
+UID:2023-03-olympix-k1-boxen-mma-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OlympiX K1 / Boxen / MMA: Prelims
+DTSTART:20230325T160000Z
+DTEND:20230325T180000Z
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,YouTube,gmc.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nKXSgZeZNEo\nvia
+  gmc.tv: https://www.german-mma.de/events/230325-olympix-mma-k1-boxen-no
+ -127
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -68,21 +102,23 @@ DTEND:20230325T190000Z
 CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=SK1F-zBy918\
  n\n---\n\nhttps://fighting.de/nfc-13/\nhttps://www.tapology.com/fightcen
- ter/events/94572-nfc-13\n\n---\n\nMain Event: Mert Özyildirim (10-4-0) v
- s. Max Coga (24-8-1)\nMain Card: Max Holzer (5-0-0) vs. Mohammed Walid (
- 6-2-0)\nMain Card: Maurice Adorf (5-1-0) vs. A. Chatzigeorgiadis (2-1-1)
- \nMain Card: Pantelei Taran (6-4-0) vs. Alisher Abdullaev (7-3-0)\nMain 
- Card: Florim Zendeli (6-1-0) vs. Wladimir Holodenko (4-1-1)\nMain Card: 
- Max Heine (4-1-0) vs. Tobias Eylitz (4-1-0)\nMain Card: Abubakar Sabirov
-  (6-1-0) vs. Eduard Kexel (7-1-0)\nMain Card: Julian Pennant (6-2-0) vs.
-  Jonathan Wernz (3-0-0)\nMain Card: Murat Tüysüz (2-0-0) vs. Sali Azam (
- 4-2-0)\nMain Card: Deni Mirnić (2-2-0) vs. Mraz Avdoyan (3-1-0)\nMain Ca
- rd: Alperen Bulut (0-1-0) vs. Zenel Krasniqi (0-1-0)\nMain Card: Hugo Va
- ch (3-0-0) vs. Miljan Zdravkovic (4-0-0)\nMain Card: David Balevski (0-0
- -0) vs. Jim Toma (0-0-0)
+ ter/events/94572-nfc-13\nhttp://www.sherdog.com/events/nfc-13-national-f
+ ighting-championship-96339\n\n---\n\nMain Event: Mert Özyildirim (10-4-0
+ ) vs. Max Coga (24-8-1)\nCo-Main Event: Khalid Taha (13-5-0) vs. Giovann
+ i da Silva (18-4-0)\nMain Card: Florim Zendeli (6-1-0) vs. Wladimir Holo
+ denko (4-1-1)\nMain Card: Maurice Adorf (5-1-0) vs. A. Chatzigeorgiadis 
+ (2-1-1)\nMain Card: Abubakar Sabirov (6-1-0) vs. Eduard Kexel (7-1-0)\nM
+ ain Card: Max Heine (4-1-0) vs. Tobias Eylitz (4-1-0)\nMain Card: Alishe
+ r Abdullaev (7-3-0) vs. Itay Tratner (7-3-1)\nMain Card: Max Holzer (5-0
+ -0) vs. Mohammed Walid (6-2-0)\nMain Card: Murat Tüysüz (2-0-0) vs. Sali
+  Azam (4-2-0)\nMain Card: David Balevski (0-0-0) vs. Jim Toma (0-0-0)\nP
+ relim: Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)\nPrelim: Hugo V
+ ach (3-0-0) vs. Miljan Zdravkovic (4-0-0)\nPrelim: Alperen Bulut (0-1-0)
+  vs. Zenel Krasniqi (0-1-0)\nPrelim: Deni Mirnić (2-2-0) vs. Mraz Avdoya
+ n (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -91,21 +127,43 @@ DTEND:20230325T233000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
  QLrUAkEuheQ\n\n---\n\nhttps://fighting.de/nfc-13/\nhttps://www.tapology.
- com/fightcenter/events/94572-nfc-13\n\n---\n\nMain Event: Mert Özyildiri
- m (10-4-0) vs. Max Coga (24-8-1)\nMain Card: Max Holzer (5-0-0) vs. Moha
- mmed Walid (6-2-0)\nMain Card: Maurice Adorf (5-1-0) vs. A. Chatzigeorgi
- adis (2-1-1)\nMain Card: Pantelei Taran (6-4-0) vs. Alisher Abdullaev (7
- -3-0)\nMain Card: Florim Zendeli (6-1-0) vs. Wladimir Holodenko (4-1-1)\
- nMain Card: Max Heine (4-1-0) vs. Tobias Eylitz (4-1-0)\nMain Card: Abub
- akar Sabirov (6-1-0) vs. Eduard Kexel (7-1-0)\nMain Card: Julian Pennant
-  (6-2-0) vs. Jonathan Wernz (3-0-0)\nMain Card: Murat Tüysüz (2-0-0) vs.
-  Sali Azam (4-2-0)\nMain Card: Deni Mirnić (2-2-0) vs. Mraz Avdoyan (3-1
- -0)\nMain Card: Alperen Bulut (0-1-0) vs. Zenel Krasniqi (0-1-0)\nMain C
- ard: Hugo Vach (3-0-0) vs. Miljan Zdravkovic (4-0-0)\nMain Card: David B
- alevski (0-0-0) vs. Jim Toma (0-0-0)
+ com/fightcenter/events/94572-nfc-13\nhttp://www.sherdog.com/events/nfc-1
+ 3-national-fighting-championship-96339\n\n---\n\nMain Event: Mert Özyild
+ irim (10-4-0) vs. Max Coga (24-8-1)\nCo-Main Event: Khalid Taha (13-5-0)
+  vs. Giovanni da Silva (18-4-0)\nMain Card: Florim Zendeli (6-1-0) vs. W
+ ladimir Holodenko (4-1-1)\nMain Card: Maurice Adorf (5-1-0) vs. A. Chatz
+ igeorgiadis (2-1-1)\nMain Card: Abubakar Sabirov (6-1-0) vs. Eduard Kexe
+ l (7-1-0)\nMain Card: Max Heine (4-1-0) vs. Tobias Eylitz (4-1-0)\nMain 
+ Card: Alisher Abdullaev (7-3-0) vs. Itay Tratner (7-3-1)\nMain Card: Max
+  Holzer (5-0-0) vs. Mohammed Walid (6-2-0)\nMain Card: Murat Tüysüz (2-0
+ -0) vs. Sali Azam (4-2-0)\nMain Card: David Balevski (0-0-0) vs. Jim Tom
+ a (0-0-0)\nPrelim: Julian Pennant (6-2-0) vs. Jonathan Wernz (3-0-0)\nPr
+ elim: Hugo Vach (3-0-0) vs. Miljan Zdravkovic (4-0-0)\nPrelim: Alperen B
+ ulut (0-1-0) vs. Zenel Krasniqi (0-1-0)\nPrelim: Deni Mirnić (2-2-0) vs.
+  Mraz Avdoyan (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
+UID:2023-03-benavidez-vs-plant-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Benavidez vs. Plant: Prelims
+DTSTART:20230325T230000Z
+DTEND:20230326T010000Z
+CATEGORIES:TGB,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=EjzedlPzmJo\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/97520-benavidez-vs-pla
+ nt\nhttp://www.boxrec.com/en/event/869031\n\n---\n\nMain Event: David Be
+ navidez (26-0-0) vs. Caleb Plant (22-1-0)\nCo-Main Event: Cody Crowley (
+ 21-0-0) vs. Abel Ramos (27-5-2)\nMain Card: Chris Colbert (16-1-0) vs. J
+ ose Valenzuela (12-1-0)\nMain Card: Joey Spencer (16-0-0) vs. Jesus Ramo
+ s (19-0-0)\nPrelim: Kevin Gonzalez (24-0-1) vs. Jose Sanmartin (34-6-1)\
+ nPrelim: Marcelino Lopez (37-2-1) vs. Orestes Velazquez (6-0-0)\nPrelim:
+  Demler Zamora (10-0-0) vs. Jesus Ibarra (15-0-0)\nPrelim: Robert Meriwe
+ ather (0-0-0) vs. Jesus Perez (15-15-1)\nPrelim: Daniel Blancas (0-0-0) 
+ vs. Nicholas Molina (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
 UID:2023-04-bkfc-38-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38: Prelims
@@ -118,7 +176,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-38-prelims/2pcpz/
  9746cf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-one-fight-night-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9
@@ -127,10 +185,13 @@ DTEND:20230422T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/96959-one-on-prime-video-9\n\n---\n\nMain Event: Nong-O Gaiyanghada
- o vs. Jonathan Haggerty
+ o vs. Jonathan Haggerty\nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba 
+ Minowa (13-3-0)\nMain Card: Denice Zamboanga (9-2-0) vs. Julie Mezabarba
+  (9-4-1)\nMain Card: Ferrari Fairtex vs. Felipe Lobo\nMain Card: Jhanlo 
+ Mark Sangiao (5-0-0) vs. Matias Farinelli (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-bkfc-41-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 41: Prelims
@@ -138,12 +199,15 @@ DTSTART:20230430T010000Z
 DTEND:20230430T020000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41-prelims/2pcr5/
- \n\n---\n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\n\n---
- \n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: Eddie Alvar
- ez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Ferea
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\nhttps
+ ://events.mixedmartialarts.com/bkfc-41:66495f38-b5b2-4d77-a39f-68f077f2a
+ 5f5\n\n---\n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: E
+ ddie Alvarez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Fere
+ a\nMain Card: Ben Rothwell vs. Josh Watson\nMain Card: Steve Herelius vs
+ . Josh Copeland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-one-fight-night-10-johnson-vs-moraes-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 10: Johnson vs. Moraes 3
@@ -162,7 +226,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rtin\nMain Card: Kairat Akhmetov (29-2-0) vs. Reece McLaren (16-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
@@ -173,7 +237,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
@@ -184,7 +248,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -195,7 +259,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -206,7 +270,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -217,7 +281,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -228,7 +292,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -240,7 +304,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230323T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

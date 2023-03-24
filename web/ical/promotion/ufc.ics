@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230318T230305Z
-X-KAMPFKALENDER-HASH:7451a4ed41231e697c81755bdfafd6f3dab7025e
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:b599a9ff5d5dd0b8de6bbf66caa63005f07cd75e
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-ufc-286-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 286: Early Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Hardy (6-4-1) vs. Juliana Miller (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-ufc-286-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 286: Prelims
@@ -63,7 +63,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Hardy (6-4-1) vs. Juliana Miller (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-ufc-286-edwards-vs-usman-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 286: Edwards vs. Usman 3
@@ -91,7 +91,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  : Veronica Hardy (6-4-1) vs. Juliana Miller (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-ufc-san-antonio-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC San Antonio: Prelims
@@ -99,21 +99,26 @@ DTSTART:20230325T200000Z
 DTEND:20230325T230000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/96078-ufc-fight-night\n\n---\n\nMain Event: Marlon Vera (22-
- 7-1) vs. Cory Sandhagen (15-4-0)\nCo-Main Event: Holly Holm (14-6-0) vs.
-  Yana Santos (14-6-0)\nMain Card: Andrea Lee (13-6-0) vs. Maycee Barber 
- (11-2-0)\nMain Card: Chidi Njokuani (22-8-0) vs. Albert Duraev (15-4-0)\
- nMain Card: Alex Perez (24-7-0) vs. Manel Kape (18-6-0)\nMain Card: Nate
-  Landwehr (16-4-0) vs. Austin Lingo (9-1-0)\nPrelim: CJ Vergara (10-4-1)
-  vs. Daniel da Silva (11-4-0)\nPrelim: Daniel Pineda (27-14-0) vs. Tucke
- r Lutz (12-2-0)\nPrelim: Trevin Giles (15-4-0) vs. Preston Parsons (10-3
- -0)\nPrelim: Steven Peterson (19-10-0) vs. Lucas Alexander (7-3-0)\nPrel
- im: Vinicius Salvador (14-4-0) vs. Victor Altamirano (11-2-0)\nPrelim: M
- anuel Torres (13-2-0) vs. Trey Ogden (16-5-0)\nPrelim: Tamires Vidal (7-
- 1-0) vs. Hailey Cowan (7-2-0)
+ nter/events/96078-ufc-fight-night\nhttp://www.sherdog.com/events/ufc-on-
+ espn-43-vera-vs-sandhagen-95704\nhttp://en.wikipedia.org/wiki/UFC_on_ESP
+ N:_Vera_vs._Sandhagen\nhttps://events.mixedmartialarts.com/ufc-fight-nig
+ ht:79c4feb1-9923-4fcb-a5d5-d009d8afafb6\nhttps://www.ufc.com/event/ufc-f
+ ight-night-march-25-2023\nhttp://www.ufcstats.com/event-details/aec273fc
+ b765330d\nhttps://www.bestfightodds.com/events/ufc-fight-night-222-2724\
+ n\n---\n\nMain Event: Marlon Vera (22-7-1) vs. Cory Sandhagen (15-4-0)\n
+ Co-Main Event: Holly Holm (14-6-0) vs. Yana Santos (14-6-0)\nMain Card: 
+ Nate Landwehr (16-4-0) vs. Austin Lingo (9-1-0)\nMain Card: Andrea Lee (
+ 13-6-0) vs. Maycee Barber (11-2-0)\nMain Card: Alex Perez (24-7-0) vs. M
+ anel Kape (18-6-0)\nMain Card: Chidi Njokuani (22-8-0) vs. Albert Duraev
+  (15-4-0)\nPrelim: Daniel Pineda (27-14-0) vs. Tucker Lutz (12-2-0)\nPre
+ lim: Steven Peterson (19-10-0) vs. Lucas Alexander (7-3-0)\nPrelim: Trev
+ in Giles (15-4-0) vs. Preston Parsons (10-3-0)\nPrelim: CJ Vergara (10-4
+ -1) vs. Daniel da Silva (11-4-0)\nPrelim: Manuel Torres (13-2-0) vs. Tre
+ y Ogden (16-5-0)\nPrelim: Vinicius Salvador (14-4-0) vs. Victor Altamira
+ no (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-ufc-san-antonio-vera-vs-sandhagen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC San Antonio: Vera vs. Sandhagen
@@ -121,21 +126,26 @@ DTSTART:20230325T230000Z
 DTEND:20230326T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/96078-ufc-fight-night\n\n---\n\nMain Event: Marlon
-  Vera (22-7-1) vs. Cory Sandhagen (15-4-0)\nCo-Main Event: Holly Holm (1
- 4-6-0) vs. Yana Santos (14-6-0)\nMain Card: Andrea Lee (13-6-0) vs. Mayc
- ee Barber (11-2-0)\nMain Card: Chidi Njokuani (22-8-0) vs. Albert Duraev
-  (15-4-0)\nMain Card: Alex Perez (24-7-0) vs. Manel Kape (18-6-0)\nMain 
- Card: Nate Landwehr (16-4-0) vs. Austin Lingo (9-1-0)\nPrelim: CJ Vergar
- a (10-4-1) vs. Daniel da Silva (11-4-0)\nPrelim: Daniel Pineda (27-14-0)
-  vs. Tucker Lutz (12-2-0)\nPrelim: Trevin Giles (15-4-0) vs. Preston Par
- sons (10-3-0)\nPrelim: Steven Peterson (19-10-0) vs. Lucas Alexander (7-
- 3-0)\nPrelim: Vinicius Salvador (14-4-0) vs. Victor Altamirano (11-2-0)\
- nPrelim: Manuel Torres (13-2-0) vs. Trey Ogden (16-5-0)\nPrelim: Tamires
-  Vidal (7-1-0) vs. Hailey Cowan (7-2-0)
+ om/fightcenter/events/96078-ufc-fight-night\nhttp://www.sherdog.com/even
+ ts/ufc-on-espn-43-vera-vs-sandhagen-95704\nhttp://en.wikipedia.org/wiki/
+ UFC_on_ESPN:_Vera_vs._Sandhagen\nhttps://events.mixedmartialarts.com/ufc
+ -fight-night:79c4feb1-9923-4fcb-a5d5-d009d8afafb6\nhttps://www.ufc.com/e
+ vent/ufc-fight-night-march-25-2023\nhttp://www.ufcstats.com/event-detail
+ s/aec273fcb765330d\nhttps://www.bestfightodds.com/events/ufc-fight-night
+ -222-2724\n\n---\n\nMain Event: Marlon Vera (22-7-1) vs. Cory Sandhagen 
+ (15-4-0)\nCo-Main Event: Holly Holm (14-6-0) vs. Yana Santos (14-6-0)\nM
+ ain Card: Nate Landwehr (16-4-0) vs. Austin Lingo (9-1-0)\nMain Card: An
+ drea Lee (13-6-0) vs. Maycee Barber (11-2-0)\nMain Card: Alex Perez (24-
+ 7-0) vs. Manel Kape (18-6-0)\nMain Card: Chidi Njokuani (22-8-0) vs. Alb
+ ert Duraev (15-4-0)\nPrelim: Daniel Pineda (27-14-0) vs. Tucker Lutz (12
+ -2-0)\nPrelim: Steven Peterson (19-10-0) vs. Lucas Alexander (7-3-0)\nPr
+ elim: Trevin Giles (15-4-0) vs. Preston Parsons (10-3-0)\nPrelim: CJ Ver
+ gara (10-4-1) vs. Daniel da Silva (11-4-0)\nPrelim: Manuel Torres (13-2-
+ 0) vs. Trey Ogden (16-5-0)\nPrelim: Vinicius Salvador (14-4-0) vs. Victo
+ r Altamirano (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-ufc-287-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 287: Early Prelims
@@ -158,12 +168,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Chris Barnett (23-8-0) vs. Chase Sherman (16-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-ufc-287-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 287: Prelims
 DTSTART:20230409T000000Z
-DTEND:20230409T030000Z
+DTEND:20230409T020000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/96871-ufc-287\n\n---\n\nMain Event: Alex Pereira (7-1-0) vs.
@@ -181,12 +191,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Chris Barnett (23-8-0) vs. Chase Sherman (16-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-ufc-287-pereira-vs-adesanya-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 287: Pereira vs. Adesanya 2
-DTSTART:20230409T030000Z
-DTEND:20230409T060000Z
+DTSTART:20230409T020000Z
+DTEND:20230409T050000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/96871-ufc-287\n\n---\n\nMain Event: Alex Pereira (
@@ -204,35 +214,58 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Chris Barnett (23-8-0) vs. Chase Sherman (16-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
-UID:2023-04-ufc-vegas-72-holloway-vs-allen@kampfkalender.de
+DTSTAMP:20230324T083014Z
+UID:2023-04-ufc-kansas-city-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Vegas 72: Holloway vs. Allen
-DTSTART:20230415T220000Z
-DTEND:20230416T010000Z
+SUMMARY:UFC Kansas City: Prelims
+DTSTART:20230415T213000Z
+DTEND:20230416T003000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97461-ufc-fight-night\n\n---\n\nMain Event: Max Holloway (23
+ -7-0) vs. Arnold Allen (19-1-0)\nCo-Main Event: Ion Cutelaba (16-9-1) vs
+ . Tanner Boser (20-9-1)\nMain Card: TJ Brown (17-9-0) vs. Bill Algeo (16
+ -7-0)\nMain Card: Dustin Jacoby (18-6-1) vs. Azamat Murzakanov (12-0-0)\
+ nMain Card: Edson Barboza (22-11-0) vs. Billy Quarantillo (17-4-0)\nMain
+  Card: Pedro Munhoz (19-7-0) vs. Chris Gutierrez (19-3-2)\nPrelim: Bruna
+  Brasil (8-2-1) vs. Denise Gomes (6-2-0)\nPrelim: Piera Rodriguez (9-0-0
+ ) vs. Gillian Robertson (11-7-0)\nPrelim: Lando Vannata (12-6-2) vs. Dan
+ iel Zellhuber (12-1-0)\nPrelim: Joselyne Edwards (12-4-0) vs. Lucie Pudi
+ lová (14-7-0)\nPrelim: Gaston Bolaños (6-3-0) vs. Aaron Phillips (12-4-0
+ )\nPrelim: Brandon Royval (14-6-0) vs. Matheus Nicolau (19-2-1)\nPrelim:
+  Clay Guida (38-22-0) vs. Rafa García (15-3-0)\nPrelim: Ed Herman (24-15
+ -0) vs. Zak Cummings (24-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-04-ufc-kansas-city-holloway-vs-allen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Kansas City: Holloway vs. Allen
+DTSTART:20230416T003000Z
+DTEND:20230416T033000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/97461-ufc-fight-night\n\n---\n\nMain Event: Max Ho
- lloway (23-7-0) vs. Arnold Allen (19-1-0)\nCo-Main Event: Edson Barboza 
- (22-11-0) vs. Billy Quarantillo (17-4-0)\nMain Card: Dustin Jacoby (18-6
- -1) vs. Azamat Murzakanov (12-0-0)\nMain Card: Pedro Munhoz (19-7-0) vs.
-  Chris Gutierrez (19-3-2)\nMain Card: Brandon Royval (14-6-0) vs. Matheu
- s Nicolau (19-2-1)\nPrelim: Bruna Brasil (8-2-1) vs. Denise Gomes (6-2-0
- )\nPrelim: TJ Brown (17-9-0) vs. Bill Algeo (16-7-0)\nPrelim: Piera Rodr
- iguez (9-0-0) vs. Gillian Robertson (11-7-0)\nPrelim: Lando Vannata (12-
- 6-2) vs. Daniel Zellhuber (12-1-0)\nPrelim: Joselyne Edwards (12-4-0) vs
- . Lucie Pudilová (14-7-0)\nPrelim: Gaston Bolaños (6-3-0) vs. Aaron Phil
- lips (12-4-0)\nPrelim: Clay Guida (38-22-0) vs. Rafa García (15-3-0)\nPr
- elim: Ed Herman (24-15-0) vs. Zak Cummings (24-7-0)\nPrelim: Ion Cutelab
- a (16-9-1) vs. Tanner Boser (20-9-1)
+ lloway (23-7-0) vs. Arnold Allen (19-1-0)\nCo-Main Event: Ion Cutelaba (
+ 16-9-1) vs. Tanner Boser (20-9-1)\nMain Card: TJ Brown (17-9-0) vs. Bill
+  Algeo (16-7-0)\nMain Card: Dustin Jacoby (18-6-1) vs. Azamat Murzakanov
+  (12-0-0)\nMain Card: Edson Barboza (22-11-0) vs. Billy Quarantillo (17-
+ 4-0)\nMain Card: Pedro Munhoz (19-7-0) vs. Chris Gutierrez (19-3-2)\nPre
+ lim: Bruna Brasil (8-2-1) vs. Denise Gomes (6-2-0)\nPrelim: Piera Rodrig
+ uez (9-0-0) vs. Gillian Robertson (11-7-0)\nPrelim: Lando Vannata (12-6-
+ 2) vs. Daniel Zellhuber (12-1-0)\nPrelim: Joselyne Edwards (12-4-0) vs. 
+ Lucie Pudilová (14-7-0)\nPrelim: Gaston Bolaños (6-3-0) vs. Aaron Philli
+ ps (12-4-0)\nPrelim: Brandon Royval (14-6-0) vs. Matheus Nicolau (19-2-1
+ )\nPrelim: Clay Guida (38-22-0) vs. Rafa García (15-3-0)\nPrelim: Ed Her
+ man (24-15-0) vs. Zak Cummings (24-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
-UID:2023-04-ufc-vegas-73@kampfkalender.de
+DTSTAMP:20230324T083014Z
+UID:2023-04-ufc-vegas-73-pavlovich-vs-blaydes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Vegas 73
-DTSTART:20230422T220000Z
-DTEND:20230423T010000Z
+SUMMARY:UFC Vegas 73: Pavlovich vs. Blaydes
+DTSTART:20230422T230000Z
+DTEND:20230423T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/97433-ufc-fight-night\n\n---\n\nMain Event: Sergei
@@ -246,10 +279,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  fael Estevam (11-0-0)\nPrelim: Rani Yahya (28-10-1) vs. Montel Jackson (
  12-2-0)\nPrelim: Batgerel Danaa (12-4-0) vs. Brady Hiestand (6-2-0)\nPre
  lim: Jeremiah Wells (11-2-1) vs. Matt Semelsberger (11-4-0)\nPrelim: Ias
- min Lucindo (13-5-0) vs. Brogan Walker (7-3-0)
+ min Lucindo (13-5-0) vs. Brogan Walker (7-3-0)\nPrelim: Mohammed Usman (
+ 8-2-0) vs. Junior Tafa (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -258,18 +292,19 @@ DTEND:20230430T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/97740-ufc-fight-night\n\n---\n\nMain Card: Caio Bo
- rralho (13-1-0) vs. Michał Oleksiejczuk (18-5-0)\nPrelim: Natan Levy (8-
- 1-0) vs. Pete Rodriguez (5-1-0)\nPrelim: Brian Kelleher (24-14-0) vs. Jo
- urney Newson (10-4-0)\nPrelim: Waldo Cortes-Acosta (9-0-0) vs. Marcos Ro
- gério de Lima (20-8-1)\nPrelim: Martin Buday (11-1-0) vs. Jake Collier (
- 13-8-0)\nPrelim: Cody Brundage (8-3-0) vs. Rodolfo Vieira (8-2-0)\nPreli
- m: Josh Quinlan (6-0-0) vs. Ange Loosa (9-3-0)\nPrelim: Cody Durden (14-
- 4-1) vs. Charles Johnson (13-4-0)\nPrelim: Julian Erosa (28-10-0) vs. Fe
- rnando Padilla (14-4-0)\nPrelim: Emily Ducote (12-7-0) vs. Polyana Viana
-  (13-5-0)
+ rralho (13-1-0) vs. Michał Oleksiejczuk (18-5-0)\nMain Card: Arman Tsaru
+ kyan (19-3-0) vs. Renato Moicano (17-5-1)\nPrelim: Natan Levy (8-1-0) vs
+ . Pete Rodriguez (5-1-0)\nPrelim: Brian Kelleher (24-14-0) vs. Journey N
+ ewson (10-4-0)\nPrelim: Waldo Cortes-Acosta (9-0-0) vs. Marcos Rogério d
+ e Lima (20-8-1)\nPrelim: Martin Buday (11-1-0) vs. Jake Collier (13-8-0)
+ \nPrelim: Cody Brundage (8-3-0) vs. Rodolfo Vieira (8-2-0)\nPrelim: Josh
+  Quinlan (6-0-0) vs. Ange Loosa (9-3-0)\nPrelim: Cody Durden (14-4-1) vs
+ . Charles Johnson (13-4-0)\nPrelim: Julian Erosa (28-10-0) vs. Fernando 
+ Padilla (14-4-0)\nPrelim: Emily Ducote (12-7-0) vs. Polyana Viana (13-5-
+ 0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-ufc-288-sterling-vs-cejudo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 288: Sterling vs. Cejudo
@@ -291,7 +326,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (10-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -303,12 +338,13 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  y Smith (36-17-0) vs. Johnny Walker (20-7-0)\nMain Card: Matt Brown (23-
  19-0) vs. Court McGee (21-11-0)\nMain Card: Jairzinho Rozenstruik (13-4-
  0) vs. Jailton Almeida (18-2-0)\nMain Card: Mackenzie Dern (12-3-0) vs. 
- Angela Hill (15-12-0)\nPrelim: Jessica-Rose Clark (11-8-0) vs. Tainara L
- isboa (5-2-0)\nPrelim: Ji Yeon Kim (9-6-2) vs. Mandy Böhm (7-2-0)\nPreli
- m: Cody Stamann (21-5-1) vs. D. Silva de Andrade (28-5-0)
+ Angela Hill (15-12-0)\nMain Card: Daniel Rodriguez (17-3-0) vs. Ian Mach
+ ado Garry (11-0-0)\nPrelim: Jessica-Rose Clark (11-8-0) vs. Tainara Lisb
+ oa (5-2-0)\nPrelim: Ji Yeon Kim (9-6-2) vs. Mandy Böhm (7-2-0)\nPrelim: 
+ Cody Stamann (21-5-1) vs. D. Silva de Andrade (28-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-05-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -320,10 +356,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  hahbazyan (12-3-0) vs. Anthony Hernandez (10-2-0)\nPrelim: Karolina Kowa
  lkiewicz (14-7-0) vs. Vanessa Demopoulos (9-4-0)\nPrelim: Abdul Razak Al
  hassan (12-5-0) vs. Brunno Ferreira (10-0-0)\nPrelim: Ilir Latifi (16-8-
- 0) vs. Rodrigo Nascimento (9-1-0)
+ 0) vs. Rodrigo Nascimento (9-1-0)\nPrelim: Maheshate (9-2-0) vs. Viaches
+ lav Borshchev (6-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -331,13 +368,14 @@ DTSTART:20230603T220000Z
 DTEND:20230604T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/99119-ufc-fight-night\n\n---\n\nMain Card: Mayra B
- ueno Silva (10-2-1) vs. Miesha Tate (19-9-0)\nMain Card: Kai Kara-France
-  (24-10-0) vs. Amir Albazi (16-1-0)\nPrelim: Tim Elliott (18-12-1) vs. A
- llan Nascimento (20-6-0)
+ om/fightcenter/events/99119-ufc-fight-night\n\n---\n\nMain Event: Jack H
+ ermansson (23-8-0) vs. Brendan Allen (21-5-0)\nMain Card: Mayra Bueno Si
+ lva (10-2-1) vs. Miesha Tate (19-9-0)\nMain Card: Kai Kara-France (24-10
+ -0) vs. Amir Albazi (16-1-0)\nPrelim: Tim Elliott (18-12-1) vs. Allan Na
+ scimento (20-6-0)\nPrelim: Jinh Yu Frey (11-8-0) vs. Elise Reed (6-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-06-ufc-289@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 289
@@ -350,7 +388,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s. Marc-André Barriault (15-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-07-ufc-290@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 290
@@ -361,7 +399,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/98868-ufc-290
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-10-ufc-294@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 294

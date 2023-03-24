@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230317T211325Z
-X-KAMPFKALENDER-HASH:346ec5b97958220d1f6aa939cfa42eabdee731e8
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:26a19281802e4436e053dbd8117530c06cc63bac
 BEGIN:VEVENT
-DTSTAMP:20230317T211325Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
@@ -28,5 +28,24 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-great-falls-vs-eve
  s. Isaac Casey (2-2-0)\nMain Card: David Clay (0-0-0) vs. Tavaress Swann
   (0-0-0)\nMain Card: Brandon Economu (1-0-0) vs. Brady Meister (2-3-0)\n
  Main Card: Jay Kruljac (0-0-0) vs. Joe Brings Plenty (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-04-fusion-fight-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League
+DTSTART:20230423T010000Z
+DTEND:20230423T040000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/99587-fusion-fight-league\nhttps://events.mixedmartialarts.com/fusi
+ on-fight-league:a53ff16f-482b-4ef4-b563-cc89d3fe14e0\n\n---\n\nMain Even
+ t: Gage Saunders (11-5-0) vs. Michael Garcia (6-3-0)\nMain Card: Erik Te
+ er (0-2-0) vs. JorDan Christensen (0-3-0)\nMain Card: Brandon Brisbo (1-
+ 0-0) vs. Cameron Williamson (0-1-0)\nMain Card: Christian Wallace (3-1-0
+ ) vs. Kieran Hernandez (0-1-0)\nMain Card: Cormac O'Hagan (1-0-0) vs. Br
+ ady Meister (2-3-0)\nMain Card: Colton Rue-Zindeel (2-0-0) vs. Aspen Nay
+ lor (1-0-0)\nMain Card: Justin Harbison (1-0-0) vs. Kody Papasan (0-0-0)
+ \nMain Card: Hudson Kettengring (2-1-0) vs. Artis Lyles (2-2-0)
 END:VEVENT
 END:VCALENDAR

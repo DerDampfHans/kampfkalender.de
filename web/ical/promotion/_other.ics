@@ -4,28 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230318T230305Z
-X-KAMPFKALENDER-HASH:09fcf7b2f354039c3d220fb18d1ae949e2ab4115
+DTSTAMP:20230324T083014Z
+X-KAMPFKALENDER-HASH:81f319ff50ab3b94f4ed6e31595775315feec29a
 BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
-UID:2023-03-walsh-vs-ruiz@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Walsh vs. Ruiz
-DTSTART:20230317T000000Z
-DTEND:20230317T030000Z
-CATEGORIES:Other,Boxen,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/98343-hollywood-fight-nights-boston\nhttp://www.boxrec.com/e
- n/event/865408\n\n---\n\nMain Event: Callum Walsh vs. Wesley Tucker\nCo-
- Main Event: Danny O'Connor vs. Luis Garcia\nMain Card: Francis Hogan vs.
-  Jimmy Williams\nMain Card: Hegly Mosqueda vs. Jose Edgardo Garcia\nMain
-  Card: Kendrick Ball Jr vs. Mike Stegall\nMain Card: Kevin Walsh vs. And
- rew Bentley\nMain Card: Jaydell Pazmino vs. Kyle Massoth\nMain Card: Nic
- ky Tejada vs. W. Harrington\nMain Card: Jonathan De Pina vs. Richard Bar
- nard
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230318T230305Z
+DTSTAMP:20230324T083014Z
 UID:2023-03-dream-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Dream Boxing
@@ -33,5 +15,15 @@ DTSTART:20230321T100000Z
 DTEND:20230321T130000Z
 CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083014Z
+UID:2023-04-hollywood-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hollywood Fight Night
+DTSTART:20230415T020000Z
+DTEND:20230415T050000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

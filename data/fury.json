@@ -1,54 +1,5 @@
 [
   {
-    "id": "tapology-96725",
-    "promotion": "FURY",
-    "sports": [
-      "MMA"
-    ],
-    "tags": [
-      "#Fury77",
-      "#FuryFC77"
-    ],
-    "mainCard": {
-      "title": "Fury FC 77",
-      "time": "2023-03-25T00:00:00Z",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
-      }
-    },
-    "tapology": {
-      "id": 96725,
-      "time": "2023-04-16T19:30:00Z",
-      "title": "Fury FC 77",
-      "info": "Confirmed Upcoming MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/96725-fury-fc-77",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Card: Marcus Gamble (6-1-0) vs. Alton Cunningham (9-4-0)",
-        "Main Card: Gerald Scott (5-1-0) vs. Marquel Mederos (5-1-0)",
-        "Main Card: Lance Wright (5-2-0) vs. Austin Jones (12-9-0)",
-        "Main Card: Keron Reed (1-1-0) vs. Brian Mitchell (3-2-0)",
-        "Main Card: Phillip Latu (2-1-0) vs. Kimo Luis (3-4-0)",
-        "Main Card: Zac Riley (9-5-0) vs. Adam Martinez (8-7-0)",
-        "Main Card: Ryan Charlebois (3-2-0) vs. Joe Boerschig (6-7-0)",
-        "Main Card: Hammer Morton (2-0-0) vs. Mario Moore (1-2-0)",
-        "Main Card: Stephanie Skinner (4-7-0) vs. Celine Haga (14-18-0)",
-        "Main Card: Angelo Trujillo (1-3-0) vs. Alex Rego (0-1-0)",
-        "Main Card: Micah Haas (0-0-0) vs. Isiah Torres (2-2-1)",
-        "Main Card: Daniel Gonzales (2-0-0) vs. Christian Strong (2-1-0)",
-        "Main Card: Kyle Todrank (0-0-0) vs. Elijah Peck (0-0-0)",
-        "Main Card: Jeremiah Humphrey (0-0-0) vs. Kurt Smith (0-0-0)",
-        "Main Card: James Ford (0-0-0) vs. Jimmylee Turner (0-0-0)"
-      ],
-      "links": [
-        "https://events.mixedmartialarts.com/fury-fc-77:e24a5a95-4206-4d61-9793-fbdd9b263092"
-      ]
-    }
-  },
-  {
     "id": "tapology-96724",
     "promotion": "FURY",
     "sports": [
@@ -84,12 +35,9 @@
         "Main Event: Edgar Cháirez (9-4-0) vs. Gianni Vazquez (8-4-0)",
         "Co-Main Event: Isaac Moreno (5-0-0) vs. Armus Guyton (7-4-0)",
         "Main Card: Zack Borrego (4-1-0) vs. Lajuan Davis (4-0-0)",
-        "Main Card: Rainn Guerrero (5-1-0) vs. Natalya Speece (2-3-0)",
         "Main Card: Zachary Reese (4-0-0) vs. Tommie Britton (5-10-0)",
-        "Main Card: Marquis Smith (4-5-0) vs. Jonathan Davis (6-2-0)",
         "Main Card: Dimitre Ivy (11-6-0) vs. Carlton Minus (12-4-0)",
         "Main Card: Angel Luis Cruz (8-4-0) vs. Marcelo Rojo (16-9-0)",
-        "Main Card: Roger Smith (0-1-0) vs. Kevin Rosas (0-1-0)",
         "Main Card: John Yannis (3-2-0) vs. Casey Jones (9-7-0)",
         "Main Card: Nico Echeverry (12-5-0) vs. Tedrick Macklin (4-0-0)",
         "Main Card: Ricky Romo (3-1-1) vs. Nicholas Whitehead (1-1-0)",
@@ -104,6 +52,10 @@
         "Prelim: Alivia Bierley (2-0-0) vs. Alex Apodaca (2-1-0)",
         "Prelim: Alfredo Cisneros (0-1-0) vs. Jonathan Torres (1-1-0)",
         "Prelim: Kenji Sato (0-0-0) vs. Ricky Yracheta (1-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/fury-fc-76-fury-fighting-championship-76-chairez-vs-vasquez-95981",
+        "https://events.mixedmartialarts.com/fury-fc-76:499c0feb-30e9-42c0-a16c-f202b60a23d2"
       ]
     }
   },
@@ -153,7 +105,62 @@
         "Prelim: Elisha Wilson (0-0-0) vs. Joseph Rodriguez (0-0-0)"
       ],
       "links": [
+        "http://www.sherdog.com/events/fury-fc-challenger-series-95983",
         "https://events.mixedmartialarts.com/fury-challenger-series-3:348ef457-4217-4abc-a43a-11db5b8918ee"
+      ]
+    }
+  },
+  {
+    "id": "tapology-96725",
+    "promotion": "FURY",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Fury77",
+      "#FuryFC77"
+    ],
+    "mainCard": {
+      "title": "Fury FC 77",
+      "time": "2023-04-16T21:30:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 237606,
+        "time": "2023-04-16T21:30:00Z",
+        "title": "FURY FC 77"
+      }
+    },
+    "tapology": {
+      "id": 96725,
+      "time": "2023-04-16T19:30:00Z",
+      "title": "Fury FC 77: Gamble vs. Cunningham",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/96725-fury-fc-77",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Marcus Gamble (6-1-0) vs. Alton Cunningham (9-4-0)",
+        "Main Card: Lance Wright (5-2-0) vs. Austin Jones (12-9-0)",
+        "Main Card: Phillip Latu (2-1-0) vs. Kimo Luis (3-4-0)",
+        "Main Card: Zac Riley (9-5-0) vs. Adam Martinez (8-7-0)",
+        "Main Card: Ryan Charlebois (3-2-0) vs. Joe Boerschig (6-7-0)",
+        "Main Card: Hammer Morton (2-0-0) vs. Mario Moore (1-2-0)",
+        "Main Card: Stephanie Skinner (4-7-0) vs. Celine Haga (14-18-0)",
+        "Main Card: Angelo Trujillo (1-3-0) vs. Alex Rego (0-1-0)",
+        "Main Card: Micah Haas (0-0-0) vs. Isiah Torres (2-2-1)",
+        "Main Card: Daniel Gonzales (2-0-0) vs. Christian Strong (3-1-0)",
+        "Main Card: Kyle Todrank (0-0-0) vs. Elijah Peck (0-0-0)",
+        "Main Card: Jeremiah Humphrey (0-0-0) vs. Kurt Smith (0-0-0)",
+        "Main Card: James Ford (0-0-0) vs. Jimmylee Turner (0-0-0)",
+        "Main Card: Nick Weaver (0-0-0) vs. Joey Garcia (2-2-0)",
+        "Main Card: Michael Murphy (8-5-1) vs. Marquel Mederos (5-1-0)"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/fury-fc-77:e24a5a95-4206-4d61-9793-fbdd9b263092"
       ]
     }
   },
@@ -197,6 +204,7 @@
         "Main Card: Aaron Phillips (6-4-0) vs. Quintezs Sapp (3-0-0)",
         "Main Card: Treyvon Kentrell Coker (0-1-0) vs. Kevin Kent (1-1-0)",
         "Main Card: Noufel El Kasri (1-1-0) vs. Jordan Plutin (4-5-0)",
+        "Main Card: Nico Echeverry (12-5-0) vs. Junior Maranhão (24-12-0)",
         "Prelim: Felipe Rocha (4-0-0) vs. Matty Costello (4-0-0)",
         "Prelim: Mia Grawe (5-2-0) vs. Ari Cobb (3-1-0)",
         "Prelim: Brandon Taylor (2-1-0) vs. Abner Castro (1-1-0)",

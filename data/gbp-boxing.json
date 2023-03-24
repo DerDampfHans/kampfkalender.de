@@ -1,14 +1,73 @@
 [
   {
+    "id": "tapology-99411",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#ZepedaGoyat"
+    ],
+    "mainCard": {
+      "title": "Zepeda vs. Goyat",
+      "time": "2023-03-25T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1nvs8vr1mm8rq1fsbvq9567jb2",
+        "time": "2023-03-25T23:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Zepeda vs Goyat"
+      }
+    },
+    "tapology": {
+      "id": 99411,
+      "time": "2023-03-26T02:00:00Z",
+      "title": "Golden Boy Fight Night",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/99411-golden-boy-fight-night",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Jose Zepeda (36-3-0) vs. Neeraj Goyat (19-3-2)",
+        "Main Card: Aaron Silva (11-0-0) vs. Jaime Hernandez (9-8-0)",
+        "Main Card: Miguel Angel Torres (12-1-0) vs. Kevin Montiel (7-2-2)",
+        "Main Card: Diego Torres (15-0-0) vs. Jonathan Escobedo (11-4-1)",
+        "Main Card: Rashib Martinez (17-2-1) vs. Bralton Munoz (3-6-0)",
+        "Main Card: Irving Turrubiartes (24-0-1) vs. Benito Garcia (14-6-2)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/870576"
+      ]
+    }
+  },
+  {
     "id": "tapology-99211",
     "promotion": "GBP_BOXING",
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#AcostaCordova"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Golden Boy Fight Night",
-      "time": "2023-04-07T01:00:00Z"
+      "title": "Acosta vs. Cordova",
+      "time": "2023-04-07T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "plmutxups3it1b7iiedhdmenv",
+        "time": "2023-04-07T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Acosta vs Cordova"
+      }
     },
     "tapology": {
       "id": 99211,
@@ -21,6 +80,31 @@
       ],
       "card": [
         "Main Event: Angel Acosta (23-3-0) vs. Angelino Cordova (17-0-1)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-97003",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Stanionis vs. Ortiz Jr.",
+      "time": "2023-04-29T20:00:00Z"
+    },
+    "tapology": {
+      "id": 97003,
+      "time": "2023-04-29T20:00:00Z",
+      "title": "Stanionis vs. Ortiz Jr.",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97003-ortiz-vs-stanionis",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Eimantas Stanionis (14-0-0) vs. Vergil Ortiz Jr. (19-0-0)"
       ]
     }
   }
