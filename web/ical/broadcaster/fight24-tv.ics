@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230317T211325Z
-X-KAMPFKALENDER-HASH:dde90e56311761740a9cca29dd60229f1bc03461
+DTSTAMP:20230324T083709Z
+X-KAMPFKALENDER-HASH:4c1246fe31ab5b9dbd624de7a9a459dd66e89c5f
 BEGIN:VEVENT
-DTSTAMP:20230317T211326Z
+DTSTAMP:20230324T083709Z
 UID:2023-03-big-game-5-finest-mma-kickboxing-gala@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Big Game 5: Finest MMA & Kickboxing Gala
@@ -21,7 +21,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Y7QujFIbgRw\nvia
  deh (1-2-0) vs. Hristian Konradi (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230317T211326Z
+DTSTAMP:20230324T083709Z
 UID:2023-03-hfc-40@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:HFC 40
@@ -30,5 +30,17 @@ DTEND:20230318T220000Z
 CATEGORIES:HFC,MMA,YouTube,fight24.tv,live
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BlfyDzBWCNE\nvia
   fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083709Z
+UID:2023-03-vienna-boxing-championship@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vienna Boxing Championship
+DTSTART:20230325T160000Z
+DTEND:20230325T190000Z
+CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-vienna-boxing-championshi
+ p-581
 END:VEVENT
 END:VCALENDAR

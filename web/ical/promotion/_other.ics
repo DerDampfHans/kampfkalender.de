@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230324T083014Z
-X-KAMPFKALENDER-HASH:81f319ff50ab3b94f4ed6e31595775315feec29a
+DTSTAMP:20230324T083709Z
+X-KAMPFKALENDER-HASH:c1eb54cef05ab7319c7a2de99d026531b17828b4
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230324T083709Z
 UID:2023-03-dream-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Dream Boxing
@@ -17,7 +17,19 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230324T083709Z
+UID:2023-03-vienna-boxing-championship@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Vienna Boxing Championship
+DTSTART:20230325T160000Z
+DTEND:20230325T190000Z
+CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-vienna-boxing-championshi
+ p-581
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230324T083709Z
 UID:2023-04-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
