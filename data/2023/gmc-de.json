@@ -223,5 +223,48 @@
         "http://www.sherdog.com/events/gmc-33-german-mma-championship-33-96091"
       ]
     }
+  },
+  {
+    "id": "gmc-230325",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-03-25T18:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230325-olympix-mma-k1-boxen-no-127"
+        }
+      },
+      "gmc": {
+        "id": "230325-olympix-mma-k1-boxen-no-127",
+        "time": "2023-03-25T16:00:00Z",
+        "title": "OlympiX K1 / Boxen / MMA (No. 127)",
+        "url": "https://www.german-mma.de/events/230325-olympix-mma-k1-boxen-no-127"
+      }
+    },
+    "prelims": {
+      "title": "OlympiX K1 / Boxen / MMA: Prelims",
+      "time": "2023-03-25T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=nKXSgZeZNEo",
+          "free": true
+        },
+        "GMC_TV": {
+          "url": "https://www.german-mma.de/events/230325-olympix-mma-k1-boxen-no-127"
+        }
+      },
+      "youTube": {
+        "id": "nKXSgZeZNEo",
+        "time": "2023-03-25T16:00:00Z",
+        "title": "GMC OlympiX 127 | K1/ MMA/BOXEN | 25. MRZ 2023 | FREE PRELIMS",
+        "url": "https://www.youtube.com/watch?v=nKXSgZeZNEo"
+      }
+    }
   }
 ]
