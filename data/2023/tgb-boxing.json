@@ -105,5 +105,79 @@
         "http://www.boxrec.com/en/event/868150"
       ]
     }
+  },
+  {
+    "id": "tapology-97520",
+    "promotion": "TGB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#BenavidezPlant"
+    ],
+    "mainCard": {
+      "title": "Benavidez vs. Plant",
+      "time": "2023-03-26T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/benavidez-vs-plant/2pcri/"
+        }
+      },
+      "fite": {
+        "id": "2pcri",
+        "time": "2023-03-26T01:00:00Z",
+        "title": "David Benavidez vs Caleb Plant",
+        "url": "https://www.fite.tv/watch/benavidez-vs-plant/2pcri/",
+        "price": "PPV",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "Benavidez vs. Plant: Prelims",
+      "time": "2023-03-25T23:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=EjzedlPzmJo",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "EjzedlPzmJo",
+        "time": "2023-03-25T23:00:00Z",
+        "title": "David Benavidez vs. Caleb Plant: Prelims | SHOWTIME PPV COUNTDOWN",
+        "url": "https://www.youtube.com/watch?v=EjzedlPzmJo",
+        "tags": [
+          "#davidbenavidez",
+          "#knockouts",
+          "#calebplant"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 97520,
+      "time": "2023-03-26T01:00:00Z",
+      "title": "Benavidez vs. Plant",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/97520-benavidez-vs-plant",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: David Benavidez (26-0-0) vs. Caleb Plant (22-1-0)",
+        "Co-Main Event: Cody Crowley (21-0-0) vs. Abel Ramos (27-5-2)",
+        "Main Card: Chris Colbert (16-1-0) vs. Jose Valenzuela (12-1-0)",
+        "Main Card: Joey Spencer (16-0-0) vs. Jesus Ramos (19-0-0)",
+        "Prelim: Kevin Gonzalez (24-0-1) vs. Jose Sanmartin (34-6-1)",
+        "Prelim: Marcelino Lopez (37-2-1) vs. Orestes Velazquez (6-0-0)",
+        "Prelim: Demler Zamora (10-0-0) vs. Jesus Ibarra (15-0-0)",
+        "Prelim: Robert Meriweather (0-0-0) vs. Jesus Perez (15-15-1)",
+        "Prelim: Daniel Blancas (0-0-0) vs. Nicholas Molina (0-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/869031"
+      ]
+    }
   }
 ]
