@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230324T083014Z
-X-KAMPFKALENDER-HASH:5594aab8e298392ad29bc058376c4c630d0e8dd6
+DTSTAMP:20230327T105159Z
+X-KAMPFKALENDER-HASH:5d40efd999df82bd2f65917655e3050fcbf9bc0e
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-03-nfc-13-face-offs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Face-Offs
@@ -18,7 +18,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=oZ4gdHFlkg4\
  n\n---\n\nhttps://fighting.de/nfc-13/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-03-nfc-13-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Prelims
@@ -43,7 +43,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=SK1F-zBy918\
  n (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-03-nfc-13-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Main Card
@@ -68,7 +68,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=QLrUAkEuheQ\
  n (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-03-nfc-13-ozyildirim-vs-coga@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 13: Özyildirim vs. Coga
@@ -93,40 +93,52 @@ DESCRIPTION:via SPORT1\nvia fighting.de: https://www.youtube.com/watch?v=
   Mraz Avdoyan (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
 DTSTART:20230527T160000Z
 DTEND:20230527T180000Z
 CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/94581-nfc-14
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-14/\nhttps:
+ //www.tapology.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-05-nfc-14-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Main Card
 DTSTART:20230527T180000Z
 DTEND:20230527T210000Z
 CATEGORIES:NFC,MMA,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/94581-nfc-14
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-14/\nhttps:
+ //www.tapology.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-05-nfc-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14
 DTSTART:20230527T210000Z
 DTEND:20230527T223000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
- m/fightcenter/events/94581-nfc-14
+DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://fighting.de/nfc
+ -14/\nhttps://www.tapology.com/fightcenter/events/94581-nfc-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
+UID:2023-07-nfc-x-the-cage@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC x The Cage
+DTSTART:20230729T160000Z
+DTEND:20230729T190000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-x-the-cage/
+ \nhttps://www.tapology.com/fightcenter/events/99712-nfc-fight-night-the-
+ cage-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230327T105200Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -137,7 +149,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -148,7 +160,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -159,7 +171,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -170,7 +182,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -181,7 +193,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -192,7 +204,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -204,7 +216,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -216,7 +228,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230327T105200Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

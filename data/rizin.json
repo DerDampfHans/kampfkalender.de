@@ -10,9 +10,23 @@
       "#RIZIN41"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "RIZIN 41",
-      "time": "2023-04-01T04:00:00Z"
+      "time": "2023-04-01T06:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/rizin-41/2pcts/"
+        }
+      },
+      "fite": {
+        "id": "2pcts",
+        "time": "2023-04-01T06:00:00Z",
+        "title": "RIZIN 41",
+        "url": "https://www.fite.tv/watch/rizin-41/2pcts/",
+        "price": "PPV",
+        "sports": [
+          "MMA"
+        ]
+      }
     },
     "tapology": {
       "id": 98034,
@@ -37,6 +51,11 @@
         "Main Card: Kyle Aguon (14-11-0) vs. Kyohei Hagiwara (6-7-0)",
         "Main Card: Sho Patrick Usami (6-1-0) vs. Kyung Pyo Kim (11-4-0)",
         "Prelim: Yuto Miwa vs. Daichi Akahira"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/rizin-ff-rizin-41-96411",
+        "https://events.mixedmartialarts.com/rizin-41:ac2d77fd-900e-451d-97c3-c0d735c4c2f0",
+        "https://www.bestfightodds.com/events/rizin-2841"
       ]
     }
   },
