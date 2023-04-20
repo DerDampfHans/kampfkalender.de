@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230420T170459Z
-X-KAMPFKALENDER-HASH:d5815376baeeab44459e7c560591ec8c45b6fb1d
+DTSTAMP:20230420T224603Z
+X-KAMPFKALENDER-HASH:dd36967514c2e7846b4bbf0126d54077437b352e
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-04-ufc-kansas-city-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Kansas City: Prelims
@@ -30,7 +30,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Zak Cummings (24-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-04-ufc-kansas-city-holloway-vs-allen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Kansas City: Holloway vs. Allen
@@ -53,7 +53,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  man (24-15-0) vs. Zak Cummings (24-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-04-ufc-vegas-71-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 71: Prelims
@@ -80,7 +80,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  12-4-0) vs. Brady Hiestand (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-04-ufc-vegas-71-pavlovich-vs-blaydes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 71: Pavlovich vs. Blaydes
@@ -107,7 +107,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  el Danaa (12-4-0) vs. Brady Hiestand (6-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-04-ufc-vegas-72-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 72: Prelims
@@ -130,7 +130,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  owan (7-2-0) vs. Jamey-Lyn Horth (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-04-ufc-vegas-72-song-vs-simon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 72: Song vs. Simón
@@ -153,7 +153,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  : Hailey Cowan (7-2-0) vs. Jamey-Lyn Horth (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-05-ufc-288-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 288: Early Prelims
@@ -175,7 +175,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Prelim: Parker Porter (13-8-0) vs. Braxton Smith (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-05-ufc-288-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 288: Prelims
@@ -197,7 +197,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Prelim: Parker Porter (13-8-0) vs. Braxton Smith (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-05-ufc-288-sterling-vs-cejudo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 288: Sterling vs. Cejudo
@@ -219,7 +219,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  (11-0-0)\nPrelim: Parker Porter (13-8-0) vs. Braxton Smith (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-05-ufc-charlotte-rozenstruik-vs-almeida@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Charlotte: Rozenstruik vs. Almeida
@@ -241,12 +241,33 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
+UID:2023-05-ufc-vegas-73-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 73: Prelims
+DTSTART:20230520T200000Z
+DTEND:20230520T230000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98571-ufc-fight-night\n\n---\n\nMain Event: Raquel Penningto
+ n (15-8-0) vs. Irene Aldana (14-6-0)\nMain Card: Edmen Shahbazyan (12-3-
+ 0) vs. Anthony Hernandez (10-2-0)\nMain Card: Michael Johnson (21-18-0) 
+ vs. Diego Ferreira (17-5-0)\nPrelim: Karolina Kowalkiewicz (14-7-0) vs. 
+ Vanessa Demopoulos (9-4-0)\nPrelim: Abdul Razak Alhassan (12-5-0) vs. Br
+ unno Ferreira (10-0-0)\nPrelim: Ilir Latifi (16-8-0) vs. Rodrigo Nascime
+ nto (9-1-0)\nPrelim: Maheshate (9-2-0) vs. Viacheslav Borshchev (6-3-0)\
+ nPrelim: Chase Hooper (11-3-1) vs. Nick Fiore (6-1-0)\nPrelim: Victoria 
+ Leonardo (9-4-0) vs. Natália Silva (14-5-1)\nPrelim: Orion Cosce (8-1-0)
+  vs. Gilbert Urbina (6-2-0)\nPrelim: Andre Fialho (16-6-0) vs. Joaquin B
+ uckley (15-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T224603Z
 UID:2023-05-ufc-vegas-73-pennington-vs-aldana-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 73: Pennington vs. Aldana 2
-DTSTART:20230520T220000Z
-DTEND:20230521T010000Z
+DTSTART:20230520T230000Z
+DTEND:20230521T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/98571-ufc-fight-night\n\n---\n\nMain Event: Raquel
@@ -262,7 +283,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Joaquin Buckley (15-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-06-ufc-vegas-74-hermansson-vs-allen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 74: Hermansson vs. Allen
@@ -278,7 +299,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  nPrelim: David Onama (10-2-0) vs. Khusein Askhabov (23-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-06-ufc-289-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 289: Early Prelims
@@ -299,7 +320,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nPrelim: Aiemann Zahabi (9-2-0) vs. Aoriqileng (24-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-06-ufc-289-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 289: Prelims
@@ -320,7 +341,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nPrelim: Aiemann Zahabi (9-2-0) vs. Aoriqileng (24-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-06-ufc-289-nunes-vs-pena-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 289: Nunes vs. Peña 3
@@ -341,7 +362,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (14-1-0)\nPrelim: Aiemann Zahabi (9-2-0) vs. Aoriqileng (24-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-06-ufc-vegas-75@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 75
@@ -355,7 +376,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Zac Pauga (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-06-ufc-jacksonville-emmett-vs-topuria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Jacksonville: Emmett vs. Topuria
@@ -369,7 +390,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   Maycee Barber (12-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-07-ufc-vegas-76@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 76
@@ -380,7 +401,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/100452-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-07-ufc-290-volkanovski-vs-rodriguez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 290: Volkanovski vs. Rodriguez
@@ -395,7 +416,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Manel Kape (18-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-07-ufc-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London
@@ -406,7 +427,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/99813-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170500Z
+DTSTAMP:20230420T224603Z
 UID:2023-10-ufc-294@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 294
