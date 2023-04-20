@@ -4,25 +4,236 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230401T220304Z
-X-KAMPFKALENDER-HASH:e5311e78f3cc41658207ddbd5b66ce928e62030b
+DTSTAMP:20230420T165205Z
+X-KAMPFKALENDER-HASH:5008f03c29ebe18cdc8376a3c45e6bd0b9f8cddc
 BEGIN:VEVENT
-DTSTAMP:20230401T220305Z
-UID:2023-04-one-fight-night-9@kampfkalender.de
+DTSTAMP:20230420T165205Z
+UID:2023-04-mma-unfolded-podcast-1-einspruche-im-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Fight Night 9
+SUMMARY:MMA UNFOLDED Podcast #1: Einsprüche im MMA
+DTSTART:20230416T150000Z
+DTEND:20230416T160000Z
+CATEGORIES:MMAU,YouTube,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=jwREYXkt_Fg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-one-friday-fights-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 13
+DTSTART:20230421T123000Z
+DTEND:20230421T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aTpeoBnyUxw\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/100234-one-friday-figh
+ ts-13\n\n---\n\nMain Card: Rambolek Tor Yotha vs. ChengLong Zhang
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-one-fight-night-9-nong-o-vs-haggerty@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 9: Nong-O vs. Haggerty
 DTSTART:20230422T000000Z
 DTEND:20230422T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96959-one-on-prime-video-9\n\n---\n\nMain Event: Nong-O Gaiyanghada
- o vs. Jonathan Haggerty\nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba 
- Minowa (13-3-0)\nMain Card: Denice Zamboanga (9-2-0) vs. Julie Mezabarba
-  (9-4-1)\nMain Card: Ferrari Fairtex vs. Felipe Lobo\nMain Card: Jhanlo 
- Mark Sangiao (5-0-0) vs. Matias Farinelli (5-0-0)
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WsStyb-umZk\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/96959-one-on-prime-vid
+ eo-9\nhttp://www.sherdog.com/events/one-championship-one-on-prime-video-
+ 9-nongo-vs-haggerty-96112\nhttps://events.mixedmartialarts.com/one-fight
+ -night-9:18323f5b-f325-4ab1-ac98-5b5bb45f5d66\nhttps://www.onefc.com/eve
+ nts/onefightnight9/\n\n---\n\nMain Event: Nong-O Gaiyanghadao vs. Jonath
+ an Haggerty\nCo-Main Event: Halil Amir (8-0-0) vs. Maurice Abévi (6-0-0)
+ \nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba Minowa (13-3-0)\nMain C
+ ard: Saemapetch Fairtex vs. Felipe Lobo\nMain Card: Denice Zamboanga (9-
+ 2-0) vs. Julie Mezabarba (9-4-1)\nMain Card: Isi Fitikefu (7-1-0) vs. Va
+ lmir da Silva (9-2-0)\nMain Card: Bo Meng (20-6-0) vs. Dayane Cardoso (9
+ -1-1)\nMain Card: Denis Purić vs. Jacob Smith\nMain Card: Han Zi Hao vs.
+  Asa Ten Pow\nMain Card: Jhanlo Mark Sangiao (5-0-0) vs. Matias Farinell
+ i (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230401T220305Z
+DTSTAMP:20230420T165205Z
+UID:2023-04-bellator-294-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 294: Prelims
+DTSTART:20230422T003000Z
+DTEND:20230422T020000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Hak-mGR-2tY\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98378-bellator-294\nht
+ tp://www.sherdog.com/events/bellator-294-carmouche-vs-bennett-2-96605\nh
+ ttp://en.wikipedia.org/wiki/Bellator_294\nhttps://events.mixedmartialart
+ s.com/bellator-294:9ec55b86-dcf1-4a80-9b75-5a1060186238\nhttps://www.bel
+ lator.com/event/311\nhttps://www.bestfightodds.com/events/bellator-295-2
+ 861\n\n---\n\nMain Event: Liz Carmouche (18-7-0) vs. DeAnna Bennett (13-
+ 7-1)\nCo-Main Event: Tim Johnson (15-9-0) vs. Said Sowma (8-4-0)\nMain C
+ ard: Arlene Blencowe (15-9-0) vs. Sara McMann (13-6-0)\nMain Card: Danny
+  Sabatello (13-2-0) vs. Marcos Breno (15-2-0)\nMain Card: Levan Chokheli
+  (11-2-0) vs. Michael Lombardo (13-3-0)\nPrelim: Killys Mota (14-3-0) vs
+ . Kenneth Cross (13-3-0)\nPrelim: Tyrell Fortune (12-3-0) vs. Sergey Bil
+ ostenniy (10-2-0)\nPrelim: Cris Lencioni (10-3-0) vs. Blake Smith (7-3-0
+ )\nPrelim: Anthony Adams (9-3-0) vs. Sharaf Davlatmurodov (18-4-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-bellator-294-carmouche-vs-bennett-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 294: Carmouche vs. Bennett 2
+DTSTART:20230422T020000Z
+DTEND:20230422T050000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=a_SubbgX2KY\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98378-bellator-294\nht
+ tp://www.sherdog.com/events/bellator-294-carmouche-vs-bennett-2-96605\nh
+ ttp://en.wikipedia.org/wiki/Bellator_294\nhttps://events.mixedmartialart
+ s.com/bellator-294:9ec55b86-dcf1-4a80-9b75-5a1060186238\nhttps://www.bel
+ lator.com/event/311\nhttps://www.bestfightodds.com/events/bellator-295-2
+ 861\n\n---\n\nMain Event: Liz Carmouche (18-7-0) vs. DeAnna Bennett (13-
+ 7-1)\nCo-Main Event: Tim Johnson (15-9-0) vs. Said Sowma (8-4-0)\nMain C
+ ard: Arlene Blencowe (15-9-0) vs. Sara McMann (13-6-0)\nMain Card: Danny
+  Sabatello (13-2-0) vs. Marcos Breno (15-2-0)\nMain Card: Levan Chokheli
+  (11-2-0) vs. Michael Lombardo (13-3-0)\nPrelim: Killys Mota (14-3-0) vs
+ . Kenneth Cross (13-3-0)\nPrelim: Tyrell Fortune (12-3-0) vs. Sergey Bil
+ ostenniy (10-2-0)\nPrelim: Cris Lencioni (10-3-0) vs. Blake Smith (7-3-0
+ )\nPrelim: Anthony Adams (9-3-0) vs. Sharaf Davlatmurodov (18-4-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-night-of-the-predators-2-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night Of The Predators 2: Prelims
+DTSTART:20230422T140000Z
+DTEND:20230422T160000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live,kosten
+ los
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AEgJfRhxHE0\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-night-of-the-pre
+ dators-2-587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-night-of-the-predators-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night Of The Predators 2
+DTSTART:20230422T160000Z
+DTEND:20230422T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ov39Qe0bCyU\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-night-of-the-pre
+ dators-2-587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-hasanovic-vs-fajk@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hasanovic vs. Fajk
+DTSTART:20230422T164500Z
+DTEND:20230422T194500Z
+CATEGORIES:BDB,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ov39Qe0bCyU\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-int-profibox-gal
+ a-falkensee-3-588\n\n---\n\nhttps://www.tapology.com/fightcenter/events/
+ 100178-hasanovic-vs-fajk\nhttp://www.boxrec.com/en/event/866074\n\n---\n
+ \nMain Event: Sanel Hasanovic (6-0-1) vs. Lukas Fajk (0-0-0)\nMain Card:
+  Dusan Veletic (6-1-1) vs. Kamil Sokolowski (11-27-3)\nMain Card: Nathan
+ ael Lukoki (8-0-0) vs. Patrizio Moroni (5-7-1)\nMain Card: Victor Cakiqi
+  (0-0-0) vs. Nassim Mahouechi (4-1-2)\nMain Card: Abu Yusupov (6-0-1) vs
+ . Yannick Linaniye (0-0-0)\nMain Card: C. Rodriguez (0-0-0) vs. Nemanja 
+ Kerezovic (1-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-davis-vs-garcia-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Davis vs. Garcia: Prelims
+DTSTART:20230422T220000Z
+DTEND:20230423T000000Z
+CATEGORIES:TGB,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=pcbV6-u9YoI\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98647-davis-vs-garcia\
+ nhttp://www.boxrec.com/en/event/870316\n\n---\n\nMain Event: Gervonta Da
+ vis (28-0-0) vs. Ryan Garcia (23-0-0)\nCo-Main Event: David Morrell (8-0
+ -0) vs. Yamaguchi Falcão (24-1-1)\nMain Card: Bektemir Melikuziev (11-1-
+ 0) vs. Gabriel Rosado (26-16-1)\nMain Card: Elijah Garcia (14-0-0) vs. K
+ evin Salgado (14-1-1)\nPrelim: Fiodor Cherkashyn (21-0-0) vs. Elias Espa
+ das (22-5-0)\nPrelim: Vito Mielnicki Jr. (14-1-0) vs. Jose Charles (20-3
+ -1)\nPrelim: Floyd Schofield (13-0-0) vs. Jesus Valentin Leon (23-1-2)\n
+ Prelim: Tristan Kalkreuth (9-1-0) vs. Jaime Solorio (12-5-2)\nPrelim: Ja
+ lil Hackett (5-0-0) vs. Jason Phillips (3-3-2)\nPrelim: Lorenzo Simpson 
+ (12-0-0) vs. Pachino Hill (8-1-1)\nPrelim: Cuttino Oliver (0-0-0) vs. Ro
+ berto Cantu Pena (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-bellator-295-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 295: Prelims
+DTSTART:20230423T000000Z
+DTEND:20230423T030000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=7Ouy5d7dl3E\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98369-bellator-mma\nht
+ tp://www.sherdog.com/events/bellator-295-stots-vs-mix-96606\nhttp://en.w
+ ikipedia.org/wiki/Bellator_295\nhttps://events.mixedmartialarts.com/bell
+ ator-295:b65a7605-1eeb-4275-a1f6-0261c4624485\nhttps://www.bellator.com/
+ event/312\nhttps://www.bestfightodds.com/events/bellator-295-2861\n\n---
+ \n\nMain Event: Raufeon Stots (19-1-0) vs. Patchy Mix (17-1-0)\nCo-Main 
+ Event: Ilima-Lei Macfarlane (12-2-0) vs. Kana Watanabe (11-1-1)\nMain Ca
+ rd: Aaron Pico (10-4-0) vs. James Gonzalez (10-5-0)\nMain Card: Ray Borg
+  (16-5-0) vs. Kyoji Horiguchi (31-5-0)\nPrelim: Yancy Medeiros (15-8-0) 
+ vs. Charlie Leary (17-13-1)\nPrelim: Mads Burnell (16-5-0) vs. Justin Go
+ nzales (14-1-0)\nPrelim: Kai Kamaka III (10-5-1) vs. Adli Edwards (9-2-0
+ )\nPrelim: Sumiko Inaba (5-0-0) vs. Veta Arteaga (7-4-0)\nPrelim: Keoni 
+ Diggs (10-2-0) vs. Weber Almeida (7-1-0)\nPrelim: Bobby King (12-5-0) vs
+ . Aalon Cruz (10-4-0)\nPrelim: Davion Franklin (5-1-0) vs. Kasim Aras (7
+ -1-0)\nPrelim: Ilara Joanne (11-6-0) vs. Bruna Ellen (6-4-0)\nPrelim: Al
+ exey Shurkevich (13-5-0) vs. Masayuki Kikuiri (8-2-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-04-bellator-295-stots-vs-mix@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 295: Stots vs. Mix
+DTSTART:20230423T030000Z
+DTEND:20230423T060000Z
+CATEGORIES:Bellator,MMA,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=s7NXAHu1NRc\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98369-bellator-mma\nht
+ tp://www.sherdog.com/events/bellator-295-stots-vs-mix-96606\nhttp://en.w
+ ikipedia.org/wiki/Bellator_295\nhttps://events.mixedmartialarts.com/bell
+ ator-295:b65a7605-1eeb-4275-a1f6-0261c4624485\nhttps://www.bellator.com/
+ event/312\nhttps://www.bestfightodds.com/events/bellator-295-2861\n\n---
+ \n\nMain Event: Raufeon Stots (19-1-0) vs. Patchy Mix (17-1-0)\nCo-Main 
+ Event: Ilima-Lei Macfarlane (12-2-0) vs. Kana Watanabe (11-1-1)\nMain Ca
+ rd: Aaron Pico (10-4-0) vs. James Gonzalez (10-5-0)\nMain Card: Ray Borg
+  (16-5-0) vs. Kyoji Horiguchi (31-5-0)\nPrelim: Yancy Medeiros (15-8-0) 
+ vs. Charlie Leary (17-13-1)\nPrelim: Mads Burnell (16-5-0) vs. Justin Go
+ nzales (14-1-0)\nPrelim: Kai Kamaka III (10-5-1) vs. Adli Edwards (9-2-0
+ )\nPrelim: Sumiko Inaba (5-0-0) vs. Veta Arteaga (7-4-0)\nPrelim: Keoni 
+ Diggs (10-2-0) vs. Weber Almeida (7-1-0)\nPrelim: Bobby King (12-5-0) vs
+ . Aalon Cruz (10-4-0)\nPrelim: Davion Franklin (5-1-0) vs. Kasim Aras (7
+ -1-0)\nPrelim: Ilara Joanne (11-6-0) vs. Bruna Ellen (6-4-0)\nPrelim: Al
+ exey Shurkevich (13-5-0) vs. Masayuki Kikuiri (8-2-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-05-invicta-fc-53-decoursey-vs-dos-santos@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Invicta FC 53: DeCoursey vs. Dos Santos
+DTSTART:20230504T003000Z
+DTEND:20230504T033000Z
+CATEGORIES:Invicta,MMA,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/99821-invicta-fc-53-decoursey-vs-dos-santos\n\n---\n\nMain Event: J
+ illian DeCoursey (6-3-0) vs. Rayanne dos Santos (13-6-0)\nCo-Main Event:
+  Olga Rubin (8-3-0) vs. Claire Guthrie (5-1-0)\nMain Card: Jéssica Delbo
+ ni (12-4-0) vs. Danielle Taylor (11-8-0)\nMain Card: Monique Adriane (5-
+ 2-0) vs. Nicole Geraldo (5-0-0)\nMain Card: Liana Pirosin (8-5-0) vs. El
+ ise Pone (2-1-0)\nMain Card: Elisandra Ferreira (5-2-0) vs. Flor Hernand
+ ez (4-0-0)\nMain Card: Ky Bennett (2-2-0) vs. Kylie O'Hearn (3-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
 UID:2023-05-one-fight-night-10-johnson-vs-moraes-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 10: Johnson vs. Moraes 3
@@ -30,14 +241,42 @@ DTSTART:20230506T000000Z
 DTEND:20230506T030000Z
 CATEGORIES:ONE,MMA,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/95948-one-on-prime-video-10-johnson-vs-moraes-3\n\n---\n\nMain Even
- t: Demetrious Johnson (24-4-1) vs. Adriano Moraes (20-4-0)\nCo-Main Even
- t: Rodtang Jitmuangnon vs. Edgar Juarez Tabares\nMain Card: Sage Northcu
- tt (11-3-0) vs. Ahmed Mujtaba (10-2-0)\nMain Card: Aung La N Sang (29-13
- -0) vs. Rong Fan (19-3-0)\nMain Card: Stamp Fairtex (9-2-0) vs. Alyse An
- derson (6-2-0)\nMain Card: Reinier de Ridder vs. Tye Ruotolo\nMain Card:
-  Mikey Musumeci vs. Osamah Almarwai\nMain Card: Roberto Soldić (20-3-0) 
- vs. Zebaztian Kadestam (14-7-0)\nMain Card: Jackie Buntan vs. Diandra Ma
- rtin\nMain Card: Kairat Akhmetov (29-2-0) vs. Reece McLaren (16-8-0)
+ ents/95948-one-on-prime-video-10-johnson-vs-moraes-3\nhttps://www.onefc.
+ com/events/onefightnight10/\n\n---\n\nMain Event: Demetrious Johnson (24
+ -4-1) vs. Adriano Moraes (20-4-0)\nCo-Main Event: Rodtang Jitmuangnon vs
+ . Edgar Juarez Tabares\nMain Card: Mikey Musumeci vs. Osamah Almarwai\nM
+ ain Card: Stamp Fairtex (9-2-0) vs. Alyse Anderson (6-2-0)\nMain Card: R
+ oberto Soldić (20-3-0) vs. Zebaztian Kadestam (14-7-0)\nMain Card: Sage 
+ Northcutt (11-3-0) vs. Ahmed Mujtaba (10-2-0)\nMain Card: Aung La N Sang
+  (29-13-0) vs. Rong Fan (19-3-0)\nMain Card: Jackie Buntan vs. Diandra M
+ artin\nPrelim: Reinier de Ridder vs. Tye Ruotolo\nPrelim: Kairat Akhmeto
+ v (29-2-0) vs. Reece McLaren (16-8-0)\nPrelim: Lowen Tynanes (11-1-0) vs
+ . Rae Yoon Ok (16-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-06-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/100254-universum-boxing-night\nhttp://www.boxrec.com/en/event/87059
+ 3\n\n---\n\nMain Event: Luka Plantic (5-0-0) vs. Yusuf Kanguel (22-5-1)\
+ nMain Card: Rostam Ibrahim (11-0-2) vs. Leon Bunn (18-1-0)\nMain Card: J
+ ose Larduet (9-0-0) vs. Ali Kiydin (15-2-0)\nMain Card: Ben Adwubi (5-0-
+ 0) vs. Mohamed Abdallah (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165205Z
+UID:2023-06-one-fight-night-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 11
+DTSTART:20230610T000000Z
+DTEND:20230610T030000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/100343-one-fight-night-11
 END:VEVENT
 END:VCALENDAR

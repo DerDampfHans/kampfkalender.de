@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230211T230304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:52ab2772b5824bab7fa1e7d824a04b60a2744cf2
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/100254-universum-boxing-night\nhttp://www.boxrec.com/en/event/87059
+ 3\n\n---\n\nMain Event: Luka Plantic (5-0-0) vs. Yusuf Kanguel (22-5-1)\
+ nMain Card: Rostam Ibrahim (11-0-2) vs. Leon Bunn (18-1-0)\nMain Card: J
+ ose Larduet (9-0-0) vs. Ali Kiydin (15-2-0)\nMain Card: Ben Adwubi (5-0-
+ 0) vs. Mohamed Abdallah (0-0-0)
+END:VEVENT
 END:VCALENDAR

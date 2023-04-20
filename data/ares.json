@@ -10,15 +10,20 @@
     ],
     "mainCard": {
       "title": "Ares FC 15",
-      "time": "2023-05-12T16:00:00Z",
+      "time": "2023-05-11T17:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 238650,
+        "time": "2023-05-11T17:00:00Z",
+        "title": "ARES 15"
       }
     },
     "tapology": {
       "id": 96200,
-      "time": "2023-05-12T16:00:00Z",
+      "time": "2023-05-11T15:00:00Z",
       "title": "Ares FC 15: Pena vs. Saadi",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/96200-ares-fc-15",
@@ -29,15 +34,14 @@
         "Main Event: Demarte Pena (13-1-0) vs. Mehdi Saadi (5-1-0)",
         "Co-Main Event: Christopher Jacquelin (8-3-0) vs. Felix Klinkhammer (8-0-0)",
         "Main Card: Jordan Zébo (3-0-0) vs. Mickael Marie Sardi (3-2-0)",
+        "Main Card: Expedito Valin (0-0-0) vs. Jimmy Vienot (1-0-0)",
         "Main Card: Vincent del Guerra (29-20-1) vs. Nikola Joksović (10-1-0)",
         "Main Card: Jaciane Figueiredo (0-0-0) vs. Anissa Meksen (0-0-0)",
-        "Main Card: Expedito Valin (0-0-0) vs. Jimmy Vienot (1-0-0)",
-        "Main Card: David Tonatiuh Crol (10-7-0) vs. Asilder Badouiev (7-1-0)",
-        "Main Card: Alexander Soldatkin (13-3-0) vs. Benjamin Šehić (5-2-0)",
-        "Prelim: Aboukhanov Azamat (0-0-0) vs. Sergio Vega (1-0-0)",
+        "Main Card: Moustapha Aida (9-2-0) vs. Abdelmoumen Mssaate (7-3-0)",
+        "Prelim: Alexander Soldatkin (13-3-0) vs. Benjamin Šehić (5-2-0)",
+        "Prelim: David Tonatiuh Crol (10-7-0) vs. Asilder Badouiev (7-1-0)",
         "Prelim: Assia Miri (1-1-0) vs. Joana Chevreuil (0-0-0)",
-        "Prelim: Klaudia Syguła (5-1-0) vs. Rizlen Zouak (7-5-0)",
-        "Prelim: Massinissa Hamalili (0-0-0) vs. Bruno Susano (0-0-0)"
+        "Prelim: Aboukhanov Azamat (0-0-0) vs. Sergio Vega (1-0-0)"
       ]
     }
   },
@@ -69,13 +73,16 @@
       ],
       "card": [
         "Main Event: Damien Lapilus (21-14-3) vs. Yazid Chouchane (9-3-0)",
-        "Co-Main Event: Rafał Haratyk (16-5-2) vs. Henrique Shiguemoto (14-4-1)",
-        "Main Card: Amin Ayoub (17-6-1) vs. Teddy Violet (11-5-0)",
         "Main Card: Vlad Gutu (1-0-0) vs. Mantas Kondratavičius (4-0-0)",
         "Main Card: Paulin Begai (4-2-0) vs. Claudio Conti (8-6-2)",
+        "Main Card: Soslan Gagloev (3-0-0) vs. Axel Sola (5-0-0)",
+        "Main Card: Alexandra Tekenah (3-1-0) vs. Lucrezia Ria (8-4-0)",
+        "Main Card: Alioune Nahaye (11-4-0) vs. Hasni Mohammadi (8-7-1)",
+        "Main Card: Daguir Imavov (14-3-1) vs. Geraldo de Freitas (14-6-0)",
         "Prelim: Freddy Kemayo (1-1-0) vs. Alpha Cissokho (1-1-0)",
         "Prelim: Mickaël Groguhe (3-1-0) vs. Paweł Biernat (5-0-0)",
-        "Prelim: Ale Joseph (1-1-0) vs. Hugo Guillon (4-1-0)"
+        "Prelim: Ale Joseph (1-1-0) vs. Hugo Guillon (4-1-0)",
+        "Prelim: Kenzo Soares Silva (1-0-0) vs. Joris Bacuchi (0-0-0)"
       ]
     }
   },
@@ -106,7 +113,6 @@
         "MMA"
       ],
       "card": [
-        "Prelim: Wissame Akhmouch (5-1-0) vs. Ammari Diedrick (3-1-0)",
         "Prelim: Mahamadou Soukouna (0-1-0) vs. Yacine Haddad (1-1-0)",
         "Prelim: Magnus Onyeka Iversen (3-0-0) vs. James Dixon (4-2-0)"
       ]
@@ -133,8 +139,14 @@
       "id": 96203,
       "time": "2023-10-06T16:00:00Z",
       "title": "Ares FC 18",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/96203-ares-fc-18"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/96203-ares-fc-18",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Rafał Haratyk (16-5-2) vs. Henrique Shiguemoto (14-4-1)"
+      ]
     }
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "id": "tapology-100234",
+    "promotion": "ONE",
+    "sports": [
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#ONEFridayFights13"
+    ],
+    "mainCard": {
+      "title": "One Friday Fights 13",
+      "time": "2023-04-21T12:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=aTpeoBnyUxw",
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 100234,
+      "time": "2023-04-21T12:30:00Z",
+      "title": "One Friday Fights 13",
+      "info": "Confirmed Upcoming Muay Thai Event",
+      "url": "https://www.tapology.com/fightcenter/events/100234-one-friday-fights-13",
+      "sports": [
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Card: Rambolek Tor Yotha vs. ChengLong Zhang"
+      ]
+    }
+  },
+  {
     "id": "tapology-96959",
     "promotion": "ONE",
     "sports": [
@@ -12,10 +45,11 @@
       "#ONEonPrimeVideo9"
     ],
     "mainCard": {
-      "title": "ONE Fight Night 9",
+      "title": "ONE Fight Night 9: Nong-O vs. Haggerty",
       "time": "2023-04-22T00:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=WsStyb-umZk",
           "free": true
         }
       }
@@ -33,10 +67,20 @@
       ],
       "card": [
         "Main Event: Nong-O Gaiyanghadao vs. Jonathan Haggerty",
+        "Co-Main Event: Halil Amir (8-0-0) vs. Maurice Abévi (6-0-0)",
         "Main Card: Bokang Masunyane (8-1-0) vs. Hiroba Minowa (13-3-0)",
+        "Main Card: Saemapetch Fairtex vs. Felipe Lobo",
         "Main Card: Denice Zamboanga (9-2-0) vs. Julie Mezabarba (9-4-1)",
-        "Main Card: Ferrari Fairtex vs. Felipe Lobo",
+        "Main Card: Isi Fitikefu (7-1-0) vs. Valmir da Silva (9-2-0)",
+        "Main Card: Bo Meng (20-6-0) vs. Dayane Cardoso (9-1-1)",
+        "Main Card: Denis Purić vs. Jacob Smith",
+        "Main Card: Han Zi Hao vs. Asa Ten Pow",
         "Main Card: Jhanlo Mark Sangiao (5-0-0) vs. Matias Farinelli (5-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/one-championship-one-on-prime-video-9-nongo-vs-haggerty-96112",
+        "https://events.mixedmartialarts.com/one-fight-night-9:18323f5b-f325-4ab1-ac98-5b5bb45f5d66",
+        "https://www.onefc.com/events/onefightnight9/"
       ]
     }
   },
@@ -74,15 +118,45 @@
       "card": [
         "Main Event: Demetrious Johnson (24-4-1) vs. Adriano Moraes (20-4-0)",
         "Co-Main Event: Rodtang Jitmuangnon vs. Edgar Juarez Tabares",
+        "Main Card: Mikey Musumeci vs. Osamah Almarwai",
+        "Main Card: Stamp Fairtex (9-2-0) vs. Alyse Anderson (6-2-0)",
+        "Main Card: Roberto Soldić (20-3-0) vs. Zebaztian Kadestam (14-7-0)",
         "Main Card: Sage Northcutt (11-3-0) vs. Ahmed Mujtaba (10-2-0)",
         "Main Card: Aung La N Sang (29-13-0) vs. Rong Fan (19-3-0)",
-        "Main Card: Stamp Fairtex (9-2-0) vs. Alyse Anderson (6-2-0)",
-        "Main Card: Reinier de Ridder vs. Tye Ruotolo",
-        "Main Card: Mikey Musumeci vs. Osamah Almarwai",
-        "Main Card: Roberto Soldić (20-3-0) vs. Zebaztian Kadestam (14-7-0)",
         "Main Card: Jackie Buntan vs. Diandra Martin",
-        "Main Card: Kairat Akhmetov (29-2-0) vs. Reece McLaren (16-8-0)"
+        "Prelim: Reinier de Ridder vs. Tye Ruotolo",
+        "Prelim: Kairat Akhmetov (29-2-0) vs. Reece McLaren (16-8-0)",
+        "Prelim: Lowen Tynanes (11-1-0) vs. Rae Yoon Ok (16-4-0)"
+      ],
+      "links": [
+        "https://www.onefc.com/events/onefightnight10/"
       ]
+    }
+  },
+  {
+    "id": "tapology-100343",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "ONE Fight Night 11",
+      "time": "2023-06-10T00:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 100343,
+      "time": "2023-06-10T00:00:00Z",
+      "title": "ONE Fight Night 11",
+      "titleAlt": "ONE on Prime Video 11",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/100343-one-fight-night-11"
     }
   }
 ]

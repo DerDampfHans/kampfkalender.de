@@ -4,20 +4,27 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230324T083014Z
-X-KAMPFKALENDER-HASH:186c6738a1ddb432e19ecd6c6424ea00acf406a1
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:bba1a76ee92be9ce13bb22743de7640f8ac66581
 BEGIN:VEVENT
-DTSTAMP:20230324T083014Z
+DTSTAMP:20230420T164959Z
 UID:2023-05-canelo-vs-ryder@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. Ryder
-DTSTART:20230507T010000Z
-DTEND:20230507T040000Z
-CATEGORIES:CP,Boxen,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/98324-canelo-vs-r
- yder\nhttps://www.matchroomboxing.com/events/canelo-vs-ryder/\nhttp://ww
- w.boxrec.com/en/event/869585\n\n---\n\nMain Event: Canelo Álvarez (58-2-
- 2) vs. John Ryder (32-5-0)\nMain Card: Oleksandr Gvozdyk (18-1-0) vs. Ri
- cards Bolotniks (19-6-1)
+DTSTART:20230506T230000Z
+DTEND:20230507T020000Z
+CATEGORIES:CP,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98324-canelo-vs-ryder\nhttps://www.matchroomboxing.com/event
+ s/canelo-vs-ryder/\nhttp://www.boxrec.com/en/event/869585\n\n---\n\nMain
+  Event: Canelo Álvarez (58-2-2) vs. John Ryder (32-5-0)\nCo-Main Event: 
+ Julio Cesar Martinez (19-2-0) vs. Ronal Batista (15-2-0)\nMain Card: Ole
+ ksandr Gvozdyk (18-1-0) vs. Ricards Bolotniks (19-6-1)\nMain Card: Gabri
+ el Valenzuela (26-3-1) vs. Steve Spark (16-2-0)\nMain Card: Nathan Rodri
+ guez (10-0-0) vs. Alexander Mejia (19-5-0)\nMain Card: Bek Nurmaganbet (
+ 9-0-0) vs. Argenis Espana (15-1-0)\nMain Card: Lawrence King (11-1-0) vs
+ . Elio Rafael (19-4-0)\nMain Card: Johan Alvarez (5-0-1) vs. J. Rodrigue
+ z Arreguin (0-0-0)\nMain Card: Abilkhan Amankul (0-0-0) vs. Jesus Moroyo
+ qui (6-3-1)
 END:VEVENT
 END:VCALENDAR

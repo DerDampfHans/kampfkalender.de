@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230416T220306Z
-X-KAMPFKALENDER-HASH:078b48fce2cee7f8a902c8e6205e6759d8b378e1
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:ad1a455f9837a34432d141c502a0dca5e7a40a42
 BEGIN:VEVENT
-DTSTAMP:20230416T220307Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-rakhimov-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rakhimov vs. Cordina
@@ -19,13 +19,16 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  imov-vs-cordina/\nhttp://www.boxrec.com/en/event/868494\n\n---\n\nMain E
  vent: Shavkatdzhon Rakhimov (17-0-1) vs. Joe Cordina (15-0-0)\nMain Card
  : Gavin Gwynne (15-2-1) vs. Craig Woodruff (12-6-1)\nMain Card: Jordan T
- hompson (14-0-0) vs. Luke Watkins (16-2-0)\nMain Card: Zelfa Barrett (28
- -2-0) vs. Alex Dilmaghani (21-2-1)\nMain Card: Sandy Ryan (5-1-0) vs. Ma
- rie-Pier Houle (8-0-1)\nPrelim: Miles Gordon Darby (3-0-0) vs. Phil Will
- iams (5-41-1)
+ hompson (14-0-0) vs. Luke Watkins (16-2-0)\nMain Card: Sandy Ryan (5-1-0
+ ) vs. Marie-Pier Houle (8-0-1)\nMain Card: Zelfa Barrett (28-2-0) vs. Ja
+ son Sanchez (16-3-0)\nPrelim: Miles Gordon Darby (3-0-0) vs. Phil Willia
+ ms (6-41-1)\nPrelim: Skye Nicolson (6-0-0) vs. Linda Laura Lecca (0-0-0)
+ \nPrelim: Sammy Lee (0-0-0) vs. Juris Zundovskis (6-5-0)\nPrelim: Brando
+ n Scott (0-0-0) vs. Karan Gill (0-0-0)\nPrelim: Nathan Howells (5-0-1) v
+ s. Jahfibus Faure (1-12-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220307Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-harper-vs-braekhus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Harper vs. Braekhus
@@ -36,23 +39,23 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98517-harper-vs-braekhus
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220307Z
+DTSTAMP:20230420T164959Z
 UID:2023-05-taylor-vs-cameron@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Cameron
-DTSTART:20230520T190000Z
-DTEND:20230520T220000Z
+DTSTART:20230520T180000Z
+DTEND:20230520T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/99223-taylor-vs-cameron\nhttps://www.matchroomboxing.com/events/taylor
  -vs-cameron/\nhttp://www.boxrec.com/en/event/870571\n\n---\n\nMain Event
  : Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)\nMain Card: Denni
  s Hogan (31-4-1) vs. James Metcalf (24-2-0)\nMain Card: Terri Harper (13
- -1-1) vs. Cecilia Braekhus (37-2-0)\nMain Card: Cherneka Johnson (15-1-0
- ) vs. Ellie Scotney (6-0-0)
+ -1-1) vs. Cecilia Braekhus (37-2-0)\nMain Card: Thomas Carty (4-0-0) vs.
+  Jay McFarlane (14-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220307Z
+DTSTAMP:20230420T164959Z
 UID:2023-05-taylor-vs-serrano-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano 2
@@ -61,5 +64,48 @@ DTEND:20230520T220000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98165-taylor-serrano-2\nhttp://www.boxrec.com/en/event/868405
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-05-lara-vs-wood-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lara vs. Wood 2
+DTSTART:20230527T190000Z
+DTEND:20230527T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/99970-lara-vs-wood-2\nhttps://www.matchroomboxing.com/events/lara-vs-w
+ ood-2/\nhttp://www.boxrec.com/en/event/871347\n\n---\n\nMain Event: Maur
+ icio Lara (25-2-1) vs. Leigh Wood (26-3-0)\nMain Card: Jack Catterall (2
+ 6-1-0) vs. Darragh Foley (22-4-1)\nMain Card: Danny Ball (12-1-1) vs. An
+ thony Tomlinson (15-1-0)\nMain Card: Kieron Conway (19-3-1) vs. Linus Ud
+ ofia (18-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-berlanga-vs-quigley@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Berlanga vs. Quigley
+DTSTART:20230625T010000Z
+DTEND:20230625T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/100235-berlanga-vs-quigley\nhttp://www.boxrec.com/en/event/871639\n\n-
+ --\n\nMain Event: Edgar Berlanga (20-0-0) vs. Jason Quigley (20-2-0)\nMa
+ in Card: Peter McGrail (7-0-0) vs. Diego Alberto Ruiz (24-6-1)\nMain Car
+ d: Adam Kownacki (20-3-0) vs. Joe Cusumano (21-4-0)\nMain Card: Reshat M
+ ati (13-0-0) vs. Wesley Ferrer (16-1-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-07-smith-vs-maxwell@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Smith vs. Maxwell
+DTSTART:20230701T190000Z
+DTEND:20230701T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/100515-smith-vs-maxwell\nhttp://www.boxrec.com/en/event/872106\n\n---\
+ n\nMain Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)
 END:VEVENT
 END:VCALENDAR

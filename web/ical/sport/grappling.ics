@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230403T220305Z
-X-KAMPFKALENDER-HASH:68d32b1e2bfeeee48bb65fbe2ff745e9f7b843aa
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:44d8f8e49fdf1bd49bb920d1d7a2529e96e506d8
 BEGIN:VEVENT
-DTSTAMP:20230403T220305Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,7 +18,17 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230415-olympix-g
  rappling-no-129
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230403T220305Z
+DTSTAMP:20230420T164959Z
+UID:2023-04-adcc-usa-orange-county-open-finals@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ADCC USA: Orange County Open Finals
+DTSTART:20230429T230000Z
+DTEND:20230430T020000Z
+CATEGORIES:Other,Grappling,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-05-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -29,7 +39,17 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230513-olympix-g
  rappling-no-131
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230403T220305Z
+DTSTAMP:20230420T164959Z
+UID:2023-05-adcc-usa-denver-open-finals@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ADCC USA: Denver Open Finals
+DTSTART:20230513T210000Z
+DTEND:20230514T000000Z
+CATEGORIES:Other,Grappling,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-06-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -38,5 +58,15 @@ DTEND:20230610T130000Z
 CATEGORIES:GMC,Grappling,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230610-olympix-g
  rappling-no-133
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-adcc-usa-dallas-open-finals@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ADCC USA: Dallas Open Finals
+DTSTART:20230617T190000Z
+DTEND:20230617T220000Z
+CATEGORIES:Other,Grappling,DAZN,live
+DESCRIPTION:via DAZN
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230416T220306Z
-X-KAMPFKALENDER-HASH:e147e4eb042a7faafbcaff411aaf115bfc6cec3b
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:fc6492277b6a177620bf70dd24b83d3902bf5f0a
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-hollywood-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hollywood Fight Night
@@ -17,7 +17,39 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
+UID:2023-04-jmx-vs-bell@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:JMX vs. Bell
+DTSTART:20230422T000000Z
+DTEND:20230422T030000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97226-mf-dazn-x-series-6\nhttp://www.boxrec.com/en/event/870254\n\n---
+ \n\nPostlim: Jeremy Hill (17-3-0) vs. Estivan Falcao (11-1-0)\nMain Even
+ t: Joel Morris (0-0-0) vs. Le'Veon Bell (0-0-0)\nCo-Main Event: Chris Av
+ ila (2-1-0) vs. Paul Bamba (5-1-0)\nMain Card: Malcolm Minikon (0-0-0) v
+ s. Jake Franklin (0-0-0)\nMain Card: Walid Muhsein (0-0-0) vs. Stamaur M
+ itchell (0-0-0)\nMain Card: Chase DeMoor (0-0-0) vs. Gregory Knight (0-0
+ -0)\nMain Card: Kevin Ferguson Jr. (0-0-0) vs. Okem Jibunor (0-0-0)\nMai
+ n Card: Jessica Duban (0-0-0) vs. Alaena Vampira (0-0-0)\nMain Card: Chr
+ istian Wardy (0-0-0) vs. Elijah Smith (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-04-night-of-the-predators-2-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night Of The Predators 2: Prelims
+DTSTART:20230422T140000Z
+DTEND:20230422T160000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live,kosten
+ los
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AEgJfRhxHE0\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-night-of-the-pre
+ dators-2-587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -28,7 +60,38 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
  ma-k1-boxen-no-130
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
+UID:2023-04-night-of-the-predators-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night Of The Predators 2
+DTSTART:20230422T160000Z
+DTEND:20230422T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ov39Qe0bCyU\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-night-of-the-pre
+ dators-2-587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-04-hasanovic-vs-fajk@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hasanovic vs. Fajk
+DTSTART:20230422T164500Z
+DTEND:20230422T194500Z
+CATEGORIES:BDB,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ov39Qe0bCyU\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-int-profibox-gal
+ a-falkensee-3-588\n\n---\n\nhttps://www.tapology.com/fightcenter/events/
+ 100178-hasanovic-vs-fajk\nhttp://www.boxrec.com/en/event/866074\n\n---\n
+ \nMain Event: Sanel Hasanovic (6-0-1) vs. Lukas Fajk (0-0-0)\nMain Card:
+  Dusan Veletic (6-1-1) vs. Kamil Sokolowski (11-27-3)\nMain Card: Nathan
+ ael Lukoki (8-0-0) vs. Patrizio Moroni (5-7-1)\nMain Card: Victor Cakiqi
+  (0-0-0) vs. Nassim Mahouechi (4-1-2)\nMain Card: Abu Yusupov (6-0-1) vs
+ . Yannick Linaniye (0-0-0)\nMain Card: C. Rodriguez (0-0-0) vs. Nemanja 
+ Kerezovic (1-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-04-rakhimov-vs-cordina@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rakhimov vs. Cordina
@@ -40,13 +103,60 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  imov-vs-cordina/\nhttp://www.boxrec.com/en/event/868494\n\n---\n\nMain E
  vent: Shavkatdzhon Rakhimov (17-0-1) vs. Joe Cordina (15-0-0)\nMain Card
  : Gavin Gwynne (15-2-1) vs. Craig Woodruff (12-6-1)\nMain Card: Jordan T
- hompson (14-0-0) vs. Luke Watkins (16-2-0)\nMain Card: Zelfa Barrett (28
- -2-0) vs. Alex Dilmaghani (21-2-1)\nMain Card: Sandy Ryan (5-1-0) vs. Ma
- rie-Pier Houle (8-0-1)\nPrelim: Miles Gordon Darby (3-0-0) vs. Phil Will
- iams (5-41-1)
+ hompson (14-0-0) vs. Luke Watkins (16-2-0)\nMain Card: Sandy Ryan (5-1-0
+ ) vs. Marie-Pier Houle (8-0-1)\nMain Card: Zelfa Barrett (28-2-0) vs. Ja
+ son Sanchez (16-3-0)\nPrelim: Miles Gordon Darby (3-0-0) vs. Phil Willia
+ ms (6-41-1)\nPrelim: Skye Nicolson (6-0-0) vs. Linda Laura Lecca (0-0-0)
+ \nPrelim: Sammy Lee (0-0-0) vs. Juris Zundovskis (6-5-0)\nPrelim: Brando
+ n Scott (0-0-0) vs. Karan Gill (0-0-0)\nPrelim: Nathan Howells (5-0-1) v
+ s. Jahfibus Faure (1-12-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
+UID:2023-04-davis-vs-garcia-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Davis vs. Garcia: Prelims
+DTSTART:20230422T220000Z
+DTEND:20230423T000000Z
+CATEGORIES:TGB,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=pcbV6-u9YoI\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98647-davis-vs-garcia\
+ nhttp://www.boxrec.com/en/event/870316\n\n---\n\nMain Event: Gervonta Da
+ vis (28-0-0) vs. Ryan Garcia (23-0-0)\nCo-Main Event: David Morrell (8-0
+ -0) vs. Yamaguchi Falcão (24-1-1)\nMain Card: Bektemir Melikuziev (11-1-
+ 0) vs. Gabriel Rosado (26-16-1)\nMain Card: Elijah Garcia (14-0-0) vs. K
+ evin Salgado (14-1-1)\nPrelim: Fiodor Cherkashyn (21-0-0) vs. Elias Espa
+ das (22-5-0)\nPrelim: Vito Mielnicki Jr. (14-1-0) vs. Jose Charles (20-3
+ -1)\nPrelim: Floyd Schofield (13-0-0) vs. Jesus Valentin Leon (23-1-2)\n
+ Prelim: Tristan Kalkreuth (9-1-0) vs. Jaime Solorio (12-5-2)\nPrelim: Ja
+ lil Hackett (5-0-0) vs. Jason Phillips (3-3-2)\nPrelim: Lorenzo Simpson 
+ (12-0-0) vs. Pachino Hill (8-1-1)\nPrelim: Cuttino Oliver (0-0-0) vs. Ro
+ berto Cantu Pena (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-04-davis-vs-garcia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Davis vs. Garcia
+DTSTART:20230423T000000Z
+DTEND:20230423T030000Z
+CATEGORIES:TGB,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/davis-vs-garcia/2pcw7/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/98647-davis-vs-ga
+ rcia\nhttp://www.boxrec.com/en/event/870316\n\n---\n\nMain Event: Gervon
+ ta Davis (28-0-0) vs. Ryan Garcia (23-0-0)\nCo-Main Event: David Morrell
+  (8-0-0) vs. Yamaguchi Falcão (24-1-1)\nMain Card: Bektemir Melikuziev (
+ 11-1-0) vs. Gabriel Rosado (26-16-1)\nMain Card: Elijah Garcia (14-0-0) 
+ vs. Kevin Salgado (14-1-1)\nPrelim: Fiodor Cherkashyn (21-0-0) vs. Elias
+  Espadas (22-5-0)\nPrelim: Vito Mielnicki Jr. (14-1-0) vs. Jose Charles 
+ (20-3-1)\nPrelim: Floyd Schofield (13-0-0) vs. Jesus Valentin Leon (23-1
+ -2)\nPrelim: Tristan Kalkreuth (9-1-0) vs. Jaime Solorio (12-5-2)\nPreli
+ m: Jalil Hackett (5-0-0) vs. Jason Phillips (3-3-2)\nPrelim: Lorenzo Sim
+ pson (12-0-0) vs. Pachino Hill (8-1-1)\nPrelim: Cuttino Oliver (0-0-0) v
+ s. Roberto Cantu Pena (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-04-harper-vs-braekhus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Harper vs. Braekhus
@@ -57,37 +167,75 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98517-harper-vs-braekhus
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
+UID:2023-04-zepeda-vs-arboleda@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zepeda vs. Arboleda
+DTSTART:20230430T000000Z
+DTEND:20230430T030000Z
+CATEGORIES:GBP,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97003-ortiz-vs-stanionis\n\n---\n\nMain Event: William Zeped
+ a (26-0-0) vs. Jaime Arboleda (19-2-0)\nMain Card: Diego De La Hoya (24-
+ 1-0) vs. Victor Morales Jr (17-0-1)\nMain Card: Raul Curiel (12-0-0) vs.
+  Fredrick Lawson (29-3-0)\nMain Card: David Stevens (12-0-0) vs. Marco A
+ ntonio Periban (25-6-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-05-canelo-vs-ryder@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Canelo vs. Ryder
-DTSTART:20230507T010000Z
-DTEND:20230507T040000Z
-CATEGORIES:CP,Boxen,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/98324-canelo-vs-r
- yder\nhttps://www.matchroomboxing.com/events/canelo-vs-ryder/\nhttp://ww
- w.boxrec.com/en/event/869585\n\n---\n\nMain Event: Canelo Álvarez (58-2-
- 2) vs. John Ryder (32-5-0)\nMain Card: Oleksandr Gvozdyk (18-1-0) vs. Ri
- cards Bolotniks (19-6-1)
+DTSTART:20230506T230000Z
+DTEND:20230507T020000Z
+CATEGORIES:CP,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98324-canelo-vs-ryder\nhttps://www.matchroomboxing.com/event
+ s/canelo-vs-ryder/\nhttp://www.boxrec.com/en/event/869585\n\n---\n\nMain
+  Event: Canelo Álvarez (58-2-2) vs. John Ryder (32-5-0)\nCo-Main Event: 
+ Julio Cesar Martinez (19-2-0) vs. Ronal Batista (15-2-0)\nMain Card: Ole
+ ksandr Gvozdyk (18-1-0) vs. Ricards Bolotniks (19-6-1)\nMain Card: Gabri
+ el Valenzuela (26-3-1) vs. Steve Spark (16-2-0)\nMain Card: Nathan Rodri
+ guez (10-0-0) vs. Alexander Mejia (19-5-0)\nMain Card: Bek Nurmaganbet (
+ 9-0-0) vs. Argenis Espana (15-1-0)\nMain Card: Lawrence King (11-1-0) vs
+ . Elio Rafael (19-4-0)\nMain Card: Johan Alvarez (5-0-1) vs. J. Rodrigue
+ z Arreguin (0-0-0)\nMain Card: Abilkhan Amankul (0-0-0) vs. Jesus Moroyo
+ qui (6-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
+UID:2023-05-ksi-vs-fournier@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSI vs. Fournier
+DTSTART:20230513T180000Z
+DTEND:20230513T210000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/97227-mf-dazn-x-series-7\n\n---\n\nMain Event: Olajide Olatunji (1-0-0
+ ) vs. Joe Fournier (9-0-0)\nCo-Main Event: Oladeji Olatunji (0-0-0) vs. 
+ Brandon Scott (0-0-0)\nMain Card: Tennessee Thresher (0-0-0) vs. Paige M
+ eade (0-0-0)\nMain Card: Victor Mélida Cambra (0-0-0) vs. Dakota Miller 
+ (0-1-0)\nMain Card: Arabella del Busso (0-0-0) vs. Morgan Lee (0-0-0)\nM
+ ain Card: Busta Breezie (0-0-0) vs. Anthony Taylor (2-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-05-taylor-vs-cameron@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Cameron
-DTSTART:20230520T190000Z
-DTEND:20230520T220000Z
+DTSTART:20230520T180000Z
+DTEND:20230520T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/99223-taylor-vs-cameron\nhttps://www.matchroomboxing.com/events/taylor
  -vs-cameron/\nhttp://www.boxrec.com/en/event/870571\n\n---\n\nMain Event
  : Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)\nMain Card: Denni
  s Hogan (31-4-1) vs. James Metcalf (24-2-0)\nMain Card: Terri Harper (13
- -1-1) vs. Cecilia Braekhus (37-2-0)\nMain Card: Cherneka Johnson (15-1-0
- ) vs. Ellie Scotney (6-0-0)
+ -1-1) vs. Cecilia Braekhus (37-2-0)\nMain Card: Thomas Carty (4-0-0) vs.
+  Jay McFarlane (14-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
 UID:2023-05-taylor-vs-serrano-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano 2
@@ -98,7 +246,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98165-taylor-serrano-2\nhttp://www.boxrec.com/en/event/868405
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -109,7 +257,49 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
  ma-k1-boxen-no-132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230416T220308Z
+DTSTAMP:20230420T164959Z
+UID:2023-05-lara-vs-wood-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lara vs. Wood 2
+DTSTART:20230527T190000Z
+DTEND:20230527T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/99970-lara-vs-wood-2\nhttps://www.matchroomboxing.com/events/lara-vs-w
+ ood-2/\nhttp://www.boxrec.com/en/event/871347\n\n---\n\nMain Event: Maur
+ icio Lara (25-2-1) vs. Leigh Wood (26-3-0)\nMain Card: Jack Catterall (2
+ 6-1-0) vs. Darragh Foley (22-4-1)\nMain Card: Danny Ball (12-1-1) vs. An
+ thony Tomlinson (15-1-0)\nMain Card: Kieron Conway (19-3-1) vs. Linus Ud
+ ofia (18-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-universum-boxing-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/100254-universum-boxing-night\nhttp://www.boxrec.com/en/event/87059
+ 3\n\n---\n\nMain Event: Luka Plantic (5-0-0) vs. Yusuf Kanguel (22-5-1)\
+ nMain Card: Rostam Ibrahim (11-0-2) vs. Leon Bunn (18-1-0)\nMain Card: J
+ ose Larduet (9-0-0) vs. Ali Kiydin (15-2-0)\nMain Card: Ben Adwubi (5-0-
+ 0) vs. Mohamed Abdallah (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-mf-dazn-x-series-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MF & DAZN X Series 8
+DTSTART:20230610T220000Z
+DTEND:20230611T010000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98250-mf-dazn-x-series-8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -118,5 +308,99 @@ DTEND:20230617T180000Z
 CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
  ma-k1-boxen-no-134
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-berlanga-vs-quigley@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Berlanga vs. Quigley
+DTSTART:20230625T010000Z
+DTEND:20230625T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/100235-berlanga-vs-quigley\nhttp://www.boxrec.com/en/event/871639\n\n-
+ --\n\nMain Event: Edgar Berlanga (20-0-0) vs. Jason Quigley (20-2-0)\nMa
+ in Card: Peter McGrail (7-0-0) vs. Diego Alberto Ruiz (24-6-1)\nMain Car
+ d: Adam Kownacki (20-3-0) vs. Joe Cusumano (21-4-0)\nMain Card: Reshat M
+ ati (13-0-0) vs. Wesley Ferrer (16-1-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-07-smith-vs-maxwell@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Smith vs. Maxwell
+DTSTART:20230701T190000Z
+DTEND:20230701T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/100515-smith-vs-maxwell\nhttp://www.boxrec.com/en/event/872106\n\n---\
+ n\nMain Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-07-mf-dazn-x-series-9@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MF & DAZN X Series 9
+DTSTART:20230722T160000Z
+DTEND:20230722T190000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98251-mf-dazn-x-series-9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-08-paul-vs-diaz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Paul vs. Diaz
+DTSTART:20230806T000000Z
+DTEND:20230806T030000Z
+CATEGORIES:MVP,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/100316-paul-vs-di
+ az\n\n---\n\nMain Event: Jake Paul (6-1-0) vs. Nate Diaz (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-08-mf-dazn-x-series-10@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MF & DAZN X Series 10
+DTSTART:20230826T170000Z
+DTEND:20230826T200000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98252-mf-dazn-x-series-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-09-mf-dazn-x-series-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MF & DAZN X Series 11
+DTSTART:20230930T160000Z
+DTEND:20230930T190000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98253-mf-dazn-x-series-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-11-mf-dazn-x-series-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MF & DAZN X Series 12
+DTSTART:20231104T220000Z
+DTEND:20231105T010000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98254-mf-dazn-x-series-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-12-mf-dazn-x-series-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MF & DAZN X Series 13
+DTSTART:20231216T180000Z
+DTEND:20231216T210000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/98255-mf-dazn-x-series-13\n\n---\n\nMain Card: Olajide Olatunji (1-0-0
+ ) vs. Jake Paul (6-1-0)
 END:VEVENT
 END:VCALENDAR

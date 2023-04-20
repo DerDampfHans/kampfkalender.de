@@ -36,9 +36,13 @@
         "Main Event: Shavkatdzhon Rakhimov (17-0-1) vs. Joe Cordina (15-0-0)",
         "Main Card: Gavin Gwynne (15-2-1) vs. Craig Woodruff (12-6-1)",
         "Main Card: Jordan Thompson (14-0-0) vs. Luke Watkins (16-2-0)",
-        "Main Card: Zelfa Barrett (28-2-0) vs. Alex Dilmaghani (21-2-1)",
         "Main Card: Sandy Ryan (5-1-0) vs. Marie-Pier Houle (8-0-1)",
-        "Prelim: Miles Gordon Darby (3-0-0) vs. Phil Williams (5-41-1)"
+        "Main Card: Zelfa Barrett (28-2-0) vs. Jason Sanchez (16-3-0)",
+        "Prelim: Miles Gordon Darby (3-0-0) vs. Phil Williams (6-41-1)",
+        "Prelim: Skye Nicolson (6-0-0) vs. Linda Laura Lecca (0-0-0)",
+        "Prelim: Sammy Lee (0-0-0) vs. Juris Zundovskis (6-5-0)",
+        "Prelim: Brandon Scott (0-0-0) vs. Karan Gill (0-0-0)",
+        "Prelim: Nathan Howells (5-0-1) vs. Jahfibus Faure (1-12-1)"
       ],
       "links": [
         "https://www.matchroomboxing.com/events/rakhimov-vs-cordina/",
@@ -69,6 +73,51 @@
     }
   },
   {
+    "id": "tapology-99223",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#TaylorCameron"
+    ],
+    "mainCard": {
+      "title": "Taylor vs. Cameron",
+      "time": "2023-05-20T18:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "11s9p5kz8gir11l0fl1pd6k2y2",
+        "time": "2023-05-20T18:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Taylor vs Cameron"
+      }
+    },
+    "tapology": {
+      "id": 99223,
+      "time": "2023-05-20T19:00:00Z",
+      "title": "Taylor vs. Cameron",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/99223-taylor-vs-cameron",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)",
+        "Main Card: Dennis Hogan (31-4-1) vs. James Metcalf (24-2-0)",
+        "Main Card: Terri Harper (13-1-1) vs. Cecilia Braekhus (37-2-0)",
+        "Main Card: Thomas Carty (4-0-0) vs. Jay McFarlane (14-7-0)"
+      ],
+      "links": [
+        "https://www.matchroomboxing.com/events/taylor-vs-cameron/",
+        "http://www.boxrec.com/en/event/870571"
+      ]
+    }
+  },
+  {
     "id": "tapology-98165",
     "promotion": "MB_BOXING",
     "sports": [
@@ -94,37 +143,102 @@
     }
   },
   {
-    "id": "tapology-99223",
+    "id": "tapology-99970",
     "promotion": "MB_BOXING",
     "sports": [
       "BOXING"
     ],
     "mainCard": {
-      "title": "Taylor vs. Cameron",
-      "time": "2023-05-20T19:00:00Z",
+      "title": "Lara vs. Wood 2",
+      "time": "2023-05-27T19:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
       }
     },
     "tapology": {
-      "id": 99223,
-      "time": "2023-05-20T19:00:00Z",
-      "title": "Taylor vs. Cameron",
+      "id": 99970,
+      "time": "2023-05-27T19:00:00Z",
+      "title": "Lara vs. Wood 2",
       "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/99223-taylor-vs-cameron",
+      "url": "https://www.tapology.com/fightcenter/events/99970-lara-vs-wood-2",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)",
-        "Main Card: Dennis Hogan (31-4-1) vs. James Metcalf (24-2-0)",
-        "Main Card: Terri Harper (13-1-1) vs. Cecilia Braekhus (37-2-0)",
-        "Main Card: Cherneka Johnson (15-1-0) vs. Ellie Scotney (6-0-0)"
+        "Main Event: Mauricio Lara (25-2-1) vs. Leigh Wood (26-3-0)",
+        "Main Card: Jack Catterall (26-1-0) vs. Darragh Foley (22-4-1)",
+        "Main Card: Danny Ball (12-1-1) vs. Anthony Tomlinson (15-1-0)",
+        "Main Card: Kieron Conway (19-3-1) vs. Linus Udofia (18-1-0)"
       ],
       "links": [
-        "https://www.matchroomboxing.com/events/taylor-vs-cameron/",
-        "http://www.boxrec.com/en/event/870571"
+        "https://www.matchroomboxing.com/events/lara-vs-wood-2/",
+        "http://www.boxrec.com/en/event/871347"
+      ]
+    }
+  },
+  {
+    "id": "tapology-100235",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Berlanga vs. Quigley",
+      "time": "2023-06-25T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 100235,
+      "time": "2023-06-25T01:00:00Z",
+      "title": "Berlanga vs. Quigley",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/100235-berlanga-vs-quigley",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Edgar Berlanga (20-0-0) vs. Jason Quigley (20-2-0)",
+        "Main Card: Peter McGrail (7-0-0) vs. Diego Alberto Ruiz (24-6-1)",
+        "Main Card: Adam Kownacki (20-3-0) vs. Joe Cusumano (21-4-0)",
+        "Main Card: Reshat Mati (13-0-0) vs. Wesley Ferrer (16-1-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/871639"
+      ]
+    }
+  },
+  {
+    "id": "tapology-100515",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Smith vs. Maxwell",
+      "time": "2023-07-01T19:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 100515,
+      "time": "2023-07-01T19:00:00Z",
+      "title": "Smith vs. Maxwell",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/100515-smith-vs-maxwell",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/872106"
       ]
     }
   }

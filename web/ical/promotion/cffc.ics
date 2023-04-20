@@ -4,22 +4,39 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230409T220306Z
-X-KAMPFKALENDER-HASH:ca29977cc5e9e6249bb9a8900cacc2aaac885729
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:e1fc2580b8447976a10deb275a7a716e316522e3
 BEGIN:VEVENT
-DTSTAMP:20230409T220307Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-cffc-119-beard-vs-ellis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 119: Beard vs. Ellis
-DTSTART:20230420T220000Z
-DTEND:20230421T010000Z
+DTSTART:20230421T010000Z
+DTEND:20230421T040000Z
 CATEGORIES:CFFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/98799-cffc-119-beard-vs-ellis\nhttp://www.sherdog.com/events
- /cffc-119-cage-fury-fighting-championships-119-beard-vs-ellis-96732\n\n-
- --\n\nMain Event: Donovan Beard (7-2-0) vs. Gregg Ellis (7-4-0)\nMain Ca
- rd: Collin Lubberts (6-2-0) vs. Hugh Pulley (8-6-0)\nMain Card: Brandon 
- Lopez (5-5-0) vs. Thomas Majeski (3-3-0)\nMain Card: Tyler Keating (1-1-
- 0) vs. William Rentz (1-1-0)
+ /cffc-119-cage-fury-fighting-championships-119-beard-vs-ellis-96732\nhtt
+ ps://events.mixedmartialarts.com/cffc-119:3a15fd3e-eac5-4fdb-bf74-67ab36
+ 82a5bb\n\n---\n\nMain Event: Donovan Beard (7-2-0) vs. Gregg Ellis (7-4-
+ 0)\nMain Card: Collin Lubberts (6-2-0) vs. Hugh Pulley (8-6-0)\nMain Car
+ d: Tyler Keating (1-1-0) vs. William Rentz (1-1-0)\nMain Card: Emiliano 
+ Calderón (2-2-0) vs. Robert Varricchio (3-0-0)\nMain Card: Will Spann II
+ I (2-1-0) vs. Shamel Findley (5-1-1)\nMain Card: Jomal Rodriguez (4-3-0)
+  vs. Brandon Lopez (5-5-0)\nMain Card: Gus D'Angelo (2-3-0) vs. Jesus He
+ rnandez (1-3-0)\nMain Card: Alvin Welch (1-0-0) vs. Max Quinones (2-0-0)
+ \nMain Card: Chad Ritter (0-0-0) vs. Morquez Forest (0-0-0)\nMain Card: 
+ Isaiah Sackey-El (1-0-0) vs. Kareem Kline (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-cffc-120@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 120
+DTSTART:20230616T230000Z
+DTEND:20230617T020000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/100442-cffc-120
 END:VEVENT
 END:VCALENDAR

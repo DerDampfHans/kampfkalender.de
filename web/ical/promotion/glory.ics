@@ -4,21 +4,40 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230327T105159Z
-X-KAMPFKALENDER-HASH:015dcde4d83b9242587675a649c0bcd3fb774e73
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:38ba37c540735f57ca1102d43b2da3d3402e3eb6
 BEGIN:VEVENT
-DTSTAMP:20230327T105200Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-glory-85@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 85
-DTSTART:20230429T180000Z
-DTEND:20230429T210000Z
+DTSTART:20230429T170000Z
+DTEND:20230429T200000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/99755-glory-85\n\n---\n\nMain Event: Endy Semelee
- r vs. Murthel Groenhart\nMain Card: Michael Duut vs. Mohamed Amine\nMain
-  Card: Berjan Peposhi vs. Jan Kaffa\nMain Card: Luis Tavares vs. Enver S
- ljivar\nMain Card: Jahfarr Wilnis vs. Kevin Tariq Osaro\nPrelim: Murat A
- ygun vs. Nicola Filipovic\nPrelim: Iliass Hammouche vs. Brice Kombou
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Jtr-o1MU2AQ\
+ nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-85/\nhttps://ww
+ w.tapology.com/fightcenter/events/99755-glory-85\n\n---\n\nMain Event: E
+ ndy Semeleer vs. Murthel Groenhart\nMain Card: Michael Duut vs. Mohamed 
+ Amine\nMain Card: Berjan Peposhi vs. Jan Kaffa\nMain Card: Luis Tavares 
+ vs. Enver Sljivar\nMain Card: Jahfarr Wilnis vs. Kevin Tariq Osaro\nPrel
+ im: Murat Aygun vs. Nicola Filipovic\nPrelim: Maksymilian Bratkowicz vs.
+  Brice Kombou
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-05-glory-86@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 86
+DTSTART:20230527T170000Z
+DTEND:20230527T200000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=2P9AwUH4mmI\
+ nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-86/\nhttps://ww
+ w.tapology.com/fightcenter/events/100459-glory-86\n\n---\n\nMain Event: 
+ P. Kiatmoo9 vs. Ahmad Chikh Mousa\nCo-Main Event: Mohamed Mezouari vs. S
+ ofiane Gelin\nMain Card: Benjamin Adegbuyi vs. Sofian Laïdouni\nMain Car
+ d: Guerric Billet vs. Enriko Kehl\nMain Card: Robin Ciric vs. Chico Kwas
+ i\nMain Card: Uku Jürjendal vs. Mantas Rimdeika\nMain Card: Juri de Sous
+ a vs. Joilton Lutterbach
 END:VEVENT
 END:VCALENDAR

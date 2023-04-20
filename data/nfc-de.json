@@ -17,19 +17,32 @@
       "time": "2023-05-27T21:00:00Z",
       "until": "2023-05-27T22:30:00Z",
       "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=Jtr-o1MU2AQ"
+        },
         "SPORT1": {
           "free": true
-        },
-        "FIGHTING_DE": {
         }
       }
     },
     "prelims": {
       "title": "NFC 14: Main Card",
-      "time": "2023-05-27T18:00:00Z",
+      "time": "2023-05-27T16:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=VyLS1yPn8Jo"
         }
+      },
+      "youTube": {
+        "id": "VyLS1yPn8Jo",
+        "time": "2023-05-27T16:00:00Z",
+        "title": "NFC 14  | LIVE aus Bonn | AKIPA | HOLZER | RAYOMBA - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=VyLS1yPn8Jo",
+        "tags": [
+          "#Fighting",
+          "#Kampfsport",
+          "#MMA"
+        ]
       }
     },
     "earlyPrelims": {
@@ -45,8 +58,22 @@
       "id": 94581,
       "time": "2023-05-27T16:00:00Z",
       "title": "NFC 14",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/94581-nfc-14"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94581-nfc-14",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Cihad Akipa (5-0-0) vs. Elias Jakobi (3-0-0)",
+        "Main Card: Timo Ernst (1-0-0) vs. Shamdin Al Hassan (0-0-0)",
+        "Main Card: Eduard Kexel (8-1-0) vs. Bekhruz Zukhurov (16-6-0)",
+        "Main Card: Cagri Ucar (5-1-0) vs. Dino Starcevic (4-0-0)",
+        "Main Card: Deni Mirnić (2-3-0) vs. Saeed Younesi (5-4-0)",
+        "Main Card: David Piechaczek (0-0-0) vs. Ali Simmo (0-0-1)",
+        "Main Card: Pantelei Taran (6-4-0) vs. Rijad Jaha (3-1-0)",
+        "Main Card: Daniel Solaja (1-0-0) vs. Luka Milidragović (3-0-0)",
+        "Main Card: Fedor Duric (2-0-0) vs. Silvis Jansons (4-0-0)"
+      ]
     }
   },
   {

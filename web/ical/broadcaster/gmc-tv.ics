@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230408T220304Z
-X-KAMPFKALENDER-HASH:57749833c961fb8d3bd739e0b7ea0229aca04b0b
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:5cc97145b9622837c471be111bbd9b9e91345bc2
 BEGIN:VEVENT
-DTSTAMP:20230408T220305Z
+DTSTAMP:20230420T165000Z
 UID:2023-04-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230415-olympix-g
  rappling-no-129
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230408T220305Z
+DTSTAMP:20230420T165000Z
 UID:2023-04-olympix-k1-boxen-mma-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -29,7 +29,20 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230422-olympix-m
  ma-k1-boxen-no-130
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230408T220305Z
+DTSTAMP:20230420T165000Z
+UID:2023-05-gmc-special-fight-series-bozemann-vs-manuellsen@kampfkalender
+ .de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Special Fight Series: Bözemann vs Manuellsen
+DTSTART:20230506T170000Z
+DTEND:20230506T200000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230506-gmc-speci
+ al-fight-series-1-manuellsen-vs-bozemann\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/99873-gmc-special-fight-series
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T165000Z
 UID:2023-05-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -40,7 +53,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230513-olympix-g
  rappling-no-131
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230408T220305Z
+DTSTAMP:20230420T165000Z
 UID:2023-05-gmc-34@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 34
@@ -51,12 +64,14 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230520-gmc-34\n\
  n---\n\nhttps://www.tapology.com/fightcenter/events/95172-gmc-34\n\n---\
  n\nMain Event: Edilson França (9-8-0) vs. Michael Smolik (5-1-0)\nMain C
  ard: Christian Draxler (17-8-0) vs. Anatolij Baal (9-3-1)\nMain Card: Ma
- hmut Özyildirim (0-1-0) vs. Stefan Sigler (1-1-0)\nMain Card: Michael Ri
- rsch (9-7-1) vs. Adrian Zeitner (10-3-0)\nMain Card: Oemer Cankardesler 
- (12-13-2) vs. Muhammed Celebi (9-7-1)
+ hmut Özyildirim (0-1-0) vs. Stefan Sigler (1-1-0)\nMain Card: Oemer Cank
+ ardesler (12-13-2) vs. Muhammed Celebi (9-7-1)\nMain Card: Abdallah Gama
+ l (3-3-0) vs. Simon Schuster (3-1-0)\nMain Card: Kamila Šimková (1-0-0) 
+ vs. Lorena Cubero (2-0-0)\nMain Card: Ali Reza Rasuli (5-0-1) vs. Adrian
+  Zeitner (10-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230408T220305Z
+DTSTAMP:20230420T165000Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -67,7 +82,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
  ma-k1-boxen-no-132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230408T220305Z
+DTSTAMP:20230420T165000Z
 UID:2023-06-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -78,7 +93,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230610-olympix-g
  rappling-no-133
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230408T220305Z
+DTSTAMP:20230420T165000Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA

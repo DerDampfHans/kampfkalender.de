@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230402T220306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:0e06cfd697722127520bd24a9ee4d734e5803db0
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-05-bkb-32@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 32
+DTSTART:20230521T180000Z
+DTEND:20230521T210000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/99759-bkb-32\n\n---\n\nMain Card: Jimmy Sweeney vs. Jonny Tello\nMa
+ in Card: Scott McHugh vs. Aaron McCallum\nMain Card: Charlie Milner vs. 
+ Paul Webster\nMain Card: Jody Meikle vs. Martyn Grainger\nMain Card: Bea
+ u Besley vs. Michael Devine\nMain Card: Danny Meins vs. Tony Meehan
+END:VEVENT
 END:VCALENDAR

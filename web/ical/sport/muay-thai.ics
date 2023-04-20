@@ -4,21 +4,77 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230331T220304Z
-X-KAMPFKALENDER-HASH:0a4a546b34a7993453bc69d33574282754eae590
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:146e44e89d047c69318bc10d31e0b1d3ca72020a
 BEGIN:VEVENT
-DTSTAMP:20230331T220305Z
-UID:2023-04-one-fight-night-9@kampfkalender.de
+DTSTAMP:20230420T164959Z
+UID:2023-04-one-friday-fights-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Fight Night 9
+SUMMARY:One Friday Fights 13
+DTSTART:20230421T123000Z
+DTEND:20230421T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aTpeoBnyUxw\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/100234-one-friday-figh
+ ts-13\n\n---\n\nMain Card: Rambolek Tor Yotha vs. ChengLong Zhang
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-04-one-fight-night-9-nong-o-vs-haggerty@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 9: Nong-O vs. Haggerty
 DTSTART:20230422T000000Z
 DTEND:20230422T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WsStyb-umZk\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/96959-one-on-prime-vid
+ eo-9\nhttp://www.sherdog.com/events/one-championship-one-on-prime-video-
+ 9-nongo-vs-haggerty-96112\nhttps://events.mixedmartialarts.com/one-fight
+ -night-9:18323f5b-f325-4ab1-ac98-5b5bb45f5d66\nhttps://www.onefc.com/eve
+ nts/onefightnight9/\n\n---\n\nMain Event: Nong-O Gaiyanghadao vs. Jonath
+ an Haggerty\nCo-Main Event: Halil Amir (8-0-0) vs. Maurice Abévi (6-0-0)
+ \nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba Minowa (13-3-0)\nMain C
+ ard: Saemapetch Fairtex vs. Felipe Lobo\nMain Card: Denice Zamboanga (9-
+ 2-0) vs. Julie Mezabarba (9-4-1)\nMain Card: Isi Fitikefu (7-1-0) vs. Va
+ lmir da Silva (9-2-0)\nMain Card: Bo Meng (20-6-0) vs. Dayane Cardoso (9
+ -1-1)\nMain Card: Denis Purić vs. Jacob Smith\nMain Card: Han Zi Hao vs.
+  Asa Ten Pow\nMain Card: Jhanlo Mark Sangiao (5-0-0) vs. Matias Farinell
+ i (5-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-04-night-of-the-predators-2-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night Of The Predators 2: Prelims
+DTSTART:20230422T140000Z
+DTEND:20230422T160000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live,kosten
+ los
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AEgJfRhxHE0\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-night-of-the-pre
+ dators-2-587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-04-night-of-the-predators-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night Of The Predators 2
+DTSTART:20230422T160000Z
+DTEND:20230422T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ov39Qe0bCyU\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-night-of-the-pre
+ dators-2-587
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-06-one-fight-night-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 11
+DTSTART:20230610T000000Z
+DTEND:20230610T030000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/96959-one-on-prime-video-9\n\n---\n\nMain Event: Nong-O Gaiyanghada
- o vs. Jonathan Haggerty\nMain Card: Bokang Masunyane (8-1-0) vs. Hiroba 
- Minowa (13-3-0)\nMain Card: Denice Zamboanga (9-2-0) vs. Julie Mezabarba
-  (9-4-1)\nMain Card: Ferrari Fairtex vs. Felipe Lobo\nMain Card: Jhanlo 
- Mark Sangiao (5-0-0) vs. Matias Farinelli (5-0-0)
+ ents/100343-one-fight-night-11
 END:VEVENT
 END:VCALENDAR

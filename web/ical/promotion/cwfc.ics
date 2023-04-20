@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230331T220304Z
-X-KAMPFKALENDER-HASH:f9bd5bd10cfa724b4cbc6f3ba4b04d34b927709e
+DTSTAMP:20230420T164959Z
+X-KAMPFKALENDER-HASH:b53b0bf969cc1b7a1f2d0e88d4a62e13065211a8
 BEGIN:VEVENT
-DTSTAMP:20230331T220305Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-cage-warriors-152-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 152: Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  p (11-2-0) vs. Ghassan Abdenabi (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230331T220305Z
+DTSTAMP:20230420T164959Z
 UID:2023-04-cage-warriors-152-hardwick-vs-liasse@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 152: Hardwick vs. Liasse
@@ -51,12 +51,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  p (11-2-0) vs. Ghassan Abdenabi (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230331T220305Z
-UID:2023-04-cage-warriors-153-dublin@kampfkalender.de
+DTSTAMP:20230420T164959Z
+UID:2023-04-cage-warriors-153-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors 153: Dublin
-DTSTART:20230429T200000Z
-DTEND:20230429T230000Z
+SUMMARY:Cage Warriors 153: Prelims
+DTSTART:20230429T170000Z
+DTEND:20230429T180000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/97499-cage-warriors-153-dublin\n\n---\n\nMain Event: Rhys Mc
@@ -68,27 +68,84 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  'Sullivan (1-0-0) vs. Tom Wright (0-1-0)\nMain Card: Taka Mhandu (2-1-0)
   vs. Benoit Blanc (5-2-0)\nMain Card: Decky McAleenan (7-5-1) vs. Wasi A
  deshina (4-2-0)\nMain Card: Ryan Curtis (6-3-0) vs. Nicolas Leblond (7-4
- -0)\nPrelim: Kyle McClurkin (3-2-0) vs. Owain Williams (0-2-0)\nPrelim: 
- Angus Hewett (0-0-0) vs. Paddy McCorry (2-1-0)\nPrelim: Adam Darby (1-1-
- 0) vs. Jack Tucker (1-0-0)
+ -0)\nMain Card: Morgan Charriere (16-9-1) vs. Pedro Colman (8-3-0)\nPrel
+ im: Kyle McClurkin (3-2-0) vs. Owain Williams (0-2-0)\nPrelim: Angus Hew
+ ett (0-0-0) vs. Paddy McCorry (2-1-0)\nPrelim: Adam Darby (1-1-0) vs. Ja
+ ck Tucker (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230331T220305Z
-UID:2023-05-cage-warriors-154@kampfkalender.de
+DTSTAMP:20230420T164959Z
+UID:2023-04-cage-warriors-153-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors 154
-DTSTART:20230506T200000Z
-DTEND:20230506T230000Z
+SUMMARY:Cage Warriors 153: Dublin
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97499-cage-warriors-153-dublin\n\n---\n\nMain Event: Rhys Mc
+ Kee (12-4-1) vs. Jim Wallhead (33-11-0)\nMain Card: James Sheehan (6-2-0
+ ) vs. Oban Elliott (7-2-0)\nMain Card: Tobias Harila (11-3-0) vs. Ryan S
+ helley (6-0-0)\nMain Card: Solomon Simon (1-0-0) vs. Dorian Cliucinicov 
+ (2-3-0)\nMain Card: Adam Shelley (3-2-0) vs. Dean Barry (4-2-0)\nMain Ca
+ rd: Leon Hill (4-1-0) vs. Marcin Zembala (7-6-0)\nMain Card: Alexander O
+ 'Sullivan (1-0-0) vs. Tom Wright (0-1-0)\nMain Card: Taka Mhandu (2-1-0)
+  vs. Benoit Blanc (5-2-0)\nMain Card: Decky McAleenan (7-5-1) vs. Wasi A
+ deshina (4-2-0)\nMain Card: Ryan Curtis (6-3-0) vs. Nicolas Leblond (7-4
+ -0)\nMain Card: Morgan Charriere (16-9-1) vs. Pedro Colman (8-3-0)\nPrel
+ im: Kyle McClurkin (3-2-0) vs. Owain Williams (0-2-0)\nPrelim: Angus Hew
+ ett (0-0-0) vs. Paddy McCorry (2-1-0)\nPrelim: Adam Darby (1-1-0) vs. Ja
+ ck Tucker (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-05-cage-warriors-154-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 154: Prelims
+DTSTART:20230506T180000Z
+DTEND:20230506T190000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/98570-cage-warriors-154-rome\n\n---\n\nMain Card: Dylan Haza
  n (9-0-0) vs. Caolan Loughran (7-0-0)\nMain Card: Leon Aliu (10-2-0) vs.
   Darren Stewart (13-9-0)\nMain Card: Michelangelo Lupoli (6-2-0) vs. Sam
   Creasey (16-5-0)\nMain Card: Emanuele Zaccaria (5-1-0) vs. Sylwester Mi
- ller (10-6-0)
+ ller (10-6-0)\nMain Card: Jasmine Favero (2-0-0) vs. Izabela Walczak (1-
+ 0-0)\nMain Card: Tanio Pagliariccio (8-2-0) vs. Gerardo Fanny (12-3-0)\n
+ Main Card: Carlo Pedersoli (14-4-0) vs. Giannis Bachar (7-2-0)\nMain Car
+ d: Guido Possidente (3-0-0) vs. Gianluca Rocca (7-3-0)\nMain Card: Simon
+ e Patrizi (5-1-0) vs. Ermil Xhaferi (4-0-1)\nPrelim: Yoga Prabowo (5-1-0
+ ) vs. Jefferson De Filippis (2-2-0)\nPrelim: Edoardo Caiazza (3-0-0) vs.
+  Marko Sarasjärvi (2-0-0)\nPrelim: Khadim Dia (2-0-0) vs. Milton Afonso 
+ Cabral (4-2-0)\nPrelim: Alessandro Giordano (6-2-0) vs. Enrico Di Gangi 
+ (3-1-0)\nPrelim: Jovidon Khojaev (3-1-1) vs. Emanuele Sabatino (4-1-0)\n
+ Prelim: Francesco Mazzeo (1-0-0) vs. Joan Arastey (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230331T220305Z
+DTSTAMP:20230420T164959Z
+UID:2023-05-cage-warriors-154-rome@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 154: Rome
+DTSTART:20230506T190000Z
+DTEND:20230506T220000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/98570-cage-warriors-154-rome\n\n---\n\nMain Card: Dylan Haza
+ n (9-0-0) vs. Caolan Loughran (7-0-0)\nMain Card: Leon Aliu (10-2-0) vs.
+  Darren Stewart (13-9-0)\nMain Card: Michelangelo Lupoli (6-2-0) vs. Sam
+  Creasey (16-5-0)\nMain Card: Emanuele Zaccaria (5-1-0) vs. Sylwester Mi
+ ller (10-6-0)\nMain Card: Jasmine Favero (2-0-0) vs. Izabela Walczak (1-
+ 0-0)\nMain Card: Tanio Pagliariccio (8-2-0) vs. Gerardo Fanny (12-3-0)\n
+ Main Card: Carlo Pedersoli (14-4-0) vs. Giannis Bachar (7-2-0)\nMain Car
+ d: Guido Possidente (3-0-0) vs. Gianluca Rocca (7-3-0)\nMain Card: Simon
+ e Patrizi (5-1-0) vs. Ermil Xhaferi (4-0-1)\nPrelim: Yoga Prabowo (5-1-0
+ ) vs. Jefferson De Filippis (2-2-0)\nPrelim: Edoardo Caiazza (3-0-0) vs.
+  Marko Sarasjärvi (2-0-0)\nPrelim: Khadim Dia (2-0-0) vs. Milton Afonso 
+ Cabral (4-2-0)\nPrelim: Alessandro Giordano (6-2-0) vs. Enrico Di Gangi 
+ (3-1-0)\nPrelim: Jovidon Khojaev (3-1-1) vs. Emanuele Sabatino (4-1-0)\n
+ Prelim: Francesco Mazzeo (1-0-0) vs. Joan Arastey (2-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
 UID:2023-06-cage-warriors-155-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 155: San Diego
@@ -96,6 +153,95 @@ DTSTART:20230602T220000Z
 DTEND:20230603T010000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/99626-cage-warriors-155-san-diego
+ nter/events/99626-cage-warriors-155-san-diego\n\n---\n\nMain Card: James
+  Lynch (6-3-0) vs. Kyle Driscoll (13-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-07-cage-warriors-157-london@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 157: London
+DTSTART:20230721T150000Z
+DTEND:20230721T180000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99929-cage-warriors-london
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-07-cage-warriors-rome@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors: Rome
+DTSTART:20230729T160000Z
+DTEND:20230729T190000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99930-cage-warriors-rome
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-09-cage-warriors-san-diego@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors: San Diego
+DTSTART:20230908T220000Z
+DTEND:20230909T010000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99931-cage-warriors-san-diego
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-09-cage-warriors-manchester@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors: Manchester
+DTSTART:20230929T150000Z
+DTEND:20230929T180000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99932-cage-warriors-manchester
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-10-cage-warriors-rome@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors: Rome
+DTSTART:20231028T160000Z
+DTEND:20231028T190000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99933-cage-warriors-rome
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-11-cage-warriors-london@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors: London
+DTSTART:20231111T160000Z
+DTEND:20231111T190000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99934-cage-warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-11-cage-warriors-dublin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors: Dublin
+DTSTART:20231125T160000Z
+DTEND:20231125T190000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99935-cage-warriors-dublin
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230420T164959Z
+UID:2023-12-cage-warriors-san-diego@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors: San Diego
+DTSTART:20231215T230000Z
+DTEND:20231216T020000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99936-cage-warriors-san-diego
 END:VEVENT
 END:VCALENDAR

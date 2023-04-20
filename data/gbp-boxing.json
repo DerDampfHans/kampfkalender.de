@@ -5,23 +5,83 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#ZepedaArboleda"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Stanionis vs. Ortiz Jr.",
-      "time": "2023-04-29T20:00:00Z"
+      "title": "Zepeda vs. Arboleda",
+      "time": "2023-04-30T00:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "dazn": {
+        "id": "1ddnqj09xl4p1xdenvtkqhcuv",
+        "time": "2023-04-30T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Zepeda vs Arboleda"
+      }
     },
     "tapology": {
       "id": 97003,
       "time": "2023-04-29T20:00:00Z",
-      "title": "Stanionis vs. Ortiz Jr.",
+      "title": "Zepeda vs. Arboleda",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/97003-ortiz-vs-stanionis",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Eimantas Stanionis (14-0-0) vs. Vergil Ortiz Jr. (19-0-0)"
+        "Main Event: William Zepeda (26-0-0) vs. Jaime Arboleda (19-2-0)",
+        "Main Card: Diego De La Hoya (24-1-0) vs. Victor Morales Jr (17-0-1)",
+        "Main Card: Raul Curiel (12-0-0) vs. Fredrick Lawson (29-3-0)",
+        "Main Card: David Stevens (12-0-0) vs. Marco Antonio Periban (25-6-1)"
       ]
+    }
+  },
+  {
+    "id": "tapology-100134",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Rocha vs. Young",
+      "time": "2023-05-28T01:00:00Z"
+    },
+    "tapology": {
+      "id": 100134,
+      "time": "2023-05-28T01:00:00Z",
+      "title": "Rocha vs. Young",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/100134-rocha-vs-young",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Alexis Rocha (22-1-0) vs. Anthony Young (24-2-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-100135",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Golden Boy Fight Night",
+      "time": "2023-06-09T01:00:00Z"
+    },
+    "tapology": {
+      "id": 100135,
+      "time": "2023-06-09T01:00:00Z",
+      "title": "Golden Boy Fight Night",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/100135-golden-boy-fight-night"
     }
   }
 ]
