@@ -83,5 +83,34 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/100135-golden-boy-fight-night"
     }
+  },
+  {
+    "id": "tapology-100548",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Stanionis vs. Ortiz",
+      "time": "2023-07-09T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 100548,
+      "time": "2023-07-09T01:00:00Z",
+      "title": "Stanionis vs. Ortiz",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/100548-stanionis-vs-ortiz",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Eimantas Stanionis (14-0-0) vs. Vergil Ortiz Jr. (19-0-0)",
+        "Main Card: Marlen Esparza (13-1-0) vs. Celeste Alaniz (14-0-0)"
+      ]
+    }
   }
 ]

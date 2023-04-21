@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230420T170729Z
-X-KAMPFKALENDER-HASH:0dfaf577d56e0eb6f5758f636f7dcaa1c57040e9
+DTSTAMP:20230421T145745Z
+X-KAMPFKALENDER-HASH:72048a4abd40463e3f74230142eed7306a6225e8
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-bkfc-38-nguyen-vs-straus-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38: Nguyen vs. Straus: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-38-prelims/2pcpz/
  is Garcia vs. Philip Ryan Carroll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-bkfc-38-nguyen-vs-straus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38: Nguyen vs. Straus
@@ -49,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-nguyen-vs-straus/
  m: Chris Garcia vs. Philip Ryan Carroll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-bkfc-40-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 40: Prelims
@@ -68,7 +68,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-40-prelims/2pcwb/
  vs. Rob Cunningham\nPrelim: Arron Blakey vs. Naff Higson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-bkfc-40-holmes-vs-christie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 40: Holmes vs. Christie
@@ -87,7 +87,30 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-40/2pcwa/\n\n---\
  Cunningham\nPrelim: Arron Blakey vs. Naff Higson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
+UID:2023-04-davis-vs-garcia-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Davis vs. Garcia: Prelims
+DTSTART:20230422T220000Z
+DTEND:20230423T000000Z
+CATEGORIES:TGB,Boxen,fite.tv,YouTube,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/davis-vs-garcia-prelim
+ s/2pcx8/\nvia YouTube: https://www.youtube.com/watch?v=pcbV6-u9YoI\n\n--
+ -\n\nhttps://www.tapology.com/fightcenter/events/98647-davis-vs-garcia\n
+ http://www.boxrec.com/en/event/870316\n\n---\n\nMain Event: Gervonta Dav
+ is (28-0-0) vs. Ryan Garcia (23-0-0)\nCo-Main Event: David Morrell (8-0-
+ 0) vs. Yamaguchi Falcão (24-1-1)\nMain Card: Bektemir Melikuziev (11-1-0
+ ) vs. Gabriel Rosado (26-16-1)\nMain Card: Elijah Garcia (14-0-0) vs. Ke
+ vin Salgado (14-1-1)\nPrelim: Fiodor Cherkashyn (21-0-0) vs. Elias Espad
+ as (22-5-0)\nPrelim: Vito Mielnicki Jr. (14-1-0) vs. Jose Charles (20-3-
+ 1)\nPrelim: Floyd Schofield (13-0-0) vs. Jesus Valentin Leon (23-1-2)\nP
+ relim: Tristan Kalkreuth (9-1-0) vs. Jaime Solorio (12-5-2)\nPrelim: Jal
+ il Hackett (5-0-0) vs. Jason Phillips (3-3-2)\nPrelim: Lorenzo Simpson (
+ 12-0-0) vs. Pachino Hill (8-1-1)\nPrelim: Cuttino Oliver (2-0-0) vs. Rob
+ erto Cantu Pena (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230421T145746Z
 UID:2023-04-davis-vs-garcia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Davis vs. Garcia
@@ -105,11 +128,11 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/davis-vs-garcia/2pcw7/
  (20-3-1)\nPrelim: Floyd Schofield (13-0-0) vs. Jesus Valentin Leon (23-1
  -2)\nPrelim: Tristan Kalkreuth (9-1-0) vs. Jaime Solorio (12-5-2)\nPreli
  m: Jalil Hackett (5-0-0) vs. Jason Phillips (3-3-2)\nPrelim: Lorenzo Sim
- pson (12-0-0) vs. Pachino Hill (8-1-1)\nPrelim: Cuttino Oliver (0-0-0) v
+ pson (12-0-0) vs. Pachino Hill (8-1-1)\nPrelim: Cuttino Oliver (2-0-0) v
  s. Roberto Cantu Pena (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
@@ -133,7 +156,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-simpson-vs-kaiser/
  0) vs. Artis Lyles (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-aka-28-doyle-vs-manno@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 28: Doyle vs. Manno
@@ -146,7 +169,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-28/2pctd/\n\n---\n
  Sullivan (4-1-0) vs. Coby Bradford (5-8-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-rizin-landmark-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN Landmark 5
@@ -166,7 +189,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-landmark-5-in-yo
   Yamaguchi (21-14-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-bkfc-41-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 41: Prelims
@@ -185,7 +208,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41-prelims/2pcr5/
  rick Stewart\nPrelim: Matthew Maestas vs. Dillion Winemiller
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-bkfc-41-perry-vs-rockhold@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 41: Perry vs. Rockhold
@@ -204,7 +227,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41/2pcr4/\n\n---\
  wart\nPrelim: Matthew Maestas vs. Dillion Winemiller
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-05-rizin-42@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 42
@@ -226,7 +249,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-42/2pcw5/\n\n---
  Viktor Kolesnik (23-6-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-05-bkfc-42-soto-vs-goodjohn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 42: Soto vs. Goodjohn
@@ -246,7 +269,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-42/2pcv2/\n\n---\
  Dustin Pague vs. Wade Johnson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-05-bkfc-43-alexander-vs-smith-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith: Prelims
@@ -263,7 +286,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43-prelims/2pcv4/
  on-Wong vs. Taylor Starling\nPrelim: TJ Benson vs. Corey Roberts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-05-bkfc-43-alexander-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith
@@ -280,7 +303,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43/2pcv3/\n\n---\
  vs. Taylor Starling\nPrelim: TJ Benson vs. Corey Roberts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-05-bkb-32@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 32
@@ -294,7 +317,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  u Besley vs. Michael Devine\nMain Card: Danny Meins vs. Tony Meehan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T170730Z
+DTSTAMP:20230421T145746Z
 UID:2023-06-bkfc-44-stewart-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Stewart vs. Lopez

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230420T164959Z
-X-KAMPFKALENDER-HASH:7ae86d52fa248c9e7bfea7073b2bfab9a14485f3
+DTSTAMP:20230421T145745Z
+X-KAMPFKALENDER-HASH:b0703b927150b65c0cf67f2aab74d582fe8d8ea1
 BEGIN:VEVENT
-DTSTAMP:20230420T164959Z
+DTSTAMP:20230421T145746Z
 UID:2023-04-zepeda-vs-arboleda@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Arboleda
@@ -20,5 +20,18 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0) vs. Victor Morales Jr (17-0-1)\nMain Card: Raul Curiel (12-0-0) vs.
   Fredrick Lawson (29-3-0)\nMain Card: David Stevens (12-0-0) vs. Marco A
  ntonio Periban (25-6-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230421T145746Z
+UID:2023-07-stanionis-vs-ortiz@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Stanionis vs. Ortiz
+DTSTART:20230709T010000Z
+DTEND:20230709T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/100548-stanionis-vs-ortiz\n\n---\n\nMain Event: Eimantas Stanionis (14
+ -0-0) vs. Vergil Ortiz Jr. (19-0-0)\nMain Card: Marlen Esparza (13-1-0) 
+ vs. Celeste Alaniz (14-0-0)
 END:VEVENT
 END:VCALENDAR
