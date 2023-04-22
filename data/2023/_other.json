@@ -883,5 +883,69 @@
         "title": "HOLLYWOOD FIGHT NIGHT: BOXING"
       }
     }
+  },
+  {
+    "id": "mma-buhsido-2023-04-22",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#MMABushido"
+    ],
+    "mainCard": {
+      "title": "MMA Bushido",
+      "time": "2023-04-22T16:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "tvnp3cqx1x9o155mhy7pd75pi",
+        "time": "2023-04-22T16:00:00Z",
+        "title": "MMA Bushido | Sofia",
+        "sport": "MMA",
+        "competition": "MMA Bushido"
+      }
+    }
+  },
+  {
+    "id": "predators-2023-04-22",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#Auerbach",
+      "#NightOfThePredators",
+      "#NightOfThePredators2"
+    ],
+    "mainCard": {
+      "title": "Night Of The Predators 2",
+      "time": "2023-04-22T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=oE7D6khPwb8"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-night-of-the-predators-2-587"
+        }
+      }
+    },
+    "prelims": {
+      "title": "Night Of The Predators 2: Prelims",
+      "time": "2023-04-22T14:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=AEgJfRhxHE0",
+          "free": true
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-night-of-the-predators-2-587"
+        }
+      }
+    }
   }
 ]
