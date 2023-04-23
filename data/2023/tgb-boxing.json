@@ -179,5 +179,95 @@
         "http://www.boxrec.com/en/event/869031"
       ]
     }
+  },
+  {
+    "id": "tapology-98647",
+    "promotion": "TGB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#DavisGarcia"
+    ],
+    "mainCard": {
+      "title": "Davis vs. Garcia",
+      "time": "2023-04-23T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/davis-vs-garcia/2pcw7/"
+        }
+      },
+      "fite": {
+        "id": "2pcw7",
+        "time": "2023-04-23T00:00:00Z",
+        "title": "Gervonta Davis vs Ryan Garcia",
+        "url": "https://www.fite.tv/watch/davis-vs-garcia/2pcw7/",
+        "price": "$19.99",
+        "sports": [
+          "BOXING"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "Davis vs. Garcia: Prelims",
+      "time": "2023-04-22T22:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/davis-vs-garcia-prelims/2pcx8/",
+          "free": true
+        },
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=pcbV6-u9YoI",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcx8",
+        "time": "2023-04-22T23:00:00Z",
+        "title": "Davis vs Garcia: Prelims",
+        "url": "https://www.fite.tv/watch/davis-vs-garcia-prelims/2pcx8/",
+        "price": "FREE",
+        "sports": [
+          "BOXING"
+        ]
+      },
+      "youTube": {
+        "id": "pcbV6-u9YoI",
+        "time": "2023-04-22T22:00:00Z",
+        "title": "Gervonta Davis vs. Ryan Garcia: Prelims | SHOWTIME PPV COUNTDOWN",
+        "url": "https://www.youtube.com/watch?v=pcbV6-u9YoI",
+        "tags": [
+          "#gervontadavis",
+          "#ryangarcia",
+          "#SHOSports"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 98647,
+      "time": "2023-04-23T00:00:00Z",
+      "title": "Davis vs. Garcia",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/98647-davis-vs-garcia",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Gervonta Davis (28-0-0) vs. Ryan Garcia (23-0-0)",
+        "Co-Main Event: David Morrell (8-0-0) vs. Yamaguchi Falcão (24-1-1)",
+        "Main Card: Bektemir Melikuziev (11-1-0) vs. Gabriel Rosado (26-16-1)",
+        "Main Card: Elijah Garcia (14-0-0) vs. Kevin Salgado (14-1-1)",
+        "Prelim: Fiodor Cherkashyn (21-0-0) vs. Elias Espadas (22-5-0)",
+        "Prelim: Vito Mielnicki Jr. (14-1-0) vs. Jose Charles (20-3-1)",
+        "Prelim: Floyd Schofield (13-0-0) vs. Jesus Valentin Leon (23-1-2)",
+        "Prelim: Tristan Kalkreuth (9-1-0) vs. Jaime Solorio (12-5-2)",
+        "Prelim: Jalil Hackett (5-0-0) vs. Jason Phillips (3-3-2)",
+        "Prelim: Lorenzo Simpson (12-0-0) vs. Pachino Hill (8-1-1)",
+        "Prelim: Cuttino Oliver (2-0-0) vs. Roberto Cantu Pena (0-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/870316"
+      ]
+    }
   }
 ]
