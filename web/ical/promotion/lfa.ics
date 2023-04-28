@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230422T220304Z
-X-KAMPFKALENDER-HASH:8d1c03fe8e520f14af90a5bd54a92eeb72df4e09
+DTSTAMP:20230428T092016Z
+X-KAMPFKALENDER-HASH:ed1dd7eba164681412d7803d057e3999fd775c12
 BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-lfa-157-croden-vs-cavalcanti@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 157: Croden vs. Cavalcanti
@@ -33,7 +33,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -1-0)\nPrelim: Dylan Kiskila (2-1-0) vs. Brandon Mills (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-lfa-158-lebosnoyani-vs-jones@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 158: Lebosnoyani vs. Jones
@@ -45,16 +45,24 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  an-Paul Lebosnoyani (5-1-0) vs. Jacobi Jones (5-1-0)\nCo-Main Event: Kev
  in Natividad (9-4-0) vs. Matheus Silva (8-2-0)\nMain Card: Ray Waters (3
  -0-0) vs. Tyler Veal (3-0-0)\nMain Card: An Ho (3-0-0) vs. Edwin De Los 
- Santos (2-1-0)\nPrelim: Braden Pagaoa (3-1-0) vs. Humberto Duarte (5-2-0
- )\nPrelim: Alex Martinez (0-0-0) vs. Tyler Jones (0-0-0)
+ Santos (2-1-0)\nMain Card: Braden Pagaoa (3-1-0) vs. Humberto Duarte (5-
+ 2-0)\nMain Card: Kasey Tanner (6-0-0) vs. Thiago Belo (9-6-1)\nPrelim: A
+ lex Martinez (0-0-0) vs. Tyler Jones (0-0-0)\nPrelim: Cedric Katambwa (3
+ -0-0) vs. Austin Wourms (5-5-0)\nPrelim: Ivan Tena (5-1-0) vs. Riley Wis
+ eman (2-1-0)\nPrelim: Chance Ikei (0-0-0) vs. Joe Stafford (0-1-0)\nPrel
+ im: César Almeida (3-0-0) vs. Kevem Felipe (6-5-0)\nPrelim: Ezra Elliott
+  (2-0-0) vs. Deshawn White (3-1-0)\nPrelim: Paul Marghitas (1-0-0) vs. K
+ yetin Lindquist (0-0-0)\nPrelim: Grace DiFrancesco (1-0-0) vs. Maia Schm
+ idt (1-0-0)\nPrelim: Leon Mackey Jr. (0-0-0) vs. Chris Putton (3-0-0)\nP
+ relim: Anthony Cruz (0-0-0) vs. Adrian Munoz (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-lfa-159-polastri-vs-conceicao@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 159: Polastri vs. Conceição
-DTSTART:20230528T010000Z
-DTEND:20230528T040000Z
+DTSTART:20230527T000000Z
+DTEND:20230527T030000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100420-lfa-159-polastri-vs-conceicao\n\n---\n\nMain Event: J
@@ -68,5 +76,20 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  m: Marcos Degli (8-3-0) vs. Hugo Paiva (6-1-0)\nPrelim: Isaias Simões (8
  -5-0) vs. João Paulo Santos (11-3-0)\nPrelim: Rafaela Silva (0-0-0) vs. 
  Aieza Bertolso (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-06-lfa-160-sweeney-vs-begosso@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 160: Sweeney vs. Begosso
+DTSTART:20230617T010000Z
+DTEND:20230617T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/100762-lfa-160-sweeney-vs-begosso\n\n---\n\nMain Event: John
+  Sweeney (12-3-0) vs. Allan Begosso (7-2-1)\nCo-Main Event: Dylan Budka 
+ (5-1-0) vs. Azamat Bekoev (15-3-0)\nMain Card: Michael Roberts (9-8-1) v
+ s. Josiah Harrell (6-0-0)\nPrelim: Thomas Lane (3-0-0) vs. Lydell Miller
+  (2-0-0)
 END:VEVENT
 END:VCALENDAR

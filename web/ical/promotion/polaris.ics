@@ -4,6 +4,24 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230318T230305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230428T092016Z
+X-KAMPFKALENDER-HASH:6cb2c742af0eff804adcc7fd280b221bf315c775
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-06-polaris-24@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Polaris 24
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/100701-polaris-24\n\n---\n\nMain Event: Ash Williams vs. Rya
+ n Hall\nCo-Main Event: Jed Hue vs. Mateusz Szczeciński\nMain Card: Ashle
+ igh Grimshaw vs. Fabrizio Calio\nMain Card: Keith Kirkorian vs. Tom Halp
+ in\nMain Card: Hunter Colvin vs. Eoghan O’Flanagan\nPrelim: Peter Sharma
+ kou vs. Francesco Bartolotta\nPrelim: Hejraat Rashio vs. Sam Gibbs\nPrel
+ im: Chris Macken vs. Jaye Paul\nPrelim: Nathan Jones vs. Jack Gover\nPre
+ lim: Ollie Webb vs. Dinu Bucaleț\nPrelim: Leo Blum vs. Will Nichols\nPre
+ lim: Dominic Dillon vs. Nathan Kay\nPrelim: Matt Inman vs. Yousuf Nabi
+END:VEVENT
 END:VCALENDAR

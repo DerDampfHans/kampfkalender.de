@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230421T145745Z
-X-KAMPFKALENDER-HASH:72048a4abd40463e3f74230142eed7306a6225e8
+DTSTAMP:20230428T092016Z
+X-KAMPFKALENDER-HASH:5051deebd9b54fe2181bcd6550cd7bc464d694dd
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-bkfc-38-nguyen-vs-straus-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38: Nguyen vs. Straus: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-38-prelims/2pcpz/
  is Garcia vs. Philip Ryan Carroll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-bkfc-38-nguyen-vs-straus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 38: Nguyen vs. Straus
@@ -49,7 +49,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-nguyen-vs-straus/
  m: Chris Garcia vs. Philip Ryan Carroll
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-bkfc-40-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 40: Prelims
@@ -68,7 +68,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-40-prelims/2pcwb/
  vs. Rob Cunningham\nPrelim: Arron Blakey vs. Naff Higson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-bkfc-40-holmes-vs-christie@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 40: Holmes vs. Christie
@@ -87,7 +87,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-40/2pcwa/\n\n---\
  Cunningham\nPrelim: Arron Blakey vs. Naff Higson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-davis-vs-garcia-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Davis vs. Garcia: Prelims
@@ -110,7 +110,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/davis-vs-garcia-prelim
  erto Cantu Pena (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-davis-vs-garcia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Davis vs. Garcia
@@ -132,7 +132,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/davis-vs-garcia/2pcw7/
  s. Roberto Cantu Pena (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
@@ -156,7 +156,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-simpson-vs-kaiser/
  0) vs. Artis Lyles (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-aka-28-doyle-vs-manno@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 28: Doyle vs. Manno
@@ -164,56 +164,64 @@ DTSTART:20230429T000000Z
 DTEND:20230429T030000Z
 CATEGORIES:AKA,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-28/2pctd/\n\n---\n
- \nhttps://www.tapology.com/fightcenter/events/97711-aka-29\n\n---\n\nMai
- n Card: Don Doyle (4-0-0) vs. Michael Manno (2-1-0)\nMain Card: Michael 
- Sullivan (4-1-0) vs. Coby Bradford (5-8-1)
+ \nhttps://www.tapology.com/fightcenter/events/97711-aka-29\nhttp://www.s
+ herdog.com/events/aka-28-american-kombat-alliance-97063\n\n---\n\nMain E
+ vent: Don Doyle (3-0-0) vs. Michael Manno (2-1-0)\nCo-Main Event: Andrew
+  Garrette (2-0-0) vs. Drew Davis (1-1-0)\nMain Card: Delanie Hall (1-1-0
+ ) vs. Charles Levy (0-0-0)\nMain Card: Michael Sullivan (4-1-0) vs. Coby
+  Bradford (5-8-1)\nMain Card: Willie Sims (3-1-0) vs. Justin Carpenter (
+ 4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-rizin-landmark-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN Landmark 5
-DTSTART:20230429T080000Z
-DTEND:20230429T110000Z
+DTSTART:20230429T070000Z
+DTEND:20230429T100000Z
 CATEGORIES:RIZIN,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-landmark-5-in-yo
  yogi/2pcw4/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/98136-
- rizin-landmark-5-in-yoyogi\n\n---\n\nMain Card: Juntarou Ushiku (22-9-1)
-  vs. Mikuru Asakura (16-3-0)\nMain Card: Yutaka Saito (20-7-2) vs. Ren H
- iramoto (2-2-0)\nMain Card: Masanori Kanehara (29-14-5) vs. Sora Yamamot
- o (16-8-2)\nMain Card: Koji Takeda (15-4-0) vs. Luiz Gustavo (12-2-0)\nM
- ain Card: Johnny Case (28-9-1) vs. Ali Abdulkhalikov (11-2-0)\nMain Card
- : Kazuma Kuramoto (10-3-0) vs. Shinobu Ota (2-2-0)\nMain Card: Tsuyoshi 
- Sudario (6-2-0) vs. Roque Martinez (16-8-2)\nMain Card: Rena Kubota (13-
- 4-0) vs. Claire Lopez (7-4-0)\nMain Card: Kanna Asakura (19-7-0) vs. Mei
-  Yamaguchi (21-14-1)
+ rizin-landmark-5-in-yoyogi\nhttp://www.sherdog.com/events/rizin-ff-landm
+ ark-vol-5-96412\nhttps://events.mixedmartialarts.com/rizin-landmark-5-in
+ -yoyogi:927d8274-bbce-4c9b-8f9e-f0a5e18235d5\n\n---\n\nMain Card: Juntar
+ ou Ushiku (22-9-1) vs. Mikuru Asakura (16-3-0)\nMain Card: Yutaka Saito 
+ (20-7-2) vs. Ren Hiramoto (2-2-0)\nMain Card: Masanori Kanehara (29-14-5
+ ) vs. Sora Yamamoto (16-8-2)\nMain Card: Koji Takeda (15-4-0) vs. Luiz G
+ ustavo (12-2-0)\nMain Card: Kazuma Kuramoto (10-3-0) vs. Shinobu Ota (2-
+ 2-0)\nMain Card: Tsuyoshi Sudario (6-2-0) vs. Roque Martinez (16-8-2)\nM
+ ain Card: Rena Kubota (13-4-0) vs. Claire Lopez (7-4-0)\nMain Card: Kann
+ a Asakura (19-7-0) vs. Mei Yamaguchi (21-14-1)\nMain Card: Tatsuya Saika
+  (9-3-0) vs. Ali Abdulkhalikov (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-bkfc-41-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 41: Prelims
-DTSTART:20230430T010000Z
-DTEND:20230430T020000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41-prelims/2pcr5/
- \n\n---\n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\nhttps
- ://events.mixedmartialarts.com/bkfc-41:66495f38-b5b2-4d77-a39f-68f077f2a
- 5f5\n\n---\n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: E
- ddie Alvarez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Fere
- a\nMain Card: Chris Camozzi vs. Dan Spohn\nMain Card: Brandon Girtz vs. 
- Christian Torres\nMain Card: BJ Lawrence vs. Wayna Reid\nMain Card: Mike
-  Alvarado vs. James Brown\nMain Card: Ben Rothwell vs. Josh Copeland\nPr
- elim: Mitch Seybold vs. Jack Willoughby\nPrelim: Jessie Stalder vs. Rode
- rick Stewart\nPrelim: Matthew Maestas vs. Dillion Winemiller
+DTSTART:20230429T230000Z
+DTEND:20230430T010000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=o0fftp-drio\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-41-prelims/2pcr5/\n\n---\n\nhtt
+ ps://www.tapology.com/fightcenter/events/98423-bkfc\nhttps://events.mixe
+ dmartialarts.com/bkfc-41:66495f38-b5b2-4d77-a39f-68f077f2a5f5\n\n---\n\n
+ Main Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: Eddie Alvarez v
+ s. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Ferea\nMain Card: 
+ Chris Camozzi vs. Dan Spohn\nMain Card: Brandon Girtz vs. Christian Torr
+ es\nMain Card: Jessie Stalder vs. Roderick Stewart\nMain Card: Matthew M
+ aestas vs. Dillion Winemiller\nMain Card: Mike Alvarado vs. James Brown\
+ nMain Card: Ben Rothwell vs. Josh Copeland\nPrelim: Mitch Seybold vs. Ja
+ ck Willoughby\nPrelim: BJ Lawrence vs. Wayna Reid\nPrelim: Marcus Edward
+ s vs. Jay Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-bkfc-41-perry-vs-rockhold@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 41: Perry vs. Rockhold
-DTSTART:20230430T020000Z
-DTEND:20230430T050000Z
+DTSTART:20230430T010000Z
+DTEND:20230430T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41/2pcr4/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/98423-bkfc\nhttps://event
@@ -221,35 +229,54 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-41/2pcr4/\n\n---\
  --\n\nMain Event: Mike Perry vs. Luke Rockhold\nCo-Main Event: Eddie Alv
  arez vs. Chad Mendes\nMain Card: Bec Rawlings vs. Christine Ferea\nMain 
  Card: Chris Camozzi vs. Dan Spohn\nMain Card: Brandon Girtz vs. Christia
- n Torres\nMain Card: BJ Lawrence vs. Wayna Reid\nMain Card: Mike Alvarad
- o vs. James Brown\nMain Card: Ben Rothwell vs. Josh Copeland\nPrelim: Mi
- tch Seybold vs. Jack Willoughby\nPrelim: Jessie Stalder vs. Roderick Ste
- wart\nPrelim: Matthew Maestas vs. Dillion Winemiller
+ n Torres\nMain Card: Jessie Stalder vs. Roderick Stewart\nMain Card: Mat
+ thew Maestas vs. Dillion Winemiller\nMain Card: Mike Alvarado vs. James 
+ Brown\nMain Card: Ben Rothwell vs. Josh Copeland\nPrelim: Mitch Seybold 
+ vs. Jack Willoughby\nPrelim: BJ Lawrence vs. Wayna Reid\nPrelim: Marcus 
+ Edwards vs. Jay Jackson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
+UID:2023-05-invicta-fc-53-decoursey-vs-dos-santos@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Invicta FC 53: DeCoursey vs. Dos Santos
+DTSTART:20230504T010000Z
+DTEND:20230504T040000Z
+CATEGORIES:Invicta,MMA,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/invicta-fc-53/2pcxy/\n
+ \n---\n\nhttps://www.tapology.com/fightcenter/events/99821-invicta-fc-53
+ -decoursey-vs-dos-santos\n\n---\n\nMain Event: Jillian DeCoursey (6-3-0)
+  vs. Rayanne dos Santos (13-6-0)\nCo-Main Event: Olga Rubin (8-3-0) vs. 
+ Claire Guthrie (5-1-0)\nMain Card: Jéssica Delboni (12-4-0) vs. Danielle
+  Taylor (11-8-0)\nMain Card: Monique Adriane (5-2-0) vs. Nicole Geraldo 
+ (5-0-0)\nMain Card: Liana Pirosin (8-5-0) vs. Elise Pone (2-1-0)\nMain C
+ ard: Elisandra Ferreira (5-2-0) vs. Flor Hernandez (4-0-0)\nMain Card: K
+ y Bennett (2-2-0) vs. Kendal Holowell (2-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
 UID:2023-05-rizin-42@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 42
-DTSTART:20230506T060000Z
-DTEND:20230506T090000Z
+DTSTART:20230506T050000Z
+DTEND:20230506T080000Z
 CATEGORIES:RIZIN,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-42/2pcw5/\n\n---
  \n\nhttps://www.tapology.com/fightcenter/events/98135-rizin-42\n\n---\n\
- nMain Card: Kai Asakura (19-4-0) vs. Yuki Motoya (33-10-0)\nMain Card: N
- aoki Inoue (16-3-0) vs. Juan Archuleta (27-4-0)\nMain Card: Roberto de S
- ouza (14-2-0) vs. Spike Carlyle (14-4-0)\nMain Card: Kota Miura vs. YA-M
- AN\nMain Card: Ulka Sasaki (23-10-2) vs. Boyd Allen (16-5-1)\nMain Card:
-  John Dodson (23-13-0) vs. Tatsuki Saomoto (18-2-0)\nMain Card: Yuki Ito
-  (13-4-0) vs. Erson Yamamoto (3-5-0)\nMain Card: Takuya Yamamoto (8-2-1)
-  vs. Takeji Yokoyama (4-0-0)\nMain Card: Yuta Hamamoto (5-2-0) vs. Ramaz
- an Temurov (15-2-0)\nMain Card: Takahiro Ashida (26-12-2) vs. Kazumasa M
- ajima (14-4-0)\nMain Card: Yasuhiro Kido vs. Sota Kimura\nMain Card: Bua
- kaw Banchamek vs. Rukiya Anpo\nMain Card: Atsushi Kishimoto (9-6-2) vs. 
- Viktor Kolesnik (23-6-1)
+ nMain Event: Kai Asakura (19-4-0) vs. Yuki Motoya (33-10-0)\nMain Card: 
+ Naoki Inoue (16-3-0) vs. Juan Archuleta (27-4-0)\nMain Card: Roberto de 
+ Souza (14-2-0) vs. Spike Carlyle (14-4-0)\nMain Card: Buakaw Banchamek v
+ s. Rukiya Anpo\nMain Card: Kota Miura vs. YA-MAN\nMain Card: John Dodson
+  (23-13-0) vs. Tatsuki Saomoto (18-2-0)\nMain Card: Takahiro Ashida (26-
+ 12-2) vs. Kazumasa Majima (14-4-0)\nMain Card: Ulka Sasaki (23-10-2) vs.
+  Boyd Allen (16-5-1)\nMain Card: Atsushi Kishimoto (9-6-2) vs. Viktor Ko
+ lesnik (23-6-1)\nMain Card: Yuki Ito (13-4-0) vs. Erson Yamamoto (3-5-0)
+ \nMain Card: Takuya Yamamoto (8-2-1) vs. Takeji Yokoyama (4-0-0)\nMain C
+ ard: Yuta Hamamoto (5-2-0) vs. Ramazan Temurov (15-2-0)\nMain Card: Yasu
+ hiro Kido vs. Sota Kimura
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-bkfc-42-soto-vs-goodjohn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 42: Soto vs. Goodjohn
@@ -259,17 +286,16 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-42/2pcv2/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/99434-bkfc-42-soto-vs-goo
  djohn\nhttps://events.mixedmartialarts.com/bkfc-42:ce6b1243-c477-4f8d-af
- d2-370216f3e691\n\n---\n\nMain Event: Tony Soto vs. Tyler Goodjohn\nMain
-  Card: Doug Coltrane vs. Blake LaCaze\nMain Card: Keith Richardson vs. M
- ike Hernandez\nMain Card: Brandon Bushaw vs. Rick Caruso\nMain Card: Col
- e Ferrell vs. Cody Schieve\nMain Card: John Barnard vs. Joshua Marer\nMa
- in Card: Andy Nguyen vs. Sydney Smith\nMain Card: Trukon Carson vs. Tim 
- Hester\nMain Card: Trevor Loken vs. Brandon Allen\nPrelim: Samuel Sample
- s vs. Glendel Futrell\nPrelim: Jonathan Miller vs. Dustin Long\nPrelim: 
- Dustin Pague vs. Wade Johnson
+ d2-370216f3e691\n\n---\n\nMain Event: Tony Soto vs. Tyler Goodjohn\nCo-M
+ ain Event: Doug Coltrane vs. Blake LaCaze\nMain Card: Keith Richardson v
+ s. Mike Hernandez\nMain Card: Brandon Bushaw vs. Rick Caruso\nMain Card:
+  Cole Ferrell vs. Cody Schieve\nMain Card: John Barnard vs. Joshua Marer
+ \nMain Card: Andy Nguyen vs. Sydney Smith\nMain Card: Trukon Carson vs. 
+ Tim Hester\nPrelim: Samuel Samples vs. Glendel Futrell\nPrelim: Jonathan
+  Miller vs. Dustin Long\nPrelim: Dustin Pague vs. Wade Johnson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-bkfc-43-alexander-vs-smith-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith: Prelims
@@ -286,7 +312,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43-prelims/2pcv4/
  on-Wong vs. Taylor Starling\nPrelim: TJ Benson vs. Corey Roberts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-bkfc-43-alexander-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith
@@ -303,7 +329,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43/2pcv3/\n\n---\
  vs. Taylor Starling\nPrelim: TJ Benson vs. Corey Roberts
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-bkb-32@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 32
@@ -314,10 +340,12 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/99759-bkb-32\n\n---\n\nMain Card: Jimmy Sweeney vs. Jonny Tello\nMa
  in Card: Scott McHugh vs. Aaron McCallum\nMain Card: Charlie Milner vs. 
  Paul Webster\nMain Card: Jody Meikle vs. Martyn Grainger\nMain Card: Bea
- u Besley vs. Michael Devine\nMain Card: Danny Meins vs. Tony Meehan
+ u Besley vs. Michael Devine\nMain Card: Danny Meins vs. Tony Meehan\nMai
+ n Card: Chad Kelly vs. Jonny Lawson\nMain Card: Andre Lovli vs. Ashley G
+ riffiths
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230421T145746Z
+DTSTAMP:20230428T092017Z
 UID:2023-06-bkfc-44-stewart-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Stewart vs. Lopez
@@ -328,7 +356,23 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/100466-bkfc-44-stewart-vs-lopez\n\n---\n\nMain Event: Kai Stewart v
  s. Louie Lopez\nCo-Main Event: Dallas Davison vs. Lloyd Mix\nMain Card: 
  Billy Wagner vs. Bryce Henry\nMain Card: JorDan Christensen vs. Kerry La
- ttimer\nMain Card: Ryan Ibsen vs. Dakota Highpine\nPrelim: Leo Bercier v
- s. Willie Sears\nPrelim: Koda Greenwood vs. Darrick Gates
+ ttimer\nMain Card: Ryan Ibsen vs. Dakota Highpine\nMain Card: Sawyer Dep
+ ee vs. Gabriel Mota\nPrelim: Leo Bercier vs. Willie Sears\nPrelim: Koda 
+ Greenwood vs. Darrick Gates
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-06-fusion-fight-league-missoula@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League: Missoula
+DTSTART:20230618T020000Z
+DTEND:20230618T050000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/100715-fusion-fight-league-missoula\nhttps://events.mixedmartialart
+ s.com/fusion-fight-league:f3b778fc-4cbd-4cb1-adf0-b502a4db1f95\n\n---\n\
+ nMain Card: Josh Wright (6-4-0) vs. Darien Robinson (3-1-0)\nMain Card: 
+ Daeri Alderman (2-0-0) vs. Chris Rios (0-0-0)\nMain Card: Ryder Small (1
+ -1-0) vs. Octavian Trumbo (2-2-0)
 END:VEVENT
 END:VCALENDAR

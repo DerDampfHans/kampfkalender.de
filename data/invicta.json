@@ -5,13 +5,27 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#Invicta53"
+    ],
     "mainCard": {
       "title": "Invicta FC 53: DeCoursey vs. Dos Santos",
-      "time": "2023-05-04T00:30:00Z",
+      "time": "2023-05-04T01:00:00Z",
       "broadcasters": {
-        "YOUTUBE": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/invicta-fc-53/2pcxy/",
           "free": true
         }
+      },
+      "fite": {
+        "id": "2pcxy",
+        "time": "2023-05-04T01:00:00Z",
+        "title": "Invicta FC 53: DeCoursey vs Dos Santos",
+        "url": "https://www.fite.tv/watch/invicta-fc-53/2pcxy/",
+        "price": "FREE",
+        "sports": [
+          "MMA"
+        ]
       }
     },
     "tapology": {

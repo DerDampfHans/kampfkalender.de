@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230420T224603Z
-X-KAMPFKALENDER-HASH:34602425e52a68c1e7226309f162725bf195ab3e
+DTSTAMP:20230428T092016Z
+X-KAMPFKALENDER-HASH:a2101b4bec3ce6fa3526001b3e89f9c570dec0af
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-one-friday-fights-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Friday Fights 13
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=aTpeoBnyUxw\n\n-
  (1-0-0) vs. Reza Abasi (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-one-fight-night-9-nong-o-vs-haggerty@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 9: Nong-O vs. Haggerty
@@ -51,7 +51,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WsStyb-umZk\n\n-
  i (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-night-of-the-predators-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Night Of The Predators 2: Prelims
@@ -64,7 +64,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AEgJfRhxHE0\nvia
  dators-2-587
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-night-of-the-predators-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Night Of The Predators 2
@@ -76,7 +76,37 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=oE7D6khPwb8\nvia
  dators-2-587
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
+UID:2023-04-one-friday-fights-14-gingsanglek-vs-chorfah@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 14: Gingsanglek vs. Chorfah
+DTSTART:20230428T123000Z
+DTEND:20230428T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=lOldeshlVqc\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/100606-one-friday-figh
+ ts-14\n\n---\n\nMain Event: C. Tor.Sangtiannoi vs. G. Tor Laksong\nCo-Ma
+ in Event: K. UFAboomdeksian vs. Koko Sor. Sommai\nMain Card: K. ChanaiDo
+ nMuang vs. Xavier Gonzalez\nMain Card: Saenphon Sor Sommai vs. Y. Sinbim
+ uaythai\nMain Card: NumSurin Chor Ketweena vs. Yodsila Chor Hapayak\nMai
+ n Card: Sagaengarm Jitmuangnon vs. C. SorSor Toipadriew\nMain Card: Saek
+ san Or Kwanmuang vs. Sean Clancy\nMain Card: Ferrari Fairtex vs. Fariya 
+ Aminipour\nMain Card: Chalam Parunchai vs. Mohammad Sadeghi\nMain Card: 
+ Lisa Brierley vs. F. Vera Lizama\nMain Card: David Bangguigui vs. Marcus
+  Paulo Amaral\nMain Card: Jalill Barnes vs. Doraemon
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-04-night-of-the-rebels-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night of the Rebels 2
+DTSTART:20230429T160000Z
+DTEND:20230429T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
 UID:2023-06-one-fight-night-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 11
@@ -84,6 +114,13 @@ DTSTART:20230610T000000Z
 DTEND:20230610T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/100343-one-fight-night-11
+ ents/100343-one-fight-night-11\n\n---\n\nMain Event: Regian Eersel vs. D
+ mitry Menshikov\nCo-Main Event: Kade Ruotolo vs. Tommy Langaker\nMain Ca
+ rd: Ilya Freymanov (11-2-0) vs. S. Zoltsetseg (6-3-0)\nMain Card: Superb
+ on Singha Mawynn vs. Tayfun Özcan\nMain Card: Mansur Malachiev (10-0-0) 
+ vs. Jeremy Miado (10-4-0)\nMain Card: Nieky Holzken vs. Arian Sadiković\
+ nMain Card: Artem Belakh (10-2-0) vs. Won Il Kwon (12-4-0)\nMain Card: M
+ artine Michieletto vs. Amber Kitchen\nMain Card: Yong Hu (10-4-0) vs. Su
+ ng Hoon Woo (10-3-0)\nMain Card: Rade Opačić vs. Guto Inocente
 END:VEVENT
 END:VCALENDAR

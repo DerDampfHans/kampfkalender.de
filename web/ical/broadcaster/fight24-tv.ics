@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230420T224603Z
-X-KAMPFKALENDER-HASH:1351e6b2b83930cda5886dab59f250f4a68ed166
+DTSTAMP:20230428T092016Z
+X-KAMPFKALENDER-HASH:b177f9cb83b3df7c7fce5359e46b2c66f4172b5a
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-night-of-the-predators-2-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Night Of The Predators 2: Prelims
@@ -20,7 +20,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=AEgJfRhxHE0\nvia
  dators-2-587
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-night-of-the-predators-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Night Of The Predators 2
@@ -32,7 +32,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=oE7D6khPwb8\nvia
  dators-2-587
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T224604Z
+DTSTAMP:20230428T092017Z
 UID:2023-04-hasanovic-vs-fajk@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hasanovic vs. Fajk
@@ -49,5 +49,68 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Ov39Qe0bCyU\nvia
   (0-0-0) vs. Nassim Mahouechi (4-1-2)\nMain Card: Abu Yusupov (6-0-1) vs
  . Yannick Linaniye (0-0-0)\nMain Card: C. Rodriguez (0-0-0) vs. Nemanja 
  Kerezovic (1-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-04-night-of-the-rebels-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Night of the Rebels 2
+DTSTART:20230429T160000Z
+DTEND:20230429T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-04-one-man-series-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Man Series: Prelims
+DTSTART:20230429T160000Z
+DTEND:20230429T180000Z
+CATEGORIES:Other,MMA,YouTube,fight24.tv,live,kostenlos
+DESCRIPTION:via YouTube\nvia fight24.tv\n\n---\n\nhttps://onemanseries.co
+ m/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-04-one-man-series-next-level-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Man Series: Next Level 3
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
+CATEGORIES:Other,MMA,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube\nvia fight24.tv\n\n---\n\nhttps://onemanseries.co
+ m/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-04-pro-league-fighting-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Pro League Fighting 13
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
+CATEGORIES:Other,MMA,Boxen,Kickboxen,Karate,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube\nvia fight24.tv\n\n---\n\nhttps://www.pro-league.
+ de/veranstaltungen/karlsruhe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-04-bakaj-boxing-special@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bakaj Boxing Special
+DTSTART:20230430T150000Z
+DTEND:20230430T180000Z
+CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube\nvia fight24.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
+UID:2023-04-grand-boxing-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Grand Boxing 5
+DTSTART:20230430T170000Z
+DTEND:20230430T200000Z
+CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube\nvia fight24.tv
 END:VEVENT
 END:VCALENDAR

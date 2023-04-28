@@ -1,70 +1,176 @@
 [
   {
-    "id": "adcc-2023-04-29",
+    "id": "oms-2023-04-29",
     "promotion": "_OTHER",
     "sports": [
-      "GRAPPLING"
+      "MMA"
     ],
     "tags": [
-      "#ADCC"
+      "#Hamburg",
+      "#OneManSeries",
+      "#OneManSeries3"
+    ],
+    "links": [
+      "https://onemanseries.com/"
     ],
     "mainCard": {
-      "title": "ADCC USA: Orange County Open Finals",
+      "title": "One Man Series: Next Level 3",
+      "time": "2023-04-29T18:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "One Man Series: Prelims",
+      "time": "2023-04-29T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        },
+        "FIGHT24_TV": {
+          "free": true
+        }
+      }
+    }
+  },
+  {
+    "id": "rebels-2023-04-29",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#Hückelhoven",
+      "#NightOfTheRebels2"
+    ],
+    "mainCard": {
+      "title": "Night of the Rebels 2",
+      "time": "2023-04-29T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    }
+  },
+  {
+    "id": "plf-2023-04-29",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING",
+      "KARATE"
+    ],
+    "tags": [
+      "#Karlsruhe",
+      "#PLF13"
+    ],
+    "links": [
+      "https://www.pro-league.de/veranstaltungen/karlsruhe"
+    ],
+    "mainCard": {
+      "title": "Pro League Fighting 13",
+      "time": "2023-04-29T18:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    }
+  },
+  {
+    "id": "tapology-100634",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#CookGodoy"
+    ],
+    "mainCard": {
+      "title": "Cook vs. Godoy",
       "time": "2023-04-29T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
       },
-      "fightPass": {
-        "id": 239046,
+      "dazn": {
+        "id": "1lxvmmbp29kfo1fxtjg9l5edkd",
         "time": "2023-04-29T23:00:00Z",
-        "title": "ADCC USA: Orange County Open Finals"
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Cook vs Godoy"
+      }
+    },
+    "tapology": {
+      "id": 100634,
+      "time": "2023-04-29T23:30:00Z",
+      "title": "Cook vs. Godoy",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/100634-cook-vs-godoy",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Brandon Cook (24-2-0) vs. Gino Godoy (29-2-0)",
+        "Main Card: Mark Smither (10-0-0) vs. Jorge Luis Rodriguez (0-0-0)",
+        "Main Card: Kemahl Russell (13-1-0) vs. Marcos Jesus Cornejo (19-6-0)",
+        "Main Card: Melinda Watpool (0-0-0) vs. Angelica Lopez Flores (13-1-0)",
+        "Main Card: Mike Cabatuan (0-0-0) vs. Jorge Valencia Diaz (0-0-0)",
+        "Main Card: Ricardo Brown (6-0-0) vs. Jesus Angel Nerio (15-10-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/869719"
+      ]
+    }
+  },
+  {
+    "id": "bakaj-2023-04-30",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#Bochum",
+      "#BakajBoxing"
+    ],
+    "mainCard": {
+      "title": "Bakaj Boxing Special",
+      "time": "2023-04-30T15:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        },
+        "FIGHT24_TV": {
+        }
       }
     }
   },
   {
-    "id": "adcc-2023-05-13",
+    "id": "grand-2023-04-30",
     "promotion": "_OTHER",
     "sports": [
-      "GRAPPLING"
+      "BOXING"
     ],
     "tags": [
-      "#ADCC"
+      "#Bochum",
+      "#GrandBoxing"
     ],
     "mainCard": {
-      "title": "ADCC USA: Denver Open Finals",
-      "time": "2023-05-13T21:00:00Z",
+      "title": "Grand Boxing 5",
+      "time": "2023-04-30T17:00:00Z",
       "broadcasters": {
-        "DAZN": {
+        "YOUTUBE": {
+        },
+        "FIGHT24_TV": {
         }
-      },
-      "fightPass": {
-        "id": 239205,
-        "time": "2023-05-13T21:00:00Z",
-        "title": "ADCC USA: Denver Open Finals"
-      }
-    }
-  },
-  {
-    "id": "adcc-2023-06-17",
-    "promotion": "_OTHER",
-    "sports": [
-      "GRAPPLING"
-    ],
-    "tags": [
-      "#ADCC"
-    ],
-    "mainCard": {
-      "title": "ADCC USA: Dallas Open Finals",
-      "time": "2023-06-17T19:00:00Z",
-      "broadcasters": {
-        "DAZN": {
-        }
-      },
-      "fightPass": {
-        "id": 239207,
-        "time": "2023-06-17T19:00:00Z",
-        "title": "ADCC USA: Dallas Open Finals"
       }
     }
   }

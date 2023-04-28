@@ -12,30 +12,37 @@
       "https://fighting.de/events/glory-85/"
     ],
     "mainCard": {
-      "title": "Glory 85",
-      "time": "2023-04-29T17:00:00Z",
+      "title": "GLORY 85",
+      "time": "2023-04-29T18:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=Jtr-o1MU2AQ"
         },
         "GLORY_TV": {
         }
+      }
+    },
+    "prelims": {
+      "title": "GLORY 85: Prelims",
+      "time": "2023-04-29T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=LfzJf8iJvkA",
+          "free": true
+        },
+        "GLORY_TV": {
+        }
       },
       "youTube": {
-        "id": "Jtr-o1MU2AQ",
+        "id": "LfzJf8iJvkA",
         "time": "2023-04-29T17:00:00Z",
-        "title": "GLORY 85 | LIVE aus Rotterdam | 4-Mann-Schwergewichtsturnier - FIGHTING",
-        "url": "https://www.youtube.com/watch?v=Jtr-o1MU2AQ",
-        "tags": [
-          "#Fighting",
-          "#Kampfsport",
-          "#MMA"
-        ]
+        "title": "GLORY 85 Prelims",
+        "url": "https://www.youtube.com/watch?v=LfzJf8iJvkA"
       }
     },
     "tapology": {
       "id": 99755,
-      "time": "2023-04-29T18:00:00Z",
+      "time": "2023-04-29T17:00:00Z",
       "title": "Glory 85",
       "info": "Confirmed Upcoming Kickboxing Event",
       "url": "https://www.tapology.com/fightcenter/events/99755-glory-85",
@@ -46,9 +53,8 @@
         "Main Event: Endy Semeleer vs. Murthel Groenhart",
         "Main Card: Michael Duut vs. Mohamed Amine",
         "Main Card: Berjan Peposhi vs. Jan Kaffa",
-        "Main Card: Luis Tavares vs. Enver Sljivar",
         "Main Card: Jahfarr Wilnis vs. Kevin Tariq Osaro",
-        "Prelim: Murat Aygun vs. Nicola Filipovic",
+        "Prelim: Fabio Kwasi vs. Nicola Filipovic",
         "Prelim: Maksymilian Bratkowicz vs. Brice Kombou"
       ]
     }
@@ -66,7 +72,7 @@
       "https://fighting.de/events/glory-86/"
     ],
     "mainCard": {
-      "title": "Glory 86",
+      "title": "GLORY 86",
       "time": "2023-05-27T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {

@@ -4,20 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230422T220304Z
-X-KAMPFKALENDER-HASH:d95b567306611d0221ff5c257b467e383b40edc0
+DTSTAMP:20230428T092016Z
+X-KAMPFKALENDER-HASH:d0cf3bda38977438225df36441ff5afdb7191d7f
 BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
-UID:2023-04-adcc-usa-orange-county-open-finals@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ADCC USA: Orange County Open Finals
-DTSTART:20230429T230000Z
-DTEND:20230430T020000Z
-CATEGORIES:Other,Grappling,DAZN,live
-DESCRIPTION:via DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -28,17 +18,25 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230513-olympix-g
  rappling-no-131
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
-UID:2023-05-adcc-usa-denver-open-finals@kampfkalender.de
+DTSTAMP:20230428T092017Z
+UID:2023-06-polaris-24@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ADCC USA: Denver Open Finals
-DTSTART:20230513T210000Z
-DTEND:20230514T000000Z
-CATEGORIES:Other,Grappling,DAZN,live
-DESCRIPTION:via DAZN
+SUMMARY:Polaris 24
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/100701-polaris-24\n\n---\n\nMain Event: Ash Williams vs. Rya
+ n Hall\nCo-Main Event: Jed Hue vs. Mateusz Szczeciński\nMain Card: Ashle
+ igh Grimshaw vs. Fabrizio Calio\nMain Card: Keith Kirkorian vs. Tom Halp
+ in\nMain Card: Hunter Colvin vs. Eoghan O’Flanagan\nPrelim: Peter Sharma
+ kou vs. Francesco Bartolotta\nPrelim: Hejraat Rashio vs. Sam Gibbs\nPrel
+ im: Chris Macken vs. Jaye Paul\nPrelim: Nathan Jones vs. Jack Gover\nPre
+ lim: Ollie Webb vs. Dinu Bucaleț\nPrelim: Leo Blum vs. Will Nichols\nPre
+ lim: Dominic Dillon vs. Nathan Kay\nPrelim: Matt Inman vs. Yousuf Nabi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
+DTSTAMP:20230428T092017Z
 UID:2023-06-olympix-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX Grappling
@@ -47,15 +45,5 @@ DTEND:20230610T130000Z
 CATEGORIES:GMC,Grappling,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230610-olympix-g
  rappling-no-133
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230422T220304Z
-UID:2023-06-adcc-usa-dallas-open-finals@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ADCC USA: Dallas Open Finals
-DTSTART:20230617T190000Z
-DTEND:20230617T220000Z
-CATEGORIES:Other,Grappling,DAZN,live
-DESCRIPTION:via DAZN
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,78 @@
 [
   {
+    "id": "tapology-100606",
+    "promotion": "ONE",
+    "sports": [
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#ONEFridayFights",
+      "#ONEFridayFights14"
+    ],
+    "mainCard": {
+      "title": "ONE Friday Fights 14: Gingsanglek vs. Chorfah",
+      "time": "2023-04-28T12:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=lOldeshlVqc",
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 100606,
+      "time": "2023-04-28T12:30:00Z",
+      "title": "One Friday Fights 14",
+      "info": "Confirmed Upcoming Muay Thai Event",
+      "url": "https://www.tapology.com/fightcenter/events/100606-one-friday-fights-14",
+      "sports": [
+        "MUAY_THAI"
+      ],
+      "card": [
+        "Main Event: C. Tor.Sangtiannoi vs. G. Tor Laksong",
+        "Co-Main Event: K. UFAboomdeksian vs. Koko Sor. Sommai",
+        "Main Card: K. ChanaiDonMuang vs. Xavier Gonzalez",
+        "Main Card: Saenphon Sor Sommai vs. Y. Sinbimuaythai",
+        "Main Card: NumSurin Chor Ketweena vs. Yodsila Chor Hapayak",
+        "Main Card: Sagaengarm Jitmuangnon vs. C. SorSor Toipadriew",
+        "Main Card: Saeksan Or Kwanmuang vs. Sean Clancy",
+        "Main Card: Ferrari Fairtex vs. Fariya Aminipour",
+        "Main Card: Chalam Parunchai vs. Mohammad Sadeghi",
+        "Main Card: Lisa Brierley vs. F. Vera Lizama",
+        "Main Card: David Bangguigui vs. Marcus Paulo Amaral",
+        "Main Card: Jalill Barnes vs. Doraemon"
+      ]
+    }
+  },
+  {
     "id": "tapology-95948",
     "promotion": "ONE",
     "sports": [
       "MMA"
     ],
     "tags": [
-      "#ONEFightNight10",
-      "#ONEonPrimeVideo10"
+      "#ONEFightNight",
+      "#ONEFightNight10"
     ],
     "mainCard": {
       "title": "ONE Fight Night 10: Johnson vs. Moraes 3",
       "time": "2023-05-06T00:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=Qd68ClJkot4",
           "free": true
         }
+      },
+      "youTube": {
+        "id": "Qd68ClJkot4",
+        "time": "2023-05-06T00:00:00Z",
+        "title": "🔴 [Live In HD] ONE Fight Night 10: Johnson vs. Moraes III",
+        "url": "https://www.youtube.com/watch?v=Qd68ClJkot4",
+        "tags": [
+          "#ONEFightNight10",
+          "#ONEChampionship",
+          "#WeAreONE"
+        ]
       }
     },
     "tapology": {
@@ -38,8 +95,8 @@
         "Main Card: Roberto Soldić (20-3-0) vs. Zebaztian Kadestam (14-7-0)",
         "Main Card: Sage Northcutt (11-3-0) vs. Ahmed Mujtaba (10-2-0)",
         "Main Card: Aung La N Sang (29-13-0) vs. Rong Fan (19-3-0)",
+        "Main Card: Reinier de Ridder vs. Tye Ruotolo",
         "Main Card: Jackie Buntan vs. Diandra Martin",
-        "Prelim: Reinier de Ridder vs. Tye Ruotolo",
         "Prelim: Kairat Akhmetov (29-2-0) vs. Reece McLaren (16-8-0)",
         "Prelim: Lowen Tynanes (11-1-0) vs. Rae Yoon Ok (16-4-0)"
       ],
@@ -56,6 +113,10 @@
       "KICKBOXING",
       "MUAY_THAI"
     ],
+    "tags": [
+      "#ONEFightNight",
+      "#ONEFightNight11"
+    ],
     "mainCard": {
       "title": "ONE Fight Night 11",
       "time": "2023-06-10T00:00:00Z",
@@ -68,10 +129,51 @@
     "tapology": {
       "id": 100343,
       "time": "2023-06-10T00:00:00Z",
-      "title": "ONE Fight Night 11",
+      "title": "ONE Fight Night 11: Eersel vs. Menshikov",
       "titleAlt": "ONE on Prime Video 11",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/100343-one-fight-night-11"
+      "info": "Confirmed Upcoming Combat Sports Event",
+      "url": "https://www.tapology.com/fightcenter/events/100343-one-fight-night-11",
+      "card": [
+        "Main Event: Regian Eersel vs. Dmitry Menshikov",
+        "Co-Main Event: Kade Ruotolo vs. Tommy Langaker",
+        "Main Card: Ilya Freymanov (11-2-0) vs. S. Zoltsetseg (6-3-0)",
+        "Main Card: Superbon Singha Mawynn vs. Tayfun Özcan",
+        "Main Card: Mansur Malachiev (10-0-0) vs. Jeremy Miado (10-4-0)",
+        "Main Card: Nieky Holzken vs. Arian Sadiković",
+        "Main Card: Artem Belakh (10-2-0) vs. Won Il Kwon (12-4-0)",
+        "Main Card: Martine Michieletto vs. Amber Kitchen",
+        "Main Card: Yong Hu (10-4-0) vs. Sung Hoon Woo (10-3-0)",
+        "Main Card: Rade Opačić vs. Guto Inocente"
+      ]
+    }
+  },
+  {
+    "id": "tapology-100718",
+    "promotion": "ONE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "ONE Fight Night 12: Kai vs. Le 2",
+      "time": "2023-07-15T00:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 100718,
+      "time": "2023-07-15T00:00:00Z",
+      "title": "ONE Fight Night 12: Kai vs. Le 2",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/100718-one-fight-night-12-kai-vs-le-2",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Kai Tang (15-2-0) vs. Thanh Le (13-3-0)"
+      ]
     }
   }
 ]

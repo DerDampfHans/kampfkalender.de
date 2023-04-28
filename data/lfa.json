@@ -14,6 +14,11 @@
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 239565,
+        "time": "2023-05-20T02:00:00Z",
+        "title": "LFA 158"
       }
     },
     "tapology": {
@@ -30,8 +35,18 @@
         "Co-Main Event: Kevin Natividad (9-4-0) vs. Matheus Silva (8-2-0)",
         "Main Card: Ray Waters (3-0-0) vs. Tyler Veal (3-0-0)",
         "Main Card: An Ho (3-0-0) vs. Edwin De Los Santos (2-1-0)",
-        "Prelim: Braden Pagaoa (3-1-0) vs. Humberto Duarte (5-2-0)",
-        "Prelim: Alex Martinez (0-0-0) vs. Tyler Jones (0-0-0)"
+        "Main Card: Braden Pagaoa (3-1-0) vs. Humberto Duarte (5-2-0)",
+        "Main Card: Kasey Tanner (6-0-0) vs. Thiago Belo (9-6-1)",
+        "Prelim: Alex Martinez (0-0-0) vs. Tyler Jones (0-0-0)",
+        "Prelim: Cedric Katambwa (3-0-0) vs. Austin Wourms (5-5-0)",
+        "Prelim: Ivan Tena (5-1-0) vs. Riley Wiseman (2-1-0)",
+        "Prelim: Chance Ikei (0-0-0) vs. Joe Stafford (0-1-0)",
+        "Prelim: César Almeida (3-0-0) vs. Kevem Felipe (6-5-0)",
+        "Prelim: Ezra Elliott (2-0-0) vs. Deshawn White (3-1-0)",
+        "Prelim: Paul Marghitas (1-0-0) vs. Kyetin Lindquist (0-0-0)",
+        "Prelim: Grace DiFrancesco (1-0-0) vs. Maia Schmidt (1-0-0)",
+        "Prelim: Leon Mackey Jr. (0-0-0) vs. Chris Putton (3-0-0)",
+        "Prelim: Anthony Cruz (0-0-0) vs. Adrian Munoz (0-0-0)"
       ]
     }
   },
@@ -46,10 +61,15 @@
     ],
     "mainCard": {
       "title": "LFA 159: Polastri vs. Conceição",
-      "time": "2023-05-28T01:00:00Z",
+      "time": "2023-05-27T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 239568,
+        "time": "2023-05-27T00:00:00Z",
+        "title": "LFA 159"
       }
     },
     "tapology": {
@@ -73,6 +93,37 @@
         "Prelim: Marcos Degli (8-3-0) vs. Hugo Paiva (6-1-0)",
         "Prelim: Isaias Simões (8-5-0) vs. João Paulo Santos (11-3-0)",
         "Prelim: Rafaela Silva (0-0-0) vs. Aieza Bertolso (0-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-100762",
+    "promotion": "LFA",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "LFA 160: Sweeney vs. Begosso",
+      "time": "2023-06-17T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 100762,
+      "time": "2023-06-17T01:00:00Z",
+      "title": "LFA 160: Sweeney vs. Begosso",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/100762-lfa-160-sweeney-vs-begosso",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: John Sweeney (12-3-0) vs. Allan Begosso (7-2-1)",
+        "Co-Main Event: Dylan Budka (5-1-0) vs. Azamat Bekoev (15-3-0)",
+        "Main Card: Michael Roberts (9-8-1) vs. Josiah Harrell (6-0-0)",
+        "Prelim: Thomas Lane (3-0-0) vs. Lydell Miller (2-0-0)"
       ]
     }
   }

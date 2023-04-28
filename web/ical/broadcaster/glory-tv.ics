@@ -4,30 +4,45 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230420T164959Z
-X-KAMPFKALENDER-HASH:38ba37c540735f57ca1102d43b2da3d3402e3eb6
+DTSTAMP:20230428T092016Z
+X-KAMPFKALENDER-HASH:5be57894dfc820bb6ece8d4d7ce2456761d5c8ce
 BEGIN:VEVENT
-DTSTAMP:20230420T165000Z
+DTSTAMP:20230428T092017Z
+UID:2023-04-glory-85-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 85: Prelims
+DTSTART:20230429T170000Z
+DTEND:20230429T180000Z
+CATEGORIES:Glory,Kickboxen,YouTube,glory.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LfzJf8iJvkA\nvia
+  glory.tv\n\n---\n\nhttps://fighting.de/events/glory-85/\nhttps://www.ta
+ pology.com/fightcenter/events/99755-glory-85\n\n---\n\nMain Event: Endy 
+ Semeleer vs. Murthel Groenhart\nMain Card: Michael Duut vs. Mohamed Amin
+ e\nMain Card: Berjan Peposhi vs. Jan Kaffa\nMain Card: Jahfarr Wilnis vs
+ . Kevin Tariq Osaro\nPrelim: Fabio Kwasi vs. Nicola Filipovic\nPrelim: M
+ aksymilian Bratkowicz vs. Brice Kombou
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230428T092017Z
 UID:2023-04-glory-85@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory 85
-DTSTART:20230429T170000Z
-DTEND:20230429T200000Z
+SUMMARY:GLORY 85
+DTSTART:20230429T180000Z
+DTEND:20230429T210000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Jtr-o1MU2AQ\
  nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-85/\nhttps://ww
  w.tapology.com/fightcenter/events/99755-glory-85\n\n---\n\nMain Event: E
  ndy Semeleer vs. Murthel Groenhart\nMain Card: Michael Duut vs. Mohamed 
- Amine\nMain Card: Berjan Peposhi vs. Jan Kaffa\nMain Card: Luis Tavares 
- vs. Enver Sljivar\nMain Card: Jahfarr Wilnis vs. Kevin Tariq Osaro\nPrel
- im: Murat Aygun vs. Nicola Filipovic\nPrelim: Maksymilian Bratkowicz vs.
-  Brice Kombou
+ Amine\nMain Card: Berjan Peposhi vs. Jan Kaffa\nMain Card: Jahfarr Wilni
+ s vs. Kevin Tariq Osaro\nPrelim: Fabio Kwasi vs. Nicola Filipovic\nPreli
+ m: Maksymilian Bratkowicz vs. Brice Kombou
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230420T165000Z
+DTSTAMP:20230428T092017Z
 UID:2023-05-glory-86@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Glory 86
+SUMMARY:GLORY 86
 DTSTART:20230527T170000Z
 DTEND:20230527T200000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
