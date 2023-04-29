@@ -947,5 +947,100 @@
         }
       }
     }
+  },
+  {
+    "id": "rebels-2023-04-29",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING",
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "tags": [
+      "#Hückelhoven",
+      "#NightOfTheRebels2"
+    ],
+    "mainCard": {
+      "title": "Night of the Rebels 2",
+      "time": "2023-04-29T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=cUVhqp-cYkQ"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-night-of-the-rebels-2-591"
+        }
+      }
+    }
+  },
+  {
+    "id": "oms-2023-04-29",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Hamburg",
+      "#OneManSeries",
+      "#OneManSeries3"
+    ],
+    "links": [
+      "https://onemanseries.com/"
+    ],
+    "mainCard": {
+      "title": "One Man Series: Next Level 3",
+      "time": "2023-04-29T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=MdAtMGAt_UM"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-one-man-series-next-level-3-590"
+        }
+      }
+    },
+    "prelims": {
+      "title": "One Man Series: Prelims",
+      "time": "2023-04-29T14:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=rP5bbf1lSnQ",
+          "free": true
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-one-man-series-next-level-3-590",
+          "free": true
+        }
+      }
+    }
+  },
+  {
+    "id": "plf-2023-04-29",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING",
+      "KARATE"
+    ],
+    "tags": [
+      "#Karlsruhe",
+      "#PLF13"
+    ],
+    "links": [
+      "https://www.pro-league.de/veranstaltungen/karlsruhe"
+    ],
+    "mainCard": {
+      "title": "Pro League Fighting 13",
+      "time": "2023-04-29T18:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=QPOdfH7A_3s"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-pro-league-fighting-13-589"
+        }
+      }
+    }
   }
 ]
