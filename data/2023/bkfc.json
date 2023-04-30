@@ -545,5 +545,91 @@
         "https://events.mixedmartialarts.com/bkfc-40:6b38b978-fc6e-47d6-9955-c0a349d5c00e"
       ]
     }
+  },
+  {
+    "id": "tapology-98423",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC41",
+      "#BKFCDenver"
+    ],
+    "mainCard": {
+      "title": "BKFC 41: Perry vs. Rockhold",
+      "time": "2023-04-30T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-41/2pcr4/"
+        }
+      },
+      "fite": {
+        "id": "2pcr4",
+        "time": "2023-04-30T01:00:00Z",
+        "title": "BKFC 41 Denver: Mike Perry vs Luke Rockhold",
+        "url": "https://www.fite.tv/watch/bkfc-41/2pcr4/",
+        "price": "$19.99",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 41: Prelims",
+      "time": "2023-04-29T23:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=o0fftp-drio",
+          "free": true
+        },
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-41-prelims/2pcr5/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pcr5",
+        "time": "2023-04-29T23:00:00Z",
+        "title": "BKFC 41 Denver: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-41-prelims/2pcr5/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      },
+      "youTube": {
+        "id": "o0fftp-drio",
+        "time": "2023-04-29T23:00:00Z",
+        "title": "BKFC 41 Free Prelims | Live!",
+        "url": "https://www.youtube.com/watch?v=o0fftp-drio"
+      }
+    },
+    "tapology": {
+      "id": 98423,
+      "time": "2023-04-30T01:00:00Z",
+      "title": "BKFC 41: Perry vs. Rockhold",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/98423-bkfc",
+      "card": [
+        "Main Event: Mike Perry vs. Luke Rockhold",
+        "Co-Main Event: Eddie Alvarez vs. Chad Mendes",
+        "Main Card: Bec Rawlings vs. Christine Ferea",
+        "Main Card: Chris Camozzi vs. Dan Spohn",
+        "Main Card: Brandon Girtz vs. Christian Torres",
+        "Main Card: Jessie Stalder vs. Roderick Stewart",
+        "Main Card: Matthew Maestas vs. Dillion Winemiller",
+        "Main Card: Mike Alvarado vs. James Brown",
+        "Main Card: Ben Rothwell vs. Josh Copeland",
+        "Prelim: Mitch Seybold vs. Jack Willoughby",
+        "Prelim: BJ Lawrence vs. Wayna Reid",
+        "Prelim: Marcus Edwards vs. Jay Jackson"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-41:66495f38-b5b2-4d77-a39f-68f077f2a5f5"
+      ]
+    }
   }
 ]
