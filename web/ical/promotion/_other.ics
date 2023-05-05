@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230429T220304Z
-X-KAMPFKALENDER-HASH:8de854f53c929b628afb18389cdbd01ed7215b1b
+DTSTAMP:20230505T063246Z
+X-KAMPFKALENDER-HASH:e47cf980d28a5cc8ab5b6895d081fd198574973a
 BEGIN:VEVENT
-DTSTAMP:20230429T220304Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-one-man-series-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series: Prelims
@@ -19,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=rP5bbf1lSnQ\nvia
  ext-level-3-590\n\n---\n\nhttps://onemanseries.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220304Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-night-of-the-rebels-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Night of the Rebels 2
@@ -31,7 +31,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cUVhqp-cYkQ\nvia
  els-2-591
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220304Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-one-man-series-next-level-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series: Next Level 3
@@ -43,7 +43,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MdAtMGAt_UM\nvia
  ext-level-3-590\n\n---\n\nhttps://onemanseries.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220304Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-pro-league-fighting-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pro League Fighting 13
@@ -56,7 +56,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=QPOdfH7A_3s\nvia
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220304Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-cook-vs-godoy@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cook vs. Godoy
@@ -73,7 +73,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0-0) vs. Jesus Angel Nerio (15-10-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220304Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-bakaj-boxing-special@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bakaj Boxing Special
@@ -85,7 +85,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=dboshpcWte8\nvia
  cial-592
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220304Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-grand-boxing-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Grand Boxing 5
@@ -95,5 +95,25 @@ CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-DqoxYA-sYQ\nvia
   fight24.tv: https://www.fight24.tv/fightpasses/fight24-grand-boxing-5-5
  93
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230505T063246Z
+UID:2023-05-dream-boxing@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Dream Boxing
+DTSTART:20230513T150000Z
+DTEND:20230513T180000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230505T063246Z
+UID:2023-05-dream-boxing-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Dream Boxing
+DTSTART:20230520T153000Z
+DTEND:20230520T183000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN
 END:VEVENT
 END:VCALENDAR

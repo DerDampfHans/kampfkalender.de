@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230428T092016Z
-X-KAMPFKALENDER-HASH:5c2f37c37d9a840f73c8074fbf6caf6e975db639
+DTSTAMP:20230505T063246Z
+X-KAMPFKALENDER-HASH:28aeae5ca98bae6ca1cafe0adca20fb2f788fa92
 BEGIN:VEVENT
-DTSTAMP:20230428T092017Z
+DTSTAMP:20230505T063246Z
 UID:2023-04-zepeda-vs-arboleda@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Arboleda
@@ -26,7 +26,19 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  m (0-0-0) vs. Julio Bendana (6-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230428T092017Z
+DTSTAMP:20230505T063246Z
+UID:2023-06-munguia-vs-derevyanchenko@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Munguia vs. Derevyanchenko
+DTSTART:20230611T010000Z
+DTEND:20230611T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/100944-munguia-vs-derevyanchenko\n\n---\n\nMain Event: Jaime Munguia (
+ 41-0-0) vs. Sergey Derevyanchenko (14-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230505T063246Z
 UID:2023-07-stanionis-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Stanionis vs. Ortiz

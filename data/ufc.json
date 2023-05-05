@@ -32,7 +32,7 @@
         "title": "UFC 288: Sterling vs Cejudo (Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
-        "description": "Kommentator: Mark Bergmann / Experte: Andreas Kraniotakes"
+        "description": "Nach fast drei Jahren ohne Kampf möchte sich der ehemalige two-division-champion Henry Cejudo den Titel im Bantamgewicht wieder unter den Nagel reißen. Allerdings wird das ein schwieriges Unterfangen gegen den BJJ-Spezialisten Aljamain Sterling, der seine letzten drei Kämpfe (Titelfights) allesamt für sich entscheiden konnte. // Kommentator: Mark Bergmann / Experte: Andreas Kraniotakes."
       }
     },
     "prelims": {
@@ -74,7 +74,7 @@
         "Main Event: Aljamain Sterling (22-3-0) vs. Henry Cejudo (16-2-0)",
         "Co-Main Event: Belal Muhammad (22-3-0) vs. Gilbert Burns (22-5-0)",
         "Main Card: Jéssica Andrade (24-10-0) vs. Xiaonan Yan (16-3-0)",
-        "Main Card: Movsar Evloev (16-0-0) vs. Bryce Mitchell (15-1-0)",
+        "Main Card: Movsar Evloev (16-0-0) vs. Diego Lopes (21-5-0)",
         "Main Card: Kron Gracie (5-1-0) vs. Charles Jourdain (13-6-1)",
         "Prelim: Drew Dober (26-11-0) vs. Matt Frevola (10-3-1)",
         "Prelim: Devin Clark (14-7-0) vs. Kennedy Nzechukwu (11-3-0)",
@@ -83,8 +83,7 @@
         "Prelim: Parker Porter (13-8-0) vs. Braxton Smith (5-1-0)",
         "Prelim: Ikram Aliskerov (13-1-0) vs. Phil Hawes (12-4-0)",
         "Prelim: Zhalgas Zhumagulov (14-8-0) vs. Rafael Estevam (11-0-0)",
-        "Prelim: Joseph Holmes (8-3-0) vs. Claudio Ribeiro (10-3-0)",
-        "Prelim: Daniel Santos (10-2-0) vs. Johnny Munoz Jr. (12-2-0)"
+        "Prelim: Joseph Holmes (8-3-0) vs. Claudio Ribeiro (10-3-0)"
       ],
       "links": [
         "http://www.sherdog.com/events/ufc-288-sterling-vs-cejudo-96351",
@@ -121,23 +120,33 @@
       },
       "dazn": {
         "id": "3x9k78ju90qp1o2r46znuzpim",
-        "time": "2023-05-13T23:00:00Z",
-        "title": "UFC Fight Night: Rozenstruik vs Almeida (Hauptkämpfe)",
+        "time": "2023-05-13T15:30:00Z",
+        "title": "UFC Fight Night: Rozenstruik vs Almeida (Vor- & Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC"
       }
     },
     "prelims": {
       "title": "UFC Charlotte: Prelims",
+      "time": "2023-05-13T15:30:00Z",
       "broadcasters": {
+        "DAZN": {
+        },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "dazn": {
+        "id": "3x9k78ju90qp1o2r46znuzpim",
+        "time": "2023-05-13T15:30:00Z",
+        "title": "UFC Fight Night: Rozenstruik vs Almeida (Vor- & Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "tapology": {
       "id": 98223,
       "time": "2023-05-13T15:30:00Z",
-      "title": "UFC Fight Night: Rozenstruik vs. Almeida",
+      "title": "UFC on ABC 4: Rozenstruik vs. Almeida",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/98223-ufc-fight-night",
       "sports": [
@@ -146,14 +155,14 @@
       "card": [
         "Main Event: Jairzinho Rozenstruik (13-4-0) vs. Jailton Almeida (18-2-0)",
         "Co-Main Event: Anthony Smith (36-17-0) vs. Johnny Walker (20-7-0)",
-        "Main Card: Matt Brown (23-19-0) vs. Court McGee (21-11-0)",
         "Main Card: Mackenzie Dern (12-3-0) vs. Angela Hill (15-12-0)",
         "Main Card: Daniel Rodriguez (17-3-0) vs. Ian Machado Garry (11-0-0)",
         "Main Card: Tim Means (32-14-1) vs. Alex Morono (22-8-0)",
-        "Main Card: Carlos Ulberg (7-1-0) vs. Ihor Potieria (19-3-0)",
         "Prelim: Jessica-Rose Clark (11-8-0) vs. Tainara Lisboa (5-2-0)",
+        "Prelim: Matt Brown (23-19-0) vs. Court McGee (21-11-0)",
         "Prelim: Ji Yeon Kim (9-6-2) vs. Mandy Böhm (7-2-0)",
         "Prelim: Cody Stamann (21-5-1) vs. D. Silva de Andrade (28-5-0)",
+        "Prelim: Carlos Ulberg (7-1-0) vs. Ihor Potieria (19-3-0)",
         "Prelim: Gabe Green (11-4-0) vs. Bryan Battle (8-2-0)",
         "Prelim: Karl Williams (8-1-0) vs. Chase Sherman (16-11-0)",
         "Prelim: Natan Levy (8-1-0) vs. Pete Rodriguez (5-1-0)"
@@ -199,26 +208,24 @@
     },
     "tapology": {
       "id": 98571,
-      "time": "2023-05-20T22:00:00Z",
-      "title": "UFC Fight Night: Pennington vs. Aldana 2",
+      "time": "2023-05-20T20:00:00Z",
+      "title": "UFC Fight Night",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/98571-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Raquel Pennington (15-8-0) vs. Irene Aldana (14-6-0)",
-        "Main Card: Edmen Shahbazyan (12-3-0) vs. Anthony Hernandez (10-2-0)",
+        "Co-Main Event: Edmen Shahbazyan (12-3-0) vs. Anthony Hernandez (10-2-0)",
+        "Main Card: Maheshate (9-2-0) vs. Viacheslav Borshchev (6-3-0)",
         "Main Card: Michael Johnson (21-18-0) vs. Diego Ferreira (17-5-0)",
+        "Main Card: Andre Fialho (16-6-0) vs. Joaquin Buckley (15-6-0)",
         "Main Card: Emily Ducote (12-7-0) vs. Polyana Viana (13-5-0)",
         "Prelim: Karolina Kowalkiewicz (14-7-0) vs. Vanessa Demopoulos (9-4-0)",
-        "Prelim: Abdul Razak Alhassan (12-5-0) vs. Brunno Ferreira (10-0-0)",
         "Prelim: Ilir Latifi (16-8-0) vs. Rodrigo Nascimento (9-1-0)",
-        "Prelim: Maheshate (9-2-0) vs. Viacheslav Borshchev (6-3-0)",
         "Prelim: Chase Hooper (11-3-1) vs. Nick Fiore (6-1-0)",
         "Prelim: Victoria Leonardo (9-4-0) vs. Natália Silva (14-5-1)",
         "Prelim: Orion Cosce (8-1-0) vs. Gilbert Urbina (6-2-0)",
-        "Prelim: Andre Fialho (16-6-0) vs. Joaquin Buckley (15-6-0)",
         "Prelim: Takashi Sato (16-6-0) vs. Themba Gorimbo (10-4-0)",
         "Prelim: Steve Erceg (9-1-0) vs. Clayton Carpenter (7-0-0)"
       ]
@@ -234,42 +241,63 @@
       "#UFCVegas74"
     ],
     "mainCard": {
-      "title": "UFC Vegas 74: Hermansson vs. Allen",
-      "time": "2023-06-03T22:00:00Z",
+      "title": "UFC Vegas 74: Kara-France vs. Albazi",
+      "time": "2023-06-03T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 240357,
+        "time": "2023-06-03T23:00:00Z",
+        "title": "UFC FIGHT NIGHT: HERMANSSON VS ALLEN"
+      },
+      "dazn": {
+        "id": "lg7arpyybjs714aq1rgx3asqn",
+        "time": "2023-06-03T23:00:00Z",
+        "title": "UFC Fight Night: Kara-France vs Albazi (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
       "title": "UFC Vegas 74: Prelims",
+      "time": "2023-06-03T20:30:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 240356,
+        "time": "2023-06-03T20:30:00Z",
+        "title": "UFC FIGHT NIGHT: HERMANSSON VS ALLEN PRELIMS"
       }
     },
     "tapology": {
       "id": 99119,
       "time": "2023-06-03T22:00:00Z",
-      "title": "UFC Fight Night",
+      "title": "UFC Fight Night: Kara-France vs. Albazi",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/99119-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
+        "Main Event: Kai Kara-France (24-10-0) vs. Amir Albazi (16-1-0)",
         "Main Card: Mayra Bueno Silva (10-2-1) vs. Miesha Tate (19-9-0)",
-        "Main Card: Kai Kara-France (24-10-0) vs. Amir Albazi (16-1-0)",
         "Main Card: Alex Caceres (20-13-0) vs. Daniel Pineda (28-14-0)",
+        "Main Card: Andrei Arlovski (34-21-0) vs. Don'Tale Mayes (9-5-0)",
+        "Main Card: Guram Kutateladze (12-3-0) vs. Jamie Mullarkey (16-5-0)",
         "Prelim: Jinh Yu Frey (11-8-0) vs. Elise Reed (6-3-0)",
         "Prelim: Luan Lacerda (12-2-0) vs. Da'Mon Blackshear (12-5-1)",
         "Prelim: Jim Miller (35-17-0) vs. Ľudovít Klein (19-4-1)",
         "Prelim: John Castañeda (19-6-0) vs. Mateus Mendonça (10-1-0)",
         "Prelim: Elizeu Zaleski (23-7-0) vs. Abubakar Nurmagomedov (17-3-1)",
         "Prelim: Maxim Grishin (32-9-2) vs. Philipe Lins (16-5-0)",
-        "Prelim: Tim Elliott (18-12-1) vs. Victor Altamirano (12-2-0)"
+        "Prelim: Tim Elliott (18-12-1) vs. Victor Altamirano (12-2-0)",
+        "Prelim: Karine Silva (15-4-0) vs. Ketlen Souza (13-3-0)"
       ]
     }
   },
@@ -290,6 +318,11 @@
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 239295,
+        "time": "2023-06-11T02:00:00Z",
+        "title": "UFC 289: Nunes vs Peña 3"
       }
     },
     "prelims": {
@@ -321,17 +354,16 @@
     "tapology": {
       "id": 99346,
       "time": "2023-06-11T02:00:00Z",
-      "title": "UFC 289: Nunes vs. Peña 3",
+      "title": "UFC 289: Nunes vs. Aldana",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/99346-ufc-289",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Amanda Nunes (22-5-0) vs. Julianna Peña (11-5-0)",
+        "Main Event: Amanda Nunes (22-5-0) vs. Irene Aldana (14-6-0)",
         "Co-Main Event: Charles Oliveira (33-9-0) vs. Beneil Dariush (22-4-1)",
         "Main Card: Dan Ige (16-6-0) vs. Nate Landwehr (17-4-0)",
-        "Main Card: Stephen Thompson (17-6-1) vs. Michel Pereira (28-11-0)",
         "Main Card: Nassourdine Imavov (12-4-0) vs. Chris Curtis (30-10-0)",
         "Prelim: Jasmine Jasudavicius (8-2-0) vs. Miranda Maverick (11-4-0)",
         "Prelim: Eryk Anders (15-7-0) vs. Marc-André Barriault (15-6-0)",
@@ -388,7 +420,8 @@
         "Prelim: Modestas Bukauskas (14-5-0) vs. Zac Pauga (6-1-0)",
         "Prelim: Muslim Salikhov (19-3-0) vs. Nicolas Dalby (21-4-1)",
         "Prelim: Carlos Hernandez (8-2-0) vs. Denys Bondar (16-4-0)",
-        "Prelim: Nikolas Motta (13-4-0) vs. Manuel Torres (13-2-0)"
+        "Prelim: Nikolas Motta (13-4-0) vs. Manuel Torres (13-2-0)",
+        "Prelim: Ronnie Lawrence (8-2-0) vs. Daniel Argueta (9-1-0)"
       ]
     }
   },
@@ -420,8 +453,8 @@
     },
     "tapology": {
       "id": 99780,
-      "time": "2023-06-24T22:00:00Z",
-      "title": "UFC Fight Night: Emmett vs. Topuria",
+      "time": "2023-06-24T16:00:00Z",
+      "title": "UFC on ABC 5: Emmett vs. Topuria",
       "titleAlt": "UFC Fight Night Jacksonville",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/99780-ufc-fight-night",
@@ -432,9 +465,16 @@
         "Main Event: Josh Emmett (18-3-0) vs. Ilia Topuria (13-0-0)",
         "Main Card: Tatsuro Taira (13-0-0) vs. Kleydson Rodrigues (8-2-0)",
         "Main Card: Amanda Ribas (11-3-0) vs. Maycee Barber (12-2-0)",
+        "Main Card: Brendan Allen (21-5-0) vs. Bruno Silva (23-8-0)",
+        "Main Card: Neil Magny (27-10-0) vs. Philip Rowe (10-3-0)",
         "Prelim: Punahele Soriano (9-3-0) vs. Sedriques Dumas (7-1-0)",
         "Prelim: Mateusz Rębecki (17-1-0) vs. Loik Radzhabov (17-4-1)",
-        "Prelim: Tabatha Ricci (8-1-0) vs. Gillian Robertson (12-7-0)"
+        "Prelim: Tabatha Ricci (8-1-0) vs. Gillian Robertson (12-7-0)",
+        "Prelim: David Onama (10-2-0) vs. Gabriel Santos (10-1-0)",
+        "Prelim: Gregory Rodrigues (13-5-0) vs. Denis Tiuliulin (11-7-0)",
+        "Prelim: Justin Tafa (6-3-0) vs. Austen Lane (12-3-0)",
+        "Prelim: Randy Brown (16-5-0) vs. Wellington Turman (18-6-0)",
+        "Prelim: Trevor Peek (8-0-0) vs. Victor Martinez (13-5-0)"
       ]
     }
   },
@@ -476,7 +516,11 @@
       "card": [
         "Main Event: Sean Strickland (26-5-0) vs. Abus Magomedov (25-4-1)",
         "Prelim: Ariane Lipski (15-8-0) vs. Melissa Gatto (8-1-2)",
-        "Prelim: Joanderson Brito (14-3-1) vs. Khusein Askhabov (23-1-0)"
+        "Prelim: Joanderson Brito (14-3-1) vs. Khusein Askhabov (23-1-0)",
+        "Prelim: Max Griffin (19-9-0) vs. Michael Morales (14-0-0)",
+        "Prelim: Abdul Razak Alhassan (12-5-0) vs. Brunno Ferreira (10-0-0)",
+        "Prelim: Ivana Petrović (6-0-0) vs. Luana Carolina (8-4-0)",
+        "Prelim: Jordan Leavitt (11-2-0) vs. Elves Brener (14-3-0)"
       ]
     }
   },
@@ -531,7 +575,8 @@
         "Prelim: Dan Hooker (22-12-0) vs. Jalin Turner (13-6-0)",
         "Prelim: Sean Brady (15-1-0) vs. Jack Della Maddalena (14-2-0)",
         "Prelim: Shannon Ross (13-7-0) vs. Jesus Aguilar (8-2-0)",
-        "Prelim: Yazmin Jauregui (10-0-0) vs. Denise Gomes (7-2-0)"
+        "Prelim: Yazmin Jauregui (10-0-0) vs. Denise Gomes (7-2-0)",
+        "Prelim: Christian Rodriguez (9-1-0) vs. Cameron Saaiman (8-0-0)"
       ]
     }
   },
@@ -568,13 +613,14 @@
     "tapology": {
       "id": 100553,
       "time": "2023-07-15T22:00:00Z",
-      "title": "UFC Fight Night",
+      "title": "UFC Fight Night: Luque vs. Dos Anjos",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/100553-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
+        "Main Event: Vicente Luque (21-9-1) vs. Rafael dos Anjos (32-14-0)",
         "Main Card: Walt Harris (13-10-0) vs. Josh Parisian (15-6-0)",
         "Prelim: Ashlee Evans-Smith (6-5-0) vs. Ailin Perez (7-2-0)",
         "Prelim: Tyson Nam (21-13-1) vs. Azat Maksum (16-0-0)",
@@ -627,7 +673,11 @@
       ],
       "card": [
         "Main Card: Molly McCann (13-5-0) vs. Julija Stoliarenko (10-7-1)",
-        "Prelim: Michael Parkin (6-0-0) vs. Jamal Pogues (10-3-0)"
+        "Prelim: Michael Parkin (6-0-0) vs. Jamal Pogues (10-3-0)",
+        "Prelim: Davey Grant (13-6-0) vs. Daniel Marcos (14-0-0)",
+        "Prelim: Jai Herbert (12-4-1) vs. Fares Ziam (13-4-0)",
+        "Prelim: Marc Diakiese (16-6-0) vs. Joel Alvarez (19-3-0)",
+        "Prelim: Chris Duncan (10-1-0) vs. Yanal Ashmouz (7-0-0)"
       ]
     }
   },

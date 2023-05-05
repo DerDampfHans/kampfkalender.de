@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230428T092016Z
-X-KAMPFKALENDER-HASH:b5a18ece3ae40ac95479575b4bb29b67a9526dfe
+DTSTAMP:20230505T063246Z
+X-KAMPFKALENDER-HASH:df032b85c10ed47fba5bd669ef23e8cf971aad41
 BEGIN:VEVENT
-DTSTAMP:20230428T092017Z
+DTSTAMP:20230505T063246Z
 UID:2023-06-unified-mma-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Unified MMA 51
@@ -15,9 +15,11 @@ DTSTART:20230624T000000Z
 DTEND:20230624T030000Z
 CATEGORIES:UMMA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/100486-unified-mma-51\n\n---\n\nMain Card: Ergys Sigeta (5-0
- -0) vs. Bradley Desir (10-7-0)\nMain Card: Vladimir Kazbekov (7-5-0) vs.
-  Gary Konkol (5-3-0)\nMain Card: Tom Theocharis (7-5-0) vs. Nathan Pierc
- e (4-4-0)\nMain Card: Bobby Poulter (4-1-0) vs. Josh Jackson (7-3-0)
+ nter/events/100486-unified-mma-51\n\n---\n\nCo-Main Event: Teshay Gouthr
+ o (7-1-0) vs. Eric Shelton (16-8-0)\nMain Card: Ergys Sigeta (5-0-0) vs.
+  Bradley Desir (10-7-0)\nMain Card: Vladimir Kazbekov (7-5-0) vs. Gary K
+ onkol (5-3-0)\nMain Card: Tom Theocharis (7-5-0) vs. Nathan Pierce (4-4-
+ 0)\nMain Card: Bobby Poulter (4-1-0) vs. Josh Jackson (7-3-0)\nMain Card
+ : Cesar Bonilla (0-0-0) vs. Taylor Cahill (1-0-0)
 END:VEVENT
 END:VCALENDAR
