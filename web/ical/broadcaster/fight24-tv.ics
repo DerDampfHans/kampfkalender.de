@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230429T220304Z
-X-KAMPFKALENDER-HASH:0ea08b39de758ca4823eac15992ea5cc0813db05
+DTSTAMP:20230505T071411Z
+X-KAMPFKALENDER-HASH:8cdff946b51eebd07528a4e0462501a9a3ef1d42
 BEGIN:VEVENT
-DTSTAMP:20230429T220305Z
+DTSTAMP:20230505T071412Z
 UID:2023-04-one-man-series-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series: Prelims
@@ -19,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=rP5bbf1lSnQ\nvia
  ext-level-3-590\n\n---\n\nhttps://onemanseries.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220305Z
+DTSTAMP:20230505T071412Z
 UID:2023-04-night-of-the-rebels-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Night of the Rebels 2
@@ -31,7 +31,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=cUVhqp-cYkQ\nvia
  els-2-591
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220305Z
+DTSTAMP:20230505T071412Z
 UID:2023-04-one-man-series-next-level-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Man Series: Next Level 3
@@ -43,7 +43,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MdAtMGAt_UM\nvia
  ext-level-3-590\n\n---\n\nhttps://onemanseries.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220305Z
+DTSTAMP:20230505T071412Z
 UID:2023-04-pro-league-fighting-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pro League Fighting 13
@@ -56,7 +56,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=QPOdfH7A_3s\nvia
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220305Z
+DTSTAMP:20230505T071412Z
 UID:2023-04-bakaj-boxing-special@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bakaj Boxing Special
@@ -68,7 +68,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=dboshpcWte8\nvia
  cial-592
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T220305Z
+DTSTAMP:20230505T071412Z
 UID:2023-04-grand-boxing-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Grand Boxing 5
@@ -78,5 +78,42 @@ CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=-DqoxYA-sYQ\nvia
   fight24.tv: https://www.fight24.tv/fightpasses/fight24-grand-boxing-5-5
  93
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230505T071412Z
+UID:2023-05-nille-s-fight-night-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nille's Fight Night 3
+DTSTART:20230506T140000Z
+DTEND:20230506T170000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=3CWBSYduycY\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-nilles-fight-nig
+ ht-3-594\n\n---\n\nhttps://www.studiofuenf.info/news/detail/nille-lsquo-
+ s-fight-night-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230505T071412Z
+UID:2023-05-maximus-fight-night-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Maximus Fight Night 2
+DTSTART:20230506T153000Z
+DTEND:20230506T183000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=m6LMKsVYLEY\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-maximus-fight-ni
+ ght-2-595\n\n---\n\nhttps://teammaximus-events.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230505T071412Z
+UID:2023-05-adler-fighting-championship@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Adler Fighting Championship
+DTSTART:20230506T170000Z
+DTEND:20230506T200000Z
+CATEGORIES:Other,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=rIjTozcyIs4\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-adler-fight-cham
+ pionship-596
 END:VEVENT
 END:VCALENDAR
