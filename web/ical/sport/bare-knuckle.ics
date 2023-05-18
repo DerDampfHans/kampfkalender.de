@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230507T220306Z
-X-KAMPFKALENDER-HASH:1671791686bcaa16c20931029f9ecbb057c84b8b
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:6a7dfd45f783d298c5a2599d828e96a7dd831636
 BEGIN:VEVENT
-DTSTAMP:20230507T220308Z
+DTSTAMP:20230518T220406Z
 UID:2023-05-bkfc-42-soto-vs-goodjohn@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 42: Soto vs. Goodjohn
@@ -26,25 +26,28 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-42/2pcv2/\n\n---\
   Miller vs. Dustin Long\nPrelim: Dustin Pague vs. Wade Johnson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T220308Z
+DTSTAMP:20230518T220406Z
 UID:2023-05-bkfc-43-alexander-vs-smith-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith: Prelims
-DTSTART:20230520T000000Z
+DTSTART:20230519T230000Z
 DTEND:20230520T010000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43-prelims/2pcv4/
- \n\n---\n\nhttps://www.tapology.com/fightcenter/events/99663-bkfc-43-ale
- xander-vs-smith\n\n---\n\nMain Event: Houston Alexander vs. Jeremy Smith
- \nCo-Main Event: Dakota Cochrane vs. Noah Cutter\nMain Card: Sean Wilson
-  vs. Brandon Meyer\nMain Card: Ryan Braun vs. Andrew Potter\nMain Card: 
- Alonzo Martinez vs. Joey Munoz\nMain Card: Tommy Strydom vs. Josh Krejci
- \nMain Card: Esteban Rodriguez vs. Jaquis Williams\nMain Card: Jade Mass
- on-Wong vs. Taylor Starling\nMain Card: Carlos Trinidad-Snake vs. Elvin 
- Leon Brito\nPrelim: TJ Benson vs. Corey Roberts
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Jq3OygmaO3k\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-43-prelims/2pcv4/\n\n---\n\nhtt
+ ps://www.tapology.com/fightcenter/events/99663-bkfc-43-alexander-vs-smit
+ h\nhttps://events.mixedmartialarts.com/bkfc-43:410fa0bd-6949-4bb8-8dbc-7
+ ec751e680aa\n\n---\n\nMain Event: Houston Alexander vs. Jeremy Smith\nCo
+ -Main Event: Dakota Cochrane vs. Noah Cutter\nMain Card: Sean Wilson vs.
+  Brandon Meyer\nMain Card: Ryan Braun vs. Andrew Potter\nMain Card: Alon
+ zo Martinez vs. Joey Munoz\nMain Card: Jade Masson-Wong vs. Taylor Starl
+ ing\nMain Card: Carlos Trinidad-Snake vs. Elvin Leon Brito\nMain Card: J
+ immie Rivera vs. Bekhzod Usmonov\nPrelim: Tommy Strydom vs. Josh Krejci\
+ nPrelim: TJ Benson vs. Corey Roberts\nPrelim: Esteban Rodriguez vs. Jaqu
+ is Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T220308Z
+DTSTAMP:20230518T220406Z
 UID:2023-05-bkfc-43-alexander-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith
@@ -53,44 +56,77 @@ DTEND:20230520T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43/2pcv3/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/99663-bkfc-43-alexander-v
- s-smith\n\n---\n\nMain Event: Houston Alexander vs. Jeremy Smith\nCo-Mai
- n Event: Dakota Cochrane vs. Noah Cutter\nMain Card: Sean Wilson vs. Bra
- ndon Meyer\nMain Card: Ryan Braun vs. Andrew Potter\nMain Card: Alonzo M
- artinez vs. Joey Munoz\nMain Card: Tommy Strydom vs. Josh Krejci\nMain C
- ard: Esteban Rodriguez vs. Jaquis Williams\nMain Card: Jade Masson-Wong 
- vs. Taylor Starling\nMain Card: Carlos Trinidad-Snake vs. Elvin Leon Bri
- to\nPrelim: TJ Benson vs. Corey Roberts
+ s-smith\nhttps://events.mixedmartialarts.com/bkfc-43:410fa0bd-6949-4bb8-
+ 8dbc-7ec751e680aa\n\n---\n\nMain Event: Houston Alexander vs. Jeremy Smi
+ th\nCo-Main Event: Dakota Cochrane vs. Noah Cutter\nMain Card: Sean Wils
+ on vs. Brandon Meyer\nMain Card: Ryan Braun vs. Andrew Potter\nMain Card
+ : Alonzo Martinez vs. Joey Munoz\nMain Card: Jade Masson-Wong vs. Taylor
+  Starling\nMain Card: Carlos Trinidad-Snake vs. Elvin Leon Brito\nMain C
+ ard: Jimmie Rivera vs. Bekhzod Usmonov\nPrelim: Tommy Strydom vs. Josh K
+ rejci\nPrelim: TJ Benson vs. Corey Roberts\nPrelim: Esteban Rodriguez vs
+ . Jaquis Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T220308Z
-UID:2023-05-bkb-32@kampfkalender.de
+DTSTAMP:20230518T220406Z
+UID:2023-05-bkb-32-sweeney-vs-tello@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKB 32
-DTSTART:20230521T180000Z
-DTEND:20230521T210000Z
+SUMMARY:BKB 32: Sweeney vs. Tello
+DTSTART:20230521T150000Z
+DTEND:20230521T180000Z
 CATEGORIES:BKB,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/99759-bkb-32\n\n---\n\nMain Card: Jimmy Sweeney vs. Jonny Tello\nMa
- in Card: Scott McHugh vs. Aaron McCallum\nMain Card: Charlie Milner vs. 
- Paul Webster\nMain Card: Jody Meikle vs. Martyn Grainger\nMain Card: Bea
- u Besley vs. Michael Devine\nMain Card: Danny Meins vs. Tony Meehan\nMai
- n Card: Chad Kelly vs. Jonny Lawson\nMain Card: Andre Lovli vs. Ashley G
- riffiths
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkb-32/2pd13/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/99759-bkb-32\nhttps://even
+ ts.mixedmartialarts.com/bkb-32:23e4eea8-c993-4baf-9883-1fb327be2ffe\n\n-
+ --\n\nMain Card: Jimmy Sweeney vs. Jonny Tello\nMain Card: Scott McHugh 
+ vs. Aaron McCallum\nMain Card: Charlie Milner vs. Paul Webster\nMain Car
+ d: Jody Meikle vs. Martyn Grainger\nMain Card: Beau Besley vs. Michael D
+ evine\nMain Card: Danny Meins vs. Tony Meehan\nMain Card: Chad Kelly vs.
+  Jonny Lawson\nMain Card: Andre Lovli vs. Ashley Griffiths
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T220308Z
+DTSTAMP:20230518T220406Z
+UID:2023-06-bkfc-44-stewart-vs-lopez-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 44: Stewart vs. Lopez: Prelims
+DTSTART:20230610T000000Z
+DTEND:20230610T010000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-44-prelims/2pd0r/
+ \n\n---\n\nhttps://www.tapology.com/fightcenter/events/100466-bkfc-44-st
+ ewart-vs-lopez\n\n---\n\nMain Event: Kai Stewart vs. Louie Lopez\nCo-Mai
+ n Event: Dallas Davison vs. Lloyd Mix\nMain Card: Billy Wagner vs. Bryce
+  Henry\nMain Card: JorDan Christensen vs. Kerry Lattimer\nMain Card: Rya
+ n Ibsen vs. Dakota Highpine\nMain Card: Sawyer Depee vs. Gabriel Mota\nM
+ ain Card: Nekah Dmitriyeva vs. Cassie Robb\nPrelim: Leo Bercier vs. Will
+ ie Sears\nPrelim: Koda Greenwood vs. Darrick Gates
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
 UID:2023-06-bkfc-44-stewart-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Stewart vs. Lopez
-DTSTART:20230610T000000Z
-DTEND:20230610T030000Z
+DTSTART:20230610T010000Z
+DTEND:20230610T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-44/2pd0q/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/100466-bkfc-44-stewart-vs
+ -lopez\n\n---\n\nMain Event: Kai Stewart vs. Louie Lopez\nCo-Main Event:
+  Dallas Davison vs. Lloyd Mix\nMain Card: Billy Wagner vs. Bryce Henry\n
+ Main Card: JorDan Christensen vs. Kerry Lattimer\nMain Card: Ryan Ibsen 
+ vs. Dakota Highpine\nMain Card: Sawyer Depee vs. Gabriel Mota\nMain Card
+ : Nekah Dmitriyeva vs. Cassie Robb\nPrelim: Leo Bercier vs. Willie Sears
+ \nPrelim: Koda Greenwood vs. Darrick Gates
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
+UID:2023-07-bkfc-46-franco-vs-harris@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 46: Franco vs. Harris
+DTSTART:20230701T200000Z
+DTEND:20230701T230000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/100466-bkfc-44-stewart-vs-lopez\n\n---\n\nMain Event: Kai Stewart v
- s. Louie Lopez\nCo-Main Event: Dallas Davison vs. Lloyd Mix\nMain Card: 
- Billy Wagner vs. Bryce Henry\nMain Card: JorDan Christensen vs. Kerry La
- ttimer\nMain Card: Ryan Ibsen vs. Dakota Highpine\nMain Card: Sawyer Dep
- ee vs. Gabriel Mota\nPrelim: Leo Bercier vs. Willie Sears\nPrelim: Koda 
- Greenwood vs. Darrick Gates
+ ents/101297-bkfc-46-franco-vs-harris\n\n---\n\nMain Event: Rico Franco v
+ s. Kaleb Harris
 END:VEVENT
 END:VCALENDAR

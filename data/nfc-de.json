@@ -6,7 +6,7 @@
       "MMA"
     ],
     "tags": [
-      "#Düsseldorf",
+      "#Essen",
       "#NFC14"
     ],
     "links": [
@@ -14,29 +14,17 @@
     ],
     "mainCard": {
       "title": "NFC 14",
-      "time": "2023-05-27T21:00:00Z",
-      "until": "2023-05-27T22:30:00Z",
+      "time": "2023-05-27T15:00:00Z",
+      "until": "2023-05-27T17:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "url": "https://www.youtube.com/watch?v=Jtr-o1MU2AQ"
-        },
-        "SPORT1": {
-          "free": true
         }
       }
     },
     "prelims": {
-      "title": "NFC 14: Main Card",
-      "time": "2023-05-27T20:00:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-          "url": "https://www.youtube.com/watch?v=VyLS1yPn8Jo"
-        }
-      }
-    },
-    "earlyPrelims": {
       "title": "NFC 14: Prelims",
-      "time": "2023-05-27T16:00:00Z",
+      "time": "2023-05-27T14:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
           "free": true
@@ -47,23 +35,22 @@
       "id": 94581,
       "time": "2023-05-27T16:00:00Z",
       "title": "NFC 14",
+      "titleAlt": "Glory 86",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/94581-nfc-14",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Card: Cihad Akipa (5-0-0) vs. Elias Jakobi (3-0-0)",
         "Main Card: Timo Ernst (1-0-0) vs. Shamdin Al Hassan (0-0-0)",
-        "Main Card: Eduard Kexel (8-1-0) vs. Bekhruz Zukhurov (16-6-0)",
         "Main Card: Cagri Ucar (5-1-0) vs. Dino Starcevic (4-0-0)",
         "Main Card: Deni Mirnić (2-3-0) vs. Saeed Younesi (5-4-0)",
         "Main Card: David Piechaczek (0-0-0) vs. Ali Simmo (0-0-1)",
         "Main Card: Pantelei Taran (6-4-0) vs. Rijad Jaha (3-1-0)",
         "Main Card: Daniel Solaja (1-0-0) vs. Luka Milidragović (3-0-0)",
         "Main Card: Fedor Duric (2-0-0) vs. Silvis Jansons (4-0-0)",
-        "Main Card: Danial Aghaie (3-0-0) vs. Hoseein Mousavi (0-0-0)",
-        "Main Card: Kennedy Rayomba (5-2-0) vs. Tomasz Łangowski (5-3-0)"
+        "Main Card: Kennedy Rayomba (5-2-0) vs. Tomasz Łangowski (5-3-0)",
+        "Main Card: David Balevski (1-0-0) vs. Milan Markovic (2-1-0)"
       ]
     }
   },
@@ -101,8 +88,14 @@
       "id": 99712,
       "time": "2023-07-29T16:00:00Z",
       "title": "NFC Fight Night / The Cage 26",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/99712-nfc-fight-night-the-cage-26"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/99712-nfc-fight-night-the-cage-26",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Arijan Topallaj (3-0-1) vs. Ibragim Chamzatov (3-0-0)"
+      ]
     }
   },
   {

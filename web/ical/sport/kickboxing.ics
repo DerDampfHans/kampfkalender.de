@@ -4,10 +4,57 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230513T220304Z
-X-KAMPFKALENDER-HASH:13b72d2660503348cb87a9ce028c6b4b98fc32a7
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:5fe00ae5699bc8d8415df2611bd86c248fd9cb21
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
+UID:2023-05-one-team-championship-2023-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Team Championship 2023: Prelims
+DTSTART:20230520T100000Z
+DTEND:20230520T150000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live,kosten
+ los
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=v6jtaPKXnm8\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-one-team-champio
+ nship-2023-601\n\n---\n\nhttps://oneteam-kickboxing.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
+UID:2023-05-ego-fc-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ego FC: Prelims
+DTSTART:20230520T140000Z
+DTEND:20230520T160000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=CW1TeG5qWJ4\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-ego-fc-603
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
+UID:2023-05-one-team-championship-2023@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Team Championship 2023
+DTSTART:20230520T150000Z
+DTEND:20230520T180000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=NcTgFrcevDc\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-one-team-champio
+ nship-2023-601\n\n---\n\nhttps://oneteam-kickboxing.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
+UID:2023-05-ego-fc@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ego FC
+DTSTART:20230520T160000Z
+DTEND:20230520T190000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=91djNCY4DM0\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-ego-fc-603
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
 UID:2023-05-oktagon-43-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 43: Kincl vs. Vemola 2
@@ -15,29 +62,34 @@ DTSTART:20230520T170000Z
 DTEND:20230520T200000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/96604-oktagon-43\n\n---\n\nMain Event: Patrik Kincl (26-10-0) vs
- . Karlos Vémola (34-6-0)\nMain Card: Robert Pukač (16-10-1) vs. Miroslav
-  Brož (15-3-1)\nMain Card: David Kozma (31-12-0) vs. Alex Lohoré (23-8-0
- )\nMain Card: Louis Glismann (10-2-0) vs. Melvin van Suijdam (14-5-0)\nM
- ain Card: Mateusz Legierski (8-1-0) vs. Matěj Kuzník (18-7-0)\nMain Card
- : Robert Bryczek (15-5-0) vs. Lee Chadwick (28-17-1)\nMain Card: Jakub T
- ichota (5-2-0) vs. Ahmed Vila (10-4-1)\nMain Card: Ion Surdu (12-5-0) vs
- . Amiran Gogoladze (14-3-0)\nMain Card: Gianni Melillo (14-8-0) vs. Mare
- k Mazuch (6-2-0)
+ /events/96604-oktagon-43\nhttp://www.sherdog.com/events/oktagon-mma-okta
+ gon-43-kincl-vs-vemola-2-95943\nhttps://events.mixedmartialarts.com/okta
+ gon-43:5701dc85-a63b-428a-abd1-d482dfe1e8c4\n\n---\n\nMain Event: Patrik
+  Kincl (26-10-0) vs. Karlos Vémola (34-6-0)\nCo-Main Event: David Kozma 
+ (31-12-0) vs. Alex Lohoré (23-8-0)\nMain Card: Louis Glismann (10-2-0) v
+ s. Melvin van Suijdam (14-5-0)\nMain Card: Robert Bryczek (15-5-0) vs. L
+ ee Chadwick (28-17-1)\nMain Card: Mateusz Legierski (8-1-0) vs. Matěj Ku
+ zník (18-7-0)\nMain Card: Robert Pukač (16-10-1) vs. Miroslav Brož (15-3
+ -1)\nPrelim: Gianni Melillo (14-8-0) vs. Marek Mazuch (6-2-0)\nPrelim: I
+ on Surdu (12-5-0) vs. Amiran Gogoladze (14-3-0)\nPrelim: J. Toledo Canel
+ las (13-10-0) vs. Marc Doussis (8-2-0)\nPrelim: Ahmed Vila (10-4-1) vs. 
+ Kimbo Thinghaugen (10-6-0)\nPrelim: Matěj Daněk (1-0-0) vs. Endrit Brajs
+ hori (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
 DTSTART:20230527T150000Z
 DTEND:20230527T180000Z
-CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
-DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230527-olympix-m
- ma-k1-boxen-no-132
+CATEGORIES:GMC,MMA,Boxen,Kickboxen,YouTube,gmc.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=eH8AJNmQzAw\nvia
+  gmc.tv: https://www.german-mma.de/events/230527-olympix-mma-k1-boxen-no
+ -132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-05-glory-86@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 86
@@ -54,7 +106,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=2P9AwUH4mmI\
  a vs. Joilton Lutterbach
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-06-one-fight-night-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 11
@@ -72,7 +124,22 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ng Hoon Woo (10-3-0)\nMain Card: Rade Opačić vs. Guto Inocente
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
+UID:2023-06-glory-collision-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory: Collision 5
+DTSTART:20230617T060000Z
+DTEND:20230617T090000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/101100-glory-collision-5\n\n---\n\nMain Event: An
+ tonio Plazibat vs. Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Ta
+ rik Khbabez\nMain Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: 
+ Endy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bok
+ eme\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -83,7 +150,7 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
  ma-k1-boxen-no-134
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-06-oktagon-44-langer-vs-poppeck@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44: Langer vs Poppeck
@@ -101,7 +168,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  14-13-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -112,7 +179,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON

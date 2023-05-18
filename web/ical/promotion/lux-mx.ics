@@ -4,16 +4,42 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230420T164959Z
-X-KAMPFKALENDER-HASH:1748bbf7c533782b34eb8f05cf64c80fb151aea2
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:0eb3b2e14906736705f874e9fb1704e02e720fda
 BEGIN:VEVENT
-DTSTAMP:20230420T164959Z
+DTSTAMP:20230518T220405Z
 UID:2023-05-lux-fight-league-32@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lux Fight League 32
 DTSTART:20230520T020000Z
 DTEND:20230520T050000Z
 CATEGORIES:LUX,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101288-lux-fight-league-32\nhttp://www.sherdog.com/events/lu
+ x-fight-league-lux-032-96773\n\n---\n\nMain Event: Saray Orozco (7-5-0) 
+ vs. Andrea Vazquez (4-1-0)\nCo-Main Event: Edgar Delgado (10-6-0) vs. Vi
+ ctor Moreno (6-1-0)\nMain Card: Luis Rodríguez (15-2-0) vs. Ángel Rodríg
+ uez (11-11-0)\nMain Card: Mauricio Alfonso (5-0-0) vs. Mauricio Nievas (
+ 8-3-0)\nMain Card: Anuar Aburto (4-0-0) vs. Luis Márquez (4-2-0)\nMain C
+ ard: Luis Solorzano (7-6-0) vs. Alejandro Villarreal (6-3-0)\nPrelim: Ur
+ iel Cossio (12-8-0) vs. Jaime Londono (6-2-0)\nPrelim: Carlos Arana (3-3
+ -0) vs. Erick Garibay (3-2-0)\nPrelim: Alexis León (1-2-0) vs. Brandon A
+ lcaráz (2-0-0)\nPrelim: Carlos Camargo (5-1-0) vs. Josue Bojorge (5-0-0)
+ \nPrelim: Leticia Baltazar (1-2-0) vs. Itzel Padilla (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220405Z
+UID:2023-07-lux-fight-league-33@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lux Fight League 33
+DTSTART:20230701T000000Z
+DTEND:20230701T030000Z
+CATEGORIES:LUX,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101290-lux-fight-league-33\n\n---\n\nMain Event: Jose Roura 
+ (6-3-0) vs. Rodolfo Rubio (19-12-1)\nMain Card: Francesco Patrón (9-1-0)
+  vs. Luis Meraz (7-2-0)\nMain Card: Fernando Saavedra (4-4-0) vs. Luis C
+ abrera (5-4-0)\nMain Card: Daniela Melendez (1-0-0) vs. Susset Gómez (1-
+ 0-0)
 END:VEVENT
 END:VCALENDAR

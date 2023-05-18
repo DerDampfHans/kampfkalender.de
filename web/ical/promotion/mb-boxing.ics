@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230506T220305Z
-X-KAMPFKALENDER-HASH:fb2b993e47f6b417db205f94fbca4cce4fa3238e
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:e16d9b0e9988252ee65ad98e4a93ae33c659e6c4
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-05-taylor-vs-cameron@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Cameron
@@ -19,12 +19,14 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -vs-cameron/\nhttp://www.boxrec.com/en/event/870571\n\n---\n\nMain Event
  : Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)\nMain Card: Denni
  s Hogan (31-4-1) vs. James Metcalf (24-2-0)\nMain Card: Terri Harper (13
- -1-1) vs. Cecilia Braekhus (37-2-0)\nMain Card: Thomas Carty (4-0-0) vs.
+ -1-1) vs. Cecilia Braekhus (37-2-0)\nMain Card: Thomas Carty (5-0-0) vs.
   Jay McFarlane (14-7-0)\nMain Card: Maisey Rose Courtney (0-0-0) vs. Kat
- e Radomska (3-1-0)
+ e Radomska (3-1-0)\nMain Card: Gary Cully (16-0-0) vs. Jose Felix Jr (38
+ -6-1)\nMain Card: Caoimhin Agyarko (12-0-0) vs. Grant Dennis (18-4-0)\nM
+ ain Card: Paddy Donovan (10-0-0) vs. Sam O'Maison (17-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-05-taylor-vs-serrano-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Taylor vs. Serrano 2
@@ -35,23 +37,24 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98165-taylor-serrano-2\nhttp://www.boxrec.com/en/event/868405
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-05-lara-vs-wood-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Lara vs. Wood 2
-DTSTART:20230527T190000Z
-DTEND:20230527T220000Z
+DTSTART:20230527T180000Z
+DTEND:20230527T210000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/99970-lara-vs-wood-2\nhttps://www.matchroomboxing.com/events/lara-vs-w
  ood-2/\nhttp://www.boxrec.com/en/event/871347\n\n---\n\nMain Event: Maur
  icio Lara (25-2-1) vs. Leigh Wood (26-3-0)\nMain Card: Jack Catterall (2
- 6-1-0) vs. Darragh Foley (22-4-1)\nMain Card: Danny Ball (12-1-1) vs. An
- thony Tomlinson (15-1-0)\nMain Card: Kieron Conway (19-3-1) vs. Linus Ud
- ofia (18-1-0)
+ 6-1-0) vs. Darragh Foley (22-4-1)\nMain Card: Kieron Conway (19-3-1) vs.
+  Linus Udofia (18-1-0)\nMain Card: Danny Ball (12-1-1) vs. Jamie Robinso
+ n (15-5-2)\nPrelim: Campbell Hatton (11-0-0) vs. Michal Bulik (5-3-0)\nP
+ relim: Aqib Fiaz (11-0-0) vs. Costin Ion (10-3-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-06-edwards-vs-campos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Edwards vs. Campos
@@ -61,13 +64,28 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/100727-edwards-vs-campos\nhttp://www.boxrec.com/en/event/872367\n\n---
  \n\nMain Event: Sunny Edwards (19-0-0) vs. Andres Campos (15-0-0)\nMain 
- Card: Cherneka Johnson (15-1-0) vs. Ellie Scotney (6-0-0)\nMain Card: Ni
- na Hughes (5-0-0) vs. Shannon Courtenay (8-2-0)\nMain Card: Cheavon Clar
- ke (5-0-0) vs. David Jamieson (10-2-0)\nMain Card: Youssef Khoumari (15-
- 1-1) vs. Reece Bellotti (15-5-0)
+ Card: Cherneka Johnson (15-1-0) vs. Ellie Scotney (6-0-0)\nMain Card: Ch
+ eavon Clarke (5-0-0) vs. David Jamieson (10-2-0)\nMain Card: Youssef Kho
+ umari (15-1-1) vs. Reece Bellotti (15-5-0)\nMain Card: Shannon Ryan (4-0
+ -0) vs. Martina Bernile (5-1-1)\nMain Card: George Liddard (0-0-0) vs. J
+ ames McCarthy (2-6-1)\nMain Card: Nina Hughes (5-0-0) vs. Katie Healy (6
+ -0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220405Z
+UID:2023-06-prograis-vs-paro@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Prograis vs. Paro
+DTSTART:20230618T010000Z
+DTEND:20230618T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/101021-prograis-vs-paro\nhttp://www.boxrec.com/en/event/872928\n\n---\
+ n\nMain Event: Regis Prograis (28-1-0) vs. Liam Paro (23-0-0)\nMain Card
+ : Ramla Ali (8-0-0) vs. Alejandra Guzman (12-2-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220405Z
 UID:2023-06-berlanga-vs-quigley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Berlanga vs. Quigley
@@ -82,7 +100,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ati (13-0-0) vs. Wesley Ferrer (16-1-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-07-smith-vs-maxwell@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. Maxwell
@@ -91,6 +109,9 @@ DTEND:20230701T220000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/100515-smith-vs-maxwell\nhttp://www.boxrec.com/en/event/872106\n\n---\
- n\nMain Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)
+ n\nMain Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)\nMain Card
+ : Pat McCormack (4-0-0) vs. Tony Dixon (14-4-0)\nMain Card: Hopey Price 
+ (10-0-0) vs. James Beech Jr. (15-4-0)\nMain Card: Beatriz Ferreira (2-0-
+ 0) vs. Karla Ramos Zamora (9-10-1)
 END:VEVENT
 END:VCALENDAR

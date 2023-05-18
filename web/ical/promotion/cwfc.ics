@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230513T220304Z
-X-KAMPFKALENDER-HASH:693d4fde174de75f8c44db9b19bbd29d17d2eb74
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:ccee82b7611fcaa13b785b010c5faeb1ee105539
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-06-cage-warriors-155-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 155: San Diego
-DTSTART:20230602T220000Z
-DTEND:20230603T010000Z
+DTSTART:20230603T020000Z
+DTEND:20230603T050000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99626-cage-warriors-155-san-diego\n\n---\n\nMain Card: James
@@ -22,10 +22,22 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  2-1-0)\nMain Card: Connor Wilson (4-2-0) vs. David Lòpez (2-1-0)\nMain 
  Card: Fran Breen (0-0-0) vs. Enrique Montalvo (0-0-0)\nMain Card: T. Adl
  ington-Stringer (0-0-0) vs. Bryant Shell (0-3-0)\nMain Card: Damon Wilso
- n (6-1-0) vs. John De Jesus (15-11-0)
+ n (6-1-0) vs. John De Jesus (15-11-0)\nMain Card: Jovidon Khojaev (3-1-1
+ ) vs. Sunni Imhotep (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
+UID:2023-07-cage-warriors-156@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 156
+DTSTART:20230701T150000Z
+DTEND:20230701T180000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101043-cage-warriors-156
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220405Z
 UID:2023-07-cage-warriors-157-stanton-vs-webb-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 157: Stanton vs Webb 2
@@ -37,7 +49,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  n (11-7-0) vs. James Webb (9-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-07-cage-warriors-rome@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Rome
@@ -45,10 +57,11 @@ DTSTART:20230729T160000Z
 DTEND:20230729T190000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/99930-cage-warriors-rome
+ nter/events/99930-cage-warriors-rome\n\n---\n\nMain Card: Shajidul Haque
+  (15-5-0) vs. Michele Martignoni (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-09-cage-warriors-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: San Diego
@@ -59,7 +72,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99931-cage-warriors-san-diego
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-09-cage-warriors-manchester@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Manchester
@@ -70,7 +83,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99932-cage-warriors-manchester
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-10-cage-warriors-rome@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Rome
@@ -81,7 +94,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99933-cage-warriors-rome
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-11-cage-warriors-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: London
@@ -92,7 +105,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99934-cage-warriors
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-11-cage-warriors-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Dublin
@@ -103,7 +116,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99935-cage-warriors-dublin
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220405Z
 UID:2023-12-cage-warriors-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: San Diego

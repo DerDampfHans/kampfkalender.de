@@ -31,8 +31,12 @@
     },
     "prelims": {
       "title": "BKFC 43: Alexander vs. Smith: Prelims",
-      "time": "2023-05-20T00:00:00Z",
+      "time": "2023-05-19T23:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=Jq3OygmaO3k",
+          "free": true
+        },
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-43-prelims/2pcv4/",
           "free": true
@@ -48,6 +52,12 @@
           "BOXING",
           "MMA"
         ]
+      },
+      "youTube": {
+        "id": "Jq3OygmaO3k",
+        "time": "2023-05-19T23:00:00Z",
+        "title": "BKFC 43 Free Prelims | Live!",
+        "url": "https://www.youtube.com/watch?v=Jq3OygmaO3k"
       }
     },
     "tapology": {
@@ -62,11 +72,15 @@
         "Main Card: Sean Wilson vs. Brandon Meyer",
         "Main Card: Ryan Braun vs. Andrew Potter",
         "Main Card: Alonzo Martinez vs. Joey Munoz",
-        "Main Card: Tommy Strydom vs. Josh Krejci",
-        "Main Card: Esteban Rodriguez vs. Jaquis Williams",
         "Main Card: Jade Masson-Wong vs. Taylor Starling",
         "Main Card: Carlos Trinidad-Snake vs. Elvin Leon Brito",
-        "Prelim: TJ Benson vs. Corey Roberts"
+        "Main Card: Jimmie Rivera vs. Bekhzod Usmonov",
+        "Prelim: Tommy Strydom vs. Josh Krejci",
+        "Prelim: TJ Benson vs. Corey Roberts",
+        "Prelim: Esteban Rodriguez vs. Jaquis Williams"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-43:410fa0bd-6949-4bb8-8dbc-7ec751e680aa"
       ]
     }
   },
@@ -77,22 +91,48 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC44"
+      "#BKFC44",
+      "#BKFCMontana"
     ],
     "mainCard": {
       "title": "BKFC 44: Stewart vs. Lopez",
-      "time": "2023-06-10T00:00:00Z",
+      "time": "2023-06-10T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-44/2pd0q/"
         }
+      },
+      "fite": {
+        "id": "2pd0q",
+        "time": "2023-06-10T01:00:00Z",
+        "title": "BKFC 44 Montana: Kai Stewart vs Louie Lopez",
+        "url": "https://www.fite.tv/watch/bkfc-44/2pd0q/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
       "title": "BKFC 44: Stewart vs. Lopez: Prelims",
+      "time": "2023-06-10T00:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-44-prelims/2pd0r/",
           "free": true
         }
+      },
+      "fite": {
+        "id": "2pd0r",
+        "time": "2023-06-10T00:00:00Z",
+        "title": "BKFC 44 Montana: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-44-prelims/2pd0r/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -108,8 +148,45 @@
         "Main Card: JorDan Christensen vs. Kerry Lattimer",
         "Main Card: Ryan Ibsen vs. Dakota Highpine",
         "Main Card: Sawyer Depee vs. Gabriel Mota",
+        "Main Card: Nekah Dmitriyeva vs. Cassie Robb",
         "Prelim: Leo Bercier vs. Willie Sears",
         "Prelim: Koda Greenwood vs. Darrick Gates"
+      ]
+    }
+  },
+  {
+    "id": "tapology-101297",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC46"
+    ],
+    "mainCard": {
+      "title": "BKFC 46: Franco vs. Harris",
+      "time": "2023-07-01T20:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 46: Franco vs. Harris: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 101297,
+      "time": "2023-07-01T20:00:00Z",
+      "title": "BKFC 46: Franco vs. Harris",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/101297-bkfc-46-franco-vs-harris",
+      "card": [
+        "Main Event: Rico Franco vs. Kaleb Harris"
       ]
     }
   }

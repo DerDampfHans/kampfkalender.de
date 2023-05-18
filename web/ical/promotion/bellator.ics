@@ -4,6 +4,56 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230430T220306Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:04493f4b227d78be25b62c3e745ab5e8cd20e574
+BEGIN:VEVENT
+DTSTAMP:20230518T220405Z
+UID:2023-06-bellator-297-nemkov-vs-romero@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 297: Nemkov vs. Romero
+DTSTART:20230616T220000Z
+DTEND:20230617T010000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/99770-bellator-29
+ 7-nemkov-vs-romero\n\n---\n\nMain Event: Vadim Nemkov (16-2-0) vs. Yoel 
+ Romero (15-6-0)\nCo-Main Event: Sergio Pettis (22-5-0) vs. Patricio Pitb
+ ull (35-5-0)\nMain Card: Corey Anderson (16-6-0) vs. Phil Davis (24-6-0)
+ \nMain Card: Daniel James (15-6-1) vs. Gokhan Saricam (8-2-0)\nPrelim: K
+ arl Moore (11-2-0) vs. Alex Polizzi (10-2-0)\nPrelim: Pieter Buist (17-6
+ -0) vs. Gadzhi Rabadanov (19-4-2)\nPrelim: Jaleel Willis (16-4-0) vs. Ra
+ mazan Kuramagomedov (10-0-0)\nPrelim: Archie Colgan (7-0-0) vs. Emmanuel
+  Sanchez (20-8-0)\nPrelim: Norbert Novenyi Jr. (6-0-0) vs. Kamil Oniszcz
+ uk (9-2-0)\nPrelim: Timur Khizriev (12-0-0) vs. Richie Smullen (10-2-1)\
+ nPrelim: Kyle Crutchmer (9-2-0) vs. Bobby Nash (12-4-0)\nPrelim: Austin 
+ Vanderford (11-2-0) vs. Imamshafi Aliev (9-0-0)\nPrelim: Leandro Higo (2
+ 1-6-0) vs. Nikita Mikhailov (10-2-0)\nPrelim: Wladmir Gouvea (1-0-0) vs.
+  Kevin Childs (1-1-0)\nPrelim: Mike Hamel (10-5-0) vs. Shamil Nikaev (10
+ -0-0)\nPrelim: Jordan Newman (5-0-0) vs. Matthew Perry (5-3-0)\nPrelim: 
+ Cody Law (6-2-0) vs. Edwin Chavez (6-4-0)\nPrelim: Max Metzgar (0-0-0) v
+ s. David McKinney (1-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220405Z
+UID:2023-08-bellator-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator MMA
+DTSTART:20230811T220000Z
+DTEND:20230812T010000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/101316-bellator-m
+ ma
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220405Z
+UID:2023-09-bellator-dublin-eblen-vs-edwards@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator Dublin: Eblen vs. Edwards
+DTSTART:20230923T153000Z
+DTEND:20230923T183000Z
+CATEGORIES:Bellator,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/101202-bellator-m
+ ma\n\n---\n\nMain Event: Johnny Eblen (13-0-0) vs. Fabian Edwards (12-2-
+ 0)\nMain Card: Brian Moore (16-9-0) vs. Otto Rodrigues (13-1-0)\nMain Ca
+ rd: Mads Burnell (17-5-0) vs. Daniel Weichel (42-14-0)
+END:VEVENT
 END:VCALENDAR

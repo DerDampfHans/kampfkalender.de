@@ -4,6 +4,29 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230429T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:6a1993b3571f27332df274cca59d142a2e0df6ae
+BEGIN:VEVENT
+DTSTAMP:20230518T220405Z
+UID:2023-06-fcc-34@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:FCC 34
+DTSTART:20230617T150000Z
+DTEND:20230617T180000Z
+CATEGORIES:FCC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/99005-full-contact-contender-34-liverpool-olympia\nhttps://w
+ ww.facebook.com/events/5726790544036557\n\n---\n\nMain Card: James Willi
+ ams (4-1-0) vs. Daniel Missin (10-14-0)\nMain Card: Emile Vujakovic (0-0
+ -0) vs. David Connolly (2-1-0)\nMain Card: Mike Thompson (4-2-0) vs. Har
+ ry Davies (5-9-0)\nMain Card: Tom Mullen (4-1-0) vs. Harel Cohen (5-0-0)
+ \nMain Card: Shoaib Yousaf (10-3-0) vs. Matheus Linhares (6-2-0)\nMain C
+ ard: Alexis Tsarmantidis (1-0-0) vs. Kurtis Campbell (1-0-0)\nMain Card:
+  Joe Fields (7-1-0) vs. Connor Walsh (6-2-0)\nMain Card: Afeez Oderinde 
+ (3-1-0) vs. Jamie Davies (3-0-1)\nMain Card: Kenny Whitworth (4-2-0) vs.
+  Joel Basnett (1-1-0)\nMain Card: Elliot McGibbon (4-1-0) vs. Calvin Moo
+ ney (2-0-0)\nMain Card: Joe Chew (2-2-0) vs. Scott Sidwell (1-1-0)\nMain
+  Card: Jack Cragg (2-1-0) vs. Micky Leithner (2-0-0)\nMain Card: Kyle Le
+ ech (0-1-0) vs. Josh Dean (1-5-0)
+END:VEVENT
 END:VCALENDAR

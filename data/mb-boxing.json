@@ -25,7 +25,7 @@
     },
     "tapology": {
       "id": 99223,
-      "time": "2023-05-20T19:00:00Z",
+      "time": "2023-05-20T18:00:00Z",
       "title": "Taylor vs. Cameron",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/99223-taylor-vs-cameron",
@@ -36,8 +36,11 @@
         "Main Event: Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)",
         "Main Card: Dennis Hogan (31-4-1) vs. James Metcalf (24-2-0)",
         "Main Card: Terri Harper (13-1-1) vs. Cecilia Braekhus (37-2-0)",
-        "Main Card: Thomas Carty (4-0-0) vs. Jay McFarlane (14-7-0)",
-        "Main Card: Maisey Rose Courtney (0-0-0) vs. Kate Radomska (3-1-0)"
+        "Main Card: Thomas Carty (5-0-0) vs. Jay McFarlane (14-7-0)",
+        "Main Card: Maisey Rose Courtney (0-0-0) vs. Kate Radomska (3-1-0)",
+        "Main Card: Gary Cully (16-0-0) vs. Jose Felix Jr (38-6-1)",
+        "Main Card: Caoimhin Agyarko (12-0-0) vs. Grant Dennis (18-4-0)",
+        "Main Card: Paddy Donovan (10-0-0) vs. Sam O'Maison (17-4-1)"
       ],
       "links": [
         "https://www.matchroomboxing.com/events/taylor-vs-cameron/",
@@ -76,12 +79,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#LaraWood2"
+    ],
     "mainCard": {
       "title": "Lara vs. Wood 2",
-      "time": "2023-05-27T19:00:00Z",
+      "time": "2023-05-27T18:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "1gwuszcuefoyc1uk9o4nyfee1h",
+        "time": "2023-05-27T18:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Lara vs Wood 2"
       }
     },
     "tapology": {
@@ -96,8 +109,10 @@
       "card": [
         "Main Event: Mauricio Lara (25-2-1) vs. Leigh Wood (26-3-0)",
         "Main Card: Jack Catterall (26-1-0) vs. Darragh Foley (22-4-1)",
-        "Main Card: Danny Ball (12-1-1) vs. Anthony Tomlinson (15-1-0)",
-        "Main Card: Kieron Conway (19-3-1) vs. Linus Udofia (18-1-0)"
+        "Main Card: Kieron Conway (19-3-1) vs. Linus Udofia (18-1-0)",
+        "Main Card: Danny Ball (12-1-1) vs. Jamie Robinson (15-5-2)",
+        "Prelim: Campbell Hatton (11-0-0) vs. Michal Bulik (5-3-0)",
+        "Prelim: Aqib Fiaz (11-0-0) vs. Costin Ion (10-3-2)"
       ],
       "links": [
         "https://www.matchroomboxing.com/events/lara-vs-wood-2/",
@@ -131,12 +146,46 @@
       "card": [
         "Main Event: Sunny Edwards (19-0-0) vs. Andres Campos (15-0-0)",
         "Main Card: Cherneka Johnson (15-1-0) vs. Ellie Scotney (6-0-0)",
-        "Main Card: Nina Hughes (5-0-0) vs. Shannon Courtenay (8-2-0)",
         "Main Card: Cheavon Clarke (5-0-0) vs. David Jamieson (10-2-0)",
-        "Main Card: Youssef Khoumari (15-1-1) vs. Reece Bellotti (15-5-0)"
+        "Main Card: Youssef Khoumari (15-1-1) vs. Reece Bellotti (15-5-0)",
+        "Main Card: Shannon Ryan (4-0-0) vs. Martina Bernile (5-1-1)",
+        "Main Card: George Liddard (0-0-0) vs. James McCarthy (2-6-1)",
+        "Main Card: Nina Hughes (5-0-0) vs. Katie Healy (6-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/872367"
+      ]
+    }
+  },
+  {
+    "id": "tapology-101021",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Prograis vs. Paro",
+      "time": "2023-06-18T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 101021,
+      "time": "2023-06-18T01:00:00Z",
+      "title": "Prograis vs. Paro",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/101021-prograis-vs-paro",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Regis Prograis (28-1-0) vs. Liam Paro (23-0-0)",
+        "Main Card: Ramla Ali (8-0-0) vs. Alejandra Guzman (12-2-2)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/872928"
       ]
     }
   },
@@ -198,7 +247,10 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)"
+        "Main Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)",
+        "Main Card: Pat McCormack (4-0-0) vs. Tony Dixon (14-4-0)",
+        "Main Card: Hopey Price (10-0-0) vs. James Beech Jr. (15-4-0)",
+        "Main Card: Beatriz Ferreira (2-0-0) vs. Karla Ramos Zamora (9-10-1)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/872106"

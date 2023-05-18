@@ -4,31 +4,49 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230506T220305Z
-X-KAMPFKALENDER-HASH:7afef685479fbc1ab15da0560800cbb5af642165
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:4b30051e827d43ba1295e42b2592e50a78045b4e
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-05-nfc-14-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 14: Prelims
-DTSTART:20230527T160000Z
-DTEND:20230527T200000Z
+DTSTART:20230527T140000Z
+DTEND:20230527T150000Z
 CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-14/\nhttps:
  //www.tapology.com/fightcenter/events/94581-nfc-14\n\n---\n\nMain Card: 
- Cihad Akipa (5-0-0) vs. Elias Jakobi (3-0-0)\nMain Card: Timo Ernst (1-0
- -0) vs. Shamdin Al Hassan (0-0-0)\nMain Card: Eduard Kexel (8-1-0) vs. B
- ekhruz Zukhurov (16-6-0)\nMain Card: Cagri Ucar (5-1-0) vs. Dino Starcev
- ic (4-0-0)\nMain Card: Deni Mirnić (2-3-0) vs. Saeed Younesi (5-4-0)\nMa
- in Card: David Piechaczek (0-0-0) vs. Ali Simmo (0-0-1)\nMain Card: Pant
- elei Taran (6-4-0) vs. Rijad Jaha (3-1-0)\nMain Card: Daniel Solaja (1-0
- -0) vs. Luka Milidragović (3-0-0)\nMain Card: Fedor Duric (2-0-0) vs. Si
- lvis Jansons (4-0-0)\nMain Card: Danial Aghaie (3-0-0) vs. Hoseein Mousa
- vi (0-0-0)\nMain Card: Kennedy Rayomba (5-2-0) vs. Tomasz Łangowski (5-3
- -0)
+ Timo Ernst (1-0-0) vs. Shamdin Al Hassan (0-0-0)\nMain Card: Cagri Ucar 
+ (5-1-0) vs. Dino Starcevic (4-0-0)\nMain Card: Deni Mirnić (2-3-0) vs. S
+ aeed Younesi (5-4-0)\nMain Card: David Piechaczek (0-0-0) vs. Ali Simmo 
+ (0-0-1)\nMain Card: Pantelei Taran (6-4-0) vs. Rijad Jaha (3-1-0)\nMain 
+ Card: Daniel Solaja (1-0-0) vs. Luka Milidragović (3-0-0)\nMain Card: Fe
+ dor Duric (2-0-0) vs. Silvis Jansons (4-0-0)\nMain Card: Kennedy Rayomba
+  (5-2-0) vs. Tomasz Łangowski (5-3-0)\nMain Card: David Balevski (1-0-0)
+  vs. Milan Markovic (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
+UID:2023-05-nfc-14@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 14
+DTSTART:20230527T150000Z
+DTEND:20230527T170000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Jtr-o1MU2AQ\
+ n\n---\n\nhttps://fighting.de/nfc-14/\nhttps://www.tapology.com/fightcen
+ ter/events/94581-nfc-14\n\n---\n\nMain Card: Timo Ernst (1-0-0) vs. Sham
+ din Al Hassan (0-0-0)\nMain Card: Cagri Ucar (5-1-0) vs. Dino Starcevic 
+ (4-0-0)\nMain Card: Deni Mirnić (2-3-0) vs. Saeed Younesi (5-4-0)\nMain 
+ Card: David Piechaczek (0-0-0) vs. Ali Simmo (0-0-1)\nMain Card: Pantele
+ i Taran (6-4-0) vs. Rijad Jaha (3-1-0)\nMain Card: Daniel Solaja (1-0-0)
+  vs. Luka Milidragović (3-0-0)\nMain Card: Fedor Duric (2-0-0) vs. Silvi
+ s Jansons (4-0-0)\nMain Card: Kennedy Rayomba (5-2-0) vs. Tomasz Łangows
+ ki (5-3-0)\nMain Card: David Balevski (1-0-0) vs. Milan Markovic (2-1-0)
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
 UID:2023-05-glory-86@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 86
@@ -45,49 +63,22 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=2P9AwUH4mmI\
  a vs. Joilton Lutterbach
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
-UID:2023-05-nfc-14-main-card@kampfkalender.de
+DTSTAMP:20230518T220406Z
+UID:2023-06-glory-collision-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 14: Main Card
-DTSTART:20230527T200000Z
-DTEND:20230527T210000Z
-CATEGORIES:NFC,MMA,fighting.de,live
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=VyLS1yPn8Jo\
- n\n---\n\nhttps://fighting.de/nfc-14/\nhttps://www.tapology.com/fightcen
- ter/events/94581-nfc-14\n\n---\n\nMain Card: Cihad Akipa (5-0-0) vs. Eli
- as Jakobi (3-0-0)\nMain Card: Timo Ernst (1-0-0) vs. Shamdin Al Hassan (
- 0-0-0)\nMain Card: Eduard Kexel (8-1-0) vs. Bekhruz Zukhurov (16-6-0)\nM
- ain Card: Cagri Ucar (5-1-0) vs. Dino Starcevic (4-0-0)\nMain Card: Deni
-  Mirnić (2-3-0) vs. Saeed Younesi (5-4-0)\nMain Card: David Piechaczek (
- 0-0-0) vs. Ali Simmo (0-0-1)\nMain Card: Pantelei Taran (6-4-0) vs. Rija
- d Jaha (3-1-0)\nMain Card: Daniel Solaja (1-0-0) vs. Luka Milidragović (
- 3-0-0)\nMain Card: Fedor Duric (2-0-0) vs. Silvis Jansons (4-0-0)\nMain 
- Card: Danial Aghaie (3-0-0) vs. Hoseein Mousavi (0-0-0)\nMain Card: Kenn
- edy Rayomba (5-2-0) vs. Tomasz Łangowski (5-3-0)
+SUMMARY:Glory: Collision 5
+DTSTART:20230617T060000Z
+DTEND:20230617T090000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/101100-glory-collision-5\n\n---\n\nMain Event: An
+ tonio Plazibat vs. Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Ta
+ rik Khbabez\nMain Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: 
+ Endy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bok
+ eme\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
-UID:2023-05-nfc-14@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 14
-DTSTART:20230527T210000Z
-DTEND:20230527T223000Z
-CATEGORIES:NFC,MMA,fighting.de,SPORT1,live,kostenlos
-DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=Jtr-o1MU2AQ\
- nvia SPORT1\n\n---\n\nhttps://fighting.de/nfc-14/\nhttps://www.tapology.
- com/fightcenter/events/94581-nfc-14\n\n---\n\nMain Card: Cihad Akipa (5-
- 0-0) vs. Elias Jakobi (3-0-0)\nMain Card: Timo Ernst (1-0-0) vs. Shamdin
-  Al Hassan (0-0-0)\nMain Card: Eduard Kexel (8-1-0) vs. Bekhruz Zukhurov
-  (16-6-0)\nMain Card: Cagri Ucar (5-1-0) vs. Dino Starcevic (4-0-0)\nMai
- n Card: Deni Mirnić (2-3-0) vs. Saeed Younesi (5-4-0)\nMain Card: David 
- Piechaczek (0-0-0) vs. Ali Simmo (0-0-1)\nMain Card: Pantelei Taran (6-4
- -0) vs. Rijad Jaha (3-1-0)\nMain Card: Daniel Solaja (1-0-0) vs. Luka Mi
- lidragović (3-0-0)\nMain Card: Fedor Duric (2-0-0) vs. Silvis Jansons (4
- -0-0)\nMain Card: Danial Aghaie (3-0-0) vs. Hoseein Mousavi (0-0-0)\nMai
- n Card: Kennedy Rayomba (5-2-0) vs. Tomasz Łangowski (5-3-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-06-innferno-fighting-championship-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:INNFERNO Fighting Championship 6
@@ -100,7 +91,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  1-0-0) vs. Renzo Pinto (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-07-nfc-x-the-cage@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC x The Cage
@@ -109,10 +100,11 @@ DTEND:20230729T190000Z
 CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-x-the-cage/
  \nhttps://www.tapology.com/fightcenter/events/99712-nfc-fight-night-the-
- cage-26
+ cage-26\n\n---\n\nMain Card: Arijan Topallaj (3-0-1) vs. Ibragim Chamzat
+ ov (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -123,7 +115,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -134,7 +126,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -145,7 +137,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94582-nfc-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -156,7 +148,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -167,7 +159,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -178,7 +170,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -190,7 +182,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -202,7 +194,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230506T220305Z
+DTSTAMP:20230518T220406Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

@@ -4,10 +4,55 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230513T220304Z
-X-KAMPFKALENDER-HASH:39888a97949ff63d1b6fdbab1f95fad1a9c1bf26
+DTSTAMP:20230518T220405Z
+X-KAMPFKALENDER-HASH:388a8be1d37e7493a3af8aeed57f8afc4fc2b6b3
 BEGIN:VEVENT
-DTSTAMP:20230513T220305Z
+DTSTAMP:20230518T220406Z
+UID:2023-05-one-friday-fights-17@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 17
+DTSTART:20230519T123000Z
+DTEND:20230519T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101248-one-friday-fights-17\n\n---\n\nMain Event: Pompetch PK Saenc
+ hai vs. D. Jitmuangnon\nCo-Main Event: KomAwut FAGroup vs. Avatar PK.Sae
+ nchai\nMain Card: Aphiwat Sor Somnuek vs. D. Singmawynn\nMain Card: Rak 
+ Erawan vs. Mahasamut Paeminburi\nMain Card: Rachan Sor Somnuek vs. Khuns
+ uk Sor Dechapan\nMain Card: M. Sor Yingcharoenkarnchang vs. Dionatha Tob
+ ias\nMain Card: Yodlekpet Or.Pitisak vs. Denis Purić\nMain Card: Guozhen
+  Li vs. Jelte Blommaert\nMain Card: Celest Hansen vs. Dani Fall\nMain Ca
+ rd: Ivan Parshikov (10-3-0) vs. Lianyang Xia (7-1-0)\nMain Card: Enkh-Or
+ gil Baatarkhuu (8-2-0) vs. Rockie Bactol (5-2-0)\nMain Card: Samir Akhme
+ dov (5-1-0) vs. Bartosz Skrok (3-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
+UID:2023-05-one-team-championship-2023-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Team Championship 2023: Prelims
+DTSTART:20230520T100000Z
+DTEND:20230520T150000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live,kosten
+ los
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=v6jtaPKXnm8\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-one-team-champio
+ nship-2023-601\n\n---\n\nhttps://oneteam-kickboxing.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
+UID:2023-05-one-team-championship-2023@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Team Championship 2023
+DTSTART:20230520T150000Z
+DTEND:20230520T180000Z
+CATEGORIES:Other,Boxen,Kickboxen,Muay Thai,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=NcTgFrcevDc\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-one-team-champio
+ nship-2023-601\n\n---\n\nhttps://oneteam-kickboxing.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230518T220406Z
 UID:2023-06-one-fight-night-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 11

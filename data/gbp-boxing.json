@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#RochaYoung"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Rocha vs. Young",
-      "time": "2023-05-28T01:00:00Z"
+      "time": "2023-05-28T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1hnsgdsah5uhr1l2rk9f7kfjvc",
+        "time": "2023-05-28T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Rocha vs Young"
+      }
     },
     "tapology": {
       "id": 100134,
@@ -20,7 +33,10 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Alexis Rocha (22-1-0) vs. Anthony Young (24-2-0)"
+        "Main Event: Alexis Rocha (22-1-0) vs. Anthony Young (24-2-0)",
+        "Co-Main Event: Oscar Duarte (24-1-1) vs. D'Angelo Keyes (16-2-0)",
+        "Main Card: Melvin Jerusalem (20-2-0) vs. Oscar Collazo (6-0-0)",
+        "Main Card: John Ramirez (11-0-0) vs. Fernando Diaz (11-3-1)"
       ]
     }
   },
@@ -39,8 +55,15 @@
       "id": 100135,
       "time": "2023-06-09T01:00:00Z",
       "title": "Golden Boy Fight Night",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/100135-golden-boy-fight-night"
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/100135-golden-boy-fight-night",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Manuel Flores (15-0-0) vs. Walter Santibanes (11-2-0)",
+        "Main Card: Jelena Mrdjenovich (41-12-2) vs. Calista Silgado (19-16-4)"
+      ]
     }
   },
   {
@@ -67,7 +90,11 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Jaime Munguia (41-0-0) vs. Sergey Derevyanchenko (14-4-0)"
+        "Main Event: Jaime Munguia (41-0-0) vs. Sergey Derevyanchenko (14-4-0)",
+        "Main Card: Shane Mosley Jr. (19-4-0) vs. D'Mitrius Ballard (21-1-1)",
+        "Main Card: Mariana Juarez (55-12-4) vs. Mayeli Flores (9-1-1)",
+        "Main Card: Ricardo Sandoval (21-2-0) vs. Rocco Santomauro (22-1-0)",
+        "Main Card: Jorge Chavez (6-0-0) vs. Christian Lorenzo (3-4-0)"
       ]
     }
   },
