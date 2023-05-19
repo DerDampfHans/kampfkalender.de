@@ -248,13 +248,13 @@
         "UFC_FIGHT_PASS": {
         }
       },
-      "dazn": {
-        "id": "rhmqm8t44hm61n32ezhockwjl"
-      },
       "fightPass": {
         "id": 240911,
         "time": "2023-06-18T02:00:00Z",
         "title": "UFC FIGHT NIGHT: VETTORI VS CANNONIER"
+      },
+      "dazn": {
+        "id": "rhmqm8t44hm61n32ezhockwjl"
       }
     },
     "prelims": {
@@ -292,7 +292,8 @@
         "Prelim: Nikolas Motta (13-4-0) vs. Manuel Torres (13-2-0)",
         "Prelim: Ronnie Lawrence (8-2-0) vs. Daniel Argueta (9-1-0)",
         "Prelim: Josh Fremd (10-4-0) vs. Roman Kopylov (10-2-0)",
-        "Prelim: Kyung Ho Kang (18-9-0) vs. Cristian Quiñonez (18-3-0)"
+        "Prelim: Kyung Ho Kang (18-9-0) vs. Cristian Quiñonez (18-3-0)",
+        "Prelim: Felipe Bunes (13-6-0) vs. Zhalgas Zhumagulov (14-8-0)"
       ]
     }
   },
@@ -345,7 +346,8 @@
         "Prelim: David Onama (10-2-0) vs. Gabriel Santos (10-1-0)",
         "Prelim: Gregory Rodrigues (13-5-0) vs. Denis Tiuliulin (11-7-0)",
         "Prelim: Justin Tafa (6-3-0) vs. Austen Lane (12-3-0)",
-        "Prelim: Trevor Peek (8-0-0) vs. Victor Martinez (13-5-0)"
+        "Prelim: Trevor Peek (8-0-0) vs. Victor Martinez (13-5-0)",
+        "Prelim: Jamall Emmers (19-6-0) vs. Jack Jenkins (11-2-0)"
       ]
     }
   },
@@ -504,7 +506,8 @@
         "Prelim: Jafel Filho (14-3-0) vs. Juancamilo Ronderos (4-2-0)",
         "Prelim: Norma Dumont (9-2-0) vs. Chelsea Chandler (5-1-0)",
         "Prelim: Carl Deaton III (17-6-0) vs. Alex Munoz (6-2-0)",
-        "Prelim: Ottman Azaitar (13-1-0) vs. Francisco Prado (11-1-0)"
+        "Prelim: Ottman Azaitar (13-1-0) vs. Francisco Prado (11-1-0)",
+        "Prelim: Genaro Valdéz (10-2-0) vs. Evan Elder (7-2-0)"
       ]
     }
   },
@@ -615,6 +618,52 @@
         "Prelim: CJ Vergara (11-4-1) vs. Vinicius Salvador (14-5-0)",
         "Prelim: Tony Ferguson (25-8-0) vs. Bobby Green (29-14-1)",
         "Prelim: Michael Chiesa (16-6-0) vs. Kevin Holland (24-9-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-101342",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2023-08-05T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 101342,
+      "time": "2023-08-05T22:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/101342-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Dustin Jacoby (18-7-1) vs. Kennedy Nzechukwu (12-3-0)",
+        "Main Card: Virna Jandiroba (19-3-0) vs. Tatiana Suarez (9-0-0)",
+        "Prelim: Tanner Boser (20-10-1) vs. Aleksa Camur (6-2-0)"
       ]
     }
   },

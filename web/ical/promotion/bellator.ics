@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230518T220405Z
-X-KAMPFKALENDER-HASH:04493f4b227d78be25b62c3e745ab5e8cd20e574
+DTSTAMP:20230519T145448Z
+X-KAMPFKALENDER-HASH:7402b8c8362cd7ea279d5b45e6974b285451b435
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230519T145448Z
 UID:2023-06-bellator-297-nemkov-vs-romero@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 297: Nemkov vs. Romero
@@ -33,7 +33,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/99770-bellator-29
  s. David McKinney (1-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230519T145448Z
 UID:2023-08-bellator-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator MMA
@@ -41,10 +41,11 @@ DTSTART:20230811T220000Z
 DTEND:20230812T010000Z
 CATEGORIES:Bellator,MMA,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/101316-bellator-m
- ma
+ ma\n\n---\n\nMain Event: Logan Storley (14-2-0) vs. Brennan Ward (17-6-0
+ )\nPrelim: Akhmed Magomedov (10-1-0) vs. Kai Kamaka III (11-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230519T145448Z
 UID:2023-09-bellator-dublin-eblen-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator Dublin: Eblen vs. Edwards
