@@ -414,5 +414,54 @@
       "info": "Cancelled Event",
       "url": "https://www.tapology.com/fightcenter/events/98517-harper-vs-braekhus"
     }
+  },
+  {
+    "id": "tapology-99223",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#TaylorCameron"
+    ],
+    "mainCard": {
+      "title": "Taylor vs. Cameron",
+      "time": "2023-05-20T18:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "11s9p5kz8gir11l0fl1pd6k2y2",
+        "time": "2023-05-20T18:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Taylor vs Cameron"
+      }
+    },
+    "tapology": {
+      "id": 99223,
+      "time": "2023-05-20T18:00:00Z",
+      "title": "Taylor vs. Cameron",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/99223-taylor-vs-cameron",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Katie Taylor (22-0-0) vs. Chantelle Cameron (17-0-0)",
+        "Main Card: Dennis Hogan (31-4-1) vs. James Metcalf (24-2-0)",
+        "Main Card: Terri Harper (13-1-1) vs. Cecilia Braekhus (37-2-0)",
+        "Main Card: Thomas Carty (5-0-0) vs. Jay McFarlane (14-7-0)",
+        "Main Card: Maisey Rose Courtney (0-0-0) vs. Kate Radomska (3-1-0)",
+        "Main Card: Gary Cully (16-0-0) vs. Jose Felix Jr (38-6-1)",
+        "Main Card: Caoimhin Agyarko (12-0-0) vs. Grant Dennis (18-4-0)",
+        "Main Card: Paddy Donovan (10-0-0) vs. Sam O'Maison (17-4-1)"
+      ],
+      "links": [
+        "https://www.matchroomboxing.com/events/taylor-vs-cameron/",
+        "http://www.boxrec.com/en/event/870571"
+      ]
+    }
   }
 ]
