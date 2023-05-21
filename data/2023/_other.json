@@ -1486,5 +1486,79 @@
         "http://www.boxrec.com/en/event/872973"
       ]
     }
+  },
+  {
+    "id": "fight24-600",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Luxemburg"
+    ],
+    "mainCard": {
+      "title": "Soko Fighting Championship 4",
+      "time": "2023-05-21T13:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=at6lpZK9m14"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-soko-fc-4-600"
+        }
+      },
+      "youTube": {
+        "id": "at6lpZK9m14",
+        "time": "2023-05-21T13:00:00Z",
+        "title": "Soko FC 4: Livestream",
+        "url": "https://www.youtube.com/watch?v=at6lpZK9m14",
+        "tags": [
+          "#fight24",
+          "#fighting",
+          "#ko"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tapology-101243",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#BahdiAmparan"
+    ],
+    "mainCard": {
+      "title": "Bahdi vs. Amparan",
+      "time": "2023-05-21T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "14h8l9wh051di1ech3derreob4",
+        "time": "2023-05-21T22:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Bahdi vs Amparan"
+      }
+    },
+    "tapology": {
+      "id": 101243,
+      "time": "2023-05-21T22:00:00Z",
+      "title": "Bahdi vs. Amparan",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/101243-bahdi-vs-amparan",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Lucas Bahdi (10-0-0) vs. Jesus Amparan (20-3-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/872500"
+      ]
+    }
   }
 ]
