@@ -1,37 +1,5 @@
 [
   {
-    "id": "tapology-101473",
-    "promotion": "BDB_BOXING",
-    "sports": [
-      "BOXING"
-    ],
-    "mainCard": {
-      "hidden": true,
-      "title": "RK Boxing Fight Night",
-      "time": "2023-05-27T15:00:00Z"
-    },
-    "tapology": {
-      "id": 101473,
-      "time": "2023-05-27T15:00:00Z",
-      "title": "RK Boxing Fight Night",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/101473-rk-boxing-fight-night",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Armend Xhoxhaj (15-3-0) vs. David Radeff (11-18-2)",
-        "Main Card: Isuf Kelmendi (0-0-0) vs. Srdjan Nikolic (3-2-0)",
-        "Main Card: Qendrim Krasniqi (5-1-0) vs. Adis Hrustic (0-0-0)",
-        "Main Card: Kushtrim Tahirukaj (3-0-0) vs. Evghenii Shabazov (0-0-0)",
-        "Main Card: Valon Ahmeti (2-0-0) vs. Vladislav Gaureac (0-0-0)"
-      ],
-      "links": [
-        "http://www.boxrec.com/en/event/873613"
-      ]
-    }
-  },
-  {
     "id": "tapology-101465",
     "promotion": "BDB_BOXING",
     "sports": [
@@ -65,6 +33,47 @@
       ],
       "links": [
         "http://www.boxrec.com/en/event/872314"
+      ]
+    }
+  },
+  {
+    "id": "tapology-101473",
+    "promotion": "BDB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#XhoxhajRadeff",
+      "#RKFightNight"
+    ],
+    "mainCard": {
+      "title": "Xhoxhaj vs. Radeff",
+      "time": "2023-05-27T17:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+        },
+        "FIGHT24_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 101473,
+      "time": "2023-05-27T15:00:00Z",
+      "title": "RK Boxing Fight Night",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/101473-rk-boxing-fight-night",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Armend Xhoxhaj (15-3-0) vs. David Radeff (11-18-2)",
+        "Main Card: Isuf Kelmendi (0-0-0) vs. Srdjan Nikolic (3-2-0)",
+        "Main Card: Qendrim Krasniqi (5-1-0) vs. Adis Hrustic (0-0-0)",
+        "Main Card: Kushtrim Tahirukaj (3-0-0) vs. Evghenii Shabazov (0-0-0)",
+        "Main Card: Valon Ahmeti (2-0-0) vs. Vladislav Gaureac (0-0-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/873613"
       ]
     }
   }
