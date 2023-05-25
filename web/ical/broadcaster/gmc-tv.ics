@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230520T220304Z
-X-KAMPFKALENDER-HASH:ada90f9711db6d81c1fa370e4071766b7c7e94f8
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:07e4a90654bb9b4fd1afecec1a57cefd7f0f065a
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
 UID:2023-05-gmc-34-franca-vs-smolik@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 34: França vs. Smolik
@@ -31,7 +31,21 @@ DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230520-gmc-34\n\
  anaktsidis (0-0-0) vs. Marven Jantz (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
+UID:2023-05-gcp-9@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GCP 9
+DTSTART:20230527T150000Z
+DTEND:20230527T180000Z
+CATEGORIES:GCP,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://german-mma.de/stream/cguFC_dpOezR4Ts1m2W8
+ Jw\n\n---\n\nhttps://www.tapology.com/fightcenter/events/100365-gcp-9\nh
+ ttp://www.sherdog.com/events/gcp-9-german-cage-pioneer-9-97630\n\n---\n\
+ nMain Event: Zafar Mohsen (11-4-0) vs. Severino Neto (5-5-0)\nCo-Main Ev
+ ent: Karomatullo Sufiev (8-1-0) vs. Wagner Silva (6-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183653Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -39,29 +53,6 @@ DTSTART:20230527T150000Z
 DTEND:20230527T180000Z
 CATEGORIES:GMC,MMA,Boxen,Kickboxen,YouTube,gmc.tv,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=eH8AJNmQzAw\nvia
-  gmc.tv: https://www.german-mma.de/events/230527-olympix-mma-k1-boxen-no
- -132
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
-UID:2023-06-olympix-grappling@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:OlympiX Grappling
-DTSTART:20230610T100000Z
-DTEND:20230610T130000Z
-CATEGORIES:GMC,Grappling,gmc.tv,live
-DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230610-olympix-g
- rappling-no-133
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
-UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:OlympiX K1 / Boxen / MMA
-DTSTART:20230617T150000Z
-DTEND:20230617T180000Z
-CATEGORIES:GMC,MMA,Boxen,Kickboxen,gmc.tv,live
-DESCRIPTION:via gmc.tv: https://www.german-mma.de/events/230617-olympix-m
- ma-k1-boxen-no-134
+  gmc.tv: https://german-mma.de/stream/PYP8hc_LGZsQmXsny6JLDg
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230519T145448Z
-X-KAMPFKALENDER-HASH:f19c32a43eaa267b91d4fc059c3a325bfa2c0342
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:88e6d321f48f3ff2f821482ca3c4d8e4e8a77a45
 BEGIN:VEVENT
-DTSTAMP:20230519T145449Z
+DTSTAMP:20230525T183653Z
 UID:2023-05-oktagon-43-kincl-vs-vemola-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 43: Kincl vs. Vemola 2
@@ -30,7 +30,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  shori (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230519T145449Z
+DTSTAMP:20230525T183653Z
 UID:2023-06-oktagon-44-langer-vs-poppeck@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44: Langer vs Poppeck
@@ -45,10 +45,22 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
   Christian Jungwirth (14-6-0)\nMain Card: Łukasz Siwiec (8-2-0) vs. John
   Hathaway (18-2-0)\nMain Card: Ronald Paradeiser (16-8-0) vs. Andrew Fis
  her (19-9-1)\nMain Card: Rafael Xavier (11-7-0) vs. Mateusz Strzelczyk (
- 14-13-1)
+ 14-13-1)\nMain Card: Sofiia Bagishvili (7-3-0) vs. Jacinta Austin (4-1-0
+ )\nMain Card: Hassan Shaaban (1-1-0) vs. Tomáš Fiala (7-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230519T145449Z
+DTSTAMP:20230525T183653Z
+UID:2023-07-oktagon-45@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 45
+DTSTART:20230729T160000Z
+DTEND:20230729T190000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/101388-oktagon-45
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183653Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -59,7 +71,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230519T145449Z
+DTSTAMP:20230525T183653Z
 UID:2023-10-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -71,7 +83,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ěj Peňáz (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230519T145449Z
+DTSTAMP:20230525T183653Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON

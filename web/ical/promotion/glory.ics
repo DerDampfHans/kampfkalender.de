@@ -4,10 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230518T220405Z
-X-KAMPFKALENDER-HASH:0c8f67fc28ac779ec2773d971abda83c3854cf9d
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:46dc2baff7d13fc08c749416b63e0719ea603aa1
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
+UID:2023-05-glory-86-official-weigh-in@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 86: Official Weigh-In
+DTSTART:20230526T160000Z
+DTEND:20230526T163000Z
+CATEGORIES:Glory,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WE2oT9toGy0\n\n-
+ --\n\nhttps://fighting.de/events/glory-86/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183652Z
 UID:2023-05-glory-86@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 86
@@ -17,14 +28,15 @@ CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=2P9AwUH4mmI\
  nvia glory.tv\n\n---\n\nhttps://fighting.de/events/glory-86/\nhttps://ww
  w.tapology.com/fightcenter/events/100459-glory-86\n\n---\n\nMain Event: 
- P. Kiatmoo9 vs. Ahmad Chikh Mousa\nCo-Main Event: Mohamed Mezouari vs. S
- ofiane Gelin\nMain Card: Benjamin Adegbuyi vs. Sofian Laïdouni\nMain Car
- d: Guerric Billet vs. Enriko Kehl\nMain Card: Robin Ciric vs. Chico Kwas
- i\nMain Card: Uku Jürjendal vs. Mantas Rimdeika\nMain Card: Juri de Sous
- a vs. Joilton Lutterbach
+ P. Kiatmoo9 vs. Ahmad Chikh Mousa\nCo-Main Event: Benjamin Adegbuyi vs. 
+ Sofian Laïdouni\nMain Card: Luis Tavares vs. Bahram Rajabzadeh\nMain Car
+ d: Guerric Billet vs. Enriko Kehl\nMain Card: Sarah Moussaddak vs. Giuli
+ ana Cosnard\nMain Card: Robin Ciric vs. Chico Kwasi\nMain Card: Juri de 
+ Sousa vs. Joilton Lutterbach\nMain Card: Uku Jürjendal vs. Mantas Rimdei
+ ka
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
 UID:2023-06-glory-collision-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 5
@@ -36,6 +48,8 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  tonio Plazibat vs. Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Ta
  rik Khbabez\nMain Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: 
  Endy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bok
- eme\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni
+ eme\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni\nMain Card: Diagu
+ ely Camara vs. Eduard Gafencu\nMain Card: Nabil Khachab vs. Vladimir Tok
+ tasynov\nMain Card: Andrei Kedves vs. Mareks Pelcis
 END:VEVENT
 END:VCALENDAR

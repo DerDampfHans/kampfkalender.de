@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230519T145448Z
-X-KAMPFKALENDER-HASH:7402b8c8362cd7ea279d5b45e6974b285451b435
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:78e9c6e734f052919db836b6dea324a95f575ebc
 BEGIN:VEVENT
-DTSTAMP:20230519T145448Z
+DTSTAMP:20230525T183652Z
 UID:2023-06-bellator-297-nemkov-vs-romero@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 297: Nemkov vs. Romero
@@ -33,19 +33,25 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/99770-bellator-29
  s. David McKinney (1-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230519T145448Z
-UID:2023-08-bellator-mma@kampfkalender.de
+DTSTAMP:20230525T183652Z
+UID:2023-08-bellator-298-storley-vs-ward@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Bellator MMA
+SUMMARY:Bellator 298: Storley vs. Ward
 DTSTART:20230811T220000Z
 DTEND:20230812T010000Z
 CATEGORIES:Bellator,MMA,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/101316-bellator-m
  ma\n\n---\n\nMain Event: Logan Storley (14-2-0) vs. Brennan Ward (17-6-0
- )\nPrelim: Akhmed Magomedov (10-1-0) vs. Kai Kamaka III (11-5-1)
+ )\nCo-Main Event: Valentin Moldavsky (11-3-0) vs. Steve Mowry (10-0-1)\n
+ Main Card: Dalton Rosta (8-0-0) vs. Aaron Jeffery (13-4-0)\nMain Card: S
+ idney Outlaw (16-5-0) vs. Islam Mamedov (22-2-1)\nPrelim: Akhmed Magomed
+ ov (10-1-0) vs. Kai Kamaka III (11-5-1)\nPrelim: Lucas Brennan (8-0-0) v
+ s. Weber Almeida (7-1-0)\nPrelim: James Gallagher (11-2-0) vs. Cris Lenc
+ ioni (11-3-0)\nPrelim: Michael Blockhus (0-0-0) vs. Eli Mefford (0-4-0)\
+ nPrelim: Alfie Davis (15-4-1) vs. Aalon Cruz (11-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230519T145448Z
+DTSTAMP:20230525T183652Z
 UID:2023-09-bellator-dublin-eblen-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator Dublin: Eblen vs. Edwards
@@ -54,7 +60,12 @@ DTEND:20230923T183000Z
 CATEGORIES:Bellator,MMA,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/101202-bellator-m
  ma\n\n---\n\nMain Event: Johnny Eblen (13-0-0) vs. Fabian Edwards (12-2-
- 0)\nMain Card: Brian Moore (16-9-0) vs. Otto Rodrigues (13-1-0)\nMain Ca
- rd: Mads Burnell (17-5-0) vs. Daniel Weichel (42-14-0)
+ 0)\nCo-Main Event: Brian Moore (16-9-0) vs. Otto Rodrigues (13-1-0)\nMai
+ n Card: Mads Burnell (17-5-0) vs. Daniel Weichel (42-14-0)\nMain Card: S
+ inead Kavanagh (9-5-0) vs. Sara Collins (4-0-0)\nPrelim: Luke Trainer (7
+ -1-0) vs. Laurynas Urbonavicius (14-1-0)\nPrelim: Mark Ewen (4-0-0) vs. 
+ Noah Gugnon (3-0-0)\nPrelim: Kenny Mokhonoana (5-0-0) vs. Josh O'Connor 
+ (4-0-0)\nPrelim: Chiara Penco (8-3-0) vs. Mackenzie Stiller (1-0-0)\nPre
+ lim: Nicolò Solli (4-1-0) vs. Romain Debienne (9-4-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230520T220304Z
-X-KAMPFKALENDER-HASH:e42f9cc946506a7c22eb38517420a3acea267146
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:45725cbeceb3361a091f52224e81324dcda42d63
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
 UID:2023-05-bkfc-43-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Jq3OygmaO3k\nvia
  is Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
 UID:2023-05-bkfc-43-alexander-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith
@@ -48,7 +48,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43/2pcv3/\n\n---\
  . Jaquis Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
 UID:2023-05-bkb-32-sweeney-vs-tello@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 32: Sweeney vs. Tello
@@ -65,7 +65,24 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkb-32/2pd13/\n\n---\n
   Jonny Lawson\nMain Card: Andre Lovli vs. Ashley Griffiths
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
+UID:2023-05-daniels-vs-meleisea@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Daniels vs. Meleisea
+DTSTART:20230527T060000Z
+DTEND:20230527T090000Z
+CATEGORIES:Other,Boxen,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/next-world-champion/2p
+ d2b/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/101446-daniel
+ s-vs-meleisea\nhttp://www.boxrec.com/en/event/867442\n\n---\n\nMain Even
+ t: Lani Daniels (7-2-2) vs. Alrie Meleisea (6-1-1)\nMain Card: Michelle 
+ Preston (0-0-0) vs. Jaqueline Mucio (5-12-2)\nMain Card: Michael Helg (4
+ -0-0) vs. Ricaia Warren (2-0-0)\nMain Card: Ioane Auvaa (0-0-0) vs. Tyro
+ ne Warren (4-1-2)\nMain Card: Zain Adams (0-0-0) vs. Obedi Maguchi (2-8-
+ 0)\nMain Card: Uila Mau'u (0-0-0) vs. Kurt Lakisoe (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183653Z
 UID:2023-06-bkfc-44-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Prelims
@@ -82,7 +99,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-44-prelims/2pd0r/
  ie Sears\nPrelim: Koda Greenwood vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
 UID:2023-06-bkfc-44-stewart-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Stewart vs. Lopez
@@ -99,7 +116,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-44/2pd0q/\n\n---\
  \nPrelim: Koda Greenwood vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183653Z
+UID:2023-06-bkfc-45-palomino-vs-lilley@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 45: Palomino vs. Lilley
+DTSTART:20230624T000000Z
+DTEND:20230624T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101377-bkfc-45-palomino-vs-lilley\n\n---\n\nMain Event: Luis Palomi
+ no vs. James Lilley
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183653Z
 UID:2023-07-bkfc-46-franco-vs-harris@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 46: Franco vs. Harris
@@ -109,5 +138,17 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/101297-bkfc-46-franco-vs-harris\n\n---\n\nMain Event: Rico Franco v
  s. Kaleb Harris
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183653Z
+UID:2023-07-bkfc-47-mundell-vs-richman@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 47: Mundell vs. Richman
+DTSTART:20230715T000000Z
+DTEND:20230715T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101489-bkfc-47\n\n---\n\nMain Event: David Mundell vs. Mike Richman
+ 
 END:VEVENT
 END:VCALENDAR

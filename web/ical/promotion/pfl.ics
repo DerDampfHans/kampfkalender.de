@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230518T220405Z
-X-KAMPFKALENDER-HASH:2da2deb634c0d2cb77621296629cf4bb672a028f
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:d4bf7e7b9a2833ccc9ef387223fcb14c8fcc12c2
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
 UID:2023-06-pfl-2023-regular-season-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL 2023 Regular Season 4
@@ -28,7 +28,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  (2-0-0) vs. Akeem Bashir (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
 UID:2023-06-pfl-2023-regular-season-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL 2023 Regular Season 5
@@ -49,7 +49,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  lim: Isaiah Pinson (2-0-0) vs. Denzel Freeman (4-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
 UID:2023-06-pfl-2023-regular-season-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL 2023 Regular Season 6
@@ -70,7 +70,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  im: Abdullah Al-Qahtani (5-1-0) vs. Lamar Brown (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
 UID:2023-07-pfl-europe-2023-regular-season-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Regular Season 2
@@ -88,7 +88,40 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  v (10-1-0) vs. Acoidan Duque (17-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
+UID:2023-08-pfl-2023-playoffs@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 2023 Playoffs
+DTSTART:20230804T220000Z
+DTEND:20230805T010000Z
+CATEGORIES:PFL,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/101462-pfl-2023-playoffs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183652Z
+UID:2023-08-pfl-2023-playoffs-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 2023 Playoffs
+DTSTART:20230818T220000Z
+DTEND:20230819T010000Z
+CATEGORIES:PFL,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/101463-pfl-8-2023-playoffs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183652Z
+UID:2023-08-pfl-2023-playoffs-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 2023 Playoffs
+DTSTART:20230823T220000Z
+DTEND:20230824T010000Z
+CATEGORIES:PFL,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/101464-pfl-9-2023-playoffs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183652Z
 UID:2023-09-pfl-europe-2023-playoffs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Playoffs
@@ -99,7 +132,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97298-pfl-europe-2023-playoffs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
 UID:2023-12-pfl-europe-2023-championships@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Championships

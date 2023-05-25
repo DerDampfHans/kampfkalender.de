@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230520T220304Z
-X-KAMPFKALENDER-HASH:351f4e89ad33fe844d6c4b6cd8e9a9195b6485c7
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:b62a5fa3c12f91ee767ad68bfd934c215118a0b5
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183652Z
 UID:2023-05-bkfc-43-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Jq3OygmaO3k\nvia
  is Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183652Z
 UID:2023-05-bkfc-43-alexander-vs-smith@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 43: Alexander vs. Smith
@@ -48,7 +48,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-43/2pcv3/\n\n---\
  . Jaquis Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183652Z
 UID:2023-06-bkfc-44-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Prelims
@@ -65,7 +65,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-44-prelims/2pd0r/
  ie Sears\nPrelim: Koda Greenwood vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183652Z
 UID:2023-06-bkfc-44-stewart-vs-lopez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Stewart vs. Lopez
@@ -82,7 +82,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-44/2pd0q/\n\n---\
  \nPrelim: Koda Greenwood vs. Darrick Gates
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230520T220305Z
+DTSTAMP:20230525T183652Z
+UID:2023-06-bkfc-45-palomino-vs-lilley@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 45: Palomino vs. Lilley
+DTSTART:20230624T000000Z
+DTEND:20230624T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101377-bkfc-45-palomino-vs-lilley\n\n---\n\nMain Event: Luis Palomi
+ no vs. James Lilley
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183652Z
 UID:2023-07-bkfc-46-franco-vs-harris@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 46: Franco vs. Harris
@@ -92,5 +104,17 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/101297-bkfc-46-franco-vs-harris\n\n---\n\nMain Event: Rico Franco v
  s. Kaleb Harris
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230525T183652Z
+UID:2023-07-bkfc-47-mundell-vs-richman@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 47: Mundell vs. Richman
+DTSTART:20230715T000000Z
+DTEND:20230715T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101489-bkfc-47\n\n---\n\nMain Event: David Mundell vs. Mike Richman
+ 
 END:VEVENT
 END:VCALENDAR

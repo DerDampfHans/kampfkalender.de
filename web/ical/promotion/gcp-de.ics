@@ -4,18 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230518T220405Z
-X-KAMPFKALENDER-HASH:afed10fd49cc29d59e08968fbd0a9b28d4cf8334
+DTSTAMP:20230525T183651Z
+X-KAMPFKALENDER-HASH:ea4c1a182d998c9f61f75f035f85e29081f218f2
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230525T183652Z
 UID:2023-05-gcp-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GCP 9
-DTSTART:20230527T160000Z
-DTEND:20230527T190000Z
-CATEGORIES:GCP,MMA,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/100365-gcp-9\n\n-
- --\n\nMain Event: Zafar Mohsen (11-4-0) vs. Severino Neto (5-5-0)\nCo-Ma
- in Event: Karomatullo Sufiev (8-1-0) vs. Wagner Silva (6-2-0)
+DTSTART:20230527T150000Z
+DTEND:20230527T180000Z
+CATEGORIES:GCP,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://german-mma.de/stream/cguFC_dpOezR4Ts1m2W8
+ Jw\n\n---\n\nhttps://www.tapology.com/fightcenter/events/100365-gcp-9\nh
+ ttp://www.sherdog.com/events/gcp-9-german-cage-pioneer-9-97630\n\n---\n\
+ nMain Event: Zafar Mohsen (11-4-0) vs. Severino Neto (5-5-0)\nCo-Main Ev
+ ent: Karomatullo Sufiev (8-1-0) vs. Wagner Silva (6-2-0)
 END:VEVENT
 END:VCALENDAR
