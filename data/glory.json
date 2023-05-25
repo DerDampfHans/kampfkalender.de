@@ -1,12 +1,38 @@
 [
   {
+    "id": "glory-2023-05-26",
+    "promo": true,
+    "promotion": "GLORY",
+    "tags": [
+      "#Essen",
+      "#GLORY86",
+      "#NFC14xGLORY86"
+    ],
+    "links": [
+      "https://fighting.de/events/glory-86/"
+    ],
+    "mainCard": {
+      "title": "GLORY 86: Official Weigh-In",
+      "time": "2023-05-26T16:00:00Z",
+      "until": "2023-05-26T16:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=WE2oT9toGy0",
+          "free": true
+        }
+      }
+    }
+  },
+  {
     "id": "tapology-100459",
     "promotion": "GLORY",
     "sports": [
       "KICKBOXING"
     ],
     "tags": [
-      "#GLORY86"
+      "#Essen",
+      "#GLORY86",
+      "#NFC14xGLORY86"
     ],
     "links": [
       "https://fighting.de/events/glory-86/"
@@ -45,12 +71,13 @@
       ],
       "card": [
         "Main Event: P. Kiatmoo9 vs. Ahmad Chikh Mousa",
-        "Co-Main Event: Mohamed Mezouari vs. Sofiane Gelin",
-        "Main Card: Benjamin Adegbuyi vs. Sofian Laïdouni",
+        "Co-Main Event: Benjamin Adegbuyi vs. Sofian Laïdouni",
+        "Main Card: Luis Tavares vs. Bahram Rajabzadeh",
         "Main Card: Guerric Billet vs. Enriko Kehl",
+        "Main Card: Sarah Moussaddak vs. Giuliana Cosnard",
         "Main Card: Robin Ciric vs. Chico Kwasi",
-        "Main Card: Uku Jürjendal vs. Mantas Rimdeika",
-        "Main Card: Juri de Sousa vs. Joilton Lutterbach"
+        "Main Card: Juri de Sousa vs. Joilton Lutterbach",
+        "Main Card: Uku Jürjendal vs. Mantas Rimdeika"
       ]
     }
   },
@@ -97,7 +124,10 @@
         "Main Card: Donovan Wisse vs. Serkan Özçağlayan",
         "Main Card: Endy Semeleer vs. Jay Overmeer",
         "Main Card: Michael Boapeah vs. Ulric Bokeme",
-        "Main Card: Felipe Micheletti vs. Ibrahim El Bouni"
+        "Main Card: Felipe Micheletti vs. Ibrahim El Bouni",
+        "Main Card: Diaguely Camara vs. Eduard Gafencu",
+        "Main Card: Nabil Khachab vs. Vladimir Toktasynov",
+        "Main Card: Andrei Kedves vs. Mareks Pelcis"
       ]
     }
   }

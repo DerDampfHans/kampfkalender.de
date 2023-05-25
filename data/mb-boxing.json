@@ -35,10 +35,12 @@
       "card": [
         "Main Event: Mauricio Lara (25-2-1) vs. Leigh Wood (26-3-0)",
         "Main Card: Jack Catterall (26-1-0) vs. Darragh Foley (22-4-1)",
-        "Main Card: Kieron Conway (19-3-1) vs. Linus Udofia (18-1-0)",
         "Main Card: Danny Ball (12-1-1) vs. Jamie Robinson (15-5-2)",
+        "Main Card: Terri Harper (13-1-1) vs. Ivana Habazin (21-4-0)",
         "Prelim: Campbell Hatton (11-0-0) vs. Michal Bulik (5-3-0)",
-        "Prelim: Aqib Fiaz (11-0-0) vs. Costin Ion (10-3-2)"
+        "Prelim: Aqib Fiaz (11-0-0) vs. Costin Ion (10-3-2)",
+        "Prelim: Aaron Bowen (0-0-0) vs. Aljaz Venko (5-3-1)",
+        "Prelim: William Crolla (0-0-0) vs. Joe Hardy (2-9-0)"
       ],
       "links": [
         "https://www.matchroomboxing.com/events/lara-vs-wood-2/",
@@ -71,12 +73,12 @@
       ],
       "card": [
         "Main Event: Sunny Edwards (19-0-0) vs. Andres Campos (15-0-0)",
-        "Main Card: Cherneka Johnson (15-1-0) vs. Ellie Scotney (6-0-0)",
+        "Co-Main Event: Cherneka Johnson (15-1-0) vs. Ellie Scotney (6-0-0)",
+        "Co-Main Event: Nina Hughes (5-0-0) vs. Katie Healy (6-0-0)",
         "Main Card: Cheavon Clarke (5-0-0) vs. David Jamieson (10-2-0)",
         "Main Card: Youssef Khoumari (15-1-1) vs. Reece Bellotti (15-5-0)",
         "Main Card: Shannon Ryan (4-0-0) vs. Martina Bernile (5-1-1)",
-        "Main Card: George Liddard (0-0-0) vs. James McCarthy (2-6-1)",
-        "Main Card: Nina Hughes (5-0-0) vs. Katie Healy (6-0-0)"
+        "Main Card: George Liddard (2-0-0) vs. James McCarthy (2-6-1)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/872367"
@@ -100,13 +102,15 @@
     "tapology": {
       "id": 101021,
       "time": "2023-06-18T01:00:00Z",
-      "title": "Prograis vs. Paro",
+      "title": "Prograis vs. Zorrilla",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/101021-prograis-vs-paro",
       "sports": [
         "BOXING"
       ],
       "card": [
+        "Main Event: Regis Prograis (28-1-0) vs. Danielito Zorrilla (17-1-0)",
+        "Co-Main Event: Shakhram Giyasov (13-0-0) vs. Harold Calderon (27-0-0)",
         "Main Card: Ramla Ali (8-0-0) vs. Alejandra Guzman (12-2-2)"
       ],
       "links": [
@@ -141,7 +145,10 @@
         "Main Event: Edgar Berlanga (20-0-0) vs. Jason Quigley (20-2-0)",
         "Main Card: Peter McGrail (7-0-0) vs. Diego Alberto Ruiz (24-6-1)",
         "Main Card: Adam Kownacki (20-3-0) vs. Joe Cusumano (21-4-0)",
-        "Main Card: Reshat Mati (13-0-0) vs. Wesley Ferrer (16-1-1)"
+        "Main Card: Reshat Mati (13-0-0) vs. Wesley Ferrer (16-1-1)",
+        "Main Card: Khalil Coe (5-0-1) vs. Buneet Bisla (7-0-0)",
+        "Main Card: Yankiel Rivera (3-0-0) vs. Christian Robles (8-0-0)",
+        "Main Card: Harley Mederos (5-0-0) vs. Pedro Vicente (7-5-1)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/871639"
@@ -175,10 +182,44 @@
         "Main Event: Dalton Smith (14-0-0) vs. Sam Maxwell (17-1-0)",
         "Main Card: Pat McCormack (4-0-0) vs. Tony Dixon (14-4-0)",
         "Main Card: Hopey Price (10-0-0) vs. James Beech Jr. (15-4-0)",
-        "Main Card: Beatriz Ferreira (2-0-0) vs. Karla Ramos Zamora (9-10-1)"
+        "Main Card: Beatriz Ferreira (2-0-0) vs. Karla Ramos Zamora (9-10-1)",
+        "Main Card: Lewis Sylvester (11-0-0) vs. Adam Cope (6-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/872106"
+      ]
+    }
+  },
+  {
+    "id": "tapology-101401",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Baumgardtner vs. Linardatou 2",
+      "time": "2023-07-16T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 101401,
+      "time": "2023-07-16T00:00:00Z",
+      "title": "Baumgardtner vs. Linardatou 2",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/101401-baumgardtner-vs-linardatou-2",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Alycia Baumgardner (14-1-0) vs. Christina Linardatou (14-2-0)",
+        "Main Card: Richardson Hitchins (16-0-0) vs. Montana Love (18-1-1)",
+        "Main Card: Andy Cruz (0-0-0) vs. Juan Carlos Burgos (35-7-3)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/873856"
       ]
     }
   }

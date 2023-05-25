@@ -18,25 +18,8 @@
       "id": 100942,
       "time": "2023-06-10T04:00:00Z",
       "title": "Fusion Fight League: Boise",
-      "info": "Confirmed Upcoming MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/100942-fusion-fight-league-boise",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Card: Tryston Hutchinson (1-1-0) vs. Daniel McElhaney (2-1-0)",
-        "Main Card: David Bollea (8-2-0) vs. Dustin Winter (7-5-0)",
-        "Main Card: William Dunkle (6-3-0) vs. Bryan McDowell (8-6-0)",
-        "Main Card: Tyler Burton (1-0-0) vs. Matthew Beasley (1-1-0)",
-        "Main Card: Jose Gomez (0-0-0) vs. Brian Crouse (0-0-0)",
-        "Main Card: Leonardo Gonzalez (0-0-0) vs. Kody Papasan (0-1-0)",
-        "Main Card: Jay Sallee (1-0-0) vs. Brandon Bach (0-0-0)",
-        "Main Card: Alan Rea (4-3-0) vs. Alius Delrosa (2-0-0)",
-        "Main Card: Maddie Moorhead (0-4-0) vs. Jessenia Rubio (1-0-0)",
-        "Main Card: Reese Bandurraga (2-0-0) vs. Jadon Shuey (2-1-0)",
-        "Main Card: Almir Talić (4-0-0) vs. Kelly Merrick (3-1-0)",
-        "Main Card: Sterling Ritch (6-1-0) vs. Harley Dilulo (2-0-0)"
-      ]
+      "info": "Cancelled Event",
+      "url": "https://www.tapology.com/fightcenter/events/100942-fusion-fight-league-boise"
     }
   },
   {
@@ -65,13 +48,36 @@
       ],
       "card": [
         "Main Card: Josh Wright (6-4-0) vs. Darien Robinson (4-1-0)",
-        "Main Card: Daeri Alderman (2-0-0) vs. Chris Rios (0-0-0)",
-        "Main Card: Ryder Small (1-1-0) vs. Octavian Trumbo (2-2-0)",
-        "Main Card: Hudson Kettengring (3-1-0) vs. Artis Lyles (2-2-0)"
+        "Main Card: Daeri Alderman (3-0-0) vs. Chris Rios (0-0-0)",
+        "Main Card: Ryder Small (1-1-0) vs. Jose Mendez (1-0-0)",
+        "Main Card: Hudson Kettenring (3-1-0) vs. Artis Lyles (2-2-0)"
       ],
       "links": [
         "https://events.mixedmartialarts.com/fusion-fight-league:f3b778fc-4cbd-4cb1-adf0-b502a4db1f95"
       ]
+    }
+  },
+  {
+    "id": "tapology-101409",
+    "promotion": "FUSION",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Fusion Fight League",
+      "time": "2023-07-15T04:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 101409,
+      "time": "2023-07-15T04:00:00Z",
+      "title": "Fusion Fight League",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/101409-fusion-fight-league"
     }
   }
 ]
