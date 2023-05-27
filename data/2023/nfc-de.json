@@ -261,5 +261,32 @@
         }
       }
     }
+  },
+  {
+    "id": "nfc-2023-05-27",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#Essen",
+      "#NFC14",
+      "#NFC14xGLORY86"
+    ],
+    "links": [
+      "https://fighting.de/nfc-14/"
+    ],
+    "mainCard": {
+      "title": "NFC 14 x GLORY 86: Highlights",
+      "time": "2023-05-27T21:00:00Z",
+      "until": "2023-05-27T23:00:00Z",
+      "broadcasters": {
+        "SPORT1": {
+          "url": "https://tv.sport1.de/live/sport1",
+          "free": true
+        }
+      }
+    }
   }
 ]

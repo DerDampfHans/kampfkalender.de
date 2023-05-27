@@ -465,5 +465,27 @@
         "https://events.mixedmartialarts.com/gmc-34:a14fa6ba-f68b-429a-b751-c14370053a99"
       ]
     }
+  },
+  {
+    "id": "gmc-230527",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "BOXING",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OlympiX K1 / Boxen / MMA",
+      "time": "2023-05-27T15:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=eH8AJNmQzAw",
+          "free": true
+        },
+        "GMC_TV": {
+          "url": "https://german-mma.de/stream/PYP8hc_LGZsQmXsny6JLDg"
+        }
+      }
+    }
   }
 ]
