@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230528T220304Z
-X-KAMPFKALENDER-HASH:10f5c534051682602ecc3365c7506dca0dce77e9
+DTSTAMP:20230602T083945Z
+X-KAMPFKALENDER-HASH:247f9e220ccf16fb9fce8c6590d2cd951ddcfca1
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-naciones-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Naciones MMA
@@ -24,7 +24,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  menez (1-0-0) vs. Mario Reyes (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-ford-vs-mein@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ford vs. Mein
@@ -34,7 +34,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-daniels-vs-meleisea@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Daniels vs. Meleisea
@@ -51,7 +51,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/next-world-champion/2p
  0)\nMain Card: Uila Mau'u (0-0-0) vs. Kurt Lakisoe (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-ringsportnacht-koln@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ringsportnacht Köln
@@ -62,7 +62,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  tv: https://www.fight24.tv/fightpasses/fight24-ringsportnacht-koln-605
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-dream-boxing-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Dream Boxing
@@ -72,7 +72,7 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-singh-vs-narwat@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Singh vs. Narwat
@@ -90,12 +90,44 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Lopez Flores (13-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
+UID:2023-06-hannover-fight-championship@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hannover Fight Championship
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-hfc-2-607\n\n---\n\nhttps
+ ://www.hfc-fight.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083947Z
+UID:2023-06-shields-vs-cornejo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shields vs. Cornejo
+DTSTART:20230604T010000Z
+DTEND:20230604T040000Z
+CATEGORIES:Other,Boxen,DAZN,fite.tv,live
+DESCRIPTION:via DAZN\nvia fite.tv: https://www.fite.tv/watch/shields-vs-c
+ ornejo/2pd3h/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/1002
+ 50-shields-vs-gabriels\nhttp://www.boxrec.com/en/event/871658\n\n---\n\n
+ Main Event: Claressa Shields (13-0-0) vs. Maricela Cornejo (16-5-0)\nCo-
+ Main Event: Ardreal Holmes (13-0-0) vs. Wendy Toussaint (14-1-0)\nMain C
+ ard: Marlon Harrington (8-1-0) vs. Gheith Karim (9-0-0)\nMain Card: Ronn
+ ell Burnett (9-0-0) vs. Joshua Pagan (6-0-0)\nMain Card: Da'Velle Smith 
+ (5-0-0) vs. Kahydlian Woods (4-0-0)\nMain Card: Joseph Hicks Jr. (6-0-0)
+  vs. Antonio Todd (14-7-0)\nMain Card: Sarah Liegmann (7-0-0) vs. Cariss
+ e Brown (7-4-0)\nMain Card: Vernon Webber (8-0-0) vs. F. De Almeida (10-
+ 8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083947Z
 UID:2023-06-walsh-vs-jones@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Jones
-DTSTART:20230610T013000Z
-DTEND:20230610T043000Z
+DTSTART:20230610T020000Z
+DTEND:20230610T050000Z
 CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100458-hollywood-fight-nights\nhttp://www.boxrec.com/en/even
@@ -106,7 +138,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  n (3-1-1) vs. Nikkia Williams (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-06-combat-fc-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 4
@@ -115,19 +147,23 @@ DTEND:20230616T040000Z
 CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100436-combat-fc-4\nhttp://www.sherdog.com/events/combat-fc-
- 4-piersma-vs-lachinov-97608\n\n---\n\nMain Card: Aaron Trecell (3-3-0) v
- s. Sage Philippe (2-4-0)\nMain Card: Travis Demko (3-1-0) vs. Abbas Abas
- ov (1-0-0)\nMain Card: Leonardo Ladeira (2-3-0) vs. Robert Wusstig (7-13
- -0)\nMain Card: Jon Viruet (0-0-0) vs. Paul Teague (1-6-0)\nMain Card: Y
- ann Oliveira (3-0-0) vs. Stephen Stengel (6-22-0)\nMain Card: Bekzod Abd
- urakhmonov (7-0-0) vs. Derik de Freitas (2-5-0)\nMain Card: Randy Costa 
- (6-4-0) vs. Carlos Espinosa (6-8-0)\nMain Card: Saul Almeida (20-13-0) v
- s. Nathan Ghareeb (8-2-0)\nMain Card: Mark Gardner (3-3-0) vs. Ali Zebia
- n (9-3-0)\nMain Card: Jorge Vega (0-1-0) vs. Alex Davidson (1-2-0)\nMain
-  Card: Jarrod St. Jean (2-1-0) vs. Tristan Wood (1-0-0)
+ 4-piersma-vs-lachinov-97608\nhttps://events.mixedmartialarts.com/combat-
+ fc-4:10ac7def-52c4-48b7-a21c-9c3cef363357\n\n---\n\nMain Event: Nathan G
+ hareeb (8-2-0) vs. Jair Junior (7-4-0)\nMain Card: Aaron Trecell (3-3-0)
+  vs. Sage Philippe (2-4-0)\nMain Card: Travis Demko (3-1-0) vs. Abbas Ab
+ asov (1-0-0)\nMain Card: Leonardo Ladeira (2-3-0) vs. Robert Wusstig (7-
+ 13-0)\nMain Card: Jon Viruet (0-0-0) vs. Paul Teague (1-6-0)\nMain Card:
+  Yann Oliveira (3-0-0) vs. Stephen Stengel (6-22-0)\nMain Card: Bekzod A
+ bdurakhmonov (7-0-0) vs. Derik de Freitas (2-5-0)\nMain Card: Randy Cost
+ a (6-4-0) vs. Carlos Espinosa (6-8-0)\nMain Card: Mark Gardner (3-3-0) v
+ s. Ali Zebian (9-3-0)\nMain Card: Jorge Vega (0-1-0) vs. Alex Davidson (
+ 1-2-0)\nMain Card: Bruce Richards (0-6-0) vs. Marcel Romero (0-1-0)\nMai
+ n Card: Jarrod St. Jean (2-1-0) vs. Tristan Wood (1-0-0)\nMain Card: Ste
+ ve Hill (1-0-0) vs. Josh Smith (1-1-0)\nMain Card: Sean Nichols (0-0-0) 
+ vs. Pedro Baez (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220304Z
+DTSTAMP:20230602T083947Z
 UID:2023-06-ufc-fight-pass-invitational-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 4

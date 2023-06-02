@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230525T183651Z
-X-KAMPFKALENDER-HASH:f08a633677cc45c240217645c30cc1d1bb6a807f
+DTSTAMP:20230602T083945Z
+X-KAMPFKALENDER-HASH:49a76d4c50790ea5aabee8efb7aedab197c94454
 BEGIN:VEVENT
-DTSTAMP:20230525T183652Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-rocha-vs-young@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rocha vs. Young
@@ -25,12 +25,26 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  es (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T183652Z
+DTSTAMP:20230602T083947Z
+UID:2023-06-flores-vs-santibanes@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Flores vs. Santibanes
+DTSTART:20230609T010000Z
+DTEND:20230609T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/100135-golden-boy-fight-night\nhttp://www.boxrec.com/en/event/871392\n
+ \n---\n\nMain Event: Manuel Flores (15-0-0) vs. Walter Santibanes (11-2-
+ 0)\nMain Card: Jelena Mrdjenovich (41-12-2) vs. Calista Silgado (19-16-4
+ )\nMain Card: Daniel Garcia (5-0-0) vs. Luis May (21-16-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083947Z
 UID:2023-06-munguia-vs-derevyanchenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Munguia vs. Derevyanchenko
-DTSTART:20230611T010000Z
-DTEND:20230611T040000Z
+DTSTART:20230611T000000Z
+DTEND:20230611T030000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/100944-munguia-vs-derevyanchenko\n\n---\n\nMain Event: Jaime Munguia (
@@ -41,7 +55,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  n Lorenzo (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T183652Z
+DTSTAMP:20230602T083947Z
 UID:2023-07-stanionis-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Stanionis vs. Ortiz

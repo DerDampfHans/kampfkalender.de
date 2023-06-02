@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230528T220304Z
-X-KAMPFKALENDER-HASH:2cd6d678f31f8c899e744048a9860c857e67d49d
+DTSTAMP:20230602T083945Z
+X-KAMPFKALENDER-HASH:f3abc76a5f1be94fe7efbde68c8db9f56f10e4d0
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
 UID:2023-05-glory-86-official-weigh-in@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 86: Official Weigh-In
@@ -18,7 +18,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=WE2oT9toGy0\n\n-
  --\n\nhttps://fighting.de/events/glory-86/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
 UID:2023-05-one-friday-fights-18@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 18
@@ -40,7 +40,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZVsWBVHGkwg\n\n-
  ard: Ali Kabdulla (8-1-1) vs. Richard Godoy (15-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
 UID:2023-05-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -51,7 +51,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=eH8AJNmQzAw\nvia
   gmc.tv: https://german-mma.de/stream/PYP8hc_LGZsQmXsny6JLDg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
 UID:2023-05-ringsportnacht-koln@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ringsportnacht Köln
@@ -62,7 +62,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  tv: https://www.fight24.tv/fightpasses/fight24-ringsportnacht-koln-605
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
 UID:2023-05-xhoxhaj-vs-radeff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Xhoxhaj vs. Radeff
@@ -79,40 +79,134 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  slav Gaureac (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
+UID:2023-06-one-friday-fights-19@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 19
+DTSTART:20230602T123000Z
+DTEND:20230602T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=q0DDri1LpxE\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/101643-one-friday-figh
+ ts-19\nhttp://www.sherdog.com/events/one-championship-one-friday-fights-
+ 19-97974\nhttps://events.mixedmartialarts.com/one-friday-fights-19:625e3
+ d50-94e8-4a4e-8c9e-005698583b42\n\n---\n\nMain Event: K. Sor.Jor.Piek Ut
+ hai vs. Ilyas Musaev\nCo-Main Event: Ronachai Tor.Ramintra vs. A. Sor. S
+ amarngarment\nMain Card: R. SidChefBoontham vs. Jalill Barnes\nMain Card
+ : D. Sitnayoktaweeptaphong vs. Petchrapa Sor.Sopit\nMain Card: KohTao Pe
+ tchsomnuek vs. Amnatdet Sitnayokmot\nMain Card: Panphet Sanfannatawee vs
+ . Soroush Akbari\nMain Card: K. P.K. Saenchai Muaythaigym vs. Elbrus Osm
+ anov\nMain Card: P. Lukjaomaesaiwaree vs. Ferzan Çiçek\nMain Card: P. So
+ r Jor Wichitpadriew vs. Noelisson Silva\nMain Card: Natalya Dyachkova vs
+ . Lena Nocker\nMain Card: Rui Chen (15-5-0) vs. Drex Zamboanga (14-5-0)\
+ nMain Card: Murad Umachiev (2-0-0) vs. Ibragim Shaymanov (5-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
+UID:2023-06-hannover-fight-championship@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hannover Fight Championship
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-hfc-2-607\n\n---\n\nhttps
+ ://www.hfc-fight.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
+UID:2023-06-universum-boxing-night-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night: Prelims
+DTSTART:20230603T160000Z
+DTEND:20230603T200000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/@UniversumBoxing\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/100254-universum-boxing-n
+ ight\nhttp://www.boxrec.com/en/event/870593\n\n---\n\nMain Event: Luka P
+ lantic (5-0-0) vs. Yusuf Kanguel (22-5-1)\nCo-Main Event: Leon Bunn (19-
+ 1-0) vs. Serhat Guler (2-0-0)\nMain Card: Jose Larduet (9-0-0) vs. Ali K
+ iydin (15-2-0)\nMain Card: Dzmitry Asanau (6-0-0) vs. Cristian Avila (17
+ -8-1)\nMain Card: Dmytro Rybalko (2-0-0) vs. Iago Kiziria (7-10-0)\nMain
+  Card: Senad Gashi (24-3-0) vs. Hueseyin Akdemir (12-3-0)\nMain Card: Mo
+ hamed Abdallah (0-0-0) vs. Milos Veletic (1-3-0)\nPrelim: Oussama Kebdan
+ i (0-0-0) vs. Jaba Memishishi (8-19-0)\nPrelim: Mohamed Khaloua (8-2-0) 
+ vs. Bakhtiyar Isgandarzada (12-28-0)\nPrelim: Armin Ajrualai (5-0-0) vs.
+  Nodar Robakidze (15-45-7)\nPrelim: Younes Zarraa (7-0-0) vs. Nikola Ivk
+ ović (11-34-4)\nPrelim: Darian Yasar (10-0-1) vs. Milos Janjanin (16-43-
+ 0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
 UID:2023-06-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
-DTSTART:20230603T160000Z
-DTEND:20230603T190000Z
-CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DTSTART:20230603T200000Z
+DTEND:20230603T230000Z
+CATEGORIES:UBP,Boxen,YouTube,live
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/100254-universum-boxing-night\nhttp://www.boxrec.com/en/event/87059
  3\n\n---\n\nMain Event: Luka Plantic (5-0-0) vs. Yusuf Kanguel (22-5-1)\
- nMain Card: Rostam Ibrahim (11-0-2) vs. Leon Bunn (19-1-0)\nMain Card: J
- ose Larduet (9-0-0) vs. Ali Kiydin (15-2-0)\nMain Card: Ben Adwubi (5-0-
- 0) vs. Mohamed Abdallah (0-0-0)
+ nCo-Main Event: Leon Bunn (19-1-0) vs. Serhat Guler (2-0-0)\nMain Card: 
+ Jose Larduet (9-0-0) vs. Ali Kiydin (15-2-0)\nMain Card: Dzmitry Asanau 
+ (6-0-0) vs. Cristian Avila (17-8-1)\nMain Card: Dmytro Rybalko (2-0-0) v
+ s. Iago Kiziria (7-10-0)\nMain Card: Senad Gashi (24-3-0) vs. Hueseyin A
+ kdemir (12-3-0)\nMain Card: Mohamed Abdallah (0-0-0) vs. Milos Veletic (
+ 1-3-0)\nPrelim: Oussama Kebdani (0-0-0) vs. Jaba Memishishi (8-19-0)\nPr
+ elim: Mohamed Khaloua (8-2-0) vs. Bakhtiyar Isgandarzada (12-28-0)\nPrel
+ im: Armin Ajrualai (5-0-0) vs. Nodar Robakidze (15-45-7)\nPrelim: Younes
+  Zarraa (7-0-0) vs. Nikola Ivković (11-34-4)\nPrelim: Darian Yasar (10-0
+ -1) vs. Milos Janjanin (16-43-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
-UID:2023-06-one-fight-night-11@kampfkalender.de
+DTSTAMP:20230602T083948Z
+UID:2023-06-one-fight-night-11-eersel-vs-menshikov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Fight Night 11
+SUMMARY:ONE Fight Night 11: Eersel vs. Menshikov
 DTSTART:20230610T000000Z
 DTEND:20230610T030000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/100343-one-fight-night-11\n\n---\n\nMain Event: Regian Eersel vs. D
- mitry Menshikov\nCo-Main Event: Kade Ruotolo vs. Tommy Langaker\nMain Ca
- rd: Ilya Freymanov (11-2-0) vs. S. Zoltsetseg (6-3-0)\nMain Card: Superb
- on Singha Mawynn vs. Tayfun Özcan\nMain Card: Mansur Malachiev (10-0-0) 
- vs. Jeremy Miado (10-4-0)\nMain Card: Nieky Holzken vs. Arian Sadiković\
- nMain Card: Artem Belakh (10-2-0) vs. Won Il Kwon (12-4-0)\nMain Card: M
- artine Michieletto vs. Amber Kitchen\nMain Card: Yong Hu (10-4-0) vs. Su
- ng Hoon Woo (10-3-0)\nMain Card: Rade Opačić vs. Guto Inocente
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9ccANod0pSE\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/100343-one-fight-night
+ -11\n\n---\n\nMain Event: Regian Eersel vs. Dmitry Menshikov\nCo-Main Ev
+ ent: Kade Ruotolo vs. Tommy Langaker\nMain Card: Ilya Freymanov (11-2-0)
+  vs. S. Zoltsetseg (6-3-0)\nMain Card: Superbon Singha Mawynn vs. Tayfun
+  Özcan\nMain Card: Mansur Malachiev (10-0-0) vs. Jeremy Miado (10-4-0)\n
+ Main Card: Nieky Holzken vs. Arian Sadiković\nMain Card: Artem Belakh (1
+ 0-2-0) vs. Won Il Kwon (12-4-0)\nMain Card: Martine Michieletto vs. Ambe
+ r Kitchen\nMain Card: Yong Hu (10-4-0) vs. Sung Hoon Woo (10-3-0)\nMain 
+ Card: Rade Opačić vs. Guto Inocente
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
+UID:2023-06-one-friday-fights-22-bhullar-vs-malykhin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Friday Fights 22: Bhullar vs. Malykhin
+DTSTART:20230623T123000Z
+DTEND:20230623T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101567-one-friday-fights-22-bhullar-vs-malykhin\n\n---\n\nMain Even
+ t: Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (12-0-0)\nMain Card: Praj
+ anchai PK Saenchai vs. Sam-A Gaiyanghadao\nMain Card: Muangthai PK Saenc
+ hai (0-0-0) vs. Nico Carrillo (0-0-0)\nMain Card: Jomhod Sermpornwiwat (
+ 0-0-0) vs. Akram Hamidi (0-0-0)\nMain Card: Saeksan Or Kwanmuang (0-0-0)
+  vs. Nathan Bendon (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
+UID:2023-07-hfc-42@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:HFC 42
+DTSTART:20230708T180000Z
+DTEND:20230708T210000Z
+CATEGORIES:HFC,MMA,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-hfc-42-608\n\n---\n\nhttp
+ s://www.hfc-mma.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
 UID:2023-07-one-fight-night-12-kai-vs-le-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 12: Kai vs. Le 2

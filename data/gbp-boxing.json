@@ -5,10 +5,23 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#FloresSantibanes"
+    ],
     "mainCard": {
-      "hidden": true,
-      "title": "Golden Boy Fight Night",
-      "time": "2023-06-09T01:00:00Z"
+      "title": "Flores vs. Santibanes",
+      "time": "2023-06-09T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "a6w2youihx8s1fwjmzfvg14ws",
+        "time": "2023-06-09T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Flores vs Santibanes"
+      }
     },
     "tapology": {
       "id": 100135,
@@ -21,7 +34,11 @@
       ],
       "card": [
         "Main Event: Manuel Flores (15-0-0) vs. Walter Santibanes (11-2-0)",
-        "Main Card: Jelena Mrdjenovich (41-12-2) vs. Calista Silgado (19-16-4)"
+        "Main Card: Jelena Mrdjenovich (41-12-2) vs. Calista Silgado (19-16-4)",
+        "Main Card: Daniel Garcia (5-0-0) vs. Luis May (21-16-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/871392"
       ]
     }
   },
@@ -31,12 +48,22 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#MunguiaDerevyanchenko"
+    ],
     "mainCard": {
       "title": "Munguia vs. Derevyanchenko",
-      "time": "2023-06-11T01:00:00Z",
+      "time": "2023-06-11T00:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "zlcdf3gjfnbr14yd2ov130zdn",
+        "time": "2023-06-11T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Munguia vs Derevyanchenko"
       }
     },
     "tapology": {

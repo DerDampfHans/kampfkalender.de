@@ -4,21 +4,51 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230518T220405Z
-X-KAMPFKALENDER-HASH:dc6e0c8f14818dee83e8d6e2380b964677c83033
+DTSTAMP:20230602T083945Z
+X-KAMPFKALENDER-HASH:17c22231a405654e26e6bf61ad6d9b704d47be6b
 BEGIN:VEVENT
-DTSTAMP:20230518T220405Z
+DTSTAMP:20230602T083948Z
+UID:2023-06-universum-boxing-night-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Universum Boxing Night: Prelims
+DTSTART:20230603T160000Z
+DTEND:20230603T200000Z
+CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/@UniversumBoxing\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/100254-universum-boxing-n
+ ight\nhttp://www.boxrec.com/en/event/870593\n\n---\n\nMain Event: Luka P
+ lantic (5-0-0) vs. Yusuf Kanguel (22-5-1)\nCo-Main Event: Leon Bunn (19-
+ 1-0) vs. Serhat Guler (2-0-0)\nMain Card: Jose Larduet (9-0-0) vs. Ali K
+ iydin (15-2-0)\nMain Card: Dzmitry Asanau (6-0-0) vs. Cristian Avila (17
+ -8-1)\nMain Card: Dmytro Rybalko (2-0-0) vs. Iago Kiziria (7-10-0)\nMain
+  Card: Senad Gashi (24-3-0) vs. Hueseyin Akdemir (12-3-0)\nMain Card: Mo
+ hamed Abdallah (0-0-0) vs. Milos Veletic (1-3-0)\nPrelim: Oussama Kebdan
+ i (0-0-0) vs. Jaba Memishishi (8-19-0)\nPrelim: Mohamed Khaloua (8-2-0) 
+ vs. Bakhtiyar Isgandarzada (12-28-0)\nPrelim: Armin Ajrualai (5-0-0) vs.
+  Nodar Robakidze (15-45-7)\nPrelim: Younes Zarraa (7-0-0) vs. Nikola Ivk
+ ović (11-34-4)\nPrelim: Darian Yasar (10-0-1) vs. Milos Janjanin (16-43-
+ 0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
 UID:2023-06-universum-boxing-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Universum Boxing Night
-DTSTART:20230603T160000Z
-DTEND:20230603T190000Z
-CATEGORIES:UBP,Boxen,YouTube,live,kostenlos
+DTSTART:20230603T200000Z
+DTEND:20230603T230000Z
+CATEGORIES:UBP,Boxen,YouTube,live
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/100254-universum-boxing-night\nhttp://www.boxrec.com/en/event/87059
  3\n\n---\n\nMain Event: Luka Plantic (5-0-0) vs. Yusuf Kanguel (22-5-1)\
- nMain Card: Rostam Ibrahim (11-0-2) vs. Leon Bunn (19-1-0)\nMain Card: J
- ose Larduet (9-0-0) vs. Ali Kiydin (15-2-0)\nMain Card: Ben Adwubi (5-0-
- 0) vs. Mohamed Abdallah (0-0-0)
+ nCo-Main Event: Leon Bunn (19-1-0) vs. Serhat Guler (2-0-0)\nMain Card: 
+ Jose Larduet (9-0-0) vs. Ali Kiydin (15-2-0)\nMain Card: Dzmitry Asanau 
+ (6-0-0) vs. Cristian Avila (17-8-1)\nMain Card: Dmytro Rybalko (2-0-0) v
+ s. Iago Kiziria (7-10-0)\nMain Card: Senad Gashi (24-3-0) vs. Hueseyin A
+ kdemir (12-3-0)\nMain Card: Mohamed Abdallah (0-0-0) vs. Milos Veletic (
+ 1-3-0)\nPrelim: Oussama Kebdani (0-0-0) vs. Jaba Memishishi (8-19-0)\nPr
+ elim: Mohamed Khaloua (8-2-0) vs. Bakhtiyar Isgandarzada (12-28-0)\nPrel
+ im: Armin Ajrualai (5-0-0) vs. Nodar Robakidze (15-45-7)\nPrelim: Younes
+  Zarraa (7-0-0) vs. Nikola Ivković (11-34-4)\nPrelim: Darian Yasar (10-0
+ -1) vs. Milos Janjanin (16-43-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230528T220304Z
-X-KAMPFKALENDER-HASH:6548bf2d8d6dc5b6f9ad6c51e54e3de4c09e02aa
+DTSTAMP:20230602T083945Z
+X-KAMPFKALENDER-HASH:3f38b53bf0e8725a85e0a95c8c322dc0b9cc819e
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
 UID:2023-05-ringsportnacht-koln@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ringsportnacht Köln
@@ -18,7 +18,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  tv: https://www.fight24.tv/fightpasses/fight24-ringsportnacht-koln-605
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T220305Z
+DTSTAMP:20230602T083948Z
 UID:2023-05-xhoxhaj-vs-radeff@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Xhoxhaj vs. Radeff
@@ -33,5 +33,29 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  (5-1-0) vs. Adis Hrustic (0-0-0)\nMain Card: Kushtrim Tahirukaj (3-0-0) 
  vs. Evghenii Shabazov (0-0-0)\nMain Card: Valon Ahmeti (2-0-0) vs. Vladi
  slav Gaureac (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
+UID:2023-06-hannover-fight-championship@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hannover Fight Championship
+DTSTART:20230603T160000Z
+DTEND:20230603T190000Z
+CATEGORIES:Other,Boxen,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-hfc-2-607\n\n---\n\nhttps
+ ://www.hfc-fight.de/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083948Z
+UID:2023-07-hfc-42@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:HFC 42
+DTSTART:20230708T180000Z
+DTEND:20230708T210000Z
+CATEGORIES:HFC,MMA,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
+ tv: https://www.fight24.tv/fightpasses/fight24-hfc-42-608\n\n---\n\nhttp
+ s://www.hfc-mma.com/
 END:VEVENT
 END:VCALENDAR

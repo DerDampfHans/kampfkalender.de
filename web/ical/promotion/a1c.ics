@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230525T183651Z
-X-KAMPFKALENDER-HASH:5cc2b39181450c267278bfa585f08780b8be1ac7
+DTSTAMP:20230602T083945Z
+X-KAMPFKALENDER-HASH:0f1a889373835d0317f0c5ba0b25e430be6bd552
 BEGIN:VEVENT
-DTSTAMP:20230525T183652Z
+DTSTAMP:20230602T083947Z
 UID:2023-05-urijah-faber-s-a1-combat-11-morales-vs-barez@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -28,5 +28,42 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0-0) vs. Jimmy Dixon (1-0-0)\nPrelim: Joseph Lee (1-2-0) vs. Chris Chav
  ez (1-1-0)\nPrelim: Michael Humphrey (0-6-0) vs. Anthony Green (0-0-0)\n
  Prelim: Carlos Figueroa (1-5-0) vs. Galdino Ibarra III (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083947Z
+UID:2023-07-urijah-faber-s-a1-combat-12-coyne-vs-juarez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 12: Coyne vs. Juarez
+DTSTART:20230723T010000Z
+DTEND:20230723T040000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101790-urijah-faber-s-a1-combat-12-coyne-vs-juarez\n\n---\n\
+ nMain Event: Andrew Coyne (6-1-0) vs. Ernie Juarez (5-0-0)\nMain Card: T
+ aylor Mauldin (3-0-0) vs. Laura Gallardo (4-2-0)\nMain Card: Troy Green 
+ (6-1-0) vs. Ernesto Rodriguez (6-1-0)\nMain Card: Katarina Legorreta (1-
+ 0-0) vs. Kathy Solorzano (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083947Z
+UID:2023-08-urijah-faber-s-a1-combat-13@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 13
+DTSTART:20230805T010000Z
+DTEND:20230805T040000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101791-urijah-faber-s-a1-combat-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T083947Z
+UID:2023-09-urijah-faber-s-a1-combat-14@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber's A1 Combat 14
+DTSTART:20230902T220000Z
+DTEND:20230903T010000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101792-urijah-faber-s-a1-combat-14
 END:VEVENT
 END:VCALENDAR
