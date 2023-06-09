@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230604T220305Z
-X-KAMPFKALENDER-HASH:219e2bf7db95b6ea3ac9ae84af71b8eaeb3f6d9d
+DTSTAMP:20230609T174104Z
+X-KAMPFKALENDER-HASH:6e7624404783b3aa1e38546673cabfc460177e83
 BEGIN:VEVENT
-DTSTAMP:20230604T220305Z
+DTSTAMP:20230609T174105Z
 UID:2023-06-lfa-160-sweeney-vs-begosso@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 160: Sweeney vs. Begosso
@@ -31,7 +31,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230604T220305Z
+DTSTAMP:20230609T174105Z
 UID:2023-06-lfa-161-davis-vs-siqueira@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 161: Davis vs. Siqueira
@@ -44,10 +44,51 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  9-6-0) vs. Daniel Compton (8-2-0)\nMain Card: Giovanna Canuto (4-0-0) vs
  . Hilarie Rose (6-6-0)\nMain Card: Rafael do Nascimento (8-2-0) vs. Jord
  an Winski (12-4-0)\nMain Card: Danny Silva (6-1-0) vs. Rafael Barbosa (1
- 4-5-0)\nMain Card: Gláucio Eliziário (10-7-0) vs. Solomon Renfro (10-3-0
- )\nPrelim: Alex Valentino Arteaga (4-1-0) vs. Isaac Thomson (4-1-0)\nPre
- lim: Jeffrey Craig (3-1-0) vs. Sarek Shields (4-1-0)\nPrelim: Emmanueli 
- Adzoh (3-2-0) vs. Barrington Bishop (3-0-0)\nPrelim: Daniel Park (1-0-0)
-  vs. Israel Salazar (0-0-0)
+ 4-5-0)\nMain Card: Gláucio Eliziário (10-7-0) vs. Ilyor Bakhtiyar Uulu (
+ 7-1-0)\nPrelim: Alex Valentino Arteaga (4-1-0) vs. Isaac Thomson (4-1-0)
+ \nPrelim: Jeffrey Craig (3-1-0) vs. Sarek Shields (4-1-0)\nPrelim: Emman
+ ueli Adzoh (3-2-0) vs. Barrington Bishop (3-0-0)\nPrelim: Daniel Park (1
+ -0-0) vs. Israel Salazar (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230609T174105Z
+UID:2023-07-lfa-162-prates-vs-antunes@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 162: Prates vs. Antunes
+DTSTART:20230708T010000Z
+DTEND:20230708T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102000-lfa-162-prates-vs-antunes\n\n---\n\nMain Event: Geral
+ do Neto (17-6-0) vs. Vanilto Antunes (15-6-0)\nCo-Main Event: Rose Conce
+ ição (6-0-0) vs. Elaine Lopes (6-1-0)\nMain Card: Wellington Prado (13
+ -2-0) vs. Márcio Barbosa (13-2-0)\nMain Card: Jefferson Nascimento (9-0-
+ 0) vs. Italo Gomes (12-3-0)\nMain Card: Fernanda Barbosa (8-5-0) vs. Est
+ efani Almeida (8-2-0)\nMain Card: Rafael Tobias (8-0-0) vs. Miguel Porto
+  (3-1-0)\nPrelim: Bruno Suema (13-4-0) vs. Alisson Murilo (8-1-0)\nPreli
+ m: Danilo Adreani (11-3-0) vs. Davi Costa (14-3-0)\nPrelim: Cassio Ardui
+ ni (4-0-0) vs. Renildo Monteiro (6-0-0)\nPrelim: Guilherme Uriel (3-0-0)
+  vs. Abner Rodrigues (2-1-0)\nPrelim: Nawira Ferreira (1-0-0) vs. Lany S
+ ilva (2-0-0)\nPrelim: Karla Yasnara (2-1-0) vs. Gabriela Fujimoto (2-0-0
+ )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230609T174105Z
+UID:2023-07-lfa-163-johns-vs-garcia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 163: Johns vs. Garcia
+DTSTART:20230722T010000Z
+DTEND:20230722T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102001-lfa-163-johns-vs-garcia\n\n---\n\nMain Event: Elijah 
+ Johns (9-2-0) vs. Javier Garcia (10-5-0)\nMain Card: Kevin Fernandez (5-
+ 1-0) vs. Javier Cepeda (3-0-0)\nPrelim: Zumarr Archer (2-0-0) vs. Oseyio
+ mon Oiyemhonlan (1-1-0)\nPrelim: Enrique Owens (3-1-0) vs. Angel Atoigue
+  (2-0-0)\nPrelim: Kyler Fairchild (2-1-0) vs. Alik Lorenz (2-1-0)\nPreli
+ m: Valerie Ann Marie Soto (3-3-0) vs. Kathryn Paprocki (3-3-0)\nPrelim: 
+ Ian Engbrock (2-1-0) vs. John Beckett (2-1-0)\nPrelim: J.J. Smith (2-0-0
+ ) vs. Chico Olvera (1-1-0)\nPrelim: Lundon Dibrell (2-2-1) vs. Alex Apod
+ aca (2-2-0)
 END:VEVENT
 END:VCALENDAR

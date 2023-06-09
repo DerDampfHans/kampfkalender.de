@@ -23,7 +23,7 @@
     },
     "tapology": {
       "id": 100458,
-      "time": "2023-06-10T01:00:00Z",
+      "time": "2023-06-10T02:00:00Z",
       "title": "Hollywood Fight Nights",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/100458-hollywood-fight-nights",
@@ -32,10 +32,14 @@
       ],
       "card": [
         "Main Event: Callum Walsh (6-0-0) vs. Carson Jones (43-15-3)",
-        "Main Card: Gor Yeritsyan (14-0-0) vs. Ivan Pandzic (14-2-1)",
-        "Main Card: Umar Dzambekov (4-0-0) vs. Dodzi Kemeh (24-2-0)",
         "Main Card: Israel Mercado (9-1-0) vs. Jesus Silveyra (11-7-2)",
-        "Main Card: Stefanie Cohen (3-1-1) vs. Nikkia Williams (0-0-0)"
+        "Main Card: Gor Yeritsyan (14-0-0) vs. Gustavo David Vittori (28-14-1)",
+        "Main Card: Umar Dzambekov (4-0-0) vs. Javier Andino (24-14-1)",
+        "Main Card: David Romero (3-0-1) vs. Andres Figueroa (9-5-0)",
+        "Main Card: Pablo Melgar (5-2-1) vs. Mikey Bracamontes (6-1-0)",
+        "Main Card: Stefanie Cohen (3-1-1) vs. Esli Cervantes (1-3-0)",
+        "Main Card: Gloria Munguilla (3-0-0) vs. Lilian Almaraz (0-2-0)",
+        "Main Card: Kalyl Silva (1-0-0) vs. P. Gonzalez (0-0-0)"
       ],
       "links": [
         "http://www.boxrec.com/en/event/870264"
@@ -53,15 +57,15 @@
     ],
     "mainCard": {
       "title": "Combat FC 4",
-      "time": "2023-06-16T01:00:00Z",
+      "time": "2023-06-17T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 240895,
-        "time": "2023-06-16T01:00:00Z",
-        "title": "Combat FC 4"
+        "time": "2023-06-17T00:00:00Z",
+        "title": "COMBAT FC 4"
       }
     },
     "tapology": {
@@ -78,13 +82,14 @@
         "Main Card: Aaron Trecell (3-3-0) vs. Sage Philippe (2-4-0)",
         "Main Card: Travis Demko (3-1-0) vs. Abbas Abasov (1-0-0)",
         "Main Card: Leonardo Ladeira (2-3-0) vs. Robert Wusstig (7-13-0)",
-        "Main Card: Jon Viruet (0-0-0) vs. Paul Teague (1-6-0)",
         "Main Card: Yann Oliveira (3-0-0) vs. Stephen Stengel (6-22-0)",
         "Main Card: Bekzod Abdurakhmonov (7-0-0) vs. Derik de Freitas (2-5-0)",
         "Main Card: Randy Costa (6-4-0) vs. Carlos Espinosa (6-8-0)",
         "Main Card: Mark Gardner (3-3-0) vs. Ali Zebian (9-3-0)",
         "Main Card: Jorge Vega (0-1-0) vs. Alex Davidson (1-2-0)",
         "Main Card: Bruce Richards (0-6-0) vs. Marcel Romero (0-1-0)",
+        "Main Card: Dylan Lockard (6-2-0) vs. Patrick Benson (5-6-0)",
+        "Main Card: Gerald Meuse (4-0-0) vs. Paul Teague (1-6-0)",
         "Main Card: Jarrod St. Jean (2-1-0) vs. Tristan Wood (1-0-0)",
         "Main Card: Steve Hill (1-0-0) vs. Josh Smith (1-1-0)",
         "Main Card: Sean Nichols (0-0-0) vs. Pedro Baez (0-1-0)"
@@ -92,6 +97,49 @@
       "links": [
         "http://www.sherdog.com/events/combat-fc-4-piersma-vs-lachinov-97608",
         "https://events.mixedmartialarts.com/combat-fc-4:10ac7def-52c4-48b7-a21c-9c3cef363357"
+      ]
+    }
+  },
+  {
+    "id": "tapology-100962",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "AFL 30: Aranjuez",
+      "time": "2023-06-17T19:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "264jjx628z0n1xlwpprfy8ib2",
+        "time": "2023-06-17T19:00:00Z",
+        "title": "AFL 30 - Aranjuez",
+        "sport": "MMA",
+        "competition": "Ansgar Fighting League"
+      }
+    },
+    "tapology": {
+      "id": 100962,
+      "time": "2023-06-17T22:00:00Z",
+      "title": "AFL 30: Aranjuez",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/100962-afl-30-aranjuez",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Moha Jaghdal (7-7-0) vs. David Mora (8-5-0)",
+        "Main Card: Paco Lucena (5-3-0) vs. Miguel Angel Lozano (4-0-0)",
+        "Main Card: Roberto Fernando Arrua (1-4-0) vs. David Matas (4-3-0)",
+        "Main Card: Bobby Ekata (0-1-0) vs. Nacho Campos (1-0-0)",
+        "Main Card: Jhonny Lopez (0-2-0) vs. Andre Sinarahua Carpio (0-0-0)",
+        "Main Card: Jose Aguilar (1-5-0) vs. Jesus Ela (0-0-0)",
+        "Main Card: Roger Blanque (4-5-0) vs. Daniel Saez (0-0-0)",
+        "Main Card: Jair Campos (0-4-1) vs. Javier Cabrera (3-1-0)",
+        "Main Card: Amaury Araoz (1-2-0) vs. Reinaldo Gonzalez (2-2-0)"
       ]
     }
   },

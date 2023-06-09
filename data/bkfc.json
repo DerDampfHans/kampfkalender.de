@@ -31,8 +31,12 @@
     },
     "prelims": {
       "title": "BKFC 44: Prelims",
-      "time": "2023-06-10T00:00:00Z",
+      "time": "2023-06-09T23:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=BDz_s7myjxM",
+          "free": true
+        },
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-44-prelims/2pd0r/",
           "free": true
@@ -48,6 +52,12 @@
           "BOXING",
           "MMA"
         ]
+      },
+      "youTube": {
+        "id": "BDz_s7myjxM",
+        "time": "2023-06-09T23:00:00Z",
+        "title": "BKFC 44 Free Prelims | Live!",
+        "url": "https://www.youtube.com/watch?v=BDz_s7myjxM"
       }
     },
     "tapology": {
@@ -63,9 +73,14 @@
         "Main Card: JorDan Christensen vs. Kerry Lattimer",
         "Main Card: Ryan Ibsen vs. Dakota Highpine",
         "Main Card: Sawyer Depee vs. Gabriel Mota",
-        "Main Card: Nekah Dmitriyeva vs. Cassie Robb",
+        "Main Card: Dorian Long vs. Mark Johnson",
+        "Main Card: Brady Meister vs. Connor McKenna",
         "Prelim: Leo Bercier vs. Willie Sears",
-        "Prelim: Koda Greenwood vs. Darrick Gates"
+        "Prelim: Koda Greenwood vs. Darrick Gates",
+        "Prelim: Dre Coles vs. David Loureiro"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-44:0844a4bf-6f76-4ca0-aef8-79fde2a1c7e2"
       ]
     }
   },
@@ -80,14 +95,26 @@
     ],
     "mainCard": {
       "title": "BKFC 45: Palomino vs. Lilley",
-      "time": "2023-06-24T00:00:00Z",
+      "time": "2023-06-24T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-45/2pd4r/"
         }
+      },
+      "fite": {
+        "id": "2pd4r",
+        "time": "2023-06-24T01:00:00Z",
+        "title": "BKFC 45 Hollywood: Luis Palomino vs James Lilley",
+        "url": "https://www.fite.tv/watch/bkfc-45/2pd4r/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
-      "title": "BKFC 45: Palomino vs. Lilley: Prelims",
+      "title": "BKFC 45: Prelims",
       "broadcasters": {
         "FITE_TV": {
           "free": true
@@ -109,7 +136,8 @@
         "Main Card: Bryan Duran vs. Gilberto Aguilar",
         "Main Card: Gee Perez vs. Antwion McCollough",
         "Main Card: Blake Davis vs. Quartus Stitt",
-        "Main Card: Chris Garcia vs. Robert Madrid"
+        "Main Card: Chris Garcia vs. Robert Madrid",
+        "Prelim: Mike Lee vs. Drew Nolan"
       ]
     }
   },
@@ -124,10 +152,22 @@
     ],
     "mainCard": {
       "title": "BKFC 46: Franco vs. Harris",
-      "time": "2023-07-01T20:00:00Z",
+      "time": "2023-07-02T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-46/2pd4s/"
         }
+      },
+      "fite": {
+        "id": "2pd4s",
+        "time": "2023-07-02T01:00:00Z",
+        "title": "BKFC 46 Newcastle: Rico Franco vs Kaleb Harris",
+        "url": "https://www.fite.tv/watch/bkfc-46/2pd4s/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
@@ -145,7 +185,18 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/101297-bkfc-46-franco-vs-harris",
       "card": [
-        "Main Event: Rico Franco vs. Kaleb Harris"
+        "Main Event: Rico Franco vs. Kaleb Harris",
+        "Main Card: Luke Kelly vs. Paul Cook",
+        "Main Card: Matty Hill vs. Dawid Oskar",
+        "Main Card: Robert Barry vs. Ben Bonner",
+        "Main Card: Bart Król vs. Goscha",
+        "Main Card: Karl Thompson vs. Dustin Rabiega",
+        "Main Card: Gary Fox vs. Hayden Sherriff",
+        "Main Card: Morgan Starkey vs. Patryk Sagan",
+        "Prelim: Arron Blakey vs. Krystian Nadolski"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/873503"
       ]
     }
   },

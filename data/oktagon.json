@@ -27,17 +27,17 @@
         "MMA"
       ],
       "card": [
-        "Co-Main Event: Pavol Langer (11-9-0) vs. Alexander Poppeck (16-4-0)",
-        "Co-Main Event: Christian Eckerlin (15-5-0) vs. Tato Primera (18-13-0)",
+        "Main Event: Pavol Langer (11-9-0) vs. Alexander Poppeck (16-4-0)",
+        "Co-Main Event: Bojan Veličković (22-12-2) vs. Christian Jungwirth (14-6-0)",
         "Main Card: Mohamed Grabinski (23-7-0) vs. Andreas Michailidis (14-6-0)",
-        "Main Card: Bojan Veličković (22-12-2) vs. Christian Jungwirth (14-6-0)",
-        "Main Card: Łukasz Siwiec (8-2-0) vs. John Hathaway (18-2-0)",
-        "Main Card: Ronald Paradeiser (16-8-0) vs. Andrew Fisher (19-9-1)",
         "Main Card: Rafael Xavier (11-7-0) vs. Mateusz Strzelczyk (14-13-1)",
-        "Main Card: Sofiia Bagishvili (8-3-0) vs. Jacinta Austin (4-1-0)",
-        "Main Card: Hassan Shaaban (1-1-0) vs. Tomáš Fiala (7-6-0)",
+        "Main Card: Ronald Paradeiser (16-8-0) vs. Andrew Fisher (19-9-1)",
         "Main Card: Zdenek Polivka (8-6-0) vs. Hojat Khajevand (6-3-0)",
-        "Main Card: Konrad Dyrschka (15-2-0) vs. Adrian Kępa (11-7-0)"
+        "Prelim: Antun Račić (26-11-1) vs. Nuno Costa (15-3-1)",
+        "Prelim: Łukasz Siwiec (8-2-0) vs. John Hathaway (18-2-0)",
+        "Prelim: Sofiia Bagishvili (8-3-0) vs. Jacinta Austin (4-1-0)",
+        "Prelim: Hafeni Nafuka (4-0-0) vs. Adrian Kępa (11-7-0)",
+        "Prelim: Hassan Shaaban (1-1-0) vs. Tomáš Fiala (7-6-0)"
       ]
     }
   },
@@ -48,8 +48,11 @@
       "MMA",
       "KICKBOXING"
     ],
+    "tags": [
+      "#OKTAGON45Special"
+    ],
     "mainCard": {
-      "title": "OKTAGON: Štvanice Special",
+      "title": "OKTAGON 45: Special",
       "time": "2023-07-28T16:00:00Z",
       "broadcasters": {
         "OKTAGON_TV": {
@@ -59,9 +62,16 @@
     "tapology": {
       "id": 101739,
       "time": "2023-07-28T16:00:00Z",
-      "title": "OKTAGON: Štvanice Special",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/101739-oktagon-stvanice-special"
+      "title": "OKTAGON 45: Special",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/101739-oktagon-stvanice-special",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Robert Bryczek (16-5-0) vs. Samuel Krištofič (16-5-0)",
+        "Main Card: Ole Magnor (7-7-0) vs. Václav Mikulášek (9-10-0)"
+      ]
     }
   },
   {
@@ -86,8 +96,14 @@
       "id": 101388,
       "time": "2023-07-29T16:00:00Z",
       "title": "OKTAGON 45",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/101388-oktagon-45"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/101388-oktagon-45",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Mate Sanikidze (10-2-0) vs. Losene Keita (11-0-0)"
+      ]
     }
   },
   {
@@ -137,7 +153,8 @@
         "MMA"
       ],
       "card": [
-        "Main Card: Vlasto Čepo (12-2-0) vs. Matěj Peňáz (7-1-0)"
+        "Main Card: Vlasto Čepo (12-2-0) vs. Matěj Peňáz (7-1-0)",
+        "Main Card: Miroslav Brož (16-3-1) vs. Robert Pukač (16-11-1)"
       ]
     }
   },

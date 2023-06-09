@@ -4,6 +4,41 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230506T220305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230609T174104Z
+X-KAMPFKALENDER-HASH:f7034ff6e13949ad3ca8bfc068c000c4b8d79d4a
+BEGIN:VEVENT
+DTSTAMP:20230609T174105Z
+UID:2023-07-aka-29@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 29
+DTSTART:20230708T000000Z
+DTEND:20230708T030000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-29/2pd4v/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/101933-aka-29\n\n---\n\nMa
+ in Event: Mark Kolker (8-4-0) vs. Don Doyle (4-0-0)\nMain Card: Delanie 
+ Hall (2-1-0) vs. Yoseph Morales (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230609T174105Z
+UID:2023-08-aka-30@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 30
+DTSTART:20230819T010000Z
+DTEND:20230819T040000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101934-aka-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230609T174105Z
+UID:2023-08-aka-31@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AKA 31
+DTSTART:20230827T010000Z
+DTEND:20230827T040000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/101935-aka-31
+END:VEVENT
 END:VCALENDAR

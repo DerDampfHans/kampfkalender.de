@@ -23,7 +23,7 @@
     },
     "tapology": {
       "id": 100343,
-      "time": "2023-06-09T23:00:00Z",
+      "time": "2023-06-10T00:00:00Z",
       "title": "ONE Fight Night 11: Eersel vs. Menshikov",
       "titleAlt": "ONE on Prime Video 11",
       "info": "Confirmed Upcoming Combat Sports Event",
@@ -39,6 +39,11 @@
         "Main Card: Martine Michieletto vs. Amber Kitchen",
         "Main Card: Yong Hu (10-4-0) vs. Sung Hoon Woo (10-3-0)",
         "Main Card: Rade Opačić vs. Guto Inocente"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/one-championship-one-on-prime-video-11-eersel-vs-menshikov-97678",
+        "https://events.mixedmartialarts.com/one-fight-night-11:4d6468d6-ab51-4f16-8850-3f525456af5a",
+        "https://www.onefc.com/events/onefightnight11/"
       ]
     }
   },
@@ -84,7 +89,7 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "ONE Fight Night 12: Kai vs. Le 2",
+      "title": "ONE Fight Night 12: Kryklia vs. Xhaja",
       "time": "2023-07-15T00:00:00Z",
       "broadcasters": {
         "YOUTUBE": {
@@ -95,14 +100,48 @@
     "tapology": {
       "id": 100718,
       "time": "2023-07-15T00:00:00Z",
-      "title": "ONE Fight Night 12: Kai vs. Le 2",
-      "info": "Confirmed Upcoming MMA Event",
+      "title": "ONE Fight Night 12: Kryklia vs. Xhaja",
+      "info": "Confirmed Upcoming Combat Sports Event",
       "url": "https://www.tapology.com/fightcenter/events/100718-one-fight-night-12-kai-vs-le-2",
+      "card": [
+        "Main Event: Roman Kryklya vs. Francesco Xhaja",
+        "Co-Main Event: Garry Tonon (7-1-0) vs. Shamil Gasanov (13-0-0)",
+        "Main Card: Elias Mahmoudi vs. Tagir Khalilov",
+        "Main Card: Wei Xie (17-5-0) vs. Yuya Wakamatsu (15-6-0)",
+        "Main Card: Walter Goncalves (0-0-0) vs. Duoji Banma (14-2-0)",
+        "Main Card: Tammi Musumeci vs. Amanda Alequin"
+      ]
+    }
+  },
+  {
+    "id": "tapology-101963",
+    "promotion": "ONE",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "ONE Fight Night 13: Allazov vs. Grigorian",
+      "time": "2023-08-06T00:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 101963,
+      "time": "2023-08-06T00:00:00Z",
+      "title": "ONE Fight Night 13: Allazov vs. Grigorian",
+      "info": "Confirmed Upcoming MMA & Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/101963-one-fight-night-13-allazov-vs-grigorian",
       "sports": [
-        "MMA"
+        "MMA",
+        "KICKBOXING"
       ],
       "card": [
-        "Main Event: Kai Tang (15-2-0) vs. Thanh Le (13-3-0)"
+        "Main Event: Chingiz Allazov vs. Marat Grigorian",
+        "Co-Main Event: Marcus Buchecha (4-0-0) vs. Oumar Kane (5-1-0)"
       ]
     }
   }

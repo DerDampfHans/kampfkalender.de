@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230602T083945Z
-X-KAMPFKALENDER-HASH:3ce858cb61c90fa3efca1ddb9b5dffeb66baf711
+DTSTAMP:20230609T174104Z
+X-KAMPFKALENDER-HASH:9face3cd63e699434fff3dcb711b82057600d16a
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-06-cage-warriors-155-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 155: San Diego
@@ -30,20 +30,37 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ontalvo (0-0-0)\nPrelim: Jon Saragih (1-0-0) vs. Johnny Gill (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
-UID:2023-07-cage-warriors-156@kampfkalender.de
+DTSTAMP:20230609T174105Z
+UID:2023-07-cage-warriors-156-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors 156
-DTSTART:20230701T150000Z
-DTEND:20230701T180000Z
+SUMMARY:Cage Warriors 156: Prelims
+DTSTART:20230701T080000Z
+DTEND:20230701T183000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/101043-cage-warriors-156\n\n---\n\nMain Card: Matthew Bonner
   (14-8-1) vs. Darren Stewart (14-9-0)\nMain Card: Rory Evans (5-4-0) vs.
-  Jack Eglin (3-2-0)
+  Jack Eglin (3-2-0)\nMain Card: Ieuan Davies (3-0-0) vs. El Hadji Ndiaye
+  (4-2-0)\nMain Card: Andy Clamp (11-2-0) vs. Ghassan Abdenabi (4-0-0)\nM
+ ain Card: Jimmy Quinn (0-0-0) vs. Dan Kneil (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
+UID:2023-07-cage-warriors-156@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 156
+DTSTART:20230701T183000Z
+DTEND:20230701T213000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101043-cage-warriors-156\n\n---\n\nMain Card: Matthew Bonner
+  (14-8-1) vs. Darren Stewart (14-9-0)\nMain Card: Rory Evans (5-4-0) vs.
+  Jack Eglin (3-2-0)\nMain Card: Ieuan Davies (3-0-0) vs. El Hadji Ndiaye
+  (4-2-0)\nMain Card: Andy Clamp (11-2-0) vs. Ghassan Abdenabi (4-0-0)\nM
+ ain Card: Jimmy Quinn (0-0-0) vs. Dan Kneil (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230609T174105Z
 UID:2023-07-cage-warriors-157-stanton-vs-webb-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 157: Stanton vs Webb 2
@@ -53,10 +70,12 @@ CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99929-cage-warriors-london\n\n---\n\nMain Event: Mick Stanto
  n (11-7-0) vs. James Webb (9-4-1)\nMain Card: Morgan Charriere (17-9-1) 
- vs. Diego Silva (15-8-0)
+ vs. Diego Silva (15-8-0)\nMain Card: Daniel Skibiński (19-8-0) vs. Madar
+ s Fleminas (11-4-0)\nMain Card: Omiel Brown (5-2-0) vs. Jesse Urholin (8
+ -1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-07-cage-warriors-rome@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Rome
@@ -68,7 +87,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (15-5-0) vs. Michele Martignoni (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-09-cage-warriors-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: San Diego
@@ -79,7 +98,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99931-cage-warriors-san-diego
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-09-cage-warriors-manchester@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Manchester
@@ -90,7 +109,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99932-cage-warriors-manchester
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-10-cage-warriors-rome@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Rome
@@ -101,7 +120,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99933-cage-warriors-rome
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-11-cage-warriors-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: London
@@ -112,7 +131,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99934-cage-warriors
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-11-cage-warriors-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: Dublin
@@ -123,7 +142,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99935-cage-warriors-dublin
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230602T083947Z
+DTSTAMP:20230609T174105Z
 UID:2023-12-cage-warriors-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: San Diego

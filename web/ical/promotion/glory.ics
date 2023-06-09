@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230603T220305Z
-X-KAMPFKALENDER-HASH:58752e35a096b5a29dbd10fe841477ac0f19c070
+DTSTAMP:20230609T174104Z
+X-KAMPFKALENDER-HASH:dae78fc25c659e965244988648574a500e8f02aa
 BEGIN:VEVENT
-DTSTAMP:20230603T220305Z
+DTSTAMP:20230609T174105Z
 UID:2023-06-glory-collision-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY COLLISION 5
@@ -19,8 +19,20 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  . Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Tarik Khbabez\nMain
   Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: Endy Semeleer vs.
   Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokeme\nMain Card: F
- elipe Micheletti vs. Ibrahim El Bouni\nMain Card: Diaguely Camara vs. Ed
- uard Gafencu\nMain Card: Nabil Khachab vs. Vladimir Toktasynov\nMain Car
+ elipe Micheletti vs. Ibrahim El Bouni\nMain Card: Nabil Khachab vs. Vlad
+ imir Toktasynov\nMain Card: Diaguely Camara vs. Eduard Gafencu\nMain Car
  d: Andrei Kedves vs. Mareks Pelcis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230609T174105Z
+UID:2023-09-glory-88@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 88
+DTSTART:20230909T040000Z
+DTEND:20230909T070000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/102062-glory-88\n\n---\n\nMain Card: Badr Hari vs
+ . James McSweeney
 END:VEVENT
 END:VCALENDAR
