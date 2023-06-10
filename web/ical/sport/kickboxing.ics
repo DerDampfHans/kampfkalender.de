@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230609T174104Z
-X-KAMPFKALENDER-HASH:e2cfb86971d669bfe222877cafbfb62fbd7c8a51
+DTSTAMP:20230610T130504Z
+X-KAMPFKALENDER-HASH:d5a7fbc257fa6bfecb692850a51627ad6fc82241
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-06-hannover-fight-championship@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hannover Fight Championship
@@ -19,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  ://www.hfc-fight.de/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-06-one-fight-night-11-eersel-vs-menshikov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 11: Eersel vs. Menshikov
@@ -33,15 +33,34 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9ccANod0pSE\n\n-
  ht-night-11:4d6468d6-ab51-4f16-8850-3f525456af5a\nhttps://www.onefc.com/
  events/onefightnight11/\n\n---\n\nMain Event: Regian Eersel vs. Dmitry M
  enshikov\nCo-Main Event: Kade Ruotolo vs. Tommy Langaker\nMain Card: Ily
- a Freymanov (11-2-0) vs. S. Zoltsetseg (6-3-0)\nMain Card: Superbon Sing
- ha Mawynn vs. Tayfun Özcan\nMain Card: Mansur Malachiev (10-0-0) vs. Jer
- emy Miado (10-4-0)\nMain Card: Nieky Holzken vs. Arian Sadiković\nMain C
- ard: Artem Belakh (10-2-0) vs. Won Il Kwon (12-4-0)\nMain Card: Martine 
- Michieletto vs. Amber Kitchen\nMain Card: Yong Hu (10-4-0) vs. Sung Hoon
-  Woo (10-3-0)\nMain Card: Rade Opačić vs. Guto Inocente
+ a Freymanov vs. S. Zoltsetseg\nMain Card: Superbon Singha Mawynn vs. Tay
+ fun Özcan\nMain Card: Mansur Malachiev vs. Jeremy Miado\nMain Card: Aria
+ n Sadiković vs. Nieky Holzken\nMain Card: Won Il Kwon vs. Artem Belakh\n
+ Main Card: Martine Michieletto vs. Amber Kitchen\nMain Card: Yong Hu vs.
+  Sung Hoon Woo\nMain Card: Rade Opačić vs. Guto Inocente
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
+UID:2023-06-the-chosen-5-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Chosen 5: Prelims
+DTSTART:20230610T133000Z
+DTEND:20230611T173000Z
+CATEGORIES:Other,Kickboxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GlmV0a5KnaU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230610T130505Z
+UID:2023-06-the-chosen-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Chosen 5
+DTSTART:20230611T173000Z
+DTEND:20230611T203000Z
+CATEGORIES:Other,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9rK_2OntP2Q
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230610T130505Z
 UID:2023-06-glory-collision-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY COLLISION 5
@@ -58,7 +77,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  d: Andrei Kedves vs. Mareks Pelcis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -69,7 +88,7 @@ DESCRIPTION:via gmc.tv: https://german-mma.de/stream/RBp1QoafO3hALqzlDo2_
  ZA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-06-oktagon-44-langer-vs-poppeck@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44: Langer vs Poppeck
@@ -90,7 +109,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ala (7-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-06-rizin-43@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 43
@@ -115,7 +134,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-43/2pd6f/\n\n---
   Furukawa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-07-oktagon-45-special@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 45: Special
@@ -128,7 +147,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ) vs. Václav Mikulášek (9-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-07-oktagon-45@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 45
@@ -140,7 +159,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  vs. Losene Keita (11-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
@@ -153,7 +172,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0-0) vs. Oumar Kane (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-09-glory-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 88
@@ -165,7 +184,7 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  . James McSweeney
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -176,7 +195,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174106Z
+DTSTAMP:20230610T130505Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON

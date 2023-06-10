@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230609T174104Z
-X-KAMPFKALENDER-HASH:cc74c3551e4d2227427b8c889c54b207139e4993
+DTSTAMP:20230610T130504Z
+X-KAMPFKALENDER-HASH:b4630ee7ed59923f788bd2e5501e704672fd226b
 BEGIN:VEVENT
-DTSTAMP:20230609T174105Z
+DTSTAMP:20230610T130504Z
 UID:2023-06-hannover-fight-championship@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hannover Fight Championship
@@ -19,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  ://www.hfc-fight.de/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174105Z
+DTSTAMP:20230610T130504Z
 UID:2023-06-shields-vs-cornejo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Shields vs. Cornejo
@@ -39,7 +39,7 @@ DESCRIPTION:via DAZN\nvia fite.tv: https://www.fite.tv/watch/shields-vs-c
  8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174105Z
+DTSTAMP:20230610T130504Z
 UID:2023-06-walsh-vs-jones@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Jones
@@ -48,18 +48,35 @@ DTEND:20230610T050000Z
 CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100458-hollywood-fight-nights\nhttp://www.boxrec.com/en/even
- t/870264\n\n---\n\nMain Event: Callum Walsh (6-0-0) vs. Carson Jones (43
- -15-3)\nMain Card: Israel Mercado (9-1-0) vs. Jesus Silveyra (11-7-2)\nM
- ain Card: Gor Yeritsyan (14-0-0) vs. Gustavo David Vittori (28-14-1)\nMa
- in Card: Umar Dzambekov (4-0-0) vs. Javier Andino (24-14-1)\nMain Card: 
- David Romero (3-0-1) vs. Andres Figueroa (9-5-0)\nMain Card: Pablo Melga
- r (5-2-1) vs. Mikey Bracamontes (6-1-0)\nMain Card: Stefanie Cohen (3-1-
- 1) vs. Esli Cervantes (1-3-0)\nMain Card: Gloria Munguilla (3-0-0) vs. L
- ilian Almaraz (0-2-0)\nMain Card: Kalyl Silva (1-0-0) vs. P. Gonzalez (0
- -0-0)
+ t/870264\n\n---\n\nMain Event: Callum Walsh vs. Carson Jones\nMain Card:
+  Israel Mercado vs. Jesus Silveyra\nMain Card: Gor Yeritsyan vs. Gustavo
+  David Vittori\nMain Card: Umar Dzambekov vs. Javier Andino\nMain Card: 
+ David Romero vs. Andres Figueroa\nMain Card: Mikey Bracamontes vs. Pablo
+  Melgar\nMain Card: Stefanie Cohen vs. Esli Cervantes\nMain Card: Gloria
+  Munguilla vs. Lilian Almaraz\nMain Card: Kalyl Silva vs. P. Gonzalez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174105Z
+DTSTAMP:20230610T130504Z
+UID:2023-06-the-chosen-5-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Chosen 5: Prelims
+DTSTART:20230610T133000Z
+DTEND:20230611T173000Z
+CATEGORIES:Other,Kickboxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GlmV0a5KnaU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230610T130504Z
+UID:2023-06-the-chosen-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:The Chosen 5
+DTSTART:20230611T173000Z
+DTEND:20230611T203000Z
+CATEGORIES:Other,Kickboxen,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9rK_2OntP2Q
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230610T130504Z
 UID:2023-06-combat-fc-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 4
@@ -85,7 +102,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Baez (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174105Z
+DTSTAMP:20230610T130504Z
 UID:2023-06-afl-30-aranjuez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AFL 30: Aranjuez
@@ -104,7 +121,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T174105Z
+DTSTAMP:20230610T130504Z
 UID:2023-06-ufc-fight-pass-invitational-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 4
