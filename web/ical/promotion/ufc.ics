@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230611T220307Z
-X-KAMPFKALENDER-HASH:a2700f550500d794fbf31c582840c4f6ce73f1b6
+DTSTAMP:20230613T114911Z
+X-KAMPFKALENDER-HASH:ed8bbcdfcc24863dc6b7b97abfb7db6a6a4160b1
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-ufc-289-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 289: Early Prelims
@@ -32,7 +32,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Oliveira (13-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-ufc-289-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 289: Prelims
@@ -57,7 +57,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Oliveira (13-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-ufc-289-nunes-vs-aldana@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 289: Nunes vs. Aldana
@@ -82,7 +82,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Maria Oliveira (13-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-ufc-vegas-75-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 75: Prelims
@@ -90,22 +90,28 @@ DTSTART:20230617T220000Z
 DTEND:20230618T020000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/99705-ufc-fight-night\n\n---\n\nMain Event: Marvin Vettori (
- 19-5-1) vs. Jared Cannonier (16-6-0)\nCo-Main Event: Arman Tsarukyan (19
- -3-0) vs. Joaquim Silva (12-3-0)\nMain Card: Muslim Salikhov (19-3-0) vs
- . Nicolas Dalby (21-4-1)\nMain Card: Nikolas Motta (13-4-0) vs. Manuel T
- orres (13-2-0)\nMain Card: Christian Leroy Duncan (8-0-0) vs. Armen Petr
- osyan (7-2-0)\nMain Card: Pat Sabatini (17-4-0) vs. Lucas Almeida (14-1-
- 0)\nPrelim: Jimmy Flick (16-6-0) vs. Alessandro Costa (12-3-0)\nPrelim: 
- Tereza Bledá (6-1-0) vs. Gabriella Fernandes (8-2-0)\nPrelim: Modestas B
- ukauskas (14-5-0) vs. Zac Pauga (6-1-0)\nPrelim: Raoni Barcelos (17-4-0)
-  vs. Miles Johns (13-2-0)\nPrelim: Carlos Hernandez (8-2-0) vs. Denys Bo
- ndar (16-4-0)\nPrelim: Ronnie Lawrence (8-2-0) vs. Daniel Argueta (9-1-0
- )\nPrelim: Kyung Ho Kang (18-9-0) vs. Cristian Quiñonez (18-3-0)\nPrelim
- : Felipe Bunes (13-6-0) vs. Zhalgas Zhumagulov (14-8-0)
+ nter/events/99705-ufc-fight-night\nhttp://www.sherdog.com/events/ufc-on-
+ espn-47-vettori-vs-cannonier-97116\nhttp://en.wikipedia.org/wiki/UFC_on_
+ ESPN:_Vettori_vs._Cannonier\nhttps://events.mixedmartialarts.com/ufc-fig
+ ht-night:3acfd8e3-b2be-48a8-8359-289bb5b89a37\nhttps://www.ufc.com/event
+ /ufc-fight-night-june-17-2023\nhttp://www.ufcstats.com/event-details/b94
+ 15726dc3ec526\nhttps://www.bestfightodds.com/events/ufc-fight-night-227-
+ 2849\n\n---\n\nMain Event: Marvin Vettori (19-5-1) vs. Jared Cannonier (
+ 16-6-0)\nCo-Main Event: Arman Tsarukyan (19-3-0) vs. Joaquim Silva (12-3
+ -0)\nMain Card: Christian Leroy Duncan (8-0-0) vs. Armen Petrosyan (7-2-
+ 0)\nMain Card: Pat Sabatini (17-4-0) vs. Lucas Almeida (14-1-0)\nMain Ca
+ rd: Nikolas Motta (13-4-0) vs. Manuel Torres (13-2-0)\nMain Card: Muslim
+  Salikhov (19-3-0) vs. Nicolas Dalby (21-4-1)\nPrelim: Raoni Barcelos (1
+ 7-4-0) vs. Miles Johns (13-2-0)\nPrelim: Jimmy Flick (16-6-0) vs. Alessa
+ ndro Costa (12-3-0)\nPrelim: Kyung Ho Kang (18-9-0) vs. Cristian Quiñone
+ z (18-3-0)\nPrelim: Carlos Hernandez (8-2-0) vs. Denys Bondar (16-4-0)\n
+ Prelim: Felipe Bunes (13-6-0) vs. Zhalgas Zhumagulov (14-8-0)\nPrelim: T
+ ereza Bledá (6-1-0) vs. Gabriella Fernandes (8-2-0)\nPrelim: Ronnie Lawr
+ ence (8-2-0) vs. Daniel Argueta (9-1-0)\nPrelim: Modestas Bukauskas (14-
+ 5-0) vs. Zac Pauga (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-ufc-vegas-75-vettori-vs-cannonier@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 75: Vettori vs. Cannonier
@@ -113,22 +119,28 @@ DTSTART:20230618T020000Z
 DTEND:20230618T050000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/99705-ufc-fight-night\n\n---\n\nMain Event: Marvin
-  Vettori (19-5-1) vs. Jared Cannonier (16-6-0)\nCo-Main Event: Arman Tsa
- rukyan (19-3-0) vs. Joaquim Silva (12-3-0)\nMain Card: Muslim Salikhov (
- 19-3-0) vs. Nicolas Dalby (21-4-1)\nMain Card: Nikolas Motta (13-4-0) vs
- . Manuel Torres (13-2-0)\nMain Card: Christian Leroy Duncan (8-0-0) vs. 
- Armen Petrosyan (7-2-0)\nMain Card: Pat Sabatini (17-4-0) vs. Lucas Alme
- ida (14-1-0)\nPrelim: Jimmy Flick (16-6-0) vs. Alessandro Costa (12-3-0)
- \nPrelim: Tereza Bledá (6-1-0) vs. Gabriella Fernandes (8-2-0)\nPrelim: 
- Modestas Bukauskas (14-5-0) vs. Zac Pauga (6-1-0)\nPrelim: Raoni Barcelo
- s (17-4-0) vs. Miles Johns (13-2-0)\nPrelim: Carlos Hernandez (8-2-0) vs
- . Denys Bondar (16-4-0)\nPrelim: Ronnie Lawrence (8-2-0) vs. Daniel Argu
- eta (9-1-0)\nPrelim: Kyung Ho Kang (18-9-0) vs. Cristian Quiñonez (18-3-
- 0)\nPrelim: Felipe Bunes (13-6-0) vs. Zhalgas Zhumagulov (14-8-0)
+ om/fightcenter/events/99705-ufc-fight-night\nhttp://www.sherdog.com/even
+ ts/ufc-on-espn-47-vettori-vs-cannonier-97116\nhttp://en.wikipedia.org/wi
+ ki/UFC_on_ESPN:_Vettori_vs._Cannonier\nhttps://events.mixedmartialarts.c
+ om/ufc-fight-night:3acfd8e3-b2be-48a8-8359-289bb5b89a37\nhttps://www.ufc
+ .com/event/ufc-fight-night-june-17-2023\nhttp://www.ufcstats.com/event-d
+ etails/b9415726dc3ec526\nhttps://www.bestfightodds.com/events/ufc-fight-
+ night-227-2849\n\n---\n\nMain Event: Marvin Vettori (19-5-1) vs. Jared C
+ annonier (16-6-0)\nCo-Main Event: Arman Tsarukyan (19-3-0) vs. Joaquim S
+ ilva (12-3-0)\nMain Card: Christian Leroy Duncan (8-0-0) vs. Armen Petro
+ syan (7-2-0)\nMain Card: Pat Sabatini (17-4-0) vs. Lucas Almeida (14-1-0
+ )\nMain Card: Nikolas Motta (13-4-0) vs. Manuel Torres (13-2-0)\nMain Ca
+ rd: Muslim Salikhov (19-3-0) vs. Nicolas Dalby (21-4-1)\nPrelim: Raoni B
+ arcelos (17-4-0) vs. Miles Johns (13-2-0)\nPrelim: Jimmy Flick (16-6-0) 
+ vs. Alessandro Costa (12-3-0)\nPrelim: Kyung Ho Kang (18-9-0) vs. Cristi
+ an Quiñonez (18-3-0)\nPrelim: Carlos Hernandez (8-2-0) vs. Denys Bondar 
+ (16-4-0)\nPrelim: Felipe Bunes (13-6-0) vs. Zhalgas Zhumagulov (14-8-0)\
+ nPrelim: Tereza Bledá (6-1-0) vs. Gabriella Fernandes (8-2-0)\nPrelim: R
+ onnie Lawrence (8-2-0) vs. Daniel Argueta (9-1-0)\nPrelim: Modestas Buka
+ uskas (14-5-0) vs. Zac Pauga (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-ufc-jacksonville-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Jacksonville: Prelims
@@ -150,7 +162,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -6-0) vs. Jack Jenkins (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-ufc-jacksonville-emmett-vs-topuria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Jacksonville: Emmett vs. Topuria
@@ -172,7 +184,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Emmers (19-6-0) vs. Jack Jenkins (11-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-ufc-vegas-76-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 76: Prelims
@@ -193,7 +205,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  fim (19-3-0)\nPrelim: Yana Santos (14-7-0) vs. Macy Chiasson (8-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-ufc-vegas-76-strickland-vs-magomedov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 76: Strickland vs. Magomedov
@@ -215,7 +227,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  8-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-ufc-290-volkanovski-vs-rodriguez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 290: Volkanovski vs. Rodriguez
@@ -237,7 +249,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  \nPrelim: Jimmy Crute (12-3-1) vs. Alonzo Menifield (13-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -259,7 +271,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   (9-2-0) vs. Melquizael Costa (19-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-ufc-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC London
@@ -282,7 +294,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  vs. Shauna Bannon (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-ufc-291-poirier-vs-gaethje-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 291: Poirier vs. Gaethje 2
@@ -304,7 +316,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  o (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-08-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -323,7 +335,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  des (14-4-0) vs. Ľudovít Klein (19-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-08-ufc-fight-night-luque-vs-dos-anjos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Luque vs. Dos Anjos
@@ -341,7 +353,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s. Jamie Pickett (13-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-08-ufc-292-sterling-vs-o-malley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 292: Sterling vs. O'Malley
@@ -359,7 +371,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  roz (11-4-0) vs. Karine Silva (16-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-08-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -371,7 +383,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  amura (7-0-0) vs. Fernie Garcia (10-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-09-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -382,7 +394,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/102007-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-09-ufc-293@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 293
@@ -394,7 +406,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  1-5-0) vs. Casey O'Neill (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-09-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -406,7 +418,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  dinez (10-3-0) vs. Sam Hughes (8-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-09-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -417,7 +429,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101865-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-10-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -428,7 +440,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101866-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-10-ufc-294@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 294
@@ -439,7 +451,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/99416-ufc-294
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-11-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -451,7 +463,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s Blaydes (17-4-0) vs. Jailton Almeida (19-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-11-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -462,7 +474,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101867-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230611T220309Z
+DTSTAMP:20230613T114912Z
 UID:2023-12-ufc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC

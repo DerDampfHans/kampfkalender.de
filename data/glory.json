@@ -1,5 +1,26 @@
 [
   {
+    "id": "glory-2023-06-16",
+    "promo": true,
+    "promotion": "GLORY",
+    "tags": [
+      "#COLLISION5"
+    ],
+    "mainCard": {
+      "title": "GLORY COLLISION 5: Weigh Ins",
+      "time": "2023-06-16T10:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=UUO1ZocTYIo",
+          "free": true
+        }
+      },
+      "youTube": {
+        "id": "UUO1ZocTYIo"
+      }
+    }
+  },
+  {
     "id": "tapology-101100",
     "promotion": "GLORY",
     "sports": [
@@ -10,7 +31,7 @@
     ],
     "mainCard": {
       "title": "GLORY COLLISION 5",
-      "time": "2023-06-17T06:00:00Z",
+      "time": "2023-06-17T18:00:00Z",
       "broadcasters": {
         "GLORY_TV": {
         }
@@ -20,10 +41,14 @@
       "title": "GLORY COLLISION 5: Prelims",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=XLshOHgCDBQ",
           "free": true
         },
         "GLORY_TV": {
         }
+      },
+      "youTube": {
+        "id": "XLshOHgCDBQ"
       }
     },
     "tapology": {

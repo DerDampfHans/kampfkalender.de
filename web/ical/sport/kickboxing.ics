@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230610T220305Z
-X-KAMPFKALENDER-HASH:26f344c5b002edf3ea9db95905ffeab8ebb324d8
+DTSTAMP:20230613T114911Z
+X-KAMPFKALENDER-HASH:0d1c5ff6f25b2d4557bd15c77e6ec27700f43647
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-one-fight-night-11-eersel-vs-menshikov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 11: Eersel vs. Menshikov
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9ccANod0pSE\n\n-
   Sung Hoon Woo\nMain Card: Rade Opačić vs. Guto Inocente
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-the-chosen-5-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen 5: Prelims
@@ -39,7 +39,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GlmV0a5KnaU\n\n-
  --\n\nhttps://fighting.de/events/the-chosen-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-the-chosen-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen 5
@@ -50,24 +50,7 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9rK_2OntP2Q\
  n\n---\n\nhttps://fighting.de/events/the-chosen-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
-UID:2023-06-glory-collision-5@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:GLORY COLLISION 5
-DTSTART:20230617T060000Z
-DTEND:20230617T090000Z
-CATEGORIES:Glory,Kickboxen,glory.tv,live
-DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
- vents/101100-glory-collision-5\n\n---\n\nMain Event: Antonio Plazibat vs
- . Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Tarik Khbabez\nMain
-  Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: Endy Semeleer vs.
-  Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokeme\nMain Card: F
- elipe Micheletti vs. Ibrahim El Bouni\nMain Card: Nabil Khachab vs. Vlad
- imir Toktasynov\nMain Card: Diaguely Camara vs. Eduard Gafencu\nMain Car
- d: Andrei Kedves vs. Mareks Pelcis
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -78,7 +61,7 @@ DESCRIPTION:via gmc.tv: https://german-mma.de/stream/RBp1QoafO3hALqzlDo2_
  ZA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-06-oktagon-44-langer-vs-poppeck@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 44: Langer vs Poppeck
@@ -99,7 +82,24 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ala (7-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
+UID:2023-06-glory-collision-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY COLLISION 5
+DTSTART:20230617T180000Z
+DTEND:20230617T210000Z
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/101100-glory-collision-5\n\n---\n\nMain Event: Antonio Plazibat vs
+ . Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Tarik Khbabez\nMain
+  Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: Endy Semeleer vs.
+  Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokeme\nMain Card: F
+ elipe Micheletti vs. Ibrahim El Bouni\nMain Card: Nabil Khachab vs. Vlad
+ imir Toktasynov\nMain Card: Diaguely Camara vs. Eduard Gafencu\nMain Car
+ d: Andrei Kedves vs. Mareks Pelcis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230613T114912Z
 UID:2023-06-rizin-43@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 43
@@ -124,7 +124,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-43/2pd6f/\n\n---
   Furukawa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-oktagon-45-special@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 45: Special
@@ -134,10 +134,11 @@ CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/101739-oktagon-stvanice-special\n\n---\n\nMain Card: Robert Bryc
  zek (16-5-0) vs. Samuel Krištofič (16-5-0)\nMain Card: Ole Magnor (7-7-0
- ) vs. Václav Mikulášek (9-10-0)
+ ) vs. Václav Mikulášek (9-10-0)\nMain Card: Vladimír Lengál (5-2-0) vs. 
+ Michael Deiga-Scheck (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-07-oktagon-45@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 45
@@ -149,7 +150,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  vs. Losene Keita (11-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
@@ -162,7 +163,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0-0) vs. Oumar Kane (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-09-glory-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 88
@@ -174,7 +175,7 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  . James McSweeney
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -185,7 +186,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230613T114912Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
