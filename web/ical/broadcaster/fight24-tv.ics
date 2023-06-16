@@ -4,10 +4,103 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230610T220305Z
-X-KAMPFKALENDER-HASH:78f9613bb2ef1e76880201471b61694bb398fdad
+DTSTAMP:20230616T131433Z
+X-KAMPFKALENDER-HASH:c91336d0b2661b99c6cfdb92750c05616eaef4c1
 BEGIN:VEVENT
-DTSTAMP:20230610T220305Z
+DTSTAMP:20230616T131434Z
+UID:2023-06-enfusion-rookies@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Rookies
+DTSTART:20230617T120000Z
+DTEND:20230617T150000Z
+CATEGORIES:Enfusion,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Hkz8QULiRxk\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-enfusion-rookies
+ -groningen-610
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-champions-fight-night-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Champions Fight Night: Prelims
+DTSTART:20230617T140000Z
+DTEND:20230617T170000Z
+CATEGORIES:Other,MMA,Muay Thai,Kickboxen,YouTube,fight24.tv,live,kostenlo
+ s
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=78i3WpZg5pQ\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-9-champions-figh
+ t-night-611
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-phoenix-fc-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Phoenix FC 2
+DTSTART:20230617T160000Z
+DTEND:20230617T190000Z
+CATEGORIES:Other,MMA,Muay Thai,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=62qR_mxkcsg\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-phoenix-fc-2-609
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-gladiators-night-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiators Night 5
+DTSTART:20230617T163000Z
+DTEND:20230617T193000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BPsijbHl_M8\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-gladiators-night
+ -5-613
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-zogaj-vs-valentino@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zogaj vs. Valentino
+DTSTART:20230617T163000Z
+DTEND:20230617T193000Z
+CATEGORIES:BDB,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OeVN3K0M2xk\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-boxnacht-stuttga
+ rt-612\n\n---\n\nhttps://www.tapology.com/fightcenter/events/102162-zoga
+ j-vs-valentino\nhttp://www.boxrec.com/en/event/874011\n\n---\n\nMain Eve
+ nt: Altin Zogaj (11-0-0) vs. Riccardo Valentino (5-1-0)\nMain Card: Anth
+ ony Zaulig (8-0-0) vs. Mario Katic (2-11-0)\nMain Card: Umar Tsomaev (7-
+ 0-0) vs. Mirnes Denadic (15-23-3)\nMain Card: Drilon Rama (0-0-0) vs. Mi
+ chael Klempert (6-50-4)\nMain Card: Benedikt Volland (2-0-0) vs. Richard
+  Walter (9-29-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-champions-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Champions Fight Night
+DTSTART:20230617T170000Z
+DTEND:20230617T200000Z
+CATEGORIES:Other,MMA,Muay Thai,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=C7mSxb60pnA\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-9-champions-figh
+ t-night-611
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-07-gualtieri-vs-falcao@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gualtieri vs. Falcao
+DTSTART:20230701T160000Z
+DTEND:20230701T190000Z
+CATEGORIES:ASE,Boxen,fight24.tv,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gu
+ altieri-vs-falcao-614\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/102178-gualtieri-vs-falcao\nhttp://www.boxrec.com/en/event/873108\n\
+ n---\n\nMain Event: Vincenzo Gualtieri (20-0-1) vs. Esquiva Falcão (30-0
+ -0)\nCo-Main Event: Julio Alamos (16-0-0) vs. Etinosa Oliha (17-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
 UID:2023-07-hfc-42@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:HFC 42

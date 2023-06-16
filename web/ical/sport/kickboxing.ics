@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230613T114911Z
-X-KAMPFKALENDER-HASH:0d1c5ff6f25b2d4557bd15c77e6ec27700f43647
+DTSTAMP:20230616T131433Z
+X-KAMPFKALENDER-HASH:f3242b96dab347b78d1d927a301b637c184a69a1
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-one-fight-night-11-eersel-vs-menshikov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 11: Eersel vs. Menshikov
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9ccANod0pSE\n\n-
   Sung Hoon Woo\nMain Card: Rade Opačić vs. Guto Inocente
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-the-chosen-5-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen 5: Prelims
@@ -39,7 +39,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GlmV0a5KnaU\n\n-
  --\n\nhttps://fighting.de/events/the-chosen-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-the-chosen-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen 5
@@ -50,7 +50,32 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=9rK_2OntP2Q\
  n\n---\n\nhttps://fighting.de/events/the-chosen-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
+UID:2023-06-enfusion-rookies@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Rookies
+DTSTART:20230617T120000Z
+DTEND:20230617T150000Z
+CATEGORIES:Enfusion,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Hkz8QULiRxk\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-enfusion-rookies
+ -groningen-610
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-champions-fight-night-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Champions Fight Night: Prelims
+DTSTART:20230617T140000Z
+DTEND:20230617T170000Z
+CATEGORIES:Other,MMA,Muay Thai,Kickboxen,YouTube,fight24.tv,live,kostenlo
+ s
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=78i3WpZg5pQ\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-9-champions-figh
+ t-night-611
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -61,28 +86,71 @@ DESCRIPTION:via gmc.tv: https://german-mma.de/stream/RBp1QoafO3hALqzlDo2_
  ZA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-oktagon-44-langer-vs-poppeck@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:OKTAGON 44: Langer vs Poppeck
+SUMMARY:OKTAGON 44: Langer vs. Poppeck
 DTSTART:20230617T160000Z
 DTEND:20230617T190000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/96834-oktagon-44\n\n---\n\nMain Event: Pavol Langer (11-9-0) vs.
-  Alexander Poppeck (16-4-0)\nCo-Main Event: Bojan Veličković (22-12-2) v
- s. Christian Jungwirth (14-6-0)\nMain Card: Mohamed Grabinski (23-7-0) v
- s. Andreas Michailidis (14-6-0)\nMain Card: Rafael Xavier (11-7-0) vs. M
- ateusz Strzelczyk (14-13-1)\nMain Card: Ronald Paradeiser (16-8-0) vs. A
- ndrew Fisher (19-9-1)\nMain Card: Zdenek Polivka (8-6-0) vs. Hojat Khaje
- vand (6-3-0)\nPrelim: Antun Račić (26-11-1) vs. Nuno Costa (15-3-1)\nPre
- lim: Łukasz Siwiec (8-2-0) vs. John Hathaway (18-2-0)\nPrelim: Sofiia Ba
- gishvili (8-3-0) vs. Jacinta Austin (4-1-0)\nPrelim: Hafeni Nafuka (4-0-
- 0) vs. Adrian Kępa (11-7-0)\nPrelim: Hassan Shaaban (1-1-0) vs. Tomáš Fi
- ala (7-6-0)
+ /events/96834-oktagon-44\nhttp://www.sherdog.com/events/oktagon-mma-okta
+ gon-44-oberhausen-96468\nhttps://events.mixedmartialarts.com/oktagon-44:
+ 40f05512-d549-4bc9-9e1f-3dbcfe378435\n\n---\n\nMain Event: Pavol Langer 
+ (11-9-0) vs. Alexander Poppeck (16-4-0)\nCo-Main Event: Bojan Veličković
+  (22-12-2) vs. Christian Jungwirth (14-6-0)\nMain Card: Mohamed Grabinsk
+ i (23-7-0) vs. Andreas Michailidis (14-6-0)\nMain Card: Rafael Xavier (1
+ 1-7-0) vs. Mateusz Strzelczyk (14-13-1)\nMain Card: Ronald Paradeiser (1
+ 6-8-0) vs. Andrew Fisher (19-9-1)\nMain Card: Zdenek Polivka (8-6-0) vs.
+  Hojat Khajevand (6-3-0)\nPrelim: Antun Račić (26-11-1) vs. Nuno Costa (
+ 15-3-1)\nPrelim: Łukasz Siwiec (8-2-0) vs. John Hathaway (18-2-0)\nPreli
+ m: Sofiia Bagishvili (8-3-0) vs. Jacinta Austin (4-1-0)\nPrelim: Hafeni 
+ Nafuka (4-0-0) vs. Adrian Kępa (11-7-0)\nPrelim: Hassan Shaaban (1-1-0) 
+ vs. Tomáš Fiala (7-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
+UID:2023-06-gladiators-night-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiators Night 5
+DTSTART:20230617T163000Z
+DTEND:20230617T193000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BPsijbHl_M8\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-gladiators-night
+ -5-613
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-glory-collision-5-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY COLLISION 5: Prelims
+DTSTART:20230617T163000Z
+DTEND:20230617T180000Z
+CATEGORIES:Glory,Kickboxen,YouTube,glory.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=XLshOHgCDBQ\nvia
+  glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/101100-g
+ lory-collision-5\n\n---\n\nMain Event: Antonio Plazibat vs. Kevin Tariq 
+ Osaro\nCo-Main Event: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: En
+ dy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokem
+ e\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni\nPrelim: Nabil Khac
+ hab vs. Vladimir Toktasynov\nPrelim: Diaguely Camara vs. Eduard Gafencu\
+ nPrelim: Andrei Kedves vs. Mareks Pelcis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-champions-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Champions Fight Night
+DTSTART:20230617T170000Z
+DTEND:20230617T200000Z
+CATEGORIES:Other,MMA,Muay Thai,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=C7mSxb60pnA\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-9-champions-figh
+ t-night-611
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
 UID:2023-06-glory-collision-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY COLLISION 5
@@ -91,15 +159,14 @@ DTEND:20230617T210000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/101100-glory-collision-5\n\n---\n\nMain Event: Antonio Plazibat vs
- . Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Tarik Khbabez\nMain
-  Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: Endy Semeleer vs.
-  Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokeme\nMain Card: F
- elipe Micheletti vs. Ibrahim El Bouni\nMain Card: Nabil Khachab vs. Vlad
- imir Toktasynov\nMain Card: Diaguely Camara vs. Eduard Gafencu\nMain Car
- d: Andrei Kedves vs. Mareks Pelcis
+ . Kevin Tariq Osaro\nCo-Main Event: Donovan Wisse vs. Serkan Özçağlayan\
+ nMain Card: Endy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah v
+ s. Ulric Bokeme\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni\nPrel
+ im: Nabil Khachab vs. Vladimir Toktasynov\nPrelim: Diaguely Camara vs. E
+ duard Gafencu\nPrelim: Andrei Kedves vs. Mareks Pelcis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-rizin-43@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 43
@@ -124,7 +191,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-43/2pd6f/\n\n---
   Furukawa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-07-oktagon-45-special@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 45: Special
@@ -138,7 +205,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  Michael Deiga-Scheck (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-07-oktagon-45@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 45
@@ -150,7 +217,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  vs. Losene Keita (11-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
@@ -163,7 +230,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  -0-0) vs. Oumar Kane (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-09-glory-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 88
@@ -172,10 +239,12 @@ DTEND:20230909T070000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  com/fightcenter/events/102062-glory-88\n\n---\n\nMain Card: Badr Hari vs
- . James McSweeney
+ . James McSweeney\nMain Card: Nordine Mahieddine vs. Abdarhmane Coulibal
+ y\nMain Card: Dennis Wosik vs. Berjan Peposhi\nMain Card: Karim Ghajji v
+ s. Nikola Todorovic
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -186,7 +255,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON

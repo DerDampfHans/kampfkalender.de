@@ -4,6 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230609T174104Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230616T131433Z
+X-KAMPFKALENDER-HASH:89adfdfafa86a1ae0e389be35ade26ce23790190
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-07-kelly-vs-corzo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Kelly vs. Corzo
+DTSTART:20230715T190000Z
+DTEND:20230715T220000Z
+CATEGORIES:WB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/101314-kelly-vs-corzo\nhttp://www.boxrec.com/en/event/873570\n\n---\n\
+ nMain Event: Josh Kelly (13-1-1) vs. Gabriel Corzo (18-0-0)\nCo-Main Eve
+ nt: Qais Ashfaq (12-1-0) vs. Liam Dillon (12-0-1)\nMain Card: Steve Robi
+ nson (6-1-0) vs. Franklin Ignatius (5-0-1)\nMain Card: Chloe Watson (5-0
+ -0) vs. L. Valdebenito (5-4-1)\nMain Card: Ben Marksby (6-0-0) vs. Gabor
+  Kovacs (8-25-0)\nMain Card: Codie Smith (0-0-0) vs. Hector Avila Lozano
+  (0-2-0)
+END:VEVENT
 END:VCALENDAR

@@ -5,14 +5,36 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#ZogajValentino"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Zogaj vs. Valentino",
-      "time": "2023-06-17T15:45:00Z"
+      "time": "2023-06-17T16:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=OeVN3K0M2xk"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-boxnacht-stuttgart-612",
+          "freeAfter": 48
+        }
+      },
+      "youTube": {
+        "id": "OeVN3K0M2xk",
+        "time": "2023-06-17T16:30:00Z",
+        "title": "Boxnacht Stuttgart | Livestream",
+        "url": "https://www.youtube.com/watch?v=OeVN3K0M2xk",
+        "tags": [
+          "#fight24",
+          "#fighting",
+          "#ko"
+        ]
+      }
     },
     "tapology": {
       "id": 102162,
-      "time": "2023-06-17T15:45:00Z",
+      "time": "2023-06-17T18:00:00Z",
       "title": "Zogaj vs. Valentino",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/102162-zogaj-vs-valentino",
@@ -22,7 +44,6 @@
       "card": [
         "Main Event: Altin Zogaj (11-0-0) vs. Riccardo Valentino (5-1-0)",
         "Main Card: Anthony Zaulig (8-0-0) vs. Mario Katic (2-11-0)",
-        "Main Card: Petar Belberov (0-0-0) vs. Lukas Wacker (3-4-0)",
         "Main Card: Umar Tsomaev (7-0-0) vs. Mirnes Denadic (15-23-3)",
         "Main Card: Drilon Rama (0-0-0) vs. Michael Klempert (6-50-4)",
         "Main Card: Benedikt Volland (2-0-0) vs. Richard Walter (9-29-1)"

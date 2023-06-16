@@ -5,10 +5,19 @@
     "sports": [
       "BOXING"
     ],
+    "tags": [
+      "#Wuppertal",
+      "#GualtieriFalcao"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "Gualtieri vs. Falcao",
-      "time": "2023-07-01T17:00:00Z"
+      "time": "2023-07-01T16:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-gualtieri-vs-falcao-614",
+          "freeAfter": 24
+        }
+      }
     },
     "tapology": {
       "id": 102178,

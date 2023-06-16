@@ -4,6 +4,24 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230603T220305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230616T131433Z
+X-KAMPFKALENDER-HASH:ace63165edf5ad60fc0f065ba0c11a0ec2bb4212
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-zogaj-vs-valentino@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zogaj vs. Valentino
+DTSTART:20230617T163000Z
+DTEND:20230617T193000Z
+CATEGORIES:BDB,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OeVN3K0M2xk\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-boxnacht-stuttga
+ rt-612\n\n---\n\nhttps://www.tapology.com/fightcenter/events/102162-zoga
+ j-vs-valentino\nhttp://www.boxrec.com/en/event/874011\n\n---\n\nMain Eve
+ nt: Altin Zogaj (11-0-0) vs. Riccardo Valentino (5-1-0)\nMain Card: Anth
+ ony Zaulig (8-0-0) vs. Mario Katic (2-11-0)\nMain Card: Umar Tsomaev (7-
+ 0-0) vs. Mirnes Denadic (15-23-3)\nMain Card: Drilon Rama (0-0-0) vs. Mi
+ chael Klempert (6-50-4)\nMain Card: Benedikt Volland (2-0-0) vs. Richard
+  Walter (9-29-1)
+END:VEVENT
 END:VCALENDAR

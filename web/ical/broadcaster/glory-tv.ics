@@ -4,10 +4,27 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230613T114911Z
-X-KAMPFKALENDER-HASH:0c1d8aaf47fc0f4d7ad977484faaf0b1c870e7cc
+DTSTAMP:20230616T131433Z
+X-KAMPFKALENDER-HASH:ea52509b65d670b0d879aefd3d5e29161c01fcdf
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
+UID:2023-06-glory-collision-5-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY COLLISION 5: Prelims
+DTSTART:20230617T163000Z
+DTEND:20230617T180000Z
+CATEGORIES:Glory,Kickboxen,YouTube,glory.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=XLshOHgCDBQ\nvia
+  glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/101100-g
+ lory-collision-5\n\n---\n\nMain Event: Antonio Plazibat vs. Kevin Tariq 
+ Osaro\nCo-Main Event: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: En
+ dy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokem
+ e\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni\nPrelim: Nabil Khac
+ hab vs. Vladimir Toktasynov\nPrelim: Diaguely Camara vs. Eduard Gafencu\
+ nPrelim: Andrei Kedves vs. Mareks Pelcis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
 UID:2023-06-glory-collision-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY COLLISION 5
@@ -16,15 +33,14 @@ DTEND:20230617T210000Z
 CATEGORIES:Glory,Kickboxen,glory.tv,live
 DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  vents/101100-glory-collision-5\n\n---\n\nMain Event: Antonio Plazibat vs
- . Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Tarik Khbabez\nMain
-  Card: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: Endy Semeleer vs.
-  Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokeme\nMain Card: F
- elipe Micheletti vs. Ibrahim El Bouni\nMain Card: Nabil Khachab vs. Vlad
- imir Toktasynov\nMain Card: Diaguely Camara vs. Eduard Gafencu\nMain Car
- d: Andrei Kedves vs. Mareks Pelcis
+ . Kevin Tariq Osaro\nCo-Main Event: Donovan Wisse vs. Serkan Özçağlayan\
+ nMain Card: Endy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah v
+ s. Ulric Bokeme\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni\nPrel
+ im: Nabil Khachab vs. Vladimir Toktasynov\nPrelim: Diaguely Camara vs. E
+ duard Gafencu\nPrelim: Andrei Kedves vs. Mareks Pelcis
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-09-glory-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 88
@@ -33,6 +49,8 @@ DTEND:20230909T070000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  com/fightcenter/events/102062-glory-88\n\n---\n\nMain Card: Badr Hari vs
- . James McSweeney
+ . James McSweeney\nMain Card: Nordine Mahieddine vs. Abdarhmane Coulibal
+ y\nMain Card: Dennis Wosik vs. Berjan Peposhi\nMain Card: Karim Ghajji v
+ s. Nikola Todorovic
 END:VEVENT
 END:VCALENDAR

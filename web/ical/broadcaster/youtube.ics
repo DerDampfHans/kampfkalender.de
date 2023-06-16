@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230613T114911Z
-X-KAMPFKALENDER-HASH:8708f4e3b5384dea4934a5b0903370a5098631e1
+DTSTAMP:20230616T131433Z
+X-KAMPFKALENDER-HASH:eebe4eeb65f1ceff22aa169883b835a2f7dda3fa
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-bkfc-44-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 44: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BDz_s7myjxM\nvia
  . Darrick Gates\nPrelim: Dre Coles vs. David Loureiro
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-one-fight-night-11-eersel-vs-menshikov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 11: Eersel vs. Menshikov
@@ -48,7 +48,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=9ccANod0pSE\n\n-
   Sung Hoon Woo\nMain Card: Rade Opačić vs. Guto Inocente
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-the-chosen-5-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:The Chosen 5: Prelims
@@ -59,7 +59,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=GlmV0a5KnaU\n\n-
  --\n\nhttps://fighting.de/events/the-chosen-5/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-mma-unfolded-basics-profi-vs-amateur@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MMA UNFOLDED Basics: Profi vs. Amateur
@@ -69,7 +69,7 @@ CATEGORIES:MMAU,YouTube,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=NjIQmg5hiRE
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-06-glory-collision-5-weigh-ins@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY COLLISION 5: Weigh Ins
@@ -79,7 +79,133 @@ CATEGORIES:Glory,YouTube,PR,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=UUO1ZocTYIo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
+UID:2023-06-one-friday-fights-21@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 21
+DTSTART:20230616T123000Z
+DTEND:20230616T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/102301-one-friday-fights-21\n\n---\n\nMain Event: Paidang Kiatsongr
+ it vs. K. Suanluangrotyok\nCo-Main Event: Mongkolkaew Sor Sommai vs. Son
+ rak Fairtex\nMain Card: P. Sitluangpeenumfon (0-0-0) vs. R. Sor Parat (0
+ -0-0)\nMain Card: Jack Apichat Muaythai vs. Mardanglek Nakatawan\nMain C
+ ard: Saeksan Or Kwanmuang vs. Seksan Chor.Thaiset\nMain Card: Yodkumarn 
+ Max Jandee vs. Pantep VK Khaoyai\nMain Card: Yodphupha Wimanair vs. Anta
+ r Kacem\nMain Card: Javad Bigdeli vs. Elias Ghazali\nMain Card: Xavier G
+ onzalez vs. Dabdam Thongtawee\nMain Card: Sho Ogawa vs. Tongsiam Wor Sur
+ iyon\nMain Card: Adilet Nurmatov (10-2-0) vs. Leonardo Casotti (9-3-0)\n
+ Main Card: Magomed Magomedov (8-1-0) vs. Yryskeldi Duysheev (6-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-enfusion-rookies@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Rookies
+DTSTART:20230617T120000Z
+DTEND:20230617T150000Z
+CATEGORIES:Enfusion,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Hkz8QULiRxk\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-enfusion-rookies
+ -groningen-610
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-champions-fight-night-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Champions Fight Night: Prelims
+DTSTART:20230617T140000Z
+DTEND:20230617T170000Z
+CATEGORIES:Other,MMA,Muay Thai,Kickboxen,YouTube,fight24.tv,live,kostenlo
+ s
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=78i3WpZg5pQ\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-9-champions-figh
+ t-night-611
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-phoenix-fc-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Phoenix FC 2
+DTSTART:20230617T160000Z
+DTEND:20230617T190000Z
+CATEGORIES:Other,MMA,Muay Thai,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=62qR_mxkcsg\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-phoenix-fc-2-609
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-gladiators-night-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gladiators Night 5
+DTSTART:20230617T163000Z
+DTEND:20230617T193000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BPsijbHl_M8\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-gladiators-night
+ -5-613
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-glory-collision-5-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY COLLISION 5: Prelims
+DTSTART:20230617T163000Z
+DTEND:20230617T180000Z
+CATEGORIES:Glory,Kickboxen,YouTube,glory.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=XLshOHgCDBQ\nvia
+  glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/101100-g
+ lory-collision-5\n\n---\n\nMain Event: Antonio Plazibat vs. Kevin Tariq 
+ Osaro\nCo-Main Event: Donovan Wisse vs. Serkan Özçağlayan\nMain Card: En
+ dy Semeleer vs. Jay Overmeer\nMain Card: Michael Boapeah vs. Ulric Bokem
+ e\nMain Card: Felipe Micheletti vs. Ibrahim El Bouni\nPrelim: Nabil Khac
+ hab vs. Vladimir Toktasynov\nPrelim: Diaguely Camara vs. Eduard Gafencu\
+ nPrelim: Andrei Kedves vs. Mareks Pelcis
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-zogaj-vs-valentino@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zogaj vs. Valentino
+DTSTART:20230617T163000Z
+DTEND:20230617T193000Z
+CATEGORIES:BDB,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OeVN3K0M2xk\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-boxnacht-stuttga
+ rt-612\n\n---\n\nhttps://www.tapology.com/fightcenter/events/102162-zoga
+ j-vs-valentino\nhttp://www.boxrec.com/en/event/874011\n\n---\n\nMain Eve
+ nt: Altin Zogaj (11-0-0) vs. Riccardo Valentino (5-1-0)\nMain Card: Anth
+ ony Zaulig (8-0-0) vs. Mario Katic (2-11-0)\nMain Card: Umar Tsomaev (7-
+ 0-0) vs. Mirnes Denadic (15-23-3)\nMain Card: Drilon Rama (0-0-0) vs. Mi
+ chael Klempert (6-50-4)\nMain Card: Benedikt Volland (2-0-0) vs. Richard
+  Walter (9-29-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-champions-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Champions Fight Night
+DTSTART:20230617T170000Z
+DTEND:20230617T200000Z
+CATEGORIES:Other,MMA,Muay Thai,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=C7mSxb60pnA\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-9-champions-figh
+ t-night-611
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
+UID:2023-06-schlagwort-podcast-nfc-15-news@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Schlagwort Podcast: NFC 15 News
+DTSTART:20230618T160000Z
+DTEND:20230618T180000Z
+CATEGORIES:Schlagwort,YouTube,kostenlos
+DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T131434Z
 UID:2023-06-one-friday-fights-22-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 22: Bhullar vs. Malykhin
@@ -95,7 +221,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Nathan Bendon (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-07-hfc-42@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:HFC 42
@@ -107,7 +233,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/@fight24tv\nvia fight24.
  s://www.hfc-mma.com/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-07-one-fight-night-12-kryklia-vs-xhaja@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 12: Kryklia vs. Xhaja
@@ -123,7 +249,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  manda Alequin
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T114912Z
+DTSTAMP:20230616T131434Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
