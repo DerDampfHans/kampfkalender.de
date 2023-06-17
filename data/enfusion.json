@@ -1,35 +1,5 @@
 [
   {
-    "id": "enfusion-2023-06-17",
-    "promotion": "ENFUSION",
-    "sports": [
-      "KICKBOXING"
-    ],
-    "mainCard": {
-      "title": "Enfusion Rookies",
-      "time": "2023-06-17T12:00:00Z",
-      "broadcasters": {
-        "YOUTUBE": {
-          "url": "https://www.youtube.com/watch?v=Hkz8QULiRxk"
-        },
-        "FIGHT24_TV": {
-          "url": "https://www.fight24.tv/fightpasses/fight24-enfusion-rookies-groningen-610"
-        }
-      },
-      "youTube": {
-        "id": "Hkz8QULiRxk",
-        "time": "2023-06-17T12:00:00Z",
-        "title": "Enfusion Groningen Rookies | Livestream",
-        "url": "https://www.youtube.com/watch?v=Hkz8QULiRxk",
-        "tags": [
-          "#fight24",
-          "#fighting",
-          "#ko"
-        ]
-      }
-    }
-  },
-  {
     "id": "tapology-102135",
     "promotion": "ENFUSION",
     "sports": [
@@ -42,10 +12,26 @@
     },
     "tapology": {
       "id": 102135,
-      "time": "2023-06-17T17:15:00Z",
+      "time": "2023-06-17T17:00:00Z",
       "title": "Enfusion 124",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/102135-enfusion-124"
+      "info": "Confirmed Upcoming Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/102135-enfusion-124",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Event: Nina van Dalum vs. Suad Salimova",
+        "Co-Main Event: Roan Korver vs. Bayram Gashi",
+        "Main Card: Lorenzo Geurink vs. Mitchel Wielson",
+        "Main Card: Mahmoud Sfef vs. Henry Tumbarelis",
+        "Main Card: Maik Mulder vs. Ilyasse Koujjit",
+        "Main Card: Nawid Tahoeni vs. Jousef Moujahid",
+        "Prelim: Safouane Riani vs. Amadeus Lucan",
+        "Main Card: Pascal van Apeldoorn vs. Edwin Martirosian",
+        "Main Card: Aquille Richards vs. Yasin Guren",
+        "Main Card: Dwayne Panka vs. Leri Gogokhia",
+        "Main Card: Dajenka Meijer vs. Charon Purperhart"
+      ]
     }
   }
 ]
