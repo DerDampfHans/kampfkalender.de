@@ -10,7 +10,7 @@
       "#OKTAGON45Special"
     ],
     "mainCard": {
-      "title": "OKTAGON 45: Special",
+      "title": "OKTAGON 45: Mågård vs. Račić",
       "time": "2023-07-28T16:00:00Z",
       "broadcasters": {
         "OKTAGON_TV": {
@@ -27,6 +27,7 @@
         "MMA"
       ],
       "card": [
+        "Main Event: Jonas Mågård (15-5-0) vs. Antun Račić (27-11-1)",
         "Main Card: Robert Bryczek (16-5-0) vs. Samuel Krištofič (16-5-0)",
         "Main Card: Ole Magnor (7-7-0) vs. Václav Mikulášek (9-10-0)",
         "Main Card: Vladimír Lengál (5-2-0) vs. Michael Deiga-Scheck (10-4-0)"
@@ -89,6 +90,37 @@
     }
   },
   {
+    "id": "tapology-102327",
+    "promotion": "OKTAGON",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#OKTAGON46"
+    ],
+    "mainCard": {
+      "title": "OKTAGON 46",
+      "time": "2023-09-16T16:00:00Z",
+      "broadcasters": {
+        "OKTAGON_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 102327,
+      "time": "2023-09-16T16:00:00Z",
+      "title": "OKTAGON 46",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/102327-oktagon-46",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Katharina Dalisda (9-3-0) vs. Jacinta Austin (5-1-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-100818",
     "promotion": "OKTAGON",
     "sports": [
@@ -138,6 +170,32 @@
       "title": "OKTAGON",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/100811-oktagon"
+    }
+  },
+  {
+    "id": "tapology-102329",
+    "promotion": "OKTAGON",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "tags": [
+      "#OKTAGON49"
+    ],
+    "mainCard": {
+      "title": "OKTAGON 49",
+      "time": "2023-11-18T17:00:00Z",
+      "broadcasters": {
+        "OKTAGON_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 102329,
+      "time": "2023-11-18T17:00:00Z",
+      "title": "OKTAGON 49",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/102329-oktagon-49"
     }
   }
 ]

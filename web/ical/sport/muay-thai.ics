@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230617T144910Z
-X-KAMPFKALENDER-HASH:61bd21949b11fa37a4fd3017d8c7f4505b235709
+DTSTAMP:20230618T145948Z
+X-KAMPFKALENDER-HASH:b3c3dbfd3ee9c997b49b565a736766669c3f47df
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230618T145949Z
 UID:2023-06-one-friday-fights-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Friday Fights 21
@@ -27,7 +27,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Main Card: Magomed Magomedov (8-1-0) vs. Yryskeldi Duysheev (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230618T145949Z
 UID:2023-06-champions-fight-night-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Champions Fight Night: Prelims
@@ -40,7 +40,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=78i3WpZg5pQ\nvia
  t-night-611
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230618T145949Z
 UID:2023-06-phoenix-fc-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phoenix FC 2
@@ -52,7 +52,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=62qR_mxkcsg\nvia
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230618T145949Z
 UID:2023-06-champions-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Champions Fight Night
@@ -64,7 +64,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=C7mSxb60pnA\nvia
  t-night-611
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230618T145949Z
 UID:2023-06-one-friday-fights-22-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 22: Bhullar vs. Malykhin
@@ -78,5 +78,15 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  hai (0-0-0) vs. Nico Carrillo (0-0-0)\nMain Card: Jomhod Sermpornwiwat (
  0-0-0) vs. Akram Hamidi (0-0-0)\nMain Card: Saeksan Or Kwanmuang (0-0-0)
   vs. Nathan Bendon (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230618T145949Z
+UID:2023-07-world-series-muay-thai@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:World Series Muay Thai
+DTSTART:20230701T120000Z
+DTEND:20230701T150000Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN
 END:VEVENT
 END:VCALENDAR
