@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230618T145948Z
-X-KAMPFKALENDER-HASH:9d4dfea71a93b25fc72cbdb3af1cf0d261619065
+DTSTAMP:20230622T060426Z
+X-KAMPFKALENDER-HASH:5b8c35b732bad8517c635bb7fd1527dbf1d44593
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-olympix-k1-boxen-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OlympiX K1 / Boxen / MMA
@@ -18,7 +18,7 @@ DESCRIPTION:via gmc.tv: https://german-mma.de/stream/RBp1QoafO3hALqzlDo2_
  ZA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-phoenix-fc-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phoenix FC 2
@@ -30,7 +30,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=62qR_mxkcsg\nvia
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-zogaj-vs-valentino@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zogaj vs. Valentino
@@ -47,7 +47,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=OeVN3K0M2xk\nvia
   vs. Richard Walter (9-29-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-prograis-vs-zorrilla@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prograis vs. Zorrilla
@@ -65,7 +65,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  19-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-dream-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Dream Boxing
@@ -75,7 +75,27 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
+UID:2023-06-adames-vs-williams-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Adames vs. Williams: Prelims
+DTSTART:20230624T223000Z
+DTEND:20230625T000000Z
+CATEGORIES:TGB,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=KlfbJzh70D0\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/98771-adames-vs-willia
+ ms\nhttp://www.boxrec.com/en/event/869867\n\n---\n\nMain Event: Carlos A
+ dames (22-1-0) vs. Julian Williams (28-3-1)\nMain Card: Fernando Martine
+ z (15-0-0) vs. Jade Bornea (18-0-0)\nMain Card: Erickson Lubin (24-2-0) 
+ vs. Luis Arias (20-3-1)\nPrelim: Caleb Truax (31-5-2) vs. Burley Brooks 
+ (6-2-1)\nPrelim: Bryant Perrella (17-3-2) vs. Jamontay Clark (16-2-1)\nP
+ relim: Jerwin Ancajas (33-3-2) vs. Wilner Soto (22-12-0)\nPrelim: Shawn 
+ McCalman (12-0-0) vs. Bo Gibbs Jr (23-3-0)\nPrelim: Mickel Spencer (3-0-
+ 0) vs. Lyle McFarlane (0-0-0)\nPrelim: Robert Meriwether (3-0-0) vs. Ezr
+ a Rabin (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T060427Z
 UID:2023-06-berlanga-vs-quigley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Berlanga vs. Quigley
@@ -93,7 +113,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-gualtieri-vs-falcao@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gualtieri vs. Falcao
@@ -104,10 +124,13 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-gu
  altieri-vs-falcao-614\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  nts/102178-gualtieri-vs-falcao\nhttp://www.boxrec.com/en/event/873108\n\
  n---\n\nMain Event: Vincenzo Gualtieri (20-0-1) vs. Esquiva Falcão (30-0
- -0)\nCo-Main Event: Julio Alamos (16-0-0) vs. Etinosa Oliha (17-0-0)
+ -0)\nCo-Main Event: Julio Alamos (16-0-0) vs. Etinosa Oliha (17-0-0)\nMa
+ in Card: Martin Houben (15-2-0) vs. Octavio Pudivitr (6-0-0)\nMain Card:
+  C. Rodriguez (0-0-0) vs. Alfonso Damiani (6-3-0)\nMain Card: Dariusz La
+ sotta (0-0-0) vs. Eduardo da Silveira (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-smith-vs-maxwell@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. Maxwell
@@ -124,7 +147,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (3-0-0)\nMain Card: Junaid Bostan (5-0-0) vs. Ryan Amos (10-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-pacheco-vs-gallegos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Pacheco vs. Gallegos
@@ -137,7 +160,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ) vs. Joniker Tovar (21-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-stanionis-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Stanionis vs. Ortiz
@@ -153,7 +176,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  : Tristan Kalkreuth (10-1-0) vs. Jaime Solorio (12-5-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-kelly-vs-corzo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Kelly vs. Corzo
@@ -170,7 +193,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (0-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-baumgardner-vs-linardatou-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Baumgardner vs. Linardatou 2
@@ -186,7 +209,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  1)\nMain Card: Marc Castro (10-0-0) vs. Gonzalo Fuenzalida (12-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-mf-dazn-x-series-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 9
@@ -197,7 +220,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98251-mf-dazn-x-series-9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-mf-dazn-x-series-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 8
@@ -215,7 +238,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  nPrelim: David Bonfadini (0-0-0) vs. Jack Grady (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-08-paul-vs-diaz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Diaz
@@ -223,11 +246,12 @@ DTSTART:20230806T000000Z
 DTEND:20230806T030000Z
 CATEGORIES:MVP,Boxen,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/100316-paul-vs-di
- az\n\n---\n\nMain Event: Jake Paul (6-1-0) vs. Nate Diaz (0-0-0)\nMain C
- ard: Amanda Serrano (44-2-1) vs. Heather Hardy (24-2-0)
+ az\nhttp://www.boxrec.com/en/event/871768\n\n---\n\nMain Event: Jake Pau
+ l (6-1-0) vs. Nate Diaz (0-0-0)\nMain Card: Amanda Serrano (44-2-1) vs. 
+ Heather Hardy (24-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-08-mf-dazn-x-series-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 10
@@ -239,7 +263,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  0) vs. Tommy Fury (9-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-09-mf-dazn-x-series-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 11
@@ -250,7 +274,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98253-mf-dazn-x-series-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-11-mf-dazn-x-series-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 12
@@ -261,7 +285,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98254-mf-dazn-x-series-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145949Z
+DTSTAMP:20230622T060427Z
 UID:2023-12-mf-dazn-x-series-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 13

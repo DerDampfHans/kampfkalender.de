@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230603T220305Z
-X-KAMPFKALENDER-HASH:86678e03a72f5b4b7795eac8b0e79ca628086a15
+DTSTAMP:20230622T060426Z
+X-KAMPFKALENDER-HASH:1763a3b7b9badd6ab9c5b25229c5fb6ed1fad520
 BEGIN:VEVENT
-DTSTAMP:20230603T220305Z
+DTSTAMP:20230622T060427Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -15,10 +15,12 @@ DTSTART:20230916T210000Z
 DTEND:20230916T223000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
- m/fightcenter/events/94582-nfc-15
+ m/fightcenter/events/94582-nfc-15\n\n---\n\nMain Card: Max Holzer (6-0-0
+ ) vs. Maurice Adorf (6-1-0)\nMain Card: David Balevski (2-0-0) vs. Simon
+  Schuster (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230603T220305Z
+DTSTAMP:20230622T060427Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -29,7 +31,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230603T220305Z
+DTSTAMP:20230622T060427Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17

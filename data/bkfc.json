@@ -30,15 +30,26 @@
     },
     "prelims": {
       "title": "BKFC 45: Prelims",
+      "time": "2023-06-23T22:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=MOFHQOWR7us",
+          "free": true
+        },
         "FITE_TV": {
           "free": true
         }
+      },
+      "youTube": {
+        "id": "MOFHQOWR7us",
+        "time": "2023-06-23T22:00:00Z",
+        "title": "BKFC 45 Free Prelims | Live!",
+        "url": "https://www.youtube.com/watch?v=MOFHQOWR7us"
       }
     },
     "tapology": {
       "id": 101377,
-      "time": "2023-06-24T00:00:00Z",
+      "time": "2023-06-24T01:00:00Z",
       "title": "BKFC 45: Palomino vs. Lilley",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/101377-bkfc-45-palomino-vs-lilley",
@@ -49,10 +60,14 @@
         "Main Card: Rene Rodriguez vs. James Dennis",
         "Main Card: Stephen Townsel vs. Dillion Winemiller",
         "Main Card: Bryan Duran vs. Gilberto Aguilar",
-        "Main Card: Gee Perez vs. Antwion McCollough",
-        "Main Card: Blake Davis vs. Quartus Stitt",
-        "Main Card: Chris Garcia vs. Robert Madrid",
-        "Prelim: Mike Lee vs. Drew Nolan"
+        "Main Card: Mike Lee vs. Drew Nolan",
+        "Main Card: Alberto Blas vs. Robert Armas",
+        "Main Card: Gee Perez vs. Philip Ryan Carroll",
+        "Prelim: Chris Garcia vs. Robert Madrid",
+        "Prelim: Leonardo Perdomo vs. Joseph White"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-45:9417ae51-8cf1-449a-8828-fd73d71205fa"
       ]
     }
   },
@@ -108,6 +123,7 @@
         "Main Card: Karl Thompson vs. Dustin Rabiega",
         "Main Card: Gary Fox vs. Hayden Sherriff",
         "Main Card: Morgan Starkey vs. Patryk Sagan",
+        "Main Card: Lewis Keen vs. Zdeněk Pernica",
         "Prelim: Arron Blakey vs. Krystian Nadolski"
       ],
       "links": [
@@ -147,7 +163,48 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/101489-bkfc-47",
       "card": [
-        "Main Event: David Mundell vs. Mike Richman"
+        "Main Event: David Mundell vs. Mike Richman",
+        "Main Card: Brandon Allen vs. Seth Shaffer",
+        "Main Card: Ja'Far Fortt vs. Tim Hester",
+        "Main Card: Gabriel Freyre vs. Josh Wright",
+        "Main Card: Josh Dyer vs. Jared Warren",
+        "Main Card: Glendel Futrell vs. Chevvy Bridges"
+      ]
+    }
+  },
+  {
+    "id": "tapology-102346",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC48"
+    ],
+    "mainCard": {
+      "title": "BKFC 48: Dodson vs. Ridge",
+      "time": "2023-08-12T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 48: Dodson vs. Ridge: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 102346,
+      "time": "2023-08-12T00:00:00Z",
+      "title": "BKFC 48: Dodson vs. Ridge",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/102346-bkfc-48-dodson-vs-ridge",
+      "card": [
+        "Main Event: John Dodson vs. JR Ridge"
       ]
     }
   }

@@ -4,10 +4,30 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230617T144910Z
-X-KAMPFKALENDER-HASH:36aa7ee4493937ccde594d7be50a8f1cdda4fe13
+DTSTAMP:20230622T060426Z
+X-KAMPFKALENDER-HASH:4ec9999a308b5e3cd958ad90ac0b0e9d6d72a643
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060426Z
+UID:2023-06-bkfc-45-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 45: Prelims
+DTSTART:20230623T220000Z
+DTEND:20230624T010000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MOFHQOWR7us\nvia
+  fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/101377-bk
+ fc-45-palomino-vs-lilley\nhttps://events.mixedmartialarts.com/bkfc-45:94
+ 17ae51-8cf1-449a-8828-fd73d71205fa\n\n---\n\nMain Event: Luis Palomino v
+ s. James Lilley\nMain Card: Jake Bostwick vs. Erick Lozano\nMain Card: H
+ oward Davis vs. Eduardo Peralta\nMain Card: Rene Rodriguez vs. James Den
+ nis\nMain Card: Stephen Townsel vs. Dillion Winemiller\nMain Card: Bryan
+  Duran vs. Gilberto Aguilar\nMain Card: Mike Lee vs. Drew Nolan\nMain Ca
+ rd: Alberto Blas vs. Robert Armas\nMain Card: Gee Perez vs. Philip Ryan 
+ Carroll\nPrelim: Chris Garcia vs. Robert Madrid\nPrelim: Leonardo Perdom
+ o vs. Joseph White
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T060426Z
 UID:2023-06-bkfc-45-palomino-vs-lilley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 45: Palomino vs. Lilley
@@ -16,16 +36,18 @@ DTEND:20230624T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-45/2pd4r/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/101377-bkfc-45-palomino-v
- s-lilley\n\n---\n\nMain Event: Luis Palomino vs. James Lilley\nMain Card
- : Jake Bostwick vs. Erick Lozano\nMain Card: Howard Davis vs. Eduardo Pe
- ralta\nMain Card: Rene Rodriguez vs. James Dennis\nMain Card: Stephen To
- wnsel vs. Dillion Winemiller\nMain Card: Bryan Duran vs. Gilberto Aguila
- r\nMain Card: Gee Perez vs. Antwion McCollough\nMain Card: Blake Davis v
- s. Quartus Stitt\nMain Card: Chris Garcia vs. Robert Madrid\nPrelim: Mik
- e Lee vs. Drew Nolan
+ s-lilley\nhttps://events.mixedmartialarts.com/bkfc-45:9417ae51-8cf1-449a
+ -8828-fd73d71205fa\n\n---\n\nMain Event: Luis Palomino vs. James Lilley\
+ nMain Card: Jake Bostwick vs. Erick Lozano\nMain Card: Howard Davis vs. 
+ Eduardo Peralta\nMain Card: Rene Rodriguez vs. James Dennis\nMain Card: 
+ Stephen Townsel vs. Dillion Winemiller\nMain Card: Bryan Duran vs. Gilbe
+ rto Aguilar\nMain Card: Mike Lee vs. Drew Nolan\nMain Card: Alberto Blas
+  vs. Robert Armas\nMain Card: Gee Perez vs. Philip Ryan Carroll\nPrelim:
+  Chris Garcia vs. Robert Madrid\nPrelim: Leonardo Perdomo vs. Joseph Whi
+ te
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060426Z
 UID:2023-07-bkfc-46-franco-vs-harris@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 46: Franco vs. Harris
@@ -39,10 +61,11 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-46/2pd4s/\n\n---\
  : Matty Hill vs. Dawid Oskar\nMain Card: Robert Barry vs. Ben Bonner\nMa
  in Card: Bart Król vs. Goscha\nMain Card: Karl Thompson vs. Dustin Rabie
  ga\nMain Card: Gary Fox vs. Hayden Sherriff\nMain Card: Morgan Starkey v
- s. Patryk Sagan\nPrelim: Arron Blakey vs. Krystian Nadolski
+ s. Patryk Sagan\nMain Card: Lewis Keen vs. Zdeněk Pernica\nPrelim: Arron
+  Blakey vs. Krystian Nadolski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060426Z
 UID:2023-07-bkfc-47-mundell-vs-richman@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 47: Mundell vs. Richman
@@ -51,6 +74,20 @@ DTEND:20230715T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/101489-bkfc-47\n\n---\n\nMain Event: David Mundell vs. Mike Richman
- 
+ \nMain Card: Brandon Allen vs. Seth Shaffer\nMain Card: Ja'Far Fortt vs.
+  Tim Hester\nMain Card: Gabriel Freyre vs. Josh Wright\nMain Card: Josh 
+ Dyer vs. Jared Warren\nMain Card: Glendel Futrell vs. Chevvy Bridges
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T060426Z
+UID:2023-08-bkfc-48-dodson-vs-ridge@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 48: Dodson vs. Ridge
+DTSTART:20230812T000000Z
+DTEND:20230812T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/102346-bkfc-48-dodson-vs-ridge\n\n---\n\nMain Event: John Dodson vs
+ . JR Ridge
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230617T144910Z
-X-KAMPFKALENDER-HASH:285a5e17cba91fb3128a7301d74ffe224aee3ee1
+DTSTAMP:20230622T060426Z
+X-KAMPFKALENDER-HASH:134d0142d70c86ad2710182500a30ea8a30ecfd0
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-one-friday-fights-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:One Friday Fights 21
@@ -27,23 +27,29 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Main Card: Magomed Magomedov (8-1-0) vs. Yryskeldi Duysheev (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-one-friday-fights-22-bhullar-vs-malykhin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 22: Bhullar vs. Malykhin
 DTSTART:20230623T123000Z
 DTEND:20230623T153000Z
 CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/101567-one-friday-fights-22-bhullar-vs-malykhin\n\n---\n\nMain Even
- t: Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (12-0-0)\nMain Card: Praj
- anchai PK Saenchai vs. Sam-A Gaiyanghadao\nMain Card: Muangthai PK Saenc
- hai (0-0-0) vs. Nico Carrillo (0-0-0)\nMain Card: Jomhod Sermpornwiwat (
- 0-0-0) vs. Akram Hamidi (0-0-0)\nMain Card: Saeksan Or Kwanmuang (0-0-0)
-  vs. Nathan Bendon (0-0-0)
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=bMocL7IclXk\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/101567-one-friday-figh
+ ts-22-bhullar-vs-malykhin\nhttp://www.sherdog.com/events/one-championshi
+ p-one-friday-fights-22-97977\nhttps://events.mixedmartialarts.com/one-fr
+ iday-fights-22:2e257b70-32d5-4323-948a-8f3c11449812\n\n---\n\nMain Event
+ : Arjan Bhullar (11-1-0) vs. Anatoly Malykhin (12-0-0)\nMain Card: Praja
+ nchai PK Saenchai vs. Sam-A Gaiyanghadao\nMain Card: Muangthai PK Saench
+ ai vs. Nico Carrillo\nMain Card: Jomhod Sermpornwiwat vs. Akram Hamidi\n
+ Main Card: Saeksan Or Kwanmuang vs. Nathan Bendon\nMain Card: S. Sitsong
+ peenong vs. Eddie Abasolo\nMain Card: Rambolek Tor Yotha vs. Fariya Amin
+ ipour\nMain Card: G. Tor Laksong vs. K. Sor.Sommai\nMain Card: T. Petchp
+ ortoror vs. Yangdam Pumpanmuang\nMain Card: Rong Fan (19-4-0) vs. Shamil
+  Erdogan (8-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-one-fight-night-12-kryklia-vs-xhaja@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 12: Kryklia vs. Xhaja
@@ -59,7 +65,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  manda Alequin
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
@@ -69,6 +75,19 @@ CATEGORIES:ONE,MMA,Kickboxen,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/101963-one-fight-night-13-allazov-vs-grigorian\n\n---\n\nMain Event
  : Chingiz Allazov vs. Marat Grigorian\nCo-Main Event: Marcus Buchecha (4
- -0-0) vs. Oumar Kane (5-1-0)
+ -0-0) vs. Oumar Kane (5-1-0)\nMain Card: Tawanchai PK Saenchai vs. Davit
+  Kiria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T060427Z
+UID:2023-09-one-fight-night-14-stamp-vs-hee@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 14: Stamp vs. Hee
+DTSTART:20230902T000000Z
+DTEND:20230902T030000Z
+CATEGORIES:ONE,MMA,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/102490-one-fight-night-14-stamp-vs-hee\n\n---\n\nMain Event: Stamp 
+ Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)
 END:VEVENT
 END:VCALENDAR

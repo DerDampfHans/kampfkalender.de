@@ -4,10 +4,30 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230617T144910Z
-X-KAMPFKALENDER-HASH:54cd98e5802ba2c7dcafb1c0fbb90062a87cc9b5
+DTSTAMP:20230622T060426Z
+X-KAMPFKALENDER-HASH:4521b42c07e7d95d3df9da2c82e6b23ce7c13d72
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
+UID:2023-06-bkfc-45-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 45: Prelims
+DTSTART:20230623T220000Z
+DTEND:20230624T010000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=MOFHQOWR7us\nvia
+  fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/events/101377-bk
+ fc-45-palomino-vs-lilley\nhttps://events.mixedmartialarts.com/bkfc-45:94
+ 17ae51-8cf1-449a-8828-fd73d71205fa\n\n---\n\nMain Event: Luis Palomino v
+ s. James Lilley\nMain Card: Jake Bostwick vs. Erick Lozano\nMain Card: H
+ oward Davis vs. Eduardo Peralta\nMain Card: Rene Rodriguez vs. James Den
+ nis\nMain Card: Stephen Townsel vs. Dillion Winemiller\nMain Card: Bryan
+  Duran vs. Gilberto Aguilar\nMain Card: Mike Lee vs. Drew Nolan\nMain Ca
+ rd: Alberto Blas vs. Robert Armas\nMain Card: Gee Perez vs. Philip Ryan 
+ Carroll\nPrelim: Chris Garcia vs. Robert Madrid\nPrelim: Leonardo Perdom
+ o vs. Joseph White
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T060427Z
 UID:2023-06-bkfc-45-palomino-vs-lilley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 45: Palomino vs. Lilley
@@ -16,41 +36,45 @@ DTEND:20230624T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-45/2pd4r/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/101377-bkfc-45-palomino-v
- s-lilley\n\n---\n\nMain Event: Luis Palomino vs. James Lilley\nMain Card
- : Jake Bostwick vs. Erick Lozano\nMain Card: Howard Davis vs. Eduardo Pe
- ralta\nMain Card: Rene Rodriguez vs. James Dennis\nMain Card: Stephen To
- wnsel vs. Dillion Winemiller\nMain Card: Bryan Duran vs. Gilberto Aguila
- r\nMain Card: Gee Perez vs. Antwion McCollough\nMain Card: Blake Davis v
- s. Quartus Stitt\nMain Card: Chris Garcia vs. Robert Madrid\nPrelim: Mik
- e Lee vs. Drew Nolan
+ s-lilley\nhttps://events.mixedmartialarts.com/bkfc-45:9417ae51-8cf1-449a
+ -8828-fd73d71205fa\n\n---\n\nMain Event: Luis Palomino vs. James Lilley\
+ nMain Card: Jake Bostwick vs. Erick Lozano\nMain Card: Howard Davis vs. 
+ Eduardo Peralta\nMain Card: Rene Rodriguez vs. James Dennis\nMain Card: 
+ Stephen Townsel vs. Dillion Winemiller\nMain Card: Bryan Duran vs. Gilbe
+ rto Aguilar\nMain Card: Mike Lee vs. Drew Nolan\nMain Card: Alberto Blas
+  vs. Robert Armas\nMain Card: Gee Perez vs. Philip Ryan Carroll\nPrelim:
+  Chris Garcia vs. Robert Madrid\nPrelim: Leonardo Perdomo vs. Joseph Whi
+ te
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-06-rizin-43@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 43
 DTSTART:20230624T050000Z
 DTEND:20230624T080000Z
-CATEGORIES:RIZIN,MMA,Kickboxen,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-43/2pd6f/\n\n---
- \n\nhttps://www.tapology.com/fightcenter/events/100776-rizin-43\n\n---\n
- \nMain Card: Kleber Koike Erbst (31-6-1) vs. Chihiro Suzuki (10-3-0)\nMa
- in Card: Genji Umeno vs. Hiroki Suzuki\nMain Card: Yusuke Yachi (24-13-0
- ) vs. Zach Zane (15-14-0)\nMain Card: Hideki Sekine (12-6-0) vs. Mikio U
- eda (1-1-0)\nMain Card: Saori Oshima (11-3-0) vs. Haruka Hasegawa (3-2-0
- )\nMain Card: Hiroaki Suzuki (2-3-0) vs. Taisei Nishitani (6-5-0)\nMain 
- Card: Suguru Nii (14-12-0) vs. Tateo Iida (12-6-2)\nMain Card: Trent Gir
- dham (13-4-0) vs. Joji Goto (14-6-1)\nMain Card: Tetsuya Seki (15-9-1) v
- s. Raiki Endo (15-11-5)\nMain Card: Marina Kumagai (3-4-0) vs. Aoi Kuriy
- ama (4-5-1)\nMain Card: Kensei Yamakawa vs. Ryoga Hirano\nMain Card: Ait
- o Tanimura vs. Ryuya Koide\nMain Card: Minoru Kimura vs. Daryl Lokoku\nM
- ain Card: Yuta Kubo (1-1-0) vs. Takeaki Kinoshita (6-6-1)\nPrelim: Daiki
-  Maruyama (0-2-0) vs. Suguru Hayasaka (19-15-5)\nPrelim: Toshiki Watanab
- e (19-7-4) vs. Kento Azumi (2-1-0)\nPrelim: Shoki Hoshikubo vs. Kazuyuki
-  Furukawa
+CATEGORIES:RIZIN,MMA,Kickboxen,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=8o6aDCqN19s\nvia
+  fite.tv: https://www.fite.tv/watch/rizin-43/2pd6f/\n\n---\n\nhttps://ww
+ w.tapology.com/fightcenter/events/100776-rizin-43\nhttp://www.sherdog.co
+ m/events/rizin-ff-rizin-43-97228\nhttps://events.mixedmartialarts.com/ri
+ zin-43:37c01700-8378-4106-b29b-b268ceb0d2bb\n\n---\n\nMain Event: Kleber
+  Koike Erbst (31-6-1) vs. Chihiro Suzuki (10-3-0)\nCo-Main Event: Yusuke
+  Yachi (24-13-0) vs. Zach Zane (15-14-0)\nMain Card: Hideki Sekine (12-6
+ -0) vs. Mikio Ueda (1-1-0)\nMain Card: Hiroaki Suzuki (2-3-0) vs. Taisei
+  Nishitani (6-5-0)\nMain Card: Genji Umeno vs. Hiroki Suzuki\nMain Card:
+  Minoru Kimura vs. Daryl Lokoku\nMain Card: Yuta Kubo (1-1-0) vs. Takeak
+ i Kinoshita (6-6-1)\nMain Card: Saori Oshima (11-3-0) vs. Haruka Hasegaw
+ a (3-2-0)\nMain Card: Suguru Nii (14-12-0) vs. Tateo Iida (12-6-2)\nMain
+  Card: Tetsuya Seki (15-9-1) vs. Raiki Endo (15-11-5)\nMain Card: Trent 
+ Girdham (13-4-0) vs. Joji Goto (14-6-1)\nMain Card: Marina Kumagai (3-4-
+ 0) vs. Aoi Kuriyama (4-5-1)\nMain Card: Kensei Yamakawa vs. Ryoga Hirano
+ \nPrelim: Toshiki Watanabe (19-7-4) vs. Kento Azumi (2-1-0)\nPrelim: Dai
+ ki Maruyama (0-2-0) vs. Suguru Hayasaka (19-15-5)\nPrelim: Aito Tanimura
+  vs. Ryuya Koide\nPrelim: Shoki Hoshikubo vs. Kazuyuki Furukawa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-bkfc-46-franco-vs-harris@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 46: Franco vs. Harris
@@ -64,10 +88,11 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-46/2pd4s/\n\n---\
  : Matty Hill vs. Dawid Oskar\nMain Card: Robert Barry vs. Ben Bonner\nMa
  in Card: Bart Król vs. Goscha\nMain Card: Karl Thompson vs. Dustin Rabie
  ga\nMain Card: Gary Fox vs. Hayden Sherriff\nMain Card: Morgan Starkey v
- s. Patryk Sagan\nPrelim: Arron Blakey vs. Krystian Nadolski
+ s. Patryk Sagan\nMain Card: Lewis Keen vs. Zdeněk Pernica\nPrelim: Arron
+  Blakey vs. Krystian Nadolski
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-aka-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 29
@@ -80,7 +105,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-29/2pd4v/\n\n---\n
  Hall (2-1-0) vs. Yoseph Morales (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-bkfc-47-mundell-vs-richman@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 47: Mundell vs. Richman
@@ -89,10 +114,12 @@ DTEND:20230715T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/101489-bkfc-47\n\n---\n\nMain Event: David Mundell vs. Mike Richman
- 
+ \nMain Card: Brandon Allen vs. Seth Shaffer\nMain Card: Ja'Far Fortt vs.
+  Tim Hester\nMain Card: Gabriel Freyre vs. Josh Wright\nMain Card: Josh 
+ Dyer vs. Jared Warren\nMain Card: Glendel Futrell vs. Chevvy Bridges
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-bkb-33-sweeney-vs-levitchi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 33: Sweeney vs. Levitchi
@@ -104,10 +131,23 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  hi\nMain Card: Smudger Smith vs. Corey Healey\nMain Card: Daniel Lerwell
   vs. CJ Mills\nMain Card: Harvey Dossett vs. Marcin Kosiak\nMain Card: N
  athan Decastro vs. Ben Shields\nMain Card: Gareth Van Hoof vs. John Thom
- as Johnsen\nMain Card: Brad Scott vs. Kevin Greenwood
+ as Johnsen\nMain Card: Brad Scott vs. Kevin Greenwood\nMain Card: Ryan B
+ arrett vs. Eryk Majda\nMain Card: Liam Rees vs. Joe Fitzpatrick
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
+UID:2023-08-bkfc-48-dodson-vs-ridge@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 48: Dodson vs. Ridge
+DTSTART:20230812T000000Z
+DTEND:20230812T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/102346-bkfc-48-dodson-vs-ridge\n\n---\n\nMain Event: John Dodson vs
+ . JR Ridge
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T060427Z
 UID:2023-08-aka-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 30
@@ -118,7 +158,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/101934-aka-30
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-08-aka-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 31

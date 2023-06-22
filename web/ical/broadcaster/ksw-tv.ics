@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230617T144910Z
-X-KAMPFKALENDER-HASH:68e538f789907632a013d859416b883253152d45
+DTSTAMP:20230622T060426Z
+X-KAMPFKALENDER-HASH:3198cbc550b3b1f54ff3af835a7ce14a6e19b132
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-07-ksw-84@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 84
@@ -19,10 +19,12 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  ymon Bajor (24-9-0)\nMain Card: Cezariusz Kęsik (13-3-0) vs. Damian Jani
  kowski (8-5-0)\nMain Card: Nemanja Nikolić (9-0-1) vs. Bartosz Leśko (12
  -3-2)\nMain Card: Bruno Santos (10-4-0) vs. Gustavo Oliveira (9-2-0)\nMa
- in Card: Pascal Hintzen (8-2-0) vs. Damian Stasiak (13-9-0)
+ in Card: Pascal Hintzen (8-2-0) vs. Damian Stasiak (13-9-0)\nMain Card: 
+ Henry Fadipe (13-10-1) vs. Krystian Kaszubowski (10-3-0)\nPrelim: Borys 
+ Dzikowski (3-0-0) vs. Damian Mieczkowski (1-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T144911Z
+DTSTAMP:20230622T060427Z
 UID:2023-08-ksw-85@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 85
@@ -30,6 +32,7 @@ DTSTART:20230819T170000Z
 DTEND:20230819T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/101938-ksw-85
+ events/101938-ksw-85\n\n---\n\nMain Event: Salahdine Parnasse (17-1-0) v
+ s. Robert Ruchała (9-0-0)
 END:VEVENT
 END:VCALENDAR
