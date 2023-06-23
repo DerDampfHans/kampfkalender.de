@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230616T131433Z
-X-KAMPFKALENDER-HASH:985878dc5938bac6be092c27d384b230309a94b3
+DTSTAMP:20230623T035459Z
+X-KAMPFKALENDER-HASH:db480ce16358202f9f5eb6b94a46c001c15c45c6
 BEGIN:VEVENT
-DTSTAMP:20230616T131434Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-enfusion-rookies@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Enfusion Rookies
@@ -17,5 +17,17 @@ CATEGORIES:Enfusion,Kickboxen,YouTube,fight24.tv,live
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=Hkz8QULiRxk\nvia
   fight24.tv: https://www.fight24.tv/fightpasses/fight24-enfusion-rookies
  -groningen-610
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230623T035459Z
+UID:2023-06-enfusion-rookies-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Enfusion Rookies
+DTSTART:20230624T130000Z
+DTEND:20230624T160000Z
+CATEGORIES:Enfusion,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=6A8x1CJcI-k\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-enfusion-rookies
+ -darmstadt-616
 END:VEVENT
 END:VCALENDAR

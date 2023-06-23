@@ -6,7 +6,8 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC45"
+      "#BKFC45",
+      "#BKFCHollywood"
     ],
     "mainCard": {
       "title": "BKFC 45: Palomino vs. Lilley",
@@ -37,8 +38,20 @@
           "free": true
         },
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-45-prelims/2pd97/",
           "free": true
         }
+      },
+      "fite": {
+        "id": "2pd97",
+        "time": "2023-06-24T00:00:00Z",
+        "title": "BKFC 45 Hollywood: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-45-prelims/2pd97/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       },
       "youTube": {
         "id": "MOFHQOWR7us",
@@ -55,15 +68,15 @@
       "url": "https://www.tapology.com/fightcenter/events/101377-bkfc-45-palomino-vs-lilley",
       "card": [
         "Main Event: Luis Palomino vs. James Lilley",
-        "Main Card: Jake Bostwick vs. Erick Lozano",
+        "Co-Main Event: Jake Bostwick vs. Erick Lozano",
         "Main Card: Howard Davis vs. Eduardo Peralta",
         "Main Card: Rene Rodriguez vs. James Dennis",
         "Main Card: Stephen Townsel vs. Dillion Winemiller",
         "Main Card: Bryan Duran vs. Gilberto Aguilar",
-        "Main Card: Mike Lee vs. Drew Nolan",
         "Main Card: Alberto Blas vs. Robert Armas",
         "Main Card: Gee Perez vs. Philip Ryan Carroll",
         "Prelim: Chris Garcia vs. Robert Madrid",
+        "Prelim: Mike Lee vs. Drew Nolan",
         "Prelim: Leonardo Perdomo vs. Joseph White"
       ],
       "links": [
@@ -110,13 +123,13 @@
     },
     "tapology": {
       "id": 101297,
-      "time": "2023-07-01T20:00:00Z",
-      "title": "BKFC 46: Franco vs. Harris",
+      "time": "2023-07-01T18:00:00Z",
+      "title": "BKFC 46: Franco vs. Tenaglia",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/101297-bkfc-46-franco-vs-harris",
       "card": [
-        "Main Event: Rico Franco vs. Kaleb Harris",
-        "Main Card: Luke Kelly vs. Paul Cook",
+        "Main Event: Rico Franco vs. Franco Tenaglia",
+        "Co-Main Event: Paul Cook vs. Adrian Galvez",
         "Main Card: Matty Hill vs. Dawid Oskar",
         "Main Card: Robert Barry vs. Ben Bonner",
         "Main Card: Bart Król vs. Goscha",
@@ -124,7 +137,8 @@
         "Main Card: Gary Fox vs. Hayden Sherriff",
         "Main Card: Morgan Starkey vs. Patryk Sagan",
         "Main Card: Lewis Keen vs. Zdeněk Pernica",
-        "Prelim: Arron Blakey vs. Krystian Nadolski"
+        "Prelim: Arron Blakey vs. Krystian Nadolski",
+        "Prelim: Robbie Brown vs. Ben Hatchett"
       ],
       "links": [
         "http://www.boxrec.com/en/event/873503"
@@ -138,14 +152,27 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC47"
+      "#BKFC47",
+      "#BKFCLakeland"
     ],
     "mainCard": {
       "title": "BKFC 47: Mundell vs. Richman",
-      "time": "2023-07-15T00:00:00Z",
+      "time": "2023-07-15T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-47/2pd96/"
         }
+      },
+      "fite": {
+        "id": "2pd96",
+        "time": "2023-07-15T01:00:00Z",
+        "title": "BKFC 47 Lakeland: David Mundell vs Mike Richman",
+        "url": "https://www.fite.tv/watch/bkfc-47/2pd96/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
@@ -165,10 +192,12 @@
       "card": [
         "Main Event: David Mundell vs. Mike Richman",
         "Main Card: Brandon Allen vs. Seth Shaffer",
-        "Main Card: Ja'Far Fortt vs. Tim Hester",
         "Main Card: Gabriel Freyre vs. Josh Wright",
         "Main Card: Josh Dyer vs. Jared Warren",
-        "Main Card: Glendel Futrell vs. Chevvy Bridges"
+        "Main Card: Ryan Reber vs. Travis Thompson",
+        "Main Card: Martyna Krol vs. Gabrielle Roman",
+        "Prelim: Ja'Far Fortt vs. Tim Hester",
+        "Prelim: Glendel Futrell vs. Chevvy Bridges"
       ]
     }
   },

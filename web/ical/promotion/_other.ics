@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230618T145948Z
-X-KAMPFKALENDER-HASH:836e09e97d9cf91b480ae2580612d649e18f7010
+DTSTAMP:20230623T035459Z
+X-KAMPFKALENDER-HASH:6e191791ff88406acbc078bb9cdf12aea525a0a1
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-combat-fc-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Combat FC 4
@@ -28,7 +28,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ain Card: Sean Nichols vs. Pedro Baez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-champions-fight-night-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Champions Fight Night: Prelims
@@ -41,7 +41,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=78i3WpZg5pQ\nvia
  t-night-611
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-phoenix-fc-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Phoenix FC 2
@@ -53,7 +53,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=62qR_mxkcsg\nvia
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-gladiators-night-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gladiators Night 5
@@ -65,7 +65,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=BPsijbHl_M8\nvia
  -5-613
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-champions-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Champions Fight Night
@@ -77,7 +77,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=C7mSxb60pnA\nvia
  t-night-611
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-afl-30-aranjuez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AFL 30: Aranjuez
@@ -97,7 +97,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-06-dream-boxing@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Dream Boxing
@@ -107,7 +107,30 @@ CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
+UID:2023-06-on-the-rise-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:On The Rise Fight Night
+DTSTART:20230624T150000Z
+DTEND:20230624T180000Z
+CATEGORIES:Other,MMA,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=IHTwKA4BRLk\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-on-the-rise-615
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230623T035459Z
+UID:2023-06-ifp-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:IFP Fight Night
+DTSTART:20230624T170000Z
+DTEND:20230624T200000Z
+CATEGORIES:Other,Kickboxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=PkiXM3iLknA\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-ifp-fight-night-
+ 617
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230623T035459Z
 UID:2023-06-ufc-fight-pass-invitational-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Pass Invitational 4
@@ -117,7 +140,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-07-naciones-mma@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Naciones MMA
@@ -127,7 +150,7 @@ CATEGORIES:Other,MMA,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T145948Z
+DTSTAMP:20230623T035459Z
 UID:2023-07-world-series-muay-thai@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:World Series Muay Thai
