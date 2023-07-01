@@ -2298,5 +2298,49 @@
         "title": "UFC FIGHT PASS INVITATIONAL 4"
       }
     }
+  },
+  {
+    "id": "naciones-2023-07-01",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Naciones MMA",
+      "time": "2023-07-01T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1np0j9ricrnga1wdwg52vwx936",
+        "time": "2023-07-01T01:00:00Z",
+        "title": "Naciones MMA | Monterrey",
+        "sport": "MMA",
+        "competition": "Naciones MMA"
+      }
+    }
+  },
+  {
+    "id": "wsmt-2023-07-01",
+    "promotion": "_OTHER",
+    "sports": [
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "World Series Muay Thai",
+      "time": "2023-07-01T12:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "x6ummtv54sh41e2hvwcwgsqgf",
+        "time": "2023-07-01T12:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "MMA",
+        "competition": "Rajadamnern World Series Muay Thai"
+      }
+    }
   }
 ]
