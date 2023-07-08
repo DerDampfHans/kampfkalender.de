@@ -702,5 +702,44 @@
         "http://www.boxrec.com/en/event/872106"
       ]
     }
+  },
+  {
+    "id": "tapology-101597",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#PachecoGallegos"
+    ],
+    "mainCard": {
+      "title": "Pacheco vs. Gallegos",
+      "time": "2023-07-08T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1us9sz5tek2fv1sdjhit6q77zv",
+        "time": "2023-07-08T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Pacheco vs Gallegos"
+      }
+    },
+    "tapology": {
+      "id": 101597,
+      "time": "2023-07-08T01:00:00Z",
+      "title": "Pacheco vs. Gallegos",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/101597-pacheco-vs-gallegos",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Diego Pacheco (18-0-0) vs. Manuel Gallegos (19-1-1)",
+        "Co-Main Event: Eduardo Hernandez (33-1-0) vs. Joniker Tovar (21-0-1)"
+      ]
+    }
   }
 ]
