@@ -1009,5 +1009,61 @@
         "http://www.boxrec.com/en/event/873503"
       ]
     }
+  },
+  {
+    "id": "tapology-101489",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC47",
+      "#BKFCLakeland"
+    ],
+    "mainCard": {
+      "title": "BKFC 47: Mundell vs. Richman",
+      "time": "2023-07-15T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-47/2pd96/"
+        }
+      },
+      "fite": {
+        "id": "2pd96",
+        "time": "2023-07-15T01:00:00Z",
+        "title": "BKFC 47 Lakeland: David Mundell vs Mike Richman",
+        "url": "https://www.fite.tv/watch/bkfc-47/2pd96/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "BKFC 47: Mundell vs. Richman: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 101489,
+      "time": "2023-07-15T00:00:00Z",
+      "title": "BKFC 47: Mundell vs. Richman",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/101489-bkfc-47",
+      "card": [
+        "Main Event: David Mundell vs. Mike Richman",
+        "Main Card: Brandon Allen vs. Seth Shaffer",
+        "Main Card: Gabriel Freyre vs. Josh Wright",
+        "Main Card: Josh Dyer vs. Jared Warren",
+        "Main Card: Ryan Reber vs. Travis Thompson",
+        "Main Card: Martyna Krol vs. Gabrielle Roman",
+        "Prelim: Ja'Far Fortt vs. Tim Hester",
+        "Prelim: Glendel Futrell vs. Chevvy Bridges"
+      ]
+    }
   }
 ]
