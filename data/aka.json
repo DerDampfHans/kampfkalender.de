@@ -10,18 +10,45 @@
     ],
     "mainCard": {
       "title": "AKA 30",
-      "time": "2023-08-19T01:00:00Z",
+      "time": "2023-08-19T00:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/aka-30/2pdey/"
         }
+      },
+      "fite": {
+        "id": "2pdey",
+        "time": "2023-08-19T00:00:00Z",
+        "title": "AKA 30",
+        "url": "https://www.fite.tv/watch/aka-30/2pdey/",
+        "price": "$19.99",
+        "sports": [
+          "MMA"
+        ]
       }
     },
     "tapology": {
       "id": 101934,
       "time": "2023-08-19T01:00:00Z",
       "title": "AKA 30",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/101934-aka-30"
+      "info": "Confirmed Upcoming MMA, Kickboxing, & Grappling Event",
+      "url": "https://www.tapology.com/fightcenter/events/101934-aka-30",
+      "sports": [
+        "MMA",
+        "KICKBOXING",
+        "GRAPPLING"
+      ],
+      "card": [
+        "Main Event: Darence Dewayne Brooks (5-8-0) vs. Juan Lee (2-0-0)",
+        "Co-Main Event: Kelly Leo vs. Billy Frederick",
+        "Main Card: Michael Acuff (0-0-0) vs. Isaiah Linn (0-0-0)",
+        "Main Card: Ernest Stevenson (0-0-0) vs. Luke Saxon (0-2-0)",
+        "Main Card: Gerald Alexander (0-0-0) vs. JD Deming (0-0-0)",
+        "Main Card: Jamal Miller vs. Timoteo Lopez",
+        "Main Card: Tony Fields (0-0-0) vs. Jaden Clark (0-0-0)",
+        "Main Card: Shayne Menapace vs. Gavin Randazzo",
+        "Main Card: Amanda Uzzle vs. Angel Alcozer"
+      ]
     }
   },
   {
@@ -45,8 +72,27 @@
       "id": 101935,
       "time": "2023-08-27T01:00:00Z",
       "title": "AKA 31",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/101935-aka-31"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/101935-aka-31",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Joseph Holmes (8-4-0) vs. Daniel De La Cruz (3-0-0)",
+        "Co-Main Event: Christopher Anthony (11-13-0) vs. Kalvin Hackney (17-6-0)",
+        "Main Card: Gabe Clark (0-0-0) vs. Abe Sellers (5-5-0)",
+        "Main Card: Fabian Reyna (2-1-0) vs. Peyton Bass (1-0-0)",
+        "Main Card: Nicholas Moses (0-0-0) vs. Michael Sullivan (4-2-0)",
+        "Main Card: Rodrigo Miranda (0-2-0) vs. Abdullah Al-Azzawi (0-0-0)",
+        "Main Card: John Bustillos (0-0-0) vs. Jordan Mays (2-4-0)",
+        "Main Card: Tevinn Cantly (1-0-0) vs. Jeremy Allen (0-1-0)",
+        "Main Card: Adam Guillory (0-0-0) vs. Landon Royer (0-0-0)",
+        "Main Card: Jonathan Sandoval (2-1-0) vs. Thomas Daigrepont (2-0-0)",
+        "Main Card: Neb Ermias (0-0-0) vs. Shon Brown (2-2-0)",
+        "Main Card: Chance Brossette (3-0-0) vs. Bradley Landry (0-1-0)",
+        "Main Card: Titus Young (1-1-0) vs. Larry Caldwell (0-2-0)",
+        "Main Card: Ta'Mere Sampy (0-0-0) vs. Brandon Delrie (0-2-0)"
+      ]
     }
   }
 ]

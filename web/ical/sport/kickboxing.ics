@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230805T220305Z
-X-KAMPFKALENDER-HASH:25d2553e7fa1fecbe8bf0ced942e610fdd11b625
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:47be22d79660f6155411e594575fd5fe452d490a
 BEGIN:VEVENT
-DTSTAMP:20230805T220305Z
+DTSTAMP:20230811T125736Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
@@ -21,7 +21,23 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Kiria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230805T220305Z
+DTSTAMP:20230811T125736Z
+UID:2023-08-glory-87@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 87
+DTSTART:20230819T180000Z
+DTEND:20230819T210000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/102696-glory-87\n\n---\n\nMain Event: Tyjani Bezt
+ ati vs. Kaito Ono\nCo-Main Event: Murthel Groenhart vs. Cihad Akipa\nMai
+ n Card: Michael Boapeah vs. Sergej Braun\nMain Card: Jan Kaffa vs. Moham
+ ed el Hammouti\nMain Card: Uku Jürjendal vs. Martin Terpstra\nMain Card:
+  Bahram Rajabzadeh vs. Mohamed Amine\nPrelim: Imad Hadar vs. Maksymilian
+  Bratkowicz\nPrelim: Nicola Filipovic vs. Cristian Ristea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
 UID:2023-09-glory-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 88
@@ -29,13 +45,16 @@ DTSTART:20230909T040000Z
 DTEND:20230909T070000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/102062-glory-88\n\n---\n\nMain Card: Badr Hari vs
- . James McSweeney\nMain Card: Nordine Mahieddine vs. Abdarhmane Coulibal
- y\nMain Card: Dennis Wosik vs. Berjan Peposhi\nMain Card: Karim Ghajji v
- s. Nikola Todorovic
+ com/fightcenter/events/102062-glory-88\n\n---\n\nMain Event: Badr Hari v
+ s. James McSweeney\nCo-Main Event: Tiffany van Soest vs. Sarah Moussadda
+ k\nMain Card: Nordine Mahieddine vs. Abdarhmane Coulibaly\nMain Card: De
+ nnis Wosik vs. Berjan Peposhi\nMain Card: Pascal Touré vs. Ștefan Lătesc
+ u\nMain Card: Karim Ghajji vs. Nikola Todorovic\nMain Card: Jonathan May
+ ezo vs. James Condé\nMain Card: Iliass Hammouche vs. Florian Kröger\nMai
+ n Card: Diaguely Camara vs. Ilyass Chakir
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230805T220305Z
+DTSTAMP:20230811T125736Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -46,7 +65,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230805T220305Z
+DTSTAMP:20230811T125736Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -54,10 +73,12 @@ DTSTART:20231104T150000Z
 DTEND:20231104T180000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/100811-oktagon
+ /events/100811-oktagon\n\n---\n\nMain Card: Michał Andryszak (25-10-0) v
+ s. Stuart Austin (17-8-0)\nMain Card: James Lewis (8-5-0) vs. Niklas Sto
+ lze (12-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230805T220305Z
+DTSTAMP:20230811T125736Z
 UID:2023-11-oktagon-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 49

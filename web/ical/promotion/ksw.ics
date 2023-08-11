@@ -4,18 +4,42 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230722T220304Z
-X-KAMPFKALENDER-HASH:1a100d8dbff622e87472e3fcf9a9e30c8999f21e
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:64f9a187def6b5f3d3f628da2a72f3090ba30bda
 BEGIN:VEVENT
-DTSTAMP:20230722T220305Z
-UID:2023-08-ksw-85@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-08-ksw-85-parnasse-vs-rucha-a@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 85
+SUMMARY:KSW 85: Parnasse vs. Ruchała
 DTSTART:20230819T170000Z
 DTEND:20230819T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/101938-ksw-85\n\n---\n\nMain Event: Salahdine Parnasse (17-1-0) v
- s. Robert Ruchała (9-0-0)
+ s. Robert Ruchała (9-0-0)\nCo-Main Event: Ibragim Chuzhigaev (17-5-0) vs
+ . Bogdan Gnidko (10-0-0)\nMain Card: Danu Tărchilă (6-1-0) vs. Patryk Ka
+ czmarczyk (9-2-0)\nMain Card: Patryk Surdyn (7-3-0) vs. Kamil Szkaradek 
+ (4-0-0)\nMain Card: Michał Pietrzak (10-6-1) vs. Marcin Krakowiak (12-4-
+ 0)\nMain Card: Adrianna Kreft (5-0-0) vs. Yasmin Guimarães (5-1-0)\nMain
+  Card: Rafał Kijańczuk (12-6-0) vs. Kleber Silva (21-11-0)\nPrelim: Sand
+ ra Succar (1-0-0) vs. Wiktoria Czyżewska (2-0-0)\nPrelim: Wilson Varela 
+ (9-5-0) vs. Łukasz Rajewski (12-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-ksw-86-wik-acz-vs-przybysz-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 86: Wikłacz vs. Przybysz 4
+DTSTART:20230916T170000Z
+DTEND:20230916T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/103172-ksw-86\n\n---\n\nMain Event: Jakub Wikłacz (14-3-1) vs. Se
+ bastian Przybysz (12-3-0)\nCo-Main Event: Dawid Śmiełowski (10-0-0) vs. 
+ Lom-Ali Eskijew (20-7-0)\nMain Card: Michał Michalski (10-5-0) vs. Domin
+ ik Humburger (7-0-0)\nMain Card: Filip Stawowy (10-3-0) vs. Viktor Pešta
+  (18-8-0)\nMain Card: Kacper Koziorzębski (9-5-0) vs. Wiktor Zalewski (5
+ -0-0)\nMain Card: Artur Szczepaniak (9-2-0) vs. Igor Michaliszyn (10-2-0
+ )
 END:VEVENT
 END:VCALENDAR

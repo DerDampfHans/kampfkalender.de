@@ -4,6 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230119T184628Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:1939300ba68a3c9937778e1e31a04edec4928e35
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-brave-cf-73@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BRAVE CF 73
+DTSTART:20230813T000000Z
+DTEND:20230813T030000Z
+CATEGORIES:BRAVE,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/102416-brave-cf-73\nhttp://www.sherdog.com/events/brave-cf-73-brave-co
+ mbat-federation-73-98411\nhttps://events.mixedmartialarts.com/brave-cf-7
+ 3:53544c05-52a1-46c3-ba5b-ce21d8a1da43\n\n---\n\nMain Event: Jose Torres
+  (11-1-1) vs. Nkosi Ndebele (6-1-0)\nCo-Main Event: Zach Makovsky (21-11
+ -0) vs. Flavio de Queiroz (13-4-0)\nMain Card: Eduardo Mora (8-5-0) vs. 
+ Keron Bourne (7-0-0)\nMain Card: Eidy Macías (5-0-0) vs. Yasmeli Araque 
+ (4-4-0)\nMain Card: Luiz Cado (15-7-1) vs. Willker Lemos (11-2-0)
+END:VEVENT
 END:VCALENDAR

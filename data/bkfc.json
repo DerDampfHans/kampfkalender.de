@@ -6,22 +6,58 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC48"
+      "#BKFC48",
+      "#BKFCAlbuquerque"
     ],
     "mainCard": {
       "title": "BKFC 48: Dodson vs. Ridge",
-      "time": "2023-08-12T00:00:00Z",
+      "time": "2023-08-12T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-48/2pddf/"
         }
+      },
+      "fite": {
+        "id": "2pddf",
+        "time": "2023-08-12T01:00:00Z",
+        "title": "BKFC 48 Albuquerque: John Dodson vs JR Ridge",
+        "url": "https://www.fite.tv/watch/bkfc-48/2pddf/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
       "title": "BKFC 48: Dodson vs. Ridge: Prelims",
+      "time": "2023-08-11T23:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=spenqrHPs48",
+          "free": true
+        },
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-48-prelims/2pdi0/",
           "free": true
         }
+      },
+      "fite": {
+        "id": "2pdi0",
+        "time": "2023-08-12T00:00:00Z",
+        "title": "BKFC 48 Albuquerque: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-48-prelims/2pdi0/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      },
+      "youTube": {
+        "id": "spenqrHPs48",
+        "time": "2023-08-11T23:00:00Z",
+        "title": "BKFC 48 Free Prelims | Live!",
+        "url": "https://www.youtube.com/watch?v=spenqrHPs48"
       }
     },
     "tapology": {
@@ -31,8 +67,208 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/102346-bkfc-48-dodson-vs-ridge",
       "card": [
-        "Main Event: John Dodson vs. JR Ridge"
+        "Main Event: John Dodson vs. JR Ridge",
+        "Co-Main Event: Bryce Hall vs. Gee Perez",
+        "Main Card: Keith Richardson vs. Derek Perez",
+        "Main Card: Will Santiago vs. Jeremie Holloway",
+        "Main Card: Marc Entenberg vs. Darrick Gates",
+        "Main Card: Sydney Smith vs. Melanie Shah",
+        "Main Card: Joshua Moreno vs. Jeremy Sauceda",
+        "Main Card: Donald Sanchez vs. Blake LaCaze",
+        "Main Card: Eric Dodson vs. Robert Armas",
+        "Prelim: Richard Montano vs. Kyle McElroy",
+        "Prelim: Austin Lewis vs. Justyn Martinez",
+        "Prelim: Anthony Sanchez vs. Gene Perez"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-48:163fdf08-5447-4678-8901-14f0f7f2ec5a",
+        "http://www.boxrec.com/en/event/876022"
       ]
+    }
+  },
+  {
+    "id": "tapology-103369",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "BKFC Prospect Series 1",
+      "time": "2023-08-25T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC Prospect Series 1: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 103369,
+      "time": "2023-08-25T00:00:00Z",
+      "title": "BKFC Prospect Series 1",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/103369-bkfc-prospect-series-1",
+      "card": [
+        "Main Card: Rosalinda Rodriguez vs. Maia Kahaunaele",
+        "Main Card: Wayna Reid vs. Chris Cornelius",
+        "Main Card: Leonardo Perdomo vs. Ryan Shough",
+        "Main Card: Markus Suarez vs. Drew Nolan",
+        "Main Card: Sean Hotusing vs. Dimitri Angelini",
+        "Main Card: Harry Cruz vs. Leandro Torres",
+        "Main Card: Dameko Labon vs. Justin Watson"
+      ]
+    }
+  },
+  {
+    "id": "tapology-102528",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC49"
+    ],
+    "mainCard": {
+      "title": "BKFC 49: Slaveski vs. Lindsey",
+      "time": "2023-08-26T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 49: Slaveski vs. Lindsey: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 102528,
+      "time": "2023-08-26T00:00:00Z",
+      "title": "BKFC 49: Slaveski vs. Lindsey",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/102528-bkfc-49",
+      "card": [
+        "Main Event: Gorjan Slaveski vs. Jake Lindsey",
+        "Co-Main Event: Bryce Henry vs. Tom Shoaff",
+        "Main Card: Frank Alvarez vs. Jarod Grant",
+        "Main Card: Bryan Duran vs. Dakota Highpine",
+        "Main Card: John Michael Escoboza vs. Esteban Rodriguez",
+        "Main Card: Howard Davis vs. Jeff Chiffens"
+      ]
+    }
+  },
+  {
+    "id": "tapology-103810",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC50"
+    ],
+    "mainCard": {
+      "title": "BKFC 50: Hunt vs. Camozzi",
+      "time": "2023-09-23T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 50: Hunt vs. Camozzi: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 103810,
+      "time": "2023-09-23T00:00:00Z",
+      "title": "BKFC 50: Hunt vs. Camozzi",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/103810-bkfc-50-hunt-vs-camozzi",
+      "card": [
+        "Main Event: Lorenzo Hunt vs. Chris Camozzi",
+        "Main Card: Keegan Vandermeer vs. Dillion Winemiller",
+        "Main Card: Andrew Yates vs. Christian Torres"
+      ]
+    }
+  },
+  {
+    "id": "tapology-103959",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC51"
+    ],
+    "mainCard": {
+      "title": "BKFC 51",
+      "time": "2023-09-30T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 51: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 103959,
+      "time": "2023-09-30T00:00:00Z",
+      "title": "BKFC 51",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/103959-bkfc-51"
+    }
+  },
+  {
+    "id": "tapology-103960",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "tags": [
+      "#BKFC52"
+    ],
+    "mainCard": {
+      "title": "BKFC 52",
+      "time": "2023-10-01T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 52: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 103960,
+      "time": "2023-10-01T00:00:00Z",
+      "title": "BKFC 52",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/103960-bkfc-52"
     }
   }
 ]

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230729T220304Z
-X-KAMPFKALENDER-HASH:a1fb8cc84f9f4b9f90432ee984f74bbf30814e14
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:12829e10b95671e9074316db50c841bda89cdcf1
 BEGIN:VEVENT
-DTSTAMP:20230729T220305Z
+DTSTAMP:20230811T125736Z
 UID:2023-08-paul-vs-diaz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Diaz
@@ -21,7 +21,115 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/100316-paul-vs-di
  ns (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T220305Z
+DTSTAMP:20230811T125736Z
+UID:2023-08-bell-vs-carcosia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bell vs. Carcosia
+DTSTART:20230812T003000Z
+DTEND:20230812T033000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103836-bell-vs-carcosia\nhttp://www.boxrec.com/en/event/873674\n\n---\
+ n\nMain Event: Albert Bell (23-0-0) vs. Presco Carcosia (10-2-1)\nMain C
+ ard: Raul Salomon (12-1-0) vs. Tyler Howard (19-1-0)\nMain Card: David N
+ avarro (5-1-0) vs. D'Angelo Fuentes (8-1-0)\nMain Card: Giovanni Marquez
+  (5-0-0) vs. Nicky Vitone (9-2-1)\nMain Card: Stephanie Chavez (2-0-0) v
+ s. Devany Cuevas Torres (0-1-0)\nMain Card: David Lopez (3-0-0) vs. Jose
+ ph Suero (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-08-joshua-vs-helenius@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Joshua vs. Helenius
+DTSTART:20230812T180000Z
+DTEND:20230812T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/102916-joshua-vs-whyte-2\nhttps://www.matchroomboxing.com/events/joshu
+ a-vs-whyte-2/\nhttp://www.boxrec.com/en/event/876666\n\n---\n\nMain Even
+ t: Anthony Joshua (25-3-0) vs. Robert Helenius (32-4-0)\nCo-Main Event: 
+ Derek Chisora (33-13-0) vs. Gerald Washington (20-5-1)\nMain Card: Filip
+  Hrgovic (15-0-0) vs. Demsey McKean (22-0-0)\nMain Card: Johnny Fisher (
+ 9-0-0) vs. Harry Armstrong (5-1-1)\nPrelim: Campbell Hatton (12-0-0) vs.
+  Tom Ansell (10-4-0)\nPrelim: Maisey Rose Courtney (3-0-0) vs. Gemma Rue
+ gg (7-7-0)\nPrelim: George Liddard (3-0-0) vs. Bas Oosterweghel (5-1-0)\
+ nPrelim: Brandon Scott (0-0-0) vs. Louis Norman (14-13-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-08-rodriguez-vs-lopez-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rodriguez vs. Lopez: Prelims
+DTSTART:20230812T223000Z
+DTEND:20230813T010000Z
+CATEGORIES:TGB,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=swrTx8djm1U\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/102838-rodriguez-vs-lo
+ pez\n\n---\n\nMain Event: Emmanuel Rodriguez (21-2-0) vs. Melvin Lopez (
+ 29-1-0)\nMain Card: Gary Antuanne Russell (16-0-0) vs. Kent Cruz (16-0-3
+ )\nMain Card: Gabriel Maestre (5-0-1) vs. Travon Marshall (8-0-0)\nPreli
+ m: Marcus Browne (24-2-0) vs. Adrian Taylor (13-1-1)\nPrelim: Michael An
+ geletti (8-0-0) vs. Jonathan Lopez (8-0-2)\nPrelim: Jose Benavidez Jr (2
+ 7-2-1) vs. Sladan Janjanin (35-15-0)\nPrelim: Jesse Hart (28-3-0) vs. El
+ io Heraldo Trosch (15-10-2)\nPrelim: Damien Vazquez (17-4-1) vs. Jeronil
+  Borres (11-8-2)\nPrelim: David Whitmire (2-0-0) vs. Jordy Tientcheu (0-
+ 1-0)\nPrelim: Daniel Blancas (0-0-0) vs. Devaun Lee (11-9-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-08-scoby-vs-carmona@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Scoby vs. Carmona
+DTSTART:20230819T000000Z
+DTEND:20230819T030000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103917-scoby-vs-carmona\nhttp://www.boxrec.com/en/event/873677\n\n---\
+ n\nMain Event: Kurt Scoby (12-0-0) vs. Narciso Carmona (11-0-1)\nMain Ca
+ rd: Money Powell IV (13-1-0) vs. Shawn McCalman (13-0-0)\nMain Card: Jav
+ on Campbell (12-1-0) vs. Lorenzo Parra (22-1-0)\nMain Card: LeAnna Cruz 
+ (5-0-0) vs. Maryguenn Vellinga (4-3-2)\nMain Card: Javier Zamarron (4-0-
+ 0) vs. S. Santiago-Fernandez (0-1-0)\nMain Card: Asa Stevens (4-0-0) vs.
+  D'Angelo Hopgood (2-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-08-yafai-vs-frank@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Yafai vs. Frank
+DTSTART:20230819T180000Z
+DTEND:20230819T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103098-yafai-vs-frank-nxt-gen\nhttp://www.boxrec.com/en/event/876988\n
+ \n---\n\nMain Card: Galal Yafai (4-0-0) vs. Tommy Frank (15-3-1)\nMain C
+ ard: Cyrus Pattinson (6-0-0) vs. Conah Walker (11-2-1)\nMain Card: Jorda
+ n Flynn (9-0-0) vs. Kane Baker (19-10-1)\nMain Card: Solomon Dacres (6-0
+ -0) vs. Chris Thompson (11-4-1)\nMain Card: Khaleel Majid (10-0-0) vs. A
+ lessandro Fersula (9-4-0)\nMain Card: Aaron Bowen (2-0-0) vs. Wilmer Bar
+ on (6-1-0)\nMain Card: Muhammad Ali (2-0-0) vs. Fran Rodriguez (1-13-0)\
+ nMain Card: Sahil Khan (0-0-0) vs. Sean Jackson (0-14-1)\nMain Card: Ibr
+ aheem Sulaimaan (0-0-0) vs. Michel Gonxhe (4-3-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-08-simpson-vs-hernandez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Simpson vs. Hernandez
+DTSTART:20230826T000000Z
+DTEND:20230826T030000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103930-simpson-vs-hernandez\nhttp://www.boxrec.com/en/event/873659\n\n
+ ---\n\nMain Event: Lorenzo Simpson (13-0-0) vs. Vladimir Hernandez (13-5
+ -0)\nMain Card: Andreas Katzourakis (10-0-0) vs. Raphael Igbokwe (15-4-0
+ )\nMain Card: Abel Gonzalez (5-0-0) vs. Robert Magee (8-0-2)\nMain Card:
+  Luis Acosta (12-1-0) vs. Christian Barreto (9-0-0)\nMain Card: Donte La
+ yne (0-0-0) vs. Nathan Mitchell (0-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
 UID:2023-08-mf-dazn-x-series-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 10
@@ -30,10 +138,69 @@ DTEND:20230826T200000Z
 CATEGORIES:MF,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98252-mf-dazn-x-series-10\n\n---\n\nMain Event: Olajide Olatunji (1-0-
- 0) vs. Tommy Fury (9-0-0)
+ 0) vs. Tommy Fury (9-0-0)\nMain Card: Logan Paul (0-1-0) vs. Dillon Dani
+ s (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T220305Z
+DTSTAMP:20230811T125736Z
+UID:2023-08-collazo-vs-diagan@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Collazo vs. Diagan
+DTSTART:20230827T010000Z
+DTEND:20230827T040000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103507-collazo-vs-diagan\n\n---\n\nMain Event: Oscar Collazo (7-0-0) v
+ s. Garen Diagan (10-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-08-walsh-vs-velasco@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Walsh vs. Velasco
+DTSTART:20230827T010000Z
+DTEND:20230827T040000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103145-hollywood-fight-nights-walsh-vs-navarro\nhttp://www.b
+ oxrec.com/en/event/871601\n\n---\n\nMain Event: Callum Walsh (7-0-0) vs.
+  Juan Jose Velasco (24-4-0)\nMain Card: Adan Ochoa (12-3-0) vs. Arnold A
+ lejandro (11-1-1)\nMain Card: Gor Yeritsyan (15-0-0) vs. Rogelio Jun Dol
+ iguez (24-4-2)\nMain Card: Umar Dzambekov (6-0-0) vs. David Zegarra (34-
+ 10-0)\nMain Card: Aidyn Yelzhanov (6-1-1) vs. Andy Beltran (5-0-0)\nMain
+  Card: Eduardo Diaz (5-3-0) vs. Jose Gomez Jr (4-2-1)\nMain Card: Gloria
+  Munguilla (4-0-0) vs. Shawna Ormsby (0-1-1)\nMain Card: David Benitez (
+ 2-0-1) vs. Josias Gonzalez (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-09-golden-boy-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Golden Boy Fight Night
+DTSTART:20230908T010000Z
+DTEND:20230908T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103489-golden-boy-fight-night\n\n---\n\nMain Event: Raul Curiel (12-0-
+ 0) vs. Courtney Pennington (17-6-3)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-09-zepeda-vs-gesta@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zepeda vs. Gesta
+DTSTART:20230917T010000Z
+DTEND:20230917T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103064-zepeda-vs-gesta\n\n---\n\nMain Event: William Zepeda (27-0-0) v
+ s. Mercito Gesta (34-3-3)\nCo-Main Event: Victor Morales Jr (18-0-1) vs.
+  Edwin Palomares (19-4-2)\nMain Card: Darius Fulghum (3-0-0) vs. Ricardo
+  Adrian Luna (24-10-2)\nMain Card: Eric Priest (10-0-0) vs. Simon Madsen
+  (11-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
 UID:2023-09-mf-dazn-x-series-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 11
@@ -44,7 +211,46 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98253-mf-dazn-x-series-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T220305Z
+DTSTAMP:20230811T125736Z
+UID:2023-10-wood-vs-warrington@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wood vs. Warrington
+DTSTART:20231007T180000Z
+DTEND:20231007T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103613-wood-vs-warrington\n\n---\n\nMain Event: Leigh Wood (27-3-0) vs
+ . Josh Warrington (31-2-1)\nMain Card: Terri Harper (14-1-1) vs. Cecilia
+  Braekhus (37-2-0)\nMain Card: Kieron Conway (19-3-1) vs. Linus Udofia (
+ 18-1-0)\nMain Card: Hopey Price (11-0-0) vs. Connor Coghill (13-0-0)\nMa
+ in Card: Junaid Bostan (6-0-0) vs. Corey McCulloch (7-3-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-10-catterall-vs-linares@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Catterall vs. Linares
+DTSTART:20231021T190000Z
+DTEND:20231021T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103881-catterall-vs-linares\n\n---\n\nMain Event: Jack Catterall (27-1
+ -0) vs. Jorge Linares (47-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-10-haney-vs-prograis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Haney vs. Prograis
+DTSTART:20231029T010000Z
+DTEND:20231029T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103643-haney-vs-prograis\n\n---\n\nMain Event: Devin Haney (30-0-0) vs
+ . Regis Prograis (29-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
 UID:2023-11-mf-dazn-x-series-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 12
@@ -55,7 +261,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98254-mf-dazn-x-series-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T220305Z
+DTSTAMP:20230811T125736Z
+UID:2023-11-cameron-vs-taylor-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cameron vs. Taylor 2
+DTSTART:20231125T190000Z
+DTEND:20231125T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103744-cameron-vs-taylor-2\n\n---\n\nMain Event: Chantelle Cameron (18
+ -0-0) vs. Katie Taylor (22-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
 UID:2023-12-mf-dazn-x-series-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 13
@@ -65,5 +283,17 @@ CATEGORIES:MF,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98255-mf-dazn-x-series-13\n\n---\n\nMain Card: Olajide Olatunji (1-0-0
  ) vs. Jake Paul (6-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125736Z
+UID:2023-12-rodriguez-vs-edwards@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rodríguez vs. Edwards
+DTSTART:20231217T010000Z
+DTEND:20231217T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103980-rodriguez-vs-edwards\n\n---\n\nMain Event: Jesse Rodriguez (18-
+ 0-0) vs. Sunny Edwards (20-0-0)
 END:VEVENT
 END:VCALENDAR

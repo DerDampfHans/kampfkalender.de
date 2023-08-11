@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230722T220304Z
-X-KAMPFKALENDER-HASH:a407b2efa02c73c54dc6aeeae75b4d067ab2dfc0
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:66774d3a53b6e1f8f53185081a98e1e25ebcd053
 BEGIN:VEVENT
-DTSTAMP:20230722T220305Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
@@ -21,7 +21,52 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Kiria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230722T220305Z
+DTSTAMP:20230811T125735Z
+UID:2023-08-one-friday-fights-28@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 28
+DTSTART:20230811T123000Z
+DTEND:20230811T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103793-one-friday-fights-28\n\n---\n\nMain Event: K. Suanluangrotyo
+ k vs. J. Sor.Dechaphan\nCo-Main Event: Suriyanlek OBT.Kamphee vs. Songfa
+ ngkhong FAGroup\nMain Card: Jack Apichat Muaythai vs. Pentor SP Kansard\
+ nMain Card: P. Sor SamanGarmet vs. Mahahin Nakbinalaiyon\nMain Card: Koh
+ Tao Petchsomnuek vs. P. ChotBangsaen\nMain Card: Yoddoi Kaewsamrit vs. R
+ obocop Rhino Gold\nMain Card: Yodphupha Wimanair vs. Antar Kacem\nMain C
+ ard: Chanajon P.K. Saenchai vs. Mohamed Hanoun\nMain Card: Dabdam Thongt
+ awee vs. Xavier Gonzalez\nMain Card: Suablack Tor.Pran49 vs. Lenny Blasi
+ \nMain Card: Sanlanggexi (14-1-0) vs. David Bangguigui (9-1-0)\nMain Car
+ d: Noelle Grandjean (4-0-0) vs. So Yul Kim (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-one-friday-fights-29@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 29
+DTSTART:20230818T123000Z
+DTEND:20230818T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103794-one-friday-fights-29\n\n---\n\nMain Card: Saeksan Or Kwanmua
+ ng vs. Isaac Araya\nMain Card: Pongsiri PK. Saenchai vs. Fariyar Aminipo
+ ur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-one-friday-fights-30@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 30
+DTSTART:20230825T123000Z
+DTEND:20230825T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103929-one-friday-fights-30\n\n---\n\nMain Card: Saemapetch Fairtex
+  vs. K. P.K. Saenchai Muaythaigym
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-one-fight-night-14-stamp-vs-hee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 14: Stamp vs. Hee
@@ -30,6 +75,32 @@ DTEND:20230902T030000Z
 CATEGORIES:ONE,MMA,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/102490-one-fight-night-14-stamp-vs-hee\n\n---\n\nMain Event: Stamp 
- Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)
+ Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)\nCo-Main Event: Smilla Sundell
+  vs. Jackie Buntan\nMain Card: Danielle Kelly vs. Jessa Khan\nMain Card:
+  Jingnan Xiong vs. Nat Jaroonsak
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-one-friday-fights-34-rodtang-vs-superlek@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 34: Rodtang vs Superlek
+DTSTART:20230922T123000Z
+DTEND:20230922T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103894-one-friday-fights-34\n\n---\n\nMain Event: Rodtang Jitmuangn
+ on vs. Superlek Kiatmoo9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-10-one-fight-night-15-tawanchai-vs-superbon@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 15: Tawanchai vs. Superbon
+DTSTART:20231007T000000Z
+DTEND:20231007T030000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103576-one-fight-night-15-tawanchai-vs-superbon\n\n---\n\nMain Even
+ t: Tawanchai PK Saenchai vs. Superbon Singha Mawynn
 END:VEVENT
 END:VCALENDAR

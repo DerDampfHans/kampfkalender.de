@@ -4,6 +4,24 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230805T220305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:fbe26052da9bb16f832daedfaea22c5c96424f40
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-bkb-34@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 34
+DTSTART:20230916T160000Z
+DTEND:20230916T190000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103377-bkb-34\n\n---\n\nMain Card: Dan Chapman vs. Ishe Smith\nMain
+  Card: Reece Murray vs. Martin Reffell\nMain Card: Aaron McCallum vs. Ma
+ rk Tiffin\nMain Card: Tony Meehan vs. Dom Wilkinson\nMain Card: Patrick 
+ Nash vs. John Spencer\nMain Card: Callan Harley vs. Sam Jamshidi\nMain C
+ ard: Szymon Szynkiewicz vs. Martyn Grainger\nMain Card: Matty Moore vs. 
+ Danylo Hrebeniuk\nMain Card: Jonny Lawson vs. John Collier\nMain Card: G
+ eorge Hillyard vs. Rolando Dy\nMain Card: Ashley Griffiths vs. Tony Barr
+ att
+END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230807T220304Z
-X-KAMPFKALENDER-HASH:6032a08a8c9e6b30d11a1e9f5c5a56420e838ac6
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:a8bf947caaf24ea9338868e9017299907e4d0200
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-pfl-2023-playoffs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL 2023 Playoffs
@@ -22,7 +22,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-urijah-faber-s-a1-combat-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Urijah Faber's A1 Combat 13
@@ -35,7 +35,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  s (8-2-1) vs. Abdikabyl Kaldar (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -57,7 +57,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s (18-5-0)\nPrelim: Gavin Tucker (13-2-0) vs. Diego Lopes (21-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-one-fight-night-13-allazov-vs-grigorian@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 13: Allazov vs. Grigorian
@@ -71,7 +71,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Kiria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-paul-vs-diaz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Paul vs. Diaz
@@ -85,7 +85,7 @@ DESCRIPTION:https://www.tapology.com/fightcenter/events/100316-paul-vs-di
  ns (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-contender-series-2023-week-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 1
@@ -100,7 +100,27 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  cas Fernando (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-08-one-friday-fights-28@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 28
+DTSTART:20230811T123000Z
+DTEND:20230811T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103793-one-friday-fights-28\n\n---\n\nMain Event: K. Suanluangrotyo
+ k vs. J. Sor.Dechaphan\nCo-Main Event: Suriyanlek OBT.Kamphee vs. Songfa
+ ngkhong FAGroup\nMain Card: Jack Apichat Muaythai vs. Pentor SP Kansard\
+ nMain Card: P. Sor SamanGarmet vs. Mahahin Nakbinalaiyon\nMain Card: Koh
+ Tao Petchsomnuek vs. P. ChotBangsaen\nMain Card: Yoddoi Kaewsamrit vs. R
+ obocop Rhino Gold\nMain Card: Yodphupha Wimanair vs. Antar Kacem\nMain C
+ ard: Chanajon P.K. Saenchai vs. Mohamed Hanoun\nMain Card: Dabdam Thongt
+ awee vs. Xavier Gonzalez\nMain Card: Suablack Tor.Pran49 vs. Lenny Blasi
+ \nMain Card: Sanlanggexi (14-1-0) vs. David Bangguigui (9-1-0)\nMain Car
+ d: Noelle Grandjean (4-0-0) vs. So Yul Kim (7-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-08-bellator-298-storley-vs-ward@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 298: Storley vs. Ward
@@ -108,126 +128,492 @@ DTSTART:20230811T220000Z
 DTEND:20230812T010000Z
 CATEGORIES:Bellator,MMA,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/101316-bellator-m
- ma\n\n---\n\nMain Event: Logan Storley (14-2-0) vs. Brennan Ward (17-6-0
- )\nCo-Main Event: Valentin Moldavsky (11-3-0) vs. Steve Mowry (10-0-1)\n
- Main Card: Dalton Rosta (8-0-0) vs. Aaron Jeffery (13-4-0)\nMain Card: S
- idney Outlaw (16-5-0) vs. Islam Mamedov (22-2-1)\nPrelim: Akhmed Magomed
- ov (10-1-0) vs. Kai Kamaka III (11-5-1)\nPrelim: Lucas Brennan (8-0-0) v
- s. Weber Almeida (7-1-0)\nPrelim: Michael Blockhus (0-0-0) vs. Eli Meffo
- rd (0-4-0)\nPrelim: Alfie Davis (15-4-1) vs. Aalon Cruz (11-4-0)\nPrelim
- : Leandro Higo (21-6-0) vs. Nikita Mikhailov (10-2-0)\nPrelim: Diana Avs
- aragova (6-0-0) vs. Justine Kish (8-6-0)\nPrelim: Dayana Silva (10-8-0) 
- vs. Ekaterina Shakalova (7-1-0)\nPrelim: Max Rohskopf (7-2-0) vs. Jairo 
- Pacheco (7-1-0)\nPrelim: Jerrell Hodge (10-3-0) vs. Marcirley Alves (11-
- 3-0)
+ ma\nhttp://www.sherdog.com/events/bellator-298-storley-vs-ward-97863\nht
+ tp://en.wikipedia.org/wiki/Bellator_298\nhttps://events.mixedmartialarts
+ .com/bellator-298:11b499d2-31ae-42fd-97fb-adc30c9d3cf5\nhttps://www.bell
+ ator.com/event/315\nhttps://www.bestfightodds.com/events/bellator-2992\n
+ \n---\n\nMain Event: Logan Storley (14-2-0) vs. Brennan Ward (17-6-0)\nC
+ o-Main Event: Valentin Moldavsky (11-3-0) vs. Steve Mowry (10-0-1)\nMain
+  Card: Dalton Rosta (8-0-0) vs. Aaron Jeffery (13-4-0)\nMain Card: James
+  Gallagher (11-2-0) vs. James Gonzalez (10-6-0)\nMain Card: Sidney Outla
+ w (16-5-0) vs. Islam Mamedov (22-2-1)\nPrelim: Lucas Brennan (8-0-0) vs.
+  Weber Almeida (7-1-0)\nPrelim: Enrique Barzola (19-7-2) vs. Jaylon Bate
+ s (7-0-0)\nPrelim: Diana Avsaragova (6-0-0) vs. Justine Kish (8-6-0)\nPr
+ elim: Vladimir Tokov (8-2-0) vs. Jairo Pacheco (7-1-0)\nPrelim: Dayana S
+ ilva (10-8-0) vs. Ekaterina Shakalova (7-1-0)\nPrelim: Sullivan Cauley (
+ 5-1-0) vs. Hamza Salim (7-6-0)\nPrelim: Alfie Davis (15-4-1) vs. Aalon C
+ ruz (11-4-0)\nPrelim: Leandro Higo (21-6-0) vs. Nikita Mikhailov (10-2-0
+ )\nPrelim: Josh Hill (22-5-0) vs. Kasum Kasumov (14-1-0)\nPrelim: Jerrel
+ l Hodge (10-3-0) vs. Marcirley Alves (11-3-0)\nPrelim: Jordan Oliver (0-
+ 0-0) vs. Andrew Triolo (0-1-0)\nPrelim: Michael Blockhus (0-0-0) vs. Eli
+  Mefford (0-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-08-bkfc-48-dodson-vs-ridge-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 48: Dodson vs. Ridge: Prelims
+DTSTART:20230811T230000Z
+DTEND:20230812T010000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=spenqrHPs48\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-48-prelims/2pdi0/\n\n---\n\nhtt
+ ps://www.tapology.com/fightcenter/events/102346-bkfc-48-dodson-vs-ridge\
+ nhttps://events.mixedmartialarts.com/bkfc-48:163fdf08-5447-4678-8901-14f
+ 0f7f2ec5a\nhttp://www.boxrec.com/en/event/876022\n\n---\n\nMain Event: J
+ ohn Dodson vs. JR Ridge\nCo-Main Event: Bryce Hall vs. Gee Perez\nMain C
+ ard: Keith Richardson vs. Derek Perez\nMain Card: Will Santiago vs. Jere
+ mie Holloway\nMain Card: Marc Entenberg vs. Darrick Gates\nMain Card: Sy
+ dney Smith vs. Melanie Shah\nMain Card: Joshua Moreno vs. Jeremy Sauceda
+ \nMain Card: Donald Sanchez vs. Blake LaCaze\nMain Card: Eric Dodson vs.
+  Robert Armas\nPrelim: Richard Montano vs. Kyle McElroy\nPrelim: Austin 
+ Lewis vs. Justyn Martinez\nPrelim: Anthony Sanchez vs. Gene Perez
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-bell-vs-carcosia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bell vs. Carcosia
+DTSTART:20230812T003000Z
+DTEND:20230812T033000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103836-bell-vs-carcosia\nhttp://www.boxrec.com/en/event/873674\n\n---\
+ n\nMain Event: Albert Bell (23-0-0) vs. Presco Carcosia (10-2-1)\nMain C
+ ard: Raul Salomon (12-1-0) vs. Tyler Howard (19-1-0)\nMain Card: David N
+ avarro (5-1-0) vs. D'Angelo Fuentes (8-1-0)\nMain Card: Giovanni Marquez
+  (5-0-0) vs. Nicky Vitone (9-2-1)\nMain Card: Stephanie Chavez (2-0-0) v
+ s. Devany Cuevas Torres (0-1-0)\nMain Card: David Lopez (3-0-0) vs. Jose
+ ph Suero (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-08-bkfc-48-dodson-vs-ridge@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 48: Dodson vs. Ridge
-DTSTART:20230812T000000Z
-DTEND:20230812T030000Z
+DTSTART:20230812T010000Z
+DTEND:20230812T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/102346-bkfc-48-dodson-vs-ridge\n\n---\n\nMain Event: John Dodson vs
- . JR Ridge
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-48/2pddf/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/102346-bkfc-48-dodson-vs-
+ ridge\nhttps://events.mixedmartialarts.com/bkfc-48:163fdf08-5447-4678-89
+ 01-14f0f7f2ec5a\nhttp://www.boxrec.com/en/event/876022\n\n---\n\nMain Ev
+ ent: John Dodson vs. JR Ridge\nCo-Main Event: Bryce Hall vs. Gee Perez\n
+ Main Card: Keith Richardson vs. Derek Perez\nMain Card: Will Santiago vs
+ . Jeremie Holloway\nMain Card: Marc Entenberg vs. Darrick Gates\nMain Ca
+ rd: Sydney Smith vs. Melanie Shah\nMain Card: Joshua Moreno vs. Jeremy S
+ auceda\nMain Card: Donald Sanchez vs. Blake LaCaze\nMain Card: Eric Dods
+ on vs. Robert Armas\nPrelim: Richard Montano vs. Kyle McElroy\nPrelim: A
+ ustin Lewis vs. Justyn Martinez\nPrelim: Anthony Sanchez vs. Gene Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-08-ufc-fight-night-luque-vs-dos-anjos@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-08-lux-fight-league-35@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night: Luque vs. Dos Anjos
-DTSTART:20230812T220000Z
+SUMMARY:Lux Fight League 35
+DTSTART:20230812T020000Z
+DTEND:20230812T050000Z
+CATEGORIES:LUX,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103167-lux-fight-league-35\nhttp://www.sherdog.com/events/lu
+ x-fight-league-035-lux-035-98058\n\n---\n\nMain Event: Edgar Delgado (11
+ -6-0) vs. Emmanuel Rivero (12-9-0)\nCo-Main Event: Irvin Amaya (9-3-0) v
+ s. André Barquero (8-2-0)\nMain Card: Emilio Saavedra (6-2-0) vs. Luis R
+ ey Gallegos (8-6-0)\nMain Card: Hugo Flores (10-4-0) vs. Leonel Rojas (4
+ -4-0)\nMain Card: Alejandro Cerquera (3-0-0) vs. Isaac Samayoa (5-2-0)\n
+ Main Card: Danae Solangel (2-0-0) vs. Jahaziel Carrillo (1-1-0)\nPrelim:
+  Damián Fernández (1-0-0) vs. Fabián López (2-1-0)\nPrelim: Jander Marti
+ nez (2-0-0) vs. Efren Tijerina (1-1-0)\nPrelim: Andrés Leal (14-11-0) vs
+ . Antonio Barajas (12-7-1)\nPrelim: Arturo Hernández (1-0-0) vs. Adrián 
+ Cortéz (2-0-0)\nPrelim: Hector Osvaldo Pedroza (0-0-0) vs. Jairo Gonzále
+ z (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-budo-sento-championship-16@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Budo Sento Championship 16
+DTSTART:20230812T042000Z
+DTEND:20230812T072000Z
+CATEGORIES:BSC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103860-budo-sento-championship-16\nhttp://www.sherdog.com/ev
+ ents/bsc-16-budo-sento-championship-16-98416\nhttps://events.mixedmartia
+ larts.com/budo-sento-championship-16:619cd6d9-051f-4a33-bfbf-8e541923659
+ 7\n\n---\n\nMain Event: Hugo Lezama (9-2-0) vs. Alejandro Solorzano (10-
+ 4-0)\nCo-Main Event: Christian Alquinga (4-1-0) vs. Marco Pardo (2-3-0)\
+ nMain Card: Sebastian Losada (2-2-0) vs. Jonatan Quiagua (2-0-0)\nMain C
+ ard: Fabián Albuerne (3-1-0) vs. Brandford Perez (3-1-0)\nMain Card: Bry
+ an Geraldo Cruz (1-0-0) vs. Omar Botello (2-1-0)\nMain Card: Mario Tena 
+ (7-9-0) vs. David Bento (6-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-gmc-olympix-135-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC OlympiX 135 - Grappling
+DTSTART:20230812T100000Z
+DTEND:20230812T130000Z
+CATEGORIES:GMC,Grappling,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=J1G6EMIYQaQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-rajadamnern-world-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series
+DTSTART:20230812T121500Z
+DTEND:20230812T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103916-rajadamnern-world-series
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-joshua-vs-helenius@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Joshua vs. Helenius
+DTSTART:20230812T180000Z
+DTEND:20230812T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/102916-joshua-vs-whyte-2\nhttps://www.matchroomboxing.com/events/joshu
+ a-vs-whyte-2/\nhttp://www.boxrec.com/en/event/876666\n\n---\n\nMain Even
+ t: Anthony Joshua (25-3-0) vs. Robert Helenius (32-4-0)\nCo-Main Event: 
+ Derek Chisora (33-13-0) vs. Gerald Washington (20-5-1)\nMain Card: Filip
+  Hrgovic (15-0-0) vs. Demsey McKean (22-0-0)\nMain Card: Johnny Fisher (
+ 9-0-0) vs. Harry Armstrong (5-1-1)\nPrelim: Campbell Hatton (12-0-0) vs.
+  Tom Ansell (10-4-0)\nPrelim: Maisey Rose Courtney (3-0-0) vs. Gemma Rue
+ gg (7-7-0)\nPrelim: George Liddard (3-0-0) vs. Bas Oosterweghel (5-1-0)\
+ nPrelim: Brandon Scott (0-0-0) vs. Louis Norman (14-13-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-ufc-vegas-78-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 78: Prelims
+DTSTART:20230812T200000Z
+DTEND:20230812T230000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101163-ufc-fight-night\nhttp://www.sherdog.com/events/ufc-on
+ -espn-51-luque-vs-dos-anjos-97766\nhttp://en.wikipedia.org/wiki/UFC_on_E
+ SPN:_Luque_vs._dos_Anjos\nhttps://events.mixedmartialarts.com/ufc-fight-
+ night:96d770a9-5198-400a-af00-0f6d6954b7e0\nhttps://www.ufc.com/event/uf
+ c-fight-night-august-12-2023\nhttp://www.ufcstats.com/event-details/d2fa
+ 318f34d0aadc\nhttps://www.bestfightodds.com/events/ufc-fight-night-226-2
+ 905\n\n---\n\nMain Event: Vicente Luque (21-9-1) vs. Rafael dos Anjos (3
+ 2-14-0)\nCo-Main Event: Cub Swanson (28-13-0) vs. Hakeem Dawodu (13-3-1)
+ \nMain Card: Khalil Rountree (11-5-0) vs. Chris Daukaus (12-6-0)\nMain C
+ ard: Polyana Viana (13-5-0) vs. Iasmin Lucindo (14-5-0)\nMain Card: Tafo
+ n Nchukwi (6-3-0) vs. AJ Dobson (6-2-0)\nMain Card: Josh Fremd (10-4-0) 
+ vs. Jamie Pickett (13-9-0)\nPrelim: Marcus McGhee (7-1-0) vs. JP Buys (9
+ -5-0)\nPrelim: Terrance McKinney (13-6-0) vs. Mike Breeden (10-5-0)\nPre
+ lim: Francis Marshall (7-1-0) vs. Isaac Dulgarian (5-0-0)\nPrelim: Josh 
+ Parisian (15-6-0) vs. Martin Buday (12-1-0)\nPrelim: Montserrat Ruiz (10
+ -2-0) vs. Jaqueline Amorim (6-1-0)\nPrelim: Da'Mon Blackshear (13-5-1) v
+ s. Jose Johnson (15-7-0)\nPrelim: Juliana Miller (3-2-0) vs. Luana Santo
+ s (5-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-rodriguez-vs-lopez-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rodriguez vs. Lopez: Prelims
+DTSTART:20230812T223000Z
 DTEND:20230813T010000Z
+CATEGORIES:TGB,Boxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=swrTx8djm1U\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/102838-rodriguez-vs-lo
+ pez\n\n---\n\nMain Event: Emmanuel Rodriguez (21-2-0) vs. Melvin Lopez (
+ 29-1-0)\nMain Card: Gary Antuanne Russell (16-0-0) vs. Kent Cruz (16-0-3
+ )\nMain Card: Gabriel Maestre (5-0-1) vs. Travon Marshall (8-0-0)\nPreli
+ m: Marcus Browne (24-2-0) vs. Adrian Taylor (13-1-1)\nPrelim: Michael An
+ geletti (8-0-0) vs. Jonathan Lopez (8-0-2)\nPrelim: Jose Benavidez Jr (2
+ 7-2-1) vs. Sladan Janjanin (35-15-0)\nPrelim: Jesse Hart (28-3-0) vs. El
+ io Heraldo Trosch (15-10-2)\nPrelim: Damien Vazquez (17-4-1) vs. Jeronil
+  Borres (11-8-2)\nPrelim: David Whitmire (2-0-0) vs. Jordy Tientcheu (0-
+ 1-0)\nPrelim: Daniel Blancas (0-0-0) vs. Devaun Lee (11-9-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-ufc-vegas-78-luque-vs-dos-anjos@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 78: Luque vs. Dos Anjos
+DTSTART:20230812T230000Z
+DTEND:20230813T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/101163-ufc-fight-night\n\n---\n\nMain Event: Vicen
- te Luque (21-9-1) vs. Rafael dos Anjos (32-14-0)\nPrelim: Lando Vannata 
- (12-7-2) vs. Mike Breeden (10-5-0)\nPrelim: Montserrat Ruiz (10-2-0) vs.
-  Jaqueline Amorim (6-1-0)\nPrelim: Polyana Viana (13-5-0) vs. Iasmin Luc
- indo (14-5-0)\nPrelim: Gaston Bolaños (7-3-0) vs. Marcus McGhee (7-1-0)\
- nPrelim: Tafon Nchukwi (6-3-0) vs. AJ Dobson (6-2-0)\nPrelim: Khalil Rou
- ntree (11-5-0) vs. Chris Daukaus (12-6-0)\nPrelim: Josh Fremd (10-4-0) v
- s. Jamie Pickett (13-9-0)\nPrelim: Francis Marshall (7-1-0) vs. Isaac Du
- lgarian (5-0-0)\nPrelim: Brady Hiestand (7-2-0) vs. Da'Mon Blackshear (1
- 3-5-1)
+ om/fightcenter/events/101163-ufc-fight-night\nhttp://www.sherdog.com/eve
+ nts/ufc-on-espn-51-luque-vs-dos-anjos-97766\nhttp://en.wikipedia.org/wik
+ i/UFC_on_ESPN:_Luque_vs._dos_Anjos\nhttps://events.mixedmartialarts.com/
+ ufc-fight-night:96d770a9-5198-400a-af00-0f6d6954b7e0\nhttps://www.ufc.co
+ m/event/ufc-fight-night-august-12-2023\nhttp://www.ufcstats.com/event-de
+ tails/d2fa318f34d0aadc\nhttps://www.bestfightodds.com/events/ufc-fight-n
+ ight-226-2905\n\n---\n\nMain Event: Vicente Luque (21-9-1) vs. Rafael do
+ s Anjos (32-14-0)\nCo-Main Event: Cub Swanson (28-13-0) vs. Hakeem Dawod
+ u (13-3-1)\nMain Card: Khalil Rountree (11-5-0) vs. Chris Daukaus (12-6-
+ 0)\nMain Card: Polyana Viana (13-5-0) vs. Iasmin Lucindo (14-5-0)\nMain 
+ Card: Tafon Nchukwi (6-3-0) vs. AJ Dobson (6-2-0)\nMain Card: Josh Fremd
+  (10-4-0) vs. Jamie Pickett (13-9-0)\nPrelim: Marcus McGhee (7-1-0) vs. 
+ JP Buys (9-5-0)\nPrelim: Terrance McKinney (13-6-0) vs. Mike Breeden (10
+ -5-0)\nPrelim: Francis Marshall (7-1-0) vs. Isaac Dulgarian (5-0-0)\nPre
+ lim: Josh Parisian (15-6-0) vs. Martin Buday (12-1-0)\nPrelim: Montserra
+ t Ruiz (10-2-0) vs. Jaqueline Amorim (6-1-0)\nPrelim: Da'Mon Blackshear 
+ (13-5-1) vs. Jose Johnson (15-7-0)\nPrelim: Juliana Miller (3-2-0) vs. L
+ uana Santos (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-08-brave-cf-73@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BRAVE CF 73
+DTSTART:20230813T000000Z
+DTEND:20230813T030000Z
+CATEGORIES:BRAVE,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/102416-brave-cf-73\nhttp://www.sherdog.com/events/brave-cf-73-brave-co
+ mbat-federation-73-98411\nhttps://events.mixedmartialarts.com/brave-cf-7
+ 3:53544c05-52a1-46c3-ba5b-ce21d8a1da43\n\n---\n\nMain Event: Jose Torres
+  (11-1-1) vs. Nkosi Ndebele (6-1-0)\nCo-Main Event: Zach Makovsky (21-11
+ -0) vs. Flavio de Queiroz (13-4-0)\nMain Card: Eduardo Mora (8-5-0) vs. 
+ Keron Bourne (7-0-0)\nMain Card: Eidy Macías (5-0-0) vs. Yasmeli Araque 
+ (4-4-0)\nMain Card: Luiz Cado (15-7-1) vs. Willker Lemos (11-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-08-contender-series-2023-week-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 2
-DTSTART:20230816T000000Z
-DTEND:20230816T030000Z
+DTSTART:20230815T230000Z
+DTEND:20230816T020000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/100992-contender-series-2023-week-2\n\n---\n\nMain Card: Edu
- arda Moura (8-0-0) vs. Janaína Silva (5-0-0)\nMain Card: Cameron Smother
- man (8-3-0) vs. Charalampos Grigoriou (7-3-0)\nMain Card: Hyder Amil (7-
- 0-0) vs. Emrah Sonmez (14-4-0)\nMain Card: A. Al-Selwady (14-3-0) vs. Ge
- orge Hardwick (12-1-0)
+ nter/events/100992-contender-series-2023-week-2\n\n---\n\nMain Event: A.
+  Al-Selwady (14-3-0) vs. George Hardwick (12-1-0)\nMain Card: Eduarda Mo
+ ura (8-0-0) vs. Janaína Silva (5-0-0)\nMain Card: Hyder Amil (7-0-0) vs.
+  Emrah Sonmez (14-4-0)\nMain Card: Paulo Renato Jr. (12-2-0) vs. Ibo Asl
+ an (11-1-0)\nMain Card: Cameron Smotherman (8-3-0) vs. Charalampos Grigo
+ riou (7-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-08-pfl-2023-playoffs-1@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-08-lfa-165-compton-vs-valente@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL 2023 Playoffs
+SUMMARY:LFA 165: Compton vs. Valente
+DTSTART:20230815T230000Z
+DTEND:20230816T020000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102757-lfa-165-compton-vs-valente\n\n---\n\nMain Event: Dani
+ el Compton (8-2-0) vs. Renato Valente (9-6-0)\nCo-Main Event: Randall Wa
+ llace (19-9-1) vs. Wallace Lopes (7-5-0)\nMain Card: Uran Satybaldiev (5
+ -1-0) vs. Gabriel Thimoteo (5-4-0)\nMain Card: Kendra McIntyre (1-0-0) v
+ s. Alandria Rosales (3-1-0)\nMain Card: Eduardo Henrique (10-2-0) vs. Le
+ andro Soares (10-5-1)\nMain Card: Allan Begosso (7-3-1) vs. Cristian Gio
+ vannie (4-2-0)\nPrelim: Salvador Osorio (2-1-0) vs. Shane Torres (4-3-0)
+ \nPrelim: Matt Chapman (1-1-0) vs. Lucas Martino (2-1-0)\nPrelim: Mckenn
+ a Mitchell (0-2-0) vs. Cristina Brador (0-0-0)\nPrelim: Lorenzo Figueroa
+  (0-0-0) vs. Billy Ray Valdez (1-0-0)\nPrelim: Aris Arguello (0-0-0) vs.
+  Jordan Isordia (2-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-one-friday-fights-29@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 29
+DTSTART:20230818T123000Z
+DTEND:20230818T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103794-one-friday-fights-29\n\n---\n\nMain Card: Saeksan Or Kwanmua
+ ng vs. Isaac Araya\nMain Card: Pongsiri PK. Saenchai vs. Fariyar Aminipo
+ ur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-pfl-2023-playoffs-schwergewicht-frauen-federgewicht@kampfkale
+ nder.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 2023 Playoffs: Schwergewicht & Frauen Federgewicht
 DTSTART:20230818T220000Z
 DTEND:20230819T010000Z
 CATEGORIES:PFL,MMA,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/101463-pfl-8-2023-playoffs\n\n---\n\nMain Event: Denis Goltsov (31-7-0
- ) vs. Jordan Heiderman (7-0-0)\nMain Card: Larissa Pacheco (21-4-0) vs. 
- Olena Kolesnyk (9-5-0)\nMain Card: Renan Ferreira (10-4-0) vs. Marcelo N
- unes (10-2-0)\nMain Card: Marina Mokhnatkina (10-3-0) vs. Amber Leibrock
-  (7-5-0)
+ s/101463-pfl-8-2023-playoffs\n\n---\n\nMain Event: Renan Ferreira (10-3-
+ 0) vs. Maurice Greene (11-8-0)\nCo-Main Event: Larissa Pacheco (21-4-0) 
+ vs. Olena Kolesnyk (9-5-0)\nMain Card: Denis Goltsov (31-7-0) vs. Jordan
+  Heiderman (7-0-0)\nMain Card: Marina Mokhnatkina (10-3-0) vs. Amber Lei
+ brock (7-5-0)\nMain Card: Nate Kelly (7-2-0) vs. Damion Nelson (4-3-0)\n
+ Prelim: Chris Mixan (5-0-0) vs. Eddy George (6-1-0)\nPrelim: Abraham Bab
+ ly (3-0-0) vs. Anthony Wint (1-0-0)\nPrelim: Danilo Marques (14-5-0) vs.
+  Satoshi Ishii (26-13-1)\nPrelim: Laureano Staropoli (12-5-0) vs. Ben Eg
+ li (14-5-0)\nPrelim: Kaytlin Neil (7-4-0) vs. Maíra Mazar (8-6-0)\nPreli
+ m: Louie Sutherland (5-2-0) vs. Daiqwon Buckley (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-aka-30@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 30
-DTSTART:20230819T010000Z
-DTEND:20230819T040000Z
+DTSTART:20230819T000000Z
+DTEND:20230819T030000Z
 CATEGORIES:AKA,MMA,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/101934-aka-30
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-30/2pdey/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/101934-aka-30\n\n---\n\nMa
+ in Event: Darence Dewayne Brooks (5-8-0) vs. Juan Lee (2-0-0)\nCo-Main E
+ vent: Kelly Leo vs. Billy Frederick\nMain Card: Michael Acuff (0-0-0) vs
+ . Isaiah Linn (0-0-0)\nMain Card: Ernest Stevenson (0-0-0) vs. Luke Saxo
+ n (0-2-0)\nMain Card: Gerald Alexander (0-0-0) vs. JD Deming (0-0-0)\nMa
+ in Card: Jamal Miller vs. Timoteo Lopez\nMain Card: Tony Fields (0-0-0) 
+ vs. Jaden Clark (0-0-0)\nMain Card: Shayne Menapace vs. Gavin Randazzo\n
+ Main Card: Amanda Uzzle vs. Angel Alcozer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-08-ksw-85@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-08-scoby-vs-carmona@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:KSW 85
+SUMMARY:Scoby vs. Carmona
+DTSTART:20230819T000000Z
+DTEND:20230819T030000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103917-scoby-vs-carmona\nhttp://www.boxrec.com/en/event/873677\n\n---\
+ n\nMain Event: Kurt Scoby (12-0-0) vs. Narciso Carmona (11-0-1)\nMain Ca
+ rd: Money Powell IV (13-1-0) vs. Shawn McCalman (13-0-0)\nMain Card: Jav
+ on Campbell (12-1-0) vs. Lorenzo Parra (22-1-0)\nMain Card: LeAnna Cruz 
+ (5-0-0) vs. Maryguenn Vellinga (4-3-2)\nMain Card: Javier Zamarron (4-0-
+ 0) vs. S. Santiago-Fernandez (0-1-0)\nMain Card: Asa Stevens (4-0-0) vs.
+  D'Angelo Hopgood (2-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-rajadamnern-world-series-final-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series: Final 4
+DTSTART:20230819T121500Z
+DTEND:20230819T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103918-rajadamnern-world-series-final-4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-ksw-85-parnasse-vs-rucha-a@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 85: Parnasse vs. Ruchała
 DTSTART:20230819T170000Z
 DTEND:20230819T200000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/101938-ksw-85\n\n---\n\nMain Event: Salahdine Parnasse (17-1-0) v
- s. Robert Ruchała (9-0-0)
+ s. Robert Ruchała (9-0-0)\nCo-Main Event: Ibragim Chuzhigaev (17-5-0) vs
+ . Bogdan Gnidko (10-0-0)\nMain Card: Danu Tărchilă (6-1-0) vs. Patryk Ka
+ czmarczyk (9-2-0)\nMain Card: Patryk Surdyn (7-3-0) vs. Kamil Szkaradek 
+ (4-0-0)\nMain Card: Michał Pietrzak (10-6-1) vs. Marcin Krakowiak (12-4-
+ 0)\nMain Card: Adrianna Kreft (5-0-0) vs. Yasmin Guimarães (5-1-0)\nMain
+  Card: Rafał Kijańczuk (12-6-0) vs. Kleber Silva (21-11-0)\nPrelim: Sand
+ ra Succar (1-0-0) vs. Wiktoria Czyżewska (2-0-0)\nPrelim: Wilson Varela 
+ (9-5-0) vs. Łukasz Rajewski (12-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-08-glory-87@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory 87
+DTSTART:20230819T180000Z
+DTEND:20230819T210000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/102696-glory-87\n\n---\n\nMain Event: Tyjani Bezt
+ ati vs. Kaito Ono\nCo-Main Event: Murthel Groenhart vs. Cihad Akipa\nMai
+ n Card: Michael Boapeah vs. Sergej Braun\nMain Card: Jan Kaffa vs. Moham
+ ed el Hammouti\nMain Card: Uku Jürjendal vs. Martin Terpstra\nMain Card:
+  Bahram Rajabzadeh vs. Mohamed Amine\nPrelim: Imad Hadar vs. Maksymilian
+  Bratkowicz\nPrelim: Nicola Filipovic vs. Cristian Ristea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-yafai-vs-frank@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Yafai vs. Frank
+DTSTART:20230819T180000Z
+DTEND:20230819T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103098-yafai-vs-frank-nxt-gen\nhttp://www.boxrec.com/en/event/876988\n
+ \n---\n\nMain Card: Galal Yafai (4-0-0) vs. Tommy Frank (15-3-1)\nMain C
+ ard: Cyrus Pattinson (6-0-0) vs. Conah Walker (11-2-1)\nMain Card: Jorda
+ n Flynn (9-0-0) vs. Kane Baker (19-10-1)\nMain Card: Solomon Dacres (6-0
+ -0) vs. Chris Thompson (11-4-1)\nMain Card: Khaleel Majid (10-0-0) vs. A
+ lessandro Fersula (9-4-0)\nMain Card: Aaron Bowen (2-0-0) vs. Wilmer Bar
+ on (6-1-0)\nMain Card: Muhammad Ali (2-0-0) vs. Fran Rodriguez (1-13-0)\
+ nMain Card: Sahil Khan (0-0-0) vs. Sean Jackson (0-14-1)\nMain Card: Ibr
+ aheem Sulaimaan (0-0-0) vs. Michel Gonxhe (4-3-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-ufc-292-early-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 292: Early Prelims
+DTSTART:20230819T220000Z
+DTEND:20230820T000000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101022-ufc-292\n\n---\n\nMain Event: Aljamain Sterling (23-3
+ -0) vs. Sean O'Malley (16-1-0)\nCo-Main Event: Weili Zhang (23-3-0) vs. 
+ Amanda Lemos (13-2-1)\nMain Card: Cody Garbrandt (13-5-0) vs. Mario Baut
+ ista (12-2-0)\nMain Card: Marlon Vera (22-8-1) vs. Pedro Munhoz (20-7-0)
+ \nMain Card: Neil Magny (28-10-0) vs. Ian Machado Garry (12-0-0)\nPrelim
+ : Gerald Meerschaert (35-16-0) vs. Andre Petroski (9-1-0)\nPrelim: Chris
+  Weidman (15-6-0) vs. Brad Tavares (19-8-0)\nPrelim: Gregory Rodrigues (
+ 13-5-0) vs. Denis Tiuliulin (11-7-0)\nPrelim: Maryna Moroz (11-4-0) vs. 
+ Karine Silva (16-4-0)\nPrelim: Andrea Lee (13-7-0) vs. Natália Silva (15
+ -5-1)\nPrelim: Kurt Holobaugh (19-7-0) vs. Austin Hubbard (15-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-ufc-292-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 292: Prelims
+DTSTART:20230820T000000Z
+DTEND:20230820T020000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101022-ufc-292\n\n---\n\nMain Event: Aljamain Sterling (23-3
+ -0) vs. Sean O'Malley (16-1-0)\nCo-Main Event: Weili Zhang (23-3-0) vs. 
+ Amanda Lemos (13-2-1)\nMain Card: Cody Garbrandt (13-5-0) vs. Mario Baut
+ ista (12-2-0)\nMain Card: Marlon Vera (22-8-1) vs. Pedro Munhoz (20-7-0)
+ \nMain Card: Neil Magny (28-10-0) vs. Ian Machado Garry (12-0-0)\nPrelim
+ : Gerald Meerschaert (35-16-0) vs. Andre Petroski (9-1-0)\nPrelim: Chris
+  Weidman (15-6-0) vs. Brad Tavares (19-8-0)\nPrelim: Gregory Rodrigues (
+ 13-5-0) vs. Denis Tiuliulin (11-7-0)\nPrelim: Maryna Moroz (11-4-0) vs. 
+ Karine Silva (16-4-0)\nPrelim: Andrea Lee (13-7-0) vs. Natália Silva (15
+ -5-1)\nPrelim: Kurt Holobaugh (19-7-0) vs. Austin Hubbard (15-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-08-ufc-292-sterling-vs-o-malley@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 292: Sterling vs. O'Malley
-DTSTART:20230819T220000Z
-DTEND:20230820T010000Z
+DTSTART:20230820T020000Z
+DTEND:20230820T050000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101022-ufc-292\n\n---\n\nMain Event: Aljamain Ster
  ling (23-3-0) vs. Sean O'Malley (16-1-0)\nCo-Main Event: Weili Zhang (23
- -3-0) vs. Amanda Lemos (13-2-1)\nMain Card: Rob Font (20-6-0) vs. Yadong
-  Song (20-7-1)\nMain Card: Geoff Neal (15-5-0) vs. Ian Machado Garry (12
- -0-0)\nMain Card: Henry Cejudo (16-3-0) vs. Marlon Vera (22-8-1)\nPrelim
- : Cody Garbrandt (13-5-0) vs. Mario Bautista (12-2-0)\nPrelim: Gerald Me
- erschaert (35-16-0) vs. Andre Petroski (9-1-0)\nPrelim: Chris Weidman (1
- 5-6-0) vs. Brad Tavares (19-8-0)\nPrelim: Gregory Rodrigues (13-5-0) vs.
-  Denis Tiuliulin (11-7-0)\nPrelim: Maryna Moroz (11-4-0) vs. Karine Silv
- a (16-4-0)\nPrelim: Andrea Lee (13-7-0) vs. Natália Silva (15-5-1)
+ -3-0) vs. Amanda Lemos (13-2-1)\nMain Card: Cody Garbrandt (13-5-0) vs. 
+ Mario Bautista (12-2-0)\nMain Card: Marlon Vera (22-8-1) vs. Pedro Munho
+ z (20-7-0)\nMain Card: Neil Magny (28-10-0) vs. Ian Machado Garry (12-0-
+ 0)\nPrelim: Gerald Meerschaert (35-16-0) vs. Andre Petroski (9-1-0)\nPre
+ lim: Chris Weidman (15-6-0) vs. Brad Tavares (19-8-0)\nPrelim: Gregory R
+ odrigues (13-5-0) vs. Denis Tiuliulin (11-7-0)\nPrelim: Maryna Moroz (11
+ -4-0) vs. Karine Silva (16-4-0)\nPrelim: Andrea Lee (13-7-0) vs. Natália
+  Silva (15-5-1)\nPrelim: Kurt Holobaugh (19-7-0) vs. Austin Hubbard (15-
+ 6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-contender-series-2023-week-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 3
@@ -235,25 +621,225 @@ DTSTART:20230823T000000Z
 DTEND:20230823T030000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/100993-contender-series-2023-week-3\n\n---\n\nMain Card: Isi
- s Verbeek (4-1-0) vs. Josefine Knutsson (5-0-0)\nMain Card: Edgar Cháire
- z (10-4-0) vs. Felipe dos Santos (7-0-0)\nMain Card: Eli Aronov (6-0-0) 
- vs. Zachary Reese (5-0-0)\nMain Card: Robbie Ring (6-0-0) vs. Luis Pajue
- lo (7-1-0)
+ nter/events/100993-contender-series-2023-week-3\n\n---\n\nMain Event: El
+ i Aronov (6-0-0) vs. Zachary Reese (5-0-0)\nMain Card: Oban Elliott (8-2
+ -0) vs. Kaik Brito (16-4-0)\nMain Card: Isis Verbeek (4-1-0) vs. Josefin
+ e Knutsson (5-0-0)\nMain Card: Robbie Ring (6-0-0) vs. Luis Pajuelo (7-1
+ -0)\nMain Card: Luciano Pereira (13-1-0) vs. Felipe dos Santos (7-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-08-pfl-2023-playoffs-1@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-08-pfl-2023-playoffs-weltergewicht-leichtgewicht@kampfkalender.d
+ e
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:PFL 2023 Playoffs
+SUMMARY:PFL 2023 Playoffs: Weltergewicht & Leichtgewicht
 DTSTART:20230823T220000Z
 DTEND:20230824T010000Z
 CATEGORIES:PFL,MMA,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/101464-pfl-9-2023-playoffs
+ s/101464-pfl-9-2023-playoffs\n\n---\n\nMain Event: Clay Collard (23-10-0
+ ) vs. Shane Burgos (16-4-0)\nCo-Main Event: Olivier Aubin-Mercier (19-5-
+ 0) vs. Bruno Miranda (16-3-0)\nMain Card: Magomed Magomedkerimov (32-6-0
+ ) vs. Magomed Umalatov (14-0-0)\nMain Card: Carlos Leal (19-4-0) vs. Sad
+ ibou Sy (15-6-2)\nMain Card: Biaggio Ali Walsh (4-1-0) vs. Ed Davis (2-1
+ -0)\nPrelim: Alexei Pergande (3-0-0) vs. Shawn Stefanelli (4-2-0)\nPreli
+ m: Mostafa Rashed Neda (7-3-0) vs. Korey Kuppe (11-5-0)\nPrelim: Abby Mo
+ ntes (4-2-0) vs. Michelle Montague (3-0-0)\nPrelim: Abdullah Al-Qahtani 
+ (6-1-0) vs. David Zelner (4-2-0)\nPrelim: John Caldone (4-1-0) vs. Natha
+ niel Grimard (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-08-pfl-europe-2023-week-9@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL Europe 2023: Week 9
+DTSTART:20230824T000000Z
+DTEND:20230824T030000Z
+CATEGORIES:PFL,MMA,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-one-friday-fights-30@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 30
+DTSTART:20230825T123000Z
+DTEND:20230825T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103929-one-friday-fights-30\n\n---\n\nMain Card: Saemapetch Fairtex
+  vs. K. P.K. Saenchai Muaythaigym
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-uae-warriors-43-arabia-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors 43: Arabia 12
+DTSTART:20230825T140000Z
+DTEND:20230825T170000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103637-uae-warriors-43-arabia-12\n\n---\n\nMain Event: Badre
+ ddine Diani (6-2-0) vs. Wisem Hammami (7-1-0)\nCo-Main Event: Abdulla Al
+  Bousheiri (9-4-0) vs. Adham Mohamed (6-1-0)\nMain Card: Mohamed Al Kath
+ eeri (1-1-0) vs. Shehab Noaman (2-1-0)\nMain Card: Anuar Bensayiid (2-1-
+ 0) vs. Abdalrahman Alhyasat (2-0-0)\nMain Card: Eman Almudhaf (2-0-0) vs
+ . Haiat Farag Youssef (1-1-0)\nMain Card: Maraoune Bellagouit (2-0-0) vs
+ . Abdi Farah (4-3-0)\nMain Card: Mahmoud Abd El Raouf (4-0-0) vs. Wasem 
+ Anwar (3-0-0)\nPrelim: Mohammad Mutie (1-1-0) vs. Qais Burmawi (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-shooto-brasil-119@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Shooto Brasil 119
+DTSTART:20230825T230000Z
+DTEND:20230826T020000Z
+CATEGORIES:SB,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/97890-shooto-brasil-119\n\n---\n\nMain Event: Ronys Torres (
+ 41-9-0) vs. Pedro Paulino (10-1-0)\nCo-Main Event: Carlos Pereira (38-12
+ -1) vs. Jose Gomes (41-17-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-bkfc-49-slaveski-vs-lindsey@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 49: Slaveski vs. Lindsey
+DTSTART:20230826T000000Z
+DTEND:20230826T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/102528-bkfc-49\n\n---\n\nMain Event: Gorjan Slaveski vs. Jake Linds
+ ey\nCo-Main Event: Bryce Henry vs. Tom Shoaff\nMain Card: Frank Alvarez 
+ vs. Jarod Grant\nMain Card: Bryan Duran vs. Dakota Highpine\nMain Card: 
+ John Michael Escoboza vs. Esteban Rodriguez\nMain Card: Howard Davis vs.
+  Jeff Chiffens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-simpson-vs-hernandez@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Simpson vs. Hernandez
+DTSTART:20230826T000000Z
+DTEND:20230826T030000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103930-simpson-vs-hernandez\nhttp://www.boxrec.com/en/event/873659\n\n
+ ---\n\nMain Event: Lorenzo Simpson (13-0-0) vs. Vladimir Hernandez (13-5
+ -0)\nMain Card: Andreas Katzourakis (10-0-0) vs. Raphael Igbokwe (15-4-0
+ )\nMain Card: Abel Gonzalez (5-0-0) vs. Robert Magee (8-0-2)\nMain Card:
+  Luis Acosta (12-1-0) vs. Christian Barreto (9-0-0)\nMain Card: Donte La
+ yne (0-0-0) vs. Nathan Mitchell (0-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-uwc-47@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UWC 47
+DTSTART:20230826T010000Z
+DTEND:20230826T040000Z
+CATEGORIES:UWCM,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-ufc-singapore-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Singapore: Prelims
+DTSTART:20230826T090000Z
+DTEND:20230826T120000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/101389-ufc-fight-night\n\n---\n\nMain Event: Max Holloway (2
+ 4-7-0) vs. Chan Sung Jung (17-7-0)\nCo-Main Event: Anthony Smith (36-18-
+ 0) vs. Ryan Spann (21-8-0)\nMain Card: Rinya Nakamura (7-0-0) vs. Fernie
+  Garcia (10-3-0)\nMain Card: Erin Blanchfield (11-1-0) vs. Taila Santos 
+ (19-2-0)\nMain Card: Junior Tafa (4-1-0) vs. Parker Porter (14-8-0)\nMai
+ n Card: Giga Chikadze (14-3-0) vs. Alex Caceres (21-13-0)\nPrelim: Waldo
+  Cortes-Acosta (9-1-0) vs. Łukasz Brzeski (8-3-1)\nPrelim: Chidi Njokuan
+ i (22-9-0) vs. Michał Oleksiejczuk (18-6-0)\nPrelim: Na Liang (19-6-0) v
+ s. JJ Aldrich (11-6-0)\nPrelim: Yusaku Kinoshita (6-2-0) vs. Billy Goff 
+ (8-2-0)\nPrelim: Kenan Song (19-7-0) vs. Rolando Bedoya (14-2-0)\nPrelim
+ : Seung Woo Choi (10-6-0) vs. Jarno Errens (13-4-1)\nPrelim: Toshiomi Ka
+ zama (10-3-0) vs. Garrett Armfield (8-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-ufc-singapore-holloway-vs-korean-zombie@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Singapore: Holloway vs. Korean Zombie
+DTSTART:20230826T120000Z
+DTEND:20230826T150000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/101389-ufc-fight-night\n\n---\n\nMain Event: Max H
+ olloway (24-7-0) vs. Chan Sung Jung (17-7-0)\nCo-Main Event: Anthony Smi
+ th (36-18-0) vs. Ryan Spann (21-8-0)\nMain Card: Rinya Nakamura (7-0-0) 
+ vs. Fernie Garcia (10-3-0)\nMain Card: Erin Blanchfield (11-1-0) vs. Tai
+ la Santos (19-2-0)\nMain Card: Junior Tafa (4-1-0) vs. Parker Porter (14
+ -8-0)\nMain Card: Giga Chikadze (14-3-0) vs. Alex Caceres (21-13-0)\nPre
+ lim: Waldo Cortes-Acosta (9-1-0) vs. Łukasz Brzeski (8-3-1)\nPrelim: Chi
+ di Njokuani (22-9-0) vs. Michał Oleksiejczuk (18-6-0)\nPrelim: Na Liang 
+ (19-6-0) vs. JJ Aldrich (11-6-0)\nPrelim: Yusaku Kinoshita (6-2-0) vs. B
+ illy Goff (8-2-0)\nPrelim: Kenan Song (19-7-0) vs. Rolando Bedoya (14-2-
+ 0)\nPrelim: Seung Woo Choi (10-6-0) vs. Jarno Errens (13-4-1)\nPrelim: T
+ oshiomi Kazama (10-3-0) vs. Garrett Armfield (8-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-rajadamnern-world-series-final-4-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series: Final 4
+DTSTART:20230826T121500Z
+DTEND:20230826T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-uae-warriors-44@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors 44
+DTSTART:20230826T150000Z
+DTEND:20230826T180000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103638-uae-warriors-44\n\n---\n\nMain Event: Amru Magomedov 
+ (6-0-0) vs. Alex da Silva (22-5-0)\nCo-Main Event: Xavier Alaoui (14-4-0
+ ) vs. Baergeng Jieleyisi (14-5-0)\nMain Card: Sanzhar Adilov (11-1-1) vs
+ . Kylymbek Altymysh uulu (8-1-1)\nMain Card: Eslam Abdul Baset (14-2-0) 
+ vs. Robin Roos (6-3-0)\nPrelim: Furkatbek Yokubov (8-3-0) vs. Yamato Fuj
+ ita (9-4-0)\nPrelim: Joevincent So (10-4-0) vs. Aaron Aby (14-7-1)\nPrel
+ im: Mariusz Mazur (6-2-0) vs. Mikail Bayram (6-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-gmc-fight-night-16@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC Fight Night 16
+DTSTART:20230826T160000Z
+DTEND:20230826T190000Z
+CATEGORIES:GMC,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
+ nts/103206-gmc-fight-night-16\n\n---\n\nMain Event: Nezar Al-Khabbaz (2-
+ 0-0) vs. Abdallah Gamal (3-3-0)\nCo-Main Event: Dominik Vetek (3-3-0) vs
+ . Jamal Majidi (3-2-0)\nMain Card: Ramil Estemirov (1-2-0) vs. Ali Gündü
+ z (2-0-0)\nMain Card: Adrian Preda (0-0-0) vs. Hermann Hergert (3-1-0)\n
+ Main Card: Joseph Donkor (3-2-0) vs. Sultan Sulimani (6-4-0)\nMain Card:
+  Tolga Atik (0-1-0) vs. Daniel Ligocki (1-1-0)\nMain Card: Abdullah Sult
+ ani (0-0-0) vs. Ramzan Jandarbaev (0-0-0)\nMain Card: Anatoliy Adzhamyan
+  (0-0-0) vs. Justin Boone (0-0-0)\nMain Card: Ariyan Alipour (1-2-2) vs.
+  Hamza Dagderiven (0-1-0)\nMain Card: Michelle Striessbaum (0-0-0) vs. L
+ orena Cubero (3-1-0)\nMain Card: Aslan Bagaev (3-3-0) vs. Ahma Omarov (5
+ -0-0)\nMain Card: Dylan Akchiche (0-1-0) vs. Lukas Bressmer (2-0-0)\nMai
+ n Card: Mahar Zeidan (1-0-0) vs. Kai Ibe (5-4-0)\nMain Card: Max Luster 
+ (2-0-0) vs. Mehmet Gülen (0-0-0)\nMain Card: Erwin Jakunin (0-0-0) vs. K
+ efayatullah Ali (1-2-0)\nMain Card: Mirjanan Jamalzada (0-0-0) vs. Lukas
+  Kraus (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-08-mf-dazn-x-series-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 10
@@ -262,25 +848,11 @@ DTEND:20230826T200000Z
 CATEGORIES:MF,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98252-mf-dazn-x-series-10\n\n---\n\nMain Event: Olajide Olatunji (1-0-
- 0) vs. Tommy Fury (9-0-0)
+ 0) vs. Tommy Fury (9-0-0)\nMain Card: Logan Paul (0-1-0) vs. Dillon Dani
+ s (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-08-ufc-fight-night-1@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night
-DTSTART:20230826T220000Z
-DTEND:20230827T010000Z
-CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
-DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/101389-ufc-fight-night\n\n---\n\nMain Event: Max H
- olloway (24-7-0) vs. Chan Sung Jung (17-7-0)\nMain Card: Chidi Njokuani 
- (22-9-0) vs. Michał Oleksiejczuk (18-6-0)\nPrelim: Rinya Nakamura (7-0-0
- ) vs. Fernie Garcia (10-3-0)\nPrelim: Waldo Cortes-Acosta (9-1-0) vs. Łu
- kasz Brzeski (8-3-1)\nPrelim: Na Liang (19-6-0) vs. JJ Aldrich (11-6-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-08-aka-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 31
@@ -288,10 +860,128 @@ DTSTART:20230827T010000Z
 DTEND:20230827T040000Z
 CATEGORIES:AKA,MMA,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/101935-aka-31
+ ents/101935-aka-31\n\n---\n\nMain Event: Joseph Holmes (8-4-0) vs. Danie
+ l De La Cruz (3-0-0)\nCo-Main Event: Christopher Anthony (11-13-0) vs. K
+ alvin Hackney (17-6-0)\nMain Card: Gabe Clark (0-0-0) vs. Abe Sellers (5
+ -5-0)\nMain Card: Fabian Reyna (2-1-0) vs. Peyton Bass (1-0-0)\nMain Car
+ d: Nicholas Moses (0-0-0) vs. Michael Sullivan (4-2-0)\nMain Card: Rodri
+ go Miranda (0-2-0) vs. Abdullah Al-Azzawi (0-0-0)\nMain Card: John Busti
+ llos (0-0-0) vs. Jordan Mays (2-4-0)\nMain Card: Tevinn Cantly (1-0-0) v
+ s. Jeremy Allen (0-1-0)\nMain Card: Adam Guillory (0-0-0) vs. Landon Roy
+ er (0-0-0)\nMain Card: Jonathan Sandoval (2-1-0) vs. Thomas Daigrepont (
+ 2-0-0)\nMain Card: Neb Ermias (0-0-0) vs. Shon Brown (2-2-0)\nMain Card:
+  Chance Brossette (3-0-0) vs. Bradley Landry (0-1-0)\nMain Card: Titus Y
+ oung (1-1-0) vs. Larry Caldwell (0-2-0)\nMain Card: Ta'Mere Sampy (0-0-0
+ ) vs. Brandon Delrie (0-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-08-collazo-vs-diagan@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Collazo vs. Diagan
+DTSTART:20230827T010000Z
+DTEND:20230827T040000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103507-collazo-vs-diagan\n\n---\n\nMain Event: Oscar Collazo (7-0-0) v
+ s. Garen Diagan (10-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-walsh-vs-velasco@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Walsh vs. Velasco
+DTSTART:20230827T010000Z
+DTEND:20230827T040000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103145-hollywood-fight-nights-walsh-vs-navarro\nhttp://www.b
+ oxrec.com/en/event/871601\n\n---\n\nMain Event: Callum Walsh (7-0-0) vs.
+  Juan Jose Velasco (24-4-0)\nMain Card: Adan Ochoa (12-3-0) vs. Arnold A
+ lejandro (11-1-1)\nMain Card: Gor Yeritsyan (15-0-0) vs. Rogelio Jun Dol
+ iguez (24-4-2)\nMain Card: Umar Dzambekov (6-0-0) vs. David Zegarra (34-
+ 10-0)\nMain Card: Aidyn Yelzhanov (6-1-1) vs. Andy Beltran (5-0-0)\nMain
+  Card: Eduardo Diaz (5-3-0) vs. Jose Gomez Jr (4-2-1)\nMain Card: Gloria
+  Munguilla (4-0-0) vs. Shawna Ormsby (0-1-1)\nMain Card: David Benitez (
+ 2-0-1) vs. Josias Gonzalez (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-fusion-fight-league-lights-out-at-the-dome-6@kampfkalender.de
+ 
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League: Lights Out at the Dome 6
+DTSTART:20230827T013000Z
+DTEND:20230827T043000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-lights-out-at-the-
+ dome-6/2pdh5/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/1036
+ 87-fusion-fight-league-lights-out-at-the-dome-6\nhttps://events.mixedmar
+ tialarts.com/fusion-fight-league:2c98ae86-ac88-482f-b998-5c3d52eff82b\n\
+ n---\n\nMain Event: Delane Lamere (9-5-0) vs. Gage Saunders (11-5-0)\nMa
+ in Card: Amari Sengsavanh (3-0-0) vs. Chase Eastham (2-5-0)\nMain Card: 
+ Ryder Small (1-1-0) vs. Daeri Alderman (3-0-0)\nMain Card: Kai Duque (0-
+ 1-0) vs. Lance Regimbal (1-0-0)\nMain Card: Kordell Small (0-1-0) vs. Ti
+ mothy Curry (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-road-to-ufc-singapore-episode-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Road to UFC: Singapore Episode 1
+DTSTART:20230827T080000Z
+DTEND:20230827T110000Z
+CATEGORIES:Other,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103957-road-to-ufc-singapore-episode-1\n\n---\n\nMain Card: 
+ Kaiwen Li (11-5-0) vs. Kouya Kanda (12-4-0)\nMain Card: Seung Guk Choi (
+ 7-2-0) vs. Jiniushiyue (12-2-0)\nMain Card: Zha Yi (23-4-0) vs. Sang Won
+  Kim (10-5-1)\nMain Card: Rei Tsuruya (7-0-0) vs. Mark Climaco (9-1-0)\n
+ Main Card: Peter Danesoe (6-2-0) vs. N. Tumendemberel (7-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-road-to-ufc-singapore-episode-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Road to UFC: Singapore Episode 2
+DTSTART:20230827T100000Z
+DTEND:20230827T130000Z
+CATEGORIES:Other,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103958-road-to-ufc-singapore-episode-2\n\n---\n\nMain Card: 
+ Bahatebole Batebolati (8-1-1) vs. Shin Haraguchi (6-0-0)\nMain Card: Dae
+ rmisi Zhawupasi (7-0-0) vs. Chang Ho Lee (8-1-0)\nMain Card: Zhu Rong (2
+ 3-5-0) vs. Sang Uk Kim (9-2-0)\nMain Card: Long Xiao (25-7-0) vs. Shuya 
+ Kamikubo (13-1-1)\nMain Card: Jae Hyun Park (6-1-0) vs. Quillan Salkilld
+  (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-fury-fc-82-moran-vs-trujillo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 82: Moran vs. Trujillo
+DTSTART:20230827T213000Z
+DTEND:20230828T003000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102559-fury-fc-82\nhttps://events.mixedmartialarts.com/fury-
+ fc-82:f2f70fbe-04b2-4ec3-9fdb-e2b969ffbb7c\n\n---\n\nMain Event: Paris M
+ oran (8-2-0) vs. Alberto Trujillo (8-2-0)\nCo-Main Event: Jonathan Davis
+  (7-2-0) vs. Luis Gurule (5-0-0)\nMain Card: Shimon Smotritsky (9-2-0) v
+ s. Kenan Jackson (5-2-0)\nMain Card: Jacob Silva (10-9-0) vs. Shojin Mik
+ i (10-9-0)\nMain Card: Mario Moore (2-2-0) vs. Al Savea (3-0-0)\nMain Ca
+ rd: Raymond Cardenas (2-2-0) vs. Bruce Whitehead (2-0-0)\nMain Card: Ton
+ y Toro (1-0-0) vs. Joshua Aleman (0-0-0)\nMain Card: Chris Soliz (0-1-0)
+  vs. Pena Allamov (1-1-0)\nMain Card: Gabriel Echavarry (4-2-0) vs. Cris
+ tian Lopez (1-4-0)\nPrelim: Martin Pineda (3-0-0) vs. Jeremy Deleon (2-2
+ -0)\nPrelim: Lee Charles (5-1-0) vs. Carlos Zepeda (2-2-0)\nPrelim: Dani
+ a Cruz (3-5-0) vs. Kayla Sustaita (0-0-0)\nPrelim: Ramin Ghasemi (2-0-0)
+  vs. Terrance Chatman (0-0-0)\nPrelim: Alexandra Lawal (3-1-0) vs. Wendy
+  Anundson (7-3-0)\nPrelim: Andrew Lauterbach (1-0-0) vs. Dayton Ames (0-
+ 0-0)\nPrelim: Camden Fontenot (3-1-0) vs. Albert Salinas (2-0-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-08-contender-series-2023-week-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 4
@@ -299,26 +989,15 @@ DTSTART:20230830T000000Z
 DTEND:20230830T030000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/100994-contender-series-2023-week-4\n\n---\n\nMain Card: Car
- los Prates (16-6-0) vs. Mitch Ramirez (7-0-0)\nMain Card: Dylan Salvador
-  (5-1-0) vs. Bolaji Oki (7-1-0)
+ nter/events/100994-contender-series-2023-week-4\n\n---\n\nMain Event: Dy
+ lan Salvador (5-1-0) vs. Bolaji Oki (7-1-0)\nMain Card: Chandler Cole (1
+ 0-3-0) vs. Thomas Petersen (7-1-0)\nMain Card: Timothy Cuamba (6-1-0) vs
+ . Mateo Vogel (8-2-0)\nMain Card: Yousri Belgaroui (5-2-0) vs. Marco Tul
+ io Silva (9-1-0)\nMain Card: Carlos Prates (16-6-0) vs. Mitch Ramirez (7
+ -0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-09-ares-fc-17@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Ares FC 17
-DTSTART:20230901T160000Z
-DTEND:20230901T190000Z
-CATEGORIES:ARES,MMA,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/96202-ares-fc-17\n\n---\n\nMain Event: Moustapha Aida (10-2-
- 0) vs. Aboubakar Younousov (3-0-0)\nPrelim: Mahamadou Soukouna (0-1-0) v
- s. Yacine Haddad (1-1-0)\nPrelim: Magnus Onyeka Iversen (3-0-0) vs. Jame
- s Dixon (4-2-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-one-fight-night-14-stamp-vs-hee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 14: Stamp vs. Hee
@@ -327,36 +1006,165 @@ DTEND:20230902T030000Z
 CATEGORIES:ONE,MMA,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/102490-one-fight-night-14-stamp-vs-hee\n\n---\n\nMain Event: Stamp 
- Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)
+ Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)\nCo-Main Event: Smilla Sundell
+  vs. Jackie Buntan\nMain Card: Danielle Kelly vs. Jessa Khan\nMain Card:
+  Jingnan Xiong vs. Nat Jaroonsak
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-09-ufc-fight-night@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-09-cffc-123-perez-vs-vasil@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night
+SUMMARY:CFFC 123: Perez vs. Vasil
+DTSTART:20230902T010000Z
+DTEND:20230902T040000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103620-cffc-123\n\n---\n\nMain Event: Jose Perez (7-1-0) vs.
+  Chris Vasil (6-3-0)\nMain Card: Antonio Noel (1-1-0) vs. Bobby Casale (
+ 1-1-0)\nMain Card: Israel Galvan (5-3-0) vs. Max Quinones (4-0-0)\nMain 
+ Card: Brandon Evans (2-0-0) vs. Robert Varricchio (3-0-0)\nMain Card: Da
+ vid White (3-4-0) vs. Darion Abbey (4-3-0)\nMain Card: Bilal Hasan (1-0-
+ 0) vs. Orlando Ortega (2-2-0)\nMain Card: Taylor Samarco (2-2-0) vs. Fai
+ th Nichols (2-1-0)\nMain Card: Nick Galanti (4-2-0) vs. Colin Robinson (
+ 3-1-0)\nMain Card: Nick Gebhard (4-3-0) vs. Eric Gonzalez (5-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-rajadamnern-world-series-final-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series: Final 4
+DTSTART:20230902T121500Z
+DTEND:20230902T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-ufc-paris-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Paris: Prelims
 DTSTART:20230902T160000Z
 DTEND:20230902T190000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102007-ufc-fight-night\n\n---\n\nMain Event: Ciryl Gane (11-
+ 2-0) vs. Serghei Spivac (16-3-0)\nCo-Main Event: Manon Fiorot (10-1-0) v
+ s. Rose Namajunas (11-5-0)\nMain Card: Volkan Oezdemir (18-7-0) vs. Bogd
+ an Guskov (14-2-0)\nPrelim: Nora Cornolle (6-1-0) vs. Joselyne Edwards (
+ 13-4-0)\nPrelim: William Gomis (12-2-0) vs. Lucas Almeida (14-2-0)\nPrel
+ im: Ange Loosa (9-3-0) vs. Rhys McKee (13-4-1)\nPrelim: Benoit Saint-Den
+ is (11-1-0) vs. Thiago Moisés (17-6-0)\nPrelim: Yanis Ghemmouri (12-1-0)
+  vs. Caolan Loughran (8-0-0)\nPrelim: Taylor Lapilus (18-3-0) vs. Muin G
+ afurov (18-5-0)\nPrelim: Morgan Charriere (18-9-1) vs. Manolo Zecchini (
+ 11-3-0)\nPrelim: Farid Basharat (10-0-0) vs. Kleydson Rodrigues (8-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-ufc-paris-gane-vs-spivac@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Paris: Gane vs. Spivac
+DTSTART:20230902T190000Z
+DTEND:20230902T220000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/102007-ufc-fight-night\n\n---\n\nMain Event: Ciryl
-  Gane (11-2-0) vs. Serghei Spivac (16-3-0)\nMain Card: Volkan Oezdemir (
- 18-7-0) vs. Azamat Murzakanov (13-0-0)\nPrelim: Nora Cornolle (6-1-0) vs
- . Joselyne Edwards (13-4-0)\nPrelim: Zarah Fairn (6-5-0) vs. Hailey Cowa
- n (7-3-0)
+  Gane (11-2-0) vs. Serghei Spivac (16-3-0)\nCo-Main Event: Manon Fiorot 
+ (10-1-0) vs. Rose Namajunas (11-5-0)\nMain Card: Volkan Oezdemir (18-7-0
+ ) vs. Bogdan Guskov (14-2-0)\nPrelim: Nora Cornolle (6-1-0) vs. Joselyne
+  Edwards (13-4-0)\nPrelim: William Gomis (12-2-0) vs. Lucas Almeida (14-
+ 2-0)\nPrelim: Ange Loosa (9-3-0) vs. Rhys McKee (13-4-1)\nPrelim: Benoit
+  Saint-Denis (11-1-0) vs. Thiago Moisés (17-6-0)\nPrelim: Yanis Ghemmour
+ i (12-1-0) vs. Caolan Loughran (8-0-0)\nPrelim: Taylor Lapilus (18-3-0) 
+ vs. Muin Gafurov (18-5-0)\nPrelim: Morgan Charriere (18-9-1) vs. Manolo 
+ Zecchini (11-3-0)\nPrelim: Farid Basharat (10-0-0) vs. Kleydson Rodrigue
+ s (8-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-fighting-force-12@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fighting Force 12
+DTSTART:20230902T220000Z
+DTEND:20230903T010000Z
+CATEGORIES:FFP,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102901-fighting-force-12\n\n---\n\nMain Event: Reynaldo Acev
+ edo (10-4-0) vs. Oscar Sosa (14-3-0)\nCo-Main Event: Elias Santos (5-6-0
+ ) vs. Lucas Marte (6-4-0)\nCo-Main Event: Vincent Van Gogh (3-3-0) vs. A
+ lex Alcantara (4-0-0)\nMain Card: R. de los Santos (6-3-0) vs. Daynnys R
+ ivas (0-5-0)\nPrelim: Carlos Daniel Santana (1-1-0) vs. Yorfi Marte (0-4
+ -0)\nPrelim: Estephanie Reyes (0-0-0) vs. Suly Diaz (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-cffc-124-ellis-vs-daukaus@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 124: Ellis vs. Daukaus
+DTSTART:20230903T010000Z
+DTEND:20230903T040000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103621-cffc-124\n\n---\n\nMain Card: Gregg Ellis (8-4-0) vs.
+  Kyle Daukaus (12-4-0)\nMain Card: Trenton Zdarko (3-1-0) vs. Manny Mora
+ les (2-1-0)\nMain Card: Nick Caracappa (0-0-0) vs. Craig Willingham (0-1
+ -0)\nMain Card: Mansher Khera (3-0-0) vs. Jake Hixenbaugh (2-1-0)\nMain 
+ Card: Frank Wells (3-3-0) vs. Unterio Gladney (2-2-0)\nMain Card: Sarah 
+ Ann Faust (5-1-0) vs. Laura Turzenski (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-lfa-166-neto-vs-conrado@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 166: Neto vs. Conrado
+DTSTART:20230903T010000Z
+DTEND:20230903T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103491-lfa-166-neto-vs-conrado\n\n---\n\nMain Event: Geraldo
+  Neto (17-6-0) vs. Magnus Conrado (18-4-0)\nMain Card: Marciano Ferreira
+  (11-3-0) vs. C. Herrera Sarango (17-8-0)\nMain Card: Richard Martins (6
+ -1-0) vs. João Paulo Silva (6-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-urijah-faber-s-a1-combat-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Urijah Faber's A1 Combat 14
-DTSTART:20230902T220000Z
-DTEND:20230903T010000Z
+DTSTART:20230903T010000Z
+DTEND:20230903T040000Z
 CATEGORIES:A1C,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/101792-urijah-faber-s-a1-combat-14
+ nter/events/101792-urijah-faber-s-a1-combat-14\n\n---\n\nMain Card: Alex
+  Sanchez (13-3-0) vs. Eddie Hoch (11-5-1)\nMain Card: Eimar Hernandez (6
+ -0-0) vs. Rodney Kealohi (6-3-0)\nMain Card: Anthony Figueroa (4-0-0) vs
+ . Sherrard Blackledge (5-1-0)\nMain Card: Steve Mora (2-2-0) vs. James G
+ uidry (2-0-0)\nMain Card: Christopher Cruz (2-0-1) vs. Miguel Ceja (2-1-
+ 0)\nMain Card: Teruto Ishihara (13-11-3) vs. Bruno Souza (10-3-0)\nMain 
+ Card: Angel Blackwell (0-1-0) vs. Jessica Link (0-1-0)\nMain Card: Spenc
+ er Smith (0-0-0) vs. Devon Simons (0-0-0)\nMain Card: Patrick Becker (2-
+ 2-1) vs. Kristien Ruffin (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-anthony-pettis-fc-7@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Anthony Pettis FC 7
+DTSTART:20230903T190000Z
+DTEND:20230903T220000Z
+CATEGORIES:APFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102874-anthony-pettis-fc-7-indiana-fight-night-ii\nhttps://e
+ vents.mixedmartialarts.com/anthony-pettis-fc-7:567a8b70-f68b-4f86-b5b8-7
+ 28652cff5ef\n\n---\n\nMain Event: Kevin Nowaczyk (20-4-0) vs. Chris Cros
+ by (12-4-0)\nMain Card: James Pfeiffer (5-1-0) vs. Motaz Askar (4-1-0)\n
+ Main Card: Jeremy Strobel Jr. (0-0-0) vs. Cade Herod (1-0-0)\nMain Card:
+  Jose Ignacio Salgado (1-1-0) vs. Asher Frederick (1-0-0)\nMain Card: Mo
+ hammed Maali (0-0-0) vs. Chris Sanchez (0-0-0)\nPrelim: Juan Valentin Re
+ sendiz (2-1-0) vs. Jacob Juda (2-1-0)\nPrelim: Luis Unzueta (2-2-0) vs. 
+ Vince Zofkie (2-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-contender-series-2023-week-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 5
@@ -366,21 +1174,38 @@ CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100995-contender-series-2023-week-5\n\n---\n\nMain Card: Bru
  no Lopes (11-0-0) vs. Brendson Ribeiro (14-5-0)\nMain Card: Jean Silva (
- 10-2-0) vs. Kevin Vallejos (11-0-0)
+ 10-2-0) vs. Kevin Vallejos (11-0-0)\nMain Card: Serhiy Sidey (9-1-0) vs.
+  Ramon Taveras (8-1-0)\nMain Card: Chad Hanekom (9-2-0) vs. Cam Rowston 
+ (8-2-0)\nMain Card: Corinne Laframboise (8-4-0) vs. Rainn Guerrero (5-1-
+ 0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-09-cage-warriors-san-diego@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-09-golden-boy-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors: San Diego
+SUMMARY:Golden Boy Fight Night
+DTSTART:20230908T010000Z
+DTEND:20230908T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103489-golden-boy-fight-night\n\n---\n\nMain Event: Raul Curiel (12-0-
+ 0) vs. Courtney Pennington (17-6-3)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-cage-warriors-159-san-diego@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 159: San Diego
 DTSTART:20230908T220000Z
 DTEND:20230909T010000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/99931-cage-warriors-san-diego
+ nter/events/99931-cage-warriors-san-diego\n\n---\n\nMain Card: Roberto H
+ ernandez (7-1-0) vs. Toby Misech (12-7-0)\nMain Card: John Andrus (3-1-0
+ ) vs. Mason Iacobellis (3-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-glory-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 88
@@ -388,13 +1213,16 @@ DTSTART:20230909T040000Z
 DTEND:20230909T070000Z
 CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
 DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/102062-glory-88\n\n---\n\nMain Card: Badr Hari vs
- . James McSweeney\nMain Card: Nordine Mahieddine vs. Abdarhmane Coulibal
- y\nMain Card: Dennis Wosik vs. Berjan Peposhi\nMain Card: Karim Ghajji v
- s. Nikola Todorovic
+ com/fightcenter/events/102062-glory-88\n\n---\n\nMain Event: Badr Hari v
+ s. James McSweeney\nCo-Main Event: Tiffany van Soest vs. Sarah Moussadda
+ k\nMain Card: Nordine Mahieddine vs. Abdarhmane Coulibaly\nMain Card: De
+ nnis Wosik vs. Berjan Peposhi\nMain Card: Pascal Touré vs. Ștefan Lătesc
+ u\nMain Card: Karim Ghajji vs. Nikola Todorovic\nMain Card: Jonathan May
+ ezo vs. James Condé\nMain Card: Iliass Hammouche vs. Florian Kröger\nMai
+ n Card: Diaguely Camara vs. Ilyass Chakir
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-eternal-mma-78@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 78
@@ -402,10 +1230,44 @@ DTSTART:20230909T080000Z
 DTEND:20230909T110000Z
 CATEGORIES:EMMA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/102041-eternal-mma-78
+ nter/events/102041-eternal-mma-78\n\n---\n\nMain Event: Mat Myers (4-2-0
+ ) vs. Brogan Anderson (15-3-0)\nCo-Main Event: Joseph Luciano (8-1-0) vs
+ . Matt Vaile (12-2-0)\nMain Card: Rod Costa (7-5-0) vs. Ethan Thomas (3-
+ 2-0)\nMain Card: Alan Philpott (19-15-0) vs. Shaun Etchell (7-4-0)\nMain
+  Card: Jack Becker (10-3-0) vs. David Martinez (10-5-0)\nMain Card: Davi
+ d Taumoepeau (4-5-0) vs. Brando Peričić (1-0-0)\nMain Card: Joe Davis (1
+ -0-0) vs. Sebastian Szalay (3-1-0)\nMain Card: Kris Ustijanovski (1-0-0)
+  vs. Daniel Mitchell (0-0-0)\nMain Card: Joseph Larcinese (0-0-0) vs. Tr
+ oy Fumo (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-fcc-35@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:FCC 35
+DTSTART:20230909T160000Z
+DTEND:20230909T190000Z
+CATEGORIES:FCC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103665-fcc-35\n\n---\n\nMain Event: Joe Cummins (9-2-0) vs. 
+ Amaury Junior (15-10-0)\nCo-Main Event: Tom Mullen (4-2-0) vs. Markus Mä
+ ki-Ventelä (5-4-0)\nMain Card: Reece Ackers (3-0-0) vs. Harry Davies (6-
+ 10-0)\nMain Card: Danny Dixon (5-2-0) vs. Denislav Hadzhiev (2-2-0)\nMai
+ n Card: Mike Thompson (4-2-0) vs. Dorval Jordan (2-3-0)\nMain Card: Fara
+ marz Mohammad (3-2-0) vs. Yusuf Nazokatov (1-0-0)\nMain Card: Christian 
+ Soda (4-1-0) vs. Shay Ingram (7-0-0)\nMain Card: Jamal Raja (7-4-0) vs. 
+ Sami Hoque (7-0-0)\nMain Card: Nathan Lambert (8-2-0) vs. Mariusz Mikoła
+ jewski (4-1-0)\nMain Card: Elliot McGibbon (5-1-0) vs. Jordan Parker (4-
+ 0-0)\nMain Card: Kenny Whitworth (4-2-0) vs. Luke Burns (6-4-0)\nMain Ca
+ rd: Tom Harvey (5-1-0) vs. Yannick Goitom (4-1-1)\nMain Card: Alex Dykes
+  (4-3-0) vs. Lewis Clarke (7-1-0)\nMain Card: Jacob Dove (3-1-0) vs. Joe
+ l Caine (3-1-0)\nMain Card: Ryan Hennessy (1-1-0) vs. Ben McCourt (1-0-0
+ )\nMain Card: Jorge Augusto (1-0-0) vs. Kallum Haslam (0-1-0)\nMain Card
+ : Josh Dean (2-5-0) vs. Stefan Vesca (2-0-0)\nMain Card: Jack Colledge (
+ 0-0-0) vs. Josh Farrell (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-fcr-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:FCR 17
@@ -413,10 +1275,19 @@ DTSTART:20230909T160000Z
 DTEND:20230909T190000Z
 CATEGORIES:FCR,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/102368-fcr-17
+ nter/events/102368-fcr-17\n\n---\n\nMain Event: Jonny Touma (5-2-0) vs. 
+ Renato Vidovic (4-1-0)\nCo-Main Event: Toni Lampinen (8-5-0) vs. Christi
+ an Stigenberg (4-2-0)\nMain Card: Shoeb Akrami (2-1-0) vs. Ali Yazbeck (
+ 2-0-0)\nMain Card: Dimitris Dimitriadis (0-0-0) vs. Raymond Johansson (0
+ -1-0)\nMain Card: Nina Back (0-0-0) vs. Josefine Modig (0-0-0)\nMain Car
+ d: Waltteri Hakkinen (2-0-0) vs. Martin Corney (0-0-0)\nMain Card: Chris
+ topher Bajo (3-2-0) vs. Daniel Karlsson (2-1-0)\nMain Card: Erik Wahrole
+ n (0-0-0) vs. Ibrahim Halil Milli (0-0-0)\nMain Card: Arlind Berisha (0-
+ 0-0) vs. Mustafa Atrakchi (0-0-0)\nPrelim: Viktor Mangs (2-0-0) vs. Rand
+ y Fungula (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -427,7 +1298,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-ufc-293@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 293
@@ -435,12 +1306,18 @@ DTSTART:20230909T220000Z
 DTEND:20230910T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/101315-ufc-293\n\n---\n\nMain Card: Kai Kara-Franc
- e (24-11-0) vs. Manel Kape (18-6-0)\nPrelim: Viviane Araujo (11-5-0) vs.
-  Casey O'Neill (9-1-0)
+ om/fightcenter/events/101315-ufc-293\n\n---\n\nMain Event: Israel Adesan
+ ya (24-2-0) vs. Sean Strickland (27-5-0)\nCo-Main Event: Tai Tuivasa (15
+ -5-0) vs. Alexander Volkov (36-10-0)\nMain Card: Kai Kara-France (24-11-
+ 0) vs. Manel Kape (18-6-0)\nPrelim: Carlos Ulberg (8-1-0) vs. Da Un Jung
+  (15-4-1)\nPrelim: Jack Jenkins (12-2-0) vs. Chepe Mariscal (14-6-0)\nPr
+ elim: Justin Tafa (6-3-0) vs. Austen Lane (12-3-0)\nPrelim: Blood Diamon
+ d (3-2-0) vs. Charlie Radtke (7-3-0)\nPrelim: Shane Young (13-7-0) vs. G
+ abriel Miranda (16-6-0)\nPrelim: Tyson Pedro (9-4-0) vs. Anton Turkalj (
+ 8-2-0)\nPrelim: Jamie Mullarkey (16-6-0) vs. John Makdessi (18-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-contender-series-2023-week-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 6
@@ -449,10 +1326,56 @@ DTEND:20230913T030000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100996-contender-series-2023-week-6\n\n---\n\nMain Card: Edu
- ardo Neves (7-1-0) vs. Jhonata Diniz (5-0-0)
+ ardo Neves (7-1-0) vs. Jhonata Diniz (5-0-0)\nMain Card: James Llontop (
+ 13-2-0) vs. Malik Lewis (6-1-0)\nMain Card: AJ Cunningham (10-2-0) vs. S
+ teven Nguyen (8-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-tuff-n-uff-133@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Tuff-N-Uff 133
+DTSTART:20230916T010000Z
+DTEND:20230916T040000Z
+CATEGORIES:TUFF,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103948-tuff-n-uff-133\nhttps://events.mixedmartialarts.com/t
+ uff-n-uff-133:3f785127-71c3-4663-a0a7-49f616bab229\n\n---\n\nMain Event:
+  Ryder Newman (6-1-0) vs. Rocky Edwards (12-10-1)\nCo-Main Event: Pololu
+  Nakanelua (6-1-0) vs. Victor Rosas (6-2-0)\nMain Card: Fabricio Franco 
+ (8-6-0) vs. Soslan Abanokov (6-5-1)\nMain Card: Jonathan Wilson (9-4-0) 
+ vs. Marcos Brigagão (16-6-0)\nMain Card: Fabricio Franco (8-6-0) vs. Sos
+ lan Abanokov (6-5-1)\nMain Card: Shane Shapiro (1-0-0) vs. Mauricio Rios
+  (3-0-0)\nMain Card: Eduardo Penha (2-0-0) vs. Jose Loera (1-2-0)\nMain 
+ Card: Vance Elrod (1-1-0) vs. Desmond Manabat (2-3-0)\nMain Card: Xavier
+  Vines (0-1-0) vs. Rudy Garcia (1-2-0)\nMain Card: Noah De La Calzada (0
+ -0-0) vs. Jeremy Montijo (0-0-0)\nPrelim: Tracy Love (4-1-0) vs. Anthony
+  Strapp (4-0-0)\nPrelim: Laquan Jenkins (8-1-0) vs. Trenten Beyers (5-1-
+ 0)\nPrelim: Miguel Suazo (5-3-0) vs. Ali Albazi (3-0-0)\nPrelim: Christi
+ an Reis (3-0-0) vs. Karl Mitchell (6-11-0)\nPrelim: Arjuna Lyons (1-2-0)
+  vs. Brandon Elizondo (1-3-0)\nPrelim: Mickey Bolden (1-1-0) vs. Bobby E
+ dwards (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-bkb-34@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 34
+DTSTART:20230916T160000Z
+DTEND:20230916T190000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103377-bkb-34\n\n---\n\nMain Card: Dan Chapman vs. Ishe Smith\nMain
+  Card: Reece Murray vs. Martin Reffell\nMain Card: Aaron McCallum vs. Ma
+ rk Tiffin\nMain Card: Tony Meehan vs. Dom Wilkinson\nMain Card: Patrick 
+ Nash vs. John Spencer\nMain Card: Callan Harley vs. Sam Jamshidi\nMain C
+ ard: Szymon Szynkiewicz vs. Martyn Grainger\nMain Card: Matty Moore vs. 
+ Danylo Hrebeniuk\nMain Card: Jonny Lawson vs. John Collier\nMain Card: G
+ eorge Hillyard vs. Rolando Dy\nMain Card: Ashley Griffiths vs. Tony Barr
+ att
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-nfc-15-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Prelims
@@ -460,12 +1383,19 @@ DTSTART:20230916T160000Z
 DTEND:20230916T180000Z
 CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/94582-nfc-15\n\n---\n\nMain Card: Max Holzer (6-0-0) vs. Mauric
- e Adorf (6-1-0)\nMain Card: David Balevski (2-0-0) vs. Simon Schuster (3
- -1-0)
+ r/events/94582-nfc-15\n\n---\n\nMain Event: Florim Zendeli (6-1-1) vs. W
+ ladimir Holodenko (4-1-2)\nCo-Main Event: Max Holzer (6-0-0) vs. Maurice
+  Adorf (6-1-0)\nMain Card: David Balevski (2-0-0) vs. Simon Schuster (3-
+ 1-0)\nMain Card: Chequina Noso Pedro (6-3-0) vs. Ali Reza Rasuli (5-1-1)
+ \nMain Card: Danial Aghaie (3-1-0) vs. Benny Bajrami (5-2-0)\nMain Card:
+  Davlet Karataev (4-1-0) vs. Zabiullah Mubarez (2-1-0)\nMain Card: Deni 
+ Mirnić (2-3-0) vs. Wojciech Kacprzyk (1-1-0)\nMain Card: Gianni Massafra
+  (2-1-0) vs. Tobias Balzer (3-2-0)\nMain Card: Timo Ernst (1-0-0) vs. Ma
+ soud Sadeqpoor (1-1-0)\nMain Card: A. Chatzigeorgiadis (2-2-1) vs. Meysa
+ m Agharezaei (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-oktagon-46@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 46
@@ -474,10 +1404,31 @@ DTEND:20230916T190000Z
 CATEGORIES:Oktagon,MMA,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/102327-oktagon-46\n\n---\n\nMain Card: Katharina Dalisda (9-3-0)
-  vs. Jacinta Austin (5-1-0)
+  vs. Jacinta Austin (5-1-0)\nMain Card: Louis Glismann (11-2-0) vs. Andr
+ eas Michailidis (15-6-0)\nMain Card: David Kozma (32-12-0) vs. Bojan Vel
+ ičković (23-12-2)\nMain Card: Christian Jungwirth (14-7-0) vs. John Pala
+ iologos (19-12-1)\nMain Card: Deniz Ilbay (4-0-0) vs. Marco Novák (2-0-0
+ )\nMain Card: František Fodor (9-7-0) vs. Vladimir Šikić (12-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-ksw-86-wik-acz-vs-przybysz-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 86: Wikłacz vs. Przybysz 4
+DTSTART:20230916T170000Z
+DTEND:20230916T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/103172-ksw-86\n\n---\n\nMain Event: Jakub Wikłacz (14-3-1) vs. Se
+ bastian Przybysz (12-3-0)\nCo-Main Event: Dawid Śmiełowski (10-0-0) vs. 
+ Lom-Ali Eskijew (20-7-0)\nMain Card: Michał Michalski (10-5-0) vs. Domin
+ ik Humburger (7-0-0)\nMain Card: Filip Stawowy (10-3-0) vs. Viktor Pešta
+  (18-8-0)\nMain Card: Kacper Koziorzębski (9-5-0) vs. Wiktor Zalewski (5
+ -0-0)\nMain Card: Artur Szczepaniak (9-2-0) vs. Igor Michaliszyn (10-2-0
+ )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-nfc-15-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Main Card
@@ -485,12 +1436,19 @@ DTSTART:20230916T180000Z
 DTEND:20230916T210000Z
 CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
- r/events/94582-nfc-15\n\n---\n\nMain Card: Max Holzer (6-0-0) vs. Mauric
- e Adorf (6-1-0)\nMain Card: David Balevski (2-0-0) vs. Simon Schuster (3
- -1-0)
+ r/events/94582-nfc-15\n\n---\n\nMain Event: Florim Zendeli (6-1-1) vs. W
+ ladimir Holodenko (4-1-2)\nCo-Main Event: Max Holzer (6-0-0) vs. Maurice
+  Adorf (6-1-0)\nMain Card: David Balevski (2-0-0) vs. Simon Schuster (3-
+ 1-0)\nMain Card: Chequina Noso Pedro (6-3-0) vs. Ali Reza Rasuli (5-1-1)
+ \nMain Card: Danial Aghaie (3-1-0) vs. Benny Bajrami (5-2-0)\nMain Card:
+  Davlet Karataev (4-1-0) vs. Zabiullah Mubarez (2-1-0)\nMain Card: Deni 
+ Mirnić (2-3-0) vs. Wojciech Kacprzyk (1-1-0)\nMain Card: Gianni Massafra
+  (2-1-0) vs. Tobias Balzer (3-2-0)\nMain Card: Timo Ernst (1-0-0) vs. Ma
+ soud Sadeqpoor (1-1-0)\nMain Card: A. Chatzigeorgiadis (2-2-1) vs. Meysa
+ m Agharezaei (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-nfc-15@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15
@@ -498,13 +1456,20 @@ DTSTART:20230916T210000Z
 DTEND:20230916T223000Z
 CATEGORIES:NFC,MMA,SPORT1,fighting.de,live,kostenlos
 DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
- m/fightcenter/events/94582-nfc-15\n\n---\n\nMain Card: Max Holzer (6-0-0
- ) vs. Maurice Adorf (6-1-0)\nMain Card: David Balevski (2-0-0) vs. Simon
-  Schuster (3-1-0)
+ m/fightcenter/events/94582-nfc-15\n\n---\n\nMain Event: Florim Zendeli (
+ 6-1-1) vs. Wladimir Holodenko (4-1-2)\nCo-Main Event: Max Holzer (6-0-0)
+  vs. Maurice Adorf (6-1-0)\nMain Card: David Balevski (2-0-0) vs. Simon 
+ Schuster (3-1-0)\nMain Card: Chequina Noso Pedro (6-3-0) vs. Ali Reza Ra
+ suli (5-1-1)\nMain Card: Danial Aghaie (3-1-0) vs. Benny Bajrami (5-2-0)
+ \nMain Card: Davlet Karataev (4-1-0) vs. Zabiullah Mubarez (2-1-0)\nMain
+  Card: Deni Mirnić (2-3-0) vs. Wojciech Kacprzyk (1-1-0)\nMain Card: Gia
+ nni Massafra (2-1-0) vs. Tobias Balzer (3-2-0)\nMain Card: Timo Ernst (1
+ -0-0) vs. Masoud Sadeqpoor (1-1-0)\nMain Card: A. Chatzigeorgiadis (2-2-
+ 1) vs. Meysam Agharezaei (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-09-ufc-fight-night-1@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-09-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
 DTSTART:20230916T220000Z
@@ -513,11 +1478,43 @@ CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101864-ufc-fight-night\n\n---\n\nMain Event: Alexa
   Grasso (16-3-0) vs. Valentina Shevchenko (23-4-0)\nMain Card: Chris Cur
- tis (30-10-0) vs. Anthony Hernandez (11-2-0)\nPrelim: Lupita Godinez (10
- -3-0) vs. Sam Hughes (8-5-0)
+ tis (30-10-0) vs. Anthony Hernandez (11-2-0)\nMain Card: Tracy Cortez (1
+ 0-1-0) vs. Jasmine Jasudavicius (9-2-0)\nMain Card: Daniel Rodriguez (17
+ -4-0) vs. Santiago Ponzinibbio (29-7-0)\nPrelim: Lupita Godinez (10-3-0)
+  vs. Sam Hughes (8-5-0)\nPrelim: Edgar Cháirez (10-5-0) vs. Daniel Lacer
+ da (11-5-0)\nPrelim: Cynthia Calvillo (9-6-1) vs. Elise Reed (7-3-0)\nPr
+ elim: Daniel Zellhuber (13-1-0) vs. Christos Giagos (20-10-0)\nPrelim: F
+ ernando Padilla (15-4-0) vs. Kyle Nelson (14-5-1)\nPrelim: Natan Levy (8
+ -1-0) vs. Alex Reyes (13-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-zepeda-vs-gesta@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Zepeda vs. Gesta
+DTSTART:20230917T010000Z
+DTEND:20230917T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103064-zepeda-vs-gesta\n\n---\n\nMain Event: William Zepeda (27-0-0) v
+ s. Mercito Gesta (34-3-3)\nCo-Main Event: Victor Morales Jr (18-0-1) vs.
+  Edwin Palomares (19-4-2)\nMain Card: Darius Fulghum (3-0-0) vs. Ricardo
+  Adrian Luna (24-10-2)\nMain Card: Eric Priest (10-0-0) vs. Simon Madsen
+  (11-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-fury-fc-83@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 83
+DTSTART:20230917T213000Z
+DTEND:20230918T003000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103192-fury-fc-83
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-contender-series-2023-week-7@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 7
@@ -526,11 +1523,35 @@ DTEND:20230920T030000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100997-contender-series-2023-week-7\n\n---\n\nMain Card: Sha
- mil Gaziev (10-0-0) vs. Greg Velasco (6-0-0)\nMain Card: Fabiola Pidroni
-  (5-0-0) vs. Stephanie Luciano (5-1-0)
+ mil Gaziev (10-0-0) vs. Greg Velasco (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-one-friday-fights-34-rodtang-vs-superlek@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 34: Rodtang vs Superlek
+DTSTART:20230922T123000Z
+DTEND:20230922T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103894-one-friday-fights-34\n\n---\n\nMain Event: Rodtang Jitmuangn
+ on vs. Superlek Kiatmoo9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-bkfc-50-hunt-vs-camozzi@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 50: Hunt vs. Camozzi
+DTSTART:20230923T000000Z
+DTEND:20230923T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103810-bkfc-50-hunt-vs-camozzi\n\n---\n\nMain Event: Lorenzo Hunt v
+ s. Chris Camozzi\nMain Card: Keegan Vandermeer vs. Dillion Winemiller\nM
+ ain Card: Andrew Yates vs. Christian Torres
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-eternal-mma-79@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 79
@@ -541,7 +1562,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/102042-eternal-mma-79
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-bellator-299-eblen-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 299: Eblen vs. Edwards
@@ -551,17 +1572,20 @@ CATEGORIES:Bellator,MMA,live
 DESCRIPTION:https://www.tapology.com/fightcenter/events/101202-bellator-m
  ma\n\n---\n\nMain Event: Johnny Eblen (13-0-0) vs. Fabian Edwards (12-2-
  0)\nCo-Main Event: Aaron Pico (11-4-0) vs. Pedro Carvalho (13-7-0)\nMain
-  Card: Mads Burnell (17-5-0) vs. Daniel Weichel (42-14-0)\nPrelim: Brian
-  Moore (16-9-0) vs. Otto Rodrigues (13-1-0)\nPrelim: Sinead Kavanagh (9-
- 5-0) vs. Sara Collins (4-0-0)\nPrelim: Luke Trainer (7-1-0) vs. Laurynas
-  Urbonavicius (14-1-0)\nPrelim: Mark Ewen (4-0-0) vs. Noah Gugnon (4-0-0
- )\nPrelim: Kenny Mokhonoana (5-0-0) vs. Josh O'Connor (4-0-0)\nPrelim: C
- hiara Penco (8-3-0) vs. Mackenzie Stiller (1-0-0)\nPrelim: Nicolò Solli 
- (4-1-0) vs. Romain Debienne (9-4-0)\nPrelim: Levan Chokheli (12-2-0) vs.
-  Sabah Homasi (17-11-0)
+  Card: Mads Burnell (17-5-0) vs. Daniel Weichel (42-14-0)\nMain Card: Si
+ nead Kavanagh (9-5-0) vs. Sara Collins (4-0-0)\nPrelim: Brian Moore (16-
+ 9-0) vs. Otto Rodrigues (13-1-0)\nPrelim: Luke Trainer (7-1-0) vs. Laury
+ nas Urbonavicius (14-1-0)\nPrelim: Mark Ewen (4-0-0) vs. Noah Gugnon (4-
+ 0-0)\nPrelim: Kenny Mokhonoana (5-0-0) vs. Josh O'Connor (5-0-0)\nPrelim
+ : Chiara Penco (8-3-0) vs. Mackenzie Stiller (1-0-0)\nPrelim: Nicolò Sol
+ li (4-1-0) vs. Romain Debienne (9-4-0)\nPrelim: Levan Chokheli (12-2-0) 
+ vs. Sabah Homasi (17-11-0)\nPrelim: Peter Queally (13-8-1) vs. Daniele M
+ iceli (11-5-0)\nPrelim: Charlie Ward (10-6-0) vs. Gregory Babene (22-11-
+ 0)\nPrelim: Ciaran Clarke (7-0-0) vs. Przemysław Górny (5-3-0)\nPrelim: 
+ Darragh Kelly (4-0-0) vs. Jelle Zeegers (2-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -569,13 +1593,18 @@ DTSTART:20230923T220000Z
 DTEND:20230924T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/101865-ufc-fight-night\n\n---\n\nPrelim: Jake Coll
- ier (13-9-0) vs. Valter Walker (11-0-0)\nPrelim: Bruno Silva (13-5-2) vs
- . Cody Durden (15-4-1)\nPrelim: Mizuki Inoue (14-6-0) vs. Hannah Goldy (
- 6-3-0)
+ om/fightcenter/events/101865-ufc-fight-night\n\n---\n\nMain Event: Rafae
+ l Fiziev (12-2-0) vs. Mateusz Gamrot (22-2-0)\nMain Card: Bryce Mitchell
+  (15-1-0) vs. Dan Ige (17-6-0)\nPrelim: Bruno Silva (13-5-2) vs. Cody Du
+ rden (16-4-1)\nPrelim: Mizuki Inoue (14-6-0) vs. Hannah Goldy (6-3-0)\nP
+ relim: Charles Jourdain (14-6-1) vs. Ricardo Ramos (16-4-0)\nPrelim: Jak
+ e Collier (13-9-0) vs. Mohammed Usman (9-2-0)\nPrelim: Montserrat Rendon
+  (5-0-0) vs. Tamires Vidal (7-1-0)\nPrelim: Miles Johns (13-2-0) vs. Dan
+ iel Argueta (9-1-0)\nPrelim: Bryan Battle (9-2-0) vs. AJ Fletcher (10-2-
+ 0)\nPrelim: Javid Basharat (14-0-0) vs. Victor Henry (23-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-contender-series-2023-week-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 8
@@ -583,21 +1612,50 @@ DTSTART:20230927T000000Z
 DTEND:20230927T030000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/100998-contender-series-2023-week-8
+ nter/events/100998-contender-series-2023-week-8\n\n---\n\nMain Card: Ale
+ xander Soldatkin (14-3-0) vs. Mario Piazzon (6-0-0)\nMain Card: Sora Rak
+ hmonova (4-1-0) vs. Ernesta Kareckaite (4-0-1)\nMain Card: Vinicius de O
+ liveira (18-3-0) vs. Victor Hugo Madrigal (12-3-0)\nMain Card: Justin Bu
+ rlinson (8-2-0) vs. Danny Barlow (6-0-0)\nMain Card: Danny Silva (7-1-0)
+  vs. Angel Pacheco (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-09-cage-warriors-manchester@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-09-cage-warriors-160-manchester@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors: Manchester
+SUMMARY:Cage Warriors 160: Manchester
 DTSTART:20230929T150000Z
 DTEND:20230929T180000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/99932-cage-warriors-manchester
+ nter/events/99932-cage-warriors-manchester\n\n---\n\nMain Card: James He
+ ndin (7-2-0) vs. Tobias Harila (12-3-0)\nMain Card: Luke Riley (7-0-0) v
+ s. Alexander Lööf (5-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-09-bkfc-51@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 51
+DTSTART:20230930T000000Z
+DTEND:20230930T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103959-bkfc-51
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-emc-talents-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:EMC Talents 5
+DTSTART:20230930T160000Z
+DTEND:20230930T190000Z
+CATEGORIES:EMC,MMA,emctv.de,live
+DESCRIPTION:via emctv.de\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/103089-emc-talents-5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-09-mf-dazn-x-series-11@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 11
@@ -608,7 +1666,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98253-mf-dazn-x-series-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-pfl-europe-2023-playoffs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Playoffs
@@ -616,20 +1674,45 @@ DTSTART:20230930T160000Z
 DTEND:20230930T190000Z
 CATEGORIES:PFL,MMA,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/97298-pfl-europe-2023-playoffs
+ s/97298-pfl-europe-2023-playoffs\n\n---\n\nMain Event: Cédric Doumbé (4-
+ 0-0) vs. Jordan Zébo (4-0-0)\nCo-Main Event: Abdoul Abdouraguimov (16-1-
+ 0) vs. Quemuel Ottoni (12-3-0)\nMain Card: Anthony Salamone (8-1-0) vs. 
+ Jakob Nedoh (6-1-0)\nMain Card: Simeon Powell (8-0-0) vs. Abdellah Er-Ra
+ my (7-1-0)\nMain Card: Dakota Ditcheva (8-0-0) vs. Cornelia Holm (6-5-0)
+ \nMain Card: Yazid Chouchane (9-3-0) vs. Luigi Vendramini (9-3-0)\nMain 
+ Card: Frans Mlambo (14-5-0) vs. Francesco Nuzzi (10-1-0)\nMain Card: Dyl
+ an Tuke (6-3-0) vs. Jakub Kaszuba (9-0-0)\nMain Card: John Mitchell (7-1
+ -0) vs. Aleksandr Chizov (10-2-0)\nMain Card: Ali Taleb (9-0-0) vs. Khur
+ shed Kakhorov (10-1-0)\nMain Card: Griet Eeckhout (7-4-1) vs. Valentina 
+ Scatizzi (2-1-0)\nMain Card: Lizzy Gevers (2-1-0) vs. Shanelle Dyer (2-0
+ -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-09-we-love-mma-66@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 66
 DTSTART:20230930T170000Z
 DTEND:20230930T200000Z
 CATEGORIES:WLMMA,MMA,live
-DESCRIPTION:https://welovemma.de/we-love-mma-66-2/
+DESCRIPTION:https://welovemma.de/we-love-mma-66-2/\nhttps://www.tapology.
+ com/fightcenter/events/102642-we-love-mma-66\n\n---\n\nMain Card: David 
+ Depannemaecker (5-10-0) vs. Veselin Dimitrov (12-22-0)\nMain Card: Nils 
+ Wernersbach (5-7-0) vs. Leon Naumann (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-10-bkfc-52@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 52
+DTSTART:20231001T000000Z
+DTEND:20231001T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103960-bkfc-52
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-10-contender-series-2023-week-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 9
@@ -637,10 +1720,24 @@ DTSTART:20231004T000000Z
 DTEND:20231004T030000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/100999-contender-series-2023-week-9
+ nter/events/100999-contender-series-2023-week-9\n\n---\n\nMain Card: Luc
+ as Rocha (16-1-0) vs. Davi Bittencourt (14-3-0)\nMain Card: Eduardo Mati
+ as Torres (16-1-0) vs. Victor Hugo Silva (23-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-10-ares-fc-17-aida-vs-younousov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ares FC 17: Aida vs. Younousov
+DTSTART:20231006T160000Z
+DTEND:20231006T190000Z
+CATEGORIES:ARES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103761-ares-fc-17-aida-vs-younousov\n\n---\n\nMain Event: Mo
+ ustapha Aida (10-2-0) vs. Aboubakar Younousov (3-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-10-ares-fc-18@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 18
@@ -652,7 +1749,19 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   vs. Henrique Shiguemoto (14-4-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-10-one-fight-night-15-tawanchai-vs-superbon@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 15: Tawanchai vs. Superbon
+DTSTART:20231007T000000Z
+DTEND:20231007T030000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/103576-one-fight-night-15-tawanchai-vs-superbon\n\n---\n\nMain Even
+ t: Tawanchai PK Saenchai vs. Superbon Singha Mawynn
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-10-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -660,12 +1769,30 @@ DTSTART:20231007T160000Z
 DTEND:20231007T190000Z
 CATEGORIES:Oktagon,MMA,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/100818-oktagon\n\n---\n\nMain Card: Vlasto Čepo (12-2-0) vs. Mat
- ěj Peňáz (7-1-0)\nMain Card: Miroslav Brož (16-3-1) vs. Robert Pukač (16
- -11-1)
+ /events/100818-oktagon\n\n---\n\nMain Event: Karlos Vémola (35-7-0) vs. 
+ Pavol Langer (12-9-0)\nMain Card: Miroslav Brož (16-3-1) vs. Robert Puka
+ č (16-11-1)\nMain Card: Mateusz Legierski (9-1-0) vs. Karol Ryšavý (12-5
+ -0)\nMain Card: Marek Mazuch (7-2-0) vs. Ion Taburceanu (6-2-0)\nMain Ca
+ rd: Rafael Xavier (12-7-0) vs. Jeremy Kimball (19-10-0)\nMain Card: Łuka
+ sz Siwiec (9-2-0) vs. Amiran Gogoladze (15-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-10-wood-vs-warrington@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Wood vs. Warrington
+DTSTART:20231007T180000Z
+DTEND:20231007T210000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103613-wood-vs-warrington\n\n---\n\nMain Event: Leigh Wood (27-3-0) vs
+ . Josh Warrington (31-2-1)\nMain Card: Terri Harper (14-1-1) vs. Cecilia
+  Braekhus (37-2-0)\nMain Card: Kieron Conway (19-3-1) vs. Linus Udofia (
+ 18-1-0)\nMain Card: Hopey Price (11-0-0) vs. Connor Coghill (13-0-0)\nMa
+ in Card: Junaid Bostan (6-0-0) vs. Corey McCulloch (7-3-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-10-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -673,10 +1800,29 @@ DTSTART:20231007T220000Z
 DTEND:20231008T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/101866-ufc-fight-night
+ om/fightcenter/events/101866-ufc-fight-night\n\n---\n\nMain Card: Drew D
+ ober (26-12-0) vs. Ricky Glenn (22-7-2)\nPrelim: Kanako Murata (12-2-0) 
+ vs. Vanessa Demopoulos (9-5-0)\nPrelim: Bill Algeo (17-7-0) vs. Alexande
+ r Hernandez (14-6-0)\nPrelim: Johnny Munoz Jr. (12-3-0) vs. Aoriqileng (
+ 24-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-10-bellator-300@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 300
+DTSTART:20231007T230000Z
+DTEND:20231008T020000Z
+CATEGORIES:Bellator,MMA,Pluto TV,live,kostenlos
+DESCRIPTION:via Pluto TV\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/103949-bellator-300-bader-vs-vassell-2\n\n---\n\nMain Event: Ryan 
+ Bader (31-7-0) vs. Linton Vassell (24-8-0)\nCo-Main Event: Cris Cyborg (
+ 26-2-0) vs. Cat Zingano (14-4-0)\nMain Card: Usman Nurmagomedov (17-0-0)
+  vs. Brent Primus (12-3-0)\nMain Card: Liz Carmouche (19-7-0) vs. Ilima-
+ Lei Macfarlane (13-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-10-contender-series-2023-week-10@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Contender Series 2023: Week 10
@@ -684,10 +1830,53 @@ DTSTART:20231011T000000Z
 DTEND:20231011T030000Z
 CATEGORIES:DWCS,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/101000-contender-series-2023-week-10
+ nter/events/101000-contender-series-2023-week-10\n\n---\n\nMain Card: To
+ rrez Finney (6-0-0) vs. Yuri Panferov (6-0-0)\nMain Card: Connor Matthew
+ s (6-1-0) vs. Jair Farias (10-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-10-ufc-fight-night-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Fight Night
+DTSTART:20231014T220000Z
+DTEND:20231015T010000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/103212-ufc-fight-night\n\n---\n\nMain Card: Sodiq 
+ Yusuff (13-2-0) vs. Edson Barboza (23-11-0)\nMain Card: Jonathan Martine
+ z (18-4-0) vs. Adrian Yanez (16-4-0)\nMain Card: Jennifer Maia (21-9-1) 
+ vs. Viviane Araujo (11-5-0)\nPrelim: Irina Alekseeva (5-1-0) vs. Melissa
+  Dixon (5-0-0)\nPrelim: Ashley Yoder (8-8-0) vs. Emily Ducote (12-8-0)\n
+ Prelim: David Dvořák (20-6-0) vs. Tatsuro Taira (14-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-10-bfl-78@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BFL 78
+DTSTART:20231020T020000Z
+DTEND:20231020T050000Z
+CATEGORIES:BFL,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102815-bfl-78\n\n---\n\nMain Event: Dejan Kajić (15-7-2) vs.
+  Josenaldo Silva (29-7-0)\nMain Card: Rodrigo Sezinando (5-1-0) vs. Ash 
+ Mashreghi (8-7-0)\nMain Card: Dario Sinagoga (6-1-0) vs. Gagan Gill (5-2
+ -0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-10-uae-warriors-45@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UAE Warriors 45
+DTSTART:20231020T140000Z
+DTEND:20231020T170000Z
+CATEGORIES:UAEW,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103801-uae-warriors-45
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-10-ufc-294@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 294
@@ -695,10 +1884,27 @@ DTSTART:20231021T143000Z
 DTEND:20231021T173000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/99416-ufc-294
+ om/fightcenter/events/99416-ufc-294\n\n---\n\nMain Event: Islam Makhache
+ v (24-1-0) vs. Charles Oliveira (34-9-0)\nMain Card: Paulo Costa (14-2-0
+ ) vs. Khamzat Chimaev (12-0-0)\nMain Card: Nassourdine Imavov (12-4-0) v
+ s. Ikram Aliskerov (14-1-0)\nMain Card: Magomed Ankalaev (18-1-1) vs. Jo
+ hnny Walker (21-7-0)\nPrelim: Tim Elliott (19-12-1) vs. Muhammad Mokaev 
+ (9-0-0)\nPrelim: Sedriques Dumas (8-1-0) vs. Abu Azaitar (14-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-10-catterall-vs-linares@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Catterall vs. Linares
+DTSTART:20231021T190000Z
+DTEND:20231021T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103881-catterall-vs-linares\n\n---\n\nMain Event: Jack Catterall (27-1
+ -0) vs. Jorge Linares (47-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-10-eternal-mma-80@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 80
@@ -706,13 +1912,14 @@ DTSTART:20231028T080000Z
 DTEND:20231028T110000Z
 CATEGORIES:EMMA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/102043-eternal-mma-80
+ nter/events/102043-eternal-mma-80\n\n---\n\nMain Card: Anthony Drilich (
+ 5-1-0) vs. Frank Jankowski (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-10-cage-warriors-rome@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-10-cage-warriors-162-rome@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors: Rome
+SUMMARY:Cage Warriors 162: Rome
 DTSTART:20231028T160000Z
 DTEND:20231028T190000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
@@ -720,10 +1927,33 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99933-cage-warriors-rome
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-11-cage-fs@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-10-we-love-mma-67@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage FS
+SUMMARY:We Love MMA 67
+DTSTART:20231028T170000Z
+DTEND:20231028T200000Z
+CATEGORIES:WLMMA,MMA,live
+DESCRIPTION:https://welovemma.de/we-love-mma-67/\nhttps://www.tapology.co
+ m/fightcenter/events/102643-we-love-mma-67
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-10-haney-vs-prograis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Haney vs. Prograis
+DTSTART:20231029T010000Z
+DTEND:20231029T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103643-haney-vs-prograis\n\n---\n\nMain Event: Devin Haney (30-0-0) vs
+ . Regis Prograis (29-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-11-cage-fs-14@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage FS 14
 DTSTART:20231103T160000Z
 DTEND:20231103T190000Z
 CATEGORIES:CFS,MMA,UFC Fight Pass,live
@@ -731,7 +1961,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/100560-cage-fs
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-eternal-mma-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 81
@@ -742,7 +1972,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/102044-eternal-mma-81
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -750,10 +1980,12 @@ DTSTART:20231104T150000Z
 DTEND:20231104T180000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/100811-oktagon
+ /events/100811-oktagon\n\n---\n\nMain Card: Michał Andryszak (25-10-0) v
+ s. Stuart Austin (17-8-0)\nMain Card: James Lewis (8-5-0) vs. Niklas Sto
+ lze (12-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-mf-dazn-x-series-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 12
@@ -764,7 +1996,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98254-mf-dazn-x-series-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -773,13 +2005,16 @@ DTEND:20231105T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101863-ufc-fight-night\n\n---\n\nMain Event: Curti
- s Blaydes (17-4-0) vs. Jailton Almeida (19-2-0)
+ s Blaydes (17-4-0) vs. Jailton Almeida (19-2-0)\nPrelim: Caio Borralho (
+ 14-1-0) vs. Nursulton Ruziboev (35-8-2)\nPrelim: Vitor Petrino (9-0-0) v
+ s. Modestas Bukauskas (15-5-0)\nPrelim: Rodrigo Nascimento (10-1-0) vs. 
+ Don'Tale Mayes (10-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-11-cage-warriors-london@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-11-cage-warriors-163-london@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors: London
+SUMMARY:Cage Warriors 163: London
 DTSTART:20231111T160000Z
 DTEND:20231111T190000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
@@ -787,7 +2022,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99934-cage-warriors
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-nfc-16-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Prelims
@@ -798,7 +2033,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-nfc-16-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Main Card
@@ -809,7 +2044,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  r/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
@@ -820,7 +2055,20 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  m/fightcenter/events/94583-nfc-16
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-11-ufc-295-jones-vs-miocic@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 295: Jones vs. Miocic
+DTSTART:20231111T230000Z
+DTEND:20231112T020000Z
+CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
+DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
+ om/fightcenter/events/102959-ufc-295-jones-vs-miocic\n\n---\n\nMain Even
+ t: Jon Jones (27-1-0) vs. Stipe Miocic (20-4-0)\nMain Card: Derek Brunso
+ n (23-9-0) vs. Roman Dolidze (12-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-11-oktagon-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 49
@@ -831,7 +2079,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/102329-oktagon-49
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-11-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -842,28 +2090,54 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101867-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
-UID:2023-11-cage-warriors-dublin@kampfkalender.de
+DTSTAMP:20230811T125735Z
+UID:2023-11-cage-warriors-161-dublin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors: Dublin
+SUMMARY:Cage Warriors 161: Dublin
 DTSTART:20231125T160000Z
 DTEND:20231125T190000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/99935-cage-warriors-dublin
+ nter/events/99935-cage-warriors-dublin\n\n---\n\nMain Card: Ryan Shelley
+  (6-1-0) vs. Jordy Bakkes (5-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-11-cage-warriors-164-newcastle@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 164: Newcastle
+DTSTART:20231125T160000Z
+DTEND:20231125T190000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102523-cage-warriors-164-newcastle\n\n---\n\nMain Card: Perr
+ y Andre Goodwin (11-9-0) vs. Chris Bungard (18-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-11-we-love-mma-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 68
 DTSTART:20231125T180000Z
 DTEND:20231125T210000Z
 CATEGORIES:WLMMA,MMA,live
-DESCRIPTION:https://welovemma.de/we-love-mma-68/
+DESCRIPTION:https://welovemma.de/we-love-mma-68/\nhttps://www.tapology.co
+ m/fightcenter/events/102645-we-love-mma-68
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-11-cameron-vs-taylor-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cameron vs. Taylor 2
+DTSTART:20231125T190000Z
+DTEND:20231125T220000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103744-cameron-vs-taylor-2\n\n---\n\nMain Event: Chantelle Cameron (18
+ -0-0) vs. Katie Taylor (22-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2023-12-pfl-europe-2023-championships@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Championships
@@ -874,7 +2148,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/97299-pfl-europe-2023-championships
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-12-cage-warriors-san-diego@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors: San Diego
@@ -885,7 +2159,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/99936-cage-warriors-san-diego
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-12-nfc-17-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Prelims
@@ -897,7 +2171,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-12-mf-dazn-x-series-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 13
@@ -909,17 +2183,18 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ) vs. Jake Paul (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-12-we-love-mma-69@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 69
 DTSTART:20231216T180000Z
 DTEND:20231216T210000Z
 CATEGORIES:WLMMA,MMA,live
-DESCRIPTION:https://welovemma.de/we-love-mma-69/
+DESCRIPTION:https://welovemma.de/we-love-mma-69/\nhttps://www.tapology.co
+ m/fightcenter/events/102646-we-love-mma-70
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-12-nfc-17-main-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Main Card
@@ -931,7 +2206,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://www.tapology.com/fightcente
  ng-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17
@@ -943,7 +2218,7 @@ DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://www.tapology.co
  ional-fighting-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2023-12-ufc@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC
@@ -954,7 +2229,19 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/101868-ufc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
+UID:2023-12-rodriguez-vs-edwards@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rodríguez vs. Edwards
+DTSTART:20231217T010000Z
+DTEND:20231217T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103980-rodriguez-vs-edwards\n\n---\n\nMain Event: Jesse Rodriguez (18-
+ 0-0) vs. Sunny Edwards (20-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
 UID:2024-03-we-love-mma-71@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 71
@@ -964,7 +2251,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-71/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2024-04-we-love-mma-72@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 72
@@ -974,7 +2261,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-hannover-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230807T220304Z
+DTSTAMP:20230811T125735Z
 UID:2024-06-we-love-mma-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 74

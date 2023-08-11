@@ -4,6 +4,41 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230729T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:1049cb801b0805d6433eee18e20b537fa3d7caa5
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-08-lfa-165-compton-vs-valente@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 165: Compton vs. Valente
+DTSTART:20230815T230000Z
+DTEND:20230816T020000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102757-lfa-165-compton-vs-valente\n\n---\n\nMain Event: Dani
+ el Compton (8-2-0) vs. Renato Valente (9-6-0)\nCo-Main Event: Randall Wa
+ llace (19-9-1) vs. Wallace Lopes (7-5-0)\nMain Card: Uran Satybaldiev (5
+ -1-0) vs. Gabriel Thimoteo (5-4-0)\nMain Card: Kendra McIntyre (1-0-0) v
+ s. Alandria Rosales (3-1-0)\nMain Card: Eduardo Henrique (10-2-0) vs. Le
+ andro Soares (10-5-1)\nMain Card: Allan Begosso (7-3-1) vs. Cristian Gio
+ vannie (4-2-0)\nPrelim: Salvador Osorio (2-1-0) vs. Shane Torres (4-3-0)
+ \nPrelim: Matt Chapman (1-1-0) vs. Lucas Martino (2-1-0)\nPrelim: Mckenn
+ a Mitchell (0-2-0) vs. Cristina Brador (0-0-0)\nPrelim: Lorenzo Figueroa
+  (0-0-0) vs. Billy Ray Valdez (1-0-0)\nPrelim: Aris Arguello (0-0-0) vs.
+  Jordan Isordia (2-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-09-lfa-166-neto-vs-conrado@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 166: Neto vs. Conrado
+DTSTART:20230903T010000Z
+DTEND:20230903T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/103491-lfa-166-neto-vs-conrado\n\n---\n\nMain Event: Geraldo
+  Neto (17-6-0) vs. Magnus Conrado (18-4-0)\nMain Card: Marciano Ferreira
+  (11-3-0) vs. C. Herrera Sarango (17-8-0)\nMain Card: Richard Martins (6
+ -1-0) vs. João Paulo Silva (6-1-0)
+END:VEVENT
 END:VCALENDAR

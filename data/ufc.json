@@ -5,33 +5,49 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCVegas78",
+      "🎙@MarkBergmann"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night: Luque vs. Dos Anjos",
-      "time": "2023-08-12T22:00:00Z",
+      "title": "UFC Vegas 78: Luque vs. Dos Anjos",
+      "time": "2023-08-12T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 244851,
+        "time": "2023-08-12T23:00:00Z",
+        "title": "UFC FIGHT NIGHT: LUQUE VS DOS ANJOS"
+      },
+      "dazn": {
+        "id": "1q3359euq0t121xdieyn9zw5yp",
+        "time": "2023-08-12T23:00:00Z",
+        "title": "UFC Fight Night: Luque vs Dos Anjos (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC",
+        "description": "Der Kampf in Las Vegas ist Rafael dos Anjos zweiter Einsatz im Weltergewicht, nachdem er im vergangenen Dezember Bryan Barberena besiegt hat. Vincente Luque möchte nach zwei verlorenen Kämpfen gegen Geoff Neal und Belal Muhammad wieder in die Erfolgsspur zurückkehren. // Kommentator: Mark Bergmann"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Luque vs. Dos Anjos: Prelims",
+      "title": "UFC Vegas 78: Prelims",
+      "time": "2023-08-12T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Luque vs. Dos Anjos: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 244848,
+        "time": "2023-08-12T20:00:00Z",
+        "title": "UFC FIGHT NIGHT: LUQUE VS DOS ANJOS PRELIMS"
       }
     },
     "tapology": {
       "id": 101163,
-      "time": "2023-08-12T22:00:00Z",
+      "time": "2023-08-12T20:00:00Z",
       "title": "UFC Fight Night: Luque vs. Dos Anjos",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/101163-ufc-fight-night",
@@ -40,15 +56,26 @@
       ],
       "card": [
         "Main Event: Vicente Luque (21-9-1) vs. Rafael dos Anjos (32-14-0)",
-        "Prelim: Lando Vannata (12-7-2) vs. Mike Breeden (10-5-0)",
-        "Prelim: Montserrat Ruiz (10-2-0) vs. Jaqueline Amorim (6-1-0)",
-        "Prelim: Polyana Viana (13-5-0) vs. Iasmin Lucindo (14-5-0)",
-        "Prelim: Gaston Bolaños (7-3-0) vs. Marcus McGhee (7-1-0)",
-        "Prelim: Tafon Nchukwi (6-3-0) vs. AJ Dobson (6-2-0)",
-        "Prelim: Khalil Rountree (11-5-0) vs. Chris Daukaus (12-6-0)",
-        "Prelim: Josh Fremd (10-4-0) vs. Jamie Pickett (13-9-0)",
+        "Co-Main Event: Cub Swanson (28-13-0) vs. Hakeem Dawodu (13-3-1)",
+        "Main Card: Khalil Rountree (11-5-0) vs. Chris Daukaus (12-6-0)",
+        "Main Card: Polyana Viana (13-5-0) vs. Iasmin Lucindo (14-5-0)",
+        "Main Card: Tafon Nchukwi (6-3-0) vs. AJ Dobson (6-2-0)",
+        "Main Card: Josh Fremd (10-4-0) vs. Jamie Pickett (13-9-0)",
+        "Prelim: Marcus McGhee (7-1-0) vs. JP Buys (9-5-0)",
+        "Prelim: Terrance McKinney (13-6-0) vs. Mike Breeden (10-5-0)",
         "Prelim: Francis Marshall (7-1-0) vs. Isaac Dulgarian (5-0-0)",
-        "Prelim: Brady Hiestand (7-2-0) vs. Da'Mon Blackshear (13-5-1)"
+        "Prelim: Josh Parisian (15-6-0) vs. Martin Buday (12-1-0)",
+        "Prelim: Montserrat Ruiz (10-2-0) vs. Jaqueline Amorim (6-1-0)",
+        "Prelim: Da'Mon Blackshear (13-5-1) vs. Jose Johnson (15-7-0)",
+        "Prelim: Juliana Miller (3-2-0) vs. Luana Santos (5-1-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-on-espn-51-luque-vs-dos-anjos-97766",
+        "http://en.wikipedia.org/wiki/UFC_on_ESPN:_Luque_vs._dos_Anjos",
+        "https://events.mixedmartialarts.com/ufc-fight-night:96d770a9-5198-400a-af00-0f6d6954b7e0",
+        "https://www.ufc.com/event/ufc-fight-night-august-12-2023",
+        "http://www.ufcstats.com/event-details/d2fa318f34d0aadc",
+        "https://www.bestfightodds.com/events/ufc-fight-night-226-2905"
       ]
     }
   },
@@ -58,28 +85,55 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFC292"
+    ],
     "mainCard": {
       "title": "UFC 292: Sterling vs. O'Malley",
-      "time": "2023-08-19T22:00:00Z",
+      "time": "2023-08-20T02:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 244974,
+        "time": "2023-08-20T02:00:00Z",
+        "title": "UFC 292: STERLING VS O'MALLEY"
+      },
+      "dazn": {
+        "id": "15c1lgshx8wbv19q8jw1qum93d",
+        "time": "2023-08-20T02:00:00Z",
+        "title": "UFC 292: Sterling vs O'Malley (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
-      "title": "UFC 292: Sterling vs. O'Malley: Prelims",
+      "title": "UFC 292: Prelims",
+      "time": "2023-08-20T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 244972,
+        "time": "2023-08-20T00:00:00Z",
+        "title": "UFC 292: PRELIMS"
       }
     },
     "earlyPrelims": {
-      "title": "UFC 292: Sterling vs. O'Malley: Early Prelims",
+      "title": "UFC 292: Early Prelims",
+      "time": "2023-08-19T22:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 244968,
+        "time": "2023-08-19T22:00:00Z",
+        "title": "UFC 292: FIGHT PASS PRELIMS"
       }
     },
     "tapology": {
@@ -94,15 +148,15 @@
       "card": [
         "Main Event: Aljamain Sterling (23-3-0) vs. Sean O'Malley (16-1-0)",
         "Co-Main Event: Weili Zhang (23-3-0) vs. Amanda Lemos (13-2-1)",
-        "Main Card: Rob Font (20-6-0) vs. Yadong Song (20-7-1)",
-        "Main Card: Geoff Neal (15-5-0) vs. Ian Machado Garry (12-0-0)",
-        "Main Card: Henry Cejudo (16-3-0) vs. Marlon Vera (22-8-1)",
-        "Prelim: Cody Garbrandt (13-5-0) vs. Mario Bautista (12-2-0)",
+        "Main Card: Cody Garbrandt (13-5-0) vs. Mario Bautista (12-2-0)",
+        "Main Card: Marlon Vera (22-8-1) vs. Pedro Munhoz (20-7-0)",
+        "Main Card: Neil Magny (28-10-0) vs. Ian Machado Garry (12-0-0)",
         "Prelim: Gerald Meerschaert (35-16-0) vs. Andre Petroski (9-1-0)",
         "Prelim: Chris Weidman (15-6-0) vs. Brad Tavares (19-8-0)",
         "Prelim: Gregory Rodrigues (13-5-0) vs. Denis Tiuliulin (11-7-0)",
         "Prelim: Maryna Moroz (11-4-0) vs. Karine Silva (16-4-0)",
-        "Prelim: Andrea Lee (13-7-0) vs. Natália Silva (15-5-1)"
+        "Prelim: Andrea Lee (13-7-0) vs. Natália Silva (15-5-1)",
+        "Prelim: Kurt Holobaugh (19-7-0) vs. Austin Hubbard (15-6-0)"
       ]
     }
   },
@@ -112,33 +166,47 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCSingapore"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2023-08-26T22:00:00Z",
+      "title": "UFC Singapore: Holloway vs. Korean Zombie",
+      "time": "2023-08-26T12:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 245403,
+        "time": "2023-08-26T12:00:00Z",
+        "title": "UFC FIGHT NIGHT: HOLLOWAY VS THE KOREAN ZOMBIE"
+      },
+      "dazn": {
+        "id": "4fig3l7jmsj112y3jp97et5ic",
+        "time": "2023-08-26T12:00:00Z",
+        "title": "UFC Fight Night: Holloway vs The Korean Zombie (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Singapore: Prelims",
+      "time": "2023-08-26T09:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 245402,
+        "time": "2023-08-26T09:00:00Z",
+        "title": "UFC FIGHT NIGHT: HOLLOWAY VS THE KOREAN ZOMBIE PRELIMS"
       }
     },
     "tapology": {
       "id": 101389,
-      "time": "2023-08-26T22:00:00Z",
+      "time": "2023-08-26T09:00:00Z",
       "title": "UFC Fight Night: Holloway vs. Korean Zombie",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/101389-ufc-fight-night",
@@ -147,10 +215,18 @@
       ],
       "card": [
         "Main Event: Max Holloway (24-7-0) vs. Chan Sung Jung (17-7-0)",
-        "Main Card: Chidi Njokuani (22-9-0) vs. Michał Oleksiejczuk (18-6-0)",
-        "Prelim: Rinya Nakamura (7-0-0) vs. Fernie Garcia (10-3-0)",
+        "Co-Main Event: Anthony Smith (36-18-0) vs. Ryan Spann (21-8-0)",
+        "Main Card: Rinya Nakamura (7-0-0) vs. Fernie Garcia (10-3-0)",
+        "Main Card: Erin Blanchfield (11-1-0) vs. Taila Santos (19-2-0)",
+        "Main Card: Junior Tafa (4-1-0) vs. Parker Porter (14-8-0)",
+        "Main Card: Giga Chikadze (14-3-0) vs. Alex Caceres (21-13-0)",
         "Prelim: Waldo Cortes-Acosta (9-1-0) vs. Łukasz Brzeski (8-3-1)",
-        "Prelim: Na Liang (19-6-0) vs. JJ Aldrich (11-6-0)"
+        "Prelim: Chidi Njokuani (22-9-0) vs. Michał Oleksiejczuk (18-6-0)",
+        "Prelim: Na Liang (19-6-0) vs. JJ Aldrich (11-6-0)",
+        "Prelim: Yusaku Kinoshita (6-2-0) vs. Billy Goff (8-2-0)",
+        "Prelim: Kenan Song (19-7-0) vs. Rolando Bedoya (14-2-0)",
+        "Prelim: Seung Woo Choi (10-6-0) vs. Jarno Errens (13-4-1)",
+        "Prelim: Toshiomi Kazama (10-3-0) vs. Garrett Armfield (8-3-0)"
       ]
     }
   },
@@ -160,28 +236,42 @@
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#UFCParis"
+    ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2023-09-02T16:00:00Z",
+      "title": "UFC Paris: Gane vs. Spivac",
+      "time": "2023-09-02T19:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 245755,
+        "time": "2023-09-02T19:00:00Z",
+        "title": "UFC FIGHT NIGHT: GANE VS SPIVAC"
+      },
+      "dazn": {
+        "id": "xblqk2g3vj7d1ocic0b8iojpi",
+        "time": "2023-09-02T19:00:00Z",
+        "title": "UFC Fight Night: Gane vs Spivac (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Paris: Prelims",
+      "time": "2023-09-02T16:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 245752,
+        "time": "2023-09-02T16:00:00Z",
+        "title": "UFC FIGHT NIGHT: GANE VS SPIVAC PRELIMS"
       }
     },
     "tapology": {
@@ -195,9 +285,16 @@
       ],
       "card": [
         "Main Event: Ciryl Gane (11-2-0) vs. Serghei Spivac (16-3-0)",
-        "Main Card: Volkan Oezdemir (18-7-0) vs. Azamat Murzakanov (13-0-0)",
+        "Co-Main Event: Manon Fiorot (10-1-0) vs. Rose Namajunas (11-5-0)",
+        "Main Card: Volkan Oezdemir (18-7-0) vs. Bogdan Guskov (14-2-0)",
         "Prelim: Nora Cornolle (6-1-0) vs. Joselyne Edwards (13-4-0)",
-        "Prelim: Zarah Fairn (6-5-0) vs. Hailey Cowan (7-3-0)"
+        "Prelim: William Gomis (12-2-0) vs. Lucas Almeida (14-2-0)",
+        "Prelim: Ange Loosa (9-3-0) vs. Rhys McKee (13-4-1)",
+        "Prelim: Benoit Saint-Denis (11-1-0) vs. Thiago Moisés (17-6-0)",
+        "Prelim: Yanis Ghemmouri (12-1-0) vs. Caolan Loughran (8-0-0)",
+        "Prelim: Taylor Lapilus (18-3-0) vs. Muin Gafurov (18-5-0)",
+        "Prelim: Morgan Charriere (18-9-1) vs. Manolo Zecchini (11-3-0)",
+        "Prelim: Farid Basharat (10-0-0) vs. Kleydson Rodrigues (8-2-0)"
       ]
     }
   },
@@ -234,15 +331,23 @@
     "tapology": {
       "id": 101315,
       "time": "2023-09-09T22:00:00Z",
-      "title": "UFC 293",
+      "title": "UFC 293: Adesanya vs. Strickland",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/101315-ufc-293",
       "sports": [
         "MMA"
       ],
       "card": [
+        "Main Event: Israel Adesanya (24-2-0) vs. Sean Strickland (27-5-0)",
+        "Co-Main Event: Tai Tuivasa (15-5-0) vs. Alexander Volkov (36-10-0)",
         "Main Card: Kai Kara-France (24-11-0) vs. Manel Kape (18-6-0)",
-        "Prelim: Viviane Araujo (11-5-0) vs. Casey O'Neill (9-1-0)"
+        "Prelim: Carlos Ulberg (8-1-0) vs. Da Un Jung (15-4-1)",
+        "Prelim: Jack Jenkins (12-2-0) vs. Chepe Mariscal (14-6-0)",
+        "Prelim: Justin Tafa (6-3-0) vs. Austen Lane (12-3-0)",
+        "Prelim: Blood Diamond (3-2-0) vs. Charlie Radtke (7-3-0)",
+        "Prelim: Shane Young (13-7-0) vs. Gabriel Miranda (16-6-0)",
+        "Prelim: Tyson Pedro (9-4-0) vs. Anton Turkalj (8-2-0)",
+        "Prelim: Jamie Mullarkey (16-6-0) vs. John Makdessi (18-8-0)"
       ]
     }
   },
@@ -288,7 +393,14 @@
       "card": [
         "Main Event: Alexa Grasso (16-3-0) vs. Valentina Shevchenko (23-4-0)",
         "Main Card: Chris Curtis (30-10-0) vs. Anthony Hernandez (11-2-0)",
-        "Prelim: Lupita Godinez (10-3-0) vs. Sam Hughes (8-5-0)"
+        "Main Card: Tracy Cortez (10-1-0) vs. Jasmine Jasudavicius (9-2-0)",
+        "Main Card: Daniel Rodriguez (17-4-0) vs. Santiago Ponzinibbio (29-7-0)",
+        "Prelim: Lupita Godinez (10-3-0) vs. Sam Hughes (8-5-0)",
+        "Prelim: Edgar Cháirez (10-5-0) vs. Daniel Lacerda (11-5-0)",
+        "Prelim: Cynthia Calvillo (9-6-1) vs. Elise Reed (7-3-0)",
+        "Prelim: Daniel Zellhuber (13-1-0) vs. Christos Giagos (20-10-0)",
+        "Prelim: Fernando Padilla (15-4-0) vs. Kyle Nelson (14-5-1)",
+        "Prelim: Natan Levy (8-1-0) vs. Alex Reyes (13-3-0)"
       ]
     }
   },
@@ -325,16 +437,23 @@
     "tapology": {
       "id": 101865,
       "time": "2023-09-23T22:00:00Z",
-      "title": "UFC Fight Night",
+      "title": "UFC Fight Night: Fiziev vs. Gamrot",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/101865-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Prelim: Jake Collier (13-9-0) vs. Valter Walker (11-0-0)",
-        "Prelim: Bruno Silva (13-5-2) vs. Cody Durden (15-4-1)",
-        "Prelim: Mizuki Inoue (14-6-0) vs. Hannah Goldy (6-3-0)"
+        "Main Event: Rafael Fiziev (12-2-0) vs. Mateusz Gamrot (22-2-0)",
+        "Main Card: Bryce Mitchell (15-1-0) vs. Dan Ige (17-6-0)",
+        "Prelim: Bruno Silva (13-5-2) vs. Cody Durden (16-4-1)",
+        "Prelim: Mizuki Inoue (14-6-0) vs. Hannah Goldy (6-3-0)",
+        "Prelim: Charles Jourdain (14-6-1) vs. Ricardo Ramos (16-4-0)",
+        "Prelim: Jake Collier (13-9-0) vs. Mohammed Usman (9-2-0)",
+        "Prelim: Montserrat Rendon (5-0-0) vs. Tamires Vidal (7-1-0)",
+        "Prelim: Miles Johns (13-2-0) vs. Daniel Argueta (9-1-0)",
+        "Prelim: Bryan Battle (9-2-0) vs. AJ Fletcher (10-2-0)",
+        "Prelim: Javid Basharat (14-0-0) vs. Victor Henry (23-6-0)"
       ]
     }
   },
@@ -372,8 +491,66 @@
       "id": 101866,
       "time": "2023-10-07T22:00:00Z",
       "title": "UFC Fight Night",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/101866-ufc-fight-night"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/101866-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Drew Dober (26-12-0) vs. Ricky Glenn (22-7-2)",
+        "Prelim: Kanako Murata (12-2-0) vs. Vanessa Demopoulos (9-5-0)",
+        "Prelim: Bill Algeo (17-7-0) vs. Alexander Hernandez (14-6-0)",
+        "Prelim: Johnny Munoz Jr. (12-3-0) vs. Aoriqileng (24-10-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-103212",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2023-10-14T22:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 103212,
+      "time": "2023-10-14T22:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/103212-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Sodiq Yusuff (13-2-0) vs. Edson Barboza (23-11-0)",
+        "Main Card: Jonathan Martinez (18-4-0) vs. Adrian Yanez (16-4-0)",
+        "Main Card: Jennifer Maia (21-9-1) vs. Viviane Araujo (11-5-0)",
+        "Prelim: Irina Alekseeva (5-1-0) vs. Melissa Dixon (5-0-0)",
+        "Prelim: Ashley Yoder (8-8-0) vs. Emily Ducote (12-8-0)",
+        "Prelim: David Dvořák (20-6-0) vs. Tatsuro Taira (14-0-0)"
+      ]
     }
   },
   {
@@ -412,9 +589,20 @@
     "tapology": {
       "id": 99416,
       "time": "2023-10-21T14:30:00Z",
-      "title": "UFC 294",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/99416-ufc-294"
+      "title": "UFC 294: Makhachev vs. Oliveira 2",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/99416-ufc-294",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Islam Makhachev (24-1-0) vs. Charles Oliveira (34-9-0)",
+        "Main Card: Paulo Costa (14-2-0) vs. Khamzat Chimaev (12-0-0)",
+        "Main Card: Nassourdine Imavov (12-4-0) vs. Ikram Aliskerov (14-1-0)",
+        "Main Card: Magomed Ankalaev (18-1-1) vs. Johnny Walker (21-7-0)",
+        "Prelim: Tim Elliott (19-12-1) vs. Muhammad Mokaev (9-0-0)",
+        "Prelim: Sedriques Dumas (8-1-0) vs. Abu Azaitar (14-3-1)"
+      ]
     }
   },
   {
@@ -457,7 +645,55 @@
         "MMA"
       ],
       "card": [
-        "Main Event: Curtis Blaydes (17-4-0) vs. Jailton Almeida (19-2-0)"
+        "Main Event: Curtis Blaydes (17-4-0) vs. Jailton Almeida (19-2-0)",
+        "Prelim: Caio Borralho (14-1-0) vs. Nursulton Ruziboev (35-8-2)",
+        "Prelim: Vitor Petrino (9-0-0) vs. Modestas Bukauskas (15-5-0)",
+        "Prelim: Rodrigo Nascimento (10-1-0) vs. Don'Tale Mayes (10-5-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-102959",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC 295: Jones vs. Miocic",
+      "time": "2023-11-11T23:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC 295: Jones vs. Miocic: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC 295: Jones vs. Miocic: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 102959,
+      "time": "2023-11-11T23:00:00Z",
+      "title": "UFC 295: Jones vs. Miocic",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/102959-ufc-295-jones-vs-miocic",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Jon Jones (27-1-0) vs. Stipe Miocic (20-4-0)",
+        "Main Card: Derek Brunson (23-9-0) vs. Roman Dolidze (12-2-0)"
       ]
     }
   },

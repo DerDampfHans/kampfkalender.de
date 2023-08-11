@@ -12,7 +12,7 @@
     },
     "tapology": {
       "id": 101493,
-      "time": "2023-08-13T00:00:00Z",
+      "time": "2023-08-12T23:00:00Z",
       "title": "Navarrete vs. Valdez",
       "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/101493-valdez-vs-navarrete",
@@ -20,7 +20,14 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Emanuel Navarrete (37-1-0) vs. Oscar Valdez (31-1-0)"
+        "Main Event: Emanuel Navarrete (37-1-0) vs. Oscar Valdez (31-1-0)",
+        "Main Card: Lindolfo Delgado (17-0-0) vs. Jair Valtierra (14-2-0)",
+        "Main Card: Richard Torrez Jr. (5-0-0) vs. Willie Jake Jr. (11-3-2)",
+        "Main Card: Javier Martinez (8-0-1) vs. Isaiah Wise (11-2-2)",
+        "Main Card: Antonio Mireles (7-0-0) vs. Dajuan Calloway (5-2-0)",
+        "Main Card: Sergio Rodriguez (7-0-1) vs. Eduardo Ayala (9-3-1)",
+        "Main Card: Emiliano Vargas (5-0-0) vs. Jorge Luis Marquez (3-5-1)",
+        "Prelim: Ricardo Ruvalcaba (9-0-0) vs. Adrián Orbán (6-3-0)"
       ],
       "links": [
         "https://www.toprank.com/all-news/la-batalla-por-mexico-emanuel-navarrete-oscar-valdez-junior-lightweight-world-title-showdown-set-for-august-12-at-desert-diamond-arena-live-on-espn/",
@@ -43,18 +50,77 @@
       "id": 101496,
       "time": "2023-08-20T00:00:00Z",
       "title": "Beterbiev vs. Smith",
-      "info": "Confirmed Upcoming Boxing Event",
+      "info": "Cancelled Event",
       "url": "https://www.tapology.com/fightcenter/events/101496-beterbiev-vs-smith",
+      "links": [
+        "https://www.toprank.com/all-events/unified-light-heavyweight-championship-artur-beterbiev-vs-callum-mundo-smith-%e2%80%a2-sat-aug-19th-live-on-espn/",
+        "http://www.boxrec.com/en/event/874089"
+      ]
+    }
+  },
+  {
+    "id": "tapology-103065",
+    "promotion": "TR_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Anderson vs. Rudenko",
+      "time": "2023-08-27T01:00:00Z"
+    },
+    "tapology": {
+      "id": 103065,
+      "time": "2023-08-27T01:00:00Z",
+      "title": "Anderson vs. Rudenko",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/103065-anderson-vs-rudenko",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Artur Beterbiev (19-0-0) vs. Callum Smith (29-1-0)",
-        "Main Card: Guido Vianello (10-1-1) vs. Simon Kean (23-1-0)",
-        "Main Card: Christian Mbilli (24-0-0) vs. Demond Nicholson (26-5-1)"
+        "Main Event: Jared Anderson (15-0-0) vs. Andriy Rudenko (35-6-0)",
+        "Main Card: Efe Ajagba (17-1-0) vs. Zhan Kossobutskiy (19-0-0)",
+        "Main Card: Bakhodir Jalolov (12-0-0) vs. Onoriode Ehwarieme (20-2-0)",
+        "Main Card: Charly Suarez (15-0-0) vs. Yohan Vasquez (25-3-0)",
+        "Main Card: Nico Ali Walsh (8-0-1) vs. Sona Akale (6-1-0)",
+        "Main Card: Bruce Carrington (8-0-0) vs. A. Contreras (13-6-1)",
+        "Main Card: Jeremiah Milton (10-0-0) vs. Craig Lewis (15-6-1)",
+        "Main Card: Ablaikhan Zhussupov (3-0-0) vs. Wiston Campos (33-11-5)",
+        "Main Card: Abdullah Mason (9-0-0) vs. Cesar Villarraga (10-7-1)"
       ],
       "links": [
-        "http://www.boxrec.com/en/event/874089"
+        "http://www.boxrec.com/en/event/877061"
+      ]
+    }
+  },
+  {
+    "id": "tapology-103336",
+    "promotion": "TR_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Lopez vs. Gonzalez",
+      "time": "2023-09-16T00:00:00Z"
+    },
+    "tapology": {
+      "id": 103336,
+      "time": "2023-09-16T00:00:00Z",
+      "title": "Lopez vs. Gonzalez",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/103336-lopez-vs-gonzalez",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Luis Alberto Lopez (28-2-0) vs. Joet Gonzalez (26-3-0)",
+        "Main Card: Xander Zayas (16-0-0) vs. Roberto Valenzuela Jr. (23-4-0)",
+        "Main Card: Robson Conceição (17-2-0) vs. Humberto Galindo (14-3-1)",
+        "Main Card: Ruben Villa (20-1-0) vs. Brandon Valdes (15-3-0)",
+        "Main Card: Omar Aguilar (25-1-0) vs. Julio Luna (20-1-2)",
+        "Main Card: Delante Johnson (9-0-0) vs. Ricardo Quiroz (13-2-0)"
       ]
     }
   }

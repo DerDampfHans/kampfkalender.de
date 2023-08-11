@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230617T144910Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230811T125735Z
+X-KAMPFKALENDER-HASH:46f9109501bb0fd7356a1a0193438aa1057b4a6c
+BEGIN:VEVENT
+DTSTAMP:20230811T125735Z
+UID:2023-10-bfl-78@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BFL 78
+DTSTART:20231020T020000Z
+DTEND:20231020T050000Z
+CATEGORIES:BFL,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/102815-bfl-78\n\n---\n\nMain Event: Dejan Kajić (15-7-2) vs.
+  Josenaldo Silva (29-7-0)\nMain Card: Rodrigo Sezinando (5-1-0) vs. Ash 
+ Mashreghi (8-7-0)\nMain Card: Dario Sinagoga (6-1-0) vs. Gagan Gill (5-2
+ -0)
+END:VEVENT
 END:VCALENDAR
