@@ -10,7 +10,13 @@
     ],
     "mainCard": {
       "title": "Bellator 298: Storley vs. Ward",
-      "time": "2023-08-11T22:00:00Z"
+      "time": "2023-08-11T22:00:00Z",
+      "until": "2023-08-12T03:00:00Z",
+      "broadcasters": {
+        "PLUTO_TV": {
+          "free": true
+        }
+      }
     },
     "tapology": {
       "id": 101316,
@@ -61,7 +67,12 @@
     ],
     "mainCard": {
       "title": "Bellator 299: Eblen vs. Edwards",
-      "time": "2023-09-23T15:30:00Z"
+      "time": "2023-09-23T15:30:00Z",
+      "broadcasters": {
+        "PLUTO_TV": {
+          "free": true
+        }
+      }
     },
     "tapology": {
       "id": 101202,
@@ -104,14 +115,6 @@
     "mainCard": {
       "title": "Bellator 300",
       "time": "2023-10-07T23:00:00Z",
-      "broadcasters": {
-        "PLUTO_TV": {
-          "free": true
-        }
-      }
-    },
-    "prelims": {
-      "title": "Bellator 300: Prelims",
       "broadcasters": {
         "PLUTO_TV": {
           "free": true
