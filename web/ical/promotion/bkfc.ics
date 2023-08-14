@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230811T125735Z
-X-KAMPFKALENDER-HASH:e10afbdea7578f0f54356eb310a973db87ec8240
+DTSTAMP:20230814T110439Z
+X-KAMPFKALENDER-HASH:4b53c7b17659ff9a2516a8892e4df9701750c69c
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110439Z
 UID:2023-08-bkfc-48-dodson-vs-ridge-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 48: Dodson vs. Ridge: Prelims
@@ -28,7 +28,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=spenqrHPs48\nvia
  Lewis vs. Justyn Martinez\nPrelim: Anthony Sanchez vs. Gene Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110439Z
 UID:2023-08-bkfc-48-dodson-vs-ridge@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 48: Dodson vs. Ridge
@@ -48,22 +48,38 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-48/2pddf/\n\n---\
  ustin Lewis vs. Justyn Martinez\nPrelim: Anthony Sanchez vs. Gene Perez
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110439Z
+UID:2023-08-bkfc-prospect-series-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Prospect Series 1
+DTSTART:20230825T000000Z
+DTEND:20230825T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-prospects-1-miami
+ /2pdi8/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/103369-bkf
+ c-prospect-series-1\n\n---\n\nMain Card: Rosalinda Rodriguez vs. Maia Ka
+ haunaele\nMain Card: Wayna Reid vs. Chris Cornelius\nMain Card: Leonardo
+  Perdomo vs. Ryan Shough\nMain Card: Markus Suarez vs. Drew Nolan\nMain 
+ Card: Sean Hotusing vs. Dimitri Angelini\nMain Card: Harry Cruz vs. Lean
+ dro Torres\nMain Card: Dameko Labon vs. Justin Watson
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230814T110439Z
 UID:2023-08-bkfc-49-slaveski-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 49: Slaveski vs. Lindsey
 DTSTART:20230826T000000Z
 DTEND:20230826T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/102528-bkfc-49\n\n---\n\nMain Event: Gorjan Slaveski vs. Jake Linds
- ey\nCo-Main Event: Bryce Henry vs. Tom Shoaff\nMain Card: Frank Alvarez 
- vs. Jarod Grant\nMain Card: Bryan Duran vs. Dakota Highpine\nMain Card: 
- John Michael Escoboza vs. Esteban Rodriguez\nMain Card: Howard Davis vs.
-  Jeff Chiffens
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-49/2pdi9/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/102528-bkfc-49\n\n---\n\n
+ Main Event: Gorjan Slaveski vs. Jake Lindsey\nCo-Main Event: Bryce Henry
+  vs. Tom Shoaff\nMain Card: Frank Alvarez vs. Jarod Grant\nMain Card: Br
+ yan Duran vs. Dakota Highpine\nMain Card: John Michael Escoboza vs. Este
+ ban Rodriguez\nMain Card: Howard Davis vs. Jeff Chiffens
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110439Z
 UID:2023-09-bkfc-50-hunt-vs-camozzi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 50: Hunt vs. Camozzi
@@ -76,7 +92,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ain Card: Andrew Yates vs. Christian Torres
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110439Z
 UID:2023-09-bkfc-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 51
@@ -87,7 +103,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/103959-bkfc-51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110439Z
 UID:2023-10-bkfc-52@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 52
@@ -96,5 +112,24 @@ DTEND:20231001T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/103960-bkfc-52
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230814T110439Z
+UID:2023-11-bkfc-bulgaria@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Bulgaria
+DTSTART:20231117T170000Z
+DTEND:20231117T200000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/104054-bkfc-bulgaria\n\n---\n\nMain Event: Rosen Dimitrov vs. Todor
+  Zhelyazkov\nCo-Main Event: Georgi Valentinov vs. Bojan Kosendar\nMain C
+ ard: Vladislav Kanchev vs. Wilhelm Ott\nMain Card: Kaloyan Kolev vs. Ame
+ r Abdulnabi\nMain Card: Marian Dimitrov vs. Jędrzej Durski\nMain Card: D
+ elqn Iliev vs. Florin Lupu\nMain Card: Veselin Ivanov vs. Marco Giustari
+ ni\nMain Card: Mladen Iliev vs. Yunus Emre Batan\nMain Card: Kristian Ki
+ rilov vs. Nermin Hajdarpašić\nPrelim: Angel Petkov vs. Nikola Arsov\nPre
+ lim: Martin Stoichkov vs. Felipe Maia\nPrelim: Zdravko Dimitrov vs. Toma
+ s Vojtela
 END:VEVENT
 END:VCALENDAR

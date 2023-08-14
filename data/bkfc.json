@@ -5,21 +5,28 @@
     "sports": [
       "BARE_KNUCKLE"
     ],
+    "tags": [
+      "#BKFCProspects",
+      "#BKFCProspects1"
+    ],
     "mainCard": {
-      "hidden": true,
       "title": "BKFC Prospect Series 1",
       "time": "2023-08-25T00:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-prospects-1-miami/2pdi8/"
         }
-      }
-    },
-    "prelims": {
-      "title": "BKFC Prospect Series 1: Prelims",
-      "broadcasters": {
-        "FITE_TV": {
-          "free": true
-        }
+      },
+      "fite": {
+        "id": "2pdi8",
+        "time": "2023-08-25T00:00:00Z",
+        "title": "BKFC Prospects 1 Miami: Rosalinda Rodriguez vs Maia Kahaunaele",
+        "url": "https://www.fite.tv/watch/bkfc-prospects-1-miami/2pdi8/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
@@ -46,18 +53,31 @@
       "BARE_KNUCKLE"
     ],
     "tags": [
-      "#BKFC49"
+      "#BKFC49",
+      "#BKFCMiami"
     ],
     "mainCard": {
       "title": "BKFC 49: Slaveski vs. Lindsey",
       "time": "2023-08-26T00:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-49/2pdi9/"
         }
+      },
+      "fite": {
+        "id": "2pdi9",
+        "time": "2023-08-26T00:00:00Z",
+        "title": "BKFC 49 Miami: Gorjan Slaveski vs Jake Lindsey",
+        "url": "https://www.fite.tv/watch/bkfc-49/2pdi9/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
-      "title": "BKFC 49: Slaveski vs. Lindsey: Prelims",
+      "title": "BKFC 49: Prelims",
       "broadcasters": {
         "FITE_TV": {
           "free": true
@@ -182,6 +202,50 @@
       "title": "BKFC 52",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/103960-bkfc-52"
+    }
+  },
+  {
+    "id": "tapology-104054",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "title": "BKFC: Bulgaria",
+      "time": "2023-11-17T17:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC: Bulgaria: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 104054,
+      "time": "2023-11-17T17:00:00Z",
+      "title": "BKFC: Bulgaria",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/104054-bkfc-bulgaria",
+      "card": [
+        "Main Event: Rosen Dimitrov vs. Todor Zhelyazkov",
+        "Co-Main Event: Georgi Valentinov vs. Bojan Kosendar",
+        "Main Card: Vladislav Kanchev vs. Wilhelm Ott",
+        "Main Card: Kaloyan Kolev vs. Amer Abdulnabi",
+        "Main Card: Marian Dimitrov vs. Jędrzej Durski",
+        "Main Card: Delqn Iliev vs. Florin Lupu",
+        "Main Card: Veselin Ivanov vs. Marco Giustarini",
+        "Main Card: Mladen Iliev vs. Yunus Emre Batan",
+        "Main Card: Kristian Kirilov vs. Nermin Hajdarpašić",
+        "Prelim: Angel Petkov vs. Nikola Arsov",
+        "Prelim: Martin Stoichkov vs. Felipe Maia",
+        "Prelim: Zdravko Dimitrov vs. Tomas Vojtela"
+      ]
     }
   }
 ]

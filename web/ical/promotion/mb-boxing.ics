@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230811T125735Z
-X-KAMPFKALENDER-HASH:a0c64fbd6062ed2530f36ea4c8850b29794be675
+DTSTAMP:20230814T110439Z
+X-KAMPFKALENDER-HASH:16bc547f336dca4ed422214ba530372f894fb5d6
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110440Z
 UID:2023-08-joshua-vs-helenius@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Joshua vs. Helenius
@@ -26,7 +26,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  nPrelim: Brandon Scott (0-0-0) vs. Louis Norman (14-13-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110440Z
 UID:2023-08-yafai-vs-frank@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Yafai vs. Frank
@@ -45,7 +45,34 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  aheem Sulaimaan (0-0-0) vs. Michel Gonxhe (4-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110440Z
+UID:2023-09-fierro-vs-zamarripa@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fierro vs. Zamarripa
+DTSTART:20230916T010000Z
+DTEND:20230916T040000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/104021-fierro-vs-zamarripa\n\n---\n\nMain Event: Angel Fierro (21-1-2)
+  vs. Brayan Zamarripa (13-1-0)\nMain Card: Erika Cruz (15-2-0) vs. Melis
+ sa Oddessa Parker (6-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230814T110440Z
+UID:2023-09-hitchins-vs-zepeda@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Hitchins vs. Zepeda
+DTSTART:20230924T000000Z
+DTEND:20230924T030000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/103998-hitchins-vs-zepeda\n\n---\n\nMain Event: Richardson Hitchins (1
+ 6-0-0) vs. Jose Zepeda (37-3-0)\nMain Card: Jessica McCaskill (12-3-0) v
+ s. Sandy Ryan (6-1-0)\nMain Card: Austin Williams (14-0-0) vs. Steve Rol
+ ls (22-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230814T110440Z
 UID:2023-10-wood-vs-warrington@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Wood vs. Warrington
@@ -60,7 +87,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  in Card: Junaid Bostan (6-0-0) vs. Corey McCulloch (7-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110440Z
 UID:2023-10-catterall-vs-linares@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Catterall vs. Linares
@@ -72,7 +99,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0) vs. Jorge Linares (47-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110440Z
 UID:2023-10-haney-vs-prograis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Haney vs. Prograis
@@ -84,7 +111,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  . Regis Prograis (29-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110440Z
+UID:2023-11-pacheco-vs-coceres@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Pacheco vs. Coceres
+DTSTART:20231119T020000Z
+DTEND:20231119T050000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/104022-pacheco-vs-coceres\n\n---\n\nMain Event: Diego Pacheco (19-0-0)
+  vs. Marcelo Coceres (32-5-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230814T110440Z
 UID:2023-11-cameron-vs-taylor-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cameron vs. Taylor 2
@@ -96,7 +135,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0-0) vs. Katie Taylor (22-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230814T110440Z
 UID:2023-12-rodriguez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodríguez vs. Edwards
