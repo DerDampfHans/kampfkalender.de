@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230811T125735Z
-X-KAMPFKALENDER-HASH:65f58ebe81010e8cca1144c37537eca4bc41f153
+DTSTAMP:20230818T130200Z
+X-KAMPFKALENDER-HASH:f050671c4059f8c20c4867d10539cf42f4c812da
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-bell-vs-carcosia@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bell vs. Carcosia
@@ -24,7 +24,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ph Suero (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-rajadamnern-world-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series
@@ -35,7 +35,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/103916-rajadamnern-world-series
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-scoby-vs-carmona@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Scoby vs. Carmona
@@ -52,7 +52,17 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   D'Angelo Hopgood (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
+UID:2023-08-adcc-north-european-open-2023@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ADCC North European Open 2023
+DTSTART:20230819T080000Z
+DTEND:20230819T110000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T130201Z
 UID:2023-08-rajadamnern-world-series-final-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series: Final 4
@@ -63,7 +73,19 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/103918-rajadamnern-world-series-final-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
+UID:2023-08-bs-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BS Fight Night
+DTSTART:20230819T160000Z
+DTEND:20230819T190000Z
+CATEGORIES:Other,MMA,Kickboxen,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=U_IAg0nJbY8\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-bs-fightnight-2-
+ 625
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T130201Z
 UID:2023-08-simpson-vs-hernandez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Simpson vs. Hernandez
@@ -79,7 +101,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  yne (0-0-0) vs. Nathan Mitchell (0-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-rajadamnern-world-series-final-4-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series: Final 4
@@ -89,19 +111,22 @@ CATEGORIES:Other,Muay Thai,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-collazo-vs-diagan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Collazo vs. Diagan
-DTSTART:20230827T010000Z
-DTEND:20230827T040000Z
+DTSTART:20230827T000000Z
+DTEND:20230827T030000Z
 CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/103507-collazo-vs-diagan\n\n---\n\nMain Event: Oscar Collazo (7-0-0) v
- s. Garen Diagan (10-3-0)
+ s. Garen Diagan (10-3-0)\nMain Card: Angel Acosta (23-4-0) vs. Carlos Bu
+ itrago (37-9-1)\nMain Card: Juan Carlos Camacho (15-1-0) vs. Luis Orozco
+  (17-3-2)\nMain Card: Yan Santana (8-0-0) vs. Jostin Ortiz-Maysonet (4-0
+ -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-walsh-vs-velasco@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Velasco
@@ -120,7 +145,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  2-0-1) vs. Josias Gonzalez (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
+UID:2023-08-adcc-africa-championship-2023@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ADCC Africa Championship 2023
+DTSTART:20230827T080000Z
+DTEND:20230827T110000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T130201Z
 UID:2023-08-road-to-ufc-singapore-episode-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Road to UFC: Singapore Episode 1
@@ -135,7 +170,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Main Card: Peter Danesoe (6-2-0) vs. N. Tumendemberel (7-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-road-to-ufc-singapore-episode-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Road to UFC: Singapore Episode 2
@@ -151,7 +186,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230818T130201Z
 UID:2023-09-rajadamnern-world-series-final-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series: Final 4

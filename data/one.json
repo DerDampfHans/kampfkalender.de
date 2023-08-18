@@ -3,6 +3,8 @@
     "id": "tapology-103794",
     "promotion": "ONE",
     "sports": [
+      "MMA",
+      "KICKBOXING",
       "MUAY_THAI"
     ],
     "mainCard": {
@@ -10,6 +12,7 @@
       "time": "2023-08-18T12:30:00Z",
       "broadcasters": {
         "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=5GhHPH3h09k",
           "free": true
         }
       }
@@ -18,14 +21,30 @@
       "id": 103794,
       "time": "2023-08-18T12:30:00Z",
       "title": "One Friday Fights 29",
-      "info": "Confirmed Upcoming Muay Thai Event",
+      "info": "Confirmed Upcoming Muay Thai, MMA, & Kickboxing Event",
       "url": "https://www.tapology.com/fightcenter/events/103794-one-friday-fights-29",
       "sports": [
+        "MMA",
+        "KICKBOXING",
         "MUAY_THAI"
       ],
       "card": [
-        "Main Card: Saeksan Or Kwanmuang vs. Isaac Araya",
-        "Main Card: Pongsiri PK. Saenchai vs. Fariyar Aminipour"
+        "Main Event: Saeksan Or Kwanmuang vs. Isaac Araya",
+        "Co-Main Event: D. Jitmuangnon vs. Paidang Kiatsongrit",
+        "Main Card: KomAwut FAGroup vs. P. Lukjaomaesaiwaree",
+        "Main Card: P. Sor Jor Wichitpadriew vs. P. Por Petchkaikaew",
+        "Main Card: Surachai Sor Sommai vs. S. Choktaweeoy",
+        "Main Card: Petchrapa Sor.Sopit vs. Fes Erawan",
+        "Main Card: Pongsiri PK. Saenchai vs. Fariyar Aminipour",
+        "Main Card: Elbrus Osmanov vs. Wail Karroumi",
+        "Main Card: Rambong Sor Terapat vs. Noelisson Silva",
+        "Main Card: Celest Hansen vs. Yau Pui Yu",
+        "Main Card: Agilan Thani (11-7-0) vs. Magomedmurad Khasaev (6-0-0)",
+        "Main Card: Chayan Oorzhak (5-2-0) vs. Andrey Chelbaev (4-1-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/one-championship-one-friday-fights-29-98851",
+        "https://events.mixedmartialarts.com/one-friday-fights-29:4afbe8d8-a32d-4d07-a579-5413fb98e7ae"
       ]
     }
   },
@@ -54,7 +73,8 @@
         "MUAY_THAI"
       ],
       "card": [
-        "Main Card: Saemapetch Fairtex vs. K. P.K. Saenchai Muaythaigym"
+        "Main Card: Saemapetch Fairtex vs. K. P.K. Saenchai Muaythaigym",
+        "Main Card: Kongklai AnnyMuayThai vs. Silviu Vitez"
       ]
     }
   },
@@ -62,7 +82,9 @@
     "id": "tapology-102490",
     "promotion": "ONE",
     "sports": [
-      "MMA"
+      "MMA",
+      "MUAY_THAI",
+      "GRAPPLING"
     ],
     "mainCard": {
       "title": "ONE Fight Night 14: Stamp vs. Hee",
@@ -75,7 +97,7 @@
     },
     "tapology": {
       "id": 102490,
-      "time": "2023-09-29T20:00:00Z",
+      "time": "2023-09-30T00:00:00Z",
       "title": "ONE Fight Night 14: Stamp vs. Hee",
       "info": "Confirmed Upcoming MMA, Muay Thai, & Grappling Event",
       "url": "https://www.tapology.com/fightcenter/events/102490-one-fight-night-14-stamp-vs-hee",
@@ -88,7 +110,9 @@
         "Main Event: Stamp Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)",
         "Co-Main Event: Smilla Sundell vs. Jackie Buntan",
         "Main Card: Danielle Kelly vs. Jessa Khan",
-        "Main Card: Jingnan Xiong vs. Nat Jaroonsak"
+        "Main Card: Jingnan Xiong vs. Nat Jaroonsak",
+        "Main Card: Asa Ten Pow vs. Rambolek Tor Yotha",
+        "Main Card: Stephen Loman (17-2-0) vs. John Lineker (36-10-0)"
       ]
     }
   },
@@ -125,6 +149,7 @@
     "id": "tapology-103576",
     "promotion": "ONE",
     "sports": [
+      "MMA",
       "MUAY_THAI"
     ],
     "mainCard": {
@@ -140,13 +165,15 @@
       "id": 103576,
       "time": "2023-10-07T00:00:00Z",
       "title": "ONE Fight Night 15: Tawanchai vs. Superbon",
-      "info": "Confirmed Upcoming Muay Thai Event",
+      "info": "Confirmed Upcoming MMA & Muay Thai Event",
       "url": "https://www.tapology.com/fightcenter/events/103576-one-fight-night-15-tawanchai-vs-superbon",
       "sports": [
+        "MMA",
         "MUAY_THAI"
       ],
       "card": [
-        "Main Event: Tawanchai PK Saenchai vs. Superbon Singha Mawynn"
+        "Main Event: Tawanchai PK Saenchai vs. Superbon Singha Mawynn",
+        "Main Card: Timofey Nastyukhin (14-7-0) vs. Lipeng Zhang (33-12-2)"
       ]
     }
   }

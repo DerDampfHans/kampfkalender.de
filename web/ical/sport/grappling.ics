@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230811T125735Z
-X-KAMPFKALENDER-HASH:ba81433fb38b8e14e44a2236e9a948f8b16db7d7
+DTSTAMP:20230818T130200Z
+X-KAMPFKALENDER-HASH:210ccd4ff530d192f7a60727948eb2b0169c215b
 BEGIN:VEVENT
-DTSTAMP:20230811T125736Z
+DTSTAMP:20230818T130201Z
 UID:2023-08-gmc-olympix-135-grappling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC OlympiX 135 - Grappling
@@ -15,5 +15,40 @@ DTSTART:20230812T100000Z
 DTEND:20230812T130000Z
 CATEGORIES:GMC,Grappling,YouTube,live,kostenlos
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=J1G6EMIYQaQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T130201Z
+UID:2023-08-adcc-north-european-open-2023@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ADCC North European Open 2023
+DTSTART:20230819T080000Z
+DTEND:20230819T110000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T130201Z
+UID:2023-08-adcc-africa-championship-2023@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ADCC Africa Championship 2023
+DTSTART:20230827T080000Z
+DTEND:20230827T110000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T130201Z
+UID:2023-09-one-fight-night-14-stamp-vs-hee@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 14: Stamp vs. Hee
+DTSTART:20230902T000000Z
+DTEND:20230902T030000Z
+CATEGORIES:ONE,MMA,Muay Thai,Grappling,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/102490-one-fight-night-14-stamp-vs-hee\n\n---\n\nMain Event: Stamp 
+ Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)\nCo-Main Event: Smilla Sundell
+  vs. Jackie Buntan\nMain Card: Danielle Kelly vs. Jessa Khan\nMain Card:
+  Jingnan Xiong vs. Nat Jaroonsak\nMain Card: Asa Ten Pow vs. Rambolek To
+ r Yotha\nMain Card: Stephen Loman (17-2-0) vs. John Lineker (36-10-0)
 END:VEVENT
 END:VCALENDAR

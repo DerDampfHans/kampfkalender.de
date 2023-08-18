@@ -46,6 +46,29 @@
     }
   },
   {
+    "id": "fightpass-247151",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "tags": [
+      "#ADCC"
+    ],
+    "mainCard": {
+      "title": "ADCC North European Open 2023",
+      "time": "2023-08-19T08:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 247151,
+        "time": "2023-08-19T08:00:00Z",
+        "title": "ADCC NORTH EUROPEAN OPEN 2023: PRO FINALS"
+      }
+    }
+  },
+  {
     "id": "tapology-103918",
     "promotion": "_OTHER",
     "sports": [
@@ -72,6 +95,30 @@
       "title": "Rajadamnern World Series: Final 4",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/103918-rajadamnern-world-series-final-4"
+    }
+  },
+  {
+    "id": "fight24-625",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "BOXING"
+    ],
+    "tags": [
+      "#Braunschweig"
+    ],
+    "mainCard": {
+      "title": "BS Fight Night",
+      "time": "2023-08-19T16:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=U_IAg0nJbY8"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-bs-fightnight-2-625"
+        }
+      }
     }
   },
   {
@@ -142,6 +189,47 @@
     }
   },
   {
+    "id": "tapology-103507",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#CollazoDiagan"
+    ],
+    "mainCard": {
+      "title": "Collazo vs. Diagan",
+      "time": "2023-08-27T00:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "594z5em872jt1jx6r5mm2vlp4",
+        "time": "2023-08-27T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Collazo vs Diagan"
+      }
+    },
+    "tapology": {
+      "id": 103507,
+      "time": "2023-08-27T00:00:00Z",
+      "title": "Collazo vs. Diagan",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/103507-collazo-vs-diagan",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Oscar Collazo (7-0-0) vs. Garen Diagan (10-3-0)",
+        "Main Card: Angel Acosta (23-4-0) vs. Carlos Buitrago (37-9-1)",
+        "Main Card: Juan Carlos Camacho (15-1-0) vs. Luis Orozco (17-3-2)",
+        "Main Card: Yan Santana (8-0-0) vs. Jostin Ortiz-Maysonet (4-0-0)"
+      ]
+    }
+  },
+  {
     "id": "tapology-103145",
     "promotion": "_OTHER",
     "sports": [
@@ -189,41 +277,26 @@
     }
   },
   {
-    "id": "tapology-103507",
+    "id": "fightpass-247156",
     "promotion": "_OTHER",
     "sports": [
-      "BOXING"
+      "GRAPPLING"
     ],
     "tags": [
-      "#CollazoDiagan"
+      "#ADCC"
     ],
     "mainCard": {
-      "title": "Collazo vs. Diagan",
-      "time": "2023-08-27T01:00:00Z",
+      "title": "ADCC Africa Championship 2023",
+      "time": "2023-08-27T08:00:00Z",
       "broadcasters": {
-        "DAZN": {
+        "UFC_FIGHT_PASS": {
         }
       },
-      "dazn": {
-        "id": "594z5em872jt1jx6r5mm2vlp4",
-        "time": "2023-08-27T01:00:00Z",
-        "title": "Vorkämpfe & Hauptkampf",
-        "sport": "BOXING",
-        "competition": "Collazo vs Diagan"
+      "fightPass": {
+        "id": 247156,
+        "time": "2023-08-27T08:00:00Z",
+        "title": "ADCC AFRICA CHAMPIONSHIP 2023: PRO FINALS"
       }
-    },
-    "tapology": {
-      "id": 103507,
-      "time": "2023-08-27T00:00:00Z",
-      "title": "Collazo vs. Diagan",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/103507-collazo-vs-diagan",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Oscar Collazo (7-0-0) vs. Garen Diagan (10-3-0)"
-      ]
     }
   },
   {
