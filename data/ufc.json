@@ -28,7 +28,7 @@
         "title": "UFC Fight Night: Holloway vs The Korean Zombie (Hauptkämpfe)",
         "sport": "MMA",
         "competition": "UFC",
-        "description": "Kommentator: Andreas Kraniotakes"
+        "description": "Spannendes Duell der Federgewichte in Singapur! Es kommt zum Kampf zwischen Max Holloway und “The Korean Zombie” Chan Sung Jung. Der US-Amerikaner liegt derzeit auf Platz 1 in der UFC-Rangliste im Federgewicht. Wer wird als Gewinner hervorgehen, wenn Holloway im Main Event der UFC Fight Night auf “The Korean Zombie” trifft? // Kommentator: Andreas Kraniotakes"
       }
     },
     "prelims": {
@@ -61,11 +61,11 @@
         "Main Card: Erin Blanchfield (11-1-0) vs. Taila Santos (19-2-0)",
         "Main Card: Junior Tafa (4-1-0) vs. Parker Porter (14-8-0)",
         "Prelim: Waldo Cortes-Acosta (9-1-0) vs. Łukasz Brzeski (8-3-1)",
+        "Prelim: Toshiomi Kazama (10-3-0) vs. Garrett Armfield (8-3-0)",
         "Prelim: Chidi Njokuani (22-9-0) vs. Michał Oleksiejczuk (18-6-0)",
         "Prelim: Kenan Song (19-7-0) vs. Rolando Bedoya (14-2-0)",
-        "Prelim: Na Liang (19-6-0) vs. JJ Aldrich (11-6-0)",
-        "Prelim: Toshiomi Kazama (10-3-0) vs. Garrett Armfield (8-3-0)",
         "Prelim: Yusaku Kinoshita (6-2-0) vs. Billy Goff (8-2-0)",
+        "Prelim: Na Liang (19-6-0) vs. JJ Aldrich (11-6-0)",
         "Prelim: Seung Woo Choi (10-6-0) vs. Jarno Errens (13-4-1)"
       ],
       "links": [
@@ -106,7 +106,8 @@
         "time": "2023-09-02T19:00:00Z",
         "title": "UFC Fight Night: Gane vs Spivac (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Andreas Kraniotakes"
       }
     },
     "prelims": {
@@ -134,15 +135,16 @@
       "card": [
         "Main Event: Ciryl Gane (11-2-0) vs. Serghei Spivac (16-3-0)",
         "Co-Main Event: Manon Fiorot (10-1-0) vs. Rose Namajunas (11-5-0)",
+        "Main Card: William Gomis (12-2-0) vs. Lucas Almeida (14-2-0)",
+        "Main Card: Benoit Saint-Denis (11-1-0) vs. Thiago Moisés (17-6-0)",
+        "Main Card: Yanis Ghemmouri (12-1-0) vs. Caolan Loughran (8-0-0)",
         "Main Card: Volkan Oezdemir (18-7-0) vs. Bogdan Guskov (14-2-0)",
         "Prelim: Nora Cornolle (6-1-0) vs. Joselyne Edwards (13-4-0)",
-        "Prelim: William Gomis (12-2-0) vs. Lucas Almeida (14-2-0)",
         "Prelim: Ange Loosa (9-3-0) vs. Rhys McKee (13-4-1)",
-        "Prelim: Benoit Saint-Denis (11-1-0) vs. Thiago Moisés (17-6-0)",
-        "Prelim: Yanis Ghemmouri (12-1-0) vs. Caolan Loughran (8-0-0)",
         "Prelim: Taylor Lapilus (18-3-0) vs. Muin Gafurov (18-5-0)",
         "Prelim: Morgan Charriere (18-9-1) vs. Manolo Zecchini (11-3-0)",
-        "Prelim: Farid Basharat (10-0-0) vs. Kleydson Rodrigues (8-2-0)"
+        "Prelim: Farid Basharat (10-0-0) vs. Kleydson Rodrigues (8-2-0)",
+        "Prelim: Zarah Fairn (6-5-0) vs. Jacqueline Cavalcanti (5-1-0)"
       ]
     }
   },
@@ -205,14 +207,16 @@
       "card": [
         "Main Event: Israel Adesanya (24-2-0) vs. Sean Strickland (27-5-0)",
         "Co-Main Event: Tai Tuivasa (15-5-0) vs. Alexander Volkov (36-10-0)",
-        "Main Card: Kai Kara-France (24-11-0) vs. Manel Kape (18-6-0)",
         "Main Card: Justin Tafa (6-3-0) vs. Austen Lane (12-3-0)",
         "Main Card: Tyson Pedro (9-4-0) vs. Anton Turkalj (8-2-0)",
+        "Main Card: Manel Kape (18-6-0) vs. Felipe dos Santos (7-0-0)",
         "Prelim: Carlos Ulberg (8-1-0) vs. Da Un Jung (15-4-1)",
         "Prelim: Jack Jenkins (12-2-0) vs. Chepe Mariscal (14-6-0)",
         "Prelim: Blood Diamond (3-2-0) vs. Charlie Radtke (7-3-0)",
         "Prelim: Shane Young (13-7-0) vs. Gabriel Miranda (16-6-0)",
-        "Prelim: Jamie Mullarkey (16-6-0) vs. John Makdessi (18-8-0)"
+        "Prelim: Jamie Mullarkey (16-6-0) vs. John Makdessi (18-8-0)",
+        "Prelim: Nasrat Haqparast (14-5-0) vs. Landon Quiñones (7-1-1)",
+        "Prelim: Kevin Jousset (8-2-0) vs. Kiefer Crosbie (10-3-0)"
       ]
     }
   },
@@ -223,27 +227,38 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2023-09-16T22:00:00Z",
+      "title": "UFC Las Vegas: Grasso vs. Shevchenko 2",
+      "time": "2023-09-17T02:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 247900,
+        "time": "2023-09-17T02:00:00Z",
+        "title": "UFC FIGHT NIGHT: GRASSO vs SCHEVCHENKO 2"
+      },
+      "dazn": {
+        "id": "pgeimyilmz5v1d56yzqmj031b",
+        "time": "2023-09-17T02:00:00Z",
+        "title": "UFC Fight Night: Grasso vs Shevchenko 2 (Hauptkämpfe)",
+        "sport": "MMA",
+        "competition": "UFC"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Las Vegas: Prelims",
+      "time": "2023-09-16T23:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 247899,
+        "time": "2023-09-16T23:00:00Z",
+        "title": "UFC FIGHT NIGHT: GRASSO vs SCHEVCHENKO 2 PRELIMS"
       }
     },
     "tapology": {
@@ -258,8 +273,8 @@
       "card": [
         "Main Event: Alexa Grasso (16-3-0) vs. Valentina Shevchenko (23-4-0)",
         "Main Card: Tracy Cortez (10-1-0) vs. Jasmine Jasudavicius (9-2-0)",
-        "Main Card: Anthony Hernandez (11-2-0) vs. Roman Kopylov (11-2-0)",
         "Main Card: Kevin Holland (25-9-0) vs. Jack Della Maddalena (15-2-0)",
+        "Main Card: Roman Kopylov (11-2-0) vs. Josh Fremd (11-4-0)",
         "Prelim: Lupita Godinez (10-3-0) vs. Sam Hughes (8-5-0)",
         "Prelim: Edgar Cháirez (10-5-0) vs. Daniel Lacerda (11-5-0)",
         "Prelim: Daniel Zellhuber (13-1-0) vs. Christos Giagos (20-10-0)",
@@ -277,27 +292,31 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2023-09-23T22:00:00Z",
+      "title": "UFC Vegas 79: Fiziev vs. Gamrot",
+      "time": "2023-09-23T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 248071,
+        "time": "2023-09-23T23:00:00Z",
+        "title": "UFC FIGHT NIGHT: FIZIEV vs GAMROT"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Vegas 79: Prelims",
+      "time": "2023-09-23T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 248064,
+        "time": "2023-09-23T20:00:00Z",
+        "title": "UFC FIGHT NIGHT: FIZIEV vs GAMROT PRELIMS"
       }
     },
     "tapology": {
@@ -314,14 +333,14 @@
         "Main Card: Bryce Mitchell (15-1-0) vs. Dan Ige (17-6-0)",
         "Main Card: Marina Rodriguez (16-3-2) vs. M. Waterson-Gomez (18-11-0)",
         "Main Card: Tim Means (32-15-1) vs. Andre Fialho (16-7-0)",
-        "Prelim: Bruno Silva (13-5-2) vs. Cody Durden (16-4-1)",
         "Prelim: Mizuki Inoue (14-6-0) vs. Hannah Goldy (6-3-0)",
         "Prelim: Charles Jourdain (14-6-1) vs. Ricardo Ramos (16-4-0)",
         "Prelim: Jake Collier (13-9-0) vs. Mohammed Usman (9-2-0)",
         "Prelim: Montserrat Rendon (5-0-0) vs. Tamires Vidal (7-1-0)",
         "Prelim: Miles Johns (13-2-0) vs. Daniel Argueta (9-1-0)",
         "Prelim: Bryan Battle (9-2-0) vs. AJ Fletcher (10-2-0)",
-        "Prelim: Javid Basharat (14-0-0) vs. Victor Henry (23-6-0)"
+        "Prelim: Javid Basharat (14-0-0) vs. Victor Henry (23-6-0)",
+        "Prelim: Jacob Malkoun (7-2-0) vs. Aliaskhab Khizriev (14-0-0)"
       ]
     }
   },
@@ -367,9 +386,10 @@
       "card": [
         "Main Card: Drew Dober (26-12-0) vs. Ricky Glenn (22-7-2)",
         "Main Card: Chris Gutierrez (19-4-2) vs. Montel Jackson (13-2-0)",
+        "Main Card: Joe Pyfer (11-2-0) vs. Abdul Razak Alhassan (12-5-0)",
         "Prelim: Kanako Murata (12-2-0) vs. Vanessa Demopoulos (9-5-0)",
         "Prelim: Bill Algeo (17-7-0) vs. Alexander Hernandez (14-6-0)",
-        "Prelim: Johnny Munoz Jr. (12-3-0) vs. Aoriqileng (24-10-0)",
+        "Prelim: Johnny Munoz Jr. (12-3-0) vs. Aoriqileng (24-11-0)",
         "Prelim: Nate Maness (14-3-0) vs. Mateus Mendonça (10-1-0)",
         "Prelim: Daniel Pineda (28-15-0) vs. Khusein Askhabov (23-1-0)"
       ]
@@ -418,11 +438,14 @@
         "Main Card: Sodiq Yusuff (13-2-0) vs. Edson Barboza (23-11-0)",
         "Main Card: Jonathan Martinez (18-4-0) vs. Adrian Yanez (16-4-0)",
         "Main Card: Jennifer Maia (21-9-1) vs. Viviane Araujo (11-5-0)",
+        "Main Card: Michel Pereira (28-11-0) vs. Marc-André Barriault (16-6-0)",
+        "Main Card: Christian Rodriguez (9-1-0) vs. Cameron Saaiman (9-0-0)",
         "Prelim: Irina Alekseeva (5-1-0) vs. Melissa Dixon (5-0-0)",
         "Prelim: Ashley Yoder (8-8-0) vs. Emily Ducote (12-8-0)",
         "Prelim: David Dvořák (20-6-0) vs. Tatsuro Taira (14-0-0)",
         "Prelim: Tainara Lisboa (6-2-0) vs. Darya Zheleznyakova (8-1-0)",
-        "Prelim: Rani Yahya (28-11-1) vs. Alatengheili (16-8-2)"
+        "Prelim: Rani Yahya (28-11-1) vs. Alatengheili (16-8-2)",
+        "Prelim: Darren Elkins (27-11-0) vs. TJ Brown (17-10-0)"
       ]
     }
   },
@@ -521,10 +544,14 @@
       ],
       "card": [
         "Main Event: Curtis Blaydes (17-4-0) vs. Jailton Almeida (19-2-0)",
+        "Main Card: Angela Hill (15-13-0) vs. Denise Gomes (8-2-0)",
+        "Main Card: Rodolfo Vieira (9-2-0) vs. Armen Petrosyan (8-2-0)",
+        "Main Card: Gabriel Bonfim (15-0-0) vs. Nicolas Dalby (22-4-1)",
         "Prelim: Caio Borralho (14-1-0) vs. Nursulton Ruziboev (35-8-2)",
         "Prelim: Vitor Petrino (9-0-0) vs. Modestas Bukauskas (15-5-0)",
         "Prelim: Rodrigo Nascimento (10-1-0) vs. Don'Tale Mayes (10-5-0)",
-        "Prelim: Elves Brener (15-3-0) vs. Esteban Ribovics (12-1-0)"
+        "Prelim: Elves Brener (15-3-0) vs. Esteban Ribovics (12-1-0)",
+        "Prelim: Elizeu Zaleski (24-7-0) vs. Rinat Fakhretdinov (22-2-0)"
       ]
     }
   },
@@ -570,6 +597,7 @@
       "card": [
         "Main Event: Jon Jones (27-1-0) vs. Stipe Miocic (20-4-0)",
         "Main Card: Derek Brunson (23-9-0) vs. Roman Dolidze (12-2-0)",
+        "Main Card: Jéssica Andrade (24-12-0) vs. Mackenzie Dern (13-3-0)",
         "Prelim: Joshua Van (8-1-0) vs. Kevin Borjas (9-1-0)"
       ]
     }
@@ -614,10 +642,13 @@
         "MMA"
       ],
       "card": [
+        "Main Card: Amanda Ribas (11-4-0) vs. Luana Pinheiro (11-1-0)",
         "Prelim: Darrius Flowers (12-6-1) vs. Ottman Azaitar (13-2-0)",
         "Prelim: Jordan Leavitt (11-2-0) vs. Chase Hooper (12-3-1)",
         "Prelim: Kyung Ho Kang (19-9-0) vs. John Castañeda (20-6-0)",
-        "Prelim: César Almeida (4-0-0) vs. Christian Leroy Duncan (8-1-0)"
+        "Prelim: César Almeida (4-0-0) vs. Christian Leroy Duncan (8-1-0)",
+        "Prelim: Payton Talbott (6-0-0) vs. Nick Aguirre (7-1-0)",
+        "Prelim: Nikolas Motta (13-5-0) vs. Trey Ogden (16-6-0)"
       ]
     }
   },

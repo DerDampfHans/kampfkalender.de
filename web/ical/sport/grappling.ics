@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230819T220304Z
-X-KAMPFKALENDER-HASH:a875e32beee8aa4e147c42dee284d8ae9483ed06
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:65d4a4364ed1fa91f18e94926e3013b5763ef1ab
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-adcc-north-european-open-2023@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ADCC North European Open 2023
@@ -17,7 +17,19 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
+UID:2023-08-invictus-grappling-tournament@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Invictus Grappling Tournament
+DTSTART:20230826T093000Z
+DTEND:20230826T123000Z
+CATEGORIES:Other,Grappling,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=uuTzFz6TqQQ\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-invictus-grappli
+ ng-tournament-3-626
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-08-adcc-africa-championship-2023@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ADCC Africa Championship 2023
@@ -27,7 +39,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-one-fight-night-14-stamp-vs-hee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 14: Stamp vs. Hee

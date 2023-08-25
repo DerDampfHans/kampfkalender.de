@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230818T130200Z
-X-KAMPFKALENDER-HASH:3763fb70441ef9deeb02a98419aeaf58d79cab00
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:e92f3352e0817a4c1173c2cfaf20a29e6dcdc3a6
 BEGIN:VEVENT
-DTSTAMP:20230818T130201Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-bs-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BS Fight Night
@@ -17,5 +17,17 @@ CATEGORIES:Other,MMA,Kickboxen,Boxen,YouTube,fight24.tv,live
 DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=U_IAg0nJbY8\nvia
   fight24.tv: https://www.fight24.tv/fightpasses/fight24-bs-fightnight-2-
  625
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
+UID:2023-08-invictus-grappling-tournament@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Invictus Grappling Tournament
+DTSTART:20230826T093000Z
+DTEND:20230826T123000Z
+CATEGORIES:Other,Grappling,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=uuTzFz6TqQQ\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-invictus-grappli
+ ng-tournament-3-626
 END:VEVENT
 END:VCALENDAR

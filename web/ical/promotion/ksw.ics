@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230814T110439Z
-X-KAMPFKALENDER-HASH:2481a7a15770fd4eb45340598978890bec6d4b73
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:f1efb44cd415977999dfa557fe18a2f59b028608
 BEGIN:VEVENT
-DTSTAMP:20230814T110440Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-ksw-85-parnasse-vs-rucha-a@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 85: Parnasse vs. Ruchała
@@ -29,7 +29,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  ski (12-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230814T110440Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-ksw-86-wik-acz-vs-przybysz-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 86: Wikłacz vs. Przybysz 4
@@ -43,6 +43,22 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  ik Humburger (7-0-0)\nMain Card: Filip Stawowy (10-3-0) vs. Viktor Pešta
   (18-8-0)\nMain Card: Kacper Koziorzębski (9-5-0) vs. Wiktor Zalewski (5
  -0-0)\nMain Card: Artur Szczepaniak (9-2-0) vs. Igor Michaliszyn (10-2-0
- )
+ )\nMain Card: Damian Piwowarczyk (6-2-0) vs. Łukasz Sudolski (10-2-0)\nP
+ relim: Oskar Szczepaniak (4-1-0) vs. Adrian Gralak (5-1-0)\nPrelim: Mari
+ usz Joniak (11-4-0) vs. Miljan Zdravkovic (6-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
+UID:2023-10-ksw-87-martinek-vs-stosic@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 87: Martínek vs. Stošić
+DTSTART:20231014T170000Z
+DTEND:20231014T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/104170-ksw-87-stosic-vs-martinek\n\n---\n\nMain Event: Michal Mar
+ tínek (10-4-0) vs. Darko Stošić (18-6-0)\nMain Card: Leo Brichta (11-3-0
+ ) vs. Roman Szymański (17-7-0)\nMain Card: Filip Macek (27-18-1) vs. Ole
+ ksii Polischuck (10-4-0)
 END:VEVENT
 END:VCALENDAR

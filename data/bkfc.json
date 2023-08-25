@@ -43,6 +43,9 @@
         "Main Card: Sean Hotusing vs. Dimitri Angelini",
         "Main Card: Harry Cruz vs. Leandro Torres",
         "Main Card: Dameko Labon vs. Justin Watson"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-prospect-series-1:2c0ef60d-5597-4b0a-a52a-8ae74ca72d36"
       ]
     }
   },
@@ -60,13 +63,16 @@
       "title": "BKFC 49: Slaveski vs. Lindsey",
       "time": "2023-08-26T00:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=1zLHP5wuA-8"
+        },
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-49/2pdi9/"
         }
       },
       "fite": {
         "id": "2pdi9",
-        "time": "2023-08-26T00:00:00Z",
+        "time": "2023-08-26T01:00:00Z",
         "title": "BKFC 49 Miami: Gorjan Slaveski vs Jake Lindsey",
         "url": "https://www.fite.tv/watch/bkfc-49/2pdi9/",
         "price": "FITE+",
@@ -74,14 +80,43 @@
           "BOXING",
           "MMA"
         ]
+      },
+      "youTube": {
+        "id": "1zLHP5wuA-8",
+        "time": "2023-08-26T00:00:00Z",
+        "title": "BKFC 49: Full PPV Event | Live!",
+        "url": "https://www.youtube.com/watch?v=1zLHP5wuA-8"
       }
     },
     "prelims": {
       "title": "BKFC 49: Prelims",
+      "time": "2023-08-25T23:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=7E01gBMN7vc",
+          "free": true
+        },
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-49-prelims/2pdky/",
           "free": true
         }
+      },
+      "fite": {
+        "id": "2pdky",
+        "time": "2023-08-26T00:00:00Z",
+        "title": "BKFC 49 Miami: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-49-prelims/2pdky/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      },
+      "youTube": {
+        "id": "7E01gBMN7vc",
+        "time": "2023-08-25T23:00:00Z",
+        "title": "BKFC 49 MIAMI Free Prelims | Live!",
+        "url": "https://www.youtube.com/watch?v=7E01gBMN7vc"
       }
     },
     "tapology": {
@@ -97,6 +132,9 @@
         "Main Card: Bryan Duran vs. Dakota Highpine",
         "Main Card: John Michael Escoboza vs. Esteban Rodriguez",
         "Main Card: Howard Davis vs. Jeff Chiffens"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-49:2958c1cd-f4fe-4df0-b222-c13be80caa88"
       ]
     }
   },
@@ -114,7 +152,19 @@
       "time": "2023-09-23T00:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-50/2pdk8/"
         }
+      },
+      "fite": {
+        "id": "2pdk8",
+        "time": "2023-09-23T00:00:00Z",
+        "title": "BKFC 50 Denver: Lorenzo Hunt vs Chris Camozzi",
+        "url": "https://www.fite.tv/watch/bkfc-50/2pdk8/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
@@ -202,6 +252,42 @@
       "title": "BKFC 52",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/103960-bkfc-52"
+    }
+  },
+  {
+    "id": "tapology-104213",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "BKFC: Thailand 5",
+      "time": "2023-11-04T11:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 104213,
+      "time": "2023-11-04T11:00:00Z",
+      "title": "BKFC: Thailand 5",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/104213-bkfc-thailand-5",
+      "card": [
+        "Main Event: Buakaw Banchamek vs. Saenchai Saenpong",
+        "Co-Main Event: Chisakan Ariphipat vs. Britain Hart",
+        "Main Card: Thomas Newton vs. Kristof Kirsch",
+        "Main Card: Krisana Sirsang vs. Sarun Srioumboo",
+        "Main Card: Tofan Pirani vs. Daniel Dörrer",
+        "Main Card: Gustaf Cedermalm vs. Joemil Miado",
+        "Main Card: Chaloemporn Sawatsuk vs. Kievan Solemani",
+        "Main Card: Pouriya Rokhneh vs. Yohann Marin",
+        "Prelim: Pongpisan Chunyong vs. Tha Pyay Nyo",
+        "Prelim: Mikhail Vertrila vs. Allen Wycoco",
+        "Prelim: Maseng Kantiphong vs. Tumba"
+      ]
     }
   },
   {

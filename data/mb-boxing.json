@@ -24,7 +24,9 @@
       ],
       "card": [
         "Main Event: Angel Fierro (21-1-2) vs. Brayan Zamarripa (13-1-0)",
-        "Main Card: Erika Cruz (15-2-0) vs. Melissa Oddessa Parker (6-1-0)"
+        "Main Card: Erika Cruz (15-2-0) vs. Melissa Oddessa Parker (6-1-0)",
+        "Main Card: Sabrina Perez (18-1-1) vs. Skye Nicolson (7-0-0)",
+        "Main Card: Christian Olivo (20-1-1) vs. Kevin Barron Crespo (12-0-0)"
       ]
     }
   },
@@ -36,10 +38,17 @@
     ],
     "mainCard": {
       "title": "Hitchins vs. Zepeda",
-      "time": "2023-09-24T00:00:00Z",
+      "time": "2023-09-24T01:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "1g0u6be1f98wu1lp4guny85dch",
+        "time": "2023-09-24T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Hitchins vs Zepeda"
       }
     },
     "tapology": {
@@ -54,7 +63,40 @@
       "card": [
         "Main Event: Richardson Hitchins (16-0-0) vs. Jose Zepeda (37-3-0)",
         "Main Card: Jessica McCaskill (12-3-0) vs. Sandy Ryan (6-1-0)",
-        "Main Card: Austin Williams (14-0-0) vs. Steve Rolls (22-2-0)"
+        "Main Card: Austin Williams (14-0-0) vs. Steve Rolls (22-2-0)",
+        "Main Card: Orestes Velazquez (7-0-0) vs. Mohamed Soumaoro (13-1-0)",
+        "Main Card: Khalil Coe (6-0-1) vs. Kenmon Evans (10-1-1)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-104317",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Opetaia vs. Thompson",
+      "time": "2023-09-30T19:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 104317,
+      "time": "2023-09-30T19:00:00Z",
+      "title": "Opetaia vs. Thompson",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/104317-opetaia-vs-thompson",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Jai Opetaia (22-0-0) vs. Jordan Thompson (15-0-0)",
+        "Co-Main Event: Ellie Scotney (7-0-0) vs. Laura Soledad Griffa (20-8-0)",
+        "Main Card: Cheavon Clarke (6-0-0) vs. Vasil Ducár (14-6-2)",
+        "Main Card: Rhiannon Dixon (8-0-0) vs. Katharina Thanderz (16-1-0)"
       ]
     }
   },
@@ -115,7 +157,11 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Jack Catterall (27-1-0) vs. Jorge Linares (47-8-0)"
+        "Main Event: Jack Catterall (27-1-0) vs. Jorge Linares (47-8-0)",
+        "Main Card: Peter McGrail (7-0-0) vs. Fran Mendoza (17-0-0)",
+        "Main Card: Aqib Fiaz (12-0-0) vs. Reece Bellotti (16-5-0)",
+        "Main Card: Shabaz Masoud (11-0-0) vs. Jose Sanmartin (34-7-1)",
+        "Main Card: Paddy Lacey (8-0-0) vs. Owen Kirk (3-1-2)"
       ]
     }
   },

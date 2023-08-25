@@ -6,12 +6,18 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "Golden Boy Fight Night",
+      "title": "Curiel vs. Pennington",
       "time": "2023-09-08T01:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "vnpqgshzpf3d1lcyrbmxl29iv",
+        "time": "2023-09-08T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Curiel vs Pennington"
       }
     },
     "tapology": {
@@ -24,7 +30,9 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Raul Curiel (12-0-0) vs. Courtney Pennington (17-6-3)"
+        "Main Event: Raul Curiel (12-0-0) vs. Courtney Pennington (17-6-3)",
+        "Main Card: Grant Flores (2-0-0) vs. Jaleik Bogle (4-1-2)",
+        "Main Card: Danny Luna (1-0-0) vs. Alexander Gutierrez (0-2-0)"
       ]
     }
   },
@@ -55,8 +63,37 @@
       "card": [
         "Main Event: William Zepeda (27-0-0) vs. Mercito Gesta (34-3-3)",
         "Co-Main Event: Victor Morales Jr (18-0-1) vs. Edwin Palomares (19-4-2)",
-        "Main Card: Darius Fulghum (3-0-0) vs. Ricardo Adrian Luna (24-10-2)",
+        "Main Card: Darius Fulghum (3-0-0) vs. Ricardo Luna (24-10-2)",
         "Main Card: Eric Priest (10-0-0) vs. Simon Madsen (11-1-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-104239",
+    "promotion": "GBP_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Zurdo vs. Smith",
+      "time": "2023-10-08T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 104239,
+      "time": "2023-10-08T01:00:00Z",
+      "title": "Zurdo vs. Smith",
+      "titleAlt": "Ramirez vs. Smith",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/104239-zurdo-vs-smith",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Gilberto Ramirez (44-1-0) vs. Joe Smith Jr. (28-4-0)"
       ]
     }
   },

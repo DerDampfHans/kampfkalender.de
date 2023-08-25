@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230819T220304Z
-X-KAMPFKALENDER-HASH:3eed3e4e5f253de237da1735ec04fe8cb83ee841
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:93159f1f9aabef94c029d8851e8bcb6df5883864
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-scoby-vs-carmona@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Scoby vs. Carmona
@@ -24,7 +24,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   D'Angelo Hopgood (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-adcc-north-european-open-2023@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ADCC North European Open 2023
@@ -34,7 +34,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-rajadamnern-world-series-final-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series: Final 4
@@ -45,7 +45,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/103918-rajadamnern-world-series-final-4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-bs-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BS Fight Night
@@ -57,12 +57,12 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=U_IAg0nJbY8\nvia
  625
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-simpson-vs-hernandez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Simpson vs. Hernandez
-DTSTART:20230826T000000Z
-DTEND:20230826T030000Z
+DTSTART:20230826T003000Z
+DTEND:20230826T033000Z
 CATEGORIES:Other,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/103930-simpson-vs-hernandez\nhttp://www.boxrec.com/en/event/873659\n\n
@@ -70,10 +70,23 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0)\nMain Card: Andreas Katzourakis (10-0-0) vs. Raphael Igbokwe (15-4-0
  )\nMain Card: Abel Gonzalez (5-0-0) vs. Robert Magee (8-0-2)\nMain Card:
   Luis Acosta (12-1-0) vs. Christian Barreto (9-0-0)\nMain Card: Donte La
- yne (0-0-0) vs. Nathan Mitchell (0-0-1)
+ yne (0-0-0) vs. Nathan Mitchell (0-0-1)\nMain Card: Czarina McCoy (11-1-
+ 0) vs. Carisse Brown (7-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
+UID:2023-08-invictus-grappling-tournament@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Invictus Grappling Tournament
+DTSTART:20230826T093000Z
+DTEND:20230826T123000Z
+CATEGORIES:Other,Grappling,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=uuTzFz6TqQQ\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-invictus-grappli
+ ng-tournament-3-626
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-08-rajadamnern-world-series-final-4-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series: Final 4
@@ -83,7 +96,7 @@ CATEGORIES:Other,Muay Thai,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-collazo-vs-diagan@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Collazo vs. Diagan
@@ -95,10 +108,12 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s. Garen Diagan (10-3-0)\nMain Card: Angel Acosta (23-4-0) vs. Carlos Bu
  itrago (37-9-1)\nMain Card: Juan Carlos Camacho (15-1-0) vs. Luis Orozco
   (17-3-2)\nMain Card: Yan Santana (8-0-0) vs. Jostin Ortiz-Maysonet (4-0
- -0)
+ -0)\nMain Card: Kiria Tapia (2-0-0) vs. Simone da Silva (17-27-0)\nMain 
+ Card: Yair Gallardo (4-0-0) vs. Kevin Johnson (3-1-0)\nMain Card: Yariel
+  Santiago (7-0-0) vs. Jose Del Valle-Rivera (4-11-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-walsh-vs-velasco@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Velasco
@@ -113,11 +128,23 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  iguez (24-4-2)\nMain Card: Umar Dzambekov (6-0-0) vs. David Zegarra (34-
  10-0)\nMain Card: Aidyn Yelzhanov (6-1-1) vs. Andy Beltran (5-0-0)\nMain
   Card: Eduardo Diaz (5-3-0) vs. Jose Gomez Jr (4-2-1)\nMain Card: Gloria
-  Munguilla (4-0-0) vs. Shawna Ormsby (0-1-1)\nMain Card: David Benitez (
- 2-0-1) vs. Josias Gonzalez (1-1-0)
+  Munguilla (4-0-0) vs. Shawna Ormsby (0-1-1)\nMain Card: Daniel Barrera 
+ (3-0-1) vs. Gilberto Mendoza (16-14-4)\nMain Card: Enkhmandakh Kharkhuu 
+ (0-0-0) vs. Conner Goade (0-0-0)\nMain Card: Abel Mejia (0-0-0) vs. Maxi
+ miliano Gutierrez (1-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
+UID:2023-08-naciones-mma@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Naciones MMA
+DTSTART:20230827T020000Z
+DTEND:20230827T050000Z
+CATEGORIES:Other,MMA,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-08-adcc-africa-championship-2023@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ADCC Africa Championship 2023
@@ -127,7 +154,7 @@ CATEGORIES:Other,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-road-to-ufc-singapore-episode-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Road to UFC: Singapore Episode 1
@@ -135,14 +162,17 @@ DTSTART:20230827T080000Z
 DTEND:20230827T110000Z
 CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/103957-road-to-ufc-singapore-episode-1\n\n---\n\nMain Card: 
- Kaiwen Li (11-5-0) vs. Kouya Kanda (12-4-0)\nMain Card: Seung Guk Choi (
- 7-2-0) vs. Jiniushiyue (12-2-0)\nMain Card: Zha Yi (23-4-0) vs. Sang Won
-  Kim (10-5-1)\nMain Card: Rei Tsuruya (7-0-0) vs. Mark Climaco (9-1-0)\n
- Main Card: Peter Danesoe (6-2-0) vs. N. Tumendemberel (7-0-0)
+ nter/events/103957-road-to-ufc-singapore-episode-1\nhttp://www.sherdog.c
+ om/events/ufc-road-to-ufc-season-2-singapore-semifinals-1-98225\nhttps:/
+ /events.mixedmartialarts.com/road-to-ufc:a1511000-bf69-42f5-a087-4e9ac06
+ 5f496\n\n---\n\nMain Card: Kaiwen Li (11-5-0) vs. Kouya Kanda (12-4-0)\n
+ Main Card: Seung Guk Choi (7-2-0) vs. Jiniushiyue (12-2-0)\nMain Card: Z
+ ha Yi (23-4-0) vs. Sang Won Kim (10-5-1)\nMain Card: Rei Tsuruya (7-0-0)
+  vs. Mark Climaco (9-1-0)\nMain Card: Peter Danesoe (6-2-0) vs. N. Tumen
+ demberel (7-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-road-to-ufc-singapore-episode-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Road to UFC: Singapore Episode 2
@@ -150,20 +180,31 @@ DTSTART:20230827T100000Z
 DTEND:20230827T130000Z
 CATEGORIES:Other,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/103958-road-to-ufc-singapore-episode-2\n\n---\n\nMain Card: 
- Bahatebole Batebolati (8-1-1) vs. Shin Haraguchi (6-0-0)\nMain Card: Dae
- rmisi Zhawupasi (7-0-0) vs. Chang Ho Lee (8-1-0)\nMain Card: Zhu Rong (2
- 3-5-0) vs. Sang Uk Kim (9-2-0)\nMain Card: Long Xiao (25-7-0) vs. Shuya 
- Kamikubo (13-1-1)\nMain Card: Jae Hyun Park (6-1-0) vs. Quillan Salkilld
-  (4-1-0)
+ nter/events/103958-road-to-ufc-singapore-episode-2\nhttp://www.sherdog.c
+ om/events/ufc-road-to-ufc-season-2-singapore-semifinals-2-98226\n\n---\n
+ \nMain Card: Bahatebole Batebolati (8-1-1) vs. Shin Haraguchi (6-0-0)\nM
+ ain Card: Daermisi Zhawupasi (7-0-0) vs. Chang Ho Lee (8-1-0)\nMain Card
+ : Zhu Rong (23-5-0) vs. Sang Uk Kim (9-2-0)\nMain Card: Long Xiao (25-7-
+ 0) vs. Shuya Kamikubo (13-1-1)\nMain Card: Jae Hyun Park (6-1-0) vs. Qui
+ llan Salkilld (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-rajadamnern-world-series-final-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series: Final 4
 DTSTART:20230902T121500Z
 DTEND:20230902T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
+UID:2023-09-legends-of-rajadamnern-buakaw-vs-kido@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Legends of Rajadamnern: Buakaw vs Kido
+DTSTART:20230909T112500Z
+DTEND:20230909T142500Z
 CATEGORIES:Other,Muay Thai,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230819T220304Z
-X-KAMPFKALENDER-HASH:de986b21f85e38fe28b6961a839dd9ec7a5ece15
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:9155875c75867c8570aca9267fbfe78ba9e83af4
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-bkfc-prospect-series-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Prospect Series 1
@@ -16,29 +16,50 @@ DTEND:20230825T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-prospects-1-miami
  /2pdi8/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/103369-bkf
- c-prospect-series-1\n\n---\n\nMain Card: Rosalinda Rodriguez vs. Maia Ka
- haunaele\nMain Card: Wayna Reid vs. Chris Cornelius\nMain Card: Leonardo
-  Perdomo vs. Ryan Shough\nMain Card: Markus Suarez vs. Drew Nolan\nMain 
- Card: Sean Hotusing vs. Dimitri Angelini\nMain Card: Harry Cruz vs. Lean
- dro Torres\nMain Card: Dameko Labon vs. Justin Watson
+ c-prospect-series-1\nhttps://events.mixedmartialarts.com/bkfc-prospect-s
+ eries-1:2c0ef60d-5597-4b0a-a52a-8ae74ca72d36\n\n---\n\nMain Card: Rosali
+ nda Rodriguez vs. Maia Kahaunaele\nMain Card: Wayna Reid vs. Chris Corne
+ lius\nMain Card: Leonardo Perdomo vs. Ryan Shough\nMain Card: Markus Sua
+ rez vs. Drew Nolan\nMain Card: Sean Hotusing vs. Dimitri Angelini\nMain 
+ Card: Harry Cruz vs. Leandro Torres\nMain Card: Dameko Labon vs. Justin 
+ Watson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
+UID:2023-08-bkfc-49-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 49: Prelims
+DTSTART:20230825T230000Z
+DTEND:20230826T000000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=7E01gBMN7vc\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-49-prelims/2pdky/\n\n---\n\nhtt
+ ps://www.tapology.com/fightcenter/events/102528-bkfc-49\nhttps://events.
+ mixedmartialarts.com/bkfc-49:2958c1cd-f4fe-4df0-b222-c13be80caa88\n\n---
+ \n\nMain Event: Gorjan Slaveski vs. Jake Lindsey\nCo-Main Event: Bryce H
+ enry vs. Tom Shoaff\nMain Card: Frank Alvarez vs. Jarod Grant\nMain Card
+ : Bryan Duran vs. Dakota Highpine\nMain Card: John Michael Escoboza vs. 
+ Esteban Rodriguez\nMain Card: Howard Davis vs. Jeff Chiffens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-08-bkfc-49-slaveski-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 49: Slaveski vs. Lindsey
 DTSTART:20230826T000000Z
 DTEND:20230826T030000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-49/2pdi9/\n\n---\
- n\nhttps://www.tapology.com/fightcenter/events/102528-bkfc-49\n\n---\n\n
- Main Event: Gorjan Slaveski vs. Jake Lindsey\nCo-Main Event: Bryce Henry
-  vs. Tom Shoaff\nMain Card: Frank Alvarez vs. Jarod Grant\nMain Card: Br
- yan Duran vs. Dakota Highpine\nMain Card: John Michael Escoboza vs. Este
- ban Rodriguez\nMain Card: Howard Davis vs. Jeff Chiffens
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=1zLHP5wuA-8\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-49/2pdi9/\n\n---\n\nhttps://www
+ .tapology.com/fightcenter/events/102528-bkfc-49\nhttps://events.mixedmar
+ tialarts.com/bkfc-49:2958c1cd-f4fe-4df0-b222-c13be80caa88\n\n---\n\nMain
+  Event: Gorjan Slaveski vs. Jake Lindsey\nCo-Main Event: Bryce Henry vs.
+  Tom Shoaff\nMain Card: Frank Alvarez vs. Jarod Grant\nMain Card: Bryan 
+ Duran vs. Dakota Highpine\nMain Card: John Michael Escoboza vs. Esteban 
+ Rodriguez\nMain Card: Howard Davis vs. Jeff Chiffens
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-bkb-34@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 34
@@ -56,20 +77,21 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  att
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-bkfc-50-hunt-vs-camozzi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 50: Hunt vs. Camozzi
 DTSTART:20230923T000000Z
 DTEND:20230923T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/103810-bkfc-50-hunt-vs-camozzi\n\n---\n\nMain Event: Lorenzo Hunt v
- s. Chris Camozzi\nMain Card: Keegan Vandermeer vs. Dillion Winemiller\nM
- ain Card: Andrew Yates vs. Christian Torres
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-50/2pdk8/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/103810-bkfc-50-hunt-vs-ca
+ mozzi\n\n---\n\nMain Event: Lorenzo Hunt vs. Chris Camozzi\nMain Card: K
+ eegan Vandermeer vs. Dillion Winemiller\nMain Card: Andrew Yates vs. Chr
+ istian Torres
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-bkfc-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 51
@@ -80,7 +102,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/103959-bkfc-51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-10-bkfc-52@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 52
@@ -91,7 +113,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/103960-bkfc-52
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-11-bkfc-bulgaria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Bulgaria

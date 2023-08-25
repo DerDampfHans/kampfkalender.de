@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230818T130200Z
-X-KAMPFKALENDER-HASH:26cf9df274e23036c843f8b47a9d3c4dec14c069
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:3c1fb67ce8db005254bb783f0eea6d567d3c2df7
 BEGIN:VEVENT
-DTSTAMP:20230818T130201Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-pfl-2023-playoffs-schwergewicht-frauen-federgewicht@kampfkale
  nder.de
 ORGANIZER:mailto:info@kampfkalender.de
@@ -30,7 +30,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  on Buckley (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130201Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-pfl-2023-playoffs-weltergewicht-leichtgewicht@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -51,7 +51,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  el Grimard (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130201Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-pfl-europe-2023-week-9@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Week 9
@@ -61,7 +61,7 @@ CATEGORIES:PFL,MMA,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130201Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-pfl-europe-2023-playoffs@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Playoffs
@@ -83,7 +83,24 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130201Z
+DTSTAMP:20230825T175737Z
+UID:2023-11-pfl-10-2023-championships@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PFL 10: 2023 Championships
+DTSTART:20231124T230000Z
+DTEND:20231125T020000Z
+CATEGORIES:PFL,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/104297-pfl-10-2023-championships\n\n---\n\nMain Card: Impa Kasanganay 
+ (14-3-0) vs. Josh Silveira (12-1-0)\nMain Card: Jesus Pinedo (22-6-1) vs
+ . Gabriel Alves Braga (12-0-0)\nMain Card: Magomed Magomedkerimov (33-6-
+ 0) vs. Sadibou Sy (16-6-2)\nMain Card: Clay Collard (24-10-0) vs. Olivie
+ r Aubin-Mercier (20-5-0)\nMain Card: Renan Ferreira (11-3-0) vs. Denis G
+ oltsov (32-7-0)\nMain Card: Larissa Pacheco (22-4-0) vs. Marina Mokhnatk
+ ina (11-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-12-pfl-europe-2023-championships@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:PFL Europe 2023: Championships

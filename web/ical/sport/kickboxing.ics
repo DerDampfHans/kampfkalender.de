@@ -4,33 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230818T130422Z
-X-KAMPFKALENDER-HASH:4b8524d93b9b887d495afe5104a2ec99b82ffb0d
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:2eed8377ecd4e2a0dd7737cc924b044dcb99242f
 BEGIN:VEVENT
-DTSTAMP:20230818T130423Z
-UID:2023-08-one-friday-fights-29@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:One Friday Fights 29
-DTSTART:20230818T123000Z
-DTEND:20230818T153000Z
-CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=5GhHPH3h09k\n\n-
- --\n\nhttps://www.tapology.com/fightcenter/events/103794-one-friday-figh
- ts-29\nhttp://www.sherdog.com/events/one-championship-one-friday-fights-
- 29-98851\nhttps://events.mixedmartialarts.com/one-friday-fights-29:4afbe
- 8d8-a32d-4d07-a579-5413fb98e7ae\n\n---\n\nMain Event: Saeksan Or Kwanmua
- ng vs. Isaac Araya\nCo-Main Event: D. Jitmuangnon vs. Paidang Kiatsongri
- t\nMain Card: KomAwut FAGroup vs. P. Lukjaomaesaiwaree\nMain Card: P. So
- r Jor Wichitpadriew vs. P. Por Petchkaikaew\nMain Card: Surachai Sor Som
- mai vs. S. Choktaweeoy\nMain Card: Petchrapa Sor.Sopit vs. Fes Erawan\nM
- ain Card: Pongsiri PK. Saenchai vs. Fariyar Aminipour\nMain Card: Elbrus
-  Osmanov vs. Wail Karroumi\nMain Card: Rambong Sor Terapat vs. Noelisson
-  Silva\nMain Card: Celest Hansen vs. Yau Pui Yu\nMain Card: Agilan Thani
-  (11-7-0) vs. Magomedmurad Khasaev (6-0-0)\nMain Card: Chayan Oorzhak (5
- -2-0) vs. Andrey Chelbaev (4-1-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230818T130423Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-bs-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BS Fight Night
@@ -42,7 +19,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=U_IAg0nJbY8\nvia
  625
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130423Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-glory-87@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 87
@@ -59,7 +36,18 @@ DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=nYoxrwuM6U4\
  Maksymilian Bratkowicz\nPrelim: Nicola Filipovic vs. Cristian Ristea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130423Z
+DTSTAMP:20230825T175737Z
+UID:2023-09-one-friday-fights-31@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 31
+DTSTART:20230901T123000Z
+DTEND:20230901T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/104339-one-friday-fights-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-09-glory-88@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GLORY 88
@@ -76,7 +64,7 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  n Card: Diaguely Camara vs. Ilyass Chakir
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130423Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -87,7 +75,18 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/98887-oktagon
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130423Z
+DTSTAMP:20230825T175737Z
+UID:2023-09-one-friday-fights-33@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 33
+DTSTART:20230915T123000Z
+DTEND:20230915T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/104341-one-friday-fights-33
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-11-oktagon@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON
@@ -101,7 +100,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  )\nMain Card: Jakub Bahník (9-4-0) vs. Akonne Wanliss (7-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T130423Z
+DTSTAMP:20230825T175737Z
 UID:2023-11-oktagon-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 49
@@ -110,6 +109,7 @@ DTEND:20231118T200000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/102329-oktagon-49\n\n---\n\nMain Card: Hatef Moeil (14-4-0) vs. 
- Lazar Todev (9-5-0)
+ Lazar Todev (9-5-0)\nMain Card: Daniel Škvor (6-3-0) vs. Marc Doussis (9
+ -2-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230819T220304Z
-X-KAMPFKALENDER-HASH:b8dee1293024fbbde9ba1dfbb4edbe103524464a
+DTSTAMP:20230825T175737Z
+X-KAMPFKALENDER-HASH:8c3efedfd20ff92be7b6c3141f0c04e96898372e
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-aka-30-darence-brooks-vs-juan-lee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 30: Darence Brooks vs Juan Lee
@@ -26,7 +26,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-30/2pdey/\n\n---\n
  n Card: Amanda Uzzle vs. Angel Alcozer
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-bkfc-prospect-series-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Prospect Series 1
@@ -35,52 +35,73 @@ DTEND:20230825T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-prospects-1-miami
  /2pdi8/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/103369-bkf
- c-prospect-series-1\n\n---\n\nMain Card: Rosalinda Rodriguez vs. Maia Ka
- haunaele\nMain Card: Wayna Reid vs. Chris Cornelius\nMain Card: Leonardo
-  Perdomo vs. Ryan Shough\nMain Card: Markus Suarez vs. Drew Nolan\nMain 
- Card: Sean Hotusing vs. Dimitri Angelini\nMain Card: Harry Cruz vs. Lean
- dro Torres\nMain Card: Dameko Labon vs. Justin Watson
+ c-prospect-series-1\nhttps://events.mixedmartialarts.com/bkfc-prospect-s
+ eries-1:2c0ef60d-5597-4b0a-a52a-8ae74ca72d36\n\n---\n\nMain Card: Rosali
+ nda Rodriguez vs. Maia Kahaunaele\nMain Card: Wayna Reid vs. Chris Corne
+ lius\nMain Card: Leonardo Perdomo vs. Ryan Shough\nMain Card: Markus Sua
+ rez vs. Drew Nolan\nMain Card: Sean Hotusing vs. Dimitri Angelini\nMain 
+ Card: Harry Cruz vs. Leandro Torres\nMain Card: Dameko Labon vs. Justin 
+ Watson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
+UID:2023-08-bkfc-49-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 49: Prelims
+DTSTART:20230825T230000Z
+DTEND:20230826T000000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=7E01gBMN7vc\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-49-prelims/2pdky/\n\n---\n\nhtt
+ ps://www.tapology.com/fightcenter/events/102528-bkfc-49\nhttps://events.
+ mixedmartialarts.com/bkfc-49:2958c1cd-f4fe-4df0-b222-c13be80caa88\n\n---
+ \n\nMain Event: Gorjan Slaveski vs. Jake Lindsey\nCo-Main Event: Bryce H
+ enry vs. Tom Shoaff\nMain Card: Frank Alvarez vs. Jarod Grant\nMain Card
+ : Bryan Duran vs. Dakota Highpine\nMain Card: John Michael Escoboza vs. 
+ Esteban Rodriguez\nMain Card: Howard Davis vs. Jeff Chiffens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T175737Z
 UID:2023-08-bkfc-49-slaveski-vs-lindsey@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 49: Slaveski vs. Lindsey
 DTSTART:20230826T000000Z
 DTEND:20230826T030000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-49/2pdi9/\n\n---\
- n\nhttps://www.tapology.com/fightcenter/events/102528-bkfc-49\n\n---\n\n
- Main Event: Gorjan Slaveski vs. Jake Lindsey\nCo-Main Event: Bryce Henry
-  vs. Tom Shoaff\nMain Card: Frank Alvarez vs. Jarod Grant\nMain Card: Br
- yan Duran vs. Dakota Highpine\nMain Card: John Michael Escoboza vs. Este
- ban Rodriguez\nMain Card: Howard Davis vs. Jeff Chiffens
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=1zLHP5wuA-8\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-49/2pdi9/\n\n---\n\nhttps://www
+ .tapology.com/fightcenter/events/102528-bkfc-49\nhttps://events.mixedmar
+ tialarts.com/bkfc-49:2958c1cd-f4fe-4df0-b222-c13be80caa88\n\n---\n\nMain
+  Event: Gorjan Slaveski vs. Jake Lindsey\nCo-Main Event: Bryce Henry vs.
+  Tom Shoaff\nMain Card: Frank Alvarez vs. Jarod Grant\nMain Card: Bryan 
+ Duran vs. Dakota Highpine\nMain Card: John Michael Escoboza vs. Esteban 
+ Rodriguez\nMain Card: Howard Davis vs. Jeff Chiffens
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-aka-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 31
-DTSTART:20230827T010000Z
-DTEND:20230827T040000Z
+DTSTART:20230827T000000Z
+DTEND:20230827T030000Z
 CATEGORIES:AKA,MMA,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/101935-aka-31\n\n---\n\nMain Event: Joseph Holmes (8-4-0) vs. Danie
- l De La Cruz (3-0-0)\nCo-Main Event: Christopher Anthony (11-13-0) vs. K
- alvin Hackney (17-6-0)\nMain Card: Gabe Clark (0-0-0) vs. Abe Sellers (5
- -5-0)\nMain Card: Fabian Reyna (2-1-0) vs. Peyton Bass (1-0-0)\nMain Car
- d: Nicholas Moses (0-0-0) vs. Michael Sullivan (4-2-0)\nMain Card: Rodri
- go Miranda (0-2-0) vs. Abdullah Al-Azzawi (0-0-0)\nMain Card: John Busti
- llos (0-0-0) vs. Jordan Mays (2-4-0)\nMain Card: Tevinn Cantly (1-0-0) v
- s. Jeremy Allen (0-1-0)\nMain Card: Adam Guillory (0-0-0) vs. Landon Roy
- er (0-0-0)\nMain Card: Jonathan Sandoval (2-1-0) vs. Thomas Daigrepont (
- 2-0-0)\nMain Card: Neb Ermias (0-0-0) vs. Shon Brown (2-2-0)\nMain Card:
-  Chance Brossette (3-0-0) vs. Bradley Landry (0-1-0)\nMain Card: Titus Y
- oung (1-1-0) vs. Larry Caldwell (0-2-0)\nMain Card: Ta'Mere Sampy (0-0-0
- ) vs. Brandon Delrie (0-2-0)
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-31/2pdk6/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/101935-aka-31\n\n---\n\nMa
+ in Event: Joseph Holmes (8-4-0) vs. Daniel De La Cruz (3-0-0)\nCo-Main E
+ vent: Christopher Anthony (11-13-0) vs. Kalvin Hackney (17-6-0)\nMain Ca
+ rd: Gabe Clark (0-0-0) vs. Abe Sellers (5-5-0)\nMain Card: Fabian Reyna 
+ (2-1-0) vs. Peyton Bass (1-0-0)\nMain Card: Nicholas Moses (0-0-0) vs. M
+ ichael Sullivan (4-2-0)\nMain Card: Rodrigo Miranda (0-2-0) vs. Abdullah
+  Al-Azzawi (0-0-0)\nMain Card: John Bustillos (0-0-0) vs. Jordan Mays (2
+ -4-0)\nMain Card: Tevinn Cantly (1-0-0) vs. Jeremy Allen (0-1-0)\nMain C
+ ard: Adam Guillory (0-0-0) vs. Landon Royer (0-0-0)\nMain Card: Jonathan
+  Sandoval (2-1-0) vs. Thomas Daigrepont (2-0-0)\nMain Card: Neb Ermias (
+ 0-0-0) vs. Shon Brown (2-2-0)\nMain Card: Chance Brossette (3-0-0) vs. B
+ radley Landry (0-1-0)\nMain Card: Titus Young (1-1-0) vs. Larry Caldwell
+  (0-2-0)\nMain Card: Ta'Mere Sampy (0-0-0) vs. Brandon Delrie (0-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-08-fusion-fight-league-lights-out-at-the-dome-6@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
@@ -90,18 +111,20 @@ DTEND:20230827T043000Z
 CATEGORIES:FFL,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-lights-out-at-the-
  dome-6/2pdh5/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/1036
- 87-fusion-fight-league-lights-out-at-the-dome-6\nhttps://events.mixedmar
- tialarts.com/fusion-fight-league:2c98ae86-ac88-482f-b998-5c3d52eff82b\n\
- n---\n\nMain Event: Delane Lamere (9-5-0) vs. Gage Saunders (11-5-0)\nMa
- in Card: Amari Sengsavanh (3-0-0) vs. Chase Eastham (2-5-0)\nMain Card: 
- Ryder Small (1-1-0) vs. Daeri Alderman (3-0-0)\nMain Card: Kai Duque (0-
- 1-0) vs. Lance Regimbal (1-0-0)\nMain Card: Kordell Small (0-1-0) vs. Ti
- mothy Curry (1-1-0)\nMain Card: Damien Nesbitt (3-1-0) vs. Jared Clark (
- 1-0-0)\nMain Card: Hudson Kettenring (3-1-0) vs. Jaythan Oats (0-1-0)\nM
- ain Card: Cameron Mason (1-0-0) vs. Dakota Padgett (0-1-0)
+ 87-fusion-fight-league-lights-out-at-the-dome-6\nhttp://www.sherdog.com/
+ events/fusion-fight-league-lights-out-at-the-dome-6-96794\nhttps://event
+ s.mixedmartialarts.com/fusion-fight-league:2c98ae86-ac88-482f-b998-5c3d5
+ 2eff82b\n\n---\n\nMain Event: Delane Lamere (9-5-0) vs. Gage Saunders (1
+ 1-5-0)\nMain Card: Amari Sengsavanh (3-0-0) vs. Chase Eastham (2-5-0)\nM
+ ain Card: Ryder Small (1-1-0) vs. Daeri Alderman (3-0-0)\nMain Card: Kai
+  Duque (0-1-0) vs. Lance Regimbal (1-0-0)\nMain Card: Kordell Small (0-1
+ -0) vs. Timothy Curry (1-1-0)\nMain Card: Damien Nesbitt (3-1-0) vs. Jar
+ ed Clark (1-0-0)\nMain Card: Hudson Kettenring (3-1-0) vs. Jaythan Oats 
+ (0-1-0)\nMain Card: Cameron Mason (1-0-0) vs. Dakota Padgett (0-1-0)\nMa
+ in Card: Mason Barta (0-0-0) vs. Kellen Norman (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-bkb-34@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 34
@@ -119,20 +142,21 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  att
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-bkfc-50-hunt-vs-camozzi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 50: Hunt vs. Camozzi
 DTSTART:20230923T000000Z
 DTEND:20230923T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/103810-bkfc-50-hunt-vs-camozzi\n\n---\n\nMain Event: Lorenzo Hunt v
- s. Chris Camozzi\nMain Card: Keegan Vandermeer vs. Dillion Winemiller\nM
- ain Card: Andrew Yates vs. Christian Torres
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-50/2pdk8/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/103810-bkfc-50-hunt-vs-ca
+ mozzi\n\n---\n\nMain Event: Lorenzo Hunt vs. Chris Camozzi\nMain Card: K
+ eegan Vandermeer vs. Dillion Winemiller\nMain Card: Andrew Yates vs. Chr
+ istian Torres
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-09-bkfc-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 51
@@ -143,7 +167,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/103959-bkfc-51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-10-bkfc-52@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 52
@@ -154,7 +178,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/103960-bkfc-52
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T220305Z
+DTSTAMP:20230825T175737Z
 UID:2023-11-bkfc-bulgaria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Bulgaria
