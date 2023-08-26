@@ -2539,5 +2539,103 @@
         }
       }
     }
+  },
+  {
+    "id": "tapology-103930",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "tags": [
+      "#SimpsonHernandez"
+    ],
+    "mainCard": {
+      "title": "Simpson vs. Hernandez",
+      "time": "2023-08-26T00:30:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "scvsu71ctq8z169hhlmad7ydr",
+        "time": "2023-08-26T00:30:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Simpson vs Hernandez"
+      }
+    },
+    "tapology": {
+      "id": 103930,
+      "time": "2023-08-25T23:00:00Z",
+      "title": "Simpson vs. Hernandez",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/103930-simpson-vs-hernandez",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Lorenzo Simpson (13-0-0) vs. Vladimir Hernandez (13-5-0)",
+        "Main Card: Andreas Katzourakis (10-0-0) vs. Raphael Igbokwe (15-4-0)",
+        "Main Card: Abel Gonzalez (5-0-0) vs. Robert Magee (8-0-2)",
+        "Main Card: Luis Acosta (12-1-0) vs. Christian Barreto (9-0-0)",
+        "Main Card: Donte Layne (0-0-0) vs. Nathan Mitchell (0-0-1)",
+        "Main Card: Czarina McCoy (11-1-0) vs. Carisse Brown (7-6-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/873659"
+      ]
+    }
+  },
+  {
+    "id": "invictus-2023-08-26",
+    "promotion": "_OTHER",
+    "sports": [
+      "GRAPPLING"
+    ],
+    "mainCard": {
+      "title": "Invictus Grappling Tournament",
+      "time": "2023-08-26T09:30:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=uuTzFz6TqQQ"
+        },
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-invictus-grappling-tournament-3-626"
+        }
+      },
+      "youTube": {
+        "id": "uuTzFz6TqQQ",
+        "time": "2023-08-26T09:30:00Z",
+        "title": "Invictus Grappling Tournament 3: Livestream",
+        "url": "https://www.youtube.com/watch?v=uuTzFz6TqQQ",
+        "tags": [
+          "#fight24",
+          "#fighting",
+          "#ko"
+        ]
+      }
+    }
+  },
+  {
+    "id": "rajadamnern-2023-08-26",
+    "promotion": "_OTHER",
+    "sports": [
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "Rajadamnern World Series: Final 4",
+      "time": "2023-08-26T12:15:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1ucoe9iv9jeby1utjvktv9brfp",
+        "time": "2023-08-26T12:15:00Z",
+        "title": "Final 4",
+        "sport": "MMA",
+        "competition": "Rajadamnern World Series Muay Thai"
+      }
+    }
   }
 ]
