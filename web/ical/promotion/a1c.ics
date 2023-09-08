@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230818T130200Z
-X-KAMPFKALENDER-HASH:d5b50949f6995bd3155f4cc9df272a32ae8d0a1e
+DTSTAMP:20230908T085902Z
+X-KAMPFKALENDER-HASH:8ba9b6fab579ee0ac4cf6c09dd1be38d3a784552
 BEGIN:VEVENT
-DTSTAMP:20230818T130201Z
+DTSTAMP:20230908T085903Z
 UID:2023-09-urijah-faber-s-a1-combat-14@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Urijah Faber's A1 Combat 14
@@ -25,5 +25,28 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ck Becker (2-2-1) vs. Kristien Ruffin (1-2-0)\nPrelim: Tsvetomir Todorov
   (1-0-0) vs. Kallum Parker (2-1-0)\nPrelim: Kohl Laren (0-1-0) vs. Chris
   Cross (0-1-0)\nPrelim: Ilias Faquiri (0-0-0) vs. Aaron Thomson (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230908T085903Z
+UID:2023-11-urijah-faber-a1-combat-15-night-of-champions@kampfkalender.de
+ 
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber A1 Combat 15: Night of Champions
+DTSTART:20231119T020000Z
+DTEND:20231119T050000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/104923-urijah-faber-s-a1-combat-15-night-of-champions
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230908T085903Z
+UID:2023-12-urijah-faber-a1-combat-16@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber A1 Combat 16
+DTSTART:20231224T020000Z
+DTEND:20231224T050000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/104924-urijah-faber-s-a1-combat-16
 END:VEVENT
 END:VCALENDAR

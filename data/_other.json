@@ -15,9 +15,82 @@
       "dazn": {
         "id": "1q8487r3ogna813vjim071oe9z",
         "time": "2023-09-09T11:25:00Z",
-        "title": "Legends of Rajadamnern: Buakaw vs Kido",
+        "title": "Legends of Rajadamnern: Buakaw vs Kido / Rodriguez vs Yodwicha III",
         "sport": "MMA",
         "competition": "Rajadamnern World Series Muay Thai"
+      }
+    }
+  },
+  {
+    "id": "tapology-104802",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Samreen vs Paez Gonzales",
+      "time": "2023-09-09T16:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "18bqwbgbq1mg41eb1mzrzmroov",
+        "time": "2023-09-09T16:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Samreen vs Paez Gonzales"
+      }
+    },
+    "tapology": {
+      "id": 104802,
+      "time": "2023-09-09T14:30:00Z",
+      "title": "Rising Stars Arabia",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/104802-rising-stars-arabia",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Bader Samreen (8-0-0) vs. Jose Paez Gonzales (16-2-2)",
+        "Main Card: Sultan Al Nuaimi (9-0-0) vs. Jemsi Kibazange (14-4-3)",
+        "Main Card: Mohammed Bekdash (25-0-0) vs. Musa Ntege (8-3-0)",
+        "Main Card: Bishara Sabbar (6-0-0) vs. Mohd Azahar (8-5-1)",
+        "Main Card: Rohit Choudhary (4-0-2) vs. Benyamin Moradzadeh (0-0-0)",
+        "Main Card: Marwan Mohamad Madboly (2-0-0) vs. Sheldon Schultz (4-4-0)",
+        "Main Card: Yousef Ali (2-0-0) vs. Semugenyi Alex (0-1-0)",
+        "Main Card: Youssef Karrar (1-0-0) vs. Muhammad Muzeei (0-0-0)",
+        "Main Card: Fahad Alkhoori (1-0-0) vs. Ibrahim Junior Lubege (0-1-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/878428"
+      ]
+    }
+  },
+  {
+    "id": "senshi-2023-09-16",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Senshi 18",
+      "time": "2023-09-16T16:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/senshi-18/2pdmm/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pdmm",
+        "time": "2023-09-16T16:00:00Z",
+        "title": "Senshi 18",
+        "url": "https://www.fite.tv/watch/senshi-18/2pdmm/",
+        "price": "FREE",
+        "sports": [
+          "MMA"
+        ]
       }
     }
   }

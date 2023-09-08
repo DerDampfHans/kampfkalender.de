@@ -4,6 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230819T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20230908T085902Z
+X-KAMPFKALENDER-HASH:6129f19c82b364f3daf646340607d8e24037e58d
+BEGIN:VEVENT
+DTSTAMP:20230908T085903Z
+UID:2023-10-lux-fight-league-36@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Lux Fight League 36
+DTSTART:20231007T000000Z
+DTEND:20231007T030000Z
+CATEGORIES:LUX,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/104467-lux-fight-league-36\n\n---\n\nMain Event: Alan Domíng
+ uez (8-6-0) vs. Antonio Suárez (13-8-0)\nCo-Main Event: Elizabeth Rodríg
+ uez (2-2-0) vs. Fernanda Muñoz (7-2-0)
+END:VEVENT
 END:VCALENDAR

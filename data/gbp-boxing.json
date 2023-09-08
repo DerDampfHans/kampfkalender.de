@@ -24,15 +24,22 @@
       "id": 103489,
       "time": "2023-09-08T01:00:00Z",
       "title": "Golden Boy Fight Night",
-      "info": "Confirmed Upcoming Boxing Event",
+      "info": "Completed Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/103489-golden-boy-fight-night",
       "sports": [
         "BOXING"
       ],
       "card": [
         "Main Event: Raul Curiel (12-0-0) vs. Courtney Pennington (17-6-3)",
-        "Main Card: Grant Flores (2-0-0) vs. Jaleik Bogle (4-1-2)",
-        "Main Card: Danny Luna (1-0-0) vs. Alexander Gutierrez (0-2-0)"
+        "Co-Main Event: Manuel Flores vs. Jerson Ortiz",
+        "Main Card: Grant Flores vs. Jaleik Bogle",
+        "Main Card: Danny Luna vs. Alexander Gutierrez",
+        "Main Card: Leonardo Sanchez (5-0-0) vs. John Mark Alimane (8-4-0)",
+        "Main Card: Jorge Chavez vs. Marvin Solano",
+        "Main Card: Anthony Saldivar (4-0-0) vs. Miguel Flores (1-3-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/877236"
       ]
     }
   },
@@ -43,12 +50,18 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Zepeda vs. Gesta",
-      "time": "2023-09-17T01:00:00Z",
+      "time": "2023-09-17T00:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "f2sourd7ccdt1sbsys57kzm9v",
+        "time": "2023-09-17T00:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Zepeda vs Gesta"
       }
     },
     "tapology": {
@@ -64,7 +77,10 @@
         "Main Event: William Zepeda (27-0-0) vs. Mercito Gesta (34-3-3)",
         "Co-Main Event: Victor Morales Jr (18-0-1) vs. Edwin Palomares (19-4-2)",
         "Main Card: Darius Fulghum (3-0-0) vs. Ricardo Luna (24-10-2)",
-        "Main Card: Eric Priest (10-0-0) vs. Simon Madsen (11-1-0)"
+        "Main Card: Eric Priest (10-0-0) vs. Simon Madsen (11-1-0)",
+        "Main Card: Daniel Garcia (6-0-0) vs. Erick Garcia (4-4-0)",
+        "Main Card: Alejandro Reyes (10-0-0) vs. Roberto Gomez (5-1-0)",
+        "Main Card: Yokasta Valle (28-2-0) vs. Maria Santizo (11-3-0)"
       ]
     }
   },
@@ -116,13 +132,14 @@
       "id": 104152,
       "time": "2023-10-22T02:00:00Z",
       "title": "Rocha vs. Santillan",
-      "info": "Rumored Upcoming Boxing Event",
+      "info": "Confirmed Upcoming Boxing Event",
       "url": "https://www.tapology.com/fightcenter/events/104152-rocha-vs-santillan",
       "sports": [
         "BOXING"
       ],
       "card": [
-        "Main Event: Alexis Rocha (23-1-0) vs. Giovani Santillan (31-0-0)"
+        "Main Event: Alexis Rocha (23-1-0) vs. Giovani Santillan (31-0-0)",
+        "Main Card: Arely Mucino (32-3-2) vs. Gabriela Fundora (11-0-0)"
       ]
     }
   }

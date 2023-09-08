@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230903T220306Z
-X-KAMPFKALENDER-HASH:680eb7c847cfc86c9a42653023e04e1ccb2387a7
+DTSTAMP:20230908T085902Z
+X-KAMPFKALENDER-HASH:069c5ae66a3dd04550cae8ec607a79891529380e
 BEGIN:VEVENT
-DTSTAMP:20230903T220307Z
+DTSTAMP:20230908T085903Z
 UID:2023-09-one-fight-night-14-stamp-vs-hee@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 14: Stamp vs. Hee
@@ -20,5 +20,23 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   vs. Jackie Buntan\nMain Card: Danielle Kelly vs. Jessa Khan\nMain Card:
   Jingnan Xiong vs. Nat Jaroonsak\nMain Card: Asa Ten Pow vs. Rambolek To
  r Yotha\nMain Card: Stephen Loman (17-2-0) vs. John Lineker (36-10-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230908T085903Z
+UID:2023-09-one-fight-night-14-stamp-vs-hee-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 14: Stamp vs. Hee
+DTSTART:20230930T000000Z
+DTEND:20230930T030000Z
+CATEGORIES:ONE,MMA,Muay Thai,Grappling,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/102490-one-fight-night-14-stamp-vs-hee\n\n---\n\nMain Event: Stamp 
+ Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)\nCo-Main Event: Smilla Sundell
+  vs. A. Rodrigues\nMain Card: Danielle Kelly vs. Jessa Khan\nMain Card: 
+ Jingnan Xiong vs. Nat Jaroonsak\nMain Card: Asa Ten Pow vs. Rambolek Tor
+  Yotha\nMain Card: Stephen Loman (17-2-0) vs. John Lineker (36-10-0)\nMa
+ in Card: Dmitry Menshikov vs. Sinsamut Klinmee\nMain Card: Eduard Folaya
+ ng (22-13-0) vs. Amir Khan (14-9-0)\nMain Card: Mauro Cerilli (14-5-0) v
+ s. Paul Elliott (3-1-0)
 END:VEVENT
 END:VCALENDAR

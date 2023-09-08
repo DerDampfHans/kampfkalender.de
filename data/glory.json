@@ -8,23 +8,29 @@
     "tags": [
       "#GLORY88"
     ],
+    "links": [
+      "https://fighting.de/events/glory-88/"
+    ],
     "mainCard": {
       "title": "GLORY 88",
-      "time": "2023-09-09T04:00:00Z",
+      "time": "2023-09-09T18:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=N3U--cl4ZLU"
         },
         "GLORY_TV": {
         }
-      }
-    },
-    "prelims": {
-      "title": "GLORY 88: Prelims",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        },
-        "GLORY_TV": {
-        }
+      },
+      "youTube": {
+        "id": "N3U--cl4ZLU",
+        "time": "2023-09-09T18:00:00Z",
+        "title": "LIVE: Glory 88 | Hari vs McSweeney | Wosik vs Peposhi FIGHTING",
+        "url": "https://www.youtube.com/watch?v=N3U--cl4ZLU",
+        "tags": [
+          "#Kampfsport",
+          "#Fighting",
+          "#MMA"
+        ]
       }
     },
     "tapology": {
@@ -46,6 +52,89 @@
         "Main Card: Jonathan Mayezo vs. James Condé",
         "Main Card: Iliass Hammouche vs. Florian Kröger",
         "Main Card: Diaguely Camara vs. Ilyass Chakir"
+      ]
+    }
+  },
+  {
+    "id": "tapology-104484",
+    "promotion": "GLORY",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "Glory 89",
+      "time": "2023-10-07T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "GLORY_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Glory 89: Prelims",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "GLORY_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 104484,
+      "time": "2023-10-07T18:00:00Z",
+      "title": "Glory 89",
+      "info": "Confirmed Upcoming Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/104484-glory-89",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Event: Donovan Wisse vs. Michael Boapeah",
+        "Main Card: Stoyan Koprivlenski vs. Sorin Mihai Căliniuc",
+        "Main Card: Levi Rigters vs. Martin Terpstra",
+        "Main Card: Eduard Gafencu vs. Teodor Hristov"
+      ]
+    }
+  },
+  {
+    "id": "tapology-104485",
+    "promotion": "GLORY",
+    "sports": [
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "Glory: Collision 6",
+      "time": "2023-11-04T19:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "GLORY_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "Glory: Collision 6: Prelims",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        },
+        "GLORY_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 104485,
+      "time": "2023-11-04T19:00:00Z",
+      "title": "Glory: Collision 6",
+      "info": "Confirmed Upcoming Kickboxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/104485-glory-collision-6",
+      "sports": [
+        "KICKBOXING"
+      ],
+      "card": [
+        "Main Card: Rico Verhoeven vs. Kevin Tariq Osaro",
+        "Main Card: Donegi Abena vs. Tarik Khbabez",
+        "Main Card: Abraham Vidales vs. Ahmad Chikh Mousa"
       ]
     }
   }

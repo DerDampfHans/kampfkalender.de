@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230903T220306Z
-X-KAMPFKALENDER-HASH:e937795c8b73b590f95902580a5e3b91c896fb91
+DTSTAMP:20230908T085902Z
+X-KAMPFKALENDER-HASH:ee8e157ea18de11d16651d7e6639fcb3a89ff212
 BEGIN:VEVENT
-DTSTAMP:20230903T220306Z
+DTSTAMP:20230908T085903Z
 UID:2023-09-rajadamnern-world-series-final-4@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series: Final 4
@@ -17,7 +17,7 @@ CATEGORIES:Other,Muay Thai,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230903T220306Z
+DTSTAMP:20230908T085903Z
 UID:2023-09-legends-of-rajadamnern-buakaw-vs-kido@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Legends of Rajadamnern: Buakaw vs Kido
@@ -25,5 +25,35 @@ DTSTART:20230909T112500Z
 DTEND:20230909T142500Z
 CATEGORIES:Other,Muay Thai,DAZN,live
 DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230908T085903Z
+UID:2023-09-samreen-vs-paez-gonzales@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Samreen vs Paez Gonzales
+DTSTART:20230909T160000Z
+DTEND:20230909T190000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/104802-rising-stars-arabia\nhttp://www.boxrec.com/en/event/878428\n\n-
+ --\n\nMain Event: Bader Samreen (8-0-0) vs. Jose Paez Gonzales (16-2-2)\
+ nMain Card: Sultan Al Nuaimi (9-0-0) vs. Jemsi Kibazange (14-4-3)\nMain 
+ Card: Mohammed Bekdash (25-0-0) vs. Musa Ntege (8-3-0)\nMain Card: Bisha
+ ra Sabbar (6-0-0) vs. Mohd Azahar (8-5-1)\nMain Card: Rohit Choudhary (4
+ -0-2) vs. Benyamin Moradzadeh (0-0-0)\nMain Card: Marwan Mohamad Madboly
+  (2-0-0) vs. Sheldon Schultz (4-4-0)\nMain Card: Yousef Ali (2-0-0) vs. 
+ Semugenyi Alex (0-1-0)\nMain Card: Youssef Karrar (1-0-0) vs. Muhammad M
+ uzeei (0-0-0)\nMain Card: Fahad Alkhoori (1-0-0) vs. Ibrahim Junior Lube
+ ge (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230908T085903Z
+UID:2023-09-senshi-18@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Senshi 18
+DTSTART:20230916T160000Z
+DTEND:20230916T190000Z
+CATEGORIES:Other,MMA,fite.tv,live,kostenlos
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-18/2pdmm/
 END:VEVENT
 END:VCALENDAR

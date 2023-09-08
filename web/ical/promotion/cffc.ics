@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230825T175737Z
-X-KAMPFKALENDER-HASH:9ee40d505bb8eb42772a8ece91fbbce503a5c2c7
+DTSTAMP:20230908T085902Z
+X-KAMPFKALENDER-HASH:f9eb49770723f7b539766ae10835a76c76f468a8
 BEGIN:VEVENT
-DTSTAMP:20230825T175737Z
+DTSTAMP:20230908T085903Z
 UID:2023-09-cffc-123-perez-vs-vasil@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 123: Perez vs. Vasil
@@ -27,7 +27,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ) vs. Tony Lichtenberger (3-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230825T175737Z
+DTSTAMP:20230908T085903Z
 UID:2023-09-cffc-124-ellis-vs-daukaus@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 124: Ellis vs. Daukaus
@@ -43,5 +43,27 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  o Hatley Jr. (10-7-0) vs. Anthony Dilemme (3-0-0)\nPrelim: Frank Wells (
  3-3-0) vs. Unterio Gladney (2-2-0)\nPrelim: Sarah Faust (5-1-0) vs. Laur
  a Turzenski (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230908T085903Z
+UID:2023-09-cffc-125-nakanelua-vs-echeverria@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 125: Nakanelua vs. Echeverria
+DTSTART:20230915T230000Z
+DTEND:20230916T020000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/104349-cffc-125\nhttp://www.sherdog.com/events/cffc-125-cage
+ -fury-fighting-championships-125-nakanelua-vs-echeverria-99052\nhttps://
+ events.mixedmartialarts.com/cffc-125:cf38df51-6372-4c8a-bdbc-f866741ce4c
+ 4\n\n---\n\nMain Event: Roybert Echeverria (7-1-0) vs. Pololu Nakanelua 
+ (6-1-0)\nCo-Main Event: Nick Meck (6-0-0) vs. J.P. Saint Louis (9-5-0)\n
+ Main Card: Elizabeth Schroder (3-3-0) vs. Alexa Conners (7-4-0)\nMain Ca
+ rd: Caleb Jensen (1-1-0) vs. Kevin Pease (2-0-0)\nMain Card: Sharif Orip
+ ov (0-0-0) vs. Kris Williams (2-0-0)\nMain Card: Micaela Rampage (1-1-0)
+  vs. Emily Martins (0-0-0)\nPrelim: Trent Miller (2-0-0) vs. Chato Wiest
+  (1-2-0)\nPrelim: David Johannes (0-1-0) vs. Frank Rayford (1-1-0)\nPrel
+ im: Isaiah Spitzer (0-3-0) vs. Jack Carpenter (1-0-0)\nPrelim: Taylor Mi
+ chels (0-1-0) vs. Jordan Mosley (0-0-0)
 END:VEVENT
 END:VCALENDAR

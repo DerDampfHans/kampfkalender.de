@@ -10,15 +10,20 @@
     ],
     "mainCard": {
       "title": "Unified MMA 52",
-      "time": "2023-09-09T02:00:00Z",
+      "time": "2023-09-09T03:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 248441,
+        "time": "2023-09-09T03:00:00Z",
+        "title": "UNIFED MMA 52"
       }
     },
     "tapology": {
       "id": 104091,
-      "time": "2023-09-09T02:00:00Z",
+      "time": "2023-09-09T03:00:00Z",
       "title": "Unified MMA 52",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/104091-unified-mma-52",
@@ -26,10 +31,44 @@
         "MMA"
       ],
       "card": [
-        "Main Card: Maged Hammo (13-6-1) vs. John Nguyen (5-3-0)",
+        "Main Event: Maged Hammo (13-6-1) vs. John Nguyen (5-3-0)",
         "Main Card: Ramil Kamilov (6-0-0) vs. Roberto Pixley (6-4-0)",
-        "Main Card: Tim Smith (18-12-0) vs. Tom O’Connor (11-2-0)"
+        "Main Card: Tim Smith (18-12-0) vs. Tom O’Connor (11-2-0)",
+        "Main Card: Diego Santos (4-1-0) vs. Nick Leblanc (3-0-0)",
+        "Main Card: Mac Laursen (4-1-0) vs. Chris Chapman (5-3-0)",
+        "Prelim: Leo Bonin (4-3-0) vs. Alex Markett (3-0-0)",
+        "Prelim: Grady Behrens (4-0-0) vs. James Thiessen (2-1-0)",
+        "Prelim: Justin Fernandez (4-0-0) vs. Gabriel Durocher (2-0-0)",
+        "Prelim: Regan Running Rabbit (3-1-0) vs. Phil Lauzon (3-3-0)",
+        "Prelim: Saeed Abi-Issa (1-0-0) vs. Robert Desharnais (0-1-0)",
+        "Prelim: Imadudeen Atmeh (1-0-0) vs. Rey Lee (0-2-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/unified-mma-52-unified-mma-98514",
+        "https://www.bestfightodds.com/events/unified-mma-3033"
       ]
+    }
+  },
+  {
+    "id": "tapology-104368",
+    "promotion": "UNIFIED",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Unified MMA 53",
+      "time": "2023-10-29T02:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 104368,
+      "time": "2023-10-29T02:00:00Z",
+      "title": "Unified MMA 53",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/104368-unified-mma-53"
     }
   }
 ]
