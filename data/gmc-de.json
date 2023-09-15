@@ -1,5 +1,42 @@
 [
   {
+    "id": "GMC-2023-09-15",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA",
+      "KICKBOXING",
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "GMC OlympiX 137",
+      "time": "2023-09-16T17:00:00Z",
+      "broadcasters": {
+        "GMC_TV": {
+          "url": "https://german-mma.de/stream/TEp4-hfYG9DQ6PnLbly_wQ"
+        }
+      }
+    },
+    "prelims": {
+      "title": "GMC OlympiX 137: Prelims",
+      "time": "2023-09-16T15:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=7NbFfbIYKoA",
+          "free": true
+        },
+        "GMC_TV": {
+          "url": "https://german-mma.de/stream/TEp4-hfYG9DQ6PnLbly_wQ"
+        }
+      },
+      "youTube": {
+        "id": "7NbFfbIYKoA",
+        "time": "2023-09-16T15:00:00Z",
+        "title": "GMC OlympiX 137 | K1 / MMA / BOXEN | Free PRELIMS | LIVE 🔴",
+        "url": "https://www.youtube.com/watch?v=7NbFfbIYKoA"
+      }
+    }
+  },
+  {
     "id": "tapology-104907",
     "promotion": "GMC_DE",
     "sports": [
@@ -10,6 +47,7 @@
       "time": "2023-10-14T16:00:00Z",
       "broadcasters": {
         "GMC_TV": {
+          "url": "https://german-mma.de/stream/TEp4-hfYG9DQ6PnLbly_wQ"
         }
       }
     },
@@ -25,7 +63,10 @@
       "card": [
         "Main Event: Dimitar Kostov (14-9-0) vs. Konstantinos Leonidou (3-4-0)",
         "Main Card: Ahmad Abbas (0-1-0) vs. Trio Pham Minh (0-3-0)",
-        "Main Card: Naghibulla Ebrahimi (0-1-0) vs. Denis Basnakaev (4-3-0)"
+        "Main Card: Viskhan Kurkaev (1-0-0) vs. Ahmad Tahah Sadiqpour (3-0-0)",
+        "Main Card: Firat Sabaz (0-1-0) vs. Leon Jansen (2-2-0)",
+        "Main Card: Naghibulla Ebrahimi (0-1-0) vs. Denis Basnakaev (4-3-0)",
+        "Main Card: Diar Mohammed (1-0-0) vs. Florent Iseni (0-0-0)"
       ]
     }
   },

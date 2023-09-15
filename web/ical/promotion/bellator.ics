@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230908T085902Z
-X-KAMPFKALENDER-HASH:d5280628a90cc722c3cdb35210dc794217751a60
+DTSTAMP:20230915T134712Z
+X-KAMPFKALENDER-HASH:a80350754d0062f496eddfd6953372b6c0e2015b
 BEGIN:VEVENT
-DTSTAMP:20230908T085903Z
+DTSTAMP:20230915T134712Z
 UID:2023-09-bellator-299-eblen-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 299: Eblen vs. Edwards
@@ -30,14 +30,14 @@ DESCRIPTION:via Pluto TV\n\n---\n\nhttps://www.tapology.com/fightcenter/e
   Ward (10-6-0) vs. Gregory Babene (22-11-0)\nPrelim: Ciaran Clarke (7-0-
  0) vs. Przemysław Górny (5-3-0)\nPrelim: Darragh Kelly (4-0-0) vs. Jelle
   Zeegers (2-2-0)\nPrelim: Mansour Barnaoui (20-5-0) vs. Jay Jay Wilson (
- 9-1-0)\nPrelim: Luca Poclit (9-1-0) vs. Roman Faraldo (8-1-0)\nPrelim: K
- hasan Magomedsharipov (8-0-0) vs. Martin McDonough (12-7-0)\nPrelim: Dav
- y Gallon (21-8-2) vs. Attila Korkmaz (13-7-0)\nPrelim: Asaël Adjoudj (6-
- 1-0) vs. I. Hassan (4-1-0)\nPrelim: Sergey Bilostenniy (10-3-0) vs. Kasi
- m Aras (7-2-0)
+ 9-1-0)\nPrelim: Luca Poclit (9-1-0) vs. Roman Faraldo (8-1-0)\nPrelim: D
+ avy Gallon (21-8-2) vs. Attila Korkmaz (13-7-0)\nPrelim: Asaël Adjoudj (
+ 6-1-0) vs. I. Hassan (4-1-0)\nPrelim: Sergey Bilostenniy (10-3-0) vs. Ka
+ sim Aras (7-2-0)\nPrelim: Khasan Magomedsharipov (8-0-0) vs. Piotr Niedz
+ ielski (17-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230908T085903Z
+DTSTAMP:20230915T134712Z
 UID:2023-10-bellator-300@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Bellator 300
@@ -54,5 +54,25 @@ DESCRIPTION:via Pluto TV\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  avion Franklin (6-1-0) vs. Slim Trabelsi (5-0-0)\nPrelim: Henry Corrales
   (21-6-0) vs. Kai Kamaka III (11-5-1)\nPrelim: Bobby Seronio III (3-0-0)
   vs. Alberto Garcia (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-11-bellator-301-amosov-vs-jackson@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Bellator 301: Amosov vs. Jackson
+DTSTART:20231117T220000Z
+DTEND:20231118T010000Z
+CATEGORIES:Bellator,MMA,Pluto TV,live,kostenlos
+DESCRIPTION:via Pluto TV\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/105124-bellator-301-amosov-vs-jackson\n\n---\n\nMain Event: Yarosl
+ av Amosov (27-0-0) vs. Jason Jackson (16-4-0)\nCo-Main Event: Sergio Pet
+ tis (23-5-0) vs. Patchy Mix (18-1-0)\nMain Card: Patricky Pitbull (25-11
+ -0) vs. Alexander Shabliy (23-3-0)\nMain Card: Raufeon Stots (19-2-0) vs
+ . Danny Sabatello (14-3-0)\nPrelim: Daniel James (15-7-1) vs. Ali Isaev 
+ (9-0-1)\nPrelim: Tyrell Fortune (13-3-0) vs. Marcelo Golm (10-4-0)\nPrel
+ im: Timur Khizriev (13-0-0) vs. Justin Gonzales (14-2-0)\nPrelim: Mike H
+ amel (11-5-0) vs. Tim Wilde (16-4-1)\nPrelim: Denise Kielholtz (7-5-0) v
+ s. Sumiko Inaba (6-0-0)\nPrelim: Islam Mamedov (22-3-1) vs. Killys Mota 
+ (15-3-0)
 END:VEVENT
 END:VCALENDAR

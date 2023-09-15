@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230909T220305Z
-X-KAMPFKALENDER-HASH:8a188109121b4f4907360c07b5f4ba1b047f6f66
+DTSTAMP:20230915T134712Z
+X-KAMPFKALENDER-HASH:819a7620a811a6cee76d8254c06a4b54b75142e7
 BEGIN:VEVENT
-DTSTAMP:20230909T220305Z
+DTSTAMP:20230915T134712Z
 UID:2023-09-legends-of-rajadamnern-buakaw-vs-kido@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Legends of Rajadamnern: Buakaw vs Kido
@@ -17,7 +17,7 @@ CATEGORIES:Other,Muay Thai,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230909T220305Z
+DTSTAMP:20230915T134712Z
 UID:2023-09-samreen-vs-paez-gonzales@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Samreen vs Paez Gonzales
@@ -37,7 +37,30 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  ge (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230909T220305Z
+DTSTAMP:20230915T134712Z
+UID:2023-09-rajadamnern-world-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series
+DTSTART:20230916T121500Z
+DTEND:20230916T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/105095-rajadamnern-world-series-parunchai-vs-noi
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-09-ifp-vip-fight-night@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:IFP VIP Fight Night
+DTSTART:20230916T143000Z
+DTEND:20230916T173000Z
+CATEGORIES:Other,Boxen,YouTube,fight24.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=XjrosObPml0\nvia
+  fight24.tv: https://www.fight24.tv/fightpasses/fight24-ifp-vip-fight-ni
+ ght-632
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
 UID:2023-09-senshi-18@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 18
@@ -45,5 +68,97 @@ DTSTART:20230916T160000Z
 DTEND:20230916T190000Z
 CATEGORIES:Other,MMA,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-18/2pdmm/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-09-afl-31@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:AFL 31
+DTSTART:20230916T190000Z
+DTEND:20230916T220000Z
+CATEGORIES:Other,MMA,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/102575-afl-31\nhttp://www.sherdog.com/events/afl-31-ansgar-fighting-le
+ ague-99044\n\n---\n\nMain Card: Moha Jaghdal (7-7-0) vs. Misha Goriashvi
+ li (3-3-0)\nMain Card: Maxsuel Silva (2-0-0) vs. Max Siewruk (1-1-0)\nMa
+ in Card: Maycon James (6-4-0) vs. Juan Martin (3-3-0)\nMain Card: D. G. 
+ Levante (0-2-0) vs. Marc Sabaté (0-0-0)\nMain Card: Alex Quilez (8-10-0)
+  vs. Pedro Eugenio Granjo (1-3-0)\nMain Card: Jose Aguilar (1-5-0) vs. A
+ ratz Garmendia (11-18-0)\nMain Card: Ayman Zekhnini (3-1-1) vs. Joan Fue
+ ntes (8-4-1)\nMain Card: Joan Garcia (0-1-0) vs. Daniel Riera (0-1-0)\nM
+ ain Card: Marc Coronado (0-1-0) vs. Luka Barbakadze (0-0-0)\nMain Card: 
+ Mohamed Eloomrani (3-4-0) vs. Mohamed Toure (13-5-1)\nMain Card: Marc Ca
+ brera (3-0-0) vs. Eric Garcia (2-4-0)\nMain Card: Anibal Ortiz (1-0-0) v
+ s. Aitor Gaspar (0-0-0)\nMain Card: Aissam Boutkhamouyme (0-1-0) vs. Noe
+  Paz (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-09-nava-vs-ramirez-almanza@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Nava vs. Ramirez Almanza
+DTSTART:20230916T230000Z
+DTEND:20230917T020000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/104765-boxfest-5\n\n---\n\nMain Event: Carlos Nava (10-0-0) vs. Armand
+ o Ramirez (8-2-1)\nMain Card: Zamig Atakishiyev (8-2-1) vs. Jorge Sevill
+ a Acosta (3-3-1)\nMain Card: PG Tondo (1-5-1) vs. Eder Clervoix (1-3-0)\
+ nMain Card: Mathusan Mahindas (0-0-0) vs. Eduardo Cortes Molina (1-1-0)\
+ nMain Card: Nawid Zaman (1-0-0) vs. Marlon Perez (0-0-0)\nMain Card: The
+ o Owusu (1-0-0) vs. Pablo Lara Sanchez (2-6-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-09-ibarra-vs-amaro@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ibarra vs. Amaro
+DTSTART:20230922T010000Z
+DTEND:20230922T040000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/105097-naciones-boxing-series-1\nhttp://www.boxrec.com/en/event/880152
+ \n\n---\n\nMain Event: Neider Valdez (10-0-1) vs. Juan Diego Tadeo (13-4
+ -0)\nMain Card: Esteban Ibarra (6-0-0) vs. Jose Angel Amaro (5-1-1)\nMai
+ n Card: Miguel Jiménez (3-0-1) vs. Antonio Perez (3-2-1)\nMain Card: Jai
+ me Barajas (1-0-1) vs. Guillermo Del Rio (3-4-1)\nMain Card: Juan Amaro 
+ Guerrero (2-1-2) vs. Arturo De Isla (3-1-0)\nMain Card: Jasson Gámez (0-
+ 0-0) vs. Ederick Arias (1-1-0)\nMain Card: Jose Ruiz Herrera (0-1-1) vs.
+  Emiliano Hernández (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-09-rajadamnern-world-series-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series
+DTSTART:20230923T121500Z
+DTEND:20230923T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-09-prize-fighting-events-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Prize Fighting Events 3
+DTSTART:20230923T170000Z
+DTEND:20230923T200000Z
+CATEGORIES:Other,MMA,gmc.tv,live
+DESCRIPTION:via gmc.tv: https://german-mma.de/stream/0Cms3IVAkHgvQ35CjyHE
+ og\n\n---\n\nhttps://www.tapology.com/fightcenter/events/104454-prize-3\
+ n\n---\n\nMain Card: Wladislaw Sorokin (0-0-0) vs. Eduard Petrosyan (1-1
+ -0)\nMain Card: Ben Glade (1-0-0) vs. Erwin Jakunin (0-1-0)\nMain Card: 
+ Andreas Lau (0-0-0) vs. Marouane Helali (0-1-0)\nMain Card: Mohammed Gol
+ nari (0-0-0) vs. Ayoub Oqbani (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-09-dream-boxing@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Dream Boxing
+DTSTART:20230923T180000Z
+DTEND:20230923T210000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN
 END:VEVENT
 END:VCALENDAR

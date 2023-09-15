@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230910T220305Z
-X-KAMPFKALENDER-HASH:6cd78ccad10fa1ff37cb323a1034ced3a2907793
+DTSTAMP:20230915T134712Z
+X-KAMPFKALENDER-HASH:b372204275d252a79d6c2a9565781dfcba3670a3
 BEGIN:VEVENT
-DTSTAMP:20230910T220305Z
+DTSTAMP:20230915T134712Z
 UID:2023-09-lfa-167-piersma-vs-smyth@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 167: Piersma vs. Smyth
@@ -15,17 +15,19 @@ DTSTART:20230916T010000Z
 DTEND:20230916T040000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/104271-lfa-167-piersma-vs-smyth\n\n---\n\nMain Event: Jonath
- an Piersma (6-1-0) vs. Devin Smyth (9-3-0)\nCo-Main Event: Shamidkhan Ma
- gomedov (6-1-0) vs. Bahromjon Mashrapov (7-2-0)\nMain Card: Ashley Nicho
- ls (5-4-0) vs. Nadia Vera (4-1-1)\nMain Card: Jimmy Lawson (4-2-0) vs. M
- att Adams (1-1-0)\nPrelim: Liam Anderson (4-2-0) vs. Jay Manning (2-0-0)
- \nPrelim: Eduardo Penha (2-0-0) vs. Jessen Ramcharan (0-0-0)\nPrelim: Je
- ffrey Craig (3-2-0) vs. Barrington Bishop (3-0-0)\nPrelim: Mus'Aib Baiyi
- na (2-2-0) vs. Austin Ross (0-2-0)
+ nter/events/104271-lfa-167-piersma-vs-smyth\nhttp://www.sherdog.com/even
+ ts/lfa-167-piersma-vs-smyth-99016\nhttps://events.mixedmartialarts.com/l
+ fa-167:7c24a7e1-df42-4f2e-b4f3-1e8f7ad0c444\nhttps://www.bestfightodds.c
+ om/events/lfa-3040\n\n---\n\nMain Event: Jonathan Piersma (6-1-0) vs. De
+ vin Smyth (9-3-0)\nCo-Main Event: Shamidkhan Magomedov (6-1-0) vs. Bakhr
+ omjon Mashrapov (7-2-0)\nMain Card: Ashley Nichols (5-4-0) vs. Nadia Ver
+ a (4-1-1)\nMain Card: Jeffrey Craig (3-2-0) vs. Barrington Bishop (3-0-0
+ )\nMain Card: Liam Anderson (4-2-0) vs. Jay Manning (2-0-0)\nPrelim: Edu
+ ardo Penha (2-0-0) vs. Jessen Ramcharan (0-0-0)\nPrelim: Mus'Aib Baiyina
+  (2-2-0) vs. Austin Ross (0-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230910T220305Z
+DTSTAMP:20230915T134712Z
 UID:2023-09-lfa-168-mckee-vs-mcpadden@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 168: McKee vs. McPadden
@@ -47,5 +49,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  deriksen (0-0-0) vs. Henry Wolfbauer (0-0-0)\nPrelim: Dylan Smerillo (6-
  4-0) vs. Nick Fishback (2-2-0)\nPrelim: C.J. Hays (4-2-0) vs. Brett Bye 
  (1-1-0)\nPrelim: Stephen Lesko (1-3-0) vs. Thad Becker (1-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230915T134712Z
+UID:2023-10-lfa-169@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 169
+DTSTART:20231007T010000Z
+DTEND:20231007T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

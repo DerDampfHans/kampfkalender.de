@@ -4,17 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230811T125735Z
-X-KAMPFKALENDER-HASH:8cec0b6d21189cf515112e501a749e4f23b0e8c0
+DTSTAMP:20230915T134712Z
+X-KAMPFKALENDER-HASH:c7dca51c9f8732bc35783d7e8313bb43e171c7a2
 BEGIN:VEVENT
-DTSTAMP:20230811T125735Z
+DTSTAMP:20230915T134712Z
 UID:2023-09-emc-talents-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:EMC Talents 5
 DTSTART:20230930T160000Z
 DTEND:20230930T190000Z
-CATEGORIES:EMC,MMA,emctv.de,live
-DESCRIPTION:via emctv.de\n\n---\n\nhttps://www.tapology.com/fightcenter/e
- vents/103089-emc-talents-5
+CATEGORIES:EMC,MMA,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/103089-emc-talent
+ s-5\n\n---\n\nMain Card: Cagdas Atmaca (5-3-0) vs. Dominik Horschel (2-1
+ -0)\nMain Card: Sude Koc (0-1-0) vs. Lola Ruelle (0-0-0)\nMain Card: Fat
+ ih Altundag (1-3-0) vs. Sarok Hassan (1-1-0)
 END:VEVENT
 END:VCALENDAR

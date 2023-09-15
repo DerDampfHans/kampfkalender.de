@@ -11,6 +11,11 @@
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 248476,
+        "time": "2023-09-16T01:00:00Z",
+        "title": "LFA 167"
       }
     },
     "tapology": {
@@ -24,13 +29,17 @@
       ],
       "card": [
         "Main Event: Jonathan Piersma (6-1-0) vs. Devin Smyth (9-3-0)",
-        "Co-Main Event: Shamidkhan Magomedov (6-1-0) vs. Bahromjon Mashrapov (7-2-0)",
+        "Co-Main Event: Shamidkhan Magomedov (6-1-0) vs. Bakhromjon Mashrapov (7-2-0)",
         "Main Card: Ashley Nichols (5-4-0) vs. Nadia Vera (4-1-1)",
-        "Main Card: Jimmy Lawson (4-2-0) vs. Matt Adams (1-1-0)",
-        "Prelim: Liam Anderson (4-2-0) vs. Jay Manning (2-0-0)",
+        "Main Card: Jeffrey Craig (3-2-0) vs. Barrington Bishop (3-0-0)",
+        "Main Card: Liam Anderson (4-2-0) vs. Jay Manning (2-0-0)",
         "Prelim: Eduardo Penha (2-0-0) vs. Jessen Ramcharan (0-0-0)",
-        "Prelim: Jeffrey Craig (3-2-0) vs. Barrington Bishop (3-0-0)",
         "Prelim: Mus'Aib Baiyina (2-2-0) vs. Austin Ross (0-2-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/lfa-167-piersma-vs-smyth-99016",
+        "https://events.mixedmartialarts.com/lfa-167:7c24a7e1-df42-4f2e-b4f3-1e8f7ad0c444",
+        "https://www.bestfightodds.com/events/lfa-3040"
       ]
     }
   },
@@ -80,6 +89,26 @@
         "Prelim: C.J. Hays (4-2-0) vs. Brett Bye (1-1-0)",
         "Prelim: Stephen Lesko (1-3-0) vs. Thad Becker (1-7-0)"
       ]
+    }
+  },
+  {
+    "id": "fightpass-249367",
+    "promotion": "LFA",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "LFA 169",
+      "time": "2023-10-07T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 249367,
+        "time": "2023-10-07T01:00:00Z",
+        "title": "LFA 169"
+      }
     }
   }
 ]

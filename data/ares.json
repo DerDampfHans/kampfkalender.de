@@ -6,30 +6,20 @@
       "MMA"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Ares FC 17: Aida vs. Younousov",
       "time": "2023-10-05T17:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      },
-      "fightPass": {
-        "id": 245727,
-        "time": "2023-10-05T17:00:00Z",
-        "title": "ARES 17"
       }
     },
     "tapology": {
       "id": 103761,
       "time": "2023-10-06T16:00:00Z",
-      "title": "Ares FC 17: Aida vs. Younousov",
-      "info": "Confirmed Upcoming MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/103761-ares-fc-17-aida-vs-younousov",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Moustapha Aida (10-2-0) vs. Aboubakar Younousov (3-0-0)"
-      ]
+      "title": "Ares FC 17 (Postponed)",
+      "info": "Cancelled Event",
+      "url": "https://www.tapology.com/fightcenter/events/103761-ares-fc-17-aida-vs-younousov"
     }
   },
   {
@@ -42,6 +32,7 @@
       "#ARES18"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Ares FC 18",
       "time": "2023-10-06T16:00:00Z",
       "broadcasters": {
@@ -60,6 +51,67 @@
       ],
       "card": [
         "Main Card: Rafał Haratyk (16-5-2) vs. Henrique Shiguemoto (14-4-1)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-105173",
+    "promotion": "ARES",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Ares FC 17: Chamsoudinov vs. Klinkhammer",
+      "time": "2023-11-17T18:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 245727,
+        "time": "2023-11-17T18:00:00Z",
+        "title": "ARES 17"
+      }
+    },
+    "tapology": {
+      "id": 105173,
+      "time": "2023-11-17T17:00:00Z",
+      "title": "Ares FC 17: Chamsoudinov vs. Klinkhammer",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/105173-ares-fc-17-chamsoudinov-vs-klinkhammer",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: B. Chamsoudinov (8-0-0) vs. Felix Klinkhammer (9-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-105174",
+    "promotion": "ARES",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Ares FC 18: Augen vs. Shiguemoto",
+      "time": "2023-12-15T17:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 105174,
+      "time": "2023-12-15T17:00:00Z",
+      "title": "Ares FC 18: Augen vs. Shiguemoto",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/105174-ares-fc-17-18-augen-vs-shiguemoto",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Virgil Augen (5-0-0) vs. Henrique Shiguemoto (14-4-1)"
       ]
     }
   }
