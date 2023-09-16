@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230915T134712Z
-X-KAMPFKALENDER-HASH:95d318c8a136691d8d9f36d80ebd998bf76121fd
+DTSTAMP:20230916T110510Z
+X-KAMPFKALENDER-HASH:6ac58200f3e4bc12e5927f7d3d76430bc0754a4d
 BEGIN:VEVENT
-DTSTAMP:20230915T134712Z
+DTSTAMP:20230916T110511Z
 UID:2023-09-fusion-fight-league-rios-vs-powers@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Rios vs. Powers
@@ -32,18 +32,19 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-rios-vs-powers/2pd
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230915T134712Z
+DTSTAMP:20230916T110511Z
 UID:2023-10-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
-DTSTART:20231014T040000Z
-DTEND:20231014T070000Z
+DTSTART:20231015T010000Z
+DTEND:20231015T040000Z
 CATEGORIES:FFL,MMA,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/104789-fusion-fight-league\nhttps://events.mixedmartialarts.com/fus
- ion-fight-league:c6ce6b1b-2da9-4180-8a71-a3937099c1ac\n\n---\n\nMain Eve
- nt: Tommy McMillen (3-0-0) vs. Arthur Dufloo (2-0-0)\nMain Card: Lance R
- egimbal (1-1-0) vs. Kaleb Schafer (0-2-0)\nMain Card: Austin Ash (0-2-0)
-  vs. Theodore Arnold (0-0-0)
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-mcmillen-vs-dufloo
+ /2pdp4/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/104789-fus
+ ion-fight-league\nhttps://events.mixedmartialarts.com/fusion-fight-leagu
+ e:c6ce6b1b-2da9-4180-8a71-a3937099c1ac\n\n---\n\nMain Event: Tommy McMil
+ len (3-0-0) vs. Arthur Dufloo (2-0-0)\nMain Card: Lance Regimbal (1-1-0)
+  vs. Kaleb Schafer (0-2-0)\nMain Card: Austin Ash (0-2-0) vs. Theodore A
+ rnold (0-0-0)
 END:VEVENT
 END:VCALENDAR

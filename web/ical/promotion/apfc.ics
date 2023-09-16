@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230915T134712Z
-X-KAMPFKALENDER-HASH:a2bf4882869155d29d0ff131325ff27a734a239b
+DTSTAMP:20230916T110510Z
+X-KAMPFKALENDER-HASH:51fa7c62dffee7fc7539b78a58d120aa8d8d8694
 BEGIN:VEVENT
-DTSTAMP:20230915T134712Z
+DTSTAMP:20230916T110511Z
 UID:2023-10-anthony-pettis-fc-8-manchester-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Anthony Pettis FC 8: Manchester Fight Night
@@ -27,5 +27,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Ngai (10-2-0) vs. Conor McKay (4-0-0)\nPrelim: Keith Keogh (13-1-0) vs.
   Sam Lynch (5-1-0)\nPrelim: Declan Fisher (3-1-0) vs. Lewis Byrne (7-10-
  0)\nPrelim: Daniel Holt (2-2-0) vs. Jack Grundy (4-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230916T110511Z
+UID:2023-11-anthony-pettis-fc-9-milwaukee-fight-night-iii@kampfkalender.d
+ e
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Anthony Pettis FC 9: Milwaukee Fight Night III
+DTSTART:20231119T200000Z
+DTEND:20231119T230000Z
+CATEGORIES:APFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/105198-anthony-pettis-fc-9-milwaukee-fight-night-iii
 END:VEVENT
 END:VCALENDAR

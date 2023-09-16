@@ -183,12 +183,12 @@
         "Co-Main Event: Joe Pyfer (11-2-0) vs. Abdul Razak Alhassan (12-5-0)",
         "Main Card: Drew Dober (26-12-0) vs. Ricky Glenn (22-7-2)",
         "Main Card: Bill Algeo (17-7-0) vs. Alexander Hernandez (14-6-0)",
+        "Main Card: Philipe Lins (17-5-0) vs. Ion Cutelaba (17-9-1)",
         "Main Card: Alex Morono (23-8-0) vs. Joaquin Buckley (16-6-0)",
         "Prelim: Kanako Murata (12-2-0) vs. Vanessa Demopoulos (9-5-0)",
         "Prelim: Johnny Munoz Jr. (12-3-0) vs. Aoriqileng (24-11-0)",
         "Prelim: Chris Gutierrez (19-4-2) vs. Montel Jackson (13-2-0)",
         "Prelim: Nate Maness (14-3-0) vs. Mateus Mendonça (10-1-0)",
-        "Prelim: Philipe Lins (17-5-0) vs. Ion Cutelaba (17-9-1)",
         "Prelim: Montana De La Rosa (12-8-1) vs. Stephanie Egger (8-4-0)",
         "Prelim: Karolina Kowalkiewicz (15-7-0) vs. Diana Belbiţă (15-7-0)"
       ]
@@ -342,8 +342,8 @@
         "Prelim: Elves Brener (15-3-0) vs. Esteban Ribovics (12-1-0)",
         "Prelim: Elizeu Zaleski (24-7-0) vs. Rinat Fakhretdinov (22-2-0)",
         "Prelim: Daniel Santos (11-2-0) vs. Daniel Marcos (15-0-0)",
-        "Prelim: Eduarda Moura (9-0-0) vs. So Yul Kim (8-1-0)",
-        "Prelim: Ismael Bonfim (19-4-0) vs. Vinc Pichel (14-3-0)"
+        "Prelim: Ismael Bonfim (19-4-0) vs. Vinc Pichel (14-3-0)",
+        "Prelim: Montserrat Ruiz (10-3-0) vs. Eduarda Moura (9-0-0)"
       ]
     }
   },
@@ -435,7 +435,8 @@
         "Prelim: Kyung Ho Kang (19-9-0) vs. John Castañeda (20-6-0)",
         "Prelim: César Almeida (4-0-0) vs. Christian Leroy Duncan (8-1-0)",
         "Prelim: Payton Talbott (6-0-0) vs. Nick Aguirre (7-1-0)",
-        "Prelim: Nikolas Motta (13-5-0) vs. Trey Ogden (16-6-0)"
+        "Prelim: Nikolas Motta (13-5-0) vs. Trey Ogden (16-6-0)",
+        "Prelim: Lucie Pudilová (14-8-0) vs. Ailin Perez (8-2-0)"
       ]
     }
   },
@@ -475,6 +476,50 @@
       "title": "UFC Fight Night",
       "info": "Rumored Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/104486-ufc-fight-night"
+    }
+  },
+  {
+    "id": "tapology-105194",
+    "promotion": "UFC",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "UFC Fight Night",
+      "time": "2023-12-09T08:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        },
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "UFC Fight Night: Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "UFC Fight Night: Early Prelims",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 105194,
+      "time": "2023-12-09T08:00:00Z",
+      "title": "UFC Fight Night",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/105194-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Prelim: Mingyang Zhang (16-6-0) vs. Brendson Ribeiro (15-5-0)"
+      ]
     }
   },
   {
