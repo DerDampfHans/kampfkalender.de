@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230916T220305Z
-X-KAMPFKALENDER-HASH:3658140647896f8c2a0b8f104722fe02dfca1c0d
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:7a10826df2eb295fd5aebcbcb6737e650bde5ea6
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-rajadamnern-world-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series
@@ -18,7 +18,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/105095-rajadamnern-world-series-parunchai-vs-noi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-ifp-vip-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:IFP VIP Fight Night
@@ -30,7 +30,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=XjrosObPml0\nvia
  ght-632
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-senshi-18@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 18
@@ -40,7 +40,7 @@ CATEGORIES:Other,MMA,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-18/2pdmm/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-afl-31@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AFL 31
@@ -63,7 +63,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Paz (0-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-nava-vs-ramirez-almanza@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Nava vs. Ramirez Almanza
@@ -79,7 +79,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  o Owusu (1-0-0) vs. Pablo Lara Sanchez (2-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-ibarra-vs-amaro@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ibarra vs. Amaro
@@ -97,7 +97,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Emiliano Hernández (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-rajadamnern-world-series-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rajadamnern World Series
@@ -107,7 +107,17 @@ CATEGORIES:Other,Muay Thai,DAZN,live
 DESCRIPTION:via DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
+UID:2023-09-dream-boxing@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Dream Boxing
+DTSTART:20230923T160000Z
+DTEND:20230923T190000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
 UID:2023-09-prize-fighting-events-3@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Prize Fighting Events 3
@@ -116,19 +126,12 @@ DTEND:20230923T200000Z
 CATEGORIES:Other,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv: https://german-mma.de/stream/0Cms3IVAkHgvQ35CjyHE
  og\n\n---\n\nhttps://www.tapology.com/fightcenter/events/104454-prize-3\
- n\n---\n\nMain Card: Wladislaw Sorokin (0-0-0) vs. Eduard Petrosyan (1-1
- -0)\nMain Card: Ben Glade (1-0-0) vs. Erwin Jakunin (0-1-0)\nMain Card: 
- Andreas Lau (0-0-0) vs. Marouane Helali (0-1-0)\nMain Card: Mohammed Gol
- nari (0-0-0) vs. Ayoub Oqbani (4-1-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
-UID:2023-09-dream-boxing@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Dream Boxing
-DTSTART:20230923T180000Z
-DTEND:20230923T210000Z
-CATEGORIES:Other,Boxen,DAZN,live
-DESCRIPTION:via DAZN
+ nhttp://www.sherdog.com/events/pfe-3-prize-fighting-events-99133\n\n---\
+ n\nMain Card: Wladislaw Sorokin (0-0-0) vs. Eduard Petrosyan (1-1-0)\nMa
+ in Card: Andreas Lau (0-0-0) vs. Marouane Helali (0-1-0)\nMain Card: Moh
+ ammed Golnari (0-0-0) vs. Ayoub Oqbani (4-1-0)\nMain Card: Valik Ialama 
+ (3-1-0) vs. Firas Daud (1-0-0)\nMain Card: Iwan Tagner (2-1-0) vs. Vlad 
+ Pristroma (0-1-0)\nMain Card: Ben Glade (1-0-0) vs. Enrico Russo (0-0-0)
+ 
 END:VEVENT
 END:VCALENDAR

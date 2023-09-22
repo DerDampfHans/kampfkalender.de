@@ -4,34 +4,45 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230915T134712Z
-X-KAMPFKALENDER-HASH:03a77b6e9748a2f010044c7683509262264eb185
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:9734f87fb581341172181d719074a157646143e0
 BEGIN:VEVENT
-DTSTAMP:20230915T134713Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-one-fight-night-14-stamp-vs-hee-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 14: Stamp vs. Hee
 DTSTART:20230930T000000Z
 DTEND:20230930T030000Z
 CATEGORIES:ONE,MMA,Muay Thai,Grappling,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/102490-one-fight-night-14-stamp-vs-hee\n\n---\n\nMain Event: Stamp 
- Fairtex (10-2-0) vs. Seo Hee Ham (26-8-0)\nCo-Main Event: Smilla Sundell
-  vs. A. Rodrigues\nMain Card: Danielle Kelly vs. Jessa Khan\nMain Card: 
- Jingnan Xiong vs. Nat Jaroonsak\nMain Card: Asa Ten Pow vs. Rambolek Tor
-  Yotha\nMain Card: Stephen Loman (17-2-0) vs. John Lineker (36-10-0)\nMa
- in Card: Dmitry Menshikov vs. Sinsamut Klinmee\nMain Card: Eduard Folaya
- ng (22-13-0) vs. Amir Khan (14-9-0)\nMain Card: Mauro Cerilli (14-5-0) v
- s. Paul Elliott (3-1-0)
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ctUH4ztDQhU\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/102490-one-fight-night
+ -14-stamp-vs-hee\n\n---\n\nMain Event: Stamp Fairtex (10-2-0) vs. Seo He
+ e Ham (26-8-0)\nCo-Main Event: Smilla Sundell vs. A. Rodrigues\nMain Car
+ d: Danielle Kelly vs. Jessa Khan\nMain Card: Jingnan Xiong vs. Nat Jaroo
+ nsak\nMain Card: Asa Ten Pow vs. Rambolek Tor Yotha\nMain Card: Stephen 
+ Loman (17-2-0) vs. John Lineker (36-10-0)\nMain Card: Dmitry Menshikov v
+ s. Sinsamut Klinmee\nMain Card: Eduard Folayang (22-13-0) vs. Amir Khan 
+ (14-9-0)\nMain Card: Mauro Cerilli (14-5-0) vs. Paul Elliott (3-1-0)\nMa
+ in Card: Blake Cooper (2-0-0) vs. Maurice Abévi (6-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230915T134713Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-polaris-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:POLARIS 25
 DTSTART:20230930T180000Z
 DTEND:20230930T210000Z
 CATEGORIES:Polaris,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
+UID:2023-10-submission-hunter-pro-87@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Submission Hunter Pro 87
+DTSTART:20231015T213000Z
+DTEND:20231016T003000Z
+CATEGORIES:SHP,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

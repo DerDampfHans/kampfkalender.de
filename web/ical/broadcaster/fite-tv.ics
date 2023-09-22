@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230916T110510Z
-X-KAMPFKALENDER-HASH:72d52734fd426f1ee5d9795e2e65c5eeeab0dec8
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:8c472a635ca6a3fbba7cd0cf5601e3c0ff710cf3
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-senshi-18@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Senshi 18
@@ -17,26 +17,49 @@ CATEGORIES:Other,MMA,fite.tv,live,kostenlos
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/senshi-18/2pdmm/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
+UID:2023-09-bkfc-50-hunt-vs-camozzi-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 50: Hunt vs. Camozzi: Prelims
+DTSTART:20230923T000000Z
+DTEND:20230923T010000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=nTCjHJvZ5gs\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-50-prelims/2pdq2/\n\n---\n\nhtt
+ ps://www.tapology.com/fightcenter/events/103810-bkfc-50-hunt-vs-camozzi\
+ nhttps://events.mixedmartialarts.com/bkfc-50:ff74583c-e728-456d-a2da-413
+ 6acaa0034\n\n---\n\nMain Event: Lorenzo Hunt vs. Chris Camozzi\nCo-Main 
+ Event: Josh Copeland vs. Steve Herelius\nMain Card: Keegan Vandermeer vs
+ . Dillion Winemiller\nMain Card: Andrew Yates vs. Christian Torres\nMain
+  Card: Marcus Edwards vs. Michael Manno\nMain Card: Brett Hudson vs. And
+ rew Angelcor\nMain Card: Andrew Strode vs. Cary Caprio\nMain Card: Angel
+ o Trujillo vs. Dominick Carey\nMain Card: Brian Maronek vs. Tony Jenkins
+ \nPrelim: Khortni Kamyron vs. Monica Franco\nPrelim: Lamont Stafford vs.
+  Gabriel Mota\nPrelim: Jessie Stalder vs. Zeb Vincent
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
 UID:2023-09-bkfc-50-hunt-vs-camozzi@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 50: Hunt vs. Camozzi
-DTSTART:20230923T000000Z
-DTEND:20230923T030000Z
-CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-50/2pdk8/\n\n---\
- n\nhttps://www.tapology.com/fightcenter/events/103810-bkfc-50-hunt-vs-ca
- mozzi\n\n---\n\nMain Event: Lorenzo Hunt vs. Chris Camozzi\nCo-Main Even
- t: Josh Copeland vs. Steve Herelius\nMain Card: Keegan Vandermeer vs. Di
- llion Winemiller\nMain Card: Andrew Yates vs. Christian Torres\nMain Car
- d: Marcus Edwards vs. Michael Manno\nMain Card: Brett Hudson vs. Andrew 
- Angelcor\nMain Card: Andrew Strode vs. Cary Caprio\nMain Card: Angelo Tr
- ujillo vs. Dominick Carey\nMain Card: Brian Maronek vs. Tony Jenkins\nPr
- elim: Khortni Kamyron vs. Monica Franco\nPrelim: Lamont Stafford vs. Gab
- riel Mota\nPrelim: Jessie Stalder vs. Zeb Vincent
+DTSTART:20230923T010000Z
+DTEND:20230923T040000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=tovOEJG7CJQ\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-50/2pdk8/\n\n---\n\nhttps://www
+ .tapology.com/fightcenter/events/103810-bkfc-50-hunt-vs-camozzi\nhttps:/
+ /events.mixedmartialarts.com/bkfc-50:ff74583c-e728-456d-a2da-4136acaa003
+ 4\n\n---\n\nMain Event: Lorenzo Hunt vs. Chris Camozzi\nCo-Main Event: J
+ osh Copeland vs. Steve Herelius\nMain Card: Keegan Vandermeer vs. Dillio
+ n Winemiller\nMain Card: Andrew Yates vs. Christian Torres\nMain Card: M
+ arcus Edwards vs. Michael Manno\nMain Card: Brett Hudson vs. Andrew Ange
+ lcor\nMain Card: Andrew Strode vs. Cary Caprio\nMain Card: Angelo Trujil
+ lo vs. Dominick Carey\nMain Card: Brian Maronek vs. Tony Jenkins\nPrelim
+ : Khortni Kamyron vs. Monica Franco\nPrelim: Lamont Stafford vs. Gabriel
+  Mota\nPrelim: Jessie Stalder vs. Zeb Vincent
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-fusion-fight-league-rios-vs-powers@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League: Rios vs. Powers
@@ -45,7 +68,8 @@ DTEND:20230923T040000Z
 CATEGORIES:FFL,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-rios-vs-powers/2pd
  o4/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/104471-fusion-
- fight-league-rios-vs-powers\nhttps://events.mixedmartialarts.com/fusion-
+ fight-league-rios-vs-powers\nhttp://www.sherdog.com/events/fusion-fight-
+ league-rios-vs-powers-96796\nhttps://events.mixedmartialarts.com/fusion-
  fight-league:a1b54045-021c-4e52-a575-f1631572ab32\n\n---\n\nMain Event: 
  Conall Powers (1-0-0) vs. Chris Sherley-Rios (0-3-0)\nMain Card: Samuel 
  Polk (1-0-0) vs. Chace Eskam (1-1-1)\nMain Card: Sterling Ritch (0-0-0) 
@@ -61,45 +85,49 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-rios-vs-powers/2pd
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-rizin-44@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN 44
-DTSTART:20230925T040000Z
-DTEND:20230925T070000Z
+DTSTART:20230924T050000Z
+DTEND:20230924T080000Z
 CATEGORIES:RIZIN,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-44/2pdna/\n\n---
- \n\nhttps://www.tapology.com/fightcenter/events/103572-rizin-44\n\n---\n
- \nMain Card: Juntarou Ushiku (22-10-1) vs. Kyohei Hagiwara (7-7-0)\nMain
-  Card: Kleber Koike Erbst (31-6-1) vs. Masanori Kanehara (30-14-5)\nMain
-  Card: Kazumasa Majima (15-4-0) vs. Takeji Yokoyama (5-0-0)\nMain Card: 
- Yoshiki Nakahara (17-6-0) vs. Rikuto Shirakawa (11-8-1)\nMain Card: Taic
- hi Nakajima (16-12-1) vs. Ryo Okada (17-6-3)\nMain Card: Spike Carlyle (
- 14-5-0) vs. Yoshinori Horie (12-4-0)\nMain Card: Shoma Shibisai (9-3-0) 
- vs. Janos Csukas (7-1-0)\nMain Card: Tsuyoshi Sudario (7-2-0) vs. Todd D
- uffee (9-4-0)\nMain Card: Ryuya Fukuda (20-7-1) vs. Erson Yamamoto (4-5-
- 0)\nMain Card: Takaki Soya (12-5-1) vs. Ramazonbek Temirov (16-2-0)\nMai
- n Card: Rukiya Anpo vs. Sho Patrick Usami
+ \n\nhttps://www.tapology.com/fightcenter/events/103572-rizin-44\nhttp://
+ www.sherdog.com/events/rizin-ff-rizin-44-98721\nhttps://events.mixedmart
+ ialarts.com/rizin-44:d97bd8d3-a8f6-416a-9d08-b7c213a45097\nhttps://www.b
+ estfightodds.com/events/rizin-3039\n\n---\n\nMain Event: Kleber Koike Er
+ bst (31-6-1) vs. Masanori Kanehara (30-14-5)\nCo-Main Event: Juntarou Us
+ hiku (22-10-1) vs. Kyohei Hagiwara (7-7-0)\nMain Card: Spike Carlyle (14
+ -5-0) vs. Yoshinori Horie (12-4-0)\nMain Card: Tsuyoshi Sudario (7-2-0) 
+ vs. Todd Duffee (9-4-0)\nMain Card: Rukiya Anpo vs. Sho Patrick Usami\nM
+ ain Card: Yoshiki Nakahara (17-6-0) vs. Rikuto Shirakawa (11-8-1)\nMain 
+ Card: Kazumasa Majima (15-4-0) vs. Takeji Yokoyama (5-0-0)\nMain Card: R
+ yuya Fukuda (20-7-1) vs. Erson Yamamoto (4-5-0)\nMain Card: Taichi Nakaj
+ ima (16-12-1) vs. Ryo Okada (17-6-3)\nMain Card: Shoma Shibisai (9-3-0) 
+ vs. Janos Csukas (7-1-0)\nMain Card: Takaki Soya (12-5-1) vs. Ramazonbek
+  Temirov (16-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-bkfc-51-hart-vs-shah@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 51: Hart vs. Shah
 DTSTART:20230930T000000Z
 DTEND:20230930T030000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/103959-bkfc-51\n\n---\n\nMain Event: Britain Hart vs. Melanie Shah\
- nCo-Main Event: Dustin Pague vs. Joe Elmore\nMain Card: Stanislav Grosu 
- vs. Blake LaCaze\nMain Card: Bruce Abramski vs. Mark Culp\nMain Card: Br
- ian Maxwell vs. Harris Stephenson\nMain Card: Ronnie Glass vs. Joseph Cr
- eer\nMain Card: Cody Jenkins vs. Zachary Pannell\nPrelim: Kaine Tomlinso
- n\, Sr. vs. Brett Fields\nPrelim: Rick Caruso vs. Landon Williams\nPreli
- m: Ka'Sim Ruffin vs. Daniel Fenske
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-51/2pdpv/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/103959-bkfc-51\n\n---\n\n
+ Main Event: Britain Hart vs. Melanie Shah\nCo-Main Event: Dustin Pague v
+ s. Joe Elmore\nMain Card: Stanislav Grosu vs. Blake LaCaze\nMain Card: B
+ ruce Abramski vs. Mark Culp\nMain Card: Brian Maxwell vs. Harris Stephen
+ son\nMain Card: Ronnie Glass vs. Joseph Creer\nMain Card: Cody Jenkins v
+ s. Zachary Pannell\nPrelim: Kaine Tomlinson\, Sr. vs. Brett Fields\nPrel
+ im: Rick Caruso vs. Landon Williams\nPrelim: Ka'Sim Ruffin vs. Daniel Fe
+ nske
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-bkfc-52-barnett-vs-richardson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 52: Barnett vs. Richardson
@@ -113,12 +141,12 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  Card: Jeremiah Scott vs. Chevvy Bridges
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-rizin-landmark-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:RIZIN Landmark 6
-DTSTART:20231001T040000Z
-DTEND:20231001T070000Z
+DTSTART:20231001T035900Z
+DTEND:20231001T065900Z
 CATEGORIES:RIZIN,MMA,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-landmark-6-in-na
  goya/2pdn9/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/103573
@@ -137,7 +165,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-landmark-6-in-na
  or Tanabe (3-0-0) vs. Koji Shikuwa (6-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-fusion-fight-league@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fusion Fight League
@@ -153,7 +181,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-mcmillen-vs-dufloo
  rnold (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-aka-32@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 32
@@ -162,10 +190,23 @@ DTEND:20231027T070000Z
 CATEGORIES:AKA,MMA,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/105139-aka-32\n\n---\n\nMain Event: Steve Jones (8-4-0) vs. Don Doy
- le (4-0-0)\nMain Card: Coby Bradford (7-8-1) vs. Modou Anta (0-0-0)
+ le (4-0-0)\nMain Card: Coby Bradford (7-8-1) vs. Modou Anta (0-0-0)\nMai
+ n Card: Tevinn Cantly (2-0-0) vs. Chris Roppolo (4-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
+UID:2023-11-bkfc-53-mundell-vs-coltrane@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 53: Mundell vs. Coltrane
+DTSTART:20231104T000000Z
+DTEND:20231104T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/105360-bkfc-53-mundell-vs-coltrane\n\n---\n\nMain Event: David Mund
+ ell vs. Doug Coltrane
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
 UID:2023-11-bkfc-bulgaria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC: Bulgaria
@@ -179,8 +220,8 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  r Abdulnabi\nMain Card: Marian Dimitrov vs. Jędrzej Durski\nMain Card: D
  elqn Iliev vs. Florin Lupu\nMain Card: Veselin Ivanov vs. Marco Giustari
  ni\nMain Card: Mladen Iliev vs. Yunus Emre Batan\nMain Card: Kristian Ki
- rilov vs. Nermin Hajdarpašić\nPrelim: Angel Petkov vs. Nikola Arsov\nPre
- lim: Martin Stoichkov vs. Felipe Maia\nPrelim: Zdravko Dimitrov vs. Toma
- s Vojtela
+ rilov vs. Mehmet Ozer\nPrelim: Angel Petkov vs. Nikola Arsov\nPrelim: Ma
+ rtin Stoichkov vs. Felipe Maia\nPrelim: Zdravko Dimitrov vs. Tomas Vojte
+ la
 END:VEVENT
 END:VCALENDAR

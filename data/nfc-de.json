@@ -1,12 +1,34 @@
 [
   {
+    "id": "nfc-2023-09-15",
+    "promo": true,
+    "promotion": "NFC_DE",
+    "tags": [
+      "#Essen",
+      "#NFC15"
+    ],
+    "links": [
+      "https://fighting.de/nfc-15/"
+    ],
+    "mainCard": {
+      "title": "NFC 15: Face Offs",
+      "time": "2023-09-22T16:00:00Z",
+      "until": "2023-09-22T16:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=sHu4laWpkvg"
+        }
+      }
+    }
+  },
+  {
     "id": "nfc-2023-09-16",
     "promotion": "NFC_DE",
     "sports": [
       "MMA"
     ],
     "tags": [
-      "#Bonn",
+      "#Essen",
       "#NFC15"
     ],
     "links": [
@@ -14,29 +36,20 @@
     ],
     "mainCard": {
       "title": "NFC 15: Zendeli vs. Holodenko",
-      "time": "2023-09-23T21:00:00Z",
-      "until": "2023-09-23T22:30:00Z",
+      "time": "2023-09-23T17:00:00Z",
+      "until": "2023-09-23T12:30:00Z",
       "broadcasters": {
-        "SPORT1": {
-          "free": true
-        },
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=0WxI1smapq8"
         }
       }
     },
     "prelims": {
-      "title": "NFC 15: Undercard",
-      "time": "2023-09-23T18:00:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
-      }
-    },
-    "earlyPrelims": {
       "title": "NFC 15: Free Prelims",
       "time": "2023-09-23T16:00:00Z",
       "broadcasters": {
         "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=eD5wAqqdjd0",
           "free": true
         }
       }
@@ -59,10 +72,10 @@
         "Prelim: David Piechaczek (1-0-0) vs. Malik Misaev (0-1-0)",
         "Prelim: A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)",
         "Prelim: Timo Ernst (1-0-0) vs. Masoud Sadeqpoor (1-1-0)",
-        "Prelim: Deni Mirnić (2-3-0) vs. Wojciech Kacprzyk (1-1-0)",
         "Prelim: Gianni Massafra (2-1-0) vs. Tobias Balzer (3-2-0)",
         "Prelim: Davlet Karataev (4-1-0) vs. Zabiullah Mubarez (2-1-0)",
-        "Main Card: Tomasz Łangowski (6-3-0) vs. Wahid Najand (6-2-0)"
+        "Main Card: Tomasz Łangowski (6-3-0) vs. Wahid Najand (6-2-0)",
+        "Main Card: Deni Mirnić (2-3-0) vs. Yusup Magomedov (0-0-0)"
       ],
       "links": [
         "http://www.sherdog.com/events/nfc-15-national-fighting-championship-96825",
@@ -88,9 +101,6 @@
       "time": "2023-11-11T22:00:00Z",
       "until": "2023-11-11T23:30:00Z",
       "broadcasters": {
-        "SPORT1": {
-          "free": true
-        },
         "FIGHTING_DE": {
         }
       }
@@ -116,8 +126,14 @@
       "id": 94583,
       "time": "2023-11-11T17:00:00Z",
       "title": "NFC 16",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/94583-nfc-16"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94583-nfc-16",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)"
+      ]
     }
   },
   {
@@ -138,9 +154,6 @@
       "time": "2023-12-16T22:00:00Z",
       "until": "2023-12-16T23:30:00Z",
       "broadcasters": {
-        "SPORT1": {
-          "free": true
-        },
         "FIGHTING_DE": {
         }
       }

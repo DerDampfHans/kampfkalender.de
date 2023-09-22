@@ -4,82 +4,71 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230916T220305Z
-X-KAMPFKALENDER-HASH:9fc39cfeb2700ce3c849261956efddfb3153bf46
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:56091f6ff7cfdf4552742f8a5ede74d23d8cca55
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
+UID:2023-09-nfc-15-face-offs@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 15: Face Offs
+DTSTART:20230922T160000Z
+DTEND:20230922T163000Z
+CATEGORIES:NFC,fighting.de,PR,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=sHu4laWpkvg\
+ n\n---\n\nhttps://fighting.de/nfc-15/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
 UID:2023-09-nfc-15-free-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Free Prelims
 DTSTART:20230923T160000Z
-DTEND:20230923T180000Z
+DTEND:20230923T170000Z
 CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-15/\nhttps:
- //www.tapology.com/fightcenter/events/94582-nfc-15\nhttp://www.sherdog.c
- om/events/nfc-15-national-fighting-championship-96825\nhttps://events.mi
- xedmartialarts.com/nfc-15:cbef24b1-645b-4c1b-9893-9175e2c5600d\n\n---\n\
- nMain Event: Florim Zendeli (6-1-1) vs. Wladimir Holodenko (4-1-2)\nCo-M
- ain Event: Maurice Adorf (6-1-0) vs. Lasha Abramishvili (5-2-1)\nMain Ca
- rd: David Balevski (2-0-0) vs. Simon Schuster (3-1-0)\nMain Card: Chequi
- na Noso Pedro (6-3-0) vs. Lukas Cruz (10-2-0)\nMain Card: Danial Aghaie 
- (3-1-0) vs. Benny Bajrami (5-2-0)\nPrelim: David Piechaczek (1-0-0) vs. 
- Malik Misaev (0-1-0)\nPrelim: A. Chatzigeorgiadis (2-2-1) vs. Meysam Agh
- arezaei (1-1-0)\nPrelim: Timo Ernst (1-0-0) vs. Masoud Sadeqpoor (1-1-0)
- \nPrelim: Deni Mirnić (2-3-0) vs. Wojciech Kacprzyk (1-1-0)\nPrelim: Gia
- nni Massafra (2-1-0) vs. Tobias Balzer (3-2-0)\nPrelim: Davlet Karataev 
- (4-1-0) vs. Zabiullah Mubarez (2-1-0)\nMain Card: Tomasz Łangowski (6-3-
- 0) vs. Wahid Najand (6-2-0)
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=eD5wAqqdjd0\
+ n\n---\n\nhttps://fighting.de/nfc-15/\nhttps://www.tapology.com/fightcen
+ ter/events/94582-nfc-15\nhttp://www.sherdog.com/events/nfc-15-national-f
+ ighting-championship-96825\nhttps://events.mixedmartialarts.com/nfc-15:c
+ bef24b1-645b-4c1b-9893-9175e2c5600d\n\n---\n\nMain Event: Florim Zendeli
+  (6-1-1) vs. Wladimir Holodenko (4-1-2)\nCo-Main Event: Maurice Adorf (6
+ -1-0) vs. Lasha Abramishvili (5-2-1)\nMain Card: David Balevski (2-0-0) 
+ vs. Simon Schuster (3-1-0)\nMain Card: Chequina Noso Pedro (6-3-0) vs. L
+ ukas Cruz (10-2-0)\nMain Card: Danial Aghaie (3-1-0) vs. Benny Bajrami (
+ 5-2-0)\nPrelim: David Piechaczek (1-0-0) vs. Malik Misaev (0-1-0)\nPreli
+ m: A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)\nPrelim: Ti
+ mo Ernst (1-0-0) vs. Masoud Sadeqpoor (1-1-0)\nPrelim: Gianni Massafra (
+ 2-1-0) vs. Tobias Balzer (3-2-0)\nPrelim: Davlet Karataev (4-1-0) vs. Za
+ biullah Mubarez (2-1-0)\nMain Card: Tomasz Łangowski (6-3-0) vs. Wahid N
+ ajand (6-2-0)\nMain Card: Deni Mirnić (2-3-0) vs. Yusup Magomedov (0-0-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
-UID:2023-09-nfc-15-undercard@kampfkalender.de
-ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:NFC 15: Undercard
-DTSTART:20230923T180000Z
-DTEND:20230923T210000Z
-CATEGORIES:NFC,MMA,fighting.de,live
-DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-15/\nhttps:
- //www.tapology.com/fightcenter/events/94582-nfc-15\nhttp://www.sherdog.c
- om/events/nfc-15-national-fighting-championship-96825\nhttps://events.mi
- xedmartialarts.com/nfc-15:cbef24b1-645b-4c1b-9893-9175e2c5600d\n\n---\n\
- nMain Event: Florim Zendeli (6-1-1) vs. Wladimir Holodenko (4-1-2)\nCo-M
- ain Event: Maurice Adorf (6-1-0) vs. Lasha Abramishvili (5-2-1)\nMain Ca
- rd: David Balevski (2-0-0) vs. Simon Schuster (3-1-0)\nMain Card: Chequi
- na Noso Pedro (6-3-0) vs. Lukas Cruz (10-2-0)\nMain Card: Danial Aghaie 
- (3-1-0) vs. Benny Bajrami (5-2-0)\nPrelim: David Piechaczek (1-0-0) vs. 
- Malik Misaev (0-1-0)\nPrelim: A. Chatzigeorgiadis (2-2-1) vs. Meysam Agh
- arezaei (1-1-0)\nPrelim: Timo Ernst (1-0-0) vs. Masoud Sadeqpoor (1-1-0)
- \nPrelim: Deni Mirnić (2-3-0) vs. Wojciech Kacprzyk (1-1-0)\nPrelim: Gia
- nni Massafra (2-1-0) vs. Tobias Balzer (3-2-0)\nPrelim: Davlet Karataev 
- (4-1-0) vs. Zabiullah Mubarez (2-1-0)\nMain Card: Tomasz Łangowski (6-3-
- 0) vs. Wahid Najand (6-2-0)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-nfc-15-zendeli-vs-holodenko@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 15: Zendeli vs. Holodenko
-DTSTART:20230923T210000Z
-DTEND:20230923T223000Z
-CATEGORIES:NFC,MMA,SPORT1,fighting.de,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://fighting.de/nfc
- -15/\nhttps://www.tapology.com/fightcenter/events/94582-nfc-15\nhttp://w
- ww.sherdog.com/events/nfc-15-national-fighting-championship-96825\nhttps
- ://events.mixedmartialarts.com/nfc-15:cbef24b1-645b-4c1b-9893-9175e2c560
- 0d\n\n---\n\nMain Event: Florim Zendeli (6-1-1) vs. Wladimir Holodenko (
- 4-1-2)\nCo-Main Event: Maurice Adorf (6-1-0) vs. Lasha Abramishvili (5-2
- -1)\nMain Card: David Balevski (2-0-0) vs. Simon Schuster (3-1-0)\nMain 
- Card: Chequina Noso Pedro (6-3-0) vs. Lukas Cruz (10-2-0)\nMain Card: Da
- nial Aghaie (3-1-0) vs. Benny Bajrami (5-2-0)\nPrelim: David Piechaczek 
- (1-0-0) vs. Malik Misaev (0-1-0)\nPrelim: A. Chatzigeorgiadis (2-2-1) vs
- . Meysam Agharezaei (1-1-0)\nPrelim: Timo Ernst (1-0-0) vs. Masoud Sadeq
- poor (1-1-0)\nPrelim: Deni Mirnić (2-3-0) vs. Wojciech Kacprzyk (1-1-0)\
- nPrelim: Gianni Massafra (2-1-0) vs. Tobias Balzer (3-2-0)\nPrelim: Davl
- et Karataev (4-1-0) vs. Zabiullah Mubarez (2-1-0)\nMain Card: Tomasz Łan
- gowski (6-3-0) vs. Wahid Najand (6-2-0)
+DTSTART:20230923T170000Z
+DTEND:20230923T123000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de: https://www.youtube.com/watch?v=0WxI1smapq8\
+ n\n---\n\nhttps://fighting.de/nfc-15/\nhttps://www.tapology.com/fightcen
+ ter/events/94582-nfc-15\nhttp://www.sherdog.com/events/nfc-15-national-f
+ ighting-championship-96825\nhttps://events.mixedmartialarts.com/nfc-15:c
+ bef24b1-645b-4c1b-9893-9175e2c5600d\n\n---\n\nMain Event: Florim Zendeli
+  (6-1-1) vs. Wladimir Holodenko (4-1-2)\nCo-Main Event: Maurice Adorf (6
+ -1-0) vs. Lasha Abramishvili (5-2-1)\nMain Card: David Balevski (2-0-0) 
+ vs. Simon Schuster (3-1-0)\nMain Card: Chequina Noso Pedro (6-3-0) vs. L
+ ukas Cruz (10-2-0)\nMain Card: Danial Aghaie (3-1-0) vs. Benny Bajrami (
+ 5-2-0)\nPrelim: David Piechaczek (1-0-0) vs. Malik Misaev (0-1-0)\nPreli
+ m: A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)\nPrelim: Ti
+ mo Ernst (1-0-0) vs. Masoud Sadeqpoor (1-1-0)\nPrelim: Gianni Massafra (
+ 2-1-0) vs. Tobias Balzer (3-2-0)\nPrelim: Davlet Karataev (4-1-0) vs. Za
+ biullah Mubarez (2-1-0)\nMain Card: Tomasz Łangowski (6-3-0) vs. Wahid N
+ ajand (6-2-0)\nMain Card: Deni Mirnić (2-3-0) vs. Yusup Magomedov (0-0-0
+ )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-glory-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory 89
@@ -95,7 +84,7 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  s. Eduard Aleksanyan\nMain Card: Chris Wunn vs. Dragomir Petrov
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-11-glory-collision-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6
@@ -108,7 +97,7 @@ DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
  abez\nMain Card: Abraham Vidales vs. Ahmad Chikh Mousa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-11-nfc-16-free-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Free Prelims
@@ -116,10 +105,11 @@ DTSTART:20231111T170000Z
 DTEND:20231111T190000Z
 CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-16/\nhttps:
- //www.tapology.com/fightcenter/events/94583-nfc-16
+ //www.tapology.com/fightcenter/events/94583-nfc-16\n\n---\n\nMain Card: 
+ A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-11-nfc-16-undercard@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16: Undercard
@@ -127,21 +117,23 @@ DTSTART:20231111T190000Z
 DTEND:20231111T220000Z
 CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-16/\nhttps:
- //www.tapology.com/fightcenter/events/94583-nfc-16
+ //www.tapology.com/fightcenter/events/94583-nfc-16\n\n---\n\nMain Card: 
+ A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-11-nfc-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 16
 DTSTART:20231111T220000Z
 DTEND:20231111T233000Z
-CATEGORIES:NFC,MMA,SPORT1,fighting.de,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://fighting.de/nfc
- -16/\nhttps://www.tapology.com/fightcenter/events/94583-nfc-16
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-16/\nhttps:
+ //www.tapology.com/fightcenter/events/94583-nfc-16\n\n---\n\nMain Card: 
+ A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-12-nfc-17-free-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Free Prelims
@@ -153,7 +145,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
  om/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-12-nfc-17-undercard@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Undercard
@@ -165,16 +157,15 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
  om/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-12-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17
 DTSTART:20231216T220000Z
 DTEND:20231216T233000Z
-CATEGORIES:NFC,MMA,SPORT1,fighting.de,live,kostenlos
-DESCRIPTION:via SPORT1\nvia fighting.de\n\n---\n\nhttps://fighting.de/nfc
- -17/\nhttps://www.tapology.com/fightcenter/events/94584-nfc-17\nhttp://w
- ww.sherdog.com/events/nfc-national-fighting-championship-dulatov-vs-zend
- eli-94463
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
+ //www.tapology.com/fightcenter/events/94584-nfc-17\nhttp://www.sherdog.c
+ om/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463
 END:VEVENT
 END:VCALENDAR

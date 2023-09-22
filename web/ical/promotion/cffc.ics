@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230915T134712Z
-X-KAMPFKALENDER-HASH:d0aa4aa527c4b6f5568ae437e454124bf7088478
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:94561b5d0690836f6d37d5089ea4288e85d44f0b
 BEGIN:VEVENT
-DTSTAMP:20230915T134712Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-cffc-125-nakanelua-vs-echeverria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 125: Nakanelua vs. Echeverria
@@ -30,7 +30,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
   Mosley (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230915T134712Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-cffc-126@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 126
@@ -45,5 +45,15 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  n Card: Willie Tarpley (3-3-0) vs. John Lopez (1-0-0)\nMain Card: Matthe
  w Allison (1-0-0) vs. Yve Nelson (0-0-0)\nMain Card: Argenis Castro (4-3
  -0) vs. David Camacho (8-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
+UID:2023-11-cffc-127@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 127
+DTSTART:20231104T010000Z
+DTEND:20231104T040000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

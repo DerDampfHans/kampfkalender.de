@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230915T134712Z
-X-KAMPFKALENDER-HASH:70dc9b47735da24792929d12acab8c1ec2af113d
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:b0da910b44b813974868ddf6ef4ada104de106a8
 BEGIN:VEVENT
-DTSTAMP:20230915T134712Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-fury-fc-83@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 83
@@ -30,5 +30,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ni (4-0-0) vs. Victor Gonzalez (5-5-0)\nPrelim: Houston Nole (0-1-0) vs.
   Shane Wright (1-2-0)\nPrelim: Mario Vazquez (2-0-0) vs. Tamoi Williams 
  (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
+UID:2023-12-fury-fc-84@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 84
+DTSTART:20231203T190000Z
+DTEND:20231203T220000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/105246-fury-fc-84
 END:VEVENT
 END:VCALENDAR

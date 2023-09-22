@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230916T220305Z
-X-KAMPFKALENDER-HASH:cb1dde43815f30ba7cff5314bdfdf46930eb3f02
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:850fb8ce4a137efbaa0d320194018beffe2716ff
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-09-oktagon-46-dalisda-vs-austin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 46: Dalisda vs. Austin
@@ -30,7 +30,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  Prelim: Zoran Solaja (2-0-0) vs. Daniel Hromek (2-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-oktagon-47-vemola-vs-langer@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 47: Vemola vs. Langer
@@ -48,10 +48,11 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  6-11-1) vs. Matouš Kohout (8-6-0)\nMain Card: Marek Mazuch (7-2-0) vs. J
  amie Cordero (4-1-0)\nMain Card: Gustavo Lopez (13-7-1) vs. Beno Adamia 
  (9-8-2)\nMain Card: Vlasto Čepo (12-2-0) vs. Ahmed Sami (10-3-0)\nMain C
- ard: Veronika Smolkova (2-2-0) vs. Eleni Mytilinaki (2-2-0)
+ ard: Veronika Smolkova (2-2-0) vs. Eleni Mytilinaki (2-2-0)\nMain Card: 
+ Lucia Szabová vs. Alexandra Andersrod
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-11-oktagon-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 48
@@ -59,13 +60,15 @@ DTSTART:20231104T150000Z
 DTEND:20231104T180000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/100811-oktagon\n\n---\n\nMain Card: Michał Andryszak (25-11-0) v
- s. Stuart Austin (17-8-0)\nMain Card: James Lewis (8-5-0) vs. Niklas Sto
- lze (12-6-0)\nMain Card: Jaroslav Pokorný (16-10-0) vs. Shem Rock (9-1-1
- )\nMain Card: Jakub Bahník (9-4-0) vs. Akonne Wanliss (7-2-0)
+ /events/100811-oktagon\n\n---\n\nMain Card: James Lewis (8-5-0) vs. Nikl
+ as Stolze (12-6-0)\nMain Card: Jaroslav Pokorný (16-10-0) vs. Shem Rock 
+ (9-1-1)\nMain Card: Jakub Bahník (9-4-0) vs. Akonne Wanliss (7-2-0)\nMai
+ n Card: Lee Chadwick (28-18-1) vs. Radovan Úškrt (8-4-0)\nMain Card: Ant
+ un Račić (27-11-1) vs. Jack Cartwright (10-1-0)\nMain Card: Alex Lohoré 
+ (23-9-0) vs. Ion Surdu (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-11-oktagon-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 49
@@ -78,7 +81,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  -2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T220305Z
+DTSTAMP:20230922T071200Z
 UID:2023-12-oktagon-50@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 50
@@ -86,6 +89,19 @@ DTSTART:20231209T120000Z
 DTEND:20231209T150000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/98887-oktagon
+ /events/98887-oktagon\n\n---\n\nMain Card: Vladimír Lengál (6-2-0) vs. S
+ amuel Bark (8-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230922T071200Z
+UID:2023-12-oktagon-51-tipsport-gamechanger-final@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 51: Tipsport Gamechanger Final
+DTSTART:20231229T170000Z
+DTEND:20231229T200000Z
+CATEGORIES:Oktagon,MMA,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/105224-oktagon-51\n\n---\n\nMain Card: Bojan Veličković (24-12-2
+ ) vs. Andreas Michailidis (16-6-0)
 END:VEVENT
 END:VCALENDAR

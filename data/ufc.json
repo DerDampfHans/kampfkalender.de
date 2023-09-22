@@ -24,7 +24,8 @@
         "time": "2023-09-23T23:00:00Z",
         "title": "UFC Fight Night: Fiziev vs Gamrot (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Sebastian Hackl"
       }
     },
     "prelims": {
@@ -52,15 +53,23 @@
       "card": [
         "Main Event: Rafael Fiziev (12-2-0) vs. Mateusz Gamrot (22-2-0)",
         "Co-Main Event: Bryce Mitchell (15-1-0) vs. Dan Ige (17-6-0)",
-        "Main Card: Charles Jourdain (14-6-1) vs. Ricardo Ramos (16-4-0)",
-        "Main Card: Bryan Battle (9-2-0) vs. AJ Fletcher (10-2-0)",
         "Main Card: Marina Rodriguez (16-3-2) vs. M. Waterson-Gomez (18-11-0)",
-        "Prelim: Mizuki Inoue (14-6-0) vs. Hannah Goldy (6-3-0)",
-        "Prelim: Jake Collier (13-9-0) vs. Mohammed Usman (9-2-0)",
-        "Prelim: Montserrat Rendon (5-0-0) vs. Tamires Vidal (7-1-0)",
-        "Prelim: Miles Johns (13-2-0) vs. Daniel Argueta (9-1-0)",
+        "Main Card: Bryan Battle (9-2-0) vs. AJ Fletcher (10-2-0)",
+        "Main Card: Charles Jourdain (14-6-1) vs. Ricardo Ramos (16-4-0)",
+        "Prelim: Miles Johns (13-2-0) vs. Dan Argueta (9-1-0)",
         "Prelim: Tim Means (32-15-1) vs. Andre Fialho (16-7-0)",
-        "Prelim: Jacob Malkoun (7-2-0) vs. Cody Brundage (8-5-0)"
+        "Prelim: Jacob Malkoun (7-2-0) vs. Cody Brundage (8-5-0)",
+        "Prelim: Jake Collier (13-9-0) vs. Mohammed Usman (9-2-0)",
+        "Prelim: Mizuki Inoue (14-6-0) vs. Hannah Goldy (6-3-0)",
+        "Prelim: Montserrat Rendon (5-0-0) vs. Tamires Vidal (7-1-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/ufc-fight-night-228-fiziev-vs-gamrot-98052",
+        "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Fiziev_vs._Gamrot",
+        "https://events.mixedmartialarts.com/ufc-fight-night:c46eb505-9923-451b-a909-32a3c8ec5ac9",
+        "https://www.ufc.com/event/ufc-fight-night-september-23-2023",
+        "http://www.ufcstats.com/event-details/c945adc22c2bfe8f",
+        "https://www.bestfightodds.com/events/ufc-on-espn-53-2967"
       ]
     }
   },
@@ -79,6 +88,11 @@
         "UFC_FIGHT_PASS": {
         }
       },
+      "fightPass": {
+        "id": 250130,
+        "time": "2023-10-07T23:00:00Z",
+        "title": "UFC FIGHT NIGHT: DAWSON vs GREEN"
+      },
       "dazn": {
         "id": "1oz92w1ybdzxb16eswkwsi45ti",
         "time": "2023-10-07T23:00:00Z",
@@ -89,9 +103,15 @@
     },
     "prelims": {
       "title": "UFC Vegas 80: Prelims",
+      "time": "2023-10-07T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250129,
+        "time": "2023-10-07T20:00:00Z",
+        "title": "UFC FIGHT NIGHT: DAWSON vs GREEN PRELIMS"
       }
     },
     "tapology": {
@@ -114,7 +134,6 @@
         "Prelim: Johnny Munoz Jr. (12-3-0) vs. Aoriqileng (24-11-0)",
         "Prelim: Chris Gutierrez (19-4-2) vs. Montel Jackson (13-2-0)",
         "Prelim: Nate Maness (14-3-0) vs. Mateus Mendonça (10-1-0)",
-        "Prelim: Montana De La Rosa (12-8-1) vs. Stephanie Egger (8-4-0)",
         "Prelim: Karolina Kowalkiewicz (15-7-0) vs. Diana Belbiţă (15-7-0)"
       ]
     }
@@ -127,19 +146,30 @@
     ],
     "mainCard": {
       "title": "UFC Vegas 81: Yusuff vs. Barboza",
-      "time": "2023-10-14T22:00:00Z",
+      "time": "2023-10-14T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250155,
+        "time": "2023-10-14T23:00:00Z",
+        "title": "UFC FIGHT NIGHT: YUSUFF VS BARBOZA"
       }
     },
     "prelims": {
       "title": "UFC Vegas 81: Prelims",
+      "time": "2023-10-14T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250154,
+        "time": "2023-10-14T20:00:00Z",
+        "title": "UFC FIGHT NIGHT: YUSUFF VS BARBOZA PRELIMS"
       }
     },
     "tapology": {
@@ -153,17 +183,15 @@
       ],
       "card": [
         "Main Event: Sodiq Yusuff (13-2-0) vs. Edson Barboza (23-11-0)",
+        "Co-Main Event: Jennifer Maia (21-9-1) vs. Viviane Araujo (11-5-0)",
         "Main Card: Jonathan Martinez (18-4-0) vs. Adrian Yanez (16-4-0)",
-        "Main Card: Jennifer Maia (21-9-1) vs. Viviane Araujo (11-5-0)",
         "Main Card: Michel Pereira (28-11-0) vs. Marc-André Barriault (16-6-0)",
         "Main Card: Christian Rodriguez (9-1-0) vs. Cameron Saaiman (9-0-0)",
         "Prelim: Irina Alekseeva (5-1-0) vs. Melissa Dixon (5-0-0)",
         "Prelim: Ashley Yoder (8-8-0) vs. Emily Ducote (12-8-0)",
-        "Prelim: David Dvořák (20-6-0) vs. Tatsuro Taira (14-0-0)",
-        "Prelim: Tainara Lisboa (6-2-0) vs. Darya Zheleznyakova (8-1-0)",
-        "Prelim: Rani Yahya (28-11-1) vs. Alatengheili Alateng (16-8-2)",
         "Prelim: Darren Elkins (27-11-0) vs. TJ Brown (17-10-0)",
-        "Prelim: Terrance McKinney (14-6-0) vs. Chris Duncan (11-1-0)"
+        "Prelim: Tainara Lisboa (6-2-0) vs. Ravena Oliveira (7-1-1)",
+        "Prelim: Edgar Cháirez (10-5-0) vs. Daniel Lacerda (11-5-0)"
       ]
     }
   },
@@ -178,7 +206,7 @@
     ],
     "mainCard": {
       "title": "UFC 294: Makhachev vs. Oliveira 2",
-      "time": "2023-10-21T14:30:00Z",
+      "time": "2023-10-21T18:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
@@ -188,16 +216,28 @@
     },
     "prelims": {
       "title": "UFC 294: Prelims",
+      "time": "2023-10-21T16:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250274,
+        "time": "2023-10-21T16:00:00Z",
+        "title": "UFC 294: PRELIMS"
       }
     },
     "earlyPrelims": {
       "title": "UFC 294: Early Prelims",
+      "time": "2023-10-21T14:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250272,
+        "time": "2023-10-21T14:00:00Z",
+        "title": "UFC 294: FIGHT PASS PRELIMS"
       }
     },
     "tapology": {
@@ -220,7 +260,9 @@
         "Prelim: Bruno Silva (23-9-0) vs. Sharabutdin Magomedov (11-0-0)",
         "Prelim: Mohammad Yahya (12-3-0) vs. Trevor Peek (8-1-0)",
         "Prelim: Anshul Jubli (7-0-0) vs. Mike Breeden (10-6-0)",
-        "Prelim: Said Nurmagomedov (17-3-0) vs. Muin Gafurov (18-5-0)"
+        "Prelim: Said Nurmagomedov (17-3-0) vs. Muin Gafurov (18-5-0)",
+        "Prelim: Javid Basharat (14-0-0) vs. Victor Henry (23-6-0)",
+        "Prelim: Nathaniel Wood (19-5-0) vs. Muhammad Naimov (9-2-0)"
       ]
     }
   },
@@ -232,19 +274,30 @@
     ],
     "mainCard": {
       "title": "UFC Sao Paulo: Blaydes vs. Almeida",
-      "time": "2023-11-04T22:00:00Z",
+      "time": "2023-11-05T01:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250393,
+        "time": "2023-11-05T01:00:00Z",
+        "title": "UFC FIGHT NIGHT: BLAYDES VS ALMEIDA"
       }
     },
     "prelims": {
       "title": "UFC Sao Paulo: Prelims",
+      "time": "2023-11-04T22:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250392,
+        "time": "2023-11-04T22:00:00Z",
+        "title": "UFC FIGHT NIGHT: BLAYDES VS ALMEIDA PRELIMS"
       }
     },
     "tapology": {
@@ -268,7 +321,8 @@
         "Prelim: Elizeu Zaleski (24-7-0) vs. Rinat Fakhretdinov (22-2-0)",
         "Prelim: Daniel Santos (11-2-0) vs. Daniel Marcos (15-0-0)",
         "Prelim: Ismael Bonfim (19-4-0) vs. Vinc Pichel (14-3-0)",
-        "Prelim: Montserrat Ruiz (10-3-0) vs. Eduarda Moura (9-0-0)"
+        "Prelim: Montserrat Conejo Ruiz (10-3-0) vs. Eduarda Moura (9-0-0)",
+        "Prelim: Lucas Alexander (8-3-0) vs. David Onama (11-2-0)"
       ]
     }
   },
@@ -280,7 +334,7 @@
     ],
     "mainCard": {
       "title": "UFC 295: Jones vs. Miocic",
-      "time": "2023-11-11T23:00:00Z",
+      "time": "2023-11-12T03:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
@@ -290,16 +344,28 @@
     },
     "prelims": {
       "title": "UFC 295: Prelims",
+      "time": "2023-11-12T01:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250487,
+        "time": "2023-11-12T01:00:00Z",
+        "title": "UFC 295: PRELIMS"
       }
     },
     "earlyPrelims": {
       "title": "UFC 295: Early Prelims",
+      "time": "2023-11-11T23:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250486,
+        "time": "2023-11-11T23:00:00Z",
+        "title": "UFC 295: FIGHT PASS PRELIMS"
       }
     },
     "tapology": {
@@ -313,10 +379,14 @@
       ],
       "card": [
         "Main Event: Jon Jones (27-1-0) vs. Stipe Miocic (20-4-0)",
+        "Co-Main Event: Jiří Procházka (29-3-1) vs. Alex Pereira (8-2-0)",
         "Main Card: Jéssica Andrade (24-12-0) vs. Mackenzie Dern (13-3-0)",
         "Prelim: Joshua Van (8-1-0) vs. Kevin Borjas (9-1-0)",
         "Prelim: Matt Schnell (16-8-0) vs. Steve Erceg (10-1-0)",
-        "Prelim: Jared Gordon (19-6-0) vs. Mark Madsen (12-1-0)"
+        "Prelim: Jared Gordon (19-6-0) vs. Mark Madsen (12-1-0)",
+        "Prelim: Pat Sabatini (18-4-0) vs. Diego Lopes (22-6-0)",
+        "Prelim: Mateusz Rębecki (18-1-0) vs. Nurullo Aliev (9-0-0)",
+        "Prelim: Dennis Buzukja (11-3-0) vs. Jamall Emmers (19-7-0)"
       ]
     }
   },
@@ -328,19 +398,30 @@
     ],
     "mainCard": {
       "title": "UFC Vegas 82: Allen vs. Craig",
-      "time": "2023-11-18T23:00:00Z",
+      "time": "2023-11-18T22:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250590,
+        "time": "2023-11-18T22:00:00Z",
+        "title": "UFC FIGHT NIGHT: ALLEN VS CRAIG"
       }
     },
     "prelims": {
       "title": "UFC Vegas 82: Prelims",
+      "time": "2023-11-18T19:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 250589,
+        "time": "2023-11-18T19:00:00Z",
+        "title": "UFC FIGHT NIGHT: ALLEN VS CRAIG PRELIMS"
       }
     },
     "tapology": {
@@ -355,13 +436,14 @@
       "card": [
         "Main Event: Brendan Allen (22-5-0) vs. Paul Craig (17-6-1)",
         "Main Card: Amanda Ribas (11-4-0) vs. Luana Pinheiro (11-1-0)",
-        "Prelim: Darrius Flowers (12-6-1) vs. Ottman Azaitar (13-2-0)",
         "Prelim: Jordan Leavitt (11-2-0) vs. Chase Hooper (12-3-1)",
         "Prelim: Kyung Ho Kang (19-9-0) vs. John Castañeda (20-6-0)",
         "Prelim: César Almeida (4-0-0) vs. Christian Leroy Duncan (8-1-0)",
         "Prelim: Payton Talbott (6-0-0) vs. Nick Aguirre (7-1-0)",
         "Prelim: Nikolas Motta (13-5-0) vs. Trey Ogden (16-6-0)",
-        "Prelim: Lucie Pudilová (14-8-0) vs. Ailin Perez (8-2-0)"
+        "Prelim: Lucie Pudilová (14-8-0) vs. Ailin Perez (8-2-0)",
+        "Prelim: Mick Parkin (7-0-0) vs. Caio Machado (8-1-1)",
+        "Prelim: Christian Leroy Duncan (8-1-0) vs. César Almeida (4-0-0)"
       ]
     }
   },
@@ -399,8 +481,15 @@
       "id": 104486,
       "time": "2023-12-02T23:00:00Z",
       "title": "UFC Fight Night",
-      "info": "Rumored Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/104486-ufc-fight-night"
+      "info": "Rumored Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/104486-ufc-fight-night",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Miesha Tate (19-9-0) vs. Julia Avila (9-2-0)",
+        "Prelim: Jamey-Lyn Horth (6-0-0) vs. Veronica Hardy (7-4-1)"
+      ]
     }
   },
   {
@@ -480,9 +569,16 @@
     "tapology": {
       "id": 101868,
       "time": "2023-12-16T23:00:00Z",
-      "title": "UFC",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/101868-ufc"
+      "title": "UFC 296: Edwards vs. Covington",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/101868-ufc",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Leon Edwards (21-3-0) vs. Colby Covington (17-3-0)",
+        "Co-Main Event: Alexandre Pantoja (26-5-0) vs. Brandon Royval (15-6-0)"
+      ]
     }
   }
 ]

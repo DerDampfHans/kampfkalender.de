@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230916T110510Z
-X-KAMPFKALENDER-HASH:51fa7c62dffee7fc7539b78a58d120aa8d8d8694
+DTSTAMP:20230922T071159Z
+X-KAMPFKALENDER-HASH:bc10118482aa4976e850862253009137c0f579ab
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-10-anthony-pettis-fc-8-manchester-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Anthony Pettis FC 8: Manchester Fight Night
@@ -29,7 +29,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)\nPrelim: Daniel Holt (2-2-0) vs. Jack Grundy (4-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T110511Z
+DTSTAMP:20230922T071200Z
 UID:2023-11-anthony-pettis-fc-9-milwaukee-fight-night-iii@kampfkalender.d
  e
 ORGANIZER:mailto:info@kampfkalender.de
@@ -38,6 +38,8 @@ DTSTART:20231119T200000Z
 DTEND:20231119T230000Z
 CATEGORIES:APFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/105198-anthony-pettis-fc-9-milwaukee-fight-night-iii
+ nter/events/105198-anthony-pettis-fc-9-milwaukee-fight-night-iii\nhttps:
+ //events.mixedmartialarts.com/anthony-pettis-fc-9:30a53c60-d2d8-4ecd-860
+ d-7d436e95f2e4
 END:VEVENT
 END:VCALENDAR
