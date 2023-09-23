@@ -364,5 +364,67 @@
         }
       }
     }
+  },
+  {
+    "id": "nfc-2023-09-16",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Essen",
+      "#NFC15"
+    ],
+    "links": [
+      "https://fighting.de/nfc-15/"
+    ],
+    "mainCard": {
+      "title": "NFC 15: Zendeli vs. Holodenko",
+      "time": "2023-09-23T17:00:00Z",
+      "until": "2023-09-23T12:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=0WxI1smapq8"
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 15: Free Prelims",
+      "time": "2023-09-23T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=eD5wAqqdjd0",
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 94582,
+      "time": "2023-09-23T16:00:00Z",
+      "title": "NFC 15",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94582-nfc-15",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Florim Zendeli (6-1-1) vs. Wladimir Holodenko (4-1-2)",
+        "Co-Main Event: Maurice Adorf (6-1-0) vs. Lasha Abramishvili (5-2-1)",
+        "Main Card: David Balevski (2-0-0) vs. Simon Schuster (3-1-0)",
+        "Main Card: Chequina Noso Pedro (6-3-0) vs. Lukas Cruz (10-2-0)",
+        "Main Card: Danial Aghaie (3-1-0) vs. Benny Bajrami (5-2-0)",
+        "Prelim: David Piechaczek (1-0-0) vs. Malik Misaev (0-1-0)",
+        "Prelim: A. Chatzigeorgiadis (2-2-1) vs. Meysam Agharezaei (1-1-0)",
+        "Prelim: Timo Ernst (1-0-0) vs. Masoud Sadeqpoor (1-1-0)",
+        "Prelim: Gianni Massafra (2-1-0) vs. Tobias Balzer (3-2-0)",
+        "Prelim: Davlet Karataev (4-1-0) vs. Zabiullah Mubarez (2-1-0)",
+        "Main Card: Tomasz Łangowski (6-3-0) vs. Wahid Najand (6-2-0)",
+        "Main Card: Deni Mirnić (2-3-0) vs. Yusup Magomedov (0-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/nfc-15-national-fighting-championship-96825",
+        "https://events.mixedmartialarts.com/nfc-15:cbef24b1-645b-4c1b-9893-9175e2c5600d"
+      ]
+    }
   }
 ]
