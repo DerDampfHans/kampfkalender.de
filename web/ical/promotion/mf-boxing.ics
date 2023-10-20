@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231007T220305Z
-X-KAMPFKALENDER-HASH:5ef93e151f8e6d8c6a69e43ec218119ea647ffe7
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:82134d4e19c1135c93569318a51b5a76ebeb8a61
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-10-mf-dazn-x-series-the-prime-card@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series: The Prime Card
@@ -25,7 +25,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  : Sam Gumbley (0-0-0) vs. Deji Araoye (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-11-mf-dazn-x-series-12@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 12
@@ -36,7 +36,18 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/98254-mf-dazn-x-series-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
+UID:2023-11-mf-dazn-x-series-11@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:MF & DAZN X Series 11
+DTSTART:20231117T180000Z
+DTEND:20231117T210000Z
+CATEGORIES:MF,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/106145-mf-dazn-x-series-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
 UID:2023-12-mf-dazn-x-series-13@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:MF & DAZN X Series 13
@@ -44,7 +55,6 @@ DTSTART:20231216T180000Z
 DTEND:20231216T210000Z
 CATEGORIES:MF,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/98255-mf-dazn-x-series-13\n\n---\n\nMain Card: Olajide Olatunji (1-0-0
- ) vs. Jake Paul (6-1-0)
+ s/98255-mf-dazn-x-series-13
 END:VEVENT
 END:VCALENDAR

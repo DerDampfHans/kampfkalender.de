@@ -4,10 +4,26 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230922T071159Z
-X-KAMPFKALENDER-HASH:4ad2a1f91e04673783285ddec4f871af9cbbf17a
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:bed56b022432479dd07ef70eb857842786e2bc26
 BEGIN:VEVENT
-DTSTAMP:20230922T071200Z
+DTSTAMP:20231020T151658Z
+UID:2023-11-fcr-18-touma-vs-vidovic@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:FCR 18: Touma vs. Vidovic
+DTSTART:20231125T170000Z
+DTEND:20231125T200000Z
+CATEGORIES:FCR,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/105891-fcr-18-touma-vs-vidovic\n\n---\n\nMain Card: Jonny To
+ uma (5-2-0) vs. Renato Vidovic (4-1-0)\nMain Card: Wasi Adeshina (5-3-0)
+  vs. Waltteri Hakkinen (3-0-0)\nMain Card: A. Gustafsson (9-2-0) vs. Dom
+ inic Schober (13-10-0)\nMain Card: Toni Lampinen (8-6-0) vs. Christian S
+ tigenberg (4-2-0)\nMain Card: Safiullah Husseini (3-2-0) vs. Kevin Osori
+ o (1-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
 UID:2023-11-fight-club-rush-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fight Club Rush 17

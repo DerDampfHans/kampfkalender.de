@@ -4,6 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230923T220304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:ab0430814c9a306c4910b904c41b718761507f1a
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
+UID:2023-11-karate-combat-42@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Karate Combat 42
+DTSTART:20231103T230000Z
+DTEND:20231104T020000Z
+CATEGORIES:KC,Karate,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/105961-karate-combat-42\n\n---\n\nMain Event: Luiz Rocha vs. Edgars
+  Skrīvers\nCo-Main Event: Sthefanie Oliveira vs. Christina Kavakopoulou\
+ nMain Card: Jorge Perez vs. Jo Miyahara\nMain Card: Bruno Roberto de Ass
+ is vs. Tim Ha\nMain Card: Lazar Kukuličić vs. Artur Gasanov
+END:VEVENT
 END:VCALENDAR

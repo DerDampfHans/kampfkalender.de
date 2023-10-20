@@ -1,5 +1,94 @@
 [
   {
+    "id": "tapology-103960",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "title": "BKFC 52: Barnett vs. Richardson",
+      "time": "2023-10-21T00:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=OnB2-RwJruw"
+        },
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-52/2pdrw/"
+        }
+      },
+      "fite": {
+        "id": "2pdrw",
+        "time": "2023-10-21T01:00:00Z",
+        "title": "BKFC 52 South Carolina: Reginald Barnett, Jr. vs Keith Richardson",
+        "url": "https://www.fite.tv/watch/bkfc-52/2pdrw/",
+        "price": "FITE+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      },
+      "youTube": {
+        "id": "OnB2-RwJruw",
+        "time": "2023-10-21T00:00:00Z",
+        "title": "BKFC 52 Full PPV Event | Live!",
+        "url": "https://www.youtube.com/watch?v=OnB2-RwJruw"
+      }
+    },
+    "prelims": {
+      "title": "BKFC 52: Barnett vs. Richardson: Prelims",
+      "time": "2023-10-20T23:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=yMWHPBg36eE",
+          "free": true
+        },
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-52-prelims/2pdvv/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pdvv",
+        "time": "2023-10-21T00:00:00Z",
+        "title": "BKFC 52 South Carolina: Prelims",
+        "url": "https://www.fite.tv/watch/bkfc-52-prelims/2pdvv/",
+        "price": "FREE",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
+      },
+      "youTube": {
+        "id": "yMWHPBg36eE",
+        "time": "2023-10-20T23:00:00Z",
+        "title": "BKFC 52 SOUTH CAROLINA Free Prelims & Countdown Show",
+        "url": "https://www.youtube.com/watch?v=yMWHPBg36eE"
+      }
+    },
+    "tapology": {
+      "id": 103960,
+      "time": "2023-10-21T00:00:00Z",
+      "title": "BKFC 52: Barnett vs. Richardson",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/103960-bkfc-52",
+      "card": [
+        "Main Event: Reginald Barnett, Jr. vs. Keith Richardson",
+        "Co-Main Event: Tony Soto vs. Kevin Croom",
+        "Main Card: Jeremie Holloway vs. Cameron VanCamp",
+        "Main Card: Jeremiah Scott vs. Chevvy Bridges",
+        "Main Card: Brandon Bushaw vs. Joshua Marer",
+        "Main Card: Samuel Samples vs. Derek Perez",
+        "Main Card: Trukon Carson vs. Daishaun Middleton",
+        "Prelim: Solon Staley vs. Darrick Gates",
+        "Prelim: Trevor Loken vs. Joao Guerra",
+        "Prelim: Miach Lail vs. Daniel Cooper"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-52:f6b086b0-b2a6-4e5e-bab2-706bf05d324f"
+      ]
+    }
+  },
+  {
     "id": "tapology-105360",
     "promotion": "BKFC",
     "sports": [
@@ -28,7 +117,17 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/105360-bkfc-53-mundell-vs-coltrane",
       "card": [
-        "Main Event: David Mundell vs. Doug Coltrane"
+        "Main Event: David Mundell vs. Doug Coltrane",
+        "Co-Main Event: Murat Kazgan vs. Julian Lane",
+        "Main Card: Diego Romo vs. Ravon Baxter",
+        "Main Card: Nathan Rivera vs. Jaymes Hyder",
+        "Main Card: Ja'Far Fortt vs. James Dennis",
+        "Main Card: Dagoberto Aguero vs. Chance Wilson",
+        "Main Card: Crystal Pittman vs. Jordan Raulston",
+        "Main Card: Jeff Janvier vs. Devonte Jeffery",
+        "Prelim: Jonathan Miller vs. Sawyer Depee",
+        "Prelim: Mike Heckert vs. Scott Lampert",
+        "Prelim: Dany Gonzalez vs. Justin Watson"
       ]
     }
   },
@@ -110,6 +209,77 @@
         "Prelim: Angel Petkov vs. Nikola Arsov",
         "Prelim: Martin Stoichkov vs. Felipe Maia",
         "Prelim: Zdravko Dimitrov vs. Tomas Vojtela"
+      ]
+    }
+  },
+  {
+    "id": "tapology-105495",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "title": "BKFC 55: Christie vs. Warren",
+      "time": "2023-11-18T18:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 55: Christie vs. Warren: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 105495,
+      "time": "2023-11-18T18:00:00Z",
+      "title": "BKFC 55: Christie vs. Warren",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/105495-bkfc-55-christie-vs-warren",
+      "card": [
+        "Main Event: Danny Christie vs. Jared Warren"
+      ]
+    }
+  },
+  {
+    "id": "tapology-105838",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "title": "BKFC 56: Perry vs. Alvarez",
+      "time": "2023-12-03T01:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 56: Perry vs. Alvarez: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 105838,
+      "time": "2023-12-03T01:00:00Z",
+      "title": "BKFC 56: Perry vs. Alvarez",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/105838-bkfc-56",
+      "card": [
+        "Main Event: Eddie Alvarez vs. Mike Perry",
+        "Co-Main Event: Ben Rothwell vs. Todd Duffee",
+        "Main Card: Jimmie Rivera vs. Jeremy Stephens",
+        "Main Card: Bec Rawlings vs. Christine Ferea",
+        "Main Card: Kai Stewart vs. Howard Davis",
+        "Main Card: Arnold Adams vs. Mick Terrill"
       ]
     }
   }

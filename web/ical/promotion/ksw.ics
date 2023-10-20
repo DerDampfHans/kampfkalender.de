@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230923T220304Z
-X-KAMPFKALENDER-HASH:46f1e19019496809c9544bdc0dfd5514b821886e
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:7c610e36b0b4e099af767ff80b0c2559d8d72ca8
 BEGIN:VEVENT
-DTSTAMP:20230923T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-10-ksw-87-martinek-vs-stosic@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 87: Martínek vs. Stošić
@@ -25,7 +25,7 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  2-1-0) vs. Tobiasz Le (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230923T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-11-ksw-88-bitwa-o-radom@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 88: Bitwa o Radom
@@ -36,6 +36,48 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  events/105211-ksw-88-bitwa-o-radom\n\n---\n\nMain Event: Daniel Rutkowsk
  i (16-3-0) vs. Patryk Kaczmarczyk (10-2-0)\nMain Card: Kamil Gawryjołek 
  (5-0-0) vs. Stefan Vojcak (6-1-0)\nMain Card: Anita Bekus (7-3-0) vs. Ma
- ria Silva (9-1-0)
+ ria Silva (9-1-0)\nMain Card: Albert Odzimkowski (13-7-0) vs. Nemanja Ni
+ kolić (9-1-1)\nMain Card: Bartosz Leśko (13-3-2) vs. Piotr Kuberski (12-
+ 1-0)\nMain Card: Marcin Wójcik (18-8-0) vs. Luis Henrique da Silva (19-9
+ -0)\nMain Card: Danu Tărchilă (6-2-0) vs. Ramzan Jembiev (4-1-0)\nPrelim
+ : Jacek Gać (2-0-0) vs. Jivko Stoimenov (14-6-0)\nPrelim: Krystian Biels
+ ki (9-5-0) vs. Andi Vrtačić (4-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
+UID:2023-12-ksw-89-bartosinski-vs-parnasse@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 89: Bartosiński vs. Parnasse
+DTSTART:20231216T180000Z
+DTEND:20231216T210000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/105741-ksw-89\n\n---\n\nMain Event: Adrian Bartosiński (14-0-0) v
+ s. Salahdine Parnasse (18-1-0)\nMain Card: Andrzej Grzebyk (20-6-0) vs. 
+ Madars Fleminas (12-4-0)\nMain Card: Marcin Held (28-9-0) vs. Raul Tutar
+ auli (32-7-0)\nMain Card: Szymon Bajor (24-10-0) vs. Viktor Pešta (19-8-
+ 0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
+UID:2024-01-ksw-90@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 90
+DTSTART:20240120T180000Z
+DTEND:20240120T210000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/106205-ksw-90
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
+UID:2024-02-ksw-91@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 91
+DTSTART:20240217T180000Z
+DTEND:20240217T210000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/106206-ksw-91
 END:VEVENT
 END:VCALENDAR

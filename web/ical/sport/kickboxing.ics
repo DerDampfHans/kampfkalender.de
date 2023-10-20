@@ -4,10 +4,22 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231014T220304Z
-X-KAMPFKALENDER-HASH:fda1592c7d831d2f892311ef7e7da4890d7ed7ba
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:0703222b9a3676a6e55fc599c94d17ad76dcaece
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231020T151658Z
+UID:2023-10-kok-world-series-liptovsky-mikulas@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KOK World Series: Liptovsky Mikulas
+DTSTART:20231028T160000Z
+DTEND:20231028T190000Z
+CATEGORIES:KOK,Kickboxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/105101-kok\n\n---\n\nMain Card: Sebastian Molek vs. Dávid Margitai\nMa
+ in Card: Ivan Bartek vs. Chahid Chaquibi
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
 UID:2023-11-one-fight-night-16-haggerty-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 16: Haggerty vs. Andrade
@@ -19,7 +31,27 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
   Jonathan Haggerty vs. Fabricio de Andrade
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231020T151658Z
+UID:2023-11-glory-collision-6-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory: Collision 6: Prelims
+DTSTART:20231104T150000Z
+DTEND:20231104T190000Z
+CATEGORIES:Glory,Kickboxen,YouTube,fighting.de,glory.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnIfCauNJaE\nvia
+  fighting.de: https://www.youtube.com/watch?v=LnIfCauNJaE\nvia glory.tv\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/104485-glory-colli
+ sion-6\n\n---\n\nMain Event: Rico Verhoeven vs. Kevin Tariq Osaro\nCo-Ma
+ in Event: Donegi Abena vs. Tarik Khbabez\nMain Card: Donovan Wisse vs. M
+ ichael Boapeah\nMain Card: Mohamed Mezouari vs. Diaguely Camara\nMain Ca
+ rd: Serkan Özçağlayan vs. Ulric Bokeme\nMain Card: Jay Overmeer vs. Chic
+ o Kwasi\nMain Card: Ibrahim El Bouni vs. Ștefan Lătescu\nMain Card: Abra
+ ham Vidales vs. Ahmad Chikh Mousa\nMain Card: Ivan Galaz vs. Iliass Hamm
+ ouche\nPrelim: Don Sno vs. Andrija Stankovic\nPrelim: Robin Ciric vs. Is
+ mael Ouzgni\nPrelim: Figuereido Landman vs. S. Abdelkhalek
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
 UID:2023-11-oktagon-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 48
@@ -27,28 +59,37 @@ DTSTART:20231104T150000Z
 DTEND:20231104T180000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/100811-oktagon\n\n---\n\nMain Card: James Lewis (8-5-0) vs. Nikl
- as Stolze (12-6-0)\nMain Card: Jaroslav Pokorný (16-10-0) vs. Shem Rock 
- (9-1-1)\nMain Card: Jakub Bahník (9-4-0) vs. Akonne Wanliss (7-2-0)\nMai
- n Card: Lee Chadwick (28-18-1) vs. Radovan Úškrt (8-4-0)\nMain Card: Ant
- un Račić (27-11-1) vs. Jack Cartwright (10-1-0)\nMain Card: Alex Lohoré 
- (23-9-0) vs. Ion Surdu (13-5-0)
+ /events/100811-oktagon\n\n---\n\nMain Event: Aaron Aby (15-7-1) vs. Elia
+ s Garcia (9-2-0)\nCo-Main Event: Jake Quickenden (0-0-0) vs. Paul Smith 
+ (0-0-0)\nMain Card: James Lewis (8-5-0) vs. Niklas Stolze (12-6-0)\nMain
+  Card: Jaroslav Pokorný (16-10-0) vs. Shem Rock (9-1-1)\nMain Card: Jaku
+ b Bahník (9-4-0) vs. Akonne Wanliss (7-2-0)\nMain Card: Lee Chadwick (28
+ -18-1) vs. Radovan Úškrt (8-4-0)\nMain Card: Antun Račić (27-11-1) vs. J
+ ack Cartwright (10-1-0)\nMain Card: Alex Lohoré (23-9-0) vs. Ion Surdu (
+ 13-5-0)\nMain Card: Stuart Austin (17-8-0) vs. Przemysław Mysiala (24-12
+ -1)\nMain Card: Scott Askham (19-6-0) vs. Marc Doussis (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-11-glory-collision-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6
 DTSTART:20231104T190000Z
 DTEND:20231104T220000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/104485-glory-collision-6\n\n---\n\nMain Card: Ric
- o Verhoeven vs. Kevin Tariq Osaro\nMain Card: Donegi Abena vs. Tarik Khb
- abez\nMain Card: Abraham Vidales vs. Ahmad Chikh Mousa
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/104485-glory-collision-6\n\n---\n\nMain Event: Rico Verhoeven vs. 
+ Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Tarik Khbabez\nMain C
+ ard: Donovan Wisse vs. Michael Boapeah\nMain Card: Mohamed Mezouari vs. 
+ Diaguely Camara\nMain Card: Serkan Özçağlayan vs. Ulric Bokeme\nMain Car
+ d: Jay Overmeer vs. Chico Kwasi\nMain Card: Ibrahim El Bouni vs. Ștefan 
+ Lătescu\nMain Card: Abraham Vidales vs. Ahmad Chikh Mousa\nMain Card: Iv
+ an Galaz vs. Iliass Hammouche\nPrelim: Don Sno vs. Andrija Stankovic\nPr
+ elim: Robin Ciric vs. Ismael Ouzgni\nPrelim: Figuereido Landman vs. S. A
+ bdelkhalek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-11-oktagon-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 49
@@ -58,10 +99,12 @@ CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/102329-oktagon-49\n\n---\n\nMain Card: Hatef Moeil (14-4-0) vs. 
  Lazar Todev (9-5-0)\nMain Card: Daniel Škvor (6-3-0) vs. Marc Doussis (9
- -2-0)
+ -2-0)\nMain Card: Christian Eckerlin (15-5-0) vs. Leandro Silva (27-11-1
+ )\nMain Card: Deniz Ilbay (5-0-0) vs. Corey Fry (4-1-0)\nMain Card: Andr
+ ej Kalašnik (10-4-0) vs. Niklas Stolze (12-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-12-one-fight-night-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 17
@@ -72,7 +115,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/105261-one-fight-night-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-12-oktagon-50@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 50
@@ -80,7 +123,10 @@ DTSTART:20231209T120000Z
 DTEND:20231209T150000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/98887-oktagon\n\n---\n\nMain Card: Vladimír Lengál (6-2-0) vs. S
- amuel Bark (8-2-0)
+ /events/98887-oktagon\n\n---\n\nMain Event: Losene Keita (11-1-0) vs. Ni
+ ko Samsonidse (10-2-0)\nCo-Main Event: Ronald Paradeiser (17-8-0) vs. Iv
+ an Buchinger (41-8-0)\nMain Card: Vladimír Lengál (6-2-0) vs. Samuel Bar
+ k (8-2-0)\nMain Card: Matěj Kuzník (18-8-0) vs. Ebrahim Hosseinpour (7-7
+ -0)\nMain Card: Marek Bartl (11-12-0) vs. James Lewis (8-5-0)
 END:VEVENT
 END:VCALENDAR

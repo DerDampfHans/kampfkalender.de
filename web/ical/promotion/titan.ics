@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230922T071159Z
-X-KAMPFKALENDER-HASH:7d4b4cf7adcfe03cff03e94984f4dd869f8c3e6d
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:7ccb5cdb34bd1383a8783ca382310c6645e59f07
 BEGIN:VEVENT
-DTSTAMP:20230922T071200Z
+DTSTAMP:20231020T151658Z
 UID:2023-10-titan-fc-84@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Titan FC 84
@@ -15,5 +15,20 @@ DTSTART:20231014T000000Z
 DTEND:20231014T030000Z
 CATEGORIES:TFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
+UID:2024-10-titan-fc-84@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Titan FC 84
+DTSTART:20241014T000000Z
+DTEND:20241014T030000Z
+CATEGORIES:TFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/105794-titan-fc-84\n\n---\n\nMain Card: Glaico França (23-8-
+ 0) vs. Robert Hale (14-7-0)\nMain Card: Abdiel Velazquez (9-8-0) vs. Jos
+ h Smith (12-9-0)\nMain Card: Christian Ynastrilla (10-4-0) vs. Jesse Taf
+ oya (6-5-0)\nMain Card: Victor Guarriello (4-2-0) vs. Jarret Betancourt 
+ (4-0-0)
 END:VEVENT
 END:VCALENDAR

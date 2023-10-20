@@ -4,19 +4,45 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231014T220304Z
-X-KAMPFKALENDER-HASH:5296494669a21dd915c5585d8b7d122ac62e1cdc
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:d7e9642030919b260ee3a94377ae1fe935029218
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231020T151658Z
+UID:2023-11-glory-collision-6-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Glory: Collision 6: Prelims
+DTSTART:20231104T150000Z
+DTEND:20231104T190000Z
+CATEGORIES:Glory,Kickboxen,YouTube,fighting.de,glory.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnIfCauNJaE\nvia
+  fighting.de: https://www.youtube.com/watch?v=LnIfCauNJaE\nvia glory.tv\
+ n\n---\n\nhttps://www.tapology.com/fightcenter/events/104485-glory-colli
+ sion-6\n\n---\n\nMain Event: Rico Verhoeven vs. Kevin Tariq Osaro\nCo-Ma
+ in Event: Donegi Abena vs. Tarik Khbabez\nMain Card: Donovan Wisse vs. M
+ ichael Boapeah\nMain Card: Mohamed Mezouari vs. Diaguely Camara\nMain Ca
+ rd: Serkan Özçağlayan vs. Ulric Bokeme\nMain Card: Jay Overmeer vs. Chic
+ o Kwasi\nMain Card: Ibrahim El Bouni vs. Ștefan Lătescu\nMain Card: Abra
+ ham Vidales vs. Ahmad Chikh Mousa\nMain Card: Ivan Galaz vs. Iliass Hamm
+ ouche\nPrelim: Don Sno vs. Andrija Stankovic\nPrelim: Robin Ciric vs. Is
+ mael Ouzgni\nPrelim: Figuereido Landman vs. S. Abdelkhalek
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
 UID:2023-11-glory-collision-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6
 DTSTART:20231104T190000Z
 DTEND:20231104T220000Z
-CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
-DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
- com/fightcenter/events/104485-glory-collision-6\n\n---\n\nMain Card: Ric
- o Verhoeven vs. Kevin Tariq Osaro\nMain Card: Donegi Abena vs. Tarik Khb
- abez\nMain Card: Abraham Vidales vs. Ahmad Chikh Mousa
+CATEGORIES:Glory,Kickboxen,glory.tv,live
+DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
+ vents/104485-glory-collision-6\n\n---\n\nMain Event: Rico Verhoeven vs. 
+ Kevin Tariq Osaro\nCo-Main Event: Donegi Abena vs. Tarik Khbabez\nMain C
+ ard: Donovan Wisse vs. Michael Boapeah\nMain Card: Mohamed Mezouari vs. 
+ Diaguely Camara\nMain Card: Serkan Özçağlayan vs. Ulric Bokeme\nMain Car
+ d: Jay Overmeer vs. Chico Kwasi\nMain Card: Ibrahim El Bouni vs. Ștefan 
+ Lătescu\nMain Card: Abraham Vidales vs. Ahmad Chikh Mousa\nMain Card: Iv
+ an Galaz vs. Iliass Hammouche\nPrelim: Don Sno vs. Andrija Stankovic\nPr
+ elim: Robin Ciric vs. Ismael Ouzgni\nPrelim: Figuereido Landman vs. S. A
+ bdelkhalek
 END:VEVENT
 END:VCALENDAR

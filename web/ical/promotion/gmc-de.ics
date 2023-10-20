@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20230923T220304Z
-X-KAMPFKALENDER-HASH:21cfcd81e246a6d69f73465f2b9cd469f427edf3
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:de9fc09b24c48ca44844e0335d4279f35b529999
 BEGIN:VEVENT
-DTSTAMP:20230923T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-10-gmc-35@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 35
@@ -26,7 +26,18 @@ DESCRIPTION:via gmc.tv: https://german-mma.de/stream/TEp4-hfYG9DQ6PnLbly_
  (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230923T220305Z
+DTSTAMP:20231020T151658Z
+UID:2023-10-gmc-olympix-139@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC OlympiX 139
+DTSTART:20231021T150000Z
+DTEND:20231021T180000Z
+CATEGORIES:GMC,MMA,YouTube,gmc.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=fCG7ZZ0Qbaw\nvia
+  gmc.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
 UID:2023-12-gmc-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:GMC 36
@@ -35,6 +46,7 @@ DTEND:20231216T200000Z
 CATEGORIES:GMC,MMA,gmc.tv,live
 DESCRIPTION:via gmc.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/eve
  nts/104736-gmc-36\n\n---\n\nMain Event: Alexander Wesner (9-5-0) vs. Gui
- lherme Cadena (32-23-0)
+ lherme Cadena (32-23-0)\nMain Card: Anatolij Baal (10-3-1) vs. Amaury Ju
+ nior (15-11-0)
 END:VEVENT
 END:VCALENDAR

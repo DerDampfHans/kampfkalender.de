@@ -1,5 +1,30 @@
 [
   {
+    "id": "olympix-2023-10-21",
+    "promotion": "GMC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "GMC OlympiX 139",
+      "time": "2023-10-21T15:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=fCG7ZZ0Qbaw",
+          "free": true
+        },
+        "GMC_TV": {
+        }
+      },
+      "youTube": {
+        "id": "fCG7ZZ0Qbaw",
+        "time": "2023-10-21T15:00:00Z",
+        "title": "FREE: GMC OlympiX 139 - K1| MMA | Boxen | 21. OKT 17:00 UHR |  LIVE 🔴",
+        "url": "https://www.youtube.com/watch?v=fCG7ZZ0Qbaw"
+      }
+    }
+  },
+  {
     "id": "tapology-104736",
     "promotion": "GMC_DE",
     "sports": [
@@ -23,7 +48,8 @@
         "MMA"
       ],
       "card": [
-        "Main Event: Alexander Wesner (9-5-0) vs. Guilherme Cadena (32-23-0)"
+        "Main Event: Alexander Wesner (9-5-0) vs. Guilherme Cadena (32-23-0)",
+        "Main Card: Anatolij Baal (10-3-1) vs. Amaury Junior (15-11-0)"
       ]
     }
   }

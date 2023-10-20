@@ -6,12 +6,18 @@
       "KICKBOXING"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "KOK",
+      "title": "KOK World Series: Liptovsky Mikulas",
       "time": "2023-10-28T16:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "1ndl50s2o8lsf12vhn5np51h3r",
+        "time": "2023-10-28T16:00:00Z",
+        "title": "KOK World Series: Liptovsky Mikulas",
+        "sport": "MMA",
+        "competition": "King of Kings (KOK)"
       }
     },
     "tapology": {
@@ -48,9 +54,16 @@
     "tapology": {
       "id": 105039,
       "time": "2023-11-18T17:00:00Z",
-      "title": "KOK Mega Series: Hero's",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/105039-kok-mega-series-hero-s"
+      "title": "KOK 117: Mega Series Hero's",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/105039-kok-mega-series-hero-s",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Raimondas Krilavičius (7-3-1) vs. Rodrigo Mineiro (0-1-0)",
+        "Main Card: Tomas Pakutinskas (22-16-3) vs. Arya Sheiky (0-0-1)"
+      ]
     }
   }
 ]

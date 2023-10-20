@@ -6,9 +6,19 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
-      "title": "Serrano vs. Ramos: MVP Most Valuable Prospects",
-      "time": "2023-10-28T01:00:00Z"
+      "title": "Serrano vs. Ramos",
+      "time": "2023-10-28T01:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "16a0t3trkgm5713vyocz4v9m0n",
+        "time": "2023-10-28T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Serrano vs Ramos"
+      }
     },
     "tapology": {
       "id": 104874,
@@ -20,7 +30,17 @@
         "BOXING"
       ],
       "card": [
-        "Main Card: Amanda Serrano (45-2-1) vs. Danila Ramos (12-2-0)"
+        "Main Card: Amanda Serrano (45-2-1) vs. Danila Ramos (12-2-0)",
+        "Main Card: Hernan Marquez (47-10-2) vs. Antonio Vargas (16-1-0)",
+        "Main Card: Alexander Rios-Vega (7-0-0) vs. Benigno Aguilar (10-0-0)",
+        "Main Card: Kevin Nunez (3-1-0) vs. Carlos Lebron (1-1-0)",
+        "Main Card: Damian Lescaille (5-0-0) vs. V. Santillán (11-6-2)",
+        "Main Card: Damazion Vanhouter (4-0-0) vs. Nafys Anas (4-0-0)",
+        "Main Card: Krystal Rosado-Ortiz (1-0-0) vs. Kata Pap (0-0-0)",
+        "Main Card: Angel Chavez (8-0-0) vs. Ulises Jimenez (22-32-1)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/880219"
       ]
     }
   }

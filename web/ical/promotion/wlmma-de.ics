@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231007T220305Z
-X-KAMPFKALENDER-HASH:75b4d76fbdb241ff1c0e763fae6d6a0cb02b839b
+DTSTAMP:20231020T151657Z
+X-KAMPFKALENDER-HASH:14019c5d969378edae20d96738c276323c5b2a0a
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-10-we-love-mma-67@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 67
@@ -17,10 +17,14 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-67/\nhttps://www.tapology.co
  m/fightcenter/events/102643-we-love-mma-67\n\n---\n\nMain Event: Ali Sar
  wari (6-4-0) vs. Rene Runge (12-5-1)\nMain Card: Sebastian Stallinger (0
- -0-0) vs. Jörn Bayer (0-1-0)
+ -0-0) vs. Jörn Bayer (0-1-0)\nMain Card: Amir Shah Bayat (5-2-1) vs. Oem
+ er Cankardesler (12-14-2)\nMain Card: Sammy N'Dungu (0-1-0) vs. Sebastia
+ n Mandlinger (0-0-0)\nMain Card: Robert Dmitrus (1-2-0) vs. Mahmut Özyil
+ dirim (0-1-0)\nMain Card: Ilyas Gadaev (0-0-0) vs. Jonas Wolz (0-0-0)\nP
+ relim: Belmin Pacavar (0-0-0) vs. Jalal Kilorbegi (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-11-we-love-mma-68@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 68
@@ -31,7 +35,7 @@ DESCRIPTION:https://welovemma.de/we-love-mma-68/\nhttps://www.tapology.co
  m/fightcenter/events/102645-we-love-mma-68
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2023-12-we-love-mma-69@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 69
@@ -42,7 +46,7 @@ DESCRIPTION:https://welovemma.de/we-love-mma-69/\nhttps://www.tapology.co
  m/fightcenter/events/102646-we-love-mma-70
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2024-03-we-love-mma-71@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 71
@@ -52,7 +56,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-71/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2024-04-we-love-mma-72@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 72
@@ -62,7 +66,7 @@ CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-hannover-2024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231007T220305Z
+DTSTAMP:20231020T151658Z
 UID:2024-06-we-love-mma-74@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:We Love MMA 74
@@ -70,5 +74,15 @@ DTSTART:20240622T170000Z
 DTEND:20240622T200000Z
 CATEGORIES:WLMMA,MMA,live
 DESCRIPTION:https://welovemma.de/we-love-mma-74/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231020T151658Z
+UID:2024-09-we-love-mma-75@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:We Love MMA 75
+DTSTART:20240928T170000Z
+DTEND:20240928T200000Z
+CATEGORIES:WLMMA,MMA,live
+DESCRIPTION:https://welovemma.de/we-love-mma-ffm_24/
 END:VEVENT
 END:VCALENDAR
