@@ -4,10 +4,30 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231014T220304Z
-X-KAMPFKALENDER-HASH:8beb90c30cf7d3c5a14f25b4827c0f8f0be5ad4b
+DTSTAMP:20231025T141939Z
+X-KAMPFKALENDER-HASH:69375c55882392a8a16d2550968932ff1f3fb898
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231025T141939Z
+UID:2023-10-one-friday-fights-38@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 38
+DTSTART:20231027T123000Z
+DTEND:20231027T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/106528-one-friday-fights-38\nhttp://www.sherdog.com/events/one-cham
+ pionship-one-friday-fights-38-99761\n\n---\n\nMain Event: Otop Or Kwanmu
+ ang vs. Ilyas Musaev\nCo-Main Event: Pompetch PK Saenchai vs. C. Tor.San
+ gtiennoi\nMain Card: S. Choktaweeoy vs. Stephen Irvine\nMain Card: Sonra
+ k Fairtex vs. Puengluang Baanramba\nMain Card: P. Jitmuangnon vs. N. Eag
+ lemuaythai\nMain Card: Y. Kiatkhamtorn vs. C. YokkaoSaenchai\nMain Card:
+  Yodphupha Wimanair vs. Mavlud Tupiev\nMain Card: Katsuki Kitano vs. Hal
+ il Kütükcü\nMain Card: Lenny Blasi vs. Nonthakit Tor.Morsi\nMain Card: M
+ ark Abelardo (21-10-0) vs. G. Shakhruramazanov (13-1-0)\nMain Card: Frit
+ z Aldin Biagtan (5-1-0) vs. Deepak Bhardwaj (2-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231025T141939Z
 UID:2023-11-one-fight-night-16-haggerty-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 16: Haggerty vs. Andrade
@@ -16,10 +36,17 @@ DTEND:20231104T030000Z
 CATEGORIES:ONE,Kickboxen,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/105260-one-fight-night-16-haggerty-vs-andrade\n\n---\n\nMain Event:
-  Jonathan Haggerty vs. Fabricio de Andrade
+  Jonathan Haggerty vs. Fabricio de Andrade\nCo-Main Event: Tye Ruotolo v
+ s. Magomed Abdulkadirov\nMain Card: Saeksan Or Kwanmuang vs. Johan Estup
+ iñan\nMain Card: Halil Amir (9-0-0) vs. Ahmed Mujtaba (10-3-0)\nMain Car
+ d: Sinsamut Klinmee vs. Liam Nolan\nMain Card: Peimian Zhang vs. Rui Bot
+ elho\nMain Card: Bo Meng (21-6-0) vs. Ayaka Miura (11-5-0)\nMain Card: J
+ i Won Kang (6-1-0) vs. Ben Tynan (4-0-0)\nMain Card: Anna Jaroonsak vs. 
+ Cristina Morales\nMain Card: Jeremy Miado (10-5-0) vs. Lito Adiwang (14-
+ 5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231014T220305Z
+DTSTAMP:20231025T141939Z
 UID:2023-12-one-fight-night-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 17
@@ -27,6 +54,7 @@ DTSTART:20231209T010000Z
 DTEND:20231209T040000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/105261-one-fight-night-17
+ ents/105261-one-fight-night-17\n\n---\n\nMain Event: Tawanchai PK Saench
+ ai vs. Superbon Singha Mawynn\nMain Card: Jo Nattawut vs. Niclas Larsen
 END:VEVENT
 END:VCALENDAR

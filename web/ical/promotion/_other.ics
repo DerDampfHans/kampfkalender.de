@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231020T151657Z
-X-KAMPFKALENDER-HASH:23285d667371a8ee9b1df40604e668581b99602a
+DTSTAMP:20231025T141939Z
+X-KAMPFKALENDER-HASH:26d01e4d3be089a832983d5845ac4c180c00b771
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141939Z
 UID:2023-10-rodriguez-vs-sornkhaw@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodriguez vs. Sornkhaw
@@ -18,7 +18,28 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/106257-rajadamnern-world-series-rodriguez-vs-sornkhaw
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141939Z
+UID:2023-10-santl-vs-atti@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Santl vs. Atti
+DTSTART:20231025T170000Z
+DTEND:20231025T200000Z
+CATEGORIES:Other,Kickboxen,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yK7AvLavYHc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231025T141939Z
+UID:2023-10-rajadamnern-world-series-undisputed@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series: Undisputed
+DTSTART:20231028T121500Z
+DTEND:20231028T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/106539-rajadamnern-world-series-undisputed
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231025T141939Z
 UID:2023-11-walsh-vs-villarreal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Villarreal

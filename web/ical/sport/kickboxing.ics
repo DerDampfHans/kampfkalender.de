@@ -4,10 +4,20 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231020T151657Z
-X-KAMPFKALENDER-HASH:0703222b9a3676a6e55fc599c94d17ad76dcaece
+DTSTAMP:20231025T141939Z
+X-KAMPFKALENDER-HASH:7f792ed491ded34ff034337d783b420aa53dd4e8
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
+UID:2023-10-santl-vs-atti@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Santl vs. Atti
+DTSTART:20231025T170000Z
+DTEND:20231025T200000Z
+CATEGORIES:Other,Kickboxen,YouTube,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yK7AvLavYHc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231025T141940Z
 UID:2023-10-kok-world-series-liptovsky-mikulas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KOK World Series: Liptovsky Mikulas
@@ -15,11 +25,17 @@ DTSTART:20231028T160000Z
 DTEND:20231028T190000Z
 CATEGORIES:KOK,Kickboxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/105101-kok\n\n---\n\nMain Card: Sebastian Molek vs. Dávid Margitai\nMa
- in Card: Ivan Bartek vs. Chahid Chaquibi
+ s/105101-kok\n\n---\n\nMain Event: A. Chrysochodis vs. Sebastian Fapšo\
+ nMain Card: Sebastian Molek vs. Dávid Margitai\nMain Card: Ivan Bartek v
+ s. Chahid Chaquibi\nMain Card: Marciano Bhugwandass vs. Martin Pacas\nMa
+ in Card: Jozef Hurak vs. Dino Ibrahimi\nMain Card: Viktoria Docekalova v
+ s. Sarah L'Mhajari\nPrelim: Miro Cernak vs. Martin Micunda\nPrelim: Kare
+ n Galestyan vs. Robo Lepeta\nPrelim: Piotr Stępień vs. Tomáš Mintál\nPre
+ lim: Matus Koren vs. Adam Lang\nPrelim: Dávid Margitai vs. Sebastian Mol
+ ek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
 UID:2023-11-one-fight-night-16-haggerty-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 16: Haggerty vs. Andrade
@@ -28,10 +44,17 @@ DTEND:20231104T030000Z
 CATEGORIES:ONE,Kickboxen,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/105260-one-fight-night-16-haggerty-vs-andrade\n\n---\n\nMain Event:
-  Jonathan Haggerty vs. Fabricio de Andrade
+  Jonathan Haggerty vs. Fabricio de Andrade\nCo-Main Event: Tye Ruotolo v
+ s. Magomed Abdulkadirov\nMain Card: Saeksan Or Kwanmuang vs. Johan Estup
+ iñan\nMain Card: Halil Amir (9-0-0) vs. Ahmed Mujtaba (10-3-0)\nMain Car
+ d: Sinsamut Klinmee vs. Liam Nolan\nMain Card: Peimian Zhang vs. Rui Bot
+ elho\nMain Card: Bo Meng (21-6-0) vs. Ayaka Miura (11-5-0)\nMain Card: J
+ i Won Kang (6-1-0) vs. Ben Tynan (4-0-0)\nMain Card: Anna Jaroonsak vs. 
+ Cristina Morales\nMain Card: Jeremy Miado (10-5-0) vs. Lito Adiwang (14-
+ 5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
 UID:2023-11-glory-collision-6-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6: Prelims
@@ -51,7 +74,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnIfCauNJaE\nvia
  mael Ouzgni\nPrelim: Figuereido Landman vs. S. Abdelkhalek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
 UID:2023-11-oktagon-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 48
@@ -60,17 +83,18 @@ DTEND:20231104T180000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/100811-oktagon\n\n---\n\nMain Event: Aaron Aby (15-7-1) vs. Elia
- s Garcia (9-2-0)\nCo-Main Event: Jake Quickenden (0-0-0) vs. Paul Smith 
- (0-0-0)\nMain Card: James Lewis (8-5-0) vs. Niklas Stolze (12-6-0)\nMain
-  Card: Jaroslav Pokorný (16-10-0) vs. Shem Rock (9-1-1)\nMain Card: Jaku
- b Bahník (9-4-0) vs. Akonne Wanliss (7-2-0)\nMain Card: Lee Chadwick (28
- -18-1) vs. Radovan Úškrt (8-4-0)\nMain Card: Antun Račić (27-11-1) vs. J
- ack Cartwright (10-1-0)\nMain Card: Alex Lohoré (23-9-0) vs. Ion Surdu (
- 13-5-0)\nMain Card: Stuart Austin (17-8-0) vs. Przemysław Mysiala (24-12
- -1)\nMain Card: Scott Askham (19-6-0) vs. Marc Doussis (9-2-0)
+ s Garcia (9-2-0)\nCo-Main Event: Scott Askham (19-6-0) vs. Marc Doussis 
+ (9-2-0)\nMain Card: Jakub Bahník (9-4-0) vs. Akonne Wanliss (7-2-0)\nMai
+ n Card: Antun Račić (27-11-1) vs. Jack Cartwright (10-1-0)\nMain Card: J
+ ake Quickenden (0-0-0) vs. Paul Smith (0-0-0)\nMain Card: George Staines
+  (0-0-0) vs. Denis Frimpong (0-1-0)\nPrelim: Jaroslav Pokorný (16-10-0) 
+ vs. Shem Rock (9-1-1)\nPrelim: Alex Lohoré (23-9-0) vs. Ion Surdu (13-5-
+ 0)\nPrelim: Lee Chadwick (28-18-1) vs. Zdenek Polivka (8-7-0)\nPrelim: H
+ ascen Neri Gelezi (4-1-0) vs. Aaron McDonald (0-0-0)\nPrelim: Shoaib You
+ saf (10-3-0) vs. Konmon Deh (14-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
 UID:2023-11-glory-collision-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6
@@ -89,7 +113,7 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  bdelkhalek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
 UID:2023-11-oktagon-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 49
@@ -104,7 +128,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ej Kalašnik (10-4-0) vs. Niklas Stolze (12-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
 UID:2023-12-one-fight-night-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 17
@@ -112,10 +136,11 @@ DTSTART:20231209T010000Z
 DTEND:20231209T040000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/105261-one-fight-night-17
+ ents/105261-one-fight-night-17\n\n---\n\nMain Event: Tawanchai PK Saench
+ ai vs. Superbon Singha Mawynn\nMain Card: Jo Nattawut vs. Niclas Larsen
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231025T141940Z
 UID:2023-12-oktagon-50@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 50
@@ -127,6 +152,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ko Samsonidse (10-2-0)\nCo-Main Event: Ronald Paradeiser (17-8-0) vs. Iv
  an Buchinger (41-8-0)\nMain Card: Vladimír Lengál (6-2-0) vs. Samuel Bar
  k (8-2-0)\nMain Card: Matěj Kuzník (18-8-0) vs. Ebrahim Hosseinpour (7-7
- -0)\nMain Card: Marek Bartl (11-12-0) vs. James Lewis (8-5-0)
+ -0)\nMain Card: Marek Bartl (11-12-0) vs. James Lewis (8-5-0)\nMain Card
+ : Jan Široký (13-15-0) vs. Hafeni Nafuka (5-0-0)
 END:VEVENT
 END:VCALENDAR
