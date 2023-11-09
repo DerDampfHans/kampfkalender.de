@@ -6,9 +6,19 @@
       "BOXING"
     ],
     "mainCard": {
-      "hidden": true,
       "title": "Eubank vs. Schwarzkopf",
-      "time": "2023-11-10T20:00:00Z"
+      "time": "2023-11-10T19:30:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "108dbqjvqgm8z1cux3sslgkykm",
+        "time": "2023-11-10T19:30:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Eubank vs Schwarzkopf"
+      }
     },
     "tapology": {
       "id": 105787,
@@ -20,7 +30,19 @@
         "BOXING"
       ],
       "card": [
-        "Main Event: Harlem Eubank (18-0-0) vs. Timo Schwarzkopf (22-5-0)"
+        "Main Event: Harlem Eubank (18-0-0) vs. Timo Schwarzkopf (22-5-0)",
+        "Main Card: Lerrone Richards (17-0-0) vs. Mickey Ellison (14-5-0)",
+        "Main Card: Tommy Welch (11-0-0) vs. Jonathan Vergara (5-0-0)",
+        "Main Card: Tiernan Bradley (7-0-0) vs. Michał Bulik (5-5-0)",
+        "Main Card: Roman Fury (2-0-0) vs. Bradley Davies (1-5-1)",
+        "Main Card: Oliver Zaren (9-0-0) vs. Bahadur Karami (3-7-2)",
+        "Main Card: Harvey Dykes (0-0-0) vs. Erik Nazaryan (28-34-4)",
+        "Main Card: Ebonie Jones (4-0-1) vs. Jamileth Vallejos (2-9-2)",
+        "Main Card: JP O'Meara (1-0-0) vs. Karl Sampson (5-25-1)",
+        "Main Card: Ben Andrews (1-0-0) vs. Patryk Polasik (0-5-0)"
+      ],
+      "links": [
+        "http://www.boxrec.com/en/event/881634"
       ]
     }
   },
@@ -50,6 +72,31 @@
       ],
       "links": [
         "http://www.boxrec.com/en/event/882851"
+      ]
+    }
+  },
+  {
+    "id": "tapology-107020",
+    "promotion": "WB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Kelly vs. Knapp",
+      "time": "2023-12-16T19:00:00Z"
+    },
+    "tapology": {
+      "id": 107020,
+      "time": "2023-12-16T19:00:00Z",
+      "title": "Kelly vs. Knapp",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/107020-kelly-vs-knapp",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Josh Kelly (14-1-1) vs. Roarke Knapp (17-1-1)"
       ]
     }
   }

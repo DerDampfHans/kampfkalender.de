@@ -11,27 +11,65 @@
     ],
     "mainCard": {
       "title": "OKTAGON 49",
-      "time": "2023-11-18T17:00:00Z",
+      "time": "2023-11-18T19:00:00Z",
       "broadcasters": {
         "OKTAGON_TV": {
+        },
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/oktagon-faraoni-vs-stoica/2pdyh/"
         }
+      },
+      "fite": {
+        "id": "2pdyh",
+        "time": "2023-11-18T19:00:00Z",
+        "title": "Oktagon: Mattia Faraoni vs Bogdan Stoica",
+        "url": "https://www.fite.tv/watch/oktagon-faraoni-vs-stoica/2pdyh/",
+        "price": "$9.99",
+        "sports": [
+          "MMA"
+        ]
+      }
+    },
+    "prelims": {
+      "title": "OKTAGON 49: Prelims",
+      "time": "2023-11-18T18:00:00Z",
+      "broadcasters": {
+        "OKTAGON_TV": {
+        },
+        "FITE_TV": {
+          "url": "https://www.fite.tv/watch/oktagon-faraoni-vs-stoica-prelims/2pdyi/",
+          "free": true
+        }
+      },
+      "fite": {
+        "id": "2pdyi",
+        "time": "2023-11-18T18:00:00Z",
+        "title": "Oktagon: Faraoni vs Stoica - Prelims",
+        "url": "https://www.fite.tv/watch/oktagon-faraoni-vs-stoica-prelims/2pdyi/",
+        "price": "FREE",
+        "sports": [
+          "MMA"
+        ]
       }
     },
     "tapology": {
       "id": 102329,
       "time": "2023-11-18T17:00:00Z",
-      "title": "OKTAGON 49",
+      "title": "OKTAGON 49: Moeil vs Todev",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/102329-oktagon-49",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Card: Hatef Moeil (14-4-0) vs. Lazar Todev (9-5-0)",
-        "Main Card: Daniel Škvor (6-3-0) vs. Marc Doussis (9-2-0)",
-        "Main Card: Christian Eckerlin (15-5-0) vs. Leandro Silva (27-11-1)",
+        "Main Event: Hatef Moeil (14-4-0) vs. Lazar Todev (9-5-0)",
+        "Co-Main Event: Christian Eckerlin (15-5-0) vs. Leandro Silva (27-11-1)",
+        "Main Card: Daniel Škvor (6-3-0) vs. Marc Doussis (9-3-0)",
         "Main Card: Deniz Ilbay (5-0-0) vs. Corey Fry (4-1-0)",
-        "Main Card: Andrej Kalašnik (10-4-0) vs. Niklas Stolze (12-6-0)"
+        "Main Card: Andrej Kalašnik (10-4-0) vs. Niklas Stolze (12-6-0)",
+        "Main Card: Jorick Montagnac (4-2-0) vs. Steve MacDonald (4-0-0)",
+        "Main Card: Daniel Hromek (3-3-0) vs. Endrit Brajshori (2-1-0)",
+        "Main Card: Kerim Engizek (19-4-0) vs. Ahmed Sami (11-3-0)"
       ]
     }
   },
@@ -53,7 +91,7 @@
     "tapology": {
       "id": 98887,
       "time": "2023-12-09T12:00:00Z",
-      "title": "OKTAGON 50",
+      "title": "OKTAGON 50: Keita vs Samsonidse",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/98887-oktagon",
       "sports": [
@@ -65,7 +103,9 @@
         "Main Card: Vladimír Lengál (6-2-0) vs. Samuel Bark (8-2-0)",
         "Main Card: Matěj Kuzník (18-8-0) vs. Ebrahim Hosseinpour (7-7-0)",
         "Main Card: Marek Bartl (11-12-0) vs. James Lewis (8-5-0)",
-        "Main Card: Jan Široký (13-15-0) vs. Hafeni Nafuka (5-0-0)"
+        "Main Card: Jan Široký (13-15-0) vs. Hafeni Nafuka (5-0-0)",
+        "Main Card: Rafael Xavier (12-7-0) vs. Dan Vinni (24-17-2)",
+        "Main Card: Michal Konrád (8-10-0) vs. Marco Novák (2-1-0)"
       ]
     }
   },
@@ -93,7 +133,10 @@
         "MMA"
       ],
       "card": [
-        "Main Card: Bojan Veličković (24-12-2) vs. Andreas Michailidis (16-6-0)"
+        "Main Event: Patrik Kincl (27-10-0) vs. Vlasto Čepo (12-2-0)",
+        "Main Card: Bojan Veličković (24-12-2) vs. Andreas Michailidis (16-6-0)",
+        "Main Card: Karlos Vémola (36-7-0) vs. Samuel Krištofič (16-6-0)",
+        "Main Card: Daniel Škvor (6-3-0) vs. Martin Zawada (29-18-1)"
       ]
     }
   }

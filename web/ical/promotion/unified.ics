@@ -4,6 +4,21 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231105T230307Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:bd9caeaa919e8886c3477af4badeab6c1da39249
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-12-unified-mma-54@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Unified MMA 54
+DTSTART:20231216T030000Z
+DTEND:20231216T060000Z
+CATEGORIES:UMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/106643-unified-mma-54\n\n---\n\nMain Event: Shane Campbell (
+ 21-8-0) vs. Darrell Horcher (14-6-0)\nCo-Main Event: Tom O’Connor (12-2-
+ 0) vs. Ramil Kamilov (7-0-0)\nMain Card: Stephen Beaumont (10-3-0) vs. M
+ ac Laursen (5-1-0)\nMain Card: Harley King (3-1-0) vs. Cody Chovancek (5
+ -0-0)\nMain Card: Jake Craig (1-0-0) vs. Terrence Jeffers (2-0-0)
+END:VEVENT
 END:VCALENDAR

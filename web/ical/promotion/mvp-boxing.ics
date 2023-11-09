@@ -4,6 +4,19 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231104T230304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:df0ab61d67c392f4ca5b75358df653ec954009f6
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-12-jake-paul-returns@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Jake Paul Returns
+DTSTART:20231216T020000Z
+DTEND:20231216T050000Z
+CATEGORIES:MVP,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/106878-jake-paul-
+ returns\nhttp://www.boxrec.com/en/event/883469\n\n---\n\nMain Event: Jak
+ e Paul (7-1-0) vs. Andre August (10-1-1)\nCo-Main Event: Franchon Crews-
+ Dezurn (8-2-0) vs. Shadasia Green (13-0-0)
+END:VEVENT
 END:VCALENDAR

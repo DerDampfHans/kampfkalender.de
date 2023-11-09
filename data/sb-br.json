@@ -1,28 +1,5 @@
 [
   {
-    "id": "tapology-97892",
-    "promotion": "SB_BR",
-    "sports": [
-      "MMA"
-    ],
-    "tags": [
-      "#Shooto121"
-    ],
-    "mainCard": {
-      "hidden": true,
-      "title": "Shooto Brasil 121",
-      "time": "2023-11-18T00:00:00Z"
-    },
-    "tapology": {
-      "id": 97892,
-      "time": "2023-11-17T05:00:00Z",
-      "title": "Shooto Brasil 121",
-      "titleAlt": "Shooto Brazil 121",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/97892-shooto-brasil-121"
-    }
-  },
-  {
     "id": "tapology-97891",
     "promotion": "SB_BR",
     "sports": [
@@ -46,8 +23,20 @@
       "time": "2023-11-24T00:00:00Z",
       "title": "Shooto Brasil 120",
       "titleAlt": "Shooto Brazil 120",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/97891-shooto-brasil-120"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/97891-shooto-brasil-120",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Hernani Perpétuo (20-9-0) vs. Yukinari Tamura (16-14-9)",
+        "Co-Main Event: Antônio Monteiro (16-4-1) vs. Lucas Tavares (11-8-0)",
+        "Main Card: Antônio Marcos (3-1-0) vs. Renan Oliveira (8-1-0)",
+        "Main Card: Paulo Henrique (15-7-0) vs. Pedro Paulino (10-2-0)",
+        "Main Card: Caionã Batista (12-5-0) vs. Gabriel Oliveira (13-5-0)",
+        "Main Card: Andrey Augusto (14-6-1) vs. Gilberto Sousa (9-2-0)",
+        "Main Card: Martin Camilo (5-2-1) vs. Yuri Neles (9-5-0)"
+      ]
     }
   }
 ]

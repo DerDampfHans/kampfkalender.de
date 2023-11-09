@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231020T151657Z
-X-KAMPFKALENDER-HASH:d7e9642030919b260ee3a94377ae1fe935029218
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:02519dbb2d4f067a0c9c7003e6d8a37211a65ab4
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231109T103947Z
 UID:2023-11-glory-collision-6-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6: Prelims
@@ -27,7 +27,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnIfCauNJaE\nvia
  mael Ouzgni\nPrelim: Figuereido Landman vs. S. Abdelkhalek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231020T151658Z
+DTSTAMP:20231109T103947Z
 UID:2023-11-glory-collision-6@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6
@@ -44,5 +44,17 @@ DESCRIPTION:via glory.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/e
  an Galaz vs. Iliass Hammouche\nPrelim: Don Sno vs. Andrija Stankovic\nPr
  elim: Robin Ciric vs. Ismael Ouzgni\nPrelim: Figuereido Landman vs. S. A
  bdelkhalek
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-12-glory-90@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY 90
+DTSTART:20231223T190000Z
+DTEND:20231223T220000Z
+CATEGORIES:Glory,Kickboxen,fighting.de,glory.tv,live
+DESCRIPTION:via fighting.de\nvia glory.tv\n\n---\n\nhttps://www.tapology.
+ com/fightcenter/events/106929-glory-90\n\n---\n\nMain Event: Endy Semele
+ er vs. Anwar Ouled-Chaib
 END:VEVENT
 END:VCALENDAR

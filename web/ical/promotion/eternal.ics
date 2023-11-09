@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231104T230304Z
-X-KAMPFKALENDER-HASH:17616eac62faef026ec73d3bd4b9a1ba21fcf3d4
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:98bb4f5665c8d3c0876876e2b68afb743a543eb0
 BEGIN:VEVENT
-DTSTAMP:20231104T230304Z
+DTSTAMP:20231109T103947Z
 UID:2023-11-eternal-mma-81@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 81
@@ -27,5 +27,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  m: Chloe Henry (3-0-0) vs. Kim Tran (3-3-0)\nPrelim: Ran Deng (1-0-0) vs
  . Leon Gray (0-0-0)\nPrelim: Ethan Mitchell (2-1-0) vs. Nikita Laptsevic
  h (4-1-0)\nPrelim: Justin Woods (3-1-0) vs. Connor Downey (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2024-02-eternal-mma-82@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 82
+DTSTART:20240210T090000Z
+DTEND:20240210T120000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/106684-eternal-mma-82\n\n---\n\nMain Card: Aldin Bates (8-3-
+ 0) vs. Kaleb Rideout (7-3-0)
 END:VEVENT
 END:VCALENDAR

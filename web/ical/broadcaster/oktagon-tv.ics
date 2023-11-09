@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231025T141939Z
-X-KAMPFKALENDER-HASH:b25a7f064359d6111bfed7756b5b70b360440a2e
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:ae6916f7f1bc5b694696e389e50a739cd1cb25cc
 BEGIN:VEVENT
-DTSTAMP:20231025T141940Z
+DTSTAMP:20231109T103948Z
 UID:2023-11-oktagon-48@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 48
@@ -27,22 +27,45 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  saf (10-3-0) vs. Konmon Deh (14-9-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231025T141940Z
+DTSTAMP:20231109T103948Z
+UID:2023-11-oktagon-49-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 49: Prelims
+DTSTART:20231118T180000Z
+DTEND:20231118T190000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,fite.tv,live,kostenlos
+DESCRIPTION:via oktagon.tv\nvia fite.tv: https://www.fite.tv/watch/oktago
+ n-faraoni-vs-stoica-prelims/2pdyi/\n\n---\n\nhttps://www.tapology.com/fi
+ ghtcenter/events/102329-oktagon-49\n\n---\n\nMain Event: Hatef Moeil (14
+ -4-0) vs. Lazar Todev (9-5-0)\nCo-Main Event: Christian Eckerlin (15-5-0
+ ) vs. Leandro Silva (27-11-1)\nMain Card: Daniel Škvor (6-3-0) vs. Marc 
+ Doussis (9-3-0)\nMain Card: Deniz Ilbay (5-0-0) vs. Corey Fry (4-1-0)\nM
+ ain Card: Andrej Kalašnik (10-4-0) vs. Niklas Stolze (12-6-0)\nMain Card
+ : Jorick Montagnac (4-2-0) vs. Steve MacDonald (4-0-0)\nMain Card: Danie
+ l Hromek (3-3-0) vs. Endrit Brajshori (2-1-0)\nMain Card: Kerim Engizek 
+ (19-4-0) vs. Ahmed Sami (11-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
 UID:2023-11-oktagon-49@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 49
-DTSTART:20231118T170000Z
-DTEND:20231118T200000Z
-CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
-DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/102329-oktagon-49\n\n---\n\nMain Card: Hatef Moeil (14-4-0) vs. 
- Lazar Todev (9-5-0)\nMain Card: Daniel Škvor (6-3-0) vs. Marc Doussis (9
- -2-0)\nMain Card: Christian Eckerlin (15-5-0) vs. Leandro Silva (27-11-1
- )\nMain Card: Deniz Ilbay (5-0-0) vs. Corey Fry (4-1-0)\nMain Card: Andr
- ej Kalašnik (10-4-0) vs. Niklas Stolze (12-6-0)
+DTSTART:20231118T190000Z
+DTEND:20231118T220000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,fite.tv,live
+DESCRIPTION:via oktagon.tv\nvia fite.tv: https://www.fite.tv/watch/oktago
+ n-faraoni-vs-stoica/2pdyh/\n\n---\n\nhttps://www.tapology.com/fightcente
+ r/events/102329-oktagon-49\n\n---\n\nMain Event: Hatef Moeil (14-4-0) vs
+ . Lazar Todev (9-5-0)\nCo-Main Event: Christian Eckerlin (15-5-0) vs. Le
+ andro Silva (27-11-1)\nMain Card: Daniel Škvor (6-3-0) vs. Marc Doussis 
+ (9-3-0)\nMain Card: Deniz Ilbay (5-0-0) vs. Corey Fry (4-1-0)\nMain Card
+ : Andrej Kalašnik (10-4-0) vs. Niklas Stolze (12-6-0)\nMain Card: Jorick
+  Montagnac (4-2-0) vs. Steve MacDonald (4-0-0)\nMain Card: Daniel Hromek
+  (3-3-0) vs. Endrit Brajshori (2-1-0)\nMain Card: Kerim Engizek (19-4-0)
+  vs. Ahmed Sami (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231025T141940Z
+DTSTAMP:20231109T103948Z
 UID:2023-12-oktagon-50@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 50
@@ -55,10 +78,12 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  an Buchinger (41-8-0)\nMain Card: Vladimír Lengál (6-2-0) vs. Samuel Bar
  k (8-2-0)\nMain Card: Matěj Kuzník (18-8-0) vs. Ebrahim Hosseinpour (7-7
  -0)\nMain Card: Marek Bartl (11-12-0) vs. James Lewis (8-5-0)\nMain Card
- : Jan Široký (13-15-0) vs. Hafeni Nafuka (5-0-0)
+ : Jan Široký (13-15-0) vs. Hafeni Nafuka (5-0-0)\nMain Card: Rafael Xavi
+ er (12-7-0) vs. Dan Vinni (24-17-2)\nMain Card: Michal Konrád (8-10-0) v
+ s. Marco Novák (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231025T141940Z
+DTSTAMP:20231109T103948Z
 UID:2023-12-oktagon-51-tipsport-gamechanger-final@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 51: Tipsport Gamechanger Final
@@ -66,7 +91,10 @@ DTSTART:20231229T170000Z
 DTEND:20231229T200000Z
 CATEGORIES:Oktagon,MMA,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/105224-oktagon-51\n\n---\n\nMain Card: Bojan Veličković (24-12-2
- ) vs. Andreas Michailidis (16-6-0)
+ /events/105224-oktagon-51\n\n---\n\nMain Event: Patrik Kincl (27-10-0) v
+ s. Vlasto Čepo (12-2-0)\nMain Card: Bojan Veličković (24-12-2) vs. Andre
+ as Michailidis (16-6-0)\nMain Card: Karlos Vémola (36-7-0) vs. Samuel Kr
+ ištofič (16-6-0)\nMain Card: Daniel Škvor (6-3-0) vs. Martin Zawada (29-
+ 18-1)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231104T230304Z
-X-KAMPFKALENDER-HASH:cfcadc340ddba635bfe541d8178114624f7232c9
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:2061ca4c46f4c4ecb7c14d5b1d5a776045f6c96c
 BEGIN:VEVENT
-DTSTAMP:20231104T230305Z
+DTSTAMP:20231109T103948Z
 UID:2023-11-karate-combat-42@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Karate Combat 42
@@ -25,7 +25,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  rd: Ariana Gavino Diaz vs. Lishan Li
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T230305Z
+DTSTAMP:20231109T103948Z
 UID:2023-11-one-fight-night-16-haggerty-vs-andrade@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 16: Haggerty vs. Andrade
@@ -44,7 +44,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T230305Z
+DTSTAMP:20231109T103948Z
 UID:2023-11-glory-collision-6-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Glory: Collision 6: Prelims
@@ -64,7 +64,61 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=LnIfCauNJaE\nvia
  mael Ouzgni\nPrelim: Figuereido Landman vs. S. Abdelkhalek
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T230305Z
+DTSTAMP:20231109T103948Z
+UID:2023-11-one-friday-fights-40@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 40
+DTSTART:20231110T123000Z
+DTEND:20231110T153000Z
+CATEGORIES:ONE,MMA,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=SKUAVJamNU8\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/106640-one-friday-figh
+ ts-40\nhttp://www.sherdog.com/events/one-championship-one-friday-fights-
+ 40-100088\n\n---\n\nMain Event: J. Sor.Dechaphan vs. Paidang Kiatsongrit
+ \nCo-Main Event: Aliff Sor Dechapan vs. Peyman Zolfaghari\nMain Card: P.
+  SorJor TongPrachin vs. Bhumjaithai M.T.1\nMain Card: Khunsuk Sor Dechap
+ an vs. D. ChotBangsaen\nMain Card: Yangdam Pumpanmuang vs. Merhdad Khanz
+ adeh\nMain Card: Nongam Fairtex vs. P. Highland Gym\nMain Card: Ricardo 
+ Bravo vs. Oliver Hansen\nMain Card: Xavier Gonzalez vs. Omar El Halabi\n
+ Main Card: Samingdam Looksuan vs. Rhuam Felipe\nMain Card: Samingnum Sit
+ numnoi vs. Parham Gheiratimarkeye\nMain Card: Ivan Parshikov (11-3-0) vs
+ . Ben Royle (6-2-0)\nMain Card: Cooper Smith (3-0-0) vs. Ely Malinis Fer
+ nandez (6-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
+UID:2023-11-one-friday-fights-41@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 41
+DTSTART:20231117T123000Z
+DTEND:20231117T153000Z
+CATEGORIES:ONE,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/106954-one-friday-fights-41\n\n---\n\nMain Card: Dedduanglek Tded99
+  vs. Nakrob Fairtex
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
+UID:2023-11-bkfc-54-dimitrov-vs-zhelyazkov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 54: Dimitrov vs. Zhelyazkov
+DTSTART:20231117T190000Z
+DTEND:20231117T220000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ZrDZo7r-O6Y\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-54/2pdy4/\n\n---\n\nhttps://www
+ .tapology.com/fightcenter/events/104054-bkfc-bulgaria\n\n---\n\nMain Eve
+ nt: Rosen Dimitrov vs. Todor Zhelyazkov\nCo-Main Event: Georgi Valentino
+ v vs. Bojan Kosendar\nMain Card: Vladislav Kanchev vs. Wilhelm Ott\nMain
+  Card: Kaloyan Kolev vs. Amer Abdulnabi\nMain Card: Marian Dimitrov vs. 
+ Jędrzej Durski\nMain Card: Delqn Iliev vs. Florin Lupu\nMain Card: Vesel
+ in Ivanov vs. Marco Giustarini\nMain Card: Mladen Iliev vs. Yunus Emre B
+ atan\nMain Card: Kristian Kirilov vs. Mehmet Ozer\nPrelim: Angel Petkov 
+ vs. Nikola Arsov\nPrelim: Martin Stoichkov vs. Felipe Maia\nPrelim: Zdra
+ vko Dimitrov vs. Tomas Vojtela
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
 UID:2023-11-santl-vs-atti@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Santl vs. Atti
@@ -74,7 +128,60 @@ CATEGORIES:Other,Kickboxen,YouTube,live
 DESCRIPTION:via YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T230305Z
+DTSTAMP:20231109T103948Z
+UID:2023-11-bkfc-55-christie-vs-warren@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 55: Christie vs. Warren
+DTSTART:20231118T200000Z
+DTEND:20231118T230000Z
+CATEGORIES:BKFC,Bare Knuckle,YouTube,fite.tv,live
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=yFSCWGO_hqs\nvia
+  fite.tv: https://www.fite.tv/watch/bkfc-55/2pdyy/\n\n---\n\nhttps://www
+ .tapology.com/fightcenter/events/105495-bkfc-55-christie-vs-warren\n\n--
+ -\n\nMain Event: Danny Christie vs. Jared Warren\nCo-Main Event: Anthony
+  Holmes vs. Bart Król\nMain Card: Mason Shaw vs. Matt Hodgson\nMain Card
+ : Danny Mitchell vs. John Ferguson\nMain Card: Luke Atkin vs. Darren Hen
+ dry\nMain Card: Gary Fox vs. Robbie Brown\nMain Card: Nathan Owens vs. C
+ onor Cooke\nMain Card: Karl Thompson vs. Dawid Oskar\nMain Card: Antonio
+  Moscatiello vs. Patryk Sagan\nPrelim: Luke Nevin vs. Paul Cook\nPrelim:
+  Jonny Graham vs. Abel Radomski\nPrelim: Anthony Faulkner vs. Rob Cunnin
+ gham
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
+UID:2023-11-one-friday-fights-42@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 42
+DTSTART:20231124T123000Z
+DTEND:20231124T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/106955-one-friday-fights-42
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
+UID:2023-12-one-friday-fights-43@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 43
+DTSTART:20231201T123000Z
+DTEND:20231201T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/106956-one-friday-fights-43
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
+UID:2023-12-one-friday-fights-44@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 44
+DTSTART:20231208T123000Z
+DTEND:20231208T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/106957-one-friday-fights-44
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
 UID:2023-12-one-fight-night-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 17
@@ -84,5 +191,28 @@ CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
 DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/105261-one-fight-night-17\n\n---\n\nMain Event: Tawanchai PK Saench
  ai vs. Superbon Singha Mawynn\nMain Card: Jo Nattawut vs. Niclas Larsen
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
+UID:2023-12-one-friday-fights-45@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 45
+DTSTART:20231215T123000Z
+DTEND:20231215T153000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/106958-one-friday-fights-45
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103948Z
+UID:2023-12-one-friday-fights-46@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:One Friday Fights 46
+DTSTART:20231222T123000Z
+DTEND:20231222T153000Z
+CATEGORIES:ONE,Kickboxen,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/106819-one-friday-fights-46\n\n---\n\nMain Event: P. Lukjaoporongto
+ m vs. Anissa Meksen
 END:VEVENT
 END:VCALENDAR

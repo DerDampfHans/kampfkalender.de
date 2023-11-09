@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231104T230304Z
-X-KAMPFKALENDER-HASH:aaa50c7ec93b8dc5bed5acbe5fec7c967be3b308
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:129fde06ff1d4378ce78856409977b8b2d039cf6
 BEGIN:VEVENT
-DTSTAMP:20231104T230304Z
+DTSTAMP:20231109T103947Z
 UID:2023-11-walsh-vs-villarreal@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Walsh vs. Villarreal
@@ -21,10 +21,42 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ain Card: Umar Dzambekov (7-0-0) vs. Frederic Julan (13-2-0)\nMain Card:
   Gor Yeritsyan (16-0-0) vs. Luis Alberto Veron (20-7-2)\nMain Card: Bria
  n Ceballo (15-1-0) vs. Kenneth McNeil (13-4-0)\nMain Card: Feargal McCro
- ry (14-0-0) vs. Nikolai Buzolin (9-6-1)
+ ry (14-0-0) vs. Nikolai Buzolin (9-6-1)\nMain Card: Omar Trinidad (13-0-
+ 1) vs. Andrew Bentley (5-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T230304Z
+DTSTAMP:20231109T103947Z
+UID:2023-11-rajadamnern-world-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series
+DTSTART:20231111T121500Z
+DTEND:20231111T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/107022-rajadamnern-world-series
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-11-gaona-vs-figueroa@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Gaona vs. Figueroa
+DTSTART:20231112T020000Z
+DTEND:20231112T050000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-11-college-wrestling-wyoming-vs-campbell@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:College Wrestling: Wyoming vs. Campbell
+DTSTART:20231118T000000Z
+DTEND:20231118T030000Z
+CATEGORIES:Other,Wrestling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
 UID:2023-11-santl-vs-atti@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Santl vs. Atti
@@ -32,5 +64,49 @@ DTSTART:20231118T170000Z
 DTEND:20231118T200000Z
 CATEGORIES:Other,Kickboxen,YouTube,live
 DESCRIPTION:via YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-11-college-wrestling-iowa-state-vs-wisconsin@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:College Wrestling: Iowa State vs. Wisconsin
+DTSTART:20231119T200000Z
+DTEND:20231119T230000Z
+CATEGORIES:Other,Wrestling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-12-conlan-vs-gill@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Conlan vs. Gill
+DTSTART:20231202T190000Z
+DTEND:20231202T220000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/105542-mckenna-vs-crocker\n\n---\n\nMain Event: Mick Conlan (18-2-0) v
+ s. Jordan Gill (27-2-1)\nCo-Main Event: Caoimhin Agyarko (13-0-0) vs. Tr
+ oy Williamson (20-1-1)\nMain Card: Tyrone McKenna (23-3-1) vs. Lewis Cro
+ cker (17-0-0)\nMain Card: Sean McComb (17-1-0) vs. Sam Maxwell (17-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-12-college-wrestling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:College Wrestling
+DTSTART:20231219T180000Z
+DTEND:20231219T210000Z
+CATEGORIES:Other,Wrestling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-12-college-wrestling-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:College Wrestling
+DTSTART:20231222T010000Z
+DTEND:20231222T040000Z
+CATEGORIES:Other,Wrestling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 END:VCALENDAR

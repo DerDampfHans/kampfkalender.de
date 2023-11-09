@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231025T141939Z
-X-KAMPFKALENDER-HASH:021c3db79bc2620e75e0464af16275e054c3fcee
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:99e6d629738d71ecb5c9e5016055bc6d59df43b7
 BEGIN:VEVENT
-DTSTAMP:20231025T141939Z
+DTSTAMP:20231109T103947Z
 UID:2023-11-cffc-127@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 127
@@ -27,5 +27,24 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (4-1-0)\nMain Card: Chase Mann (1-0-0) vs. Jarious Gill (2-3-0)\nMain Ca
  rd: Brennan McKisick (3-0-0) vs. Steve Collins (1-0-0)\nMain Card: Adrya
  n Grundy (0-1-0) vs. Harvey Mardis (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2023-12-cffc-128-watley-vs-gjetja@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:CFFC 128: Watley vs. Gjetja
+DTSTART:20231216T020000Z
+DTEND:20231216T050000Z
+CATEGORIES:CFFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/106612-cffc-128\n\n---\n\nMain Event: Robert Watley (13-3-0)
+  vs. Armando Gjetja (8-3-0)\nCo-Main Event: Luke Fernandez (2-0-0) vs. P
+ eter New (4-2-0)\nMain Card: Eddy Torres (4-1-0) vs. Robert Wusstig (8-1
+ 5-0)\nMain Card: Riley Palmer (1-0-0) vs. Hunter Starner (2-1-0)\nMain C
+ ard: Keith Speed (5-6-0) vs. Anthony Dilemme (4-0-0)\nMain Card: Eric No
+ lan (4-2-0) vs. Alonzo Turner (3-0-0)\nMain Card: Michael Billups (5-2-2
+ ) vs. Thomas Picciano (4-1-0)\nMain Card: Sean Felton (5-4-1) vs. Robert
+  Varricchio (4-0-0)\nMain Card: Xhelal Lleshi (1-1-0) vs. Mardin Velasqu
+ ez (0-0-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231029T230304Z
-X-KAMPFKALENDER-HASH:e4b05570ad5331ccc5dd9570f418d5a1e3aaa673
+DTSTAMP:20231109T103947Z
+X-KAMPFKALENDER-HASH:6b2edb9043de7ffbf05357dca7b72e608dac3d7f
 BEGIN:VEVENT
-DTSTAMP:20231029T230305Z
+DTSTAMP:20231109T103947Z
 UID:2023-11-valle-vs-ortiz@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Valle vs. Ortiz
@@ -20,7 +20,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  Casco (5-1-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231029T230305Z
+DTSTAMP:20231109T103947Z
 UID:2023-12-garcia-vs-duarte@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Garcia vs. Duarte
@@ -29,6 +29,19 @@ DTEND:20231203T050000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/105786-garcia-vs-duarte\n\n---\n\nMain Event: Ryan Garcia (23-1-0) vs.
-  Oscar Duarte (25-1-1)
+  Oscar Duarte (25-1-1)\nCo-Main Event: Ohara Davies (25-2-0) vs. Ismael 
+ Barroso (24-4-2)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T103947Z
+UID:2024-01-ortiz-vs-lawson@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ortiz vs. Lawson
+DTSTART:20240107T010000Z
+DTEND:20240107T040000Z
+CATEGORIES:GBP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/106875-ortiz-vs-lawson\n\n---\n\nMain Event: Vergil Ortiz Jr. (19-0-0)
+  vs. Fredrick Lawson (30-3-0)
 END:VEVENT
 END:VCALENDAR
