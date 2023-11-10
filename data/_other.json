@@ -1,44 +1,31 @@
 [
   {
-    "id": "tapology-105665",
+    "id": "tapology-107022",
     "promotion": "_OTHER",
     "sports": [
-      "BOXING"
+      "MUAY_THAI"
     ],
     "mainCard": {
-      "title": "Walsh vs. Villarreal",
-      "time": "2023-11-10T01:00:00Z",
+      "title": "Rajadamnern World Series",
+      "time": "2023-11-11T12:15:00Z",
       "broadcasters": {
-        "UFC_FIGHT_PASS": {
+        "DAZN": {
         }
       },
-      "fightPass": {
-        "id": 252234,
-        "time": "2023-11-10T01:00:00Z",
-        "title": "HOLLYWOOD FIGHT NIGHTS NYC: WALSH VS VILLARREAL"
+      "dazn": {
+        "id": "15e4ytrygdd281pwn1u7aizdij",
+        "time": "2023-11-11T12:15:00Z",
+        "title": "Rajadamnern World Series: Ngaoprajan vs Sevgi 2",
+        "sport": "MMA",
+        "competition": "Rajadamnern World Series Muay Thai"
       }
     },
     "tapology": {
-      "id": 105665,
-      "time": "2023-11-10T01:00:00Z",
-      "title": "Walsh vs. Villarreal",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/105665-walsh-vs-villarreal",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Callum Walsh (8-0-0) vs. Ismael Villarreal (13-1-0)",
-        "Main Card: Cain Sandoval (10-0-0) vs. Wesley Ferrer (16-1-1)",
-        "Main Card: Umar Dzambekov (7-0-0) vs. Frederic Julan (13-2-0)",
-        "Main Card: Gor Yeritsyan (16-0-0) vs. Luis Alberto Veron (20-7-2)",
-        "Main Card: Brian Ceballo (15-1-0) vs. Kenneth McNeil (13-4-0)",
-        "Main Card: Feargal McCrory (14-0-0) vs. Nikolai Buzolin (9-6-1)",
-        "Main Card: Omar Trinidad (13-0-1) vs. Andrew Bentley (5-7-0)"
-      ],
-      "links": [
-        "http://www.boxrec.com/en/event/871607"
-      ]
+      "id": 107022,
+      "time": "2023-11-11T12:15:00Z",
+      "title": "Rajadamnern World Series",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/107022-rajadamnern-world-series"
     }
   },
   {
@@ -80,35 +67,6 @@
       "links": [
         "http://www.sherdog.com/events/the-cage-mma-rostock-100003"
       ]
-    }
-  },
-  {
-    "id": "tapology-107022",
-    "promotion": "_OTHER",
-    "sports": [
-      "MUAY_THAI"
-    ],
-    "mainCard": {
-      "title": "Rajadamnern World Series",
-      "time": "2023-11-11T12:15:00Z",
-      "broadcasters": {
-        "DAZN": {
-        }
-      },
-      "dazn": {
-        "id": "15e4ytrygdd281pwn1u7aizdij",
-        "time": "2023-11-11T12:15:00Z",
-        "title": "Rajadamnern World Series: Ngaoprajan vs Sevgi 2",
-        "sport": "MMA",
-        "competition": "Rajadamnern World Series Muay Thai"
-      }
-    },
-    "tapology": {
-      "id": 107022,
-      "time": "2023-11-11T12:15:00Z",
-      "title": "Rajadamnern World Series",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/107022-rajadamnern-world-series"
     }
   },
   {
