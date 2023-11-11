@@ -426,5 +426,76 @@
         "https://events.mixedmartialarts.com/nfc-15:cbef24b1-645b-4c1b-9893-9175e2c5600d"
       ]
     }
+  },
+  {
+    "id": "nfc-2023-11-11",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#München",
+      "#NFC16"
+    ],
+    "links": [
+      "https://fighting.de/nfc-16/"
+    ],
+    "mainCard": {
+      "title": "NFC 16",
+      "time": "2023-11-11T18:00:00Z",
+      "until": "2023-11-11T23:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=i42x3QQVVP8"
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 16: Free Prelims",
+      "time": "2023-11-11T16:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "url": "https://www.youtube.com/watch?v=dmnoofHN6DQ"
+        }
+      },
+      "youTube": {
+        "id": "dmnoofHN6DQ",
+        "time": "2023-11-11T17:00:00Z",
+        "title": "FREE PRELIMS: NFC 16 x INNFERNO 7 | 11.11. | 18 Uhr - FIGHTING",
+        "url": "https://www.youtube.com/watch?v=dmnoofHN6DQ",
+        "tags": [
+          "#Fighting",
+          "#Kampfsport",
+          "#MMA"
+        ]
+      }
+    },
+    "tapology": {
+      "id": 94583,
+      "time": "2023-11-11T17:00:00Z",
+      "title": "NFC 16",
+      "titleAlt": "INNFERNO 7",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/94583-nfc-16",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: M. Trabelsi (11-7-0) vs. Paata Tsxapelia (13-6-0)",
+        "Co-Main Event: Gianni Massafra (3-1-0) vs. Daniel Schwindt (4-1-0)",
+        "Main Card: Maiwand Hamras (0-0-0) vs. Tyrone Pfeifer (1-0-0)",
+        "Main Card: Fedor Duric (3-0-0) vs. Ibragim Chamzatov (3-1-0)",
+        "Main Card: A. Chatzigeorgiadis (2-2-1) vs. Sami Zarabi (3-0-0)",
+        "Main Card: Habibullah Noori (1-1-0) vs. Nick Schander (0-1-0)",
+        "Main Card: Patrick Vespaziani (1-1-0) vs. Vadim Feger (1-4-0)",
+        "Main Card: Raul Lemberanskij (2-0-0) vs. Filip Marić (2-1-0)",
+        "Main Card: Yusup Magomedov (1-0-0) vs. Paul Batomene (1-4-0)",
+        "Prelim: Miguel Hinze (1-1-0) vs. Albert Ibragimov (1-0-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/national-fighting-championship-nfc-16-x-innferno-7-96826",
+        "https://events.mixedmartialarts.com/nfc-16:0121843e-6bb5-4d7f-891a-9cf72a54e340"
+      ]
+    }
   }
 ]

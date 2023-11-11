@@ -3322,5 +3322,75 @@
         "http://www.boxrec.com/en/event/871607"
       ]
     }
+  },
+  {
+    "id": "tapology-107022",
+    "promotion": "_OTHER",
+    "sports": [
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "Rajadamnern World Series",
+      "time": "2023-11-11T12:15:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "15e4ytrygdd281pwn1u7aizdij",
+        "time": "2023-11-11T12:15:00Z",
+        "title": "Rajadamnern World Series: Ngaoprajan vs Sevgi 2",
+        "sport": "MMA",
+        "competition": "Rajadamnern World Series Muay Thai"
+      }
+    },
+    "tapology": {
+      "id": 107022,
+      "time": "2023-11-11T12:15:00Z",
+      "title": "Rajadamnern World Series",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/107022-rajadamnern-world-series"
+    }
+  },
+  {
+    "id": "tapology-104289",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "The Cage: Rostock",
+      "time": "2023-11-11T15:00:00Z",
+      "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=Ug-7_PRwgqc",
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 104289,
+      "time": "2023-11-11T15:00:00Z",
+      "title": "The Cage MMA",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/104289-the-cage-mma",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Dominykas Norkus (1-0-0) vs. Kevin Enz (2-0-0)",
+        "Co-Main Event: Karan Mosebach (1-0-0) vs. Karl Fletcher (1-0-0)",
+        "Main Card: Peter Nyari (2-7-0) vs. Alexander Denzel (1-0-0)",
+        "Main Card: Tony Sipos (3-2-0) vs. Lucas Werner (1-2-0)",
+        "Main Card: Marvin Miekley (0-0-0) vs. Norbert Grobelny (1-0-0)",
+        "Prelim: Marc Hänke (0-1-0) vs. Timur Dogruoglu (0-0-0)",
+        "Prelim: Tom Russig (0-0-0) vs. Vladimir Aleksutkin (0-2-0)",
+        "Prelim: Florian Gasparjan (0-1-0) vs. Matti Uhlich (0-1-0)",
+        "Prelim: Dejan Ovuka (0-0-0) vs. Marcel Borga (4-2-0)"
+      ],
+      "links": [
+        "http://www.sherdog.com/events/the-cage-mma-rostock-100003"
+      ]
+    }
   }
 ]
