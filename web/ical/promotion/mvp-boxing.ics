@@ -4,19 +4,23 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231109T103947Z
-X-KAMPFKALENDER-HASH:df0ab61d67c392f4ca5b75358df653ec954009f6
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:f04011f135400f7ecff4ceeb0fe3808003261b43
 BEGIN:VEVENT
-DTSTAMP:20231109T103947Z
-UID:2023-12-jake-paul-returns@kampfkalender.de
+DTSTAMP:20231207T104710Z
+UID:2023-12-paul-vs-august@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Jake Paul Returns
-DTSTART:20231216T020000Z
-DTEND:20231216T050000Z
-CATEGORIES:MVP,Boxen,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/106878-jake-paul-
- returns\nhttp://www.boxrec.com/en/event/883469\n\n---\n\nMain Event: Jak
- e Paul (7-1-0) vs. Andre August (10-1-1)\nCo-Main Event: Franchon Crews-
- Dezurn (8-2-0) vs. Shadasia Green (13-0-0)
+SUMMARY:Paul vs. August
+DTSTART:20231216T003000Z
+DTEND:20231216T033000Z
+CATEGORIES:MVP,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/106878-jake-paul-returns\nhttps://www.boxrec.com/en/event/883469\n\n--
+ -\n\nMain Event: Jake Paul (7-1-0) vs. Andre August (10-1-1)\nCo-Main Ev
+ ent: Franchon Crews-Dezurn (8-2-0) vs. Shadasia Green (13-0-0)\nMain Car
+ d: Yoenis Tellez (6-0-0) vs. Livan Navarro (15-1-0)\nMain Card: Elijah F
+ lores (6-0-0) vs. Javier Mayoral (6-3-1)\nMain Card: Lorenzo Medina (8-0
+ -0) vs. Joshua Temple (12-2-0)\nMain Card: Zachary Randolph (5-3-1) vs. 
+ Michael Manna (7-5-0)
 END:VEVENT
 END:VCALENDAR

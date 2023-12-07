@@ -4,21 +4,45 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231109T103947Z
-X-KAMPFKALENDER-HASH:bd9caeaa919e8886c3477af4badeab6c1da39249
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:28921260bc0bb63d1b3a724ac98c27de27d74a11
 BEGIN:VEVENT
-DTSTAMP:20231109T103947Z
+DTSTAMP:20231207T104710Z
 UID:2023-12-unified-mma-54@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Unified MMA 54
-DTSTART:20231216T030000Z
-DTEND:20231216T060000Z
+DTSTART:20231216T033000Z
+DTEND:20231216T063000Z
 CATEGORIES:UMMA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/106643-unified-mma-54\n\n---\n\nMain Event: Shane Campbell (
- 21-8-0) vs. Darrell Horcher (14-6-0)\nCo-Main Event: Tom O’Connor (12-2-
- 0) vs. Ramil Kamilov (7-0-0)\nMain Card: Stephen Beaumont (10-3-0) vs. M
- ac Laursen (5-1-0)\nMain Card: Harley King (3-1-0) vs. Cody Chovancek (5
- -0-0)\nMain Card: Jake Craig (1-0-0) vs. Terrence Jeffers (2-0-0)
+ 21-8-0) vs. Darrell Horcher (14-6-0)\nMain Card: Stephen Beaumont (10-3-
+ 0) vs. Mac Laursen (5-1-0)\nMain Card: Harley King (3-1-0) vs. Cody Chov
+ ancek (5-0-0)\nMain Card: Jake Craig (1-0-0) vs. Terrence Jeffers (2-0-0
+ )\nMain Card: Tom O’Connor (12-2-0) vs. Craig Shintani (11-4-0)\nMain Ca
+ rd: Stephen Beaumont (10-3-0) vs. Guillaume DeLorenzi (10-3-0)\nPrelim: 
+ Parker Vandevelde (1-0-0) vs. Olson Werenka (2-0-0)\nPrelim: Evan Seguin
+  (1-1-0) vs. James Thiessen (2-1-0)\nPrelim: Connor Funk (1-1-0) vs. Chr
+ istian Pete (1-0-0)\nPrelim: Gabriel Brown (2-3-0) vs. Seth Fiddler (1-0
+ -0)\nPrelim: Dawson Baker (2-0-0) vs. Tyrese Lapatack (0-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-01-unified-mma-55@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Unified MMA 55
+DTSTART:20240120T010000Z
+DTEND:20240120T040000Z
+CATEGORIES:UMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107887-unified-mma-55\n\n---\n\nMain Event: John Nguyen (6-3
+ -0) vs. Mateo Vogel (8-3-0)\nCo-Main Event: Tony Laramie (8-2-0) vs. Lou
+ is Jourdain (7-3-0)\nMain Card: Teshay Gouthro (7-2-0) vs. Michael Imper
+ ato (11-6-0)\nMain Card: Pat Pytlik (8-1-0) vs. Ryan Leininger (10-4-0)\
+ nMain Card: Tom Theocharis (8-5-0) vs. Robert Dunn (11-9-0)\nMain Card: 
+ Ryan Yapsam (2-0-0) vs. Karim Henniene (2-0-0)\nMain Card: Matt Speciale
+  (5-1-0) vs. Angel Mercado (6-1-0)\nMain Card: Dorjan Dokaj (3-1-1) vs. 
+ Cal Kostiniuk (1-0-0)\nMain Card: Darcy Giles (0-0-0) vs. Michael Asiffo
+  (0-2-0)\nMain Card: Anton Potocki (2-0-0) vs. Brennan Picard (1-0-0)
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231125T230305Z
-X-KAMPFKALENDER-HASH:a34df6638a6035f33f19d526af2fe909be260b3a
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:9df77ead481a27c42bcfa7da1a68ad577653167d
 BEGIN:VEVENT
-DTSTAMP:20231125T230305Z
+DTSTAMP:20231207T104710Z
 UID:2023-12-bkfc-56-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 56: Prelims
@@ -26,7 +26,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-56-prelims/2pe0d/
  vs. Troy Dennison
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T230305Z
+DTSTAMP:20231207T104710Z
 UID:2023-12-bkfc-56-perry-vs-alvarez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 56: Perry vs. Alvarez
@@ -45,16 +45,105 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-56/2pe0b/\n\n---\
   Dennison
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T230305Z
+DTSTAMP:20231207T104710Z
 UID:2023-12-aka-33@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:AKA 33
+DTSTART:20231210T010000Z
+DTEND:20231210T040000Z
+CATEGORIES:AKA,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/aka-33/2pe43/\n\n---\n
+ \nhttps://www.tapology.com/fightcenter/events/106020-aka-33\nhttps://www
+ .sherdog.com/events/aka-33-american-kombat-alliance-smith-vs-mitchell-10
+ 0396\n\n---\n\nMain Event: Hunter Smith (2-0-0) vs. Benton Mitchell (1-0
+ -0)\nMain Card: Robert Link (0-1-0) vs. Braxton King (1-2-0)\nMain Card:
+  Austin Soileau (0-0-0) vs. Malcolm Williams (1-10-0)\nMain Card: Seth D
+ ardar (6-0-0) vs. Nevan Driehuis (4-0-0)\nMain Card: Jude McNicol (1-2-0
+ ) vs. Landon Royer (1-0-0)\nMain Card: George Baron (1-0-0) vs. Sipho Nk
+ osi (0-3-0)\nMain Card: Tristen Bolyer (1-2-0) vs. Colton McElhinney (0-
+ 0-0)\nMain Card: Ruben Alaniz (1-1-0) vs. Dakota Smith (1-1-0)\nMain Car
+ d: Christian Wesley (0-0-0) vs. Michael Taylor (0-0-0)\nMain Card: Isaia
+ h Williams (0-0-0) vs. Dylan Sam (0-0-0)\nMain Card: Joseph Yarborough (
+ 1-0-0) vs. Andrew Trahan (1-0-0)\nMain Card: Mirad Almas (5-2-0) vs. Jus
+ tin Carpenter (4-2-0)\nMain Card: Matt Elliott (1-0-0) vs. Jacob Traver 
+ (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2023-12-fusion-fight-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League
 DTSTART:20231210T020000Z
 DTEND:20231210T050000Z
-CATEGORIES:AKA,MMA,fite.tv,live
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/ffl-winter-vs-mcmillen
+ /2pe2x/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/106835-fus
+ ion-fight-league-tommy-gun-returns\nhttps://www.sherdog.com/events/fusio
+ n-fight-league-seasons-beatings-winter-vs-mcmillen-100322\nhttps://event
+ s.mixedmartialarts.com/fusion-fight-league:a140242e-86fe-4757-91d1-c21f5
+ ca5d452\n\n---\n\nMain Event: Tommy McMillen (4-0-0) vs. Dustin Winter (
+ 8-5-0)\nMain Card: Amari Sengsavanh (5-0-0) vs. Rodney Mondala (7-5-0)\n
+ Main Card: Exie Benitez (1-0-0) vs. Ryan Ibsen (0-0-0)\nMain Card: Lucif
+ er Stabber (2-0-0) vs. Holden Kettengring (2-2-0)\nMain Card: Timothy Cu
+ rry (1-2-0) vs. Dakota Padgett (1-2-0)\nMain Card: Keenan Blackbird (0-1
+ -0) vs. Nate Lowe (1-0-0)\nMain Card: Shawn Kline (0-2-0) vs. Austin Reg
+ imbal (0-0-0)\nMain Card: Lance Regimbal (2-1-0) vs. Seth Clary (1-0-0)\
+ nMain Card: Tavaress Swann (1-2-0) vs. Josiah Harrison (1-0-0)\nMain Car
+ d: Nas Worthy (3-3-0) vs. Nate Lowe (1-0-0)\nMain Card: Bodyn Graham (0-
+ 0-0) vs. Trent Edwards (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2023-12-rizin-45@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:RIZIN 45
+DTSTART:20231231T060000Z
+DTEND:20231231T090000Z
+CATEGORIES:RIZIN,MMA,fite.tv,live
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/rizin-45/2pe5n/\n\n---
+ \n\nhttps://www.tapology.com/fightcenter/events/107924-rizin-45\n\n---\n
+ \nMain Card: Juan Archuleta (29-4-0) vs. Kai Asakura (20-4-0)\nMain Card
+ : Kyoji Horiguchi (31-5-0) vs. Makoto Shinryu (16-1-1)\nMain Card: Klebe
+ r Koike Erbst (31-7-1) vs. Yutaka Saito (21-7-2)\nMain Card: Hiromasa Ou
+ gikubo (25-8-2) vs. John Dodson (24-13-0)\nMain Card: Shinobu Ota (4-3-0
+ ) vs. Ryusei Ashizawa (0-0-0)\nMain Card: Tsuyoshi Sudario (8-2-0) vs. M
+ ikio Ueda (2-1-0)\nMain Card: Seika Izawa (11-0-0) vs. Miyuu Yamamoto (6
+ -7-0)\nMain Card: Kota Miura (2-0-0) vs. Koji Tanaka (0-0-0)\nMain Card:
+  Satoshi Yamasu (13-7-0) vs. Suguru Nii (16-12-0)\nMain Card: Igor Tanab
+ e (4-0-0) vs. Shinsho Anzai (9-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-01-bkb-36@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 36
+DTSTART:20240127T170000Z
+DTEND:20240127T200000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/106020-aka-33\n\n---\n\nMain Card: Willie Sims (4-1-0) vs. Justin C
- arpenter (4-2-0)\nMain Card: Seth Dardar (6-0-0) vs. Nevan Driehuis (4-0
- -0)
+ ents/107728-bkb-36\n\n---\n\nMain Card: Tony Lafferty vs. Scott McHugh
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-01-bkfc-prospect-series-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Prospect Series 3
+DTSTART:20240128T010000Z
+DTEND:20240128T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/108143-bkfc-prospect-series-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-02-bkfc-57-palomino-vs-trout@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 57: Palomino vs. Trout
+DTSTART:20240203T010000Z
+DTEND:20240203T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/108070-bkfc-57-palomino-vs-trout\n\n---\n\nMain Event: Luis Palomin
+ o vs. Austin Trout
 END:VEVENT
 END:VCALENDAR

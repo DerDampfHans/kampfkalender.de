@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231126T230307Z
-X-KAMPFKALENDER-HASH:0d15ae10a6fc8ec4ee1a61de2cac642b2176318f
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:4402c415654a7342a0038782065f40b7ca276e2e
 BEGIN:VEVENT
-DTSTAMP:20231126T230307Z
+DTSTAMP:20231207T104709Z
 UID:2023-12-urijah-faber-a1-combat-16@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Urijah Faber A1 Combat 16
-DTSTART:20231224T020000Z
-DTEND:20231224T050000Z
+DTSTART:20231224T030000Z
+DTEND:20231224T060000Z
 CATEGORIES:A1C,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/104924-urijah-faber-s-a1-combat-16\n\n---\n\nMain Card: Alex
@@ -25,5 +25,20 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ias (2-1-0) vs. Isaiah Batin-Gonzalez (4-2-0)\nMain Card: Shane Christie
   (1-0-0) vs. Michael O'Leary (2-3-0)\nMain Card: James Porter (1-3-0) vs
  . John Wadkins (1-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2024-01-urijah-faber-a1-combat-17-green-vs-felipe@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Urijah Faber A1 Combat 17: Green vs. Felipe
+DTSTART:20240120T020000Z
+DTEND:20240120T050000Z
+CATEGORIES:A1C,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107729-urijah-faber-s-a1-combat-17-sac-state-green-vs-felipe
+ \n\n---\n\nMain Card: Troy Green (6-2-0) vs. Kevem Felipe (7-6-0)\nMain 
+ Card: Terrance Saeteurn (4-1-0) vs. Miguel Ceja (3-1-0)\nMain Card: Jack
+  Duffy (6-0-0) vs. Anthony Perales (6-3-0)\nMain Card: Sinjen Smith (4-0
+ -0) vs. Tyson Miller (4-1-0)
 END:VEVENT
 END:VCALENDAR

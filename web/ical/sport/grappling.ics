@@ -4,6 +4,53 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231111T230304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:e861a8de87b754d4209f9b40aaeb85d1fef4a3ff
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2023-12-fight-pass-invitational@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fight Pass Invitational
+DTSTART:20231211T010000Z
+DTEND:20231211T040000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2023-12-medusa-5@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Medusa 5
+DTSTART:20231229T010000Z
+DTEND:20231229T040000Z
+CATEGORIES:EBI,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2023-12-fury-pro-grappling-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury Pro Grappling 8
+DTSTART:20231231T000000Z
+DTEND:20231231T030000Z
+CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108169-fury-pro-grappling-8\n\n---\n\nMain Event: Aljamain S
+ terling vs. Kevin Dantzler\nMain Card: Alexandr Romanov vs. Chris Daukau
+ s\nMain Card: Eryk Anders vs. Kyle Daukaus\nMain Card: Pat Sabatini vs. 
+ Niko Price\nMain Card: Amanda Mazza vs. Elyse Shaw\nMain Card: Fatima Kl
+ ine vs. Cindy Ung\nMain Card: Charlie Campbell vs. Lee Moringo\nMain Car
+ d: Santo Curatolo vs. Aidan Burke\nMain Card: Paul Capaldo vs. Cameron S
+ calio
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2023-12-fury-pro-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury Pro Grappling
+DTSTART:20231231T010000Z
+DTEND:20231231T040000Z
+CATEGORIES:FFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231109T103947Z
-X-KAMPFKALENDER-HASH:6d6aab2f3d992a93f97d0c8c23c6f56b414b802b
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:955f3d9cf13a782c24f9c4ee0aacbf11ef49ddd7
 BEGIN:VEVENT
-DTSTAMP:20231109T103947Z
+DTSTAMP:20231207T104709Z
 UID:2023-12-fury-fc-84@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 84
@@ -32,5 +32,52 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  lvan (1-0-0) vs. Riley Redgrave (0-0-0)\nPrelim: Andrew Villarreal (1-1-
  0) vs. Christian Dismore (0-0-0)\nPrelim: Brandon Vu (0-0-0) vs. Elisha 
  Wilson (1-1-0)\nPrelim: Gabriel Antonio (1-1-0) vs. Paul Wilson (0-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2023-12-fury-pro-grappling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury Pro Grappling
+DTSTART:20231231T010000Z
+DTEND:20231231T040000Z
+CATEGORIES:FFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2024-01-fury-fc-85-aswell-vs-altum@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 85: Aswell vs. Altum
+DTSTART:20240114T223000Z
+DTEND:20240115T013000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107478-fury-fc-85\n\n---\n\nMain Event: Michael Aswell (7-1-
+ 0) vs. Josh Altum (5-2-0)\nMain Card: Josh Walker (8-1-0) vs. Luis Gurul
+ e (7-0-0)\nMain Card: Hector Saenz (6-1-0) vs. Tracy Reeder (7-2-0)\nMai
+ n Card: Carlos Jimenez (4-3-0) vs. Francisco Obando (4-3-0)\nMain Card: 
+ Alden Coria (7-2-0) vs. Alberto Trujillo (8-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2024-02-fury-fc-86@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 86
+DTSTART:20240223T210000Z
+DTEND:20240224T000000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107713-fury-fc-86
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2024-03-fury-fc-87@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 87
+DTSTART:20240322T200000Z
+DTEND:20240322T230000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107714-fury-fc-87
 END:VEVENT
 END:VCALENDAR

@@ -4,31 +4,36 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231125T230305Z
-X-KAMPFKALENDER-HASH:d8d123f6ce790c9871f1dac86211effbb4d6a095
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:21a8d0e1ee2f9d60ad7a56a1eddde3cca1c4dca9
 BEGIN:VEVENT
-DTSTAMP:20231125T230305Z
+DTSTAMP:20231207T104710Z
 UID:2023-12-oktagon-50@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 50
-DTSTART:20231209T120000Z
-DTEND:20231209T150000Z
-CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
-DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/98887-oktagon\n\n---\n\nMain Event: Losene Keita (11-1-0) vs. Ni
- ko Samsonidse (10-2-0)\nCo-Main Event: Ronald Paradeiser (17-8-0) vs. Iv
- an Buchinger (41-8-0)\nMain Card: Vladimír Lengál (6-2-0) vs. Samuel Bar
- k (8-2-0)\nMain Card: Matěj Kuzník (18-8-0) vs. Ebrahim Hosseinpour (7-7
- -0)\nMain Card: Marek Bartl (11-12-0) vs. James Lewis (8-5-0)\nMain Card
- : Jan Široký (13-15-0) vs. Hafeni Nafuka (5-0-0)\nMain Card: Rafael Xavi
- er (12-7-0) vs. Dan Vinni (24-17-2)\nMain Card: Michal Konrád (8-10-0) v
- s. Marco Novák (2-1-0)
+DTSTART:20231209T180000Z
+DTEND:20231209T210000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,DAZN,live
+DESCRIPTION:via oktagon.tv\nvia DAZN\n\n---\n\nhttps://www.tapology.com/f
+ ightcenter/events/98887-oktagon\nhttps://www.sherdog.com/events/oktagon-
+ mma-oktagon-50-ostrava-97069\nhttps://events.mixedmartialarts.com/oktago
+ n-50:cb322062-53c0-49bd-ad9a-906b8ce9a42b\nhttps://www.bestfightodds.com
+ /events/oktagon-3097\n\n---\n\nMain Event: Losene Keita (11-1-0) vs. Nik
+ o Samsonidse (10-2-0)\nCo-Main Event: Ronald Paradeiser (17-8-0) vs. Iva
+ n Buchinger (41-8-0)\nMain Card: Vladimír Lengál (6-2-0) vs. Samuel Bark
+  (8-2-0)\nMain Card: Matěj Peňáz (7-1-0) vs. Ole Magnor (8-7-0)\nMain Ca
+ rd: Rafael Xavier (12-7-0) vs. Dan Vinni (24-17-2)\nMain Card: Jan Širok
+ ý (13-15-0) vs. Stefano Catacoli (6-1-0)\nPrelim: Matěj Kuzník (18-8-0) 
+ vs. Ebrahim Hosseinpour (7-7-0)\nPrelim: Máté Kertész (13-7-0) vs. Ammar
+ i Diedrick (4-1-0)\nPrelim: Ondřej Raška (9-8-0) vs. Michal Kotalík (6-6
+ -0)\nPrelim: Marek Bartl (11-12-0) vs. James Lewis (8-5-0)\nPrelim: Mich
+ al Konrád (8-10-0) vs. Marco Novák (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T230305Z
-UID:2023-12-oktagon-51-tipsport-gamechanger-final@kampfkalender.de
+DTSTAMP:20231207T104710Z
+UID:2023-12-oktagon-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:OKTAGON 51: Tipsport Gamechanger Final
+SUMMARY:OKTAGON 51
 DTSTART:20231229T170000Z
 DTEND:20231229T200000Z
 CATEGORIES:Oktagon,MMA,oktagon.tv,live
@@ -38,6 +43,45 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  as Michailidis (16-6-0)\nMain Card: Karlos Vémola (36-7-0) vs. Samuel Kr
  ištofič (16-6-0)\nMain Card: Daniel Škvor (6-3-0) vs. Martin Zawada (29-
  18-1)\nMain Card: Karol Ryšavý (12-6-0) vs. Abou Tounkara (10-5-0)\nMain
-  Card: Tomáš Fiala (7-6-0) vs. Hassan Shaaban (2-1-0)
+  Card: Tomáš Fiala (7-6-0) vs. Hassan Shaaban (2-1-0)\nMain Card: Magdal
+ éna Šormová (11-4-0) vs. Mallory Martin (7-6-0)\nMain Card: Ion Surdu (1
+ 4-5-0) vs. Stefano Paternò (15-4-1)\nMain Card: Chiara Penco (8-4-0) vs.
+  Eva Dourthe (7-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-01-oktagon-52@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 52
+DTSTART:20240127T170000Z
+DTEND:20240127T200000Z
+CATEGORIES:Oktagon,MMA,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/107435-oktagon-52\n\n---\n\nMain Card: Jonas Mågård (15-6-0) vs.
+  Jack Cartwright (11-1-0)\nMain Card: Adam Pałasz (9-2-0) vs. Stuart Aus
+ tin (17-8-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-02-oktagon-53@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 53
+DTSTART:20240210T170000Z
+DTEND:20240210T200000Z
+CATEGORIES:Oktagon,MMA,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/107434-oktagon-53\n\n---\n\nMain Card: Islam Dulatov (9-1-0) vs.
+  John Palaiologos (20-12-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-03-oktagon-55@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 55
+DTSTART:20240323T160000Z
+DTEND:20240323T190000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/107451-oktagon-55
 END:VEVENT
 END:VCALENDAR

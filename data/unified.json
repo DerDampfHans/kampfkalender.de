@@ -7,10 +7,15 @@
     ],
     "mainCard": {
       "title": "Unified MMA 54",
-      "time": "2023-12-16T03:00:00Z",
+      "time": "2023-12-16T03:30:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 255064,
+        "time": "2023-12-16T03:30:00Z",
+        "title": "UNIFIED MMA 54"
       }
     },
     "tapology": {
@@ -24,10 +29,53 @@
       ],
       "card": [
         "Main Event: Shane Campbell (21-8-0) vs. Darrell Horcher (14-6-0)",
-        "Co-Main Event: Tom O’Connor (12-2-0) vs. Ramil Kamilov (7-0-0)",
         "Main Card: Stephen Beaumont (10-3-0) vs. Mac Laursen (5-1-0)",
         "Main Card: Harley King (3-1-0) vs. Cody Chovancek (5-0-0)",
-        "Main Card: Jake Craig (1-0-0) vs. Terrence Jeffers (2-0-0)"
+        "Main Card: Jake Craig (1-0-0) vs. Terrence Jeffers (2-0-0)",
+        "Main Card: Tom O’Connor (12-2-0) vs. Craig Shintani (11-4-0)",
+        "Main Card: Stephen Beaumont (10-3-0) vs. Guillaume DeLorenzi (10-3-0)",
+        "Prelim: Parker Vandevelde (1-0-0) vs. Olson Werenka (2-0-0)",
+        "Prelim: Evan Seguin (1-1-0) vs. James Thiessen (2-1-0)",
+        "Prelim: Connor Funk (1-1-0) vs. Christian Pete (1-0-0)",
+        "Prelim: Gabriel Brown (2-3-0) vs. Seth Fiddler (1-0-0)",
+        "Prelim: Dawson Baker (2-0-0) vs. Tyrese Lapatack (0-1-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-107887",
+    "promotion": "UNIFIED",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Unified MMA 55",
+      "time": "2024-01-20T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 107887,
+      "time": "2024-01-20T01:00:00Z",
+      "title": "Unified MMA 55",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/107887-unified-mma-55",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: John Nguyen (6-3-0) vs. Mateo Vogel (8-3-0)",
+        "Co-Main Event: Tony Laramie (8-2-0) vs. Louis Jourdain (7-3-0)",
+        "Main Card: Teshay Gouthro (7-2-0) vs. Michael Imperato (11-6-0)",
+        "Main Card: Pat Pytlik (8-1-0) vs. Ryan Leininger (10-4-0)",
+        "Main Card: Tom Theocharis (8-5-0) vs. Robert Dunn (11-9-0)",
+        "Main Card: Ryan Yapsam (2-0-0) vs. Karim Henniene (2-0-0)",
+        "Main Card: Matt Speciale (5-1-0) vs. Angel Mercado (6-1-0)",
+        "Main Card: Dorjan Dokaj (3-1-1) vs. Cal Kostiniuk (1-0-0)",
+        "Main Card: Darcy Giles (0-0-0) vs. Michael Asiffo (0-2-0)",
+        "Main Card: Anton Potocki (2-0-0) vs. Brennan Picard (1-0-0)"
       ]
     }
   }

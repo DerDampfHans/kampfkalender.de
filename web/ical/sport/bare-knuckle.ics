@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231125T230305Z
-X-KAMPFKALENDER-HASH:5ec188795b857401b4e9f143a2bdeab503547435
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:6f08b5eb6b992cf70891bf301fe7f486a55b393b
 BEGIN:VEVENT
-DTSTAMP:20231125T230305Z
+DTSTAMP:20231207T104710Z
 UID:2023-12-bkfc-56-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 56: Prelims
@@ -26,7 +26,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-56-prelims/2pe0d/
  vs. Troy Dennison
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T230305Z
+DTSTAMP:20231207T104710Z
 UID:2023-12-bkfc-56-perry-vs-alvarez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 56: Perry vs. Alvarez
@@ -43,5 +43,39 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-56/2pe0b/\n\n---\
  ke Jones vs. Erick Lozano\nPrelim: Keegan Vandermeer vs. Esteban Rodrigu
  ez\nPrelim: LJ Schulz vs. Danny Hilton\nPrelim: Trever Bradshaw vs. Troy
   Dennison
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-01-bkb-36@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKB 36
+DTSTART:20240127T170000Z
+DTEND:20240127T200000Z
+CATEGORIES:BKB,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/107728-bkb-36\n\n---\n\nMain Card: Tony Lafferty vs. Scott McHugh
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-01-bkfc-prospect-series-3@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Prospect Series 3
+DTSTART:20240128T010000Z
+DTEND:20240128T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/108143-bkfc-prospect-series-3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104710Z
+UID:2024-02-bkfc-57-palomino-vs-trout@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 57: Palomino vs. Trout
+DTSTART:20240203T010000Z
+DTEND:20240203T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/108070-bkfc-57-palomino-vs-trout\n\n---\n\nMain Event: Luis Palomin
+ o vs. Austin Trout
 END:VEVENT
 END:VCALENDAR

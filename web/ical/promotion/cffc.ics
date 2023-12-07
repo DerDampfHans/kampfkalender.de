@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231111T105243Z
-X-KAMPFKALENDER-HASH:604d4d88c50cfb97248535fc606383c0c17e5c9b
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:2a31a6d8a5b3bb52fdf18c4204c4259abb0dfa36
 BEGIN:VEVENT
-DTSTAMP:20231111T105244Z
+DTSTAMP:20231207T104709Z
 UID:2023-12-cffc-128-watley-vs-gjetja@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:CFFC 128: Watley vs. Gjetja
@@ -17,12 +17,29 @@ CATEGORIES:CFFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/106612-cffc-128\n\n---\n\nMain Event: Robert Watley (13-3-0)
   vs. Armando Gjetja (8-3-0)\nCo-Main Event: Luke Fernandez (2-0-0) vs. P
- eter New (4-2-0)\nMain Card: Eddy Torres (4-1-0) vs. Robert Wusstig (8-1
- 5-0)\nMain Card: Riley Palmer (1-0-0) vs. Hunter Starner (2-1-0)\nMain C
- ard: Keith Speed (5-6-0) vs. Anthony Dilemme (4-0-0)\nMain Card: Eric No
- lan (4-2-0) vs. Alonzo Turner (3-0-0)\nMain Card: Michael Billups (5-2-2
- ) vs. Thomas Picciano (4-1-0)\nMain Card: Sean Felton (5-4-1) vs. Robert
-  Varricchio (4-0-0)\nMain Card: Xhelal Lleshi (1-1-0) vs. Mardin Velasqu
- ez (0-0-0)
+ eter New (4-2-0)\nMain Card: Riley Palmer (1-0-0) vs. Hunter Starner (2-
+ 1-0)\nMain Card: Keith Speed (5-6-0) vs. Anthony Dilemme (4-0-0)\nMain C
+ ard: Eric Nolan (4-2-0) vs. Alonzo Turner (3-0-0)\nMain Card: Michael Bi
+ llups (5-2-2) vs. Thomas Picciano (4-1-0)\nMain Card: Sean Felton (5-4-1
+ ) vs. Robert Varricchio (4-0-0)\nMain Card: Xhelal Lleshi (1-1-0) vs. Ma
+ rdin Velasquez (0-0-0)\nMain Card: Frank Wells (4-3-0) vs. Robert Wussti
+ g (8-15-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2023-12-fury-pro-grappling-8@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury Pro Grappling 8
+DTSTART:20231231T000000Z
+DTEND:20231231T030000Z
+CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108169-fury-pro-grappling-8\n\n---\n\nMain Event: Aljamain S
+ terling vs. Kevin Dantzler\nMain Card: Alexandr Romanov vs. Chris Daukau
+ s\nMain Card: Eryk Anders vs. Kyle Daukaus\nMain Card: Pat Sabatini vs. 
+ Niko Price\nMain Card: Amanda Mazza vs. Elyse Shaw\nMain Card: Fatima Kl
+ ine vs. Cindy Ung\nMain Card: Charlie Campbell vs. Lee Moringo\nMain Car
+ d: Santo Curatolo vs. Aidan Burke\nMain Card: Paul Capaldo vs. Cameron S
+ calio
 END:VEVENT
 END:VCALENDAR

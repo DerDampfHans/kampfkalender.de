@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231126T230307Z
-X-KAMPFKALENDER-HASH:582b967c6f684883478f03da50fcb98f69f9a5f3
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:9e70dde09cf2bbdc63de7df5abdc28850eb2a157
 BEGIN:VEVENT
-DTSTAMP:20231126T230307Z
+DTSTAMP:20231207T104709Z
 UID:2023-12-conlan-vs-gill@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Conlan vs. Gill
@@ -21,7 +21,69 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  cker (17-0-0)\nMain Card: Sean McComb (17-1-0) vs. Sam Maxwell (17-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231126T230307Z
+DTSTAMP:20231207T104709Z
+UID:2023-12-umara-vs-macayo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Umara vs. Macayo
+DTSTART:20231209T003000Z
+DTEND:20231209T033000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/108111-ko-drugs-night-of-champions\nhttps://www.boxrec.com/en/event/88
+ 3848\n\n---\n\nMain Event: Leonardo Padilla (22-5-0) vs. Jeremy Hill (19
+ -3-0)\nMain Card: Idalberto Umara (11-1-0) vs. Fradimil Macayo (16-1-0)\
+ nMain Card: Kevin Brown (3-0-0) vs. Marcos Jimenez (25-10-0)\nMain Card:
+  Euri Cedeno (6-0-1) vs. Yoanki Urrutia (13-0-0)\nMain Card: Jeovanny Es
+ tela (13-0-0) vs. Juan Egana Elizalde (11-2-0)\nMain Card: Etoundi Willi
+ am (14-0-0) vs. Dormedes Potes (14-4-1)\nMain Card: Israel Rodriguez (26
+ -5-0) vs. Wilner Soto (23-14-0)\nMain Card: Aaron Aponte (7-1-1) vs. Rob
+ erto Almazan (11-21-0)\nMain Card: Jean Guerra (6-0-0) vs. Pedro Hernand
+ ez (7-16-1)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2023-12-rajadamnern-world-series@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series
+DTSTART:20231209T121500Z
+DTEND:20231209T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/108136-rajadamnern-world-series-yodwicha-vs-matsushima
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2023-12-turarov-vs-kondo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Turarov vs. Kondo
+DTSTART:20231210T130000Z
+DTEND:20231210T160000Z
+CATEGORIES:Other,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/108219-turarov-vs-kondo
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2023-12-fight-pass-invitational@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fight Pass Invitational
+DTSTART:20231211T010000Z
+DTEND:20231211T040000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2023-12-rajadamnern-world-series-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series
+DTSTART:20231216T121500Z
+DTEND:20231216T151500Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
 UID:2023-12-college-wrestling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:College Wrestling
@@ -31,12 +93,32 @@ CATEGORIES:Other,Wrestling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231126T230307Z
+DTSTAMP:20231207T104709Z
 UID:2023-12-college-wrestling-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:College Wrestling
 DTSTART:20231222T010000Z
 DTEND:20231222T040000Z
+CATEGORIES:Other,Wrestling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2024-01-college-wrestling@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:College Wrestling
+DTSTART:20240108T010000Z
+DTEND:20240108T040000Z
+CATEGORIES:Other,Wrestling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2024-01-college-wrestling-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:College Wrestling
+DTSTART:20240113T180000Z
+DTEND:20240113T210000Z
 CATEGORIES:Other,Wrestling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT

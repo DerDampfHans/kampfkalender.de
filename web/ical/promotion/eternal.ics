@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231111T105243Z
-X-KAMPFKALENDER-HASH:aea4a41063a8b4405b19c076279037ceab7f92b1
+DTSTAMP:20231207T104709Z
+X-KAMPFKALENDER-HASH:f813f2d24475cfbf39c9df7762b725efd35a4747
 BEGIN:VEVENT
-DTSTAMP:20231111T105244Z
+DTSTAMP:20231207T104709Z
 UID:2024-02-eternal-mma-82@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Eternal MMA 82
@@ -15,7 +15,23 @@ DTSTART:20240210T090000Z
 DTEND:20240210T120000Z
 CATEGORIES:EMMA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/106684-eternal-mma-82\n\n---\n\nMain Card: Aldin Bates (8-3-
- 0) vs. Kaleb Rideout (7-3-0)
+ nter/events/106684-eternal-mma-82\n\n---\n\nMain Event: Quillan Salkilld
+  (5-1-0) vs. Dom Mar Fan (4-1-0)\nCo-Main Event: Rod Costa (7-6-0) vs. A
+ lan Philpott (20-15-0)\nMain Card: Aldin Bates (8-3-0) vs. Kaleb Rideout
+  (7-3-0)\nMain Card: Anthony Drilich (6-1-0) vs. Jake Hearl (4-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T104709Z
+UID:2024-03-eternal-mma-83@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Eternal MMA 83
+DTSTART:20240316T080000Z
+DTEND:20240316T110000Z
+CATEGORIES:EMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108185-eternal-mma-83\n\n---\n\nMain Event: John Martin Fras
+ er (7-3-0) vs. Ben Johnston (4-1-0)\nCo-Main Event: Elliot Compton (1-1-
+ 0) vs. Lachlan Stitt (2-1-0)\nMain Card: Tasar Malone (2-0-0) vs. Jayden
+  Binnie (1-1-0)
 END:VEVENT
 END:VCALENDAR

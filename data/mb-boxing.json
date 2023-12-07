@@ -7,10 +7,17 @@
     ],
     "mainCard": {
       "title": "Haney vs. Prograis",
-      "time": "2023-12-10T02:00:00Z",
+      "time": "2023-12-10T01:00:00Z",
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "ggnj2bvzjaq138pt031tecb6",
+        "time": "2023-12-10T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Haney vs Prograis"
       }
     },
     "tapology": {
@@ -25,14 +32,15 @@
       "card": [
         "Main Event: Devin Haney (30-0-0) vs. Regis Prograis (29-1-0)",
         "Co-Main Event: Liam Paro (23-0-0) vs. Montana Love (18-1-1)",
-        "Main Card: Ebanie Bridges (9-1-0) vs. Avril Mathie (8-1-1)",
-        "Main Card: Andy Cruz (2-0-0) vs. Hector Tanajara (21-1-1)",
-        "Main Card: Beatriz Ferreira (3-0-0) vs. Destiny Jones (5-1-0)",
-        "Main Card: Amari Jones (10-0-0) vs. Quilisto Madera (14-4-0)"
+        "Main Card: Ebanie Bridges (9-1-0) vs. Miyo Yoshida (16-4-0)",
+        "Main Card: Andy Cruz (2-0-0) vs. Jovanni Straffon (25-5-1)",
+        "Prelim: Beatriz Ferreira (3-0-0) vs. Destiny Jones (5-1-0)",
+        "Prelim: Amari Jones (10-0-0) vs. Quilisto Madera (14-4-0)",
+        "Prelim: Shamar Canal (4-0-0) vs. Jose Antonio Meza (8-8-0)"
       ],
       "links": [
         "https://www.matchroomboxing.com/events/haney-vs-prograis/",
-        "http://www.boxrec.com/en/event/881461"
+        "https://www.boxrec.com/en/event/881461"
       ]
     }
   },
@@ -48,6 +56,13 @@
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "103tw7idlhbum1k8y07ry799uh",
+        "time": "2023-12-17T01:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Rodriguez vs Edwards"
       }
     },
     "tapology": {
@@ -61,11 +76,62 @@
       ],
       "card": [
         "Main Event: Jesse Rodriguez (18-0-0) vs. Sunny Edwards (20-0-0)",
-        "Main Card: Murodjon Akhmadaliev (11-1-0) vs. Kevin Gonzalez (25-0-1)"
+        "Main Card: Murodjon Akhmadaliev (11-1-0) vs. Kevin Gonzalez (25-0-1)",
+        "Main Card: Galal Yafai (5-0-0) vs. Rocco Santomauro (22-2-0)",
+        "Main Card: Peter McGrail (8-0-0) vs. Jarico O'Quinn (16-1-1)",
+        "Prelim: Joe McGrail (7-0-0) vs. B. Marquez (5-5-1)",
+        "Prelim: Gordie Russ II (6-0-0) vs. Junaid Bostan (7-0-0)",
+        "Prelim: Arturo Popoca (11-0-1) vs. Carlos Mujica (8-3-0)",
+        "Prelim: Albert Gonzalez (6-0-0) vs. Robenilson Viera (5-1-0)"
       ],
       "links": [
         "https://www.matchroomboxing.com/events/rodriguez-vs-edwards/",
-        "http://www.boxrec.com/en/event/878687"
+        "https://www.boxrec.com/en/event/878687"
+      ]
+    }
+  },
+  {
+    "id": "tapology-107328",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Joshua vs. Wallin",
+      "time": "2023-12-23T16:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "18qbnzzrr3hu41f70j2anytg14",
+        "time": "2023-12-23T16:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Joshua vs Wallin"
+      }
+    },
+    "tapology": {
+      "id": 107328,
+      "time": "2023-12-23T18:00:00Z",
+      "title": "Day of Reckoning",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/107328-joshua-vs-wallin",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Anthony Joshua (26-3-0) vs. Otto Wallin (26-1-0)",
+        "Co-Main Event: Deontay Wilder (43-2-1) vs. Joseph Parker (33-3-0)",
+        "Main Card: Dmitry Bivol (21-0-0) vs. Lyndon Arthur (23-1-0)",
+        "Main Card: Daniel Dubois (19-2-0) vs. Jarrell Miller (26-0-1)",
+        "Main Card: Filip Hrgovic (16-0-0) vs. Mark De Mori (41-2-2)",
+        "Main Card: Arslanbek Makhmudov (18-0-0) vs. Agit Kabayel (23-0-0)",
+        "Main Card: Frank Sanchez (23-0-0) vs. Junior Fa (20-2-0)",
+        "Main Card: Jai Opetaia (23-0-0) vs. Ellis Zorro (17-0-0)"
+      ],
+      "links": [
+        "https://www.boxrec.com/en/event/884645"
       ]
     }
   }
