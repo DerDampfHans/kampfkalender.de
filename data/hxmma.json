@@ -21,7 +21,11 @@
       ],
       "card": [
         "Main Event: Gregory Bouchelaghem (6-4-0) vs. Martin Horský (4-5-0)",
-        "Co-Main Event: Mehdi Ben Lakhdhar (6-1-1) vs. Osvald Fedorovič (7-4-0)"
+        "Co-Main Event: Mehdi Ben Lakhdhar (6-1-1) vs. Osvald Fedorovič (7-5-0)",
+        "Main Card: Benjamin Molnár (10-8-0) vs. Helder Fernandes (8-7-0)",
+        "Main Card: Magomed Kadimagomedov (5-0-0) vs. Nacim Belhouachi (3-2-0)",
+        "Main Card: Abou Kamara (1-0-0) vs. Michael Bento (0-1-0)",
+        "Main Card: Théo Ulrich (0-0-0) vs. Rémi Bourgois (0-0-0)"
       ]
     }
   },
@@ -40,8 +44,17 @@
       "id": 106568,
       "time": "2024-02-10T17:00:00Z",
       "title": "Hexagone MMA 14",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/106568-hexagone-mma-14"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/106568-hexagone-mma-14",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Laïd Zerhouni (11-8-0) vs. Matthieu Duclos (5-2-0)",
+        "Main Card: Nicolae Bivol (2-0-0) vs. Guillaume Delattre (1-0-0)",
+        "Main Card: Younes Najid (6-5-0) vs. Kevin Del (4-7-1)",
+        "Main Card: Pavla Kladivová (3-0-0) vs. Elsa Hemat (0-0-0)"
+      ]
     }
   },
   {
@@ -83,6 +96,25 @@
     }
   },
   {
+    "id": "tapology-108454",
+    "promotion": "HXMMA",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Hexagone MMA 17",
+      "time": "2024-06-02T16:00:00Z"
+    },
+    "tapology": {
+      "id": 108454,
+      "time": "2024-06-02T16:00:00Z",
+      "title": "Hexagone MMA 17",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/108454-hexagone-mma-17"
+    }
+  },
+  {
     "id": "tapology-107632",
     "promotion": "HXMMA",
     "sports": [
@@ -96,7 +128,7 @@
     "tapology": {
       "id": 107632,
       "time": "2024-07-25T16:00:00Z",
-      "title": "Hexagone MMA",
+      "title": "Hexagone MMA 18",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/107632-hexagone-mma"
     }

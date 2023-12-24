@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231223T230304Z
-X-KAMPFKALENDER-HASH:a985c99aa1e50366c609a74521d3e381deed97a2
+DTSTAMP:20231224T000313Z
+X-KAMPFKALENDER-HASH:6293993f463ec6cf962b085794897c3ee0b8d9e3
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2023-12-ufc-296-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 296: Prelims
@@ -34,7 +34,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  (14-2-0)\nPrelim: Josh Emmett (18-4-0) vs. Bryce Mitchell (16-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2023-12-ufc-296-edwards-vs-covington@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 296: Edwards vs. Covington
@@ -62,7 +62,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2024-01-ufc-vegas-84-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 84: Prelims
@@ -85,7 +85,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0-0) vs. Nikolas Motta (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2024-01-ufc-vegas-84-ankalaev-vs-walker-ii@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 84: Ankalaev vs. Walker II
@@ -108,12 +108,58 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  m Nolan (6-0-0) vs. Nikolas Motta (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
-UID:2024-01-ufc-297@kampfkalender.de
+DTSTAMP:20231224T000313Z
+UID:2024-01-ufc-297-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC 297
+SUMMARY:UFC 297: Early Prelims
 DTSTART:20240120T230000Z
-DTEND:20240121T020000Z
+DTEND:20240121T010000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/105840-ufc-297\n\n---\n\nMain Event: Sean Strickland (28-5-0
+ ) vs. Dricus Du Plessis (20-2-0)\nCo-Main Event: Raquel Pennington (15-8
+ -0) vs. Mayra Bueno Silva (10-2-1)\nMain Card: Arnold Allen (19-2-0) vs.
+  Movsar Evloev (17-0-0)\nMain Card: Neil Magny (28-11-0) vs. Mike Malott
+  (10-1-1)\nMain Card: Jan Błachowicz (29-10-1) vs. Aleksandar Rakić (14-
+ 3-0)\nPrelim: Brad Katona (13-2-0) vs. Garrett Armfield (9-3-0)\nPrelim:
+  Gillian Robertson (12-8-0) vs. Polyana Viana (13-6-0)\nPrelim: Serhiy S
+ idey (10-1-0) vs. Ramon Taveras (9-2-0)\nPrelim: Chris Curtis (30-10-0) 
+ vs. Marc-André Barriault (16-6-0)\nPrelim: Malcolm Gordon (14-7-0) vs. J
+ immy Flick (16-7-0)\nPrelim: Yohan Lainesse (9-2-0) vs. Sam Patterson (1
+ 0-2-1)\nPrelim: Charles Jourdain (15-6-1) vs. Sean Woodson (10-1-1)\nPre
+ lim: Jasmine Jasudavicius (9-3-0) vs. Priscila Cachoeira (12-5-0)\nPreli
+ m: Dominick Reyes (12-4-0) vs. Carlos Ulberg (9-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000313Z
+UID:2024-01-ufc-297-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 297: Prelims
+DTSTART:20240121T010000Z
+DTEND:20240121T030000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/105840-ufc-297\n\n---\n\nMain Event: Sean Strickland (28-5-0
+ ) vs. Dricus Du Plessis (20-2-0)\nCo-Main Event: Raquel Pennington (15-8
+ -0) vs. Mayra Bueno Silva (10-2-1)\nMain Card: Arnold Allen (19-2-0) vs.
+  Movsar Evloev (17-0-0)\nMain Card: Neil Magny (28-11-0) vs. Mike Malott
+  (10-1-1)\nMain Card: Jan Błachowicz (29-10-1) vs. Aleksandar Rakić (14-
+ 3-0)\nPrelim: Brad Katona (13-2-0) vs. Garrett Armfield (9-3-0)\nPrelim:
+  Gillian Robertson (12-8-0) vs. Polyana Viana (13-6-0)\nPrelim: Serhiy S
+ idey (10-1-0) vs. Ramon Taveras (9-2-0)\nPrelim: Chris Curtis (30-10-0) 
+ vs. Marc-André Barriault (16-6-0)\nPrelim: Malcolm Gordon (14-7-0) vs. J
+ immy Flick (16-7-0)\nPrelim: Yohan Lainesse (9-2-0) vs. Sam Patterson (1
+ 0-2-1)\nPrelim: Charles Jourdain (15-6-1) vs. Sean Woodson (10-1-1)\nPre
+ lim: Jasmine Jasudavicius (9-3-0) vs. Priscila Cachoeira (12-5-0)\nPreli
+ m: Dominick Reyes (12-4-0) vs. Carlos Ulberg (9-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000313Z
+UID:2024-01-ufc-297-strickland-vs-du-plessis@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 297: Strickland vs. Du Plessis
+DTSTART:20240121T030000Z
+DTEND:20240121T060000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/105840-ufc-297\n\n---\n\nMain Event: Sean Strickla
@@ -131,12 +177,33 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)\nPrelim: Dominick Reyes (12-4-0) vs. Carlos Ulberg (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
-UID:2024-02-ufc-fight-night@kampfkalender.de
+DTSTAMP:20231224T000313Z
+UID:2024-02-ufc-vegas-85-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night
-DTSTART:20240203T230000Z
-DTEND:20240204T020000Z
+SUMMARY:UFC Vegas 85: Prelims
+DTSTART:20240203T210000Z
+DTEND:20240204T000000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/106801-ufc-fight-night\n\n---\n\nMain Event: Roman Dolidze (
+ 12-2-0) vs. Nassourdine Imavov (12-4-0)\nPrelim: Thomas Petersen (8-1-0)
+  vs. Jamal Pogues (10-4-0)\nPrelim: Julija Stoliarenko (11-7-1) vs. Luan
+ a Carolina (9-4-0)\nPrelim: Viviane Araujo (12-5-0) vs. Natália Silva (1
+ 6-5-1)\nPrelim: Themba Gorimbo (11-4-0) vs. Kiefer Crosbie (10-4-0)\nPre
+ lim: Aliaskhab Khizriev (14-0-0) vs. Makhmud Muradov (26-8-0)\nPrelim: B
+ lake Bilder (8-1-1) vs. Jeong Yeong Lee (10-1-0)\nPrelim: Marquel Medero
+ s (8-1-0) vs. Landon Quiñones (7-2-1)\nPrelim: Gilbert Urbina (7-2-0) vs
+ . Charles Radtke (8-3-0)\nPrelim: Melsik Baghdasaryan (8-2-0) vs. Willia
+ m Gomis (13-2-0)\nPrelim: Molly McCann (13-6-0) vs. Diana Belbiţă (15-8-
+ 0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000313Z
+UID:2024-02-ufc-vegas-85-dolidze-vs-imavov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 85: Dolidze vs. Imavov
+DTSTART:20240204T000000Z
+DTEND:20240204T030000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/106801-ufc-fight-night\n\n---\n\nMain Event: Roman
@@ -152,7 +219,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  iţă (15-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2024-02-ufc-fight-night-hermansson-vs-pyfer@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Hermansson vs. Pyfer
@@ -170,7 +237,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s. Shayilan Nuerdanbieke (39-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2024-02-ufc-298-volkanovski-vs-topuria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 298: Volkanovski vs. Topuria
@@ -186,8 +253,8 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  o (15-5-0)\nPrelim: Andrea Lee (13-8-0) vs. Miranda Maverick (12-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
-UID:2024-02-ufc-fight-night-1@kampfkalender.de
+DTSTAMP:20231224T000313Z
+UID:2024-02-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
 DTSTART:20240224T230000Z
@@ -200,7 +267,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s. Felipe dos Santos (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2024-03-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -213,7 +280,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   vs. Jamie Pickett (13-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2024-03-ufc-299-o-malley-vs-vera-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 299: O'Malley vs. Vera 2
@@ -228,7 +295,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Katlyn Chookagian (18-5-0) vs. Maycee Barber (13-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230304Z
+DTSTAMP:20231224T000313Z
 UID:2024-03-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night

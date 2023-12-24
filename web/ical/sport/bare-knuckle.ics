@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231210T230305Z
-X-KAMPFKALENDER-HASH:28ce49452d792896948b5e05c0160294685b83a1
+DTSTAMP:20231224T000313Z
+X-KAMPFKALENDER-HASH:fb5b491517473a6c569afd63a916fae27134ee5b
 BEGIN:VEVENT
-DTSTAMP:20231210T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-01-bkb-36@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKB 36
@@ -18,26 +18,31 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/107728-bkb-36\n\n---\n\nMain Card: Tony Lafferty vs. Scott McHugh
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231210T230305Z
-UID:2024-01-bkfc-prospect-series-3@kampfkalender.de
+DTSTAMP:20231224T000313Z
+UID:2024-01-bkfc-prospect-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:BKFC Prospect Series 3
+SUMMARY:BKFC Prospect Series
 DTSTART:20240128T010000Z
 DTEND:20240128T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/108143-bkfc-prospect-series-3
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-prospects-2-albuq
+ uerque/2pe7c/\n\n---\n\nhttps://www.tapology.com/fightcenter/events/1081
+ 43-bkfc-prospect-series-3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231210T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-02-bkfc-57-palomino-vs-trout@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 57: Palomino vs. Trout
 DTSTART:20240203T010000Z
 DTEND:20240203T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
-DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/108070-bkfc-57-palomino-vs-trout\n\n---\n\nMain Event: Luis Palomin
- o vs. Austin Trout
+DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-57/2pe7b/\n\n---\
+ n\nhttps://www.tapology.com/fightcenter/events/108070-bkfc-57-palomino-v
+ s-trout\n\n---\n\nMain Event: Luis Palomino vs. Austin Trout\nMain Card:
+  Bryce Henry vs. Robbie Peralta\nMain Card: Chris Garcia vs. Albert Incl
+ an\nMain Card: Bryan Duran vs. Louie Lopez\nMain Card: Matt Russo vs. Ju
+ stin Street\nPrelim: John Michael Escoboza vs. Isaac Doolittle\nPrelim: 
+ Stephen Townsel vs. Leo Bercier\nPrelim: Ryan Reber vs. Derek Perez
 END:VEVENT
 END:VCALENDAR

@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231223T230304Z
-X-KAMPFKALENDER-HASH:692a17938cad806d16e85c4e3cdfd6c3c3e97a94
+DTSTAMP:20231224T000313Z
+X-KAMPFKALENDER-HASH:ea51943321daf5b5447de71ca4adf6b3182a8acb
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2023-12-rodriguez-vs-edwards@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Rodríguez vs. Edwards
@@ -26,7 +26,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   Albert Gonzalez (6-0-0) vs. Robenilson Viera (5-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2023-12-ufc-296-edwards-vs-covington@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 296: Edwards vs. Covington
@@ -54,7 +54,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2023-12-joshua-vs-wallin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Joshua vs. Wallin
@@ -72,7 +72,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
   (20-2-0)\nMain Card: Jai Opetaia (23-0-0) vs. Ellis Zorro (17-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-01-ortiz-vs-lawson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ortiz vs. Lawson
@@ -81,12 +81,16 @@ DTEND:20240107T040000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/106875-ortiz-vs-lawson\n\n---\n\nMain Event: Vergil Ortiz Jr. (19-0-0)
-  vs. Fredrick Lawson (30-3-0)\nMain Card: Marlen Esparza (14-1-0) vs. Ga
- briela Fundora (12-0-0)\nMain Card: Sergey Derevyanchenko (14-5-0) vs. D
- 'Mitrius Ballard (21-2-1)
+  vs. Fredrick Lawson (30-3-0)\nMain Card: Ohara Davies (25-2-0) vs. Isma
+ el Barroso (24-4-2)\nMain Card: Raul Curiel (13-0-0) vs. Elias Diaz (12-
+ 1-0)\nMain Card: Arnold Barboza Jr. (28-0-0) vs. Xolisani Ndongeni (31-3
+ -0)\nMain Card: Sergey Derevyanchenko (14-5-0) vs. R. Montgomery (10-5-1
+ )\nPrelim: Tristan Kalkreuth (12-1-0) vs. Marquice Weston (15-2-1)\nPrel
+ im: Johnny Canas (1-0-0) vs. Uhlices Avelino-Reyes (2-1-0)\nPrelim: Emil
+ iano Gandara (0-0-0) vs. Timvonte Carson (1-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-01-ufc-vegas-84-ankalaev-vs-walker-ii@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 84: Ankalaev vs. Walker II
@@ -109,12 +113,12 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  m Nolan (6-0-0) vs. Nikolas Motta (13-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
-UID:2024-01-ufc-297@kampfkalender.de
+DTSTAMP:20231224T000313Z
+UID:2024-01-ufc-297-strickland-vs-du-plessis@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC 297
-DTSTART:20240120T230000Z
-DTEND:20240121T020000Z
+SUMMARY:UFC 297: Strickland vs. Du Plessis
+DTSTART:20240121T030000Z
+DTEND:20240121T060000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/105840-ufc-297\n\n---\n\nMain Event: Sean Strickla
@@ -132,7 +136,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -0)\nPrelim: Dominick Reyes (12-4-0) vs. Carlos Ulberg (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-01-munguia-vs-ryder@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Munguia vs. Ryder
@@ -141,15 +145,16 @@ DTEND:20240128T050000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/108074-munguia-vs-ryder\nhttps://www.boxrec.com/en/event/885880\n\n---
- \n\nMain Event: Jaime Munguia (42-0-0) vs. John Ryder (32-6-0)
+ \n\nMain Event: Jaime Munguia (42-0-0) vs. John Ryder (32-6-0)\nMain Car
+ d: Gabriela Fundora (12-0-0) vs. Christina Cruz (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
-UID:2024-02-ufc-fight-night@kampfkalender.de
+DTSTAMP:20231224T000313Z
+UID:2024-02-ufc-vegas-85-dolidze-vs-imavov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night
-DTSTART:20240203T230000Z
-DTEND:20240204T020000Z
+SUMMARY:UFC Vegas 85: Dolidze vs. Imavov
+DTSTART:20240204T000000Z
+DTEND:20240204T030000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/106801-ufc-fight-night\n\n---\n\nMain Event: Roman
@@ -165,7 +170,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  iţă (15-8-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-02-ufc-fight-night-hermansson-vs-pyfer@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night: Hermansson vs. Pyfer
@@ -183,7 +188,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s. Shayilan Nuerdanbieke (39-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-02-ufc-298-volkanovski-vs-topuria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 298: Volkanovski vs. Topuria
@@ -199,8 +204,8 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  o (15-5-0)\nPrelim: Andrea Lee (13-8-0) vs. Miranda Maverick (12-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
-UID:2024-02-ufc-fight-night-1@kampfkalender.de
+DTSTAMP:20231224T000313Z
+UID:2024-02-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
 DTSTART:20240224T230000Z
@@ -213,7 +218,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  s. Felipe dos Santos (7-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-03-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -226,7 +231,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
   vs. Jamie Pickett (13-10-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-03-ufc-299-o-malley-vs-vera-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 299: O'Malley vs. Vera 2
@@ -241,7 +246,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  )\nPrelim: Katlyn Chookagian (18-5-0) vs. Maycee Barber (13-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000313Z
 UID:2024-03-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night

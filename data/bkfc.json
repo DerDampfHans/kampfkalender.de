@@ -6,25 +6,30 @@
       "BARE_KNUCKLE"
     ],
     "mainCard": {
-      "title": "BKFC Prospect Series 3",
+      "title": "BKFC Prospect Series",
       "time": "2024-01-28T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-prospects-2-albuquerque/2pe7c/"
         }
-      }
-    },
-    "prelims": {
-      "title": "BKFC Prospect Series 3: Prelims",
-      "broadcasters": {
-        "FITE_TV": {
-          "free": true
-        }
+      },
+      "fite": {
+        "id": "2pe7c",
+        "time": "2024-01-28T01:00:00Z",
+        "title": "BKFC Prospects 2 Albuquerque",
+        "url": "https://www.fite.tv/watch/bkfc-prospects-2-albuquerque/2pe7c/",
+        "price": "TRILLERTV+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "tapology": {
       "id": 108143,
       "time": "2024-01-28T01:00:00Z",
       "title": "BKFC Prospect Series 3",
+      "titleAlt": "BKFC Prospect Series 2",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/108143-bkfc-prospect-series-3"
     }
@@ -40,7 +45,19 @@
       "time": "2024-02-03T01:00:00Z",
       "broadcasters": {
         "FITE_TV": {
+          "url": "https://www.fite.tv/watch/bkfc-57/2pe7b/"
         }
+      },
+      "fite": {
+        "id": "2pe7b",
+        "time": "2024-02-03T01:00:00Z",
+        "title": "BKFC 57 Hollywood: Luis Palomino vs Austin Trout",
+        "url": "https://www.fite.tv/watch/bkfc-57/2pe7b/",
+        "price": "TRILLERTV+",
+        "sports": [
+          "BOXING",
+          "MMA"
+        ]
       }
     },
     "prelims": {
@@ -58,7 +75,14 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/108070-bkfc-57-palomino-vs-trout",
       "card": [
-        "Main Event: Luis Palomino vs. Austin Trout"
+        "Main Event: Luis Palomino vs. Austin Trout",
+        "Main Card: Bryce Henry vs. Robbie Peralta",
+        "Main Card: Chris Garcia vs. Albert Inclan",
+        "Main Card: Bryan Duran vs. Louie Lopez",
+        "Main Card: Matt Russo vs. Justin Street",
+        "Prelim: John Michael Escoboza vs. Isaac Doolittle",
+        "Prelim: Stephen Townsel vs. Leo Bercier",
+        "Prelim: Ryan Reber vs. Derek Perez"
       ]
     }
   },

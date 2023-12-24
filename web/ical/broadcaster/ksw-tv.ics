@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231223T230304Z
-X-KAMPFKALENDER-HASH:94c42644e4687aaeac587c13f237490144335796
+DTSTAMP:20231224T000313Z
+X-KAMPFKALENDER-HASH:57479edb4a726a727b5fd6d8d2e4c43d28283b2b
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000314Z
 UID:2024-01-ksw-90@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 90
@@ -21,10 +21,11 @@ DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
  v (7-2-0)\nMain Card: Dawid Śmiełowski (10-1-0) vs. Ramzan Jembiev (5-1-
  0)\nMain Card: Islam Djabrailov (9-5-0) vs. Alfan Rocher-Labes (10-2-0)\
  nMain Card: Werlleson Martins (18-5-0) vs. Oleksii Polischuck (11-4-0)\n
- Prelim: Marek Samociuk (4-4-0) vs. Oļegs Jemeļjanovs (11-4-0)
+ Prelim: Marek Samociuk (4-4-0) vs. Oļegs Jemeļjanovs (11-4-0)\nPrelim: G
+ ino van Steenis (4-0-0) vs. Hugo Deux (2-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231223T230305Z
+DTSTAMP:20231224T000314Z
 UID:2024-02-ksw-91@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:KSW 91
@@ -32,6 +33,52 @@ DTSTART:20240217T180000Z
 DTEND:20240217T210000Z
 CATEGORIES:KSW,MMA,kswtv.com,live
 DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
- events/106206-ksw-91
+ events/106206-ksw-91\n\n---\n\nMain Event: Leo Brichta (12-3-0) vs. Vale
+ riu Mircea (29-8-1)\nCo-Main Event: Dominik Humburger (7-1-0) vs. Albert
+  Odzimkowski (14-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000314Z
+UID:2024-02-ksw-epic-chalidow-vs-adamek@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW Epic: Chalidow vs. Adamek
+DTSTART:20240224T180000Z
+DTEND:20240224T210000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/108704-ksw-epic
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000314Z
+UID:2024-03-ksw-92@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 92
+DTSTART:20240316T170000Z
+DTEND:20240316T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/108592-ksw-92
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000314Z
+UID:2024-04-ksw-93@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 93
+DTSTART:20240406T170000Z
+DTEND:20240406T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/108593-ksw-93
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000314Z
+UID:2024-05-ksw-94@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:KSW 94
+DTSTART:20240518T170000Z
+DTEND:20240518T200000Z
+CATEGORIES:KSW,MMA,kswtv.com,live
+DESCRIPTION:via kswtv.com\n\n---\n\nhttps://www.tapology.com/fightcenter/
+ events/108594-ksw-94
 END:VEVENT
 END:VCALENDAR

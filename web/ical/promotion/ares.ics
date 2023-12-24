@@ -4,6 +4,30 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231222T230305Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20231224T000313Z
+X-KAMPFKALENDER-HASH:abaef8fb026afb71b78c2ee52633fe48e038dcb3
+BEGIN:VEVENT
+DTSTAMP:20231224T000313Z
+UID:2024-02-ares-fc-19@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ares FC 19
+DTSTART:20240222T170000Z
+DTEND:20240222T200000Z
+CATEGORIES:ARES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108580-ares-fc-19\n\n---\n\nMain Card: Youssouf Binate (4-0-
+ 0) vs. Mehdi Saadi (5-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231224T000313Z
+UID:2024-04-ares-fc-20@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Ares FC 20
+DTSTART:20240418T160000Z
+DTEND:20240418T190000Z
+CATEGORIES:ARES,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108581-ares-fc-20\n\n---\n\nMain Event: Demarte Pena (14-1-0
+ ) vs. Aboubakar Younousov (4-0-0)
+END:VEVENT
 END:VCALENDAR

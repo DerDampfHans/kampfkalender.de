@@ -67,8 +67,8 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC 297",
-      "time": "2024-01-20T23:00:00Z",
+      "title": "UFC 297: Strickland vs. Du Plessis",
+      "time": "2024-01-21T03:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
@@ -78,16 +78,28 @@
     },
     "prelims": {
       "title": "UFC 297: Prelims",
+      "time": "2024-01-21T01:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 256167,
+        "time": "2024-01-21T01:00:00Z",
+        "title": "UFC 297: PRELIMS"
       }
     },
     "earlyPrelims": {
       "title": "UFC 297: Early Prelims",
+      "time": "2024-01-20T23:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 256166,
+        "time": "2024-01-20T23:00:00Z",
+        "title": "UFC 297: FIGHT PASS PRELIMS"
       }
     },
     "tapology": {
@@ -124,27 +136,31 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2024-02-03T23:00:00Z",
+      "title": "UFC Vegas 85: Dolidze vs. Imavov",
+      "time": "2024-02-04T00:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 256189,
+        "time": "2024-02-04T00:00:00Z",
+        "title": "UFC FIGHT NIGHT: DOLIDZE VS IMAVOV"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Vegas 85: Prelims",
+      "time": "2024-02-03T21:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 256188,
+        "time": "2024-02-03T21:00:00Z",
+        "title": "UFC FIGHT NIGHT: DOLIDZE VS IMAVOV PRELIMS"
       }
     },
     "tapology": {
