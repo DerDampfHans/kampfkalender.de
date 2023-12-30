@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231218T230304Z
-X-KAMPFKALENDER-HASH:0225057f390206f5e32798b005b1679857d90fec
+DTSTAMP:20231230T222720Z
+X-KAMPFKALENDER-HASH:8d469b068c4dd3d3f536c666fa08964c46c05a0f
 BEGIN:VEVENT
-DTSTAMP:20231218T230305Z
+DTSTAMP:20231230T222721Z
 UID:2023-12-medusa-5@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Medusa 5
@@ -17,12 +17,12 @@ CATEGORIES:EBI,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231218T230305Z
+DTSTAMP:20231230T222721Z
 UID:2023-12-fury-pro-grappling-8@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury Pro Grappling 8
-DTSTART:20231231T000000Z
-DTEND:20231231T030000Z
+DTSTART:20231231T010000Z
+DTEND:20231231T040000Z
 CATEGORIES:CFFC,Grappling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/108169-fury-pro-grappling-8\n\n---\n\nMain Event: Aljamain S
@@ -31,16 +31,27 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Niko Price\nMain Card: Amanda Mazza vs. Elyse Shaw\nMain Card: Fatima Kl
  ine vs. Cindy Ung\nMain Card: Charlie Campbell vs. Lee Moringo\nMain Car
  d: Santo Curatolo vs. Aidan Burke\nMain Card: Paul Capaldo vs. Cameron S
- calio
+ calio\nMain Card: Ian Allston vs. Jon Pellot\nMain Card: Matt Pontano vs
+ . Kenny Cockerill\nPrelim: Andrew Kochel vs. Matheus Morias\nPrelim: Man
+ ny Morales vs. Joe Levy\nPrelim: Max Livingston vs. Chase Moeller\nPreli
+ m: Becca Burkhart vs. Angelina Hernandez\nPrelim: Cole Kelley vs. Ben La
+ katos\nPrelim: John Lyons vs. Tyler Carroll\nPrelim: Sean Hughes vs. Joh
+ n Filoon\nPrelim: Gabrielle Best vs. Criszaida Adames\nPrelim: Niko Rodr
+ iguez vs. Aidan Rhea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231218T230305Z
-UID:2023-12-fury-pro-grappling@kampfkalender.de
+DTSTAMP:20231230T222721Z
+UID:2024-03-one-166-de-ridder-2-vs-malykhin-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Fury Pro Grappling
-DTSTART:20231231T010000Z
-DTEND:20231231T040000Z
-CATEGORIES:FFC,Grappling,UFC Fight Pass,live
-DESCRIPTION:via UFC Fight Pass
+SUMMARY:ONE 166: De Ridder 2 vs. Malykhin 2
+DTSTART:20240301T123000Z
+DTEND:20240301T153000Z
+CATEGORIES:ONE,MMA,Grappling,YouTube,live,kostenlos
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/108903-one-166-malykhin-vs-de-ridder\n\n---\n\nMain Event: Anatoly 
+ Malykhin (13-0-0) vs. Reinier de Ridder (16-1-0)\nCo-Main Event: Jarred 
+ Brooks (20-2-0) vs. Joshua Pacio (21-4-0)\nMain Card: Arjan Bhullar (11-
+ 2-0) vs. Amir Aliakbari (13-3-0)\nMain Card: Osamah Almarwai vs. Cleber 
+ Sousa
 END:VEVENT
 END:VCALENDAR

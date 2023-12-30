@@ -497,5 +497,57 @@
         "https://events.mixedmartialarts.com/nfc-16:0121843e-6bb5-4d7f-891a-9cf72a54e340"
       ]
     }
+  },
+  {
+    "id": "nfc-2023-12-16",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Düsseldorf",
+      "#NFC17"
+    ],
+    "links": [
+      "https://fighting.de/nfc-17/"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "NFC 17",
+      "time": "2023-12-16T22:00:00Z",
+      "until": "2023-12-16T23:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 17: Undercard",
+      "time": "2023-12-16T18:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 17: Free Prelims",
+      "time": "2023-12-16T16:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 94584,
+      "time": "2023-12-16T17:00:00Z",
+      "title": "NFC 17 (POSTPONED)",
+      "info": "Cancelled Event",
+      "url": "https://www.tapology.com/fightcenter/events/94584-nfc-17",
+      "links": [
+        "https://www.sherdog.com/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463",
+        "https://events.mixedmartialarts.com/nfc-17-postponed:ac199ceb-8e15-41fa-a1ba-5810ad8ee74e"
+      ]
+    }
   }
 ]

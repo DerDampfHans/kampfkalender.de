@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231224T000313Z
-X-KAMPFKALENDER-HASH:d62382eb2fc5b3b0d5ad80d78122f037b7c782a5
+DTSTAMP:20231230T222720Z
+X-KAMPFKALENDER-HASH:75f141334fecd436c0123ba2226c25f6702de10c
 BEGIN:VEVENT
-DTSTAMP:20231224T000313Z
+DTSTAMP:20231230T222720Z
 UID:2024-01-unified-mma-55@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Unified MMA 55
@@ -19,10 +19,22 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  -0) vs. Mateo Vogel (8-3-0)\nCo-Main Event: Tony Laramie (8-2-0) vs. Lou
  is Jourdain (7-3-0)\nMain Card: Teshay Gouthro (7-2-0) vs. Michael Imper
  ato (11-6-0)\nMain Card: Pat Pytlik (8-1-0) vs. Ryan Leininger (10-4-0)\
- nMain Card: Tom Theocharis (8-5-0) vs. Robert Dunn (11-9-0)\nMain Card: 
- Ryan Yapsam (2-0-0) vs. Karim Henniene (2-0-0)\nMain Card: Matt Speciale
-  (5-1-0) vs. Angel Mercado (6-1-0)\nMain Card: Dorjan Dokaj (3-1-1) vs. 
- Cal Kostiniuk (1-0-0)\nMain Card: Darcy Giles (0-0-0) vs. Michael Asiffo
-  (0-2-0)\nMain Card: Anton Potocki (2-0-0) vs. Brennan Picard (1-0-0)
+ nMain Card: Matt Speciale (5-1-0) vs. Angel Mercado (6-1-0)\nPrelim: Tom
+  Theocharis (8-5-0) vs. Robert Dunn (11-9-0)\nPrelim: Ryan Yapsam (2-0-0
+ ) vs. Karim Henniene (2-0-0)\nPrelim: Dorjan Dokaj (3-1-1) vs. Cal Kosti
+ niuk (1-0-0)\nPrelim: Darcy Giles (0-0-0) vs. Michael Asiffo (0-2-0)\nPr
+ elim: Anton Potocki (2-0-0) vs. Brennan Picard (1-0-0)\nPrelim: Ferdaws 
+ Nayimi (1-0-0) vs. Nathan Small (2-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222720Z
+UID:2024-03-unified-mma-56@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Unified MMA 56
+DTSTART:20240323T020000Z
+DTEND:20240323T050000Z
+CATEGORIES:UMMA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108874-unified-mma-56
 END:VEVENT
 END:VCALENDAR

@@ -4,81 +4,132 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231207T104709Z
-X-KAMPFKALENDER-HASH:c829344ed862fb84229d4582931e3481583a0718
+DTSTAMP:20231230T222720Z
+X-KAMPFKALENDER-HASH:090777f02272e7dfeff47c02d5e0e23e4fbc3195
 BEGIN:VEVENT
-DTSTAMP:20231207T104710Z
+DTSTAMP:20231230T222720Z
 UID:2024-02-nfc-17-free-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Free Prelims
 DTSTART:20240203T163000Z
 DTEND:20240203T180000Z
-CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
+CATEGORIES:NFC,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
- //www.tapology.com/fightcenter/events/94584-nfc-17\nhttps://www.sherdog.
- com/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463\n
- \n---\n\nMain Event: Maurice Adorf (6-1-0) vs. Dino Starcevic (4-0-0)\nC
- o-Main Event: Wladimir Holodenko (4-2-2) vs. Tomasz Łangowski (6-4-0)\nM
- ain Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)\nMain Card: Chri
- stian Mach (6-4-0) vs. Martin Uhlich (4-2-1)\nMain Card: Harun Uzun (5-0
- -0) vs. Tonny Van Dijk (4-4-0)\nMain Card: Luka Milidragović (3-0-0) vs.
-  Hamza Davlyatmirov (2-3-0)\nMain Card: Pantelei Taran (7-4-0) vs. Alish
- er Abdulloev (8-3-0)\nMain Card: Mert Özyildirim (10-5-0) vs. Andi Shoni
- zorov (5-2-0)\nMain Card: Kennedy Rayomba (5-3-0) vs. Tobias Balzer (3-3
- -0)\nMain Card: Faridun Shokhnazarov (1-0-0) vs. Ibrahim Benmalek (2-1-0
- )\nMain Card: Mohammed Walid (6-3-0) vs. Hussain Bakhsh Safari (7-2-0)\n
- Main Card: Samir El-Atiki (0-1-0) vs. Fabian Rührmund (0-1-1)\nMain Card
- : Khasan Mirkhojaev (0-1-0) vs. Ramzan Jandarbaev (1-1-0)\nMain Card: Mu
- min Sharipov (0-0-0) vs. Magomed Arsaev (1-2-0)
+ //www.tapology.com/fightcenter/events/108608-nfc-17\n\n---\n\nMain Event
+ : Maurice Adorf (6-1-0) vs. Dino Starcevic (4-0-0)\nCo-Main Event: Wladi
+ mir Holodenko (4-2-2) vs. Tomasz Łangowski (6-4-0)\nMain Card: Alisher A
+ bdulloev (8-3-0) vs. Zafar Mohsen (12-4-0)\nMain Card: Kennedy Rayomba (
+ 5-3-0) vs. Tobias Balzer (3-3-0)\nMain Card: Mohammed Walid (6-3-0) vs. 
+ Abubakar Khasiev (5-1-0)\nMain Card: Christian Mach (6-4-0) vs. Martin U
+ hlich (4-2-1)\nMain Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)\
+ nMain Card: Harun Uzun (5-0-0) vs. Tonny Van Dijk (4-4-0)\nMain Card: Lu
+ ka Milidragović (3-0-0) vs. Hamza Davlyatmirov (2-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231207T104710Z
+DTSTAMP:20231230T222720Z
+UID:2024-02-nfc-18-free-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 18: Free Prelims
+DTSTART:20240203T163000Z
+DTEND:20240203T173000Z
+CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-18/\nhttps:
+ //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Card:
+  Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222720Z
+UID:2024-02-nfc-18-undercard@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 18: Undercard
+DTSTART:20240203T173000Z
+DTEND:20240203T193000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-18/\nhttps:
+ //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Card:
+  Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222720Z
 UID:2024-02-nfc-17-undercard@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Undercard
 DTSTART:20240203T180000Z
 DTEND:20240203T220000Z
-CATEGORIES:NFC,MMA,fighting.de,live
+CATEGORIES:NFC,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
- //www.tapology.com/fightcenter/events/94584-nfc-17\nhttps://www.sherdog.
- com/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463\n
- \n---\n\nMain Event: Maurice Adorf (6-1-0) vs. Dino Starcevic (4-0-0)\nC
- o-Main Event: Wladimir Holodenko (4-2-2) vs. Tomasz Łangowski (6-4-0)\nM
- ain Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)\nMain Card: Chri
- stian Mach (6-4-0) vs. Martin Uhlich (4-2-1)\nMain Card: Harun Uzun (5-0
- -0) vs. Tonny Van Dijk (4-4-0)\nMain Card: Luka Milidragović (3-0-0) vs.
-  Hamza Davlyatmirov (2-3-0)\nMain Card: Pantelei Taran (7-4-0) vs. Alish
- er Abdulloev (8-3-0)\nMain Card: Mert Özyildirim (10-5-0) vs. Andi Shoni
- zorov (5-2-0)\nMain Card: Kennedy Rayomba (5-3-0) vs. Tobias Balzer (3-3
- -0)\nMain Card: Faridun Shokhnazarov (1-0-0) vs. Ibrahim Benmalek (2-1-0
- )\nMain Card: Mohammed Walid (6-3-0) vs. Hussain Bakhsh Safari (7-2-0)\n
- Main Card: Samir El-Atiki (0-1-0) vs. Fabian Rührmund (0-1-1)\nMain Card
- : Khasan Mirkhojaev (0-1-0) vs. Ramzan Jandarbaev (1-1-0)\nMain Card: Mu
- min Sharipov (0-0-0) vs. Magomed Arsaev (1-2-0)
+ //www.tapology.com/fightcenter/events/108608-nfc-17\n\n---\n\nMain Event
+ : Maurice Adorf (6-1-0) vs. Dino Starcevic (4-0-0)\nCo-Main Event: Wladi
+ mir Holodenko (4-2-2) vs. Tomasz Łangowski (6-4-0)\nMain Card: Alisher A
+ bdulloev (8-3-0) vs. Zafar Mohsen (12-4-0)\nMain Card: Kennedy Rayomba (
+ 5-3-0) vs. Tobias Balzer (3-3-0)\nMain Card: Mohammed Walid (6-3-0) vs. 
+ Abubakar Khasiev (5-1-0)\nMain Card: Christian Mach (6-4-0) vs. Martin U
+ hlich (4-2-1)\nMain Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)\
+ nMain Card: Harun Uzun (5-0-0) vs. Tonny Van Dijk (4-4-0)\nMain Card: Lu
+ ka Milidragović (3-0-0) vs. Hamza Davlyatmirov (2-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231207T104710Z
+DTSTAMP:20231230T222720Z
+UID:2024-02-nfc-18@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 18
+DTSTART:20240203T193000Z
+DTEND:20240203T223000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-18/\nhttps:
+ //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Card:
+  Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222720Z
 UID:2024-02-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17
 DTSTART:20240203T220000Z
 DTEND:20240203T233000Z
-CATEGORIES:NFC,MMA,fighting.de,live
+CATEGORIES:NFC,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
- //www.tapology.com/fightcenter/events/94584-nfc-17\nhttps://www.sherdog.
- com/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463\n
- \n---\n\nMain Event: Maurice Adorf (6-1-0) vs. Dino Starcevic (4-0-0)\nC
- o-Main Event: Wladimir Holodenko (4-2-2) vs. Tomasz Łangowski (6-4-0)\nM
- ain Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)\nMain Card: Chri
- stian Mach (6-4-0) vs. Martin Uhlich (4-2-1)\nMain Card: Harun Uzun (5-0
- -0) vs. Tonny Van Dijk (4-4-0)\nMain Card: Luka Milidragović (3-0-0) vs.
-  Hamza Davlyatmirov (2-3-0)\nMain Card: Pantelei Taran (7-4-0) vs. Alish
- er Abdulloev (8-3-0)\nMain Card: Mert Özyildirim (10-5-0) vs. Andi Shoni
- zorov (5-2-0)\nMain Card: Kennedy Rayomba (5-3-0) vs. Tobias Balzer (3-3
- -0)\nMain Card: Faridun Shokhnazarov (1-0-0) vs. Ibrahim Benmalek (2-1-0
- )\nMain Card: Mohammed Walid (6-3-0) vs. Hussain Bakhsh Safari (7-2-0)\n
- Main Card: Samir El-Atiki (0-1-0) vs. Fabian Rührmund (0-1-1)\nMain Card
- : Khasan Mirkhojaev (0-1-0) vs. Ramzan Jandarbaev (1-1-0)\nMain Card: Mu
- min Sharipov (0-0-0) vs. Magomed Arsaev (1-2-0)
+ //www.tapology.com/fightcenter/events/108608-nfc-17\n\n---\n\nMain Event
+ : Maurice Adorf (6-1-0) vs. Dino Starcevic (4-0-0)\nCo-Main Event: Wladi
+ mir Holodenko (4-2-2) vs. Tomasz Łangowski (6-4-0)\nMain Card: Alisher A
+ bdulloev (8-3-0) vs. Zafar Mohsen (12-4-0)\nMain Card: Kennedy Rayomba (
+ 5-3-0) vs. Tobias Balzer (3-3-0)\nMain Card: Mohammed Walid (6-3-0) vs. 
+ Abubakar Khasiev (5-1-0)\nMain Card: Christian Mach (6-4-0) vs. Martin U
+ hlich (4-2-1)\nMain Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)\
+ nMain Card: Harun Uzun (5-0-0) vs. Tonny Van Dijk (4-4-0)\nMain Card: Lu
+ ka Milidragović (3-0-0) vs. Hamza Davlyatmirov (2-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222720Z
+UID:2024-06-nfc-19-early-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 19: Early Prelims
+DTSTART:20240622T160000Z
+DTEND:20240622T170000Z
+CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-19/\nhttps:
+ //www.tapology.com/fightcenter/events/108751-nfc-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222720Z
+UID:2024-06-nfc-19-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 19: Prelims
+DTSTART:20240622T170000Z
+DTEND:20240622T180000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-19/\nhttps:
+ //www.tapology.com/fightcenter/events/108751-nfc-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222720Z
+UID:2024-06-nfc-19@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:NFC 19
+DTSTART:20240622T180000Z
+DTEND:20240622T220000Z
+CATEGORIES:NFC,MMA,fighting.de,live
+DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-19/\nhttps:
+ //www.tapology.com/fightcenter/events/108751-nfc-19
 END:VEVENT
 END:VCALENDAR

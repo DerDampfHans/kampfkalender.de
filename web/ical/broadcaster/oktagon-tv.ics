@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231216T230304Z
-X-KAMPFKALENDER-HASH:cf1048718b4fd97a3ee319f685d4632e8d86429b
+DTSTAMP:20231230T222720Z
+X-KAMPFKALENDER-HASH:1e02f01ed17062132a243528d1af0624629c9ec9
 BEGIN:VEVENT
-DTSTAMP:20231216T230305Z
+DTSTAMP:20231230T222721Z
 UID:2023-12-oktagon-51@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 51
@@ -26,7 +26,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
   Eva Dourthe (7-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231216T230305Z
+DTSTAMP:20231230T222721Z
 UID:2024-01-oktagon-52@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 52
@@ -36,10 +36,15 @@ CATEGORIES:Oktagon,MMA,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/107435-oktagon-52\n\n---\n\nMain Card: Jonas Mågård (15-6-0) vs.
   Jack Cartwright (11-1-0)\nMain Card: Adam Pałasz (9-2-0) vs. Stuart Aus
- tin (17-8-0)
+ tin (17-8-0)\nMain Card: Jake McHugh (1-0-0) vs. Armand Herczeg (0-1-0)\
+ nMain Card: Pietro Menga (14-4-0) vs. Kiru Singh Sahota (10-2-0)\nMain C
+ ard: Matěj Peňáz (8-1-0) vs. Matthew Bonner (16-9-1)\nMain Card: Corey F
+ ry (5-1-0) vs. Max Holzer (6-0-0)\nMain Card: Shoaib Yousaf (11-3-0) vs.
+  Eduard Kexel (9-1-0)\nMain Card: Jan Široký (13-16-0) vs. Denis Frimpon
+ g (0-2-0)\nMain Card: Roman Paulus (8-4-0) vs. Nathan Haywood (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231216T230305Z
+DTSTAMP:20231230T222721Z
 UID:2024-02-oktagon-53@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 53
@@ -48,10 +53,22 @@ DTEND:20240210T200000Z
 CATEGORIES:Oktagon,MMA,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  /events/107434-oktagon-53\n\n---\n\nMain Card: Islam Dulatov (9-1-0) vs.
-  John Palaiologos (20-12-1)
+  John Palaiologos (20-12-1)\nMain Card: Kerim Engizek (20-4-0) vs. Scott
+  Askham (20-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231216T230305Z
+DTSTAMP:20231230T222721Z
+UID:2024-03-oktagon-54@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 54
+DTSTART:20240302T170000Z
+DTEND:20240302T200000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/108298-oktagon-54-tipsport-gamechanger-2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222721Z
 UID:2024-03-oktagon-55@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 55
@@ -59,6 +76,19 @@ DTSTART:20240323T160000Z
 DTEND:20240323T190000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/107451-oktagon-55
+ /events/107451-oktagon-55\n\n---\n\nMain Card: Alexander Poppeck (16-5-0
+ ) vs. Jeremy Kimball (19-10-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231230T222721Z
+UID:2024-06-oktagon-vemola-vs-vegh-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON: Vémola vs Végh 2
+DTSTART:20240608T160000Z
+DTEND:20240608T190000Z
+CATEGORIES:Oktagon,MMA,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/108636-oktagon\n\n---\n\nMain Event: Karlos Vémola (36-7-0) vs. 
+ Attila Végh (33-9-2)
 END:VEVENT
 END:VCALENDAR

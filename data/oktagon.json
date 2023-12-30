@@ -24,7 +24,14 @@
       ],
       "card": [
         "Main Card: Jonas Mågård (15-6-0) vs. Jack Cartwright (11-1-0)",
-        "Main Card: Adam Pałasz (9-2-0) vs. Stuart Austin (17-8-0)"
+        "Main Card: Adam Pałasz (9-2-0) vs. Stuart Austin (17-8-0)",
+        "Main Card: Jake McHugh (1-0-0) vs. Armand Herczeg (0-1-0)",
+        "Main Card: Pietro Menga (14-4-0) vs. Kiru Singh Sahota (10-2-0)",
+        "Main Card: Matěj Peňáz (8-1-0) vs. Matthew Bonner (16-9-1)",
+        "Main Card: Corey Fry (5-1-0) vs. Max Holzer (6-0-0)",
+        "Main Card: Shoaib Yousaf (11-3-0) vs. Eduard Kexel (9-1-0)",
+        "Main Card: Jan Široký (13-16-0) vs. Denis Frimpong (0-2-0)",
+        "Main Card: Roman Paulus (8-4-0) vs. Nathan Haywood (3-1-0)"
       ]
     }
   },
@@ -52,8 +59,32 @@
         "MMA"
       ],
       "card": [
-        "Main Card: Islam Dulatov (9-1-0) vs. John Palaiologos (20-12-1)"
+        "Main Card: Islam Dulatov (9-1-0) vs. John Palaiologos (20-12-1)",
+        "Main Card: Kerim Engizek (20-4-0) vs. Scott Askham (20-6-0)"
       ]
+    }
+  },
+  {
+    "id": "tapology-108298",
+    "promotion": "OKTAGON",
+    "sports": [
+      "MMA",
+      "KICKBOXING"
+    ],
+    "mainCard": {
+      "title": "OKTAGON 54",
+      "time": "2024-03-02T17:00:00Z",
+      "broadcasters": {
+        "OKTAGON_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 108298,
+      "time": "2024-03-02T17:00:00Z",
+      "title": "OKTAGON 54: Tipsport Gamechanger 2",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/108298-oktagon-54-tipsport-gamechanger-2"
     }
   },
   {
@@ -75,8 +106,42 @@
       "id": 107451,
       "time": "2024-03-23T16:00:00Z",
       "title": "OKTAGON 55",
-      "info": "Confirmed Upcoming Event",
-      "url": "https://www.tapology.com/fightcenter/events/107451-oktagon-55"
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/107451-oktagon-55",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Alexander Poppeck (16-5-0) vs. Jeremy Kimball (19-10-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-108636",
+    "promotion": "OKTAGON",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "OKTAGON: Vémola vs Végh 2",
+      "time": "2024-06-08T16:00:00Z",
+      "broadcasters": {
+        "OKTAGON_TV": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 108636,
+      "time": "2024-06-08T16:00:00Z",
+      "title": "OKTAGON: Vémola vs Végh 2",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/108636-oktagon",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Event: Karlos Vémola (36-7-0) vs. Attila Végh (33-9-2)"
+      ]
     }
   }
 ]

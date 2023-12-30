@@ -1,10 +1,60 @@
 [
   {
-    "id": "nfc-2024-02-03",
+    "id": "tapology-108750",
     "promotion": "NFC_DE",
     "sports": [
       "MMA"
     ],
+    "tags": [
+      "#Frankfurt",
+      "#NFC18"
+    ],
+    "links": [
+      "https://fighting.de/nfc-18/"
+    ],
+    "mainCard": {
+      "title": "NFC 18",
+      "time": "2024-02-03T19:30:00Z",
+      "until": "2024-02-03T22:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 18: Undercard",
+      "time": "2024-02-03T17:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 18: Free Prelims",
+      "time": "2024-02-03T16:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 108750,
+      "time": "2024-03-30T16:00:00Z",
+      "title": "NFC 18",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/108750-nfc-18",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-108608",
+    "promotion": "NFC_DE",
     "tags": [
       "#Düsseldorf",
       "#NFC17"
@@ -39,33 +89,72 @@
       }
     },
     "tapology": {
-      "id": 94584,
-      "time": "2023-12-16T17:00:00Z",
+      "id": 108608,
+      "time": "2024-02-03T17:00:00Z",
       "title": "NFC 17",
       "info": "Confirmed Upcoming MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/94584-nfc-17",
+      "url": "https://www.tapology.com/fightcenter/events/108608-nfc-17",
       "sports": [
         "MMA"
       ],
       "card": [
         "Main Event: Maurice Adorf (6-1-0) vs. Dino Starcevic (4-0-0)",
         "Co-Main Event: Wladimir Holodenko (4-2-2) vs. Tomasz Łangowski (6-4-0)",
-        "Main Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)",
-        "Main Card: Christian Mach (6-4-0) vs. Martin Uhlich (4-2-1)",
-        "Main Card: Harun Uzun (5-0-0) vs. Tonny Van Dijk (4-4-0)",
-        "Main Card: Luka Milidragović (3-0-0) vs. Hamza Davlyatmirov (2-3-0)",
-        "Main Card: Pantelei Taran (7-4-0) vs. Alisher Abdulloev (8-3-0)",
-        "Main Card: Mert Özyildirim (10-5-0) vs. Andi Shonizorov (5-2-0)",
+        "Main Card: Alisher Abdulloev (8-3-0) vs. Zafar Mohsen (12-4-0)",
         "Main Card: Kennedy Rayomba (5-3-0) vs. Tobias Balzer (3-3-0)",
-        "Main Card: Faridun Shokhnazarov (1-0-0) vs. Ibrahim Benmalek (2-1-0)",
-        "Main Card: Mohammed Walid (6-3-0) vs. Hussain Bakhsh Safari (7-2-0)",
-        "Main Card: Samir El-Atiki (0-1-0) vs. Fabian Rührmund (0-1-1)",
-        "Main Card: Khasan Mirkhojaev (0-1-0) vs. Ramzan Jandarbaev (1-1-0)",
-        "Main Card: Mumin Sharipov (0-0-0) vs. Magomed Arsaev (1-2-0)"
-      ],
-      "links": [
-        "https://www.sherdog.com/events/nfc-national-fighting-championship-dulatov-vs-zendeli-94463"
+        "Main Card: Mohammed Walid (6-3-0) vs. Abubakar Khasiev (5-1-0)",
+        "Main Card: Christian Mach (6-4-0) vs. Martin Uhlich (4-2-1)",
+        "Main Card: Francesco Bocca (2-0-0) vs. Ali Simmo (0-1-1)",
+        "Main Card: Harun Uzun (5-0-0) vs. Tonny Van Dijk (4-4-0)",
+        "Main Card: Luka Milidragović (3-0-0) vs. Hamza Davlyatmirov (2-4-0)"
       ]
+    }
+  },
+  {
+    "id": "tapology-108751",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Essen",
+      "#NFC19"
+    ],
+    "links": [
+      "https://fighting.de/nfc-19/"
+    ],
+    "mainCard": {
+      "title": "NFC 19",
+      "time": "2024-06-22T18:00:00Z",
+      "until": "2024-06-22T22:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 19: Prelims",
+      "time": "2024-06-22T17:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 19: Early Prelims",
+      "time": "2024-06-22T16:00:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 108751,
+      "time": "2024-06-22T16:00:00Z",
+      "title": "NFC 19",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/108751-nfc-19"
     }
   }
 ]
