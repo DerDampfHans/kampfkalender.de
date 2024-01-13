@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231230T222720Z
-X-KAMPFKALENDER-HASH:4b9377efbbd40278a4702767e7228bbd8f01c807
+DTSTAMP:20240113T085523Z
+X-KAMPFKALENDER-HASH:dce959bc39b398ee19cc368054c2db68952ca29a
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085524Z
 UID:2024-01-crocker-vs-felix@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Crocker vs. Felix
@@ -15,12 +15,14 @@ DTSTART:20240127T190000Z
 DTEND:20240127T220000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/108745-crocker-vs-felix\n\n---\n\nMain Event: Lewis Crocker (18-0-0) v
- s. Jose Felix Jr (39-6-1)\nMain Card: Cheavon Clarke (7-0-0) vs. Tommy M
- cCarthy (20-5-0)
+ s/108745-crocker-vs-felix\nhttps://www.boxrec.com/en/event/887418\n\n---
+ \n\nMain Event: Lewis Crocker (18-0-0) vs. Jose Felix Jr (39-6-1)\nMain 
+ Card: Cheavon Clarke (7-0-0) vs. Tommy McCarthy (20-5-0)\nPrelim: Giorgi
+ o Visioli (1-0-0) vs. Samuel Pikire (1-1-0)\nPrelim: Leli Buttigieg (1-0
+ -0) vs. Artjom Spatar (4-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085524Z
 UID:2024-02-benn-vs-dobson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Dobson
@@ -30,10 +32,10 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/108744-benn-vs-dobson\n\n---\n\nMain Event: Conor Benn (22-0-0) vs. Pe
  ter Dobson (16-0-0)\nMain Card: Austin Williams (15-0-0) vs. Connor Coyl
- e (20-0-0)
+ e (20-0-0)\nMain Card: Khalil Coe (7-0-1) vs. Gerardo Osuna (14-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085524Z
 UID:2024-02-next-gen-walker-vs-pattison@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Next Gen: Walker vs. Pattison
@@ -46,7 +48,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s. Ishmael Ellis (14-7-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085524Z
 UID:2024-02-curiel-vs-nontshinga-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Curiel vs. Nontshinga 2
@@ -58,7 +60,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  4-1) vs. Sivenathi Nontshinga (12-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085524Z
 UID:2024-02-berlanga-vs-mccrory@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Berlanga vs. McCrory
@@ -68,6 +70,21 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/108606-berlanga-vs-mccrory\n\n---\n\nMain Event: Edgar Berlanga (21-0-
  0) vs. Padraig McCrory (18-0-0)\nMain Card: Andy Cruz (3-0-0) vs. Brayan
-  Zamarripa (13-2-0)
+  Zamarripa (14-2-0)\nMain Card: Shakhram Giyasov (14-0-0) vs. Pablo Cesa
+ r Cano (35-8-1)\nMain Card: Antonio Vargas (17-1-0) vs. Jonathan Rodrigu
+ ez (17-1-1)\nMain Card: Yankiel Rivera (4-0-0) vs. Andy Dominguez (10-0-
+ 0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085524Z
+UID:2024-03-joshua-vs-ngannou@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Joshua vs. Ngannou
+DTSTART:20240308T150000Z
+DTEND:20240308T180000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/109152-joshua-vs-ngannou\n\n---\n\nMain Event: Anthony Joshua (27-3-0)
+  vs. Francis N'Gannou (0-1-0)
 END:VEVENT
 END:VCALENDAR

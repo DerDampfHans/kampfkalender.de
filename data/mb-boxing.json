@@ -11,6 +11,13 @@
       "broadcasters": {
         "DAZN": {
         }
+      },
+      "dazn": {
+        "id": "o5t0qvp96g3z1vgy0xjypr6eu",
+        "time": "2024-01-27T19:00:00Z",
+        "title": "Lewis Crocker vs Jose Felix (Vorkämpfe & Hauptkampf)",
+        "sport": "BOXING",
+        "competition": "Crocker vs Felix"
       }
     },
     "tapology": {
@@ -24,7 +31,12 @@
       ],
       "card": [
         "Main Event: Lewis Crocker (18-0-0) vs. Jose Felix Jr (39-6-1)",
-        "Main Card: Cheavon Clarke (7-0-0) vs. Tommy McCarthy (20-5-0)"
+        "Main Card: Cheavon Clarke (7-0-0) vs. Tommy McCarthy (20-5-0)",
+        "Prelim: Giorgio Visioli (1-0-0) vs. Samuel Pikire (1-1-0)",
+        "Prelim: Leli Buttigieg (1-0-0) vs. Artjom Spatar (4-4-0)"
+      ],
+      "links": [
+        "https://www.boxrec.com/en/event/887418"
       ]
     }
   },
@@ -53,7 +65,8 @@
       ],
       "card": [
         "Main Event: Conor Benn (22-0-0) vs. Peter Dobson (16-0-0)",
-        "Main Card: Austin Williams (15-0-0) vs. Connor Coyle (20-0-0)"
+        "Main Card: Austin Williams (15-0-0) vs. Connor Coyle (20-0-0)",
+        "Main Card: Khalil Coe (7-0-1) vs. Gerardo Osuna (14-0-0)"
       ]
     }
   },
@@ -139,7 +152,38 @@
       ],
       "card": [
         "Main Event: Edgar Berlanga (21-0-0) vs. Padraig McCrory (18-0-0)",
-        "Main Card: Andy Cruz (3-0-0) vs. Brayan Zamarripa (13-2-0)"
+        "Main Card: Andy Cruz (3-0-0) vs. Brayan Zamarripa (14-2-0)",
+        "Main Card: Shakhram Giyasov (14-0-0) vs. Pablo Cesar Cano (35-8-1)",
+        "Main Card: Antonio Vargas (17-1-0) vs. Jonathan Rodriguez (17-1-1)",
+        "Main Card: Yankiel Rivera (4-0-0) vs. Andy Dominguez (10-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-109152",
+    "promotion": "MB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Joshua vs. Ngannou",
+      "time": "2024-03-08T15:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      }
+    },
+    "tapology": {
+      "id": 109152,
+      "time": "2024-03-08T15:00:00Z",
+      "title": "Joshua vs. Ngannou",
+      "info": "Rumored Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/109152-joshua-vs-ngannou",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Anthony Joshua (27-3-0) vs. Francis N'Gannou (0-1-0)"
       ]
     }
   }

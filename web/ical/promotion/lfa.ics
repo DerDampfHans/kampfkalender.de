@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231230T222720Z
-X-KAMPFKALENDER-HASH:c0dd4233bfd6d2fcd64761ce557d5dc1a9e28c49
+DTSTAMP:20240113T085523Z
+X-KAMPFKALENDER-HASH:1ddc3ec5cbdf8a1ee29f328e302ee8d2ea61bf14
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085524Z
 UID:2024-01-lfa-174-jones-vs-gennrich@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 174: Jones vs. Gennrich
@@ -30,7 +30,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085524Z
 UID:2024-01-lfa-175@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:LFA 175
@@ -38,5 +38,89 @@ DTSTART:20240128T020000Z
 DTEND:20240128T050000Z
 CATEGORIES:LFA,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085524Z
+UID:2024-01-lfa-175-lopes-vs-brigagao@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 175: Lopes vs. Brigagao
+DTSTART:20240128T020000Z
+DTEND:20240128T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/109002-lfa-175-lopes-vs-brigagao\n\n---\n\nMain Event: Bruno
+  Lopes (11-1-0) vs. Marcos Brigagão (17-6-0)\nMain Card: Anderson Ferrei
+ ra (18-4-0) vs. Samuel Silva (11-4-1)\nMain Card: Fernando Laurenço (17-
+ 3-0) vs. Rafael Pereira (10-4-0)\nMain Card: Apollo Gomes (9-1-0) vs. Vi
+ nicius Pires (8-1-0)\nMain Card: Marco Tulio (10-1-0) vs. Cemey dos Sant
+ os (6-4-0)\nMain Card: Lany Silva (4-0-0) vs. Naizi Cantanhede (6-0-0)\n
+ Prelim: Miguel Porto (4-1-0) vs. Kevin Christian (6-2-0)\nPrelim: Nicoly
+  Pedroza (4-0-0) vs. Andreyna Rocha (5-4-0)\nPrelim: Marcos Bruno (6-2-0
+ ) vs. Juan Pablo Vieira (6-0-0)\nPrelim: Talisson Teixeira (4-0-0) vs. A
+ rthur Fonseca (2-1-0)\nPrelim: Gabriela Fujimoto (3-0-0) vs. Sabrina Oli
+ veira (5-2-0)\nPrelim: Reginaldo Junior (7-1-0) vs. Gustavo Henrique (3-
+ 2-0)\nPrelim: Beatriz Consuli (2-0-0) vs. Carol Foro (2-0-0)\nPrelim: Ai
+ eza Bertolso (2-0-0) vs. Fabrizia Ketlinn (1-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085524Z
+UID:2024-02-lfa-176-garcia-vs-johns-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 176: Garcia vs. Johns 2
+DTSTART:20240224T020000Z
+DTEND:20240224T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/109154-lfa-176-garcia-vs-johns-2-legacy-fighting-alliance-17
+ 6\n\n---\n\nMain Event: Javier Garcia (11-5-0) vs. Elijah Johns (9-3-0)\
+ nCo-Main Event: An Tuan Ho (5-0-0) vs. Miguel Sanson (4-1-0)\nMain Card:
+  Princeton Jackson (3-0-0) vs. Robson Junior (4-2-0)\nPrelim: Chance Ike
+ i (1-0-0) vs. Keynan Davis (1-0-0)\nPrelim: Leslie Hernandez (2-1-0) vs.
+  Brittany Camozzi (1-2-0)\nPrelim: Jared Braun (1-0-0) vs. Nicholas Gjel
+ aj (0-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085524Z
+UID:2024-02-lfa-177@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 177
+DTSTART:20240224T020000Z
+DTEND:20240224T050000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/109369-legacy-fighting-alliance-177-lfa-177-lfa-177
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085524Z
+UID:2024-03-lfa-178@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 178
+DTSTART:20240309T030000Z
+DTEND:20240309T060000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/109363-legacy-fighting-alliance-178-lfa-178
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085524Z
+UID:2024-03-lfa-179@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:LFA 179
+DTSTART:20240323T200000Z
+DTEND:20240323T230000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/109364-legacy-fighting-alliance-179-lfa-179
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085524Z
+UID:2024-03-legacy-fighting-alliance-180-lfa-180@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Legacy Fighting Alliance 180: LFA 180
+DTSTART:20240330T010000Z
+DTEND:20240330T040000Z
+CATEGORIES:LFA,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/109365-legacy-fighting-alliance-180-lfa-180
 END:VEVENT
 END:VCALENDAR

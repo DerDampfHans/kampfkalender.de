@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231230T222720Z
-X-KAMPFKALENDER-HASH:c7fd2c22e48e614f5997401eccece1d8c8c915d8
+DTSTAMP:20240113T085523Z
+X-KAMPFKALENDER-HASH:b74d3a6aac9ef8e81df4f789f394cda124898cdd
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085523Z
 UID:2024-01-bkfc-prospect-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Prospect Series
@@ -25,7 +25,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-prospects-2-albuq
   Michael Manno
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T222720Z
+DTSTAMP:20240113T085523Z
 UID:2024-02-bkfc-57-palomino-vs-trout@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 57: Palomino vs. Trout
@@ -42,5 +42,29 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-57/2pe7b/\n\n---\
  dney Smith\nMain Card: Edgard Plazaola vs. Darrick Gates\nPrelim: Stephe
  n Townsel vs. Leo Bercier\nPrelim: Ryan Reber vs. Derek Perez\nPrelim: J
  ustin Sanchez vs. Landon Williams
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085523Z
+UID:2024-02-bkfc-prospect-series-manassas@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC Prospect Series: Manassas
+DTSTART:20240217T020000Z
+DTEND:20240217T050000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/109310-bkfc-prospect-series-manassas\n\n---\n\nMain Event: Stanisla
+ v Grosu vs. Brandon Shavers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240113T085523Z
+UID:2024-03-bkfc-58-markulev-vs-kolev@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 58: Markulev vs. Kolev
+DTSTART:20240322T200000Z
+DTEND:20240322T230000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/109309-bkfc-58-markulev-vs-kolev\n\n---\n\nMain Event: Toni Markule
+ v vs. Kaloyan Kolev
 END:VEVENT
 END:VCALENDAR
