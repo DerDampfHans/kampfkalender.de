@@ -4,6 +4,50 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20231217T230304Z
-X-KAMPFKALENDER-HASH:97d170e1550eee4afc0af065b78cda302a97674c
+DTSTAMP:20240127T122226Z
+X-KAMPFKALENDER-HASH:d69ffd28c702e0591a0902e02621f29eb7814d54
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
+UID:2024-03-fusion-fight-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League
+DTSTART:20240316T040000Z
+DTEND:20240316T070000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/109559-fusion-fight-league
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
+UID:2024-04-fusion-fight-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League
+DTSTART:20240413T040000Z
+DTEND:20240413T070000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/109560-fusion-fight-league
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
+UID:2024-04-fusion-fight-league-1@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League
+DTSTART:20240427T040000Z
+DTEND:20240427T070000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/109561-fusion-fight-league
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
+UID:2024-05-fusion-fight-league@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fusion Fight League
+DTSTART:20240511T040000Z
+DTEND:20240511T070000Z
+CATEGORIES:FFL,MMA,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/109562-fusion-fight-league
+END:VEVENT
 END:VCALENDAR

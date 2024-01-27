@@ -7,8 +7,12 @@
     ],
     "mainCard": {
       "title": "BKFC Prospect Series",
-      "time": "2024-01-28T01:00:00Z",
+      "time": "2024-01-28T02:00:00Z",
       "broadcasters": {
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=HM911_Sn2Fs",
+          "free": true
+        },
         "FITE_TV": {
           "url": "https://www.fite.tv/watch/bkfc-prospects-2-albuquerque/2pe7c/"
         }
@@ -23,25 +27,35 @@
           "BOXING",
           "MMA"
         ]
+      },
+      "youTube": {
+        "id": "HM911_Sn2Fs",
+        "time": "2024-01-28T02:00:00Z",
+        "title": "Free Full Event! BKFC Fight Night Prospects: Albuquerque",
+        "url": "https://www.youtube.com/watch?v=HM911_Sn2Fs"
       }
     },
     "tapology": {
       "id": 108143,
-      "time": "2024-01-28T01:00:00Z",
+      "time": "2024-01-28T02:00:00Z",
       "title": "BKFC Prospect Series 3",
       "titleAlt": "BKFC Prospect Series 2",
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/108143-bkfc-prospect-series-3",
       "card": [
         "Main Event: Donald Sanchez vs. Noah Cutter",
-        "Co-Main Event: Taylor Starling vs. Jenny Clausius",
+        "Co-Main Event: Eric Dodson vs. Dakota Highpine",
         "Main Card: Ismail Israilov vs. Don Mohammed",
         "Main Card: Juan Adams vs. Matt Adams",
         "Main Card: Brittany Horton vs. Karla Alvarez",
         "Main Card: Apostle Spencer vs. Kaine Tomlinson, Jr.",
         "Main Card: Kasey Yates vs. Zachary Pannell",
+        "Main Card: Taylor Starling vs. Jenny Clausius",
         "Main Card: Freddy Sandoval vs. Will Albrecht",
         "Main Card: Felipe Chavez vs. Michael Manno"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-prospect-series-3:c836573c-cecd-4853-9be2-b1604b6cc51b"
       ]
     }
   },
@@ -95,6 +109,7 @@
         "Main Card: Alberto Blas vs. Frank Alvarez",
         "Main Card: Christine Vicens vs. Sydney Smith",
         "Main Card: Edgard Plazaola vs. Darrick Gates",
+        "Main Card: Leonardo Perdomo vs. Bobby Brents",
         "Prelim: Stephen Townsel vs. Leo Bercier",
         "Prelim: Ryan Reber vs. Derek Perez",
         "Prelim: Justin Sanchez vs. Landon Williams"
@@ -130,7 +145,13 @@
       "info": "Confirmed Upcoming Event",
       "url": "https://www.tapology.com/fightcenter/events/109310-bkfc-prospect-series-manassas",
       "card": [
-        "Main Event: Stanislav Grosu vs. Brandon Shavers"
+        "Main Event: Stanislav Grosu vs. Brandon Shavers",
+        "Co-Main Event: Micah Terrill vs. Cameron VanCamp",
+        "Main Card: Joe Ray vs. Kevin Brooks",
+        "Main Card: Shawn Brooks vs. JorDan Christensen",
+        "Main Card: Josh Armstrong vs. Cary Caprio",
+        "Main Card: Dustin Garrett vs. Nathan Rivera",
+        "Main Card: Crystal Van Wyk vs. Crystal Lawson"
       ]
     }
   },
@@ -157,8 +178,13 @@
       "url": "https://www.tapology.com/fightcenter/events/106936-bkfc-prospect-series-canada",
       "card": [
         "Main Event: Tyler Randall vs. Devin Gibson",
+        "Co-Main Event: Jade Masson-Wong vs. Gabrielle Roman",
         "Main Card: Tyler Tremblett vs. Donnie Tice, Jr.",
-        "Main Card: Robert Desharnais vs. Desmond Johnson"
+        "Main Card: Robert Desharnais vs. Desmond Johnson",
+        "Main Card: Hasan Alghanim vs. Dalton Shtybel",
+        "Main Card: Chad Lucanas vs. Trai Santos",
+        "Main Card: Sonny Smith vs. Dustin Thompson",
+        "Main Card: Stan Surmacz vs. Don Wonch"
       ]
     }
   },

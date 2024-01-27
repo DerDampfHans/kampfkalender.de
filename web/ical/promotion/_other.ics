@@ -4,10 +4,33 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240120T230304Z
-X-KAMPFKALENDER-HASH:afaab951b799bcb44680ad66ae8d6cb006dc2f03
+DTSTAMP:20240127T122226Z
+X-KAMPFKALENDER-HASH:b5727a6d3995bf3161d637361c706f6e87983721
 BEGIN:VEVENT
-DTSTAMP:20240120T230304Z
+DTSTAMP:20240127T122227Z
+UID:2024-01-rajadamnern-world-series-the-rematch@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Rajadamnern World Series: The Rematch
+DTSTART:20240127T123000Z
+DTEND:20240127T153000Z
+CATEGORIES:Other,Muay Thai,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/109830-rajadamnern-world-series-the-rematch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
+UID:2024-01-maximus-fight-night-iii@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Maximus Fight Night III
+DTSTART:20240127T160000Z
+DTEND:20240127T190000Z
+CATEGORIES:Other,Kickboxen,Muay Thai,fight24.tv,YouTube,live
+DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ma
+ ximus-fight-night-iii-687\nvia YouTube: https://www.youtube.com/watch?v=
+ 0pWwbbK2uYM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
 UID:2024-01-trinidad-vs-perez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Trinidad vs. Perez
@@ -17,7 +40,7 @@ CATEGORIES:Other,Boxen,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240120T230304Z
+DTSTAMP:20240127T122227Z
 UID:2024-02-college-wrestling@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:College Wrestling
@@ -27,7 +50,17 @@ CATEGORIES:Other,Wrestling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240120T230304Z
+DTSTAMP:20240127T122227Z
+UID:2024-02-samourai-mma-9@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Samourai MMA 9
+DTSTART:20240203T010000Z
+DTEND:20240203T040000Z
+CATEGORIES:Other,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
 UID:2024-02-college-wrestling-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:College Wrestling
@@ -35,5 +68,32 @@ DTSTART:20240203T090000Z
 DTEND:20240203T120000Z
 CATEGORIES:Other,Wrestling,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240127T122227Z
+UID:2024-02-combat-fc-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Combat FC 6
+DTSTART:20240210T010000Z
+DTEND:20240210T040000Z
+CATEGORIES:Other,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107506-combat-fc-6\nhttps://www.sherdog.com/events/combat-fc
+ -6-ghareeb-vs-shainis-100739\n\n---\n\nMain Card: Nathan Ghareeb (9-2-0)
+  vs. Don Shainis (13-6-0)\nMain Card: Josh Medeiros (1-0-0) vs. Adrian H
+ aly (2-3-0)\nMain Card: John Douma (8-4-0) vs. Matheus Silva (8-3-0)\nMa
+ in Card: Carlos Lozoya (7-4-0) vs. Chris Disonell (6-6-0)\nMain Card: Le
+ onardo Ladeira (2-4-0) vs. Stephen Stengel (6-24-0)\nMain Card: Kyle Hil
+ l (1-0-0) vs. Sam Watford (4-7-0)\nMain Card: Ramano Medina (2-0-0) vs. 
+ Patrick Benson (5-7-0)\nMain Card: Rick Hawn vs. Leon Davis\nMain Card: 
+ Nate LaMotte vs. Mike Zichelle\nMain Card: Jay Bakanowski (5-4-0) vs. To
+ ny Pike (0-4-0)\nMain Card: Kashif Solarin (6-13-1) vs. Jay Pressley (6-
+ 4-0)\nMain Card: Dan Cormier (10-10-0) vs. David Juliano (2-4-0)\nMain C
+ ard: Gerald Meuse (6-0-0) vs. Damion Nelson (4-4-0)\nMain Card: Yann Oli
+ veira (5-0-0) vs. Ali Zebian (10-4-0)\nMain Card: Zechariah Lange (6-4-0
+ ) vs. Andres Rodriguez (4-2-0)\nMain Card: Jarrod St. Jean (2-2-0) vs. T
+ homas De Souza (0-0-0)\nMain Card: Tom Duffy (0-1-0) vs. Tyler Gauthier 
+ (0-0-0)\nMain Card: Breyin Nichols (0-1-0) vs. Josh Soares (0-0-0)\nMain
+  Card: Joshua Rosario (0-1-0) vs. Paul Cavagnoulo (1-1-0)
 END:VEVENT
 END:VCALENDAR

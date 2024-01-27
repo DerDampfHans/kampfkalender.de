@@ -4,29 +4,32 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240113T085523Z
-X-KAMPFKALENDER-HASH:4bbe3a8af8f133a0433ae743fae696e5b8b69472
+DTSTAMP:20240127T122226Z
+X-KAMPFKALENDER-HASH:7dabd59e76ed94944a95b62f33acde4ff0666d90
 BEGIN:VEVENT
-DTSTAMP:20240113T085524Z
+DTSTAMP:20240127T122227Z
 UID:2024-01-oktagon-52-magard-vs-cartwright@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 52: Mågård vs Cartwright
 DTSTART:20240127T170000Z
 DTEND:20240127T200000Z
-CATEGORIES:Oktagon,MMA,oktagon.tv,live
-DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/107435-oktagon-52\n\n---\n\nMain Event: Jonas Mågård (15-6-0) vs
- . Jack Cartwright (11-1-0)\nCo-Main Event: Matěj Peňáz (8-1-0) vs. Matth
- ew Bonner (16-9-1)\nMain Card: Aaron Aby (15-8-1) vs. Christopher Daniel
-  (9-3-1)\nMain Card: Adam Pałasz (9-2-0) vs. Stuart Austin (17-8-0)\nMai
- n Card: Shoaib Yousaf (11-3-0) vs. Eduard Kexel (9-1-0)\nPrelim: Corey F
- ry (5-1-0) vs. Max Holzer (6-0-0)\nPrelim: Jan Široký (13-16-0) vs. Deni
- s Frimpong (0-2-0)\nPrelim: Roman Paulus (8-4-0) vs. Nathan Haywood (3-1
- -0)\nPrelim: Jake McHugh (1-0-0) vs. Armand Herczeg (0-1-0)\nPrelim: Dan
- iel Bainbridge (2-0-0) vs. Hamza Dagdeviren (1-1-0)
+CATEGORIES:Oktagon,MMA,DAZN,oktagon.tv,live
+DESCRIPTION:via DAZN\nvia oktagon.tv\n\n---\n\nhttps://www.tapology.com/f
+ ightcenter/events/107435-oktagon-52\nhttps://www.sherdog.com/events/okta
+ gon-mma-oktagon-52-magard-vs-cartwright-100469\nhttps://events.mixedmart
+ ialarts.com/oktagon-52:299a171c-7ad2-473a-806a-666098303fd5\n\n---\n\nMa
+ in Event: Jonas Mågård (15-6-0) vs. Jack Cartwright (11-1-0)\nCo-Main Ev
+ ent: Matěj Peňáz (8-1-0) vs. Matthew Bonner (16-9-1)\nMain Card: Aaron A
+ by (15-8-1) vs. Christopher Daniel (9-3-1)\nMain Card: Adam Pałasz (9-2-
+ 0) vs. Stuart Austin (17-8-0)\nMain Card: Shoaib Yousaf (11-3-0) vs. Edu
+ ard Kexel (9-1-0)\nPrelim: Corey Fry (5-1-0) vs. Max Holzer (6-0-0)\nPre
+ lim: Jan Široký (13-16-0) vs. Denis Frimpong (0-2-0)\nPrelim: Roman Paul
+ us (8-4-0) vs. Nathan Haywood (3-1-0)\nPrelim: Jake McHugh (1-0-0) vs. A
+ rmand Herczeg (0-1-0)\nPrelim: Daniel Bainbridge (2-0-0) vs. Hamza Dagde
+ viren (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T085524Z
+DTSTAMP:20240127T122227Z
 UID:2024-02-oktagon-53-dalisda-vs-dourthe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 53: Dalisda vs. Dourthe
@@ -40,12 +43,13 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  os (20-12-1)\nMain Card: Hojat Khajevand (7-3-0) vs. David Zawada (18-9-
  0)\nMain Card: Miroslav Brož (16-3-1) vs. Tom Crosby (8-3-1)\nMain Card:
   Jaroslav Pokorný (16-10-0) vs. Gjoni Palokaj (7-3-0)\nMain Card: Jan Ma
- lach (15-14-0) vs. Gökhan Aksu (11-6-1)\nPrelim: Róża Gumienna (5-3-0) v
- s. Sara Luzar Smajić (4-2-0)\nPrelim: Emir-Can Al (0-0-0) vs. Tomáš Vota
- va (0-0-0)
+ lach (15-14-0) vs. Gökhan Aksu (11-6-1)\nMain Card: Endrit Brajshori (2-
+ 1-0) vs. Jan Fajk (4-0-0)\nMain Card: Jakub Batfalsky (3-0-0) vs. Sami Z
+ arabi (3-1-0)\nPrelim: Róża Gumienna (5-3-0) vs. Sara Luzar Smajić (4-2-
+ 0)\nPrelim: Emir-Can Al (0-0-0) vs. Tomáš Votava (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T085524Z
+DTSTAMP:20240127T122227Z
 UID:2024-03-oktagon-54@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 54
@@ -53,10 +57,14 @@ DTSTART:20240302T170000Z
 DTEND:20240302T200000Z
 CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
 DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
- /events/108298-oktagon-54-tipsport-gamechanger-2
+ /events/108298-oktagon-54-tipsport-gamechanger-2\n\n---\n\nMain Card: Ma
+ kwan Amirkhani (17-9-0) vs. Mochamed Machaev (13-1-0)\nMain Card: Mohame
+ d Grabinski (23-9-0) vs. Acoidan Duque (19-4-0)\nMain Card: Vladimír Len
+ gál (6-3-0) vs. Daniel Torres (14-5-0)\nMain Card: Akonne Wanliss (7-2-0
+ ) vs. Sahil Siraj (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T085524Z
+DTSTAMP:20240127T122227Z
 UID:2024-03-oktagon-55@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 55
@@ -69,7 +77,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  las Stolze (13-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T085524Z
+DTSTAMP:20240127T122227Z
 UID:2024-06-oktagon-vemola-vs-vegh-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON: Vémola vs Végh 2

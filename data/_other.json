@@ -1,5 +1,62 @@
 [
   {
+    "id": "tapology-109830",
+    "promotion": "_OTHER",
+    "sports": [
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "Rajadamnern World Series: The Rematch",
+      "time": "2024-01-27T12:30:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "1m2nfzah445741s28zsod0r9f2",
+        "time": "2024-01-27T12:30:00Z",
+        "title": "Rajadamnern World Series: Hercules vs Erdem Dincer II",
+        "sport": "MMA",
+        "competition": "Rajadamnern World Series Muay Thai"
+      }
+    },
+    "tapology": {
+      "id": 109830,
+      "url": "https://www.tapology.com/fightcenter/events/109830-rajadamnern-world-series-the-rematch"
+    }
+  },
+  {
+    "id": "fight24-687",
+    "promotion": "_OTHER",
+    "sports": [
+      "KICKBOXING",
+      "MUAY_THAI"
+    ],
+    "mainCard": {
+      "title": "Maximus Fight Night III",
+      "time": "2024-01-27T16:00:00Z",
+      "broadcasters": {
+        "FIGHT24_TV": {
+          "url": "https://www.fight24.tv/fightpasses/fight24-maximus-fight-night-iii-687"
+        },
+        "YOUTUBE": {
+          "url": "https://www.youtube.com/watch?v=0pWwbbK2uYM"
+        }
+      },
+      "youTube": {
+        "id": "0pWwbbK2uYM",
+        "time": "2024-01-27T16:00:00Z",
+        "title": "Maximus Fight Night III: Livestream",
+        "url": "https://www.youtube.com/watch?v=0pWwbbK2uYM",
+        "tags": [
+          "#fights",
+          "#fighter",
+          "#knockout"
+        ]
+      }
+    }
+  },
+  {
     "id": "fightpass-256169",
     "promotion": "_OTHER",
     "sports": [
@@ -40,6 +97,26 @@
     }
   },
   {
+    "id": "fightpass-259011",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Samourai MMA 9",
+      "time": "2024-02-03T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 259011,
+        "time": "2024-02-03T01:00:00Z",
+        "title": "SAMOURAI MMA 9"
+      }
+    }
+  },
+  {
     "id": "fightpass-257984",
     "promotion": "_OTHER",
     "sports": [
@@ -57,6 +134,61 @@
         "time": "2024-02-03T09:00:00Z",
         "title": "ADCC MIDDLE EAST OPEN 2024: PRO FINALS"
       }
+    }
+  },
+  {
+    "id": "tapology-107506",
+    "promotion": "_OTHER",
+    "sports": [
+      "MMA"
+    ],
+    "mainCard": {
+      "title": "Combat FC 6",
+      "time": "2024-02-10T01:00:00Z",
+      "broadcasters": {
+        "UFC_FIGHT_PASS": {
+        }
+      },
+      "fightPass": {
+        "id": 259051,
+        "time": "2024-02-10T01:00:00Z",
+        "title": "COMBAT FC 6"
+      }
+    },
+    "tapology": {
+      "id": 107506,
+      "time": "2024-02-10T00:00:00Z",
+      "title": "Combat FC 6",
+      "info": "Confirmed Upcoming MMA & Grappling Event",
+      "url": "https://www.tapology.com/fightcenter/events/107506-combat-fc-6",
+      "sports": [
+        "MMA",
+        "GRAPPLING"
+      ],
+      "card": [
+        "Main Card: Nathan Ghareeb (9-2-0) vs. Don Shainis (13-6-0)",
+        "Main Card: Josh Medeiros (1-0-0) vs. Adrian Haly (2-3-0)",
+        "Main Card: John Douma (8-4-0) vs. Matheus Silva (8-3-0)",
+        "Main Card: Carlos Lozoya (7-4-0) vs. Chris Disonell (6-6-0)",
+        "Main Card: Leonardo Ladeira (2-4-0) vs. Stephen Stengel (6-24-0)",
+        "Main Card: Kyle Hill (1-0-0) vs. Sam Watford (4-7-0)",
+        "Main Card: Ramano Medina (2-0-0) vs. Patrick Benson (5-7-0)",
+        "Main Card: Rick Hawn vs. Leon Davis",
+        "Main Card: Nate LaMotte vs. Mike Zichelle",
+        "Main Card: Jay Bakanowski (5-4-0) vs. Tony Pike (0-4-0)",
+        "Main Card: Kashif Solarin (6-13-1) vs. Jay Pressley (6-4-0)",
+        "Main Card: Dan Cormier (10-10-0) vs. David Juliano (2-4-0)",
+        "Main Card: Gerald Meuse (6-0-0) vs. Damion Nelson (4-4-0)",
+        "Main Card: Yann Oliveira (5-0-0) vs. Ali Zebian (10-4-0)",
+        "Main Card: Zechariah Lange (6-4-0) vs. Andres Rodriguez (4-2-0)",
+        "Main Card: Jarrod St. Jean (2-2-0) vs. Thomas De Souza (0-0-0)",
+        "Main Card: Tom Duffy (0-1-0) vs. Tyler Gauthier (0-0-0)",
+        "Main Card: Breyin Nichols (0-1-0) vs. Josh Soares (0-0-0)",
+        "Main Card: Joshua Rosario (0-1-0) vs. Paul Cavagnoulo (1-1-0)"
+      ],
+      "links": [
+        "https://www.sherdog.com/events/combat-fc-6-ghareeb-vs-shainis-100739"
+      ]
     }
   }
 ]

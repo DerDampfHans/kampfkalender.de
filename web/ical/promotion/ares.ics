@@ -4,25 +4,26 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240113T085523Z
-X-KAMPFKALENDER-HASH:647e2beebd11b2333c862acbb23c87a19127c41d
+DTSTAMP:20240127T122226Z
+X-KAMPFKALENDER-HASH:e17e24eb34ea6a1f1a5d6abc7818337c78e6f466
 BEGIN:VEVENT
-DTSTAMP:20240113T085523Z
+DTSTAMP:20240127T122227Z
 UID:2024-02-ares-fc-19@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 19
-DTSTART:20240222T170000Z
-DTEND:20240222T200000Z
+DTSTART:20240209T180000Z
+DTEND:20240209T210000Z
 CATEGORIES:ARES,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/108580-ares-fc-19\n\n---\n\nMain Event: Demarte Pena (14-1-0
  ) vs. Aboubakar Younousov (4-0-0)\nCo-Main Event: Jordan Zébo (4-1-0) vs
  . Carlos Graca (4-2-0)\nMain Card: John Caseneuil (2-1-0) vs. Gaetan Dam
  bo (0-1-0)\nMain Card: Hugo Guillon (5-1-0) vs. Ilian Bouafia (3-0-0)\nM
- ain Card: Azize Hlali (0-0-0) vs. Mossab El Marzkioui (5-1-1)
+ ain Card: Azize Hlali (0-0-0) vs. Mossab El Marzkioui (5-1-1)\nMain Card
+ : Youssouf Binate (4-0-0) vs. Luke Neale (3-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T085523Z
+DTSTAMP:20240127T122227Z
 UID:2024-04-ares-fc-20@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Ares FC 20
@@ -30,6 +31,8 @@ DTSTART:20240418T160000Z
 DTEND:20240418T190000Z
 CATEGORIES:ARES,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/108581-ares-fc-20
+ nter/events/108581-ares-fc-20\n\n---\n\nMain Card: Jacky Jeanne (3-1-0) 
+ vs. Mbamba Cauwenbergh (0-0-0)\nMain Card: Xavier Lessou (3-2-0) vs. Mam
+ adou Mbaye (0-0-0)
 END:VEVENT
 END:VCALENDAR
