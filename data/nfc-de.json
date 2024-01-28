@@ -1,62 +1,5 @@
 [
   {
-    "id": "tapology-108750",
-    "promotion": "NFC_DE",
-    "sports": [
-      "MMA"
-    ],
-    "tags": [
-      "#Frankfurt",
-      "#NFC18"
-    ],
-    "links": [
-      "https://fighting.de/nfc-18/"
-    ],
-    "mainCard": {
-      "title": "NFC 18",
-      "time": "2024-02-03T19:30:00Z",
-      "until": "2024-02-03T22:30:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
-      }
-    },
-    "prelims": {
-      "title": "NFC 18: Undercard",
-      "time": "2024-02-03T17:30:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-        }
-      }
-    },
-    "earlyPrelims": {
-      "title": "NFC 18: Free Prelims",
-      "time": "2024-02-03T16:30:00Z",
-      "broadcasters": {
-        "FIGHTING_DE": {
-          "free": true
-        }
-      }
-    },
-    "tapology": {
-      "id": 108750,
-      "time": "2024-03-30T16:00:00Z",
-      "title": "NFC 18",
-      "info": "Confirmed Upcoming MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/108750-nfc-18",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Card: Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)",
-        "Main Card: David Piechaczek (2-0-0) vs. Tyrone Pfeifer (2-0-0)",
-        "Main Card: Timo Ernst (1-1-0) vs. Zemaray Afzali (2-4-0)",
-        "Main Card: Fedor Duric (4-0-0) vs. Mohamad Issa (5-1-0)",
-        "Main Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas (1-0-1)"
-      ]
-    }
-  },
-  {
     "id": "tapology-108608",
     "promotion": "NFC_DE",
     "tags": [
@@ -113,6 +56,63 @@
         "Main Card: Alexander Djukic (6-4-0) vs. Tobias Balzer (3-3-0)",
         "Main Card: Ibrahim Benmalek (2-1-0) vs. Ivan Krajinović (3-5-0)",
         "Main Card: Wahid Najand (7-2-0) vs. Ramazon Nuridinov (0-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-108750",
+    "promotion": "NFC_DE",
+    "sports": [
+      "MMA"
+    ],
+    "tags": [
+      "#Frankfurt",
+      "#NFC18"
+    ],
+    "links": [
+      "https://fighting.de/nfc-18/"
+    ],
+    "mainCard": {
+      "title": "NFC 18",
+      "time": "2024-03-03T19:30:00Z",
+      "until": "2024-03-03T22:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "NFC 18: Undercard",
+      "time": "2024-03-30T17:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+        }
+      }
+    },
+    "earlyPrelims": {
+      "title": "NFC 18: Free Prelims",
+      "time": "2024-03-30T16:30:00Z",
+      "broadcasters": {
+        "FIGHTING_DE": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 108750,
+      "time": "2024-03-30T16:00:00Z",
+      "title": "NFC 18",
+      "info": "Confirmed Upcoming MMA Event",
+      "url": "https://www.tapology.com/fightcenter/events/108750-nfc-18",
+      "sports": [
+        "MMA"
+      ],
+      "card": [
+        "Main Card: Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)",
+        "Main Card: David Piechaczek (2-0-0) vs. Tyrone Pfeifer (2-0-0)",
+        "Main Card: Timo Ernst (1-1-0) vs. Zemaray Afzali (2-4-0)",
+        "Main Card: Fedor Duric (4-0-0) vs. Mohamad Issa (5-1-0)",
+        "Main Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas (1-0-1)"
       ]
     }
   },
