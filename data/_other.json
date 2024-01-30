@@ -40,6 +40,50 @@
     }
   },
   {
+    "id": "tapology-110053",
+    "promotion": "_OTHER",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Toler vs. Panin",
+      "time": "2024-02-03T03:00:00Z",
+      "broadcasters": {
+        "DAZN": {
+        }
+      },
+      "dazn": {
+        "id": "ezsnrlmim5t21gzc9ota8vthl",
+        "time": "2024-02-03T03:00:00Z",
+        "title": "Vorkämpfe & Hauptkampf",
+        "sport": "BOXING",
+        "competition": "Toler vs Panin"
+      }
+    },
+    "tapology": {
+      "id": 110053,
+      "time": "2024-02-03T01:00:00Z",
+      "title": "Boxfest VII",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/110053-boxfest-vii",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Quashawn Toler (17-1-0) vs. Vlad Panin (17-1-0)",
+        "Main Card: Breyon Gorham (13-0-0) vs. Wilfredo Flores (10-1-1)",
+        "Main Card: Frank Zaldivar (5-0-0) vs. Rilwan Oladosu (18-0-0)",
+        "Main Card: Edel Gomez (8-0-1) vs. James Weissman (5-1-0)",
+        "Main Card: Jose Camacho Torres (6-0-1) vs. Luis Alberto Lopez (6-1-0)",
+        "Main Card: D. Johnson (0-0-0) vs. Aaron Mick (0-0-0)",
+        "Main Card: Lazaro Diaz (2-0-0) vs. Daniel Keith Bailey (0-2-0)"
+      ],
+      "links": [
+        "https://www.boxrec.com/en/event/888686"
+      ]
+    }
+  },
+  {
     "id": "fightpass-257984",
     "promotion": "_OTHER",
     "sports": [
@@ -108,10 +152,12 @@
         "Main Card: Jarrod St. Jean (2-2-0) vs. Thomas De Souza (0-0-0)",
         "Main Card: Tom Duffy (0-1-0) vs. Tyler Gauthier (0-0-0)",
         "Main Card: Breyin Nichols (0-1-0) vs. Josh Soares (0-0-0)",
-        "Main Card: Joshua Rosario (0-1-0) vs. Paul Cavagnoulo (1-1-0)"
+        "Main Card: Joshua Rosario (0-1-0) vs. Paul Cavagnoulo (1-1-0)",
+        "Main Card: Shaun Nichols (0-0-0) vs. Alex Behling (0-0-0)"
       ],
       "links": [
-        "https://www.sherdog.com/events/combat-fc-6-ghareeb-vs-shainis-100739"
+        "https://www.sherdog.com/events/combat-fc-6-ghareeb-vs-shainis-100739",
+        "https://events.mixedmartialarts.com/combat-fc-6:f90efd4b-88b3-4126-9e8c-d2f323d61e43"
       ]
     }
   }

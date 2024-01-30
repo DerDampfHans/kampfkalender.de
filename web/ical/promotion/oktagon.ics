@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240127T122226Z
-X-KAMPFKALENDER-HASH:7dabd59e76ed94944a95b62f33acde4ff0666d90
+DTSTAMP:20240130T011734Z
+X-KAMPFKALENDER-HASH:0c8aec753a371dbada8c0f923c37495f78c06393
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-01-oktagon-52-magard-vs-cartwright@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 52: Mågård vs Cartwright
@@ -29,7 +29,7 @@ DESCRIPTION:via DAZN\nvia oktagon.tv\n\n---\n\nhttps://www.tapology.com/f
  viren (1-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-02-oktagon-53-dalisda-vs-dourthe@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 53: Dalisda vs. Dourthe
@@ -45,11 +45,12 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
   Jaroslav Pokorný (16-10-0) vs. Gjoni Palokaj (7-3-0)\nMain Card: Jan Ma
  lach (15-14-0) vs. Gökhan Aksu (11-6-1)\nMain Card: Endrit Brajshori (2-
  1-0) vs. Jan Fajk (4-0-0)\nMain Card: Jakub Batfalsky (3-0-0) vs. Sami Z
- arabi (3-1-0)\nPrelim: Róża Gumienna (5-3-0) vs. Sara Luzar Smajić (4-2-
- 0)\nPrelim: Emir-Can Al (0-0-0) vs. Tomáš Votava (0-0-0)
+ arabi (3-1-0)\nMain Card: Cihad Akipa (6-1-0) vs. Ivica Trušček (42-39-0
+ )\nPrelim: Róża Gumienna (5-3-0) vs. Sara Luzar Smajić (4-2-0)\nPrelim: 
+ Emir-Can Al (0-0-0) vs. Tomáš Votava (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-03-oktagon-54@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 54
@@ -64,7 +65,7 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  ) vs. Sahil Siraj (9-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-03-oktagon-55@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON 55
@@ -77,7 +78,18 @@ DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
  las Stolze (13-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
+UID:2024-04-oktagon-56@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:OKTAGON 56
+DTSTART:20240420T160000Z
+DTEND:20240420T190000Z
+CATEGORIES:Oktagon,MMA,Kickboxen,oktagon.tv,live
+DESCRIPTION:via oktagon.tv\n\n---\n\nhttps://www.tapology.com/fightcenter
+ /events/110041-oktagon-56
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240130T011735Z
 UID:2024-06-oktagon-vemola-vs-vegh-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:OKTAGON: Vémola vs Végh 2

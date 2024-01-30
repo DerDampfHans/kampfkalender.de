@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240128T230307Z
-X-KAMPFKALENDER-HASH:42285c61fb87fedad84bec83478bab28a44871da
+DTSTAMP:20240130T011734Z
+X-KAMPFKALENDER-HASH:d2ba3e49acd9642204cdc1638966ad2f17f97674
 BEGIN:VEVENT
-DTSTAMP:20240128T230308Z
+DTSTAMP:20240130T011735Z
 UID:2024-02-fury-fc-86@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 86
@@ -27,10 +27,11 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Lancaster (3-0-0)\nMain Card: Diara Culpepper (2-1-0) vs. Mario Suazo (2
  -3-0)\nMain Card: Gabriel Calvario (1-1-0) vs. Ray Vaiza (0-1-0)\nMain C
  ard: Armando Zuniga (2-1-0) vs. Anthony Valenzuela (2-2-0)\nMain Card: D
- avid Hansen (0-0-0) vs. Charles Clark (0-2-0)
+ avid Hansen (0-0-0) vs. Charles Clark (0-2-0)\nMain Card: Ricky Romo (3-
+ 2-1) vs. Casey Ware (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T230308Z
+DTSTAMP:20240130T011735Z
 UID:2024-03-fury-fc-87@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Fury FC 87
@@ -41,5 +42,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/107714-fury-fc-87\n\n---\n\nMain Event: Paris Moran (9-2-0) 
  vs. Shameek Harvey (7-1-0)\nCo-Main Event: Jacob Silva (11-9-0) vs. Fred
  die Rodriguez (5-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240130T011735Z
+UID:2024-04-fury-fc-88@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury FC 88
+DTSTART:20240421T220000Z
+DTEND:20240422T010000Z
+CATEGORIES:FFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/110073-fury-fc-88
 END:VEVENT
 END:VCALENDAR

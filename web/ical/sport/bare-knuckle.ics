@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240127T122226Z
-X-KAMPFKALENDER-HASH:403fd3ba7645ee3028c1f1781aab6b0887f3c34a
+DTSTAMP:20240130T011734Z
+X-KAMPFKALENDER-HASH:79ae3df5955de63a023723830360e2d9cd6ce118
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-01-bkfc-prospect-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Prospect Series
@@ -27,7 +27,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=HM911_Sn2Fs\nvia
  andoval vs. Will Albrecht\nMain Card: Felipe Chavez vs. Michael Manno
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-02-bkfc-57-palomino-vs-trout@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 57: Palomino vs. Trout
@@ -36,18 +36,19 @@ DTEND:20240203T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-57/2pe7b/\n\n---\
  n\nhttps://www.tapology.com/fightcenter/events/108070-bkfc-57-palomino-v
- s-trout\n\n---\n\nMain Event: Luis Palomino vs. Austin Trout\nMain Card:
-  Bryce Henry vs. Robbie Peralta\nMain Card: Chris Garcia vs. Albert Incl
- an\nMain Card: John Michael Escoboza vs. Isaac Doolittle\nMain Card: Bry
- an Duran vs. Louie Lopez\nMain Card: Matt Russo vs. Justin Street\nMain 
- Card: Alberto Blas vs. Frank Alvarez\nMain Card: Christine Vicens vs. Sy
- dney Smith\nMain Card: Edgard Plazaola vs. Darrick Gates\nMain Card: Leo
- nardo Perdomo vs. Bobby Brents\nPrelim: Stephen Townsel vs. Leo Bercier\
- nPrelim: Ryan Reber vs. Derek Perez\nPrelim: Justin Sanchez vs. Landon W
- illiams
+ s-trout\nhttps://events.mixedmartialarts.com/bkfc-57:8e0cedc5-4780-4bc3-
+ 81b5-4f0d04e6a767\n\n---\n\nMain Event: Luis Palomino vs. Austin Trout\n
+ Main Card: Bryce Henry vs. Robbie Peralta\nMain Card: Chris Garcia vs. A
+ lbert Inclan\nMain Card: John Michael Escoboza vs. Isaac Doolittle\nMain
+  Card: Bryan Duran vs. Louie Lopez\nMain Card: Matt Russo vs. Justin Str
+ eet\nMain Card: Alberto Blas vs. Frank Alvarez\nMain Card: Christine Vic
+ ens vs. Sydney Smith\nMain Card: Edgard Plazaola vs. Darrick Gates\nMain
+  Card: Leonardo Perdomo vs. Bobby Brents\nPrelim: Stephen Townsel vs. Le
+ o Bercier\nPrelim: Ryan Reber vs. Derek Perez\nPrelim: Justin Sanchez vs
+ . Landon Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-02-bkfc-prospect-series-manassas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Prospect Series: Manassas
@@ -63,7 +64,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  al Lawson
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-03-bkfc-58-markulev-vs-kolev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 58: Markulev vs. Kolev
@@ -73,5 +74,17 @@ CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109309-bkfc-58-markulev-vs-kolev\n\n---\n\nMain Event: Toni Markule
  v vs. Kaloyan Kolev
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240130T011735Z
+UID:2024-03-bkfc-59-dodson-vs-aguero@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 59: Dodson vs. Aguero
+DTSTART:20240325T010000Z
+DTEND:20240325T040000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/110074-bkfc-59-dodson-vs-aguero\n\n---\n\nMain Event: John Dodson v
+ s. Dagoberto Aguero
 END:VEVENT
 END:VCALENDAR

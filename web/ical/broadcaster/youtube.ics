@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240127T122226Z
-X-KAMPFKALENDER-HASH:bdcc8553e5c1a981e43e49d5e7474f27b39bdb0a
+DTSTAMP:20240130T011734Z
+X-KAMPFKALENDER-HASH:dfd35285a8dbf1494151f77db2cc19bdb22e3535
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-01-maximus-fight-night-iii@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Maximus Fight Night III
@@ -19,7 +19,7 @@ DESCRIPTION:via fight24.tv: https://www.fight24.tv/fightpasses/fight24-ma
  0pWwbbK2uYM
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-01-bkfc-prospect-series@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Prospect Series
@@ -39,7 +39,7 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=HM911_Sn2Fs\nvia
  andoval vs. Will Albrecht\nMain Card: Felipe Chavez vs. Michael Manno
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-01-one-165-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 165: Prelims
@@ -62,7 +62,17 @@ DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=I67E7A0E-x4\n\n-
  (13-4-0) vs. Gustavo Balart (11-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
+UID:2024-01-glory-heavyweight-grand-prix-auslosung@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GLORY Heavyweight Grand Prix: Auslosung
+DTSTART:20240131T120000Z
+DTEND:20240131T150000Z
+CATEGORIES:Glory,YouTube,PR,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=oIBHjLykYpQ
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240130T011735Z
 UID:2024-02-one-fight-night-19@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 19
@@ -75,7 +85,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ah\nMain Card: Luke Lessei vs. Eddie Abasolo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-03-one-166-de-ridder-2-vs-malykhin-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 166: De Ridder 2 vs. Malykhin 2
@@ -92,7 +102,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  lo vs. Izaak Michell
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-03-one-friday-fights-20@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 20
@@ -103,7 +113,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/107591-one-friday-fights-20
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-04-one-fight-night-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 21
@@ -114,7 +124,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109344-one-fight-night-21
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-05-one-fight-night-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 22
@@ -125,7 +135,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109345-one-fight-night-22
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-06-one-fight-night-23@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 23
@@ -136,7 +146,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109346-one-fight-night-23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-07-one-fight-night-24@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 24
@@ -147,7 +157,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109347-one-fight-night-24
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-08-one-fight-night-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 25
@@ -158,7 +168,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109348-one-fight-night-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-09-one-fight-night-26@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 26
@@ -169,7 +179,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109349-one-fight-night-26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-10-one-fight-night-27@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 27
@@ -180,7 +190,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109350-one-fight-night-27
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-11-one-fight-night-28@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 28
@@ -191,7 +201,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109351-one-fight-night-28
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240130T011735Z
 UID:2024-12-one-fight-night-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 29
