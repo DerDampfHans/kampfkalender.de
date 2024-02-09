@@ -4,23 +4,59 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240207T230304Z
-X-KAMPFKALENDER-HASH:3274878de1618b1be7a06afceaa08762a0854f26
+DTSTAMP:20240209T044516Z
+X-KAMPFKALENDER-HASH:d2506f27ee45dee07c1dcc4db8d855b2718fc600
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
-UID:2024-02-one-fight-night-19@kampfkalender.de
+DTSTAMP:20240209T044517Z
+UID:2024-02-one-friday-fights-51-rambolek-vs-sen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:ONE Fight Night 19
-DTSTART:20240217T010000Z
-DTEND:20240217T040000Z
+SUMMARY:ONE Friday Fights 51: Rambolek vs. Sen
+DTSTART:20240209T123000Z
+DTEND:20240209T153000Z
 CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
-DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/107589-one-fight-night-19\n\n---\n\nMain Event: Jonathan Haggerty v
- s. Felipe Lobo\nCo-Main Event: Saemapetch Fairtex vs. Mohamed Younes Rab
- ah\nMain Card: Luke Lessei vs. Eddie Abasolo
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=j94ntQTteUM\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/110275-one-friday-figh
+ ts-51\n\n---\n\nMain Event: Rambolek Tor Yotha vs. Soner Şen\nCo-Main Ev
+ ent: Samingdam Looksuan vs. Seksan Chor.Thaiset\nMain Card: P. Mongkolpe
+ tch vs. Peyman Zolfaghari\nMain Card: Jomjai Naksu vs. P. Sor.Mongkolkar
+ nchang\nMain Card: Junior Fairtex vs. Angela Chang\nMain Card: Avatar PK
+ .Saenchai vs. Mavlud Tupiev\nMain Card: Mustafa Al Tekreeti vs. George J
+ arvis\nMain Card: Mohammed Boutasaa vs. Dmitry Changelia\nMain Card: Kaz
+ akbai Tilenov (5-1-0) vs. Ivan Parshikov (12-4-0)\nMain Card: Gyu Jun Ch
+ o (3-0-0) vs. Adilet Alimbek Uulu (3-1-0)\nMain Card: Masahito Okuyama v
+ s. Temirlan Bekmurzaev\nMain Card: Tomoki Sato vs. Chusuan Sitpakpanang
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
+UID:2024-02-gmc-olympix-147-k1-mma-boxen@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:GMC OlympiX 147 - K1/MMA/Boxen
+DTSTART:20240210T160000Z
+DTEND:20240210T190000Z
+CATEGORIES:GMC,MMA,YouTube,gmc.tv,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=2prYUGbWQ_o\nvia
+  gmc.tv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
+UID:2024-02-one-fight-night-19-haggerty-vs-lobo@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:ONE Fight Night 19: Haggerty vs. Lobo
+DTSTART:20240217T000000Z
+DTEND:20240217T030000Z
+CATEGORIES:ONE,MMA,Kickboxen,Muay Thai,YouTube,live,kostenlos
+DESCRIPTION:via YouTube: https://www.youtube.com/watch?v=ICnd-aRsy9M\n\n-
+ --\n\nhttps://www.tapology.com/fightcenter/events/107589-one-fight-night
+ -19\n\n---\n\nMain Event: Jonathan Haggerty vs. Felipe Lobo\nCo-Main Eve
+ nt: Saemapetch Fairtex vs. Mohamed Younes Rabah\nMain Card: Luke Lessei 
+ vs. Eddie Abasolo\nMain Card: Danial Williams (6-2-0) vs. Lito Adiwang (
+ 15-5-0)\nMain Card: Liam Nolan vs. Nauzet Trujillo\nMain Card: Nat Jaroo
+ nsak vs. Dayane Cardoso\nMain Card: T. Petchportoror vs. Timur Chuikov\n
+ Main Card: Mansur Malachiev (11-1-0) vs. Yosuke Saruta (21-11-3)\nMain C
+ ard: Hiroyuki Tetsuka (12-4-0) vs. Valmir da Silva (9-3-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
 UID:2024-03-one-166-de-ridder-2-vs-malykhin-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 166: De Ridder 2 vs. Malykhin 2
@@ -34,10 +70,10 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  2-0) vs. Amir Aliakbari (13-3-0)\nMain Card: Osamah Almarwai vs. Cleber 
  Sousa\nMain Card: Kai Tang (18-2-0) vs. Thanh Le (14-3-0)\nMain Card: St
  amp Fairtex (11-2-0) vs. Denice Zamboanga (10-2-0)\nMain Card: Tye Ruoto
- lo vs. Izaak Michell
+ lo vs. Izaak Michell\nMain Card: Zuhayr Al-Qahtani vs. Mehdi Zatout
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-one-friday-fights-20@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Friday Fights 20
@@ -48,7 +84,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/107591-one-friday-fights-20
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-04-one-fight-night-21@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 21
@@ -59,7 +95,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109344-one-fight-night-21
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-05-one-fight-night-22@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 22
@@ -70,7 +106,18 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109345-one-fight-night-22
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
+UID:2024-05-emc-talents-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:EMC Talents 6
+DTSTART:20240518T160000Z
+DTEND:20240518T190000Z
+CATEGORIES:EMC,MMA,YouTube,live
+DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/110302-emc-talents-6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
 UID:2024-06-one-fight-night-23@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 23
@@ -81,7 +128,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109346-one-fight-night-23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-07-one-fight-night-24@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 24
@@ -92,7 +139,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109347-one-fight-night-24
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-08-one-fight-night-25@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 25
@@ -103,7 +150,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109348-one-fight-night-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-09-one-fight-night-26@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 26
@@ -114,7 +161,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109349-one-fight-night-26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-10-one-fight-night-27@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 27
@@ -125,7 +172,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109350-one-fight-night-27
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-11-one-fight-night-28@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 28
@@ -136,7 +183,7 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  ents/109351-one-fight-night-28
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240207T230304Z
+DTSTAMP:20240209T044517Z
 UID:2024-12-one-fight-night-29@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE Fight Night 29

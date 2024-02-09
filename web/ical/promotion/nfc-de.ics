@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240130T011734Z
-X-KAMPFKALENDER-HASH:a31e3d4a2ad97ffd026d761ef6c903efad0eccbe
+DTSTAMP:20240209T044516Z
+X-KAMPFKALENDER-HASH:bbbbc50c8cc084011e7b7569f52e192fc3b1e8a3
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-nfc-17-free-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Free Prelims
@@ -29,7 +29,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
  ajand (7-2-0) vs. Ramazon Nuridinov (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-nfc-17-undercard@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17: Undercard
@@ -51,7 +51,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
  ajand (7-2-0) vs. Ramazon Nuridinov (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-nfc-17@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 17
@@ -73,7 +73,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-17/\nhttps:
  ajand (7-2-0) vs. Ramazon Nuridinov (0-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-03-nfc-18@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 18
@@ -81,15 +81,15 @@ DTSTART:20240303T193000Z
 DTEND:20240303T223000Z
 CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-18/\nhttps:
- //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Card:
-  Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)\nMain Card: David
-  Piechaczek (2-0-0) vs. Tyrone Pfeifer (2-0-0)\nMain Card: Timo Ernst (1
- -1-0) vs. Zemaray Afzali (2-4-0)\nMain Card: Fedor Duric (4-0-0) vs. Moh
- amad Issa (5-1-0)\nMain Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas 
- (1-0-1)
+ //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Event
+ : Max Coga (25-8-1) vs. Pantelei Taran (7-4-0)\nMain Card: Patrick Vespa
+ ziani (2-1-0) vs. Simon Schuster (3-2-0)\nMain Card: David Piechaczek (2
+ -0-0) vs. Tyrone Pfeifer (2-0-0)\nMain Card: Timo Ernst (1-1-0) vs. Zema
+ ray Afzali (2-4-0)\nMain Card: Fedor Duric (4-0-0) vs. Mohamad Issa (5-1
+ -0)\nMain Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas (1-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-03-nfc-18-free-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 18: Free Prelims
@@ -97,15 +97,15 @@ DTSTART:20240330T163000Z
 DTEND:20240330T173000Z
 CATEGORIES:NFC,MMA,fighting.de,live,kostenlos
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-18/\nhttps:
- //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Card:
-  Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)\nMain Card: David
-  Piechaczek (2-0-0) vs. Tyrone Pfeifer (2-0-0)\nMain Card: Timo Ernst (1
- -1-0) vs. Zemaray Afzali (2-4-0)\nMain Card: Fedor Duric (4-0-0) vs. Moh
- amad Issa (5-1-0)\nMain Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas 
- (1-0-1)
+ //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Event
+ : Max Coga (25-8-1) vs. Pantelei Taran (7-4-0)\nMain Card: Patrick Vespa
+ ziani (2-1-0) vs. Simon Schuster (3-2-0)\nMain Card: David Piechaczek (2
+ -0-0) vs. Tyrone Pfeifer (2-0-0)\nMain Card: Timo Ernst (1-1-0) vs. Zema
+ ray Afzali (2-4-0)\nMain Card: Fedor Duric (4-0-0) vs. Mohamad Issa (5-1
+ -0)\nMain Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas (1-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-03-nfc-18-undercard@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 18: Undercard
@@ -113,15 +113,15 @@ DTSTART:20240330T173000Z
 DTEND:20240303T193000Z
 CATEGORIES:NFC,MMA,fighting.de,live
 DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-18/\nhttps:
- //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Card:
-  Patrick Vespaziani (2-1-0) vs. Simon Schuster (3-2-0)\nMain Card: David
-  Piechaczek (2-0-0) vs. Tyrone Pfeifer (2-0-0)\nMain Card: Timo Ernst (1
- -1-0) vs. Zemaray Afzali (2-4-0)\nMain Card: Fedor Duric (4-0-0) vs. Moh
- amad Issa (5-1-0)\nMain Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas 
- (1-0-1)
+ //www.tapology.com/fightcenter/events/108750-nfc-18\n\n---\n\nMain Event
+ : Max Coga (25-8-1) vs. Pantelei Taran (7-4-0)\nMain Card: Patrick Vespa
+ ziani (2-1-0) vs. Simon Schuster (3-2-0)\nMain Card: David Piechaczek (2
+ -0-0) vs. Tyrone Pfeifer (2-0-0)\nMain Card: Timo Ernst (1-1-0) vs. Zema
+ ray Afzali (2-4-0)\nMain Card: Fedor Duric (4-0-0) vs. Mohamad Issa (5-1
+ -0)\nMain Card: Raul Lemberanskij (3-0-0) vs. Ahmad Abbas (1-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-06-nfc-19-early-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 19: Early Prelims
@@ -132,7 +132,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-19/\nhttps:
  //www.tapology.com/fightcenter/events/108751-nfc-19
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-06-nfc-19-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 19: Prelims
@@ -143,7 +143,7 @@ DESCRIPTION:via fighting.de\n\n---\n\nhttps://fighting.de/nfc-19/\nhttps:
  //www.tapology.com/fightcenter/events/108751-nfc-19
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-06-nfc-19@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:NFC 19

@@ -4,15 +4,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240128T103416Z
-X-KAMPFKALENDER-HASH:7eae334071b66ead3d8abc0b5e6ca0e26ee57d69
+DTSTAMP:20240209T044516Z
+X-KAMPFKALENDER-HASH:d73f0413028dbe93cb9a912ed22d29893427ce0a
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-cage-warriors-166@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 166
-DTSTART:20240223T090000Z
-DTEND:20240223T120000Z
+DTSTART:20240224T020000Z
+DTEND:20240224T050000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/108289-cage-warriors-166\n\n---\n\nMain Event: Mason Jones (
@@ -22,15 +22,16 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  Card: Diego Vazquez (2-1-0) vs. Sean Rose (1-2-0)\nMain Card: Elijah Har
  ris (4-4-0) vs. Kelvin Fitial (15-14-2)\nMain Card: Chasen Blair (3-2-0)
   vs. Orlando Sanders (3-1-0)\nMain Card: Chace Eskam (1-2-1) vs. Ilias F
- aquiri (0-1-0)
+ aquiri (0-1-0)\nMain Card: Miguel Peimbert (2-4-0) vs. Carlos Elizarrara
+ z (2-3-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
-UID:2024-03-cage-warriors-167@kampfkalender.de
+DTSTAMP:20240209T044516Z
+UID:2024-03-cage-warriors-167-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors 167
-DTSTART:20240315T160000Z
-DTEND:20240315T190000Z
+SUMMARY:Cage Warriors 167: Prelims
+DTSTART:20240315T163000Z
+DTEND:20240315T200000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/108290-cage-warriors-167\n\n---\n\nMain Card: Michael Pagani
@@ -41,12 +42,28 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
-UID:2024-03-cage-warriors-168@kampfkalender.de
+DTSTAMP:20240209T044516Z
+UID:2024-03-cage-warriors-167@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Cage Warriors 168
-DTSTART:20240316T160000Z
-DTEND:20240316T190000Z
+SUMMARY:Cage Warriors 167
+DTSTART:20240315T200000Z
+DTEND:20240315T230000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108290-cage-warriors-167\n\n---\n\nMain Card: Michael Pagani
+  (7-0-0) vs. Konstantinos Ntelis (8-2-0)\nMain Card: Omiel Brown (6-3-0)
+  vs. Rafael Aronov (5-4-0)\nMain Card: Sergio Gavinelli (4-2-0) vs. Heli
+ o Hernandez (2-2-0)\nMain Card: Tommy Hawthorn (5-1-0) vs. Simone Patriz
+ i (6-2-0)\nMain Card: Amaury Junior (15-11-0) vs. Giuseppe Ruggeri (8-0-
+ 0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044516Z
+UID:2024-03-cage-warriors-168-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 168: Prelims
+DTSTART:20240316T163000Z
+DTEND:20240316T200000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/108291-cage-warriors-168\n\n---\n\nMain Event: Liam Gittins 
@@ -57,10 +74,31 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  n Card: Andy Clamp (12-2-0) vs. Matthew Byfield (6-1-0)\nMain Card: Anto
  nio Sheldon (6-4-1) vs. Tom Mearns (10-8-0)\nMain Card: Aaron Johnson (7
  -4-0) vs. Ermil Xhaferi (4-1-1)\nMain Card: Andy Yates (1-0-0) vs. Chris
- tian Tebbett (3-2-0)
+ tian Tebbett (3-2-0)\nMain Card: Tom Wright (1-1-0) vs. Orion Lombardi (
+ 4-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
+DTSTAMP:20240209T044516Z
+UID:2024-03-cage-warriors-168@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Cage Warriors 168
+DTSTART:20240316T200000Z
+DTEND:20240316T230000Z
+CATEGORIES:CWFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108291-cage-warriors-168\n\n---\n\nMain Event: Liam Gittins 
+ (12-4-0) vs. Roberto Hernandez (9-1-0)\nMain Card: Sam Kelly (5-2-0) vs.
+  Alessandro Giordano (6-3-0)\nMain Card: Tom Nicholls (2-0-0) vs. Craig 
+ Rawlins (5-3-0)\nMain Card: James Power (5-1-0) vs. Gianluca Rocca (8-3-
+ 0)\nMain Card: Sheldon Ryan (3-1-0) vs. Michelangelo Lupoli (6-4-0)\nMai
+ n Card: Andy Clamp (12-2-0) vs. Matthew Byfield (6-1-0)\nMain Card: Anto
+ nio Sheldon (6-4-1) vs. Tom Mearns (10-8-0)\nMain Card: Aaron Johnson (7
+ -4-0) vs. Ermil Xhaferi (4-1-1)\nMain Card: Andy Yates (1-0-0) vs. Chris
+ tian Tebbett (3-2-0)\nMain Card: Tom Wright (1-1-0) vs. Orion Lombardi (
+ 4-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044516Z
 UID:2024-03-cage-warriors-169@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 169
@@ -76,10 +114,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  ard: Jamie Richardson (11-9-0) vs. Olli Santalahti (13-6-0)\nMain Card: 
  James Webb (9-5-1) vs. Yannick Bahati (9-7-0)\nMain Card: Mitchell Goode
   (0-0-0) vs. Angus Hewett (1-2-0)\nMain Card: Joe Middleton (1-0-0) vs. 
- Sean McCormac (3-2-0)
+ Sean McCormac (3-2-0)\nMain Card: Tom Creasey (5-1-0) vs. Amir Malekpour
+  (6-2-0)\nMain Card: Lone'er Kavanagh (5-0-0) vs. Shawn Marcos Da Silva 
+ (6-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
+DTSTAMP:20240209T044516Z
 UID:2024-04-cage-warriors-170@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 170
@@ -89,10 +129,12 @@ CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/108294-cage-warriors-170\n\n---\n\nMain Card: Eimear Darcy (
  0-0-0) vs. Jenny Line (0-3-0)\nMain Card: Adam Shelley (5-2-0) vs. Emanu
- ele Sabatino (5-1-0)
+ ele Sabatino (5-1-0)\nMain Card: Francesco Mazzeo (3-0-0) vs. Jordan O'N
+ eill (2-0-0)\nMain Card: Decky McAleenan (8-5-1) vs. Ville Mankinen (5-3
+ -1)\nMain Card: Taka Mhandu (4-2-0) vs. Rory Evans (6-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
+DTSTAMP:20240209T044516Z
 UID:2024-04-cage-warriors-171@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 171
@@ -100,10 +142,11 @@ DTSTART:20240420T160000Z
 DTEND:20240420T190000Z
 CATEGORIES:CWFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/108293-cage-warriors-170
+ nter/events/108293-cage-warriors-170\n\n---\n\nMain Card: Reece McEwan (
+ 7-2-0) vs. Cameron Else (10-6-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
+DTSTAMP:20240209T044516Z
 UID:2024-04-cage-warriors-171-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 171
@@ -114,7 +157,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/108295-cage-warriors-170
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240128T103416Z
+DTSTAMP:20240209T044516Z
 UID:2024-05-cage-warriors-172@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Cage Warriors 172

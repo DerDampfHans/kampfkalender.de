@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240130T011734Z
-X-KAMPFKALENDER-HASH:ba354a8f101b5fea2a1e26b32c0b90c476d5a612
+DTSTAMP:20240209T044516Z
+X-KAMPFKALENDER-HASH:50170db740e9bcd4098e258a5fb585b7801d1fea
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-ufc-vegas-85-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 85: Prelims
@@ -35,7 +35,7 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  sen (8-1-0) vs. Jamal Pogues (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-ufc-vegas-85-dolidze-vs-imavov@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 85: Dolidze vs. Imavov
@@ -63,7 +63,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  omas Petersen (8-1-0) vs. Jamal Pogues (10-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-ufc-vegas-86-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 86: Prelims
@@ -71,22 +71,27 @@ DTSTART:20240210T210000Z
 DTEND:20240211T000000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
- nter/events/107367-ufc-fight-night\n\n---\n\nMain Event: Jack Hermansson
-  (23-8-0) vs. Joe Pyfer (12-2-0)\nCo-Main Event: Dan Ige (17-7-0) vs. An
- dre Fili (23-10-0)\nMain Card: Brad Tavares (20-8-0) vs. Gregory Rodrigu
- es (14-5-0)\nMain Card: Rodolfo Vieira (9-2-0) vs. Armen Petrosyan (8-2-
- 0)\nMain Card: Michael Johnson (21-19-0) vs. Darrius Flowers (12-6-1)\nM
- ain Card: Albert Duraev (16-5-0) vs. Robert Bryczek (17-5-0)\nPrelim: Tr
- evin Giles (16-5-0) vs. Carlos Prates (17-6-0)\nPrelim: Loma Lookboonmee
-  (8-3-0) vs. Bruna Brasil (9-3-1)\nPrelim: Jeremiah Wells (12-3-1) vs. M
- ax Griffin (19-10-0)\nPrelim: Daniel Marcos (15-0-0) vs. Aoriqileng (25-
- 11-0)\nPrelim: Devin Clark (14-8-0) vs. Marcin Prachnio (16-7-0)\nPrelim
- : Zac Pauga (6-2-0) vs. Bogdan Guskov (14-3-0)\nPrelim: Bolaji Oki (8-1-
- 0) vs. Damir Hadžović (14-7-0)\nPrelim: Melsik Baghdasaryan (8-2-0) vs. 
- Hyder Amil (8-0-0)
+ nter/events/107367-ufc-fight-night\nhttps://www.sherdog.com/events/ufc-f
+ ight-night-236-hermansson-vs-pyfer-100402\nhttps://en.wikipedia.org/wiki
+ /UFC_Fight_Night:_Hermansson_vs._Pyfer\nhttps://events.mixedmartialarts.
+ com/ufc-fight-night:0cdbd946-1340-4453-9ee3-add6e989b0fd\nhttps://www.uf
+ c.com/event/ufc-fight-night-february-10-2024\nhttp://www.ufcstats.com/ev
+ ent-details/eaea0fc7b76525a8\nhttps://www.bestfightodds.com/events/ufc-3
+ 163\n\n---\n\nMain Event: Jack Hermansson (23-8-0) vs. Joe Pyfer (12-2-0
+ )\nCo-Main Event: Dan Ige (17-7-0) vs. Andre Fili (23-10-0)\nMain Card: 
+ Ihor Potieria (20-5-0) vs. Robert Bryczek (17-5-0)\nMain Card: Brad Tava
+ res (20-8-0) vs. Gregory Rodrigues (14-5-0)\nMain Card: Michael Johnson 
+ (21-19-0) vs. Darrius Flowers (12-6-1)\nMain Card: Rodolfo Vieira (9-2-0
+ ) vs. Armen Petrosyan (8-2-0)\nPrelim: Trevin Giles (16-5-0) vs. Carlos 
+ Prates (17-6-0)\nPrelim: Timothy Cuamba (8-1-0) vs. Bolaji Oki (8-1-0)\n
+ Prelim: Loma Lookboonmee (8-3-0) vs. Bruna Brasil (9-3-1)\nPrelim: Devin
+  Clark (14-8-0) vs. Marcin Prachnio (16-7-0)\nPrelim: Jeremiah Wells (12
+ -3-1) vs. Max Griffin (19-10-0)\nPrelim: Zac Pauga (6-2-0) vs. Bogdan Gu
+ skov (14-3-0)\nPrelim: Hyder Amil (8-0-0) vs. Fernie Garcia (10-4-0)\nPr
+ elim: Daniel Marcos (15-0-0) vs. Aoriqileng (25-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-ufc-vegas-86-hermansson-vs-pyfer@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Vegas 86: Hermansson vs. Pyfer
@@ -94,27 +99,32 @@ DTSTART:20240211T000000Z
 DTEND:20240211T030000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/107367-ufc-fight-night\n\n---\n\nMain Event: Jack 
- Hermansson (23-8-0) vs. Joe Pyfer (12-2-0)\nCo-Main Event: Dan Ige (17-7
- -0) vs. Andre Fili (23-10-0)\nMain Card: Brad Tavares (20-8-0) vs. Grego
- ry Rodrigues (14-5-0)\nMain Card: Rodolfo Vieira (9-2-0) vs. Armen Petro
- syan (8-2-0)\nMain Card: Michael Johnson (21-19-0) vs. Darrius Flowers (
- 12-6-1)\nMain Card: Albert Duraev (16-5-0) vs. Robert Bryczek (17-5-0)\n
- Prelim: Trevin Giles (16-5-0) vs. Carlos Prates (17-6-0)\nPrelim: Loma L
- ookboonmee (8-3-0) vs. Bruna Brasil (9-3-1)\nPrelim: Jeremiah Wells (12-
- 3-1) vs. Max Griffin (19-10-0)\nPrelim: Daniel Marcos (15-0-0) vs. Aoriq
- ileng (25-11-0)\nPrelim: Devin Clark (14-8-0) vs. Marcin Prachnio (16-7-
- 0)\nPrelim: Zac Pauga (6-2-0) vs. Bogdan Guskov (14-3-0)\nPrelim: Bolaji
-  Oki (8-1-0) vs. Damir Hadžović (14-7-0)\nPrelim: Melsik Baghdasaryan (8
- -2-0) vs. Hyder Amil (8-0-0)
+ om/fightcenter/events/107367-ufc-fight-night\nhttps://www.sherdog.com/ev
+ ents/ufc-fight-night-236-hermansson-vs-pyfer-100402\nhttps://en.wikipedi
+ a.org/wiki/UFC_Fight_Night:_Hermansson_vs._Pyfer\nhttps://events.mixedma
+ rtialarts.com/ufc-fight-night:0cdbd946-1340-4453-9ee3-add6e989b0fd\nhttp
+ s://www.ufc.com/event/ufc-fight-night-february-10-2024\nhttp://www.ufcst
+ ats.com/event-details/eaea0fc7b76525a8\nhttps://www.bestfightodds.com/ev
+ ents/ufc-3163\n\n---\n\nMain Event: Jack Hermansson (23-8-0) vs. Joe Pyf
+ er (12-2-0)\nCo-Main Event: Dan Ige (17-7-0) vs. Andre Fili (23-10-0)\nM
+ ain Card: Ihor Potieria (20-5-0) vs. Robert Bryczek (17-5-0)\nMain Card:
+  Brad Tavares (20-8-0) vs. Gregory Rodrigues (14-5-0)\nMain Card: Michae
+ l Johnson (21-19-0) vs. Darrius Flowers (12-6-1)\nMain Card: Rodolfo Vie
+ ira (9-2-0) vs. Armen Petrosyan (8-2-0)\nPrelim: Trevin Giles (16-5-0) v
+ s. Carlos Prates (17-6-0)\nPrelim: Timothy Cuamba (8-1-0) vs. Bolaji Oki
+  (8-1-0)\nPrelim: Loma Lookboonmee (8-3-0) vs. Bruna Brasil (9-3-1)\nPre
+ lim: Devin Clark (14-8-0) vs. Marcin Prachnio (16-7-0)\nPrelim: Jeremiah
+  Wells (12-3-1) vs. Max Griffin (19-10-0)\nPrelim: Zac Pauga (6-2-0) vs.
+  Bogdan Guskov (14-3-0)\nPrelim: Hyder Amil (8-0-0) vs. Fernie Garcia (1
+ 0-4-0)\nPrelim: Daniel Marcos (15-0-0) vs. Aoriqileng (25-11-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-ufc-298-volkanovski-vs-topuria-early-prelims@kampfkalender.de
  
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 298: Volkanovski vs. Topuria: Early Prelims
-DTSTART:20240217T230000Z
+DTSTART:20240217T233000Z
 DTEND:20240218T010000Z
 CATEGORIES:UFC,MMA,UFC Fight Pass,live
 DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
@@ -126,13 +136,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  2-2-0)\nPrelim: Marcos Rogério de Lima (21-9-1) vs. Justin Tafa (7-3-0)\
  nPrelim: Mingyang Zhang (16-6-0) vs. Brendson Ribeiro (15-5-0)\nPrelim: 
  Andrea Lee (13-8-0) vs. Miranda Maverick (12-5-0)\nPrelim: Val Woodburn 
- (7-1-0) vs. Oban Elliott (9-2-0)\nPrelim: AJ Dobson (7-2-0) vs. Tresean 
- Gore (4-2-0)\nPrelim: Josh Quinlan (6-1-0) vs. Danny Barlow (7-0-0)\nPre
- lim: Amanda Lemos (13-3-1) vs. Mackenzie Dern (13-4-0)\nPrelim: Rinya Na
- kamura (8-0-0) vs. Carlos Vera (11-3-0)
+ (7-1-0) vs. Oban Elliott (9-2-0)\nPrelim: Josh Quinlan (6-1-0) vs. Danny
+  Barlow (7-0-0)\nPrelim: Amanda Lemos (13-3-1) vs. Mackenzie Dern (13-4-
+ 0)\nPrelim: Rinya Nakamura (8-0-0) vs. Carlos Vera (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-ufc-298-volkanovski-vs-topuria-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 298: Volkanovski vs. Topuria: Prelims
@@ -148,13 +157,12 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  2-2-0)\nPrelim: Marcos Rogério de Lima (21-9-1) vs. Justin Tafa (7-3-0)\
  nPrelim: Mingyang Zhang (16-6-0) vs. Brendson Ribeiro (15-5-0)\nPrelim: 
  Andrea Lee (13-8-0) vs. Miranda Maverick (12-5-0)\nPrelim: Val Woodburn 
- (7-1-0) vs. Oban Elliott (9-2-0)\nPrelim: AJ Dobson (7-2-0) vs. Tresean 
- Gore (4-2-0)\nPrelim: Josh Quinlan (6-1-0) vs. Danny Barlow (7-0-0)\nPre
- lim: Amanda Lemos (13-3-1) vs. Mackenzie Dern (13-4-0)\nPrelim: Rinya Na
- kamura (8-0-0) vs. Carlos Vera (11-3-0)
+ (7-1-0) vs. Oban Elliott (9-2-0)\nPrelim: Josh Quinlan (6-1-0) vs. Danny
+  Barlow (7-0-0)\nPrelim: Amanda Lemos (13-3-1) vs. Mackenzie Dern (13-4-
+ 0)\nPrelim: Rinya Nakamura (8-0-0) vs. Carlos Vera (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-02-ufc-298-volkanovski-vs-topuria@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 298: Volkanovski vs. Topuria
@@ -170,40 +178,82 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  Kopylov (12-2-0)\nPrelim: Marcos Rogério de Lima (21-9-1) vs. Justin Taf
  a (7-3-0)\nPrelim: Mingyang Zhang (16-6-0) vs. Brendson Ribeiro (15-5-0)
  \nPrelim: Andrea Lee (13-8-0) vs. Miranda Maverick (12-5-0)\nPrelim: Val
-  Woodburn (7-1-0) vs. Oban Elliott (9-2-0)\nPrelim: AJ Dobson (7-2-0) vs
- . Tresean Gore (4-2-0)\nPrelim: Josh Quinlan (6-1-0) vs. Danny Barlow (7
- -0-0)\nPrelim: Amanda Lemos (13-3-1) vs. Mackenzie Dern (13-4-0)\nPrelim
- : Rinya Nakamura (8-0-0) vs. Carlos Vera (11-3-0)
+  Woodburn (7-1-0) vs. Oban Elliott (9-2-0)\nPrelim: Josh Quinlan (6-1-0)
+  vs. Danny Barlow (7-0-0)\nPrelim: Amanda Lemos (13-3-1) vs. Mackenzie D
+ ern (13-4-0)\nPrelim: Rinya Nakamura (8-0-0) vs. Carlos Vera (11-3-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
-UID:2024-02-ufc-fight-night@kampfkalender.de
+DTSTAMP:20240209T044516Z
+UID:2024-02-ufc-mexico-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night
-DTSTART:20240224T230000Z
-DTEND:20240225T020000Z
+SUMMARY:UFC Mexico: Prelims
+DTSTART:20240225T000000Z
+DTEND:20240225T030000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107471-ufc-fight-night\n\n---\n\nMain Event: Brandon Moreno 
+ (21-7-2) vs. Brandon Royval (15-7-0)\nCo-Main Event: Yair Rodriguez (18-
+ 4-0) vs. Brian Ortega (15-3-0)\nMain Card: Yazmin Jauregui (10-1-0) vs. 
+ Sam Hughes (8-5-0)\nMain Card: Manuel Torres (14-2-0) vs. Chris Duncan (
+ 11-1-0)\nMain Card: Raul Rosas Jr. (8-1-0) vs. Ricky Turcios (12-3-0)\nM
+ ain Card: Daniel Zellhuber (14-1-0) vs. Francisco Prado (12-1-0)\nPrelim
+ : Edgar Cháirez (10-5-0) vs. Daniel Lacerda (11-5-0)\nPrelim: Victor Alt
+ amirano (12-3-0) vs. Felipe dos Santos (7-1-0)\nPrelim: Jesus Aguilar (9
+ -2-0) vs. Mateus Mendonça (10-2-0)\nPrelim: Luis Rodríguez (16-2-0) vs. 
+ Denys Bondar (19-4-0)\nPrelim: Muhammad Naimov (10-2-0) vs. Erik Silva (
+ 9-2-0)\nPrelim: Cristian Quiñonez (18-4-0) vs. Raoni Barcelos (17-5-0)\n
+ Prelim: Claudio Puelles (12-3-0) vs. Fares Ziam (14-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044516Z
+UID:2024-02-ufc-mexico-moreno-vs-royval-2@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Mexico: Moreno vs. Royval 2
+DTSTART:20240225T030000Z
+DTEND:20240225T060000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/107471-ufc-fight-night\n\n---\n\nMain Event: Brand
  on Moreno (21-7-2) vs. Brandon Royval (15-7-0)\nCo-Main Event: Yair Rodr
- iguez (18-4-0) vs. Brian Ortega (15-3-0)\nMain Card: Edgar Cháirez (10-5
- -0) vs. Daniel Lacerda (11-5-0)\nMain Card: Yazmin Jauregui (10-1-0) vs.
-  Sam Hughes (8-5-0)\nMain Card: Raul Rosas Jr. (8-1-0) vs. Ricky Turcios
-  (12-3-0)\nPrelim: Victor Altamirano (12-3-0) vs. Felipe dos Santos (7-1
- -0)\nPrelim: Jesus Aguilar (9-2-0) vs. Mateus Mendonça (10-2-0)\nPrelim:
-  Manuel Torres (14-2-0) vs. Chris Duncan (11-1-0)\nPrelim: Luis Rodrígue
- z (16-2-0) vs. Denys Bondar (19-4-0)\nPrelim: Muhammad Naimov (10-2-0) v
- s. Erik Silva (9-2-0)\nPrelim: Daniel Zellhuber (14-1-0) vs. Francisco P
- rado (12-1-0)\nPrelim: Cristian Quiñonez (18-4-0) vs. Raoni Barcelos (17
- -5-0)\nPrelim: Claudio Puelles (12-3-0) vs. Fares Ziam (14-4-0)
+ iguez (18-4-0) vs. Brian Ortega (15-3-0)\nMain Card: Yazmin Jauregui (10
+ -1-0) vs. Sam Hughes (8-5-0)\nMain Card: Manuel Torres (14-2-0) vs. Chri
+ s Duncan (11-1-0)\nMain Card: Raul Rosas Jr. (8-1-0) vs. Ricky Turcios (
+ 12-3-0)\nMain Card: Daniel Zellhuber (14-1-0) vs. Francisco Prado (12-1-
+ 0)\nPrelim: Edgar Cháirez (10-5-0) vs. Daniel Lacerda (11-5-0)\nPrelim: 
+ Victor Altamirano (12-3-0) vs. Felipe dos Santos (7-1-0)\nPrelim: Jesus 
+ Aguilar (9-2-0) vs. Mateus Mendonça (10-2-0)\nPrelim: Luis Rodríguez (16
+ -2-0) vs. Denys Bondar (19-4-0)\nPrelim: Muhammad Naimov (10-2-0) vs. Er
+ ik Silva (9-2-0)\nPrelim: Cristian Quiñonez (18-4-0) vs. Raoni Barcelos 
+ (17-5-0)\nPrelim: Claudio Puelles (12-3-0) vs. Fares Ziam (14-4-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
-UID:2024-03-ufc-fight-night@kampfkalender.de
+DTSTAMP:20240209T044516Z
+UID:2024-03-ufc-vegas-87-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night
-DTSTART:20240302T170000Z
-DTEND:20240302T200000Z
+SUMMARY:UFC Vegas 87: Prelims
+DTSTART:20240302T180000Z
+DTEND:20240302T210000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/106064-ufc-fight-night\n\n---\n\nMain Card: Alex Perez (24-7
+ -0) vs. Muhammad Mokaev (10-0-0)\nMain Card: Jairzinho Rozenstruik (13-5
+ -0) vs. Shamil Gaziev (12-0-0)\nPrelim: Eryk Anders (15-8-0) vs. Jamie P
+ ickett (13-10-0)\nPrelim: Joel Alvarez (20-3-0) vs. Ľudovít Klein (20-4-
+ 1)\nPrelim: Vinicius Oliveira (19-3-0) vs. Yanis Ghemmouri (12-2-0)\nPre
+ lim: Javid Basharat (14-0-0) vs. Aiemann Zahabi (10-2-0)\nPrelim: Mohamm
+ ad Yahya (12-4-0) vs. Brendon Marotte (8-2-0)\nPrelim: Loik Radzhabov (1
+ 7-5-1) vs. A. Al-Selwady (15-3-0)\nPrelim: Julia Polastri (12-3-0) vs. J
+ osefine Knutsson (7-0-0)\nPrelim: Vitor Petrino (10-0-0) vs. Tyson Pedro
+  (10-4-0)\nPrelim: Matt Schnell (16-7-0) vs. Steve Erceg (11-1-0)\nPreli
+ m: Christian Leroy Duncan (9-1-0) vs. Claudio Ribeiro (11-4-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044516Z
+UID:2024-03-ufc-vegas-87@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 87
+DTSTART:20240302T210000Z
+DTEND:20240303T000000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/106064-ufc-fight-night\n\n---\n\nMain Card: Alex P
@@ -214,55 +264,124 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  -2-0)\nPrelim: Javid Basharat (14-0-0) vs. Aiemann Zahabi (10-2-0)\nPrel
  im: Mohammad Yahya (12-4-0) vs. Brendon Marotte (8-2-0)\nPrelim: Loik Ra
  dzhabov (17-5-1) vs. A. Al-Selwady (15-3-0)\nPrelim: Julia Polastri (12-
- 3-0) vs. Josefine Knutsson (7-0-0)
+ 3-0) vs. Josefine Knutsson (7-0-0)\nPrelim: Vitor Petrino (10-0-0) vs. T
+ yson Pedro (10-4-0)\nPrelim: Matt Schnell (16-7-0) vs. Steve Erceg (11-1
+ -0)\nPrelim: Christian Leroy Duncan (9-1-0) vs. Claudio Ribeiro (11-4-0)
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
+UID:2024-03-ufc-299-o-malley-vs-vera-2-early-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 299: O'Malley vs. Vera 2: Early Prelims
+DTSTART:20240309T230000Z
+DTEND:20240310T010000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107061-ufc-299\n\n---\n\nMain Event: Sean O'Malley (17-1-0) 
+ vs. Marlon Vera (23-8-1)\nCo-Main Event: Dustin Poirier (29-8-0) vs. Ben
+ oit Saint-Denis (13-1-0)\nMain Card: Gilbert Burns (22-6-0) vs. Jack Del
+ la Maddalena (16-2-0)\nMain Card: Petr Yan (16-5-0) vs. Yadong Song (21-
+ 7-1)\nMain Card: Kevin Holland (25-10-0) vs. Michael Page (21-2-0)\nPrel
+ im: Pedro Munhoz (20-8-0) vs. Kyler Phillips (11-2-0)\nPrelim: CJ Vergar
+ a (12-4-1) vs. Asu Almabaev (18-2-0)\nPrelim: Katlyn Chookagian (18-5-0)
+  vs. Maycee Barber (13-2-0)\nPrelim: Curtis Blaydes (17-4-0) vs. Jailton
+  Almeida (20-2-0)\nPrelim: Mateusz Gamrot (23-2-0) vs. Rafael dos Anjos 
+ (32-15-0)\nPrelim: Michel Pereira (29-11-0) vs. Michał Oleksiejczuk (19-
+ 6-0)\nPrelim: Robelis Despaigne (4-0-0) vs. Josh Parisian (15-7-0)\nPrel
+ im: Joanne Wood (16-8-0) vs. Maryna Moroz (11-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044516Z
+UID:2024-03-ufc-299-o-malley-vs-vera-2-prelims@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC 299: O'Malley vs. Vera 2: Prelims
+DTSTART:20240310T010000Z
+DTEND:20240310T030000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/107061-ufc-299\n\n---\n\nMain Event: Sean O'Malley (17-1-0) 
+ vs. Marlon Vera (23-8-1)\nCo-Main Event: Dustin Poirier (29-8-0) vs. Ben
+ oit Saint-Denis (13-1-0)\nMain Card: Gilbert Burns (22-6-0) vs. Jack Del
+ la Maddalena (16-2-0)\nMain Card: Petr Yan (16-5-0) vs. Yadong Song (21-
+ 7-1)\nMain Card: Kevin Holland (25-10-0) vs. Michael Page (21-2-0)\nPrel
+ im: Pedro Munhoz (20-8-0) vs. Kyler Phillips (11-2-0)\nPrelim: CJ Vergar
+ a (12-4-1) vs. Asu Almabaev (18-2-0)\nPrelim: Katlyn Chookagian (18-5-0)
+  vs. Maycee Barber (13-2-0)\nPrelim: Curtis Blaydes (17-4-0) vs. Jailton
+  Almeida (20-2-0)\nPrelim: Mateusz Gamrot (23-2-0) vs. Rafael dos Anjos 
+ (32-15-0)\nPrelim: Michel Pereira (29-11-0) vs. Michał Oleksiejczuk (19-
+ 6-0)\nPrelim: Robelis Despaigne (4-0-0) vs. Josh Parisian (15-7-0)\nPrel
+ im: Joanne Wood (16-8-0) vs. Maryna Moroz (11-5-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044516Z
 UID:2024-03-ufc-299-o-malley-vs-vera-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 299: O'Malley vs. Vera 2
-DTSTART:20240309T230000Z
-DTEND:20240310T020000Z
+DTSTART:20240310T030000Z
+DTEND:20240310T060000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/107061-ufc-299\n\n---\n\nMain Event: Sean O'Malley
   (17-1-0) vs. Marlon Vera (23-8-1)\nCo-Main Event: Dustin Poirier (29-8-
  0) vs. Benoit Saint-Denis (13-1-0)\nMain Card: Gilbert Burns (22-6-0) vs
- . Jack Della Maddalena (16-2-0)\nMain Card: Curtis Blaydes (17-4-0) vs. 
- Jailton Almeida (20-2-0)\nMain Card: Kevin Holland (25-10-0) vs. Michael
-  Page (21-2-0)\nPrelim: Pedro Munhoz (20-8-0) vs. Kyler Phillips (11-2-0
- )\nPrelim: CJ Vergara (12-4-1) vs. Asu Almabaev (18-2-0)\nPrelim: Katlyn
-  Chookagian (18-5-0) vs. Maycee Barber (13-2-0)\nPrelim: Mateusz Gamrot 
- (23-2-0) vs. Rafael dos Anjos (32-15-0)\nPrelim: Petr Yan (16-5-0) vs. Y
- adong Song (21-7-1)\nPrelim: Michel Pereira (29-11-0) vs. Michał Oleksie
+ . Jack Della Maddalena (16-2-0)\nMain Card: Petr Yan (16-5-0) vs. Yadong
+  Song (21-7-1)\nMain Card: Kevin Holland (25-10-0) vs. Michael Page (21-
+ 2-0)\nPrelim: Pedro Munhoz (20-8-0) vs. Kyler Phillips (11-2-0)\nPrelim:
+  CJ Vergara (12-4-1) vs. Asu Almabaev (18-2-0)\nPrelim: Katlyn Chookagia
+ n (18-5-0) vs. Maycee Barber (13-2-0)\nPrelim: Curtis Blaydes (17-4-0) v
+ s. Jailton Almeida (20-2-0)\nPrelim: Mateusz Gamrot (23-2-0) vs. Rafael 
+ dos Anjos (32-15-0)\nPrelim: Michel Pereira (29-11-0) vs. Michał Oleksie
  jczuk (19-6-0)\nPrelim: Robelis Despaigne (4-0-0) vs. Josh Parisian (15-
  7-0)\nPrelim: Joanne Wood (16-8-0) vs. Maryna Moroz (11-5-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
-UID:2024-03-ufc-fight-night-1@kampfkalender.de
+DTSTAMP:20240209T044516Z
+UID:2024-03-ufc-vegas-88-prelims@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:UFC Fight Night
-DTSTART:20240316T220000Z
-DTEND:20240317T010000Z
+SUMMARY:UFC Vegas 88: Prelims
+DTSTART:20240316T200000Z
+DTEND:20240316T230000Z
+CATEGORIES:UFC,MMA,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108288-ufc-fight-night\n\n---\n\nMain Event: Tai Tuivasa (15
+ -6-0) vs. Marcin Tybura (24-8-0)\nCo-Main Event: Kennedy Nzechukwu (12-4
+ -0) vs. Ovince St. Preux (26-17-0)\nMain Card: Thiago Moisés (17-7-0) vs
+ . Brad Riddell (10-4-0)\nMain Card: Mike Davis (10-2-0) vs. Natan Levy (
+ 8-1-0)\nMain Card: Pannie Kianzad (16-7-0) vs. Macy Chiasson (8-3-0)\nMa
+ in Card: Josh Culibao (11-2-1) vs. Danny Silva (8-1-0)\nPrelim: Ode Osbo
+ urne (12-6-0) vs. Jafel Filho (15-3-0)\nPrelim: Christian Rodriguez (10-
+ 1-0) vs. Isaac Dulgarian (6-0-0)\nPrelim: Bryan Battle (10-2-0) vs. Ange
+  Loosa (10-3-0)\nPrelim: Cory McKenna (8-2-0) vs. Jaqueline Amorim (7-1-
+ 0)\nPrelim: Chad Anheliger (12-7-0) vs. Charalampos Grigoriou (8-3-0)\nP
+ relim: Gerald Meerschaert (35-17-0) vs. Bryan Barberena (18-11-0)\nPreli
+ m: Josiane Nunes (10-1-0) vs. Chelsea Chandler (5-2-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044516Z
+UID:2024-03-ufc-vegas-88-tuivasa-vs-tybura@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Vegas 88: Tuivasa vs. Tybura
+DTSTART:20240316T230000Z
+DTEND:20240317T020000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/108288-ufc-fight-night\n\n---\n\nMain Event: Tai T
  uivasa (15-6-0) vs. Marcin Tybura (24-8-0)\nCo-Main Event: Kennedy Nzech
- ukwu (12-4-0) vs. Ovince St. Preux (26-17-0)\nMain Card: Christian Rodri
- guez (10-1-0) vs. Isaac Dulgarian (6-0-0)\nMain Card: Thiago Moisés (17-
- 7-0) vs. Brad Riddell (10-4-0)\nMain Card: Mike Davis (10-2-0) vs. Natan
-  Levy (8-1-0)\nMain Card: Josh Culibao (11-2-1) vs. Danny Silva (8-1-0)\
- nPrelim: Ode Osbourne (12-6-0) vs. Jafel Filho (15-3-0)\nPrelim: Bryan B
- attle (10-2-0) vs. Ange Loosa (10-3-0)\nPrelim: Cory McKenna (8-2-0) vs.
-  Jaqueline Amorim (7-1-0)\nPrelim: Chad Anheliger (12-7-0) vs. Charalamp
- os Grigoriou (8-3-0)\nPrelim: Gerald Meerschaert (35-17-0) vs. Bryan Bar
- berena (18-11-0)\nPrelim: Pannie Kianzad (16-7-0) vs. Macy Chiasson (8-3
+ ukwu (12-4-0) vs. Ovince St. Preux (26-17-0)\nMain Card: Thiago Moisés (
+ 17-7-0) vs. Brad Riddell (10-4-0)\nMain Card: Mike Davis (10-2-0) vs. Na
+ tan Levy (8-1-0)\nMain Card: Pannie Kianzad (16-7-0) vs. Macy Chiasson (
+ 8-3-0)\nMain Card: Josh Culibao (11-2-1) vs. Danny Silva (8-1-0)\nPrelim
+ : Ode Osbourne (12-6-0) vs. Jafel Filho (15-3-0)\nPrelim: Christian Rodr
+ iguez (10-1-0) vs. Isaac Dulgarian (6-0-0)\nPrelim: Bryan Battle (10-2-0
+ ) vs. Ange Loosa (10-3-0)\nPrelim: Cory McKenna (8-2-0) vs. Jaqueline Am
+ orim (7-1-0)\nPrelim: Chad Anheliger (12-7-0) vs. Charalampos Grigoriou 
+ (8-3-0)\nPrelim: Gerald Meerschaert (35-17-0) vs. Bryan Barberena (18-11
  -0)\nPrelim: Josiane Nunes (10-1-0) vs. Chelsea Chandler (5-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
-UID:2024-03-ufc-fight-night-1@kampfkalender.de
+DTSTAMP:20240209T044516Z
+UID:2024-03-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
 DTSTART:20240323T220000Z
@@ -272,16 +391,18 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/108462-ufc-fight-night\n\n---\n\nMain Event: Amand
  a Ribas (12-4-0) vs. Rose Namajunas (11-6-0)\nMain Card: Ricardo Ramos (
  16-5-0) vs. Julian Erosa (28-11-0)\nMain Card: Davey Grant (13-7-0) vs. 
- Cody Gibson (19-9-0)\nPrelim: Montserrat Rendon (6-0-0) vs. Darya Zhelez
- nyakova (8-1-0)\nPrelim: Stephanie Luciano (5-1-1) vs. Shauna Bannon (5-
- 1-0)\nPrelim: Luis Pajuelo (8-1-0) vs. Fernando Padilla (15-5-0)\nPrelim
- : Steven Nguyen (9-1-0) vs. Jarno Errens (13-5-1)\nPrelim: Trey Ogden (1
- 6-6-0) vs. Kurt Holobaugh (20-7-0)\nPrelim: Mohammed Usman (10-2-0) vs. 
- Chris Barnett (23-8-0)\nPrelim: Billy Quarantillo (18-5-0) vs. Gabriel M
- iranda (17-6-0)
+ Cody Gibson (19-9-0)\nMain Card: Edmen Shahbazyan (12-4-0) vs. Duško Tod
+ orović (12-4-0)\nPrelim: Montserrat Rendon (6-0-0) vs. Darya Zheleznyako
+ va (8-1-0)\nPrelim: Stephanie Luciano (5-1-1) vs. Shauna Bannon (5-1-0)\
+ nPrelim: Luis Pajuelo (8-1-0) vs. Fernando Padilla (15-5-0)\nPrelim: Ste
+ ven Nguyen (9-1-0) vs. Jarno Errens (13-5-1)\nPrelim: Trey Ogden (16-6-0
+ ) vs. Kurt Holobaugh (20-7-0)\nPrelim: Billy Quarantillo (18-5-0) vs. Ga
+ briel Miranda (17-6-0)\nPrelim: Mohammed Usman (10-2-0) vs. Mick Parkin 
+ (8-0-0)\nPrelim: Junior Tafa (5-1-0) vs. Karl Williams (9-1-0)\nPrelim: 
+ Payton Talbott (7-0-0) vs. Cameron Saaiman (9-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-03-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -289,20 +410,21 @@ DTSTART:20240330T220000Z
 DTEND:20240331T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/107896-ufc-fight-night\n\n---\n\nMain Event: Sean 
- Brady (16-1-0) vs. Vicente Luque (22-9-1)\nCo-Main Event: Erin Blanchfie
- ld (12-1-0) vs. Manon Fiorot (11-1-0)\nMain Card: Virna Jandiroba (19-3-
- 0) vs. Lupita Godinez (12-3-0)\nMain Card: Andre Petroski (10-2-0) vs. J
- acob Malkoun (7-3-0)\nMain Card: Bruno Silva (23-10-0) vs. Chris Weidman
-  (15-7-0)\nMain Card: Chidi Njokuani (22-10-0) vs. Rhys McKee (13-5-1)\n
- Main Card: Alonzo Menifield (15-3-1) vs. Carlos Ulberg (9-1-0)\nPrelim: 
- Connor Matthews (7-1-0) vs. Dennis Buzukja (11-4-0)\nPrelim: Angel Pache
- co (7-2-0) vs. Caolán Loughran (8-1-0)\nPrelim: Julio Arce (18-6-0) vs. 
- Herbert Burns (11-4-0)\nPrelim: Nursulton Ruziboev (35-8-2) vs. Sedrique
- s Dumas (9-1-0)\nPrelim: Ibo Aslan (12-1-0) vs. Anton Turkalj (8-3-0)
+ om/fightcenter/events/107896-ufc-fight-night\n\n---\n\nCo-Main Event: Er
+ in Blanchfield (12-1-0) vs. Manon Fiorot (11-1-0)\nMain Card: Virna Jand
+ iroba (19-3-0) vs. Lupita Godinez (12-3-0)\nMain Card: Andre Petroski (1
+ 0-2-0) vs. Jacob Malkoun (7-3-0)\nMain Card: Bruno Silva (23-10-0) vs. C
+ hris Weidman (15-7-0)\nMain Card: Chidi Njokuani (22-10-0) vs. Rhys McKe
+ e (13-5-1)\nMain Card: Alonzo Menifield (15-3-1) vs. Carlos Ulberg (9-1-
+ 0)\nPrelim: Connor Matthews (7-1-0) vs. Dennis Buzukja (11-4-0)\nPrelim:
+  Angel Pacheco (7-2-0) vs. Caolán Loughran (8-1-0)\nPrelim: Julio Arce (
+ 18-6-0) vs. Herbert Burns (11-4-0)\nPrelim: Nursulton Ruziboev (35-8-2) 
+ vs. Sedriques Dumas (9-1-0)\nPrelim: Ibo Aslan (12-1-0) vs. Anton Turkal
+ j (8-3-0)\nPrelim: Melissa Gatto (8-2-2) vs. Victoria Dudakova (8-0-0)\n
+ Prelim: Bill Algeo (18-7-0) vs. Kyle Nelson (15-5-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-04-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -319,10 +441,12 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  olle (7-1-0)\nPrelim: Seung Woo Choi (11-6-0) vs. Morgan Charriere (19-9
  -1)\nPrelim: César Almeida (4-0-0) vs. Josh Fremd (11-5-0)\nPrelim: Cynt
  hia Calvillo (9-6-1) vs. Piera Rodriguez (9-1-0)\nPrelim: Alatengheili (
- 16-9-2) vs. Victor Hugo (24-4-0)
+ 16-9-2) vs. Victor Hugo (24-4-0)\nPrelim: Trevor Peek (9-1-0) vs. Charli
+ e Campbell (8-2-0)\nPrelim: Jose Johnson (16-8-0) vs. Lucas Rocha (17-1-
+ 0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-04-ufc-300@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 300
@@ -330,20 +454,19 @@ DTSTART:20240413T220000Z
 DTEND:20240414T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/108579-ufc-300\n\n---\n\nMain Event: Leon Edwards 
- (22-3-0) vs. Belal Muhammad (23-3-0)\nCo-Main Event: Justin Gaethje (25-
- 4-0) vs. Max Holloway (25-7-0)\nMain Card: Jiří Procházka (29-4-1) vs. A
- leksandar Rakić (14-3-0)\nMain Card: Charles Oliveira (34-9-0) vs. Arman
-  Tsarukyan (21-3-0)\nMain Card: Weili Zhang (24-3-0) vs. Xiaonan Yan (17
- -3-0)\nPrelim: Calvin Kattar (23-7-0) vs. Aljamain Sterling (23-4-0)\nPr
- elim: Bo Nickal (5-0-0) vs. Cody Brundage (10-5-0)\nPrelim: Deiveson Fig
- ueiredo (22-3-1) vs. Cody Garbrandt (14-5-0)\nPrelim: Bobby Green (31-15
- -1) vs. Jim Miller (37-17-0)\nPrelim: Holly Holm (15-6-0) vs. Kayla Harr
- ison (16-1-0)\nPrelim: Sodiq Yusuff (13-3-0) vs. Diego Lopes (23-6-0)\nP
- relim: Jéssica Andrade (25-12-0) vs. Marina Rodriguez (17-3-2)
+ om/fightcenter/events/108579-ufc-300\n\n---\n\nCo-Main Event: Justin Gae
+ thje (25-4-0) vs. Max Holloway (25-7-0)\nMain Card: Jiří Procházka (29-4
+ -1) vs. Aleksandar Rakić (14-3-0)\nMain Card: Charles Oliveira (34-9-0) 
+ vs. Arman Tsarukyan (21-3-0)\nMain Card: Weili Zhang (24-3-0) vs. Xiaona
+ n Yan (17-3-0)\nPrelim: Calvin Kattar (23-7-0) vs. Aljamain Sterling (23
+ -4-0)\nPrelim: Bo Nickal (5-0-0) vs. Cody Brundage (10-5-0)\nPrelim: Dei
+ veson Figueiredo (22-3-1) vs. Cody Garbrandt (14-5-0)\nPrelim: Bobby Gre
+ en (31-15-1) vs. Jim Miller (37-17-0)\nPrelim: Holly Holm (15-6-0) vs. K
+ ayla Harrison (16-1-0)\nPrelim: Sodiq Yusuff (13-3-0) vs. Diego Lopes (2
+ 3-6-0)\nPrelim: Jéssica Andrade (25-12-0) vs. Marina Rodriguez (17-3-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-04-ufc-fight-night-1@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -354,10 +477,11 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/109627-ufc-fight-night\n\n---\n\nMain Card: Karine
   Silva (17-4-0) vs. Ariane Lipski (17-8-0)\nPrelim: James Llontop (14-2-
  0) vs. Lando Vannata (12-7-2)\nPrelim: Maheshate Hayisaer (9-3-0) vs. An
- shul Jubli (7-1-0)
+ shul Jubli (7-1-0)\nPrelim: Jhonata Diniz (6-0-0) vs. Austen Lane (12-4-
+ 0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-05-ufc-301@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC 301
@@ -367,10 +491,12 @@ CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/109604-ufc-fight-night\n\n---\n\nMain Card: Paul C
  raig (17-7-1) vs. Caio Borralho (15-1-0)\nPrelim: Joaquim Silva (13-4-0)
-  vs. Drakkar Klose (14-2-1)
+  vs. Drakkar Klose (14-2-1)\nPrelim: Alessandro Costa (13-4-0) vs. Kevin
+  Borjas (9-2-0)\nPrelim: Dione Barbosa (6-2-0) vs. Ernesta Kareckaite (5
+ -0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-06-ufc-fight-night@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC Fight Night
@@ -381,7 +507,7 @@ DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
  om/fightcenter/events/109963-ufc-fight-night
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240130T011735Z
+DTSTAMP:20240209T044516Z
 UID:2024-06-ufc-mcgregor-vs-chandler@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:UFC: McGregor vs. Chandler
@@ -389,7 +515,6 @@ DTSTART:20240629T220000Z
 DTEND:20240630T010000Z
 CATEGORIES:UFC,MMA,DAZN,UFC Fight Pass,live
 DESCRIPTION:via DAZN\nvia UFC Fight Pass\n\n---\n\nhttps://www.tapology.c
- om/fightcenter/events/109011-ufc\n\n---\n\nMain Event: Conor McGregor (2
- 2-6-0) vs. Michael Chandler (23-8-0)
+ om/fightcenter/events/109011-ufc
 END:VEVENT
 END:VCALENDAR

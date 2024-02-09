@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240204T230304Z
-X-KAMPFKALENDER-HASH:652b7097819c70a491e8312481851cae8e474387
+DTSTAMP:20240209T044516Z
+X-KAMPFKALENDER-HASH:161f034e086e2493b04377107a7dbf53b0b42b6f
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-02-sylve-vs-falcao@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Sylve vs. Falcao
@@ -26,7 +26,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  erius Chappell (3-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-02-toler-vs-panin@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Toler vs. Panin
@@ -44,7 +44,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-02-benn-vs-dobson@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Benn vs. Dobson
@@ -60,35 +60,41 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  chanan (3-0-1)\nPrelim: Jimmy Sains (0-0-0) vs. Ahmed Swedy (4-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
-UID:2024-02-next-gen-walker-vs-pattison@kampfkalender.de
+DTSTAMP:20240209T044517Z
+UID:2024-02-dillon-vs-bellotti@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Next Gen: Walker vs. Pattison
-DTSTART:20240210T220000Z
-DTEND:20240211T010000Z
+SUMMARY:Dillon vs Bellotti
+DTSTART:20240210T190000Z
+DTEND:20240210T220000Z
 CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/108607-next-gen-walker-vs-pattison\nhttps://www.boxrec.com/en/event/88
  8843\n\n---\n\nMain Event: Liam Dillon (13-0-1) vs. Reece Bellotti (17-5
  -0)\nMain Card: Cameron Vuong (3-0-0) vs. Ishmael Ellis (14-7-0)\nMain C
- ard: Shannon Ryan (6-0-0) vs. Emma Dolan (6-0-0)\nMain Card: Maisey Rose
-  Courtney (5-0-0) vs. Jasmina Zapotoczna (6-0-0)\nMain Card: John Hedges
-  (8-0-0) vs. Erdogan Kadrija (20-5-0)
+ ard: John Hedges (8-0-0) vs. Erdogan Kadrija (20-5-0)\nMain Card: Craig 
+ Richards (17-3-1) vs. Boris Crighton (12-4-0)\nMain Card: Emanuel Odiase
+  (1-0-0) vs. Amine Boucetta (8-9-0)\nMain Card: Ibraheem Sulaimaan (3-0-
+ 0) vs. J. Tomasoni (4-0-1)\nMain Card: Shannon Ryan (6-0-0) vs. Jasmina 
+ Zapotoczna (6-0-0)\nPrelim: Jack Oliphant (0-0-0) vs. Jensen Irving (4-5
+ -0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
-UID:2024-02-golden-boy-fight-night@kampfkalender.de
+DTSTAMP:20240209T044517Z
+UID:2024-02-diaz-vs-perez@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Golden Boy Fight Night
-DTSTART:20240216T030000Z
-DTEND:20240216T060000Z
+SUMMARY:Diaz vs. Perez
+DTSTART:20240216T020000Z
+DTEND:20240216T050000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/109948-golden-boy-fight-night\n\n---\n\nMain Event: Joseph Diaz (33-4-
- 1) vs. Jesus Antonio Perez (24-5-0)
+ 1) vs. Jesus Antonio Perez (24-5-0)\nMain Card: Ricardo Sandoval (23-2-0
+ ) vs. Jayson Mama (19-1-0)\nMain Card: Jorge Chavez (9-0-0) vs. Dominiqu
+ e Griffin (5-6-2)\nMain Card: Eric Tudor (9-1-0) vs. Luis Caraballo (6-2
+ -1)\nMain Card: Joshua Garcia (6-0-0) vs. Eric Lozada (1-0-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-02-curiel-vs-nontshinga-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Curiel vs. Nontshinga 2
@@ -98,27 +104,27 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/108605-curiel-vs-nontshinga-2\nhttps://www.boxrec.com/en/event/886963\
  n\n---\n\nMain Event: Adrian Curiel (23-4-1) vs. Sivenathi Nontshinga (1
- 2-1-0)\nMain Card: Mauricio Lara (26-3-1) vs. Daniel Lugo (27-2-0)
+ 2-1-0)\nMain Card: Mauricio Lara (26-3-1) vs. Daniel Lugo (27-2-0)\nMain
+  Card: Sergio Sanchez (21-1-0) vs. Dennis Contreras (24-13-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
-UID:2024-02-fury-vs-usyk@kampfkalender.de
+DTSTAMP:20240209T044517Z
+UID:2024-02-yuritsyan-vs-randall@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
-SUMMARY:Fury vs. Usyk
-DTSTART:20240217T180000Z
-DTEND:20240217T210000Z
-CATEGORIES:QB,Boxen,live
-DESCRIPTION:https://www.tapology.com/fightcenter/events/107329-fury-vs-us
- yk\nhttps://www.boxrec.com/en/event/888990\n\n---\n\nMain Event: Tyson F
- ury (34-0-1) vs. Oleksandr Usyk (21-0-0)\nCo-Main Event: Jai Opetaia (24
- -0-0) vs. Mairis Briedis (28-2-0)\nMain Card: Joe Cordina (17-0-0) vs. A
- nthony Cacace (21-1-0)\nMain Card: Sergey Kovalev (35-4-1) vs. Robin Saf
- ar (16-0-0)\nMain Card: Bakhodir Jalolov (14-0-0) vs. Dilan Prasovic (16
- -3-0)\nPrelim: Isaac Lowe (24-2-3) vs. Hasibullah Ahmadi (16-1-0)\nPreli
- m: Moses Itauma (7-0-0) vs. Ilja Mezencev (24-3-0)
+SUMMARY:Yuritsyan vs. Randall
+DTSTART:20240224T020000Z
+DTEND:20240224T050000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/108455-hollywood-fight-nights\nhttps://www.boxrec.com/en/eve
+ nt/884567\n\n---\n\nMain Event: Gor Yeritsyan (17-0-0) vs. Quinton Randa
+ ll (13-1-1)\nMain Card: Cain Sandoval (11-0-0) vs. Javier Molina (22-5-0
+ )\nMain Card: Jorge Maravillo (8-0-0) vs. Jesse Gonzalez (1-1-0)\nMain C
+ ard: Daniel Barrera (4-0-1) vs. Jonathan Almacen (7-9-3)\nMain Card: A. 
+ Villafuerte (8-0-0) vs. Isaiah Rodriguez (2-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-02-berlanga-vs-mccrory@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Berlanga vs. McCrory
@@ -136,7 +142,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  itch Williams (16-10-3)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-joshua-vs-ngannou@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Joshua vs. Ngannou
@@ -148,10 +154,26 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -\n\nMain Event: Anthony Joshua (27-3-0) vs. Francis N'Gannou (0-1-0)\nC
  o-Main Event: Zhilei Zhang (26-1-1) vs. Joseph Parker (34-3-0)\nMain Car
  d: Rey Vargas (36-1-0) vs. Nick Ball (19-0-0)\nMain Card: Gavin Gwynne (
- 17-2-1) vs. Mark Chamberlain (14-0-0)
+ 17-2-1) vs. Mark Chamberlain (14-0-0)\nMain Card: Justis Huni (8-0-0) vs
+ . Kevin Lerena (30-2-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
+UID:2024-03-walsh-vs-yeleussinov@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Walsh vs. Yeleussinov
+DTSTART:20240316T000000Z
+DTEND:20240316T030000Z
+CATEGORIES:Other,Boxen,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
+ nter/events/109646-hollywood-fight-nights\nhttps://www.boxrec.com/en/eve
+ nt/887687\n\n---\n\nMain Event: Callum Walsh (9-0-0) vs. Dauren Yeleussi
+ nov (11-3-1)\nMain Card: Feargal McCrory (15-0-0) vs. Carlos Carlson (25
+ -7-0)\nMain Card: Brian Ceballo (16-1-0) vs. Elias Espadas (22-6-0)\nMai
+ n Card: Cletus Seldin (27-1-0) vs. Jose Angulo (14-7-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
 UID:2024-03-zepeda-vs-hughes@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Zepeda vs. Hughes
@@ -159,11 +181,11 @@ DTSTART:20240317T000000Z
 DTEND:20240317T030000Z
 CATEGORIES:GBP,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
- s/109962-zepeda-vs-hughes\n\n---\n\nMain Event: William Zepeda (28-0-0) 
+ s/109962-zepeda-vs-hughes\n\n---\n\nMain Event: William Zepeda (29-0-0) 
  vs. Maxi Hughes (26-6-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-smith-vs-zepeda@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Smith vs. Zepeda
@@ -178,7 +200,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  12-0-0) vs. Troy Williamson (20-2-1)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-goulimarian-vs-zurdo@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Goulimarian vs. Zurdo
@@ -190,7 +212,24 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  7-0-0) vs. Gilberto Ramirez (45-1-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
+UID:2024-03-prizefighter@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:PrizeFighter
+DTSTART:20240331T090000Z
+DTEND:20240331T120000Z
+CATEGORIES:MB,Boxen,DAZN,live
+DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
+ s/109999-3150-fight-survival-vol-8\n\n---\n\nMain Event: Lerato Dlamini 
+ (20-2-0) vs. Tomoki Kameda (40-4-0)\nMain Event: Ginjiro Shigeoka (10-0-
+ 0) vs. Ar Ar Andales (14-2-3)\nCo-Main Event: Yudai Shigeoka (8-0-0) vs.
+  Melvin Jerusalem (21-3-0)\nMain Card: Riku Kunimoto (10-1-0) vs. Eiki K
+ ani (7-4-3)\nMain Card: Mark Dickinson (6-0-0) vs. Anauel Ngamissengue (
+ 13-0-0)\nMain Card: Ainiwaer Yilixiati (19-1-0) vs. Kieron Conway (20-3-
+ 1)\nMain Card: Aaron McKenna (18-0-0) vs. Jeovanny Estela (14-0-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
 UID:2024-04-hitchens-vs-lemos@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Hitchens vs. Lemos
@@ -203,7 +242,7 @@ DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  -Main Event: Diego Pacheco (20-0-0) vs. Shawn McCalman (15-0-0)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-04-gill-vs-barrett@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Gill vs. Barrett
@@ -213,10 +252,11 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/109889-gill-vs-barrett\nhttps://www.boxrec.com/en/event/889639\n\n---\
  n\nMain Event: Jordan Gill (28-2-1) vs. Zelfa Barrett (30-2-0)\nCo-Main 
- Event: Rhiannon Dixon (9-0-0) vs. Karen Carabajal (21-1-0)
+ Event: Rhiannon Dixon (9-0-0) vs. Karen Carabajal (21-1-0)\nMain Card: M
+ ichael Gomez Jnr (20-1-0) vs. Kane Baker (19-10-2)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-04-o-quinn-vs-mcgrail-next-gen@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:O'Quinn vs. McGrail: Next Gen
@@ -226,5 +266,21 @@ CATEGORIES:MB,Boxen,DAZN,live
 DESCRIPTION:via DAZN\n\n---\n\nhttps://www.tapology.com/fightcenter/event
  s/109890-o-quinn-vs-mcgrail-next-gen\n\n---\n\nMain Event: Jarico O'Quin
  n (17-1-1) vs. Peter McGrail (8-1-0)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
+UID:2024-05-fury-vs-usyk@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:Fury vs. Usyk
+DTSTART:20240518T170000Z
+DTEND:20240518T200000Z
+CATEGORIES:QB,Boxen,live
+DESCRIPTION:https://www.tapology.com/fightcenter/events/110239-fury-vs-us
+ yk\nhttps://www.boxrec.com/en/event/888990\n\n---\n\nMain Event: Tyson F
+ ury (34-0-1) vs. Oleksandr Usyk (21-0-0)\nMain Card: Jai Opetaia (24-0-0
+ ) vs. Mairis Briedis (28-2-0)\nMain Card: Joe Cordina (17-0-0) vs. Antho
+ ny Cacace (21-1-0)\nMain Card: Sergey Kovalev (35-4-1) vs. Robin Safar (
+ 16-0-0)\nMain Card: Moses Itauma (7-0-0) vs. Ilja Mezencev (24-3-0)\nMai
+ n Card: Isaac Lowe (24-2-3) vs. Hasibullah Ahmadi (16-1-0)
 END:VEVENT
 END:VCALENDAR

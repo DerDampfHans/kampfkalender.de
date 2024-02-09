@@ -24,7 +24,8 @@
         "time": "2024-02-11T00:00:00Z",
         "title": "UFC Fight Night: Hermansson vs Pyfer (Hauptkämpfe)",
         "sport": "MMA",
-        "competition": "UFC"
+        "competition": "UFC",
+        "description": "Kommentator: Mark Bergmann"
       }
     },
     "prelims": {
@@ -42,7 +43,7 @@
     },
     "tapology": {
       "id": 107367,
-      "time": "2024-02-10T23:00:00Z",
+      "time": "2024-02-10T21:00:00Z",
       "title": "UFC Fight Night: Hermansson vs. Pyfer",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/107367-ufc-fight-night",
@@ -52,18 +53,26 @@
       "card": [
         "Main Event: Jack Hermansson (23-8-0) vs. Joe Pyfer (12-2-0)",
         "Co-Main Event: Dan Ige (17-7-0) vs. Andre Fili (23-10-0)",
+        "Main Card: Ihor Potieria (20-5-0) vs. Robert Bryczek (17-5-0)",
         "Main Card: Brad Tavares (20-8-0) vs. Gregory Rodrigues (14-5-0)",
-        "Main Card: Rodolfo Vieira (9-2-0) vs. Armen Petrosyan (8-2-0)",
         "Main Card: Michael Johnson (21-19-0) vs. Darrius Flowers (12-6-1)",
-        "Main Card: Albert Duraev (16-5-0) vs. Robert Bryczek (17-5-0)",
+        "Main Card: Rodolfo Vieira (9-2-0) vs. Armen Petrosyan (8-2-0)",
         "Prelim: Trevin Giles (16-5-0) vs. Carlos Prates (17-6-0)",
+        "Prelim: Timothy Cuamba (8-1-0) vs. Bolaji Oki (8-1-0)",
         "Prelim: Loma Lookboonmee (8-3-0) vs. Bruna Brasil (9-3-1)",
-        "Prelim: Jeremiah Wells (12-3-1) vs. Max Griffin (19-10-0)",
-        "Prelim: Daniel Marcos (15-0-0) vs. Aoriqileng (25-11-0)",
         "Prelim: Devin Clark (14-8-0) vs. Marcin Prachnio (16-7-0)",
+        "Prelim: Jeremiah Wells (12-3-1) vs. Max Griffin (19-10-0)",
         "Prelim: Zac Pauga (6-2-0) vs. Bogdan Guskov (14-3-0)",
-        "Prelim: Bolaji Oki (8-1-0) vs. Damir Hadžović (14-7-0)",
-        "Prelim: Melsik Baghdasaryan (8-2-0) vs. Hyder Amil (8-0-0)"
+        "Prelim: Hyder Amil (8-0-0) vs. Fernie Garcia (10-4-0)",
+        "Prelim: Daniel Marcos (15-0-0) vs. Aoriqileng (25-11-0)"
+      ],
+      "links": [
+        "https://www.sherdog.com/events/ufc-fight-night-236-hermansson-vs-pyfer-100402",
+        "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Hermansson_vs._Pyfer",
+        "https://events.mixedmartialarts.com/ufc-fight-night:0cdbd946-1340-4453-9ee3-add6e989b0fd",
+        "https://www.ufc.com/event/ufc-fight-night-february-10-2024",
+        "http://www.ufcstats.com/event-details/eaea0fc7b76525a8",
+        "https://www.bestfightodds.com/events/ufc-3163"
       ]
     }
   },
@@ -110,14 +119,14 @@
     },
     "earlyPrelims": {
       "title": "UFC 298: Volkanovski vs. Topuria: Early Prelims",
-      "time": "2024-02-17T23:00:00Z",
+      "time": "2024-02-17T23:30:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
       },
       "fightPass": {
         "id": 258863,
-        "time": "2024-02-17T23:00:00Z",
+        "time": "2024-02-17T23:30:00Z",
         "title": "UFC 298: FIGHT PASS PRELIMS"
       }
     },
@@ -140,7 +149,6 @@
         "Prelim: Mingyang Zhang (16-6-0) vs. Brendson Ribeiro (15-5-0)",
         "Prelim: Andrea Lee (13-8-0) vs. Miranda Maverick (12-5-0)",
         "Prelim: Val Woodburn (7-1-0) vs. Oban Elliott (9-2-0)",
-        "Prelim: AJ Dobson (7-2-0) vs. Tresean Gore (4-2-0)",
         "Prelim: Josh Quinlan (6-1-0) vs. Danny Barlow (7-0-0)",
         "Prelim: Amanda Lemos (13-3-1) vs. Mackenzie Dern (13-4-0)",
         "Prelim: Rinya Nakamura (8-0-0) vs. Carlos Vera (11-3-0)"
@@ -154,27 +162,31 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2024-02-24T23:00:00Z",
+      "title": "UFC Mexico: Moreno vs. Royval 2",
+      "time": "2024-02-25T03:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 259394,
+        "time": "2024-02-25T03:00:00Z",
+        "title": "UFC FIGHT NIGHT: MORENO VS ROYVAL 2"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Mexico: Prelims",
+      "time": "2024-02-25T00:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 259393,
+        "time": "2024-02-25T00:00:00Z",
+        "title": "UFC FIGHT NIGHT: MORENO VS ROYVAL 2 PRELIMS"
       }
     },
     "tapology": {
@@ -189,15 +201,15 @@
       "card": [
         "Main Event: Brandon Moreno (21-7-2) vs. Brandon Royval (15-7-0)",
         "Co-Main Event: Yair Rodriguez (18-4-0) vs. Brian Ortega (15-3-0)",
-        "Main Card: Edgar Cháirez (10-5-0) vs. Daniel Lacerda (11-5-0)",
         "Main Card: Yazmin Jauregui (10-1-0) vs. Sam Hughes (8-5-0)",
+        "Main Card: Manuel Torres (14-2-0) vs. Chris Duncan (11-1-0)",
         "Main Card: Raul Rosas Jr. (8-1-0) vs. Ricky Turcios (12-3-0)",
+        "Main Card: Daniel Zellhuber (14-1-0) vs. Francisco Prado (12-1-0)",
+        "Prelim: Edgar Cháirez (10-5-0) vs. Daniel Lacerda (11-5-0)",
         "Prelim: Victor Altamirano (12-3-0) vs. Felipe dos Santos (7-1-0)",
         "Prelim: Jesus Aguilar (9-2-0) vs. Mateus Mendonça (10-2-0)",
-        "Prelim: Manuel Torres (14-2-0) vs. Chris Duncan (11-1-0)",
         "Prelim: Luis Rodríguez (16-2-0) vs. Denys Bondar (19-4-0)",
         "Prelim: Muhammad Naimov (10-2-0) vs. Erik Silva (9-2-0)",
-        "Prelim: Daniel Zellhuber (14-1-0) vs. Francisco Prado (12-1-0)",
         "Prelim: Cristian Quiñonez (18-4-0) vs. Raoni Barcelos (17-5-0)",
         "Prelim: Claudio Puelles (12-3-0) vs. Fares Ziam (14-4-0)"
       ]
@@ -210,27 +222,31 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2024-03-02T17:00:00Z",
+      "title": "UFC Vegas 87",
+      "time": "2024-03-02T21:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 259416,
+        "time": "2024-03-02T21:00:00Z",
+        "title": "UFC FIGHT NIGHT"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Vegas 87: Prelims",
+      "time": "2024-03-02T18:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 259415,
+        "time": "2024-03-02T18:00:00Z",
+        "title": "UFC FIGHT NIGHT PRELIMS"
       }
     },
     "tapology": {
@@ -251,7 +267,10 @@
         "Prelim: Javid Basharat (14-0-0) vs. Aiemann Zahabi (10-2-0)",
         "Prelim: Mohammad Yahya (12-4-0) vs. Brendon Marotte (8-2-0)",
         "Prelim: Loik Radzhabov (17-5-1) vs. A. Al-Selwady (15-3-0)",
-        "Prelim: Julia Polastri (12-3-0) vs. Josefine Knutsson (7-0-0)"
+        "Prelim: Julia Polastri (12-3-0) vs. Josefine Knutsson (7-0-0)",
+        "Prelim: Vitor Petrino (10-0-0) vs. Tyson Pedro (10-4-0)",
+        "Prelim: Matt Schnell (16-7-0) vs. Steve Erceg (11-1-0)",
+        "Prelim: Christian Leroy Duncan (9-1-0) vs. Claudio Ribeiro (11-4-0)"
       ]
     }
   },
@@ -263,7 +282,7 @@
     ],
     "mainCard": {
       "title": "UFC 299: O'Malley vs. Vera 2",
-      "time": "2024-03-09T23:00:00Z",
+      "time": "2024-03-10T03:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
@@ -273,16 +292,28 @@
     },
     "prelims": {
       "title": "UFC 299: O'Malley vs. Vera 2: Prelims",
+      "time": "2024-03-10T01:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 259598,
+        "time": "2024-03-10T01:00:00Z",
+        "title": "UFC 299: PRELIMS"
       }
     },
     "earlyPrelims": {
       "title": "UFC 299: O'Malley vs. Vera 2: Early Prelims",
+      "time": "2024-03-09T23:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 259597,
+        "time": "2024-03-09T23:00:00Z",
+        "title": "UFC 299: FIGHT PASS PRELIMS"
       }
     },
     "tapology": {
@@ -298,13 +329,13 @@
         "Main Event: Sean O'Malley (17-1-0) vs. Marlon Vera (23-8-1)",
         "Co-Main Event: Dustin Poirier (29-8-0) vs. Benoit Saint-Denis (13-1-0)",
         "Main Card: Gilbert Burns (22-6-0) vs. Jack Della Maddalena (16-2-0)",
-        "Main Card: Curtis Blaydes (17-4-0) vs. Jailton Almeida (20-2-0)",
+        "Main Card: Petr Yan (16-5-0) vs. Yadong Song (21-7-1)",
         "Main Card: Kevin Holland (25-10-0) vs. Michael Page (21-2-0)",
         "Prelim: Pedro Munhoz (20-8-0) vs. Kyler Phillips (11-2-0)",
         "Prelim: CJ Vergara (12-4-1) vs. Asu Almabaev (18-2-0)",
         "Prelim: Katlyn Chookagian (18-5-0) vs. Maycee Barber (13-2-0)",
+        "Prelim: Curtis Blaydes (17-4-0) vs. Jailton Almeida (20-2-0)",
         "Prelim: Mateusz Gamrot (23-2-0) vs. Rafael dos Anjos (32-15-0)",
-        "Prelim: Petr Yan (16-5-0) vs. Yadong Song (21-7-1)",
         "Prelim: Michel Pereira (29-11-0) vs. Michał Oleksiejczuk (19-6-0)",
         "Prelim: Robelis Despaigne (4-0-0) vs. Josh Parisian (15-7-0)",
         "Prelim: Joanne Wood (16-8-0) vs. Maryna Moroz (11-5-0)"
@@ -318,27 +349,31 @@
       "MMA"
     ],
     "mainCard": {
-      "title": "UFC Fight Night",
-      "time": "2024-03-16T22:00:00Z",
+      "title": "UFC Vegas 88: Tuivasa vs. Tybura",
+      "time": "2024-03-16T23:00:00Z",
       "broadcasters": {
         "DAZN": {
         },
         "UFC_FIGHT_PASS": {
         }
+      },
+      "fightPass": {
+        "id": 259828,
+        "time": "2024-03-16T23:00:00Z",
+        "title": "UFC FIGHT NIGHT: TUIVASA VS TYBURA"
       }
     },
     "prelims": {
-      "title": "UFC Fight Night: Prelims",
+      "title": "UFC Vegas 88: Prelims",
+      "time": "2024-03-16T20:00:00Z",
       "broadcasters": {
         "UFC_FIGHT_PASS": {
         }
-      }
-    },
-    "earlyPrelims": {
-      "title": "UFC Fight Night: Early Prelims",
-      "broadcasters": {
-        "UFC_FIGHT_PASS": {
-        }
+      },
+      "fightPass": {
+        "id": 259827,
+        "time": "2024-03-16T20:00:00Z",
+        "title": "UFC FIGHT NIGHT: TUIVASA VS TYBURA PRELIMS"
       }
     },
     "tapology": {
@@ -353,16 +388,16 @@
       "card": [
         "Main Event: Tai Tuivasa (15-6-0) vs. Marcin Tybura (24-8-0)",
         "Co-Main Event: Kennedy Nzechukwu (12-4-0) vs. Ovince St. Preux (26-17-0)",
-        "Main Card: Christian Rodriguez (10-1-0) vs. Isaac Dulgarian (6-0-0)",
         "Main Card: Thiago Moisés (17-7-0) vs. Brad Riddell (10-4-0)",
         "Main Card: Mike Davis (10-2-0) vs. Natan Levy (8-1-0)",
+        "Main Card: Pannie Kianzad (16-7-0) vs. Macy Chiasson (8-3-0)",
         "Main Card: Josh Culibao (11-2-1) vs. Danny Silva (8-1-0)",
         "Prelim: Ode Osbourne (12-6-0) vs. Jafel Filho (15-3-0)",
+        "Prelim: Christian Rodriguez (10-1-0) vs. Isaac Dulgarian (6-0-0)",
         "Prelim: Bryan Battle (10-2-0) vs. Ange Loosa (10-3-0)",
         "Prelim: Cory McKenna (8-2-0) vs. Jaqueline Amorim (7-1-0)",
         "Prelim: Chad Anheliger (12-7-0) vs. Charalampos Grigoriou (8-3-0)",
         "Prelim: Gerald Meerschaert (35-17-0) vs. Bryan Barberena (18-11-0)",
-        "Prelim: Pannie Kianzad (16-7-0) vs. Macy Chiasson (8-3-0)",
         "Prelim: Josiane Nunes (10-1-0) vs. Chelsea Chandler (5-2-0)"
       ]
     }
@@ -410,13 +445,16 @@
         "Main Event: Amanda Ribas (12-4-0) vs. Rose Namajunas (11-6-0)",
         "Main Card: Ricardo Ramos (16-5-0) vs. Julian Erosa (28-11-0)",
         "Main Card: Davey Grant (13-7-0) vs. Cody Gibson (19-9-0)",
+        "Main Card: Edmen Shahbazyan (12-4-0) vs. Duško Todorović (12-4-0)",
         "Prelim: Montserrat Rendon (6-0-0) vs. Darya Zheleznyakova (8-1-0)",
         "Prelim: Stephanie Luciano (5-1-1) vs. Shauna Bannon (5-1-0)",
         "Prelim: Luis Pajuelo (8-1-0) vs. Fernando Padilla (15-5-0)",
         "Prelim: Steven Nguyen (9-1-0) vs. Jarno Errens (13-5-1)",
         "Prelim: Trey Ogden (16-6-0) vs. Kurt Holobaugh (20-7-0)",
-        "Prelim: Mohammed Usman (10-2-0) vs. Chris Barnett (23-8-0)",
-        "Prelim: Billy Quarantillo (18-5-0) vs. Gabriel Miranda (17-6-0)"
+        "Prelim: Billy Quarantillo (18-5-0) vs. Gabriel Miranda (17-6-0)",
+        "Prelim: Mohammed Usman (10-2-0) vs. Mick Parkin (8-0-0)",
+        "Prelim: Junior Tafa (5-1-0) vs. Karl Williams (9-1-0)",
+        "Prelim: Payton Talbott (7-0-0) vs. Cameron Saaiman (9-1-0)"
       ]
     }
   },
@@ -453,14 +491,13 @@
     "tapology": {
       "id": 107896,
       "time": "2024-03-30T22:00:00Z",
-      "title": "UFC Fight Night: Brady vs. Luque",
+      "title": "UFC Fight Night",
       "info": "Confirmed Upcoming MMA Event",
       "url": "https://www.tapology.com/fightcenter/events/107896-ufc-fight-night",
       "sports": [
         "MMA"
       ],
       "card": [
-        "Main Event: Sean Brady (16-1-0) vs. Vicente Luque (22-9-1)",
         "Co-Main Event: Erin Blanchfield (12-1-0) vs. Manon Fiorot (11-1-0)",
         "Main Card: Virna Jandiroba (19-3-0) vs. Lupita Godinez (12-3-0)",
         "Main Card: Andre Petroski (10-2-0) vs. Jacob Malkoun (7-3-0)",
@@ -471,7 +508,9 @@
         "Prelim: Angel Pacheco (7-2-0) vs. Caolán Loughran (8-1-0)",
         "Prelim: Julio Arce (18-6-0) vs. Herbert Burns (11-4-0)",
         "Prelim: Nursulton Ruziboev (35-8-2) vs. Sedriques Dumas (9-1-0)",
-        "Prelim: Ibo Aslan (12-1-0) vs. Anton Turkalj (8-3-0)"
+        "Prelim: Ibo Aslan (12-1-0) vs. Anton Turkalj (8-3-0)",
+        "Prelim: Melissa Gatto (8-2-2) vs. Victoria Dudakova (8-0-0)",
+        "Prelim: Bill Algeo (18-7-0) vs. Kyle Nelson (15-5-1)"
       ]
     }
   },
@@ -524,7 +563,9 @@
         "Prelim: Seung Woo Choi (11-6-0) vs. Morgan Charriere (19-9-1)",
         "Prelim: César Almeida (4-0-0) vs. Josh Fremd (11-5-0)",
         "Prelim: Cynthia Calvillo (9-6-1) vs. Piera Rodriguez (9-1-0)",
-        "Prelim: Alatengheili (16-9-2) vs. Victor Hugo (24-4-0)"
+        "Prelim: Alatengheili (16-9-2) vs. Victor Hugo (24-4-0)",
+        "Prelim: Trevor Peek (9-1-0) vs. Charlie Campbell (8-2-0)",
+        "Prelim: Jose Johnson (16-8-0) vs. Lucas Rocha (17-1-0)"
       ]
     }
   },
@@ -568,7 +609,6 @@
         "MMA"
       ],
       "card": [
-        "Main Event: Leon Edwards (22-3-0) vs. Belal Muhammad (23-3-0)",
         "Co-Main Event: Justin Gaethje (25-4-0) vs. Max Holloway (25-7-0)",
         "Main Card: Jiří Procházka (29-4-1) vs. Aleksandar Rakić (14-3-0)",
         "Main Card: Charles Oliveira (34-9-0) vs. Arman Tsarukyan (21-3-0)",
@@ -625,7 +665,8 @@
       "card": [
         "Main Card: Karine Silva (17-4-0) vs. Ariane Lipski (17-8-0)",
         "Prelim: James Llontop (14-2-0) vs. Lando Vannata (12-7-2)",
-        "Prelim: Maheshate Hayisaer (9-3-0) vs. Anshul Jubli (7-1-0)"
+        "Prelim: Maheshate Hayisaer (9-3-0) vs. Anshul Jubli (7-1-0)",
+        "Prelim: Jhonata Diniz (6-0-0) vs. Austen Lane (12-4-0)"
       ]
     }
   },
@@ -670,7 +711,9 @@
       ],
       "card": [
         "Main Card: Paul Craig (17-7-1) vs. Caio Borralho (15-1-0)",
-        "Prelim: Joaquim Silva (13-4-0) vs. Drakkar Klose (14-2-1)"
+        "Prelim: Joaquim Silva (13-4-0) vs. Drakkar Klose (14-2-1)",
+        "Prelim: Alessandro Costa (13-4-0) vs. Kevin Borjas (9-2-0)",
+        "Prelim: Dione Barbosa (6-2-0) vs. Ernesta Kareckaite (5-0-1)"
       ]
     }
   },
@@ -746,15 +789,9 @@
     "tapology": {
       "id": 109011,
       "time": "2024-06-29T22:00:00Z",
-      "title": "UFC 302: McGregor vs. Chandler",
-      "info": "Confirmed Upcoming MMA Event",
-      "url": "https://www.tapology.com/fightcenter/events/109011-ufc",
-      "sports": [
-        "MMA"
-      ],
-      "card": [
-        "Main Event: Conor McGregor (22-6-0) vs. Michael Chandler (23-8-0)"
-      ]
+      "title": "UFC 302",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/109011-ufc"
     }
   }
 ]

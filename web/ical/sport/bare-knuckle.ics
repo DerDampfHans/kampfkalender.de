@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240204T230304Z
-X-KAMPFKALENDER-HASH:f5b7b5bae261248b34a382c501cabca8f2e231ec
+DTSTAMP:20240209T044516Z
+X-KAMPFKALENDER-HASH:81cf11c043023af6f9ba7565da562fc8dc9ab877
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-02-bkfc-57-palomino-vs-trout@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 57: Palomino vs. Trout
@@ -28,7 +28,7 @@ DESCRIPTION:via fite.tv: https://www.fite.tv/watch/bkfc-57/2pe7b/\n\n---\
  . Landon Williams
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-02-bkfc-prospect-series-manassas@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC Prospect Series: Manassas
@@ -41,10 +41,12 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  nCamp\nMain Card: Joe Ray vs. Kevin Brooks\nMain Card: Shawn Brooks vs. 
  JorDan Christensen\nMain Card: Josh Armstrong vs. Cary Caprio\nMain Card
  : Dustin Garrett vs. Nathan Rivera\nMain Card: Crystal Van Wyk vs. Cryst
- al Lawson
+ al Lawson\nMain Card: Zachary Calmus vs. Joshua Freeman\nMain Card: Alan
+  Stephenson vs. Mashkhal Ibrahim\nMain Card: Bovar Khanakov vs. James Br
+ own
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-bkfc-58-markulev-vs-kolev@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 58: Markulev vs. Kolev
@@ -56,7 +58,7 @@ DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  v vs. Kaloyan Kolev
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T230305Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-bkfc-59-dodson-vs-aguero@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:BKFC 59: Dodson vs. Aguero
@@ -64,7 +66,32 @@ DTSTART:20240325T010000Z
 DTEND:20240325T040000Z
 CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
 DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
- ents/110074-bkfc-59-dodson-vs-aguero\n\n---\n\nMain Event: John Dodson v
- s. Dagoberto Aguero
+ ents/110074-bkfc-59-dodson-vs-aguero\nhttps://events.mixedmartialarts.co
+ m/bkfc-59:8adba31a-51b4-4dad-8552-78aa0f7d29bb\n\n---\n\nMain Event: Joh
+ n Dodson vs. Dagoberto Aguero
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
+UID:2024-04-bkfc-60-lilley-vs-tenaglia@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC 60: Lilley vs. Tenaglia
+DTSTART:20240406T160000Z
+DTEND:20240406T190000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/110217-bkfc-60-lilley-vs-tenaglia\n\n---\n\nMain Event: James Lille
+ y vs. Franco Tenaglia\nCo-Main Event: Danny Christie vs. David Round\nMa
+ in Card: Gary Fox vs. John Hick
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
+UID:2024-04-bkfc-knuckle-mania-4@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:BKFC: Knuckle Mania 4
+DTSTART:20240428T000000Z
+DTEND:20240428T030000Z
+CATEGORIES:BKFC,Bare Knuckle,fite.tv,live
+DESCRIPTION:via fite.tv\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
+ ents/110218-bkfc-knuckle-mania-4
 END:VEVENT
 END:VCALENDAR

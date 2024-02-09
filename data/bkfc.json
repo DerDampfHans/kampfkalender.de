@@ -34,7 +34,10 @@
         "Main Card: Shawn Brooks vs. JorDan Christensen",
         "Main Card: Josh Armstrong vs. Cary Caprio",
         "Main Card: Dustin Garrett vs. Nathan Rivera",
-        "Main Card: Crystal Van Wyk vs. Crystal Lawson"
+        "Main Card: Crystal Van Wyk vs. Crystal Lawson",
+        "Main Card: Zachary Calmus vs. Joshua Freeman",
+        "Main Card: Alan Stephenson vs. Mashkhal Ibrahim",
+        "Main Card: Bovar Khanakov vs. James Brown"
       ]
     }
   },
@@ -67,7 +70,8 @@
         "Main Card: Hasan Alghanim vs. Dalton Shtybel",
         "Main Card: Chad Lucanas vs. Trai Santos",
         "Main Card: Sonny Smith vs. Dustin Thompson",
-        "Main Card: Stan Surmacz vs. Don Wonch"
+        "Main Card: Stan Surmacz vs. Don Wonch",
+        "Main Card: Jake Craig vs. Marcello Solinas"
       ]
     }
   },
@@ -134,7 +138,75 @@
       "url": "https://www.tapology.com/fightcenter/events/110074-bkfc-59-dodson-vs-aguero",
       "card": [
         "Main Event: John Dodson vs. Dagoberto Aguero"
+      ],
+      "links": [
+        "https://events.mixedmartialarts.com/bkfc-59:8adba31a-51b4-4dad-8552-78aa0f7d29bb"
       ]
+    }
+  },
+  {
+    "id": "tapology-110217",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "title": "BKFC 60: Lilley vs. Tenaglia",
+      "time": "2024-04-06T16:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC 60: Lilley vs. Tenaglia: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 110217,
+      "time": "2024-04-06T16:00:00Z",
+      "title": "BKFC 60: Lilley vs. Tenaglia",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/110217-bkfc-60-lilley-vs-tenaglia",
+      "card": [
+        "Main Event: James Lilley vs. Franco Tenaglia",
+        "Co-Main Event: Danny Christie vs. David Round",
+        "Main Card: Gary Fox vs. John Hick"
+      ]
+    }
+  },
+  {
+    "id": "tapology-110218",
+    "promotion": "BKFC",
+    "sports": [
+      "BARE_KNUCKLE"
+    ],
+    "mainCard": {
+      "title": "BKFC: Knuckle Mania 4",
+      "time": "2024-04-28T00:00:00Z",
+      "broadcasters": {
+        "FITE_TV": {
+        }
+      }
+    },
+    "prelims": {
+      "title": "BKFC: Knuckle Mania 4: Prelims",
+      "broadcasters": {
+        "FITE_TV": {
+          "free": true
+        }
+      }
+    },
+    "tapology": {
+      "id": 110218,
+      "time": "2024-04-28T00:00:00Z",
+      "title": "BKFC: Knuckle Mania 4",
+      "info": "Confirmed Upcoming Event",
+      "url": "https://www.tapology.com/fightcenter/events/110218-bkfc-knuckle-mania-4"
     }
   }
 ]

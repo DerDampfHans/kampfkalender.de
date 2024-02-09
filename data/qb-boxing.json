@@ -26,10 +26,12 @@
         "Main Card: Anthony Yarde (24-3-0) vs. Marko Nikolic (32-3-0)",
         "Main Card: Tommy Fletcher (6-0-0) vs. Alvaro Terrero (5-19-2)",
         "Main Card: Khalid Ali (7-0-0) vs. John Henry Mosquera (5-8-0)",
+        "Main Card: Karol Itauma (11-1-0) vs. Eros Seghetti (10-0-1)",
         "Prelim: Umar Khan (8-0-0) vs. Maicol Velasco (10-11-0)",
-        "Prelim: Charlie Hickford (1-0-0) vs. Yin Caicedo (8-13-4)",
+        "Prelim: Charlie Hickford (1-0-0) vs. Yin Caicedo (8-14-4)",
         "Prelim: Billy Adams (1-0-0) vs. Engel Gomez (8-23-2)",
-        "Prelim: Sam King (1-0-0) vs. Bartosz Glowacki (7-13-1)"
+        "Prelim: Sam King (1-0-0) vs. Bartosz Glowacki (7-13-1)",
+        "Prelim: Aloys Junior (5-1-0) vs. Milosav Savić (9-6-1)"
       ],
       "links": [
         "https://www.boxrec.com/en/event/886775"
@@ -43,30 +45,16 @@
       "BOXING"
     ],
     "mainCard": {
+      "hidden": true,
       "title": "Fury vs. Usyk",
       "time": "2024-02-17T18:00:00Z"
     },
     "tapology": {
       "id": 107329,
       "time": "2024-02-17T18:00:00Z",
-      "title": "Fury vs. Usyk: Ring of Fire",
-      "info": "Confirmed Upcoming Boxing Event",
-      "url": "https://www.tapology.com/fightcenter/events/107329-fury-vs-usyk",
-      "sports": [
-        "BOXING"
-      ],
-      "card": [
-        "Main Event: Tyson Fury (34-0-1) vs. Oleksandr Usyk (21-0-0)",
-        "Co-Main Event: Jai Opetaia (24-0-0) vs. Mairis Briedis (28-2-0)",
-        "Main Card: Joe Cordina (17-0-0) vs. Anthony Cacace (21-1-0)",
-        "Main Card: Sergey Kovalev (35-4-1) vs. Robin Safar (16-0-0)",
-        "Main Card: Bakhodir Jalolov (14-0-0) vs. Dilan Prasovic (16-3-0)",
-        "Prelim: Isaac Lowe (24-2-3) vs. Hasibullah Ahmadi (16-1-0)",
-        "Prelim: Moses Itauma (7-0-0) vs. Ilja Mezencev (24-3-0)"
-      ],
-      "links": [
-        "https://www.boxrec.com/en/event/888990"
-      ]
+      "title": "Fury vs. Usyk (Postponed): Ring of Fire",
+      "info": "Cancelled Event",
+      "url": "https://www.tapology.com/fightcenter/events/107329-fury-vs-usyk"
     }
   },
   {
@@ -92,7 +80,7 @@
       "card": [
         "Main Event: Nathan Heaney (18-0-0) vs. Brad Pauls (18-1-0)",
         "Main Card: Joe Joyce (15-2-0) vs. Kash Ali (21-2-0)",
-        "Main Card: Liam Davies (15-0-0) vs. Erik Robles (14-1-0)",
+        "Main Card: Liam Davies (15-0-0) vs. Erik Robles (15-1-0)",
         "Main Card: Solomon Dacres (8-0-0) vs. David Adeleye (12-1-0)",
         "Main Card: Dennis McCann (14-0-1) vs. Brad Strand (11-0-0)",
         "Main Card: Zach Parker (23-1-0) vs. Tyron Zeuge (27-1-1)",
@@ -127,6 +115,63 @@
         "Main Event: Chris Bourke (13-1-0) vs. Ashley Lane (17-10-2)",
         "Main Card: Willy Hutchinson (16-1-0) vs. Martin Houben (17-2-0)",
         "Main Card: Raven Chapman (8-0-0) vs. Yohana Sarabia (9-0-0)"
+      ]
+    }
+  },
+  {
+    "id": "tapology-110239",
+    "promotion": "QB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "title": "Fury vs. Usyk",
+      "time": "2024-05-18T17:00:00Z"
+    },
+    "tapology": {
+      "id": 110239,
+      "time": "2024-05-18T17:00:00Z",
+      "title": "Fury vs. Usyk",
+      "info": "Confirmed Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/110239-fury-vs-usyk",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Event: Tyson Fury (34-0-1) vs. Oleksandr Usyk (21-0-0)",
+        "Main Card: Jai Opetaia (24-0-0) vs. Mairis Briedis (28-2-0)",
+        "Main Card: Joe Cordina (17-0-0) vs. Anthony Cacace (21-1-0)",
+        "Main Card: Sergey Kovalev (35-4-1) vs. Robin Safar (16-0-0)",
+        "Main Card: Moses Itauma (7-0-0) vs. Ilja Mezencev (24-3-0)",
+        "Main Card: Isaac Lowe (24-2-3) vs. Hasibullah Ahmadi (16-1-0)"
+      ],
+      "links": [
+        "https://www.boxrec.com/en/event/888990"
+      ]
+    }
+  },
+  {
+    "id": "tapology-110238",
+    "promotion": "QB_BOXING",
+    "sports": [
+      "BOXING"
+    ],
+    "mainCard": {
+      "hidden": true,
+      "title": "Beterbiev is. Bivol",
+      "time": "2024-06-01T18:00:00Z"
+    },
+    "tapology": {
+      "id": 110238,
+      "time": "2024-06-01T18:00:00Z",
+      "title": "Beterbiev is. Bivol",
+      "info": "Rumored Upcoming Boxing Event",
+      "url": "https://www.tapology.com/fightcenter/events/110238-beterbiev-is-bivol",
+      "sports": [
+        "BOXING"
+      ],
+      "card": [
+        "Main Card: Artur Beterbiev (20-0-0) vs. Dmitry Bivol (22-0-0)"
       ]
     }
   }

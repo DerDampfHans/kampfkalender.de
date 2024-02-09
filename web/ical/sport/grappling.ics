@@ -4,10 +4,10 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 CLASS:PUBLIC
-DTSTAMP:20240127T122226Z
-X-KAMPFKALENDER-HASH:5ee99d5eb71d9f47943a5403b91e49f883b98099
+DTSTAMP:20240209T044516Z
+X-KAMPFKALENDER-HASH:12c41c5d5d35457cd364690875ca9b2eea95fb7a
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-one-166-de-ridder-2-vs-malykhin-2@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:ONE 166: De Ridder 2 vs. Malykhin 2
@@ -21,10 +21,10 @@ DESCRIPTION:via YouTube\n\n---\n\nhttps://www.tapology.com/fightcenter/ev
  2-0) vs. Amir Aliakbari (13-3-0)\nMain Card: Osamah Almarwai vs. Cleber 
  Sousa\nMain Card: Kai Tang (18-2-0) vs. Thanh Le (14-3-0)\nMain Card: St
  amp Fairtex (11-2-0) vs. Denice Zamboanga (10-2-0)\nMain Card: Tye Ruoto
- lo vs. Izaak Michell
+ lo vs. Izaak Michell\nMain Card: Zuhayr Al-Qahtani vs. Mehdi Zatout
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240209T044517Z
 UID:2024-03-submission-hunter-pro-89@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Submission Hunter Pro 89
@@ -35,7 +35,17 @@ DESCRIPTION:via UFC Fight Pass\n\n---\n\nhttps://www.tapology.com/fightce
  nter/events/109478-submission-hunter-pro-89
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240127T122227Z
+DTSTAMP:20240209T044517Z
+UID:2024-03-ufc-fight-pass-invitational-6@kampfkalender.de
+ORGANIZER:mailto:info@kampfkalender.de
+SUMMARY:UFC Fight Pass Invitational 6
+DTSTART:20240304T010000Z
+DTEND:20240304T040000Z
+CATEGORIES:Other,Grappling,UFC Fight Pass,live
+DESCRIPTION:via UFC Fight Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240209T044517Z
 UID:2024-03-polaris-welterweight-grand-prix@kampfkalender.de
 ORGANIZER:mailto:info@kampfkalender.de
 SUMMARY:Polaris: Welterweight Grand Prix
